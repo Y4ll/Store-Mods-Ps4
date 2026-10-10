@@ -1,8 +1,8 @@
 [
   {
     "name": "Prueba McStore",
-    "summary": "Pack vacio de ejemplo para comprobar que la descarga funciona",
-    "url": "addons/prueba_mcstore.mcpack",
+    "summary": "Pack de prueba vacio para comprobar que la descarga funciona",
+    "url": "prueba_mcstore.mcpack",
     "size": 3665
   }
 ]
