@@ -1,0 +1,27 @@
+name: Build PKG
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    env:
+      GH_TOKEN: ${{ github.token }}
+      OO_PS4_TOOLCHAIN: ${{ github.workspace }}/oo
+      DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y clang lld libicu-dev libssl-dev unzip
+      - run: unzip -q mcstore.zip
+      - name: Toolchain
+        run: |
+          mkdir -p dl oo
+          gh release download --repo OpenOrbis/OpenOrbis-PS4-Toolchain --pattern '*.tar.gz' --dir dl
+          tar -xzf dl/*.tar.gz -C oo
+          if [ ! -f oo/link.x ]; then cp -a "$(dirname "$(find oo -name link.x | head -1)")"/. oo/; fi
+          chmod +x oo/bin/linux/* || true
+      - run: make -C mcstore/app
+      - uses: actions/upload-artifact@v4
+        with:
+          name: McStore-PKG
+          path: mcstore/app/*.pkg
