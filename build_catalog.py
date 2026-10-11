@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
-"""Genera el catalogo de addons Bedrock de CurseForge para subir a GitHub.
+"""Genera catalog.json (solo .mcpack de Minecraft Bedrock en CurseForge)
+con el mismo formato que usa la app McStore:
+
+[ {"name": ..., "summary": ..., "url": ..., "size": ...}, ... ]
 
 Uso:
     export CF_API_KEY='tu_clave'
-    python3 build_catalog.py            # hasta 2000 addons
-    python3 build_catalog.py 5000       # o el maximo que quieras (tope 10000)
-
-Crea la carpeta 'catalog/' con:
-    index.json        -> total y lista de paginas
-    page_0.json ...   -> 100 addons por pagina
-Sube esa carpeta a GitHub y publicala con GitHub Pages.
+    python3 build_catalog.py          # revisa hasta 1000 addons
+    python3 build_catalog.py 5000     # o el maximo que quieras (tope 10000)
 """
 import json
 import os
@@ -23,8 +21,7 @@ API = "https://api.curseforge.com/v1"
 GAME_ID = 78022  # Minecraft Bedrock
 KEY = os.environ.get("CF_API_KEY", "")
 FETCH_SIZE = 50
-PAGE_SIZE = 100
-OUT = "catalog"
+OUT = "catalog.json"
 GOOD_EXT = (".mcpack",)  # solo mcpack por ahora
 
 
@@ -50,19 +47,17 @@ def forge_url(f):
 
 
 def pick_file(mod):
-    files = mod.get("latestFiles") or []
-    # solo archivos cuyo autor permite distribucion de terceros
-    files = [f for f in files if f.get("fileName")]
     if mod.get("allowModDistribution") is False:
         return None
+    files = [f for f in (mod.get("latestFiles") or []) if f.get("fileName")]
     good = [f for f in files if f["fileName"].lower().endswith(GOOD_EXT)]
     return good[-1] if good else None
 
 
 def main():
     if not KEY:
-        raise SystemExit("Falta CF_API_KEY. Usa: export CF_API_KEY='tu_clave'")
-    limit = min(int(sys.argv[1]) if len(sys.argv) > 1 else 2000, 10000)
+        raise SystemExit("Falta CF_API_KEY.")
+    limit = min(int(sys.argv[1]) if len(sys.argv) > 1 else 1000, 10000)
     items = []
     index = 0
     while index < limit:
@@ -78,34 +73,25 @@ def main():
             f = pick_file(m)
             if not f:
                 continue
+            summary = (m.get("summary") or "").replace("\n", " ").strip()
             items.append({
-                "id": m["id"],
                 "name": m["name"],
-                "summary": m.get("summary", ""),
-                "author": (m.get("authors") or [{}])[0].get("name", ""),
-                "downloads": m.get("downloadCount", 0),
-                "thumb": (m.get("logo") or {}).get("thumbnailUrl", ""),
-                "fileName": f["fileName"],
-                "size": f.get("fileLength", 0),
+                "summary": summary[:200],
                 "url": forge_url(f),
+                "size": f.get("fileLength", 0),
             })
         index += len(mods)
         total = data.get("pagination", {}).get("totalCount", 0)
-        print("Revisados %d  |  guardados %d  |  total en CF %d" % (index, len(items), total))
+        print("Revisados %d | mcpack guardados %d | total en CF %d" % (index, len(items), total))
         if total and index >= total:
             break
         time.sleep(0.5)
 
-    os.makedirs(OUT, exist_ok=True)
-    pages = 0
-    for i in range(0, len(items), PAGE_SIZE):
-        with open(os.path.join(OUT, "page_%d.json" % pages), "w") as fh:
-            json.dump(items[i:i + PAGE_SIZE], fh, ensure_ascii=False)
-        pages += 1
-    with open(os.path.join(OUT, "index.json"), "w") as fh:
-        json.dump({"total": len(items), "pageSize": PAGE_SIZE, "pages": pages,
-                   "updated": time.strftime("%Y-%m-%d")}, fh)
-    print("Listo: %d addons en %d paginas dentro de '%s/'" % (len(items), pages, OUT))
+    if not items:
+        raise SystemExit("No se encontro ningun .mcpack; no se modifica %s" % OUT)
+    with open(OUT, "w", encoding="utf-8") as fh:
+        json.dump(items, fh, ensure_ascii=False, indent=1)
+    print("Listo: %d addons en %s" % (len(items), OUT))
 
 
 if __name__ == "__main__":
