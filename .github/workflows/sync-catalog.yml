@@ -1,0 +1,39 @@
+name: Sync catalogo
+
+# Baja el catalogo de Minecraft Bedrock de CurseForge y lo publica en la rama "catalog-data".
+# Necesita el secreto CF_API_KEY (clave gratis de https://console.curseforge.com).
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * 1"   # cada lunes
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Buscar cf_sync.py (suelto o dentro de mcstore.zip)
+        run: |
+          if [ ! -f tools/cf_sync.py ] && [ -f mcstore.zip ]; then unzip -q -o mcstore.zip -d zipsrc; fi
+          SCRIPT=$(find . -name cf_sync.py | head -1)
+          test -n "$SCRIPT" || { echo "No encuentro cf_sync.py: sube mcstore.zip a la raiz del repo"; exit 1; }
+          echo "SCRIPT=$SCRIPT" >> "$GITHUB_ENV"
+
+      - name: Bajar catalogo de CurseForge
+        env:
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+        run: python3 "$SCRIPT" --out site/catalog
+
+      - name: Publicar en la rama catalog-data
+        run: |
+          cd site
+          git init -q -b catalog-data
+          git config user.name "mcstore-sync"
+          git config user.email "mcstore-sync@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Catalogo $(date -u +%F)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" catalog-data
