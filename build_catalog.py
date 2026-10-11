@@ -2,7 +2,7 @@
 """Genera catalog.json (solo .mcpack de Minecraft Bedrock en CurseForge)
 con el mismo formato que usa la app McStore:
 
-[ {"name": ..., "summary": ..., "url": ..., "size": ...}, ... ]
+[ {"name": ..., "summary": ..., "file": ..., "url": ..., "size": ...}, ... ]
 
 Uso:
     export CF_API_KEY='tu_clave'
@@ -11,6 +11,7 @@ Uso:
 """
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -46,6 +47,15 @@ def forge_url(f):
         fid // 1000, fid % 1000, urllib.parse.quote(f["fileName"]))
 
 
+def unique_name(mod_id, file_name):
+    """Nombre de archivo unico (id del mod + nombre) para que dos addons distintos
+    con el mismo nombre de archivo no se pisen al descargar ni se confundan al comparar."""
+    base, ext = os.path.splitext(file_name)
+    base = re.sub(r"[^A-Za-z0-9._ -]", "_", base)
+    name = "%d_%s" % (mod_id, base)
+    return name[:88 - len(ext)] + ext
+
+
 def pick_file(mod):
     if mod.get("allowModDistribution") is False:
         return None
@@ -77,6 +87,7 @@ def main():
             items.append({
                 "name": m["name"],
                 "summary": summary[:200],
+                "file": unique_name(m["id"], f["fileName"]),
                 "url": forge_url(f),
                 "size": f.get("fileLength", 0),
             })
