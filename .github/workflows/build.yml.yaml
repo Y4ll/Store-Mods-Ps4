@@ -1,0 +1,93 @@
+name: Build PKG
+
+# Se ejecuta al subir codigo a main (NO cuando solo subes add-ons, catalog.json o el PKG ya hecho).
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+    paths-ignore:
+      - "McStore.pkg"
+      - "app_update.json"
+      - "catalog.json"
+      - "addons/**"
+      - "**.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    env:
+      GH_TOKEN: ${{ github.token }}
+      OO_PS4_TOOLCHAIN: ${{ github.workspace }}/oo-toolchain
+      DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: "1"
+      # Version automatica: 1.<numero de build>. La app la compara con app_update.json (L3).
+      APP_VER: 1.${{ github.run_number }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Preparar fuentes (con o sin mcstore.zip)
+        run: |
+          # Si subiste el zip entero, se abre; si subiste las carpetas sueltas, se usan tal cual.
+          if [ -f mcstore.zip ]; then unzip -q -o mcstore.zip; fi
+          mk=$(find . -name fixgp4.py -not -path './oo-toolchain/*' | head -1)
+          if [ -z "$mk" ]; then
+            echo "::error::No encuentro la carpeta app/ (falta app/fixgp4.py). Sube la carpeta 'app' completa o mcstore.zip."
+            find . -maxdepth 2 -not -path './.git*' | head -50
+            exit 1
+          fi
+          echo "APP_DIR=$(dirname "$mk")" >> "$GITHUB_ENV"
+          echo "Carpeta de la app: $(dirname "$mk")"
+          ls "$(dirname "$mk")" "$(dirname "$mk")/src"
+
+      - name: Instalar compilador y dependencias
+        run: sudo apt-get update && sudo apt-get install -y clang lld libicu-dev libssl-dev
+
+      - name: Descargar OpenOrbis PS4 Toolchain (ultimo release)
+        run: |
+          mkdir -p dl "$OO_PS4_TOOLCHAIN"
+          gh release download --repo OpenOrbis/OpenOrbis-PS4-Toolchain --pattern '*.tar.gz' --dir dl
+          tar -xzf dl/*.tar.gz -C "$OO_PS4_TOOLCHAIN"
+          # si el tar trae una carpeta raiz, subir su contenido un nivel
+          if [ ! -f "$OO_PS4_TOOLCHAIN/link.x" ]; then
+            inner=$(dirname "$(find "$OO_PS4_TOOLCHAIN" -name link.x | head -1)")
+            cp -a "$inner"/. "$OO_PS4_TOOLCHAIN"/
+          fi
+          chmod +x "$OO_PS4_TOOLCHAIN"/bin/linux/* || true
+          ls "$OO_PS4_TOOLCHAIN"
+
+      - name: Compilar PKG
+        run: make -C "$APP_DIR" VERSION="$APP_VER"
+
+      - name: Subir PKG como artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: McStore-PKG
+          path: ${{ env.APP_DIR }}/*.pkg
+
+      - name: Publicar PKG y app_update.json en el repo (para actualizar desde la app con L3)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          pkg=$(ls "$APP_DIR"/*.pkg | head -1)
+          size=$(stat -c %s "$pkg")
+          if [ "$size" -gt 95000000 ]; then echo "::warning::El PKG pesa mas de 95 MB: GitHub no lo aceptara en el repo."; exit 0; fi
+          cp "$pkg" McStore.pkg
+          python3 - <<'PY'
+          import json, os, subprocess
+          msg = subprocess.run(["git", "log", "-1", "--pretty=%s"], capture_output=True, text=True).stdout.strip()
+          msg = "".join(c for c in msg if 32 <= ord(c) < 127)[:140] or "Nueva version"
+          json.dump([{"name": os.environ["APP_VER"], "summary": msg, "url": "McStore.pkg",
+                      "size": os.path.getsize("McStore.pkg")}], open("app_update.json", "w"))
+          PY
+          git config user.name "McStore build"
+          git config user.email "actions@users.noreply.github.com"
+          git add McStore.pkg app_update.json
+          git commit -m "PKG $APP_VER (automatico)" || exit 0
+          git pull --rebase origin main || true
+          git push origin HEAD:main
+
+      - name: Publicar en Releases (solo con tag v*)
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: gh release create "${{ github.ref_name }}" "$APP_DIR"/*.pkg --title "McStore ${{ github.ref_name }}" --notes "PKG para PS4 (OpenOrbis)"
