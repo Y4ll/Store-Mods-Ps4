@@ -2,7 +2,9 @@
 """Genera catalog.json (solo .mcpack de Minecraft Bedrock en CurseForge)
 con el mismo formato que usa la app McStore:
 
-[ {"name": ..., "summary": ..., "file": ..., "url": ..., "size": ...}, ... ]
+[ {"name": ..., "summary": ..., "file": ..., "url": ..., "size": ...,
+   "ver": "1.21.50", "vers": "1.21.50,1.21.40", "cls": "tex"}, ... ]
+  ver/vers = versiones de Minecraft del archivo (la mas nueva / todas); cls = tipo (tex, add, map, skin...).
 
 Uso:
     export CF_API_KEY='tu_clave'
@@ -18,7 +20,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-API = "https://api.curseforge.com/v1"
+API = os.environ.get("CF_API_BASE", "https://api.curseforge.com") + "/v1"
 GAME_ID = 78022  # Minecraft Bedrock
 KEY = os.environ.get("CF_API_KEY", "")
 FETCH_SIZE = 50
@@ -56,6 +58,32 @@ def unique_name(mod_id, file_name):
     return name[:88 - len(ext)] + ext
 
 
+def versions_of(f):
+    """Versiones de Minecraft (x.y o x.y.z) del archivo, de la mas nueva a la mas vieja."""
+    found = set()
+    names = list(f.get("gameVersions") or [])
+    for sv in f.get("sortableGameVersions") or []:
+        names.append(sv.get("gameVersionName") or "")
+    for n in names:
+        if re.fullmatch(r"\d+\.\d+(\.\d+)*", str(n).strip()):
+            found.add(str(n).strip())
+    return sorted(found, key=lambda v: [int(x) for x in v.split(".")], reverse=True)
+
+
+def class_code(name):
+    """Nombre de la clase de CurseForge -> codigo corto que entiende la app."""
+    n = (name or "").lower()
+    if "textur" in n or "resource" in n:
+        return "tex"
+    if "addon" in n or "add-on" in n or "behavior" in n:
+        return "add"
+    if "map" in n or "world" in n:
+        return "map"
+    if "skin" in n:
+        return "skin"
+    return re.sub(r"[^a-z]", "", n)[:7]
+
+
 def pick_file(mod):
     if mod.get("allowModDistribution") is False:
         return None
@@ -68,6 +96,13 @@ def main():
     if not KEY:
         raise SystemExit("Falta CF_API_KEY.")
     limit = min(int(sys.argv[1]) if len(sys.argv) > 1 else 1000, 10000)
+    classes = {}
+    try:
+        for c in cf("/categories", {"gameId": GAME_ID, "classesOnly": "true"}).get("data", []):
+            classes[c["id"]] = c.get("name", "")
+        print("Clases:", ", ".join("%s=%s" % (k, v) for k, v in classes.items()))
+    except SystemExit:
+        print("No se pudieron leer las clases: el filtro de tipo usara el nombre del pack.")
     items = []
     index = 0
     while index < limit:
@@ -84,12 +119,16 @@ def main():
             if not f:
                 continue
             summary = (m.get("summary") or "").replace("\n", " ").strip()
+            vs = versions_of(f)
             items.append({
                 "name": m["name"],
                 "summary": summary[:200],
                 "file": unique_name(m["id"], f["fileName"]),
                 "url": forge_url(f),
                 "size": f.get("fileLength", 0),
+                "ver": vs[0] if vs else "",
+                "vers": ",".join(vs)[:46],
+                "cls": class_code(classes.get(m.get("classId"), "")),
             })
         index += len(mods)
         total = data.get("pagination", {}).get("totalCount", 0)
