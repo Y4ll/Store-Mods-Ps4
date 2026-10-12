@@ -23,10 +23,11 @@ jobs:
       GH_TOKEN: ${{ github.token }}
       OO_PS4_TOOLCHAIN: ${{ github.workspace }}/oo-toolchain
       DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: "1"
-      # Version automatica: 1.<numero de build>. La app la compara con app_update.json (L3).
-      APP_VER: 1.${{ github.run_number }}
     steps:
       - uses: actions/checkout@v4
+
+      - name: Version (archivo VERSION; si no existe, 1.<numero de build>)
+        run: echo "APP_VER=$(tr -d ' \r\n' < VERSION 2>/dev/null || echo 1.${{ github.run_number }})" >> "$GITHUB_ENV"
 
       - name: Preparar fuentes (con o sin mcstore.zip)
         run: |
