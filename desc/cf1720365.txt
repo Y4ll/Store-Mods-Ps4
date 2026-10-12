@@ -1,0 +1,39 @@
+ATTENTION! This is a remake for the exsisting mod by Abbadon101, so there's still have bugs like in the origin addon
+
+Warning: the addon may not work on some devices because high resolution textures
+
+First of all, this remake has new models of bombs, missiles, gas mask and landmine
+
+Now you can see how models were changed:
+
+Also this remake adds 4 new structures: satelite dish, big silo, abandoned factory and landmine trap
+
+-
+
+Abandoned factory:
+
+In mainly this structure hasn't good loot, but there's has one thing which you should visit it, and this is a geiger counter. It's really important thing which shows statistic about radiation level.
+
+And yes, don't stay here for a long time, because this place consists a radiation, which will kills you in ~5 minutes
+
+2. Landmine trap
+
+How to detect it? Always look at the tallgrass count in one point. If you see an unnaturally large clump of grass, so proably it's a landmine
+
+It will appears in the world pretty often, so be attentive
+
+3. Big missile silo
+
+This is not usual missile silo. First of all, this is a bunker with protect from small and middle projectiles. The only ones weapons can hit the bunker in - ballistic missile and nuclear weapons.
+
+Also this building has 6 missile silos, which have ability to speed up missiles flight in 1.5x
+
+4. Satelite dish
+
+In mainly this structure serves a decorative function. BUT also this structure has steel blocks, very needed material for creating nuclear bombs, missiles and etc.
+
+Also i added two secret chests in two structures - one in the old, and other in the new. Good luck to find them all!
+
+More content(for example, modpack with this mod) you'll see in my telegram channel:
+
+https://t.me/yaytso_v_cubeku

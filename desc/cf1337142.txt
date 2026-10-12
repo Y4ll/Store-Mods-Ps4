@@ -1,0 +1,63 @@
+Ruby & Relic [Addon] (v1.6.1)
+
+A new vanilla-friendly expansion for Minecraft Bedrock Edition, focused on magical Ruby tools, armor, and mysterious relics.
+This addon introduces a rare new ore Ruby and a set of unique, situational tools and abilities.
+Its designed to feel balanced, survival-friendly and immersive, not just OP ruby gear.
+
+RUBY AND RELIC HARDCORE REBALANCED VANILLA FRIENDLY - NEW PROJECT AVAILABLE
+
+Link for the rebalanced ruby and relic project : https://www.curseforge.com/minecraft-bedrock/addons/ruby-and-relic-rebalanced
+
+Once approve by Curse Forge, A new project will be available on my creator page : the new ruby and relic rebalanced project, this version of the add on is my favorite. The ruby tools are equal netherite on their specific blocks/situation) but like iron for other thing, also no depthstrider elixir, and all of the system of the mod and even the special ruby tools ability have been rebalanced in this version
+
+FIX 1.6.1
+
+Changed the cooldown for the ruby sword from 15 seconds to 1 minutes for balanced
+
+Changed the ancient books
+
+Final contents versions
+
+NEW BLESSING AND REBALANCED (1.6)
+
+New Blessings :
+
+Blessing of Domination --> Used on the ruby sword, when you kill a mob/player you gain Strenght II (00:07), Regeneration (00:05)
+
+Blessing of Recovery --> Used on the ruby sword, when you kill a mob/player you gain Speed II (00:07), Resistance II (00:07), Regeneration II (00:05), Absorption II (00:05)
+
+Rebalanced the ruby pickaxe and shovel, they are a little less efficient than before (on their specific block they were 4 times more efficient than netherite !! so i fix it)
+
+Deleted the creeper ruby brick
+
+Fix the durability bug with newest version of the game
+
+TWO MAINS FILES ???
+
+Yes, Because one has custom loot in the chest of vanilla structure, and the others is without this modiification of vanilla structure (mostly for add on compatibility, if you use multiples add on in a world). If you want to install the Version without custom loot in structure you can find the file (the name of the files speak for himself) and its a beta file for now !
+
+BLESSINGS UPDATE (1.5.2)
+
+Blessings books are new items that can be found if you trade ruby with piglin only (for custom loot in structure including blessing go download the Custom Structure Chest Loot files). 5 Blessing books :
+
+- Blessing of Respawning --> Keep Ruby Items upon death ! (Ruby tools, Ruby amor, Enderpearl launcher)
+
+- Blessing of Tempering --> Can be used on the Ruby Pickaxe and the Ruby Shovel, It makes them efficient on the others block of there category (like deepslate for the pickaxe or sand for the shovel) but the counterpart is 6 times less durability !
+
+- Blessing of heaviness --> Used on the Ruby Axe, it changed the range of the ability to freeze mobs from 5 blocks to 15 blocks but the cooldown is 3 minutes.
+
+- Blessing Of Volatility --> Used on the Ruby Axe, it changed the range of the ability to freeze mobs from 5 blocks to 7 blocks but also gives you the effect Speed, Invisibility and Slow Falling. The cooldown is 3 minutes too.
+
+- Blessing of the Furrow --> Used on the Ruby Hoe, When harvesting you get a chance (1/15) to obtain items such as bone meal or seeds but rarely you can find a iron nautilus armor or even an efficiency III book !
+
+- Nerfed the ruby axe by giving player who are in the effect of weight of death (right-click) temporary resistance I, Fire resistance and Water Breathing. To avoid player from dying by a lava bucket by their ennemy while they cant move.
+
+- Fix lot of bugs from previous update.
+
+- Need a break from the Add on, i will take a 1 month break (or less because i m euxhausted but also so excited to continue...) to just relax and focus on study.
+
+- Fix the facts that i didn't thank you for the 20 000 download, i m just happy people like my add on !
+
+FOOD UPDATE - RUBYANDRELIC (1.5)
+
+- Added The depstrider elixir, a new soup that will absolutely blow your mind but you need the rariest item of the game t

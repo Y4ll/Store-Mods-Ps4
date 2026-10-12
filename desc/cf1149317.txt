@@ -1,0 +1,54 @@
+This addon lets you capture villagers in cages, trade with them easily, and release them anytime by breaking the cage.
+
+<figure class="image"></figure>
+
+If you can't understand just check my yt video
+
+(Comment on video For quick reply)
+
+https://youtu.be/d44mdUdB7sA
+
+<figure class="media"></figure>
+
+|||Free To Use Just Give Me Credit|||
+
+Wandering Trader
+
+Capture Trader with the Trade Cage, trade from below, and free them by breaking the top/upper part.
+
+New Potion
+
+Village Hero Potion Added get discount from cage villager and regular villager
+
+Librarian
+
+- Added custom Librarian Villager
+Get direct enchantment offers for just 30 emeralds
+No more trading problems with librarians
+Enchanting made easy
+
+Textures Error Fixed!
+
+Cage Golem Setup
+
+1. Place Killing block, 2. Place Cage Golem on Killing Block, 3. Place any contener block (like chest, barrel, hopper)
+
+In short:
+
+Capture Villagers with the Villager Cage, trade from below, and free them by breaking the top. Ideal for organized villager management!
+
+How to capture:
+
+- Obtain the "Empty Cage" item by crafting.
+
+- Stand close to a Villager while holding the Empty Cage.
+
+- Right click/long press on screen (old button) / click eat button (new control).
+
+- The "Empty Cage" will turn into a "Captured Villager" item.
+
+- Click on ground to place cage block.
+
+- Cage block down part is used for trading.
+
+- Cage block upper part is used for breaking.

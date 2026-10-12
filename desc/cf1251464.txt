@@ -1,0 +1,3 @@
+This texture pack enhances Minecraft's block-breaking mechanics by replacing the default cracking animation with a dynamic loading bar. The loading bar provides a clear, visual progression as you mine, making it easier to gauge break timesespecially useful for multiplayer or resource-gathering tasks. The animation is designed to be smooth and unobtrusive.
+
+By improving visual feedback, the pack helps players optimize their mining efficiency, reducing guesswork when switching between tools or blocks with varying hardness. The modernized aesthetic also gives the game a more polished feel without altering core gameplay. Whether you're strip-mining, building, or speedrunning, this pack ensures you always know exactly how much longer a block will take to break.

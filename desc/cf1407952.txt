@@ -1,0 +1,46 @@
+Hey guys, it's ghastly again, bringing you a new addon, this time for Jujutsu Kaisen. By the way, I already created this addon before, but for version 1.20.51, which has more techniques and stuff. This addon will obviously include the features from the old version, but don't worry, it'll come in stages
+
+To begin, it's recommended that you enable all experimental features for the add-on to function correctly. Then, when you start the world, type this command to avoid errors: `/function structure_jjkdd`. That's it, now you can play!
+
+Quick explanation of the addon: First, you'll receive an item called the Cursed Book. This will define your race, which currently has three options: Human (the most common), Curse (a very good intermediate race), and Celestial Restriction (which is the best for now).
+
+Each race will have its own levels and secondary and passive abilities
+
+Here is a sample of some important items
+
+1) Curse book (to obtain breed)
+2) innate technique item (to obtain an innate technique, you may not get any)
+3) mission item (item to do specific missions)
+4) Reset item (to reset your progress, including your race, level, technique, etc.)
+5) boss item (to summon bosses)
+
+There are also weapons in the game, and each weapon has its level and, in the future, its unique abilitywell, only the high-grade ones
+
+And the entity that drops these weapons is the mysterious box that spawns in the world
+
+There are also the merchants, who are these 4
+
+Toji (It sells you things related to the celestial restriction class.)
+Yaga (sells you things related to sorcery, for example, sorcerer abilities)
+Gojo (sells you basic things like resets, innate techniques, or quests)
+Kensaju (sells you curse abilities or secondary abilities)
+
+At night, various curses also appear, and if you defeat them, they will give you a cursed fragment. However, be careful; some are strong enough to defeat you
+
+(IMPORTANT: DOWNLOAD BOTH FILES FOR THE ADDON TO WORK CORRECTLY)
+
+Jujutsu Kaisen DD 2.1
+
+Hi everyone! Today brings a new version of the Jujutsu Kaisen DD addon. In this update and the next two, Ill be introducing reworks for techniques already in the addon, so the updates will be straightforward. Please let me know in the comments if you run into any bugs, and I hope you enjoy this new update
+
+Rework techniques: Weapons Contruction, Straw Doll, Ratio, Cursed Speech, Boogie Woogie, Comedian, Blazing Coruage, Cryokinesis, Miracle Stoage, Blood Manipulation, Volcanic Disaster
+
+New commands
+
+cheat_max10kce
+
+IMPORTANT
+
+- If you don't get a race book in less than 1 minute, summon a Gojo to fix this bug: /summon jd:gojo_shop
+
+- For a better experience with abilities, increase the chunk rendering to 12x12

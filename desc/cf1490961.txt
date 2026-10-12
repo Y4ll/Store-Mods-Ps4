@@ -1,0 +1,83 @@
+Furniture Variety
+
+Chairs & Sofas: Classic, modern, dining chairs, and sofas in 16 colors
+
+Tables: Coffee tables, dining tables, shelf tables, and stools
+
+Storage: Kitchen cabinets, drawers, and nightstands
+
+Appliances: Refrigerators, ovens, microwaves, and toasters
+
+Decoration: Mirrors, clocks, globes, teapots, and utensils
+
+Bathroom: Showers, bathtubs, sinks, toilets, and towels
+
+Outdoor: Blinds, dog kennels, and ladders
+
+Available Materials
+
+All wooden furniture is available in 12 different wood types:
+
+Oak
+
+Birch
+
+Spruce
+
+Dark Oak
+
+Acacia
+
+Jungle
+
+Mangrove
+
+Cherry
+
+Bamboo
+
+Crimson
+
+Warped
+
+Pale Oak
+
+Poplar
+
+Customization Options
+
+16 colors available for upholstered and decorative furniture
+
+13 wood types for wooden furniture
+
+Metal variants in white, gray, and iron
+
+Rustic and modern styles
+
+Lamp blocks that illuminate and can be toggled on/off
+
+New dyeing system: Dye any colored block by clicking it with dye in hand
+
+Inventory
+
+Many furniture pieces include their own inventory with custom names. Drawers visibly open while the inventory is active.
+
+Due to Minecraft limitations, breaking these blocks requires an axe, pickaxe, or other tool or simply crouch.
+
+Installation
+
+1. Download the Rustic Furniture resource pack
+
+2. Place the file in your resource_packs folder
+
+3. Enable the pack in world or global settings
+
+4. Enjoy your new rustic furniture!
+
+Compatibility
+
+Compatible with most resource packs
+
+Works with vanilla and modified textures
+
+Supports PBR (Physically Based Rendering)

@@ -1,0 +1,25 @@
+Temperature & Hydration enhances Minecraft Bedrock survival by introducing two dynamic survival mechanics: body temperature and hydration.
+
+Monitor your character's condition as you explore different environments, react to weather and temperature changes, manage your water supply, and prepare for harsh conditions. Temperature is influenced by your surroundings, exposure to the elements, nearby heat sources, and other environmental factors.
+
+The addon is designed to add depth to survival gameplay without overwhelming the player, making environmental conditions and resource management an important part of exploration.
+
+Features
+
+- Dynamic body temperature system affected by the surrounding environment.
+
+- Hydration system with dedicated HUD indicators.
+
+- Environmental temperature changes based on conditions such as sunlight, rain, snow, biomes, and nearby heat sources.
+
+- Heat sources such as lit campfires and other environmental objects affect temperature.
+
+- New survival-related items and mechanics.
+
+- Resource management focused on exploration and survival.
+
+- Optimized for Minecraft Bedrock Edition.
+
+- Designed for both single-player and multiplayer worlds.
+
+Whether you're exploring, building a survival world, or running a server, Temperature & Hydration adds another layer of environmental survival where preparation, resource management, and awareness of your surroundings can make a difference.

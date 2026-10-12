@@ -1,0 +1,107 @@
+Sieged! - Medieval Warfare & Siege Engines
+
+Join the LosNThings Discord Server to join the community, provide feedback, and coordinate epic sieges together!
+
+Sieged brings medieval warfare to Minecraft Bedrock Edition. Command devastating siege engines, storm pillager castles, and take back the land. Whether you're defending your realm or conquering enemy fortifications, no wall is too tall for these weapons of war.
+
+Plagues & Masquerades - V2.1
+
+Check out the discord to get the full changelog as everything is not included on cureforge page!
+
+Whats New in Plagues & Masquerades V2.1
+
+Welcome to Version 2.1! Darkness, pestilence, and tactical siege warfare have descended upon the realm. Here is a showcase of the major features, mechanical overhauls, and additions waiting for you in the latest update.
+
+Heavy Armaments & Flail Combat
+
+Upgrade your arsenal with specialized gear, protective gear, and sweeping AoE attacks.
+
+New Gear & Wearables
+
+-
+
+Executioner's Garb & Plague Mask: Equipping the Plague Mask grants complete immunity against the pestilence.
+
+-
+
+Shrouded Coat: Defeat the Plague Doctor to claim this coat and unlock its special ability.
+
+Shield & Weapon Reworks
+
+-
+
+Shield Bash: Crouching with a fully charged large round shield and punching flings you forward into the enemy line.
+
+-
+
+Flail Special Abilities: Holding interact with the War Ravager or Steel Flail unleashes devastating AoE damage to surrounding targets. The War Ravager scales up to 3x damage the longer you charge it.
+
+-
+
+Bleed Stacking: Repeatedly striking a bleeding target with a bleed weapon now stacks and intensifies the effect over time.
+
+Plagues, Bio-Warfare & The Doctor
+
+Pestilence now spreads across entities, clogs player inventories, and reshapes kingdom defense.
+
+Infection & Remedies
+
+-
+
+Inventory Mucus: Plagued players will quickly find their inventory filled with mucus; fail to clear it in time and up to 5 inventory slots will lock completely.
+
+-
+
+The Nighttime Doctor: Track down The Doctor in spooky biomes at night. He is your sole source for herbal seeds, which are grown and brewed to craft the plague cure.
+
+Siege Bio-Warfare & Health Crest
+
+-
+
+Seeping Bag & Grotesque Siege: Slay a zombie with a Seeping Bag, load it into a catapult, and launch a grotesque payload into enemy strongholds to infect their forces. (Can only be cleansed with fire!)
+
+-
+
+Crest of Health: Protects your kingdom from rat outbreaks, enables automatic healing for your citizens, and unlocks a one-time offensive rat attack against rival factions.
+
+Overhauled Sieges & Dynamic Events
+
+Siege warfare has transformed into a multi-phase tactical battle requiring strategy and vigilance.
+
+-
+
+Siege Requirements: Laying siege now requires functional siege engines (trebuchets, catapults, siege towers, battering rams) or a dedicated force of 10+ troops positioned directly outside enemy walls.
+
+-
+
+Supply Lines & Sally-Outs: Stop enemy supply carts from reaching the garrison to keep the starve-out timer moving, and defend your engines against illager sally-out attacks.
+
+-
+
+Storm the Castle: Sound your Goat Horn once the starve-out phase finishes to launch the final assault on the garrison.
+
+-
+
+Ominous Siege Difficulty: Drink an Ominous Bottle before placing your siege weaponry to ramp up the challenge.
+
+Kingdom Management & The Jester
+
+Manage unit movements, kingdom morale, and economic balances.
+
+-
+
+The Jester: Hire the Jester with emeralds to entertain your villagers, or give him an Emerald Block for a major morale surge. If total kingdom collapse threatens, the Jester can spend coins from his own wallet to prevent it (up to 3 times per kingdom).
+
+-
+
+Patrols & Formations: Units now walk to assigned positions in commander view. Set up custom patrol paths around your walls and take advantage of an added 30 seconds to the commander timer.
+
+-
+
+Taxation System: Adjust tax rates high or low to balance kingdom income against citizen morale.
+
+Machines!
+
+The Chariot
+
+Works very similarly to the sieg

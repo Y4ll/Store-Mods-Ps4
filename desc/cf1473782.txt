@@ -1,0 +1,25 @@
+RR Rank Tags PRO v2.0.0 - The Ultimate Multiplayer Chat System
+
+Hey everyone. If you have ever hosted a multiplayer survival Realm or a large SMP server, you already know that the vanilla Minecraft chat system is extremely basic and honestly quite boring. When thirty different people are talking at the same time, the chat box just looks like a massive wall of white text. There is no way to tell who the server owner is, who the moderators are, or who just joined for the first time. On top of that, typing out messages on a console controller or a mobile phone screen takes forever, making quick communication during a raid or a boss fight almost impossible. I wanted to completely transform how players interact and communicate with each other in multiplayer worlds.
+
+That is exactly why I created the RR Rank Tags PRO addon. This is a complete chat and player management overhaul that introduces custom ranks, beautiful name tags, an interactive chat mention system, and powerful tools for server admins. For Version 2.0.0, I have completely rebuilt the user interface and unlocked every single feature. There are absolutely no locked menus, no keys required, and no hidden features. It is a premium, fully accessible multiplayer utility right from the moment you add it to your world.
+
+The Rank System and Visual Hierarchy
+
+The core of this addon is the highly detailed ranking system. I have included six distinct ranks to help you organize your server: Owner, Admin, Mod, VIP, Member, and Guest. The very first person who joins the world after installing the addon is automatically granted the Owner rank, so you do not have to worry about setting yourself up. From there, the Owner and Admins can easily assign ranks to other players using the interactive Rank Panel.
+
+These ranks are not just for show in the chat box. They actually appear directly above the player's head in the physical game world. This means if you are walking through a crowded shopping district on your server, you can instantly look at someone and know exactly what their role is. It adds a massive layer of professionalism and hierarchy to your server that vanilla Minecraft simply does not have.
+
+Deep Player Customization
+
+I wanted players to feel like they have an identity on the server, so I built a deep customization profile for everyone. From the main dashboard, players can open their personal profile settings. Here, they can set a custom Nickname. We all have that one friend whose Xbox Gamertag is a bunch of random numbers and letters that are impossible to read. Now, they can set a clean, simple nickname that will display in the chat and above their head without having to change their actual Microsoft account name.
+
+Players can also customize the color of their rank and name. I have included 12 beautifully vibrant colors, ranging from gold and aqua to dark red and purple. This allows every single player to have a unique visual identity when they type in the chat.
+
+Advanced Chat Tools and Mentions
+
+Typing in Bedrock Edition can be incredibly slow depending on your device. To fix this, I introduced the Chat Tools menu. By sneaking and using a Compass, you can open a menu filled with communication shortcuts. First, we have the Quick Chat feature. This contains 15 highly useful, pre-written messages like asking for help, telling people to follow you, or saying good game. You can send these instantly with one click.
+
+We also have the Emote system. Since we cannot type custom emojis in the vanilla chat, I added 15 text-based emotes. You can send hearts, stars, swords, or skulls to the chat to react to situations quickly and add some fun to the conversation.
+
+But the absolute best feature in this category is the Player Mention system. If you want to get your friend's attention while they are busy mining, you can use the mention tool to ping them. When you select their name, it highlights their name in the chat, sends a direct private message to them, plays a loud notification soun

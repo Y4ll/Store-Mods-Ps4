@@ -1,0 +1,85 @@
+Items
+
+All the relics in this addon activate their ability when placed in theoffhand
+
+Cockroach
+
+Cooked Cockroach
+
+Eye of Horus
+
+Adds 3 additional damage
+
+Golden Clock
+
+Your attacks add slowness
+
+Golden Feather
+
+Your fall damage is reduced by 50%.
+
+Golden Lotus Chalice
+
+Your potions last 50% longer.
+
+Mirror of Ra
+
+Returns 50% of the damage received
+
+Moon Amulet
+
+You get the night vision effect at night
+
+Entities
+
+Mummy:
+
+Each time it takes damage, it has a chance to summon a cockroach.
+
+Cockroach:
+
+Desert Creeper:
+
+This creeper remains hidden under the sands until it detects a nearby player.
+
+Desert Skeleton:
+
+This skeleton uses the power of the sun to remain immune to the first 3 attacks
+
+Sandstone Golem
+
+It has the same summoning structure as the iron golem, but instead of iron blocks it uses sandstone.
+
+Scorpion:
+
+This mob is neutral during the day and hostile at night.
+
+Sand Slime
+
+A variant of vanilla slime made of sand
+
+Blocks:
+
+Desert pot:
+
+Structures
+
+Discord: euforiaconr
+
+Discord server comunity: https://discord.gg/YJ5v727bJH
+
+YT: https://www.youtube.com/@Euforia-conr
+
+What to do if the addon doesn't work?
+
+-When creating the world, make sure this option is activated.
+
+-Delete any previous versions of the addon and keep only the latest one.
+
+-Stay on the latest official non-beta, non-preview versions of the game.
+
+-If the addon still doesn't work for you, join my discord server so I can help you with your problem.
+
+Note:
+
+Don't forget to activate the beta-api from experimental options.

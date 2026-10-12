@@ -1,0 +1,15 @@
+Do you find changing tools a hassle? Want a quick change? Try this add-on! This add-on turns you into a proper tool of the block!
+
+How to use
+
+If you put the tool in the slot on the hot bar, the tool will come to the main hand
+
+License:
+
+This addon is licensed under the MIT License.
+
+If you have any questions, please join the discord server.
+
+Discord
+
+Dont forget to turn them on at the end

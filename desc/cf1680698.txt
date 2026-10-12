@@ -1,0 +1,27 @@
+Best FPS Counter Minecraft Bedrock
+
+Best FPS Counter is a lightweight and simple Minecraft Bedrock pack designed to help players monitor their game performance in real time. The pack adds a clean FPS counter to the screen so you can easily see how smoothly Minecraft is running while playing.
+
+It is made with performance and simplicity in mind, making it useful for players who want to check their FPS without using complicated tools. The FPS display is designed to stay easy to read while you explore, build, fight, or use other resource packs and shaders.
+
+Features
+
+Real-time FPS counter
+
+Made for Minecraft Bedrock
+
+Lightweight and performance-friendly
+
+Clean and simple HUD design
+
+Multiple FPS counter sizes
+
+Suitable for mobile and low-end devices
+
+Easy to install and use
+
+Useful for testing performance and shaders
+
+Best FPS Counter is perfect for players who want a quick and simple way to monitor their FPS while playing Minecraft Bedrock. Whether you're testing a shader, resource pack, or your device's performance, this pack makes it easy to keep track of your FPS.
+
+undefined

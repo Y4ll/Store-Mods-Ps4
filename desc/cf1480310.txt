@@ -1,0 +1,27 @@
+VFXCore fills the empty spaces in Bedrock, butterflies threading through flower beds, ground fog pooling between the trees, and air that turns from dawn rose to midday blue to sunset amber, biome by biome, hour by hour. Every effect is toggleable in-game, and nothing disables achievements.
+
+- Immersive Fog - Twenty-Four Phases a Day, Tuned Per Biome Including the Dappled Forest
+
+- Volumetric Fog - Light Scattering Through the Air, Vibrant Visuals & Ray Tracing
+
+- Ambient Life - Butterflies, Fireflies, Birds with Day and Night Calls
+
+- Living Foliage - Cherry Petals, Dappled Forest Leaves, Biome Leaves, Leaf Litter, Wild Flowers
+
+- Natural Decor - Pebbles and Mushrooms Grown into the World
+
+- Sky Events - Aurora, Shooting Stars, Meteor Showers, Rainbows, Lens Flare, End Sky
+
+- Weather - Immersive Rain, Blizzards, Sandstorms, Snow Flurries, Ground Fog
+
+- Ambient Dust & Wind - Biome-Tinted Dust and Wind Streaks
+
+- Water & Motion - Splashes, Wakes, Boat Trails, Footprints, Running Dust
+
+- Dynamic Lighting - Coloured Light Sources, Lantern & Ore Blink, Furnace Glow
+
+- Ambient Soundscape - Forest, Beach, Underwater, Storm and End Atmospheres
+
+- In-Game Settings Book - Toggle Every Effect Individually
+
+- Vibrant Visuals Optimization Mode

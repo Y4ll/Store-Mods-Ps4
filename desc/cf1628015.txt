@@ -1,0 +1,143 @@
+Never Lose Your Hardcore World Again!
+
+The ultimate lifesaver addon for Minecraft Bedrock Edition. Automatically refilled to your offhand in milliseconds!
+
+Why You Need ZenXveda Auto Totem
+
+Tired of dying in boss battles, raids, or PvP because you couldn't open your inventory fast enough? ZenXveda Auto Totem instantly equips a Totem of Undying straight from your inventory into your offhand the exact moment one pops or your offhand becomes empty. Available in two specialized flavors: Pro Edition (full-featured, stats, streak rewards, shield support) and Lite Edition (zero scripts, maximum FPS, pure auto-swap).
+
+Pro Edition
+
+The Ultimate Experience Tracking, Rewards, Shield Support & Custom Crafting!
+
+Core Features
+
+- Instant Auto-Swapping: Seamlessly detects when your totem pops and equips a replacement from your inventory in milliseconds.
+
+- Smart Shield Support: Hold a shield to temporarily pause auto-swapping to block oncoming attacks, then automatically resumes the moment you finish!
+
+Progression & Stats
+
+- Live Stats Dashboard: Rename any ordinary book to totem on an anvil to check your deaths, totems used, and active survival streaks!
+
+- Survival Streak Rewards: Earn bonus Golden Apples and Diamonds as rewards for staying alive!
+
+Custom Totem Crafting Recipe
+
+Craft Totems directly on your crafting table with:
+2x Emeralds | 1x Diamond | 6x Gold Ingots
+
+Lite Edition
+
+Pure Auto-Swapping. Zero Scripts. Zero Overhead. Maximum FPS!
+
+- Continuous Auto-Swapping:
+Always ready! Automatically swaps totems to your offhand non-stop with zero delay.
+
+- Zero Scripts & Maximum Performance:
+Built with 100% vanilla Bedrock animation systems. No JavaScript runtime overhead, zero memory lag, and buttery smooth 60+ FPS.
+
+- 100% Achievement Compatible:
+Does not require experimental gameplay toggles. Perfect for pure survival worlds and Realms where achievements matter!
+
+Pro vs Lite Feature Comparison Matrix
+
+Feature
+Pro Edition
+Lite Edition
+
+Instant Auto-Totem Swapping
+YES
+YES
+
+Smart Shield Support (Pause / Resume)
+YES
+NO
+
+Death & Totem Save Tracking
+YES
+NO
+
+Survival Streak Rewards (Apples & Diamonds)
+YES
+NO
+
+Custom Totem Crafting Recipe
+YES
+NO
+
+100% Achievement Safe
+YES
+YES
+
+Zero Scripts / Maximum FPS
+High FPS
+Ultra Max
+
+Realms, Servers & Multiplayer
+YES
+YES
+
+Quick 3-Step Installation Guide
+
+- Download: Grab your chosen .mcpack file (Pro or Lite).
+
+- Import: Double-click or tap the .mcpack file to automatically launch and import into Minecraft Bedrock.
+
+- Activate: Go to your World Settings > Behavior Packs, activate ZenXveda Auto Totem, and hit Play!
+
+Frequently Asked Questions
+
+Q: Does this work on Minecraft Bedrock Realms and Dedicated Servers?
+
+A: Yes! Both Pro and Lite editions work seamlessly on singleplayer, LAN, Realms, and Bedrock Dedicated Servers (BDS).
+
+Q: Will activating this disable Xbox achievements?
+
+A: No! Both editions are built to be 100% achievement friendly without disabling achievements on your survival worlds.
+
+Q: How do I view my stats in the Pro Edition?
+
+A: Simply rename any book to totem on an anvil and hold it to view your deaths, totems saved, and active survival streaks!
+
+Q: Which edition should I choose?
+
+A: Choose Pro if you want shield pause/resume support, stats, streak rewards, and custom recipes. Choose Lite if you want pure unpaused auto-swap with zero script overhead!
+
+Join the ZenXveda Community
+
+Follow our socials, get instant updates, report bugs, and vote on upcoming mods!
+
+YouTube
+
+@zenXveda Subscribe
+
+Instagram
+
+@zenxveda Follow
+
+Twitter / X
+
+@zenxveda Follow
+
+Discord
+
+Join Official Server
+
+Ko-fi
+
+zenxveda Tip / Support
+
+MCPEDL
+
+zenxveda77 View Profile
+
+CurseForge
+
+ZenXveda All Projects
+
+Patreon
+
+zenXveda VIP Supporter
+
+Found a bug, have a feature suggestion, or need help? Leave a comment on our latest YouTube video or hop into our Discord!

@@ -1,0 +1,93 @@
+FPS Booster Pack | No Lag + Performance
+
+Enhance your gameplay with FPS Booster Pack, a lightweight optimization resource pack designed to reduce lag, improve stability, and deliver consistently smooth FPS across all devices, including low-end hardware.
+
+This pack focuses on performance-first adjustments while maintaining a clean and visually pleasing experience, ensuring smoother gameplay without compromising core aesthetics.
+
+What's New
+
+- In-game settings menu tap the gear on the pack to tune it, no reinstall
+
+- Effect Density slider scale how many particles each effect spawns
+
+- Burst Limit slider cap any single effect, aimed at splash potions
+
+- Three effect toggles grouped by where the particles come from
+
+- Fixed auto-selection phones and tablets now default to Turbo instead of the lighter mode
+
+- Renamed modes Turbo and Lite, both now fully self-contained
+
+In-Game Settings
+
+Tap the gear icon on the pack to open the settings screen. Every control works in both modes, not just one.
+
+Setting
+Default
+What it does
+
+Effect Density (0100%)
+100
+Scales how many particles each effect spawns. Fewer spawned is cheaper than making them fade faster
+
+Max Particles Per Burst (432)
+32
+Hard ceiling on any single effect. Most spawn 15 and never hit it this is aimed at splash potions, which throw 30 at once
+
+Your Own Effects
+On
+Potion swirls on you and your mobs, splash potions, lingering clouds
+
+Mob & Block Magic
+On
+Witch brewing, evoker fangs, tipped arrow trails, cauldron drips
+
+Geothermal Effects
+On
+Geyser puffs and noxious gas clouds
+
+Defaults reproduce v2.3 exactly, so updating changes nothing until you move a control.
+
+Key Features
+
+- 171 particle effects cut in Turbo mode, 45 in Lite the largest single source of GPU overdraw on Bedrock
+
+- Per-biome fog tuning across 79 biomes, with two completely different fog profiles to pick from
+
+- Clean and minimal UI 224 interface textures flattened, 42 of them down to a single solid colour
+
+- Simplified block textures 43 water, bubble-column and fire textures reduced in Turbo mode
+
+- Flat cloud layer clouds reduced to two colours in Turbo mode
+
+- Grass and nylium side-overlays removed 6 block types render one texture on every face instead of compositing a tinted overlay
+
+- Desaturated 6464 colormaps less VRAM and more natural foliage tone
+
+- Quieter ambient mix 85 mobs plus 44 individual sound events pulled down, and 39 sound definitions overridden
+
+- Sky and weather textures reduced end sky, end flash and rain splash cut to 11
+
+- Fully compatible with the Render Dragon engine
+
+Subpacks
+
+Pick one from the subpack list when you activate the pack. On low-memory devices Turbo is now selected automatically.
+
+- Turbo Short Fog + Max FPS fog closes in at 60 blocks so the game stops drawing distant geometry, 171 particle effects silenced, flattened block and cloud textures. The heaviest optimization.
+
+- Lite Clear View + Light Touch fog pushed past the horizon for maximum visibility, 45 particle effects silenced, vanilla block textures. For when you want the view back.
+
+Both modes share the settings menu, the flattened UI, the colormaps and the quieter sound mix.
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.26.40+
+
+- Android, iOS/iPadOS, Windows 10/11, Xbox, PlayStation
+
+- No experimental features required
+
+- Works on existing worlds no reset needed
+
+Images:

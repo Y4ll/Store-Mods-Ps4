@@ -1,0 +1,21 @@
+Rainbow Ores!
+
+Developed by: Rouver Cabriana (Super ores dev)
+
+Supported Versions: Minecraft Bedrock Edition (1.20.80+)
+
+Project Description
+
+Welcome to Rainbow Ores, the ultimate mining upgrade for your Minecraft Bedrock worlds! This addon injects a brilliant new tier of underground generation into your game, challenging players to explore the deepest depths of the Overworld to discover a luminous, high-value resource.
+
+Whether you are looking to revitalize your cave exploration or establish a powerful new endgame progression, Rainbow Ores provides a seamless, vanilla-friendly expansion to your survival experience.
+
+Key Features
+
+Underground Generation: Rainbow Ore naturally generates deep underground throughout the Overworld, spawning uniformly between coordinate layers Y: -64 and Y: 32.
+
+Deepslate & Stone Integration: Ore veins generate dynamically in clusters of up to 5 blocks, seamlessly replacing both standard Stone and Deepslate variants.
+
+Luminous Veins: Never miss a vein in the dark! Rainbow Ore features a maximum light emission level of 15, making it glow as brightly as lava or glowstone to naturally illuminate deep cave systems.
+
+Custom Loot Mechanics: Features a fully customized drop table designed to reward daring miners with unique, high-tier progression items.

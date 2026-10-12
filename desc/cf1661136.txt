@@ -1,0 +1,19 @@
+Project Description:
+
+Your pets are precious, and going through the time-consuming process of taming one only for it to perish can be deeply frustrating. Immortal Pets completely eliminates this risk by rendering your animals entirely invulnerable to every type of damage in the game. Whether it's accidental explosions, lava pits, hostile mobs, or fall damage, your loyal companions will remain safe and sound, allowing you to explore and build with absolute peace of mind.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- All tamed animals are immortal
+
+- Unique taming system.
+
+- Have something to say? Join the Discord.
+
+Wild animals will take damage as usual but as soon as you tame one they will become immortal.

@@ -1,0 +1,57 @@
+What if the ground starts to slowly turn into a burning sea beneath your feet? This addon turns your world into a constant race against time: Lava rises by one block every 30 seconds!
+
+If you aren't constantly climbing, building, and gathering resources on the run, you're going to burn. It adds a whole new level of urgency to standard survival. This addon brings the famous Minecraft java Challenge to Minecraft Bedrock and pocket users.
+
+How It Works
+
+- 3-Minute Grace Period: When you start, you get a 3-minute countdown to chop trees, gather food, and get some basic gear. The action bar shows how much time you have left, and once it hits zero, a giant message on your screen warns you that the lava has started rising.
+
+- Constant Rise: After the grace period, the lava level rises by 1 block every 30 seconds. Your action bar will show the current Y-level and a countdown to the next rise.
+
+- Dimensional Parity: This isn't just an Overworld thing. The addon tracks you across dimensions and adapts:
+
+- Overworld: Lava rises from Y=-63 up to Y=320.
+
+- Nether: Lava rises from Y=0 up to Y=120 (keeps it below the bedrock ceiling at 127).
+
+- The End: Lava rises from Y=0 to Y=320. Each dimension rises independently based on where active players are!
+
+- Respawn Safety Net: If you die and respawn, you won't just burn in lava immediately. The game detects if your spawn point is submerged and automatically builds a temporary 3x3 obsidian platform to give you a fighting chance, then teleports you safely onto it.
+
+Commands
+
+If you need to reset the challenge for a new run, you can use the built-in game command (requires operator permissions/cheats enabled):
+
+- Reset Challenge: /lava_rise:reset (This completely wipes the saved states, resets the timers, and restarts the 3-minute grace period). Note I still suggest just starting with a new world to restart the challenge.
+
+- Control Time Interval: /lava_rise:speed <value> This controls the time interval between each lava rise cycle. (default: 30)
+
+- Hide/Unhide Action bar: /lava_rise:hud true|false This controls the visibility of action bar on HUD. (default: true)
+
+- Open Menu: /lava_rise:menu This command opens the in-game menu
+
+Installation
+
+- Use MCPEDL app on Mobile (Android + IOS) for ease of downloading and installing packs directly into minecraft.
+
+- Use Bedrock Manager on Windows For installing addons,packs, worlds, etc and managing them + more features!
+
+- Download Bedrock Manager - https://bedrock-manager.app
+
+Restriction
+
+- When Sharing the Content on Youtube or other platform, Give original mcpedl or curseforge link Only.
+
+- You are not allowed to reupload the project or any platform and claim it as yours.
+
+Notes
+
+- This is a behavior pack only, no resource pack or visual changes are needed.
+
+- Existing worlds are supported! The challenge automatically starts and initializes as soon as you load into the world with the pack active.
+
+- Fully compatible with multiplayer.
+
+Join the Discord server to be part of our community or to contact me: https://discord.gg/Wvst4znsgk
+
+Made By Eyrae

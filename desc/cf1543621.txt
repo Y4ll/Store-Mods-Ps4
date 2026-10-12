@@ -1,0 +1,1 @@
+Newb Floren is a fork of Newb X Legacy - RenderDragon shader, so it required MBL (Android), HynisLoader (iOS) or BetterRenderdragon (Windows) to works

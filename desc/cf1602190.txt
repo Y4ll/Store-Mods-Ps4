@@ -1,0 +1,31 @@
+Corpse
+
+Join our discord: https://discord.gg/K5j5Y95tfn
+
+Corpse adds temporary visual bodies to Minecraft Bedrock when mobs die. Instead of disappearing instantly, supported mobs leave behind a short-lived corpse with a simple ragdoll-style pose.
+
+This addon is visual only. It does not replace vanilla death behavior, so mobs still drop their normal loot and XP.
+
+Features
+
+- Adds corpse visuals for many vanilla Bedrock mobs
+
+- Uses different body plans for humanoid, quadruped, small, and large mobs
+
+- Picks front, back, left, or right death poses based on movement and damage
+
+- Keeps vanilla loot and XP drops untouched
+
+- Adds a small impact effect when a corpse appears
+
+- Removes corpses automatically after a few seconds
+
+- Caps active corpses to help avoid clutter
+
+- Includes both the behavior pack and resource pack
+
+Notes
+
+This addon uses the Minecraft Bedrock scripts, so make sure Beta APIs are enabled for your world. Some entity types are skipped on purpose, including players, projectiles, and certain special entities.
+
+Corpse is made for players who want mob deaths to feel a little less instant without changing combat, loot, or survival balance.

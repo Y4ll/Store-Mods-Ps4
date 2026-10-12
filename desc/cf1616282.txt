@@ -1,0 +1,141 @@
+An add-on that adds more hostile mobs and bosses into your game!
+
+This add-on will receive updates so let me know if there are bugs I needed to fix.
+
+Warning before you approach a boss, you'll need to prepare to be able to defeat them, they will be found in raids so be sure to be prepared if you want to start one!
+
+Please max out your armor before trying to fight the bosses!
+
+Check out the Java Version:
+
+https://www.curseforge.com/minecraft/mc-mods/invasion-code-red-java
+
+Info
+
+- Creator: Xndgoat
+
+- YouTube
+
+Credits & Special Thanks:
+
+- Minecraft plugin logo: Ewan Howell @ewanhowell5195
+
+Elite illager Models and textures by Tamir7
+
+- Logo help, Rampager design/model, and some death animations by: Samflam @MFelpy
+
+Some spawn egg textures stuff were made by Sweegy
+
+Variant Revenger Spawn egg textures help by Gire34
+
+- Scripts raid system by Lorr
+
+- Special thanks to Elevifty
+
+- Particle effects help and villager sergeant design/model by: MrOrigin Mr-Origin#0
+
+Invasion Code Red wouldn't be the same without you. Thank you for supporting us this far!
+
+You can join our Discord Server here to follow updates and progress.
+
+NOTE: BOSSES SPAWNS IN RAIDS!
+
+Spoiler Title Addon Settings
+
+The add-on settings will be located in your world's behaviour packs!
+
+All you need to do is to click the cog icon to access it.
+
+Default option wouldn't let any power totem bosses spawn in raids.
+
+Chaos spawning
+
+Basically makes the boss spawn rates higher in raids and zombie spawnings
+
+==========================
+
+Power totem spawning will let power totem related bosses spawn in raids! And also powerful mobs in general, like Sun Man and Successor.
+
+==========================
+
+Texture Options
+
+Uh if you want to change the appearance of some mobs you can just go to resource pack settings to change it, choose universe two in order to use these alternate textures
+
+Villagers (wip)
+
+Spoiler Title Villagers
+
+Sergeant Major
+
+this mob is currently broken due to component depreciation and I couldn't get the time to fix him as of now, he doesn't spawn naturally too so he's low priority.
+
+- HP: 520
+
+- Phase 1 Melee Damage: 12
+
+- Phase 1 Range Attack Damage: 25
+
+- Phase 1 Attacks:
+
+- Seed rain: the golem will shoot bullet seeds that can grow into trees to damage the target and heal the shooter if close.
+
+- Seed snipe: slow charge time range attack but deals huge damage to the target.
+
+- Golem smash: golem will smash the ground, which can lift the target if close enough.
+
+- Phase 2 Melee Damage: 2 per tick
+
+- Phase 2 Range Attack Damage: 25
+
+- Phase 2 Attacks:
+
+- Gapple heal: Sergeant Major will eat a golden apple to heal.
+
+- Potion throw: Segreant Major can throw different potions at targets, like slowness, poison and instant damage.
+
+- Emerald bomb rain: Sergeant Major will summon emerald bombs in the surrounding area.
+
+- Shoot strafe: Sergeant Major will move in a zigzag backwards while shooting.
+
+- Roll: does no damage but grants immunity for a bit.
+
+This entity does not spawn naturally ATM since he will be reworked soon.
+
+Spoiler Title Title of Spoiler
+
+Peatato
+
+they will shoot monster and illager family type of mobs that's around 55 radius. (The radius goes 70 if you boosted the said plant)
+
+HP: 30
+
+Projectile damage: 5.5
+
+Additional info:
+
+Adult Peatatos can heal overtime.
+
+can be boosted using bone meal to enhance its charge time firing speed and radius.
+
+You can transform Peatatos into adult Ice Peatatos using blue ice.
+
+Ice Peatato
+
+they will shoot monster and illager family type of mobs that's around 70 radius.
+
+HP: 20
+
+Projectile damage: 5.9 (with slowness effect)
+
+Additional info:
+
+Adult Peatatos can heal overtime
+
+Cleave Carrot
+
+Cleave Carrot is a melee plant that can slice enemies around 2 blocks range, due to their size they cannot be planted around near other cleave carrots, by doing so they'll pop and break if they are too and drop their stem item.
+
+You can turn cleave carrots into Crusade Carrots if you use a golden ingot on them.
+
+Damage: 8.5 per swi

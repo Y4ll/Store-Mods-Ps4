@@ -1,0 +1,108 @@
+Sungild Visuals is my vintage warm pack. Amber sitting over the whole world like an old photograph, all day, not just at sunset.
+
+What this changes
+
+Vintage grading
+
+A warm amber tone runs across every biome and never lets go. Midday, evening, indoors, it is all slightly aged and slightly golden. This is what separates the pack from a normal sunset look.
+
+Cherry groves
+
+Rich amber and gold over the blossoms, so the grove reads warm and old rather than bright and pink.
+
+Villages
+
+Sunlit pathways with a golden cast on the stone and dirt, and lanterns glowing warm against it. Villages are where this pack is at its best.
+
+Nights
+
+Torches and lanterns throw deep warm light after dark. Nights feel cozy and small instead of cold and open.
+
+Foliage
+
+Greens carry gold in them rather than staying pure green, which is what keeps trees from clashing with the rest of the grading.
+
+Waving plants
+
+Grass and leaves move in the wind instead of standing frozen.
+
+Requirements
+
+THIS PACK IS FOR VIBRANT VISUALS ONLY
+IT DOES NOT WORK WITH MB LOADER
+
+Vibrant Visuals must be ON. This pack is built for Bedrock's Vibrant Visuals renderer. The pack will not do anything if it is off.
+
+Where to turn it on: Settings > Video > Graphics > Vibrant Visuals
+
+If that toggle is not there, your device or version does not support Vibrant Visuals yet.
+
+Showcase
+
+- Cherry Grove Sunrise
+
+- Village
+
+- Ruined Portal
+
+- Village Tree
+
+- Village Warm Lights
+
+About my other packs
+
+I have several other shader packs on my page, and they are not recolors of this one. Each is built with its own style. The atmospherics, lighting, color grading, water and PBR are set up separately in every pack, so no two of them behave the same way in game.
+
+If you want to explore the rest, everything I have made is here:
+
+- My CurseForge profile
+
+- My MCPEDL profile
+
+Installation
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate Sungild Visuals
+
+- Turn on Settings > Video > Vibrant Visuals
+
+- If the lighting still looks the same, leave the world and load it again once
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link this CurseForge page in the description.
+
+- Use the pack in your own gameplay videos and streams. No permission needed, go ahead.
+
+- Modify the pack for your own personal use. Tweak whatever you want on your own device. The modified version has to stay with you though. It cannot be uploaded or shared publicly anywhere.
+
+- Share this page with friends or in servers.
+
+YOU ARE NOT ALLOWED TO
+
+- Upload a modified version. Editing my pack and releasing it under your own name, or claiming it as your own work, is not allowed.
+
+- Use assets from this pack in your own pack. If you want to use something from it, contact me on Discord first and ask.
+
+- Put the download behind your own link. If you make a review video, link my official project page and nothing else. No monetized links, no link shorteners, no ad links, and no direct download that you host yourself.
+
+- Reupload the pack anywhere else.
+
+FAQ
+
+The pack is not working. Nothing changed after I installed it.
+I get this comment a lot, and almost every single time the reason is the same. Vibrant Visuals is turned off.
+
+This pack only works when Vibrant Visuals is ON. That is written clearly at the top of this page. With it off, the pack loads fine but nothing on your screen changes, because there is no renderer for it to work with. The pack is not broken.
+
+Go to Settings > Video > Graphics > Vibrant Visuals and switch it on. If you cannot find that option at all, your device or Minecraft version does not support it yet.
+
+Please check this before commenting that the pack does not work.
+
+Everything looks slightly orange, even at midday.
+That is on purpose. The amber tone is the pack. If you want warm light only at sunrise and sunset with normal daytime in between, u

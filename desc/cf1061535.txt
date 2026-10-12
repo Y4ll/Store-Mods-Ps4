@@ -1,0 +1,17 @@
+This addon adds a feature where, if you chop the base of a tree while crouching/sneaking, all the logs above it will fall down.
+
+As you chop the lower part of the tree, it gradually thins out until it finally breaks.
+
+Works with any type of trees.
+
+The bigger the tree, the longer it takes to chop down.
+
+Added Poplar Trees Support.
+
+Tree Chopper only works with trees.
+
+However, if the addon is added to an existing world, it may affect pre-existing buildings. To prevent any accidental damage, a protection system has been implemented.
+
+After 5 seconds, cut log layers will start to regenerate, restoring 1 layer every 5 seconds until they return to full normal logs.
+
+This addon does not disable achievements

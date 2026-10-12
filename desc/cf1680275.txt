@@ -1,0 +1,12 @@
+Disclaimer: This image was created using AI and Blender.
+
+Goku Ultra Instinct grants the player some of Goku's powerful abilities from the Dragon Ball anime.
+
+When a mob attacks you, Ultra Instinct can automatically activate, allowing you to instantly teleport away from the attack.
+
+You can also counterattack with an extremely powerful critical hit, dealing devastating damage to the mob that attacked you.
+
+If you use this ability in PvP, Ultra Instinct can be very tricky to deal with. Why? Find out for yourself :)
+
+I haven't tested it in multiplayer yet, so I'm not sure how it will behave or how the ability will apply to other players. But in single-player, everything works great so far.
+, , . .

@@ -1,0 +1,45 @@
+LithiumReverse Facts
+
+[ This only tightens existing culling rules ]
+
+New Update: ULTIMATE v6.0.0 Heavily Optimized.
+
+The Culling Version of VulkanCore Pure Culling Speed Optimization survival mode capabilities
+
+(Low-End) Most aggressive culling, shortest distances, best for weak/older phones
+
+(Mid-End) Slightly less aggressive, better visuals while still optimized
+
+If you care about pretty graphics, this pack will look stripped down. If you care about smooth FPS on a weak device, this pack is exactly what you want.
+
+- Entity Occlusion Culling: Entities fully hidden behind walls, floors, or solid blocks are not rendered or processed at all. Reappear instantly when visible no bugs, no missing mobs.
+
+- Block & Chest Culling (NEW): (ALPHA)
+
+- Chests, trapped chests, ender chests, barrels, hoppers, furnaces, blast furnaces, and smokers now fully optimized
+
+- Max render distance: 7 blocks (LowEnd) / 10 blocks (MidEnd) blocks beyond this range are not drawn
+
+- Backface culling enabled, doublesided rendering disabled, animations turned off
+
+- Blocks completely hidden behind others are skipped entirely eliminates lag from 100+ lined chests or large storage rooms
+
+- Sound Culling: Mob noise through solid obstacles is reduced; only sounds from visible entities remain clear.
+
+- Smart Render Optimizations: Disables heavy shadows, limits draw distance, enables face culling & dynamic batching cuts GPU/CPU usage drastically.
+
+- Full Entity Culling: All mobs including Slimes, Magma Cubes, Camels, Sniffers, Frogs, Allays, and utility entities now have optimized render distances and occlusion checks.
+
+- Tick Stabilization: Smoothes world updates, reduces background work, removes random stutters for consistent FPS.
+
+- 100% Safe & Compatible: Works on Minecraft Bedrock 1.20.0+. Only visuals are hidden inventories, redstone, hopper transfer, spawning, AI, and drops all work exactly as before.
+
+Performance Results
+
+- Before: ~2535 FPS in large storage rooms / mob farms
+
+- With Lithium Reverse: 5585 +FPS in the same areas
+
+- LowEnd Mode: 7block limit highest FPS, best for 2GB3GB RAM devices
+
+- MidEnd Mode: 10block limit balanced FPS + better visibility, ideal for 4GB+ devices

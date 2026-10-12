@@ -1,0 +1,41 @@
+Keystone Feature Overview
+
+This add-on is a fully automated, entirely in-game configurable Bedwars Minigame System for Minecraft Bedrock Edition. From map setup to dynamic item shops and automated map resetting, everything is handled seamlessly through a clean, intuitive user interface. No need to edit complex JSON filesbuild and manage your entire minigame network directly in-game!
+
+Setup and Configuration
+
+- Interactive UI & Editor Item: Simply use the Bedwars Editor item ct:bedwars_editor to open the comprehensive Main Menu. Manage arenas, active matches, global lobbies, and shop prices from one central hub.
+
+- Quick-Setup Wizard: Building a new arena is effortless. The built-in setup wizard guides you step-by-step through configuring your map. Just stand in the right spot and click to automatically set Team Spawns, Beds, Generators, Shop NPCs, Void Levels, and Map Boundaries!
+
+- Global Queue System: Set up a global waiting lobby with a dedicated "Play Bedwars" NPC. The system handles matchmaking automatically, putting players into waiting queues and randomizing teams before the countdown finishes.
+
+Match Generation & Customization
+
+- Dynamic Game Phases: Matches progress naturally through configurable time phases. You control exactly when the match starts, when Generators receive a Speed Boost, when the "Bed Destruction" warning appears, and when Sudden Death (all beds destroyed) occurs.
+
+- Configurable Generators: Fully customize the spawn intervals for Iron and Gold team generators, as well as Global Diamond and Emerald generators. Intervals even automatically update and speed up during the "Boost" phase!
+
+- Arena Limits & Anti-Griefing: Protect your maps effortlessly. You can enforce Max Build Heights, Map Boundaries (X/Z), and a custom Void Y-Level. Built-in anti-griefing ensures players cannot break the map, build too close to generators, or destroy their own beds.
+
+Shop & Team Upgrades
+
+- 100% In-Game Shop Configuration: Don't like a price? Change it! The add-on includes a fully UI-driven Shop Manager. Add or delete categories, create new items, assign display icons, and set custom multi-currency costs (e.g., 4 Emeralds + 32 Diamonds) directly via the UI.
+
+- Advanced Team Upgrades: Players can spend resources to upgrade their entire team. Features include Sharpened Swords, Reinforced Armor, Mining Speed, Faster Respawns, and unique abilities like Enemy Alarm (pings when enemies enter your base), Island Storm (damages intruders), and Regeneration.
+
+Performance & Stability
+
+- Smart Block Resetting: Instead of cloning huge structures and lagging the server, the add-on actively tracks every single block placed by a player during a match. When the game ends, it cleans up only those blocks, keeping your server running at a flawless 20 TPS.
+
+- Chunk Loading Failsafes: Bedwars arenas can be massive. If a player places a block in a chunk that gets unloaded before the match ends, the add-on utilizes native TickingAreaManager queues to temporarily load the chunk, clean the block, and remove the ticking areaensuring no stray blocks are ever left behind!
+
+- State Persistence: If your server crashes or restarts during an active match, the add-on remembers everything. It saves player stats, match timers, and active teams, allowing the match to resume perfectly once the server boots back up.
+
+Holograms & Quality of Life
+
+- Live Generator Holograms: Global Diamond and Emerald generators feature beautiful, floating TextPrimitives that display live countdown timers and exactly how many items are currently spawned on the ground.
+
+- Actionbar Status Displays: Players are kept in the loop with a permanent action bar display showing the match timer, their team color, and the live status of all enemy beds and surviving players (e.g., for bed alive, for destroyed).
+
+- Smart Spectator Mode: When a player is eliminated, they drop their match-specific loot, lose their inventory, and are automatically switched to spectator mode and teleported ba

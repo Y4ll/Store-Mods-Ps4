@@ -1,0 +1,66 @@
+SCP FOUNDATION HORROR ADDON FOR MINECRAFT 1.26
+
+Enter a world where fear is real and survival is not guaranteed...
+
+The SCP Foundation Addon transforms your Minecraft into a dark, terrifying experience inspired by the secretive world of SCP. Built and optimized for Minecraft 1.26, this addon introduces dangerous entities, advanced AI systems, and a deeply immersive horror atmosphere.
+
+WHAT IS SCP FOUNDATION?
+
+The SCP Foundation is a secret organization responsible for containing anomalous and dangerous entities.
+In this addon, those entities have escaped... and now you must survive.
+
+CORE FEATURES
+
+SCP-173 (The Watcher)
+
+- Moves only when you are not looking
+
+- Extremely fast and deadly
+
+- True Dont Blink horror system
+
+SCP-096 (The Shy One)
+
+- Passive until seen
+
+- Once triggered, it becomes unstoppable
+
+- Will hunt you down no matter where you hide
+
+ADVANCED AI SYSTEM
+
+- Custom behavior mechanics
+
+- Intelligent targeting & tracking
+
+- Realistic movement patterns
+
+HORROR ATMOSPHERE
+
+- Dark-themed textures
+
+- Creepy ambient sounds
+
+- Tension-filled gameplay
+
+SURVIVAL EXPERIENCE
+
+- Explore dangerous environments
+
+- Face containment breaches
+
+- Test your courage in extreme situations
+
+OPTIMIZED FOR PERFORMANCE
+
+- Fully optimized for Minecraft Bedrock 1.26
+
+- Smooth gameplay on most devices
+
+- Compatible with 1.21+ versions
+
+REQUIREMENTS
+
+- Minecraft Bedrock Edition (1.26 recommended)
+
+- Enable experiments (if required)

@@ -1,0 +1,18 @@
+So for those of you who want to change your hotbar but find the item descriptions on the HUD distracting, this pack can solve that problem by hiding the item descriptions on the HUD! You can also exclude Shulkers using subpacks!
+
+So, how do you use it? You can use it in the world or in the global resources. Once its installed, you can try it right away in the world or on the server.
+
+Showcase Video
+
+watch if you don't understand or want to know how it works!
+(old showcase video)
+
+Other Things
+
+Known issue: If you are using an add-on that contains custom items, there is a possibility that the exclude shulker may encounter an error (it is recommended that you use a type 1 subpack).
+
+Join Our Community
+
+discussions, submit suggestions, report bugs and more
+
+Discord Server | Telegram Group | Whatsapp Group(+62 only)

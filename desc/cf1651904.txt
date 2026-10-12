@@ -1,0 +1,43 @@
+The Ultimate Performance-Friendly Deferred Renderer for Minecraft Bedrock
+
+About The Project
+
+BSL ZenXveda Shaders is a completely overhauled, highly optimized shader pack designed specifically for the Minecraft Bedrock Deferred Technical Preview. Rebuilt from the ground up to deliver breathtaking, atmospheric visuals while aggressively stripping out unnecessary bloat that causes lag. Experience a next-generation look without sacrificing your frame rate.
+
+Key Features & Visual Upgrades
+
+Crystal Clear Water
+
+We've removed noisy custom wave textures to unlock the engine's true potential. Experience perfectly smooth, glassy, and highly reflective water surfaces that look incredible from above and underwater.
+
+Cinematic Color Grading
+
+The world feels alive. We've pumped up the midtone saturation and contrast to bring an extra layer of vibrancy and punch to your daytime exploration.
+
+Stunning Celestial Redesign
+
+Look up at the sky to see a brand new, high-resolution golden corona Sun and a crisp, cratered pale-blue Moon. We utilized advanced alpha-masking to completely eliminate ugly square texture boxes in the sky.
+
+Performance First
+
+This is an "Ultra-Crisp" but highly performance-friendly pack. We completely removed lag-inducing custom particles, unnecessary glass textures, and heavy material bloat. The total pack size is incredibly lightweight!
+
+Radiant Glowing Ores
+
+Never miss diamonds in the dark again! All precious ores emit a beautifully balanced, sharp glow that illuminates caves without flooding the screen with hazy, blurry light scattering.
+
+Installation & Setup
+
+This shader pack requires the RenderDragon Deferred Pipeline. Follow these exact steps to activate it:
+
+- Ensure you are playing on a supported version of Minecraft Bedrock Edition.
+
+- Go to your World Settings > Experiments and enable the Render Dragon Features for Creators toggle.
+
+- Apply the resource pack to your world.
+
+- Head into your Video Settings and enable the Deferred Technical Preview graphics mode!
+
+Join The Community!
+
+Support our work and stay updated on our latest projects:

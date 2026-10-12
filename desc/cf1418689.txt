@@ -1,0 +1,39 @@
+RR Aimbot Bow v2.0.0 - The Ultimate Homing Arrows
+
+Hey everyone! Let's be honest, hitting a moving target in Minecraft Bedrock Edition can be incredibly frustrating. Whether you are trying to shoot a tiny rabbit jumping through the tall grass, a Phantom diving at you from the sky, or your friends running in zig-zags during a PVP battle, aiming with a touch screen or a controller is tough. Your arrows constantly miss, and you end up wasting half your inventory.
+
+I decided to fix this problem permanently. I created the RR Aimbot Addon, a highly advanced combat script that turns your standard vanilla Bow and Crossbow into a literal homing missile launcher. For Version 2.0.0, I have completely rewritten the targeting engine. This is the Full Access Edition, meaning every single target mode, speed upgrade, and headshot mechanic is fully unlocked for you right from the start. You do not even need to aim anymore; just shoot, and the arrow will do the rest.
+
+Advanced Auto-Aim Technology
+
+This is not a simple texture pack trick; it is a real physics-bending script. When you fire an arrow, the system instantly scans the area in front of you and locks onto the nearest valid target. As the arrow flies through the air, it will physically curve, make sharp turns, and even pull a complete U-turn to hunt down the enemy. It is mathematically impossible for the target to dodge it once the lock-on is confirmed.
+
+To make the combat feel incredibly satisfying, I added custom visual and audio feedback. When you look in the general direction of an enemy, they will be highlighted with custom flame particles, and a satisfying Lock-On sound effect will play. Your Heads-Up Display (HUD) will even show you the exact name of the target you are locked onto.
+
+The 4 Smart Target Modes
+
+One of the biggest issues with older aimbot mods is that your arrow would accidentally curve and hit your own pet dog or a random cow instead of the Zombie attacking you. I fixed this by building 4 highly specific Target Modes that you can switch between depending on your current situation:
+
+- Hostile Only Mode: The perfect survival setting. Your arrows will completely ignore passive animals and only lock onto monsters. Whether it is a Creeper, an Enderman, or a Warden, the arrow will find them in the dark.
+
+- Passive Only Mode: Are you running low on food? Switch to this mode, and your arrows will only track animals like Pigs, Cows, Chickens, and Rabbits. Hunting has never been this easy.
+
+- Players Only (PvP Mode): This is the ultimate friendship destroyer. If you are playing on a multiplayer server, this mode forces your arrows to exclusively track other players. No matter how fast they run or jump, your arrows will curve around trees to hit them.
+
+- All Mobs Mode: Total chaos. The arrow will simply lock onto whatever living entity is closest to the crosshair.
+
+Extreme Combat Upgrades
+
+I wanted to give you total control over how powerful your weapon is. I added several combat modifiers that you can toggle to completely dominate your survival world:
+
+- Headshot Mode: Why just hit the enemy when you can instantly eliminate them? Toggle this mode ON, and the arrows will automatically target the upper hitbox of the enemy, dealing massive critical damage.
+
+- Multi-Target Mode: If you are using a Crossbow with the Multishot enchantment, this feature is insane. It allows the script to track multiple different enemies at the exact same time, sending a swarm of homing arrows in different directions.
+
+- Arrow Speed Control: You can artificially increase the flight speed of your arrows from 1x up to 3x speed. At maximum speed, the arrow hits the target the exact millisecond it leaves your bow.
+
+- Adjustable Range: You can set the scanning range of your Aimbot anywhere from a close-quarters 10 blocks up to a massive 50-block sniper range.
+
+Live Stats Tracking & In-Game UI
+
+If you are an absolute sniper, you want to know your stats. The addon features a silent background tracker that pe

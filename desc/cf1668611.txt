@@ -1,0 +1,23 @@
+I RECOMMND USING THE BLOCK DISPLAY ADDON WITH SOME OF THE MODELS
+
+which you can find here --> https://www.curseforge.com/minecraft-bedrock/addons/block-display
+
+This addon for minecraft bedrock will allow you to create your own backrooms or liminal space worlds or building just for the fun of it
+
+This is the very first preview for the bedrock version so expect a lot of bugs but they will be fixed later on
+
+So far everything in this addon is a ported version of my java mod but so far it includes
+
+-Level 0 (The Backrooms) Blocks
+
+-Level 37 (Poolrooms) Blocks
+
+-Semi of Level RUN!! Blocks
+
+-Semi of Level FUN Blocks
+
+-Semi Level 94 Blocks
+
+This is something that took a little while to get all the blocks ported over but as of right now this is the first version of the addon so DO EXPECT BUGS AND WEIRD TEXTURES
+
+MAKE SURE YOU ENABLE IT IN GLOBAL RESOURCES IN SETTINGS THEN IN THE BEHAVIOR PACKS WHEN YOU CREATE A WORLD!!!

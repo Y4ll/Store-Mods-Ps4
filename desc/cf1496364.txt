@@ -1,0 +1,35 @@
+No Fog Ultra
+
+with No Fog Texture Pack, fog is completely removed to give you maximum visibility across all environments, making distant terrain clear even at lower render distances. This improves PvP by helping you spot players and mobs faster without any visual obstruction, giving you a strong advantage. It also enhances exploration and building with a clean, distraction-free view while remaining lightweight and performance-friendly.
+
+With No Fog underwater fog is removed to give clear vision while swimming, helping you spot mobs, structures, and terrain easily even at low render distance.
+
+New update:
+
+Key features
+
+- No Fog ultra Completely removes fog in all biomes and dimensions.
+
+- Improves visibility at low render distances.
+
+- Better PvP awareness by making players and mobs easier to spot.
+
+- Clear view for exploration, building, and navigation.
+
+- Lightweight and smooth, no performance impact.
+
+- Keeps the game authentic and achievement-safe (no behaviour pack needed).
+
+Recommended settings
+
+- Use lower or medium render distance for best performance and clarity.
+
+- Graphics mode can be Simple or Fancy the pack supports both.
+
+Install
+
+- Place the resource pack in your resource_packs folder / import it in-game.
+
+- Edit or create a world Resource Packs enable No Fog Texture Pack.
+
+No Fog Ultra Texture Pack

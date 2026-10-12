@@ -1,0 +1,412 @@
+Useful Emerald V1.5
+
+Make Emerald more useful in Minecraft Bedrock!
+
+Useful Emerald expands the uses of Emerald by adding powerful tools, armor, weapons, horse armor, and special Emerald-based equipment.
+
+Emerald is normally most useful for trading with Villagers. This addon gives it a much bigger role in Survival by allowing you to turn Emeralds into powerful equipment.
+
+Achievement Friendly
+
+No Experimental Features Required
+
+Features
+
+Emerald Equipment
+
+-
+
+Emerald Sword
+
+-
+
+Emerald Axe
+
+-
+
+Emerald Pickaxe
+
+-
+
+Emerald Hoe
+
+-
+
+Emerald Shovel
+
+-
+
+Emerald Spear
+
+-
+
+Emerald Paxel
+
+-
+
+Emerald Paxe (Coming in the next update)
+
+-
+
+Emerald Double Blade
+
+Armor
+
+-
+
+Emerald Armor
+
+-
+
+Reinforced Emerald Armor
+
+-
+
+Emerald Horse Armor
+
+Extra Features
+
+-
+
+Off-hand support
+
+-
+
+Achievement Friendly design
+
+-
+
+No Experimental Features required
+
+Emerald Tools
+
+Emerald tools are designed to provide powerful combat stats while maintaining high durability and mining speed.
+
+All standard Emerald tools have:
+
+1750 Durability
+
+Emerald Sword
+
+Stat
+Value
+
+Damage
+8
+
+Durability
+1750
+
+Mining Speed
+9
+
+Emerald Axe
+
+Stat
+Value
+
+Damage
+7
+
+Durability
+1750
+
+Mining Speed
+9
+
+Emerald Pickaxe
+
+Stat
+Value
+
+Damage
+6
+
+Durability
+1750
+
+Mining Speed
+9
+
+Emerald Hoe
+
+Stat
+Value
+
+Damage
+5
+
+Durability
+1750
+
+Mining Speed
+9
+
+Emerald Shovel
+
+Stat
+Value
+
+Damage
+4
+
+Durability
+1759
+
+Mining Speed
+9
+
+Emerald Spear
+
+Stat
+Value
+
+Damage
+5
+
+Durability
+1750
+
+Emerald Paxel
+
+Three tools. One item.
+
+The Emerald Paxel combines the functions of:
+
+-
+
+Pickaxe
+
+-
+
+Axe
+
+-
+
+Shovel
+
+into one powerful multi-tool.
+
+Stat
+Value
+
+Damage
+12
+
+Durability
+3500
+
+Mining Speed
+12
+
+Emerald Paxe
+
+Two tools. One item.
+
+Coming in the next update!
+
+The Emerald Paxe will combine the functions of:
+
+-
+
+Pickaxe
+
+-
+
+Axe
+
+into a single versatile tool.
+
+Emerald Paxe Stats
+
+Stat
+Value
+
+Damage
+10
+
+Durability
+2625
+
+Mining Speed
+10
+
+The Emerald Paxe will follow the same multi-tool system introduced by Better Paxels.
+
+More Paxels & Paxes
+
+Want more multi-tools?
+
+Check out Better Paxels
+
+It adds multiple Paxel and Paxe variants using different materials.
+
+Emerald Double Blade
+
+A powerful Emerald weapon.
+
+The Emerald Double Blade is a special weapon made from Emerald.
+
+It is designed to deal significantly more damage than a standard sword.
+
+Stat
+Value
+
+Damage
+25
+
+Durability
+3500
+
+Mining Speed
+9
+
+Emerald Armor
+
+Protect yourself with a complete set of Emerald Armor.
+
+Emerald Helmet
+
+Stat
+Value
+
+Defense
+3
+
+Durability
+1750
+
+Emerald Chestplate
+
+Stat
+Value
+
+Defense
+8
+
+Durability
+1750
+
+Emerald Leggings
+
+Stat
+Value
+
+Defense
+6
+
+Durability
+1750
+
+Emerald Boots
+
+Stat
+Value
+
+Defense
+3
+
+Durability
+1750
+
+Reinforced Emerald Armor
+
+Need even more protection?
+
+The addon also includes Reinforced Emerald Armor.
+
+This upgraded armor provides significantly higher defense and durability than the standard Emerald Armor.
+
+Reinforced Emerald Helmet
+
+Stat
+Value
+
+Defense
+6
+
+Durability
+3500
+
+Reinforced Emerald Chestplate
+
+Stat
+Value
+
+Defense
+14
+
+Durability
+3500
+
+Reinforced Emerald Leggings
+
+Stat
+Value
+
+Defense
+11
+
+Durability
+3500
+
+Reinforced Emerald Boots
+
+Stat
+Value
+
+Defense
+6
+
+Durability
+3500
+
+Emerald Horse Armor
+
+Protect your horse with Emerald Horse Armor.
+
+Emerald Horse Armor gives your horse additional protection while matching the Emerald equipment set.
+
+Off-Hand Support
+
+Keep your main hand free.
+
+Emerald tools can be placed in the off-hand.
+
+This allows you to keep another item in your main hand while still having access to your Emerald equipment.
+
+Achievement Friendly
+
+No Experimental Features Required
+
+One of the main goals of Useful Emerald is to keep the addon suitable for normal Survival gameplay.
+
+Experimental Features are NOT required.
+
+You can use the addon without enabling Experimental Features.
+
+Installation
+
+-
+
+Download the latest .mcaddon file.
+
+-
+
+Open the file with Minecraft Bedrock Edition.
+
+-
+
+Wait for Minecraft to import the addon.
+
+-
+
+Create a new world or edit an existing world.
+
+-
+
+Activate Useful Emerald.
+
+-
+
+Enter your world

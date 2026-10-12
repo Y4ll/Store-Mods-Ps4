@@ -1,0 +1,3 @@
+BL Shader is a lightweighttomedium graphics shader designed to make Minecraft worlds look brighter, cleaner, and more realistic without turning the game into a slideshow. It focuses on natural lighting, reflective water, and dynamic atmospheric effects.
+
+(All photos can be checked in the media or below.)

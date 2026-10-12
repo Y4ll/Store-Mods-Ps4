@@ -1,0 +1,33 @@
+Project Description:
+
+Are you ready to bring your Minecraft world into the modern era? After all, nothing says modern quite like spending all your time staring at a mobile phone. Text your friends with real-time notifications, share updates on the go, and stay connected no matter where your adventures take you.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Actual message sending.
+
+- Action bar notifications.
+
+- Sound notifications.
+
+- Offline memory.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+Change the dye to create any colour you want.
+
+When you use your Mobile Phone will will get a UI pop up showing you everything your phone can do, before sending a Message to someone you will have to send a Friend Request. If your friend accepts your request you can then send messages to each other. If you or your friend are offline when a message is sent they will receive a notification when they next log in.
+
+You can check your inbox to see if anyone has messaged you when you were offline.
+
+Use your Social App to check Friend Requests, Contact List and a Block list to make sure only people you want messages from come through.
+
+You can transfer items to friends in need, this will cost you one level of XP for each transfer.

@@ -1,0 +1,53 @@
+Health Bar Indicator
+
+See every mob's health at a glance! Health Bar Indicator adds a dynamic, color-coded HP bar above every mob in your world. Watch health drain in real time as you fight, or keep track of your tamed animals, no guessing required.
+
+About
+
+Ever wanted to know exactly how much health that Warden has left? Or whether your tamed wolf needs food? Health Bar Indicator renders a smooth, percentage-based health bar directly above every mob's head. The bar updates in real time, follows the camera so it's always readable, and automatically scales for baby mobs including the new big-head baby variants introduced in 1.21.80 (26.10). This is a pure resource pack, no behavior pack needed, no experiments required. Just apply it and play.
+
+Features
+
+- Real-time HP tracking Health bars update instantly as mobs take or recover damage
+
+- 85+ supported entities Covers virtually every vanilla mob in Minecraft Bedrock
+
+- Camera-facing billboards Bars always rotate to face you for easy reading
+
+- Baby mob scaling Health bars correctly compensate for the new 26.10 baby variant system (separate baby geometry, entity-level scaling, and big-head models)
+
+- Hidden in UI Bars automatically disappear in inventory screens and spawn egg previews
+
+- Two display modes via subpack toggle:
+
+- Player + Mobs Shows health bars on all mobs AND other players
+
+- Mobs Only Health bars on mobs only (default)
+
+Updated (26.10)
+
+The 26.10 update overhauled baby mob rendering with dedicated baby geometry, baby textures, and entity-level scaling. This broke health bars on baby mobs. v1.6 fully supports the new system:
+
+- 40 baby variants updated Cow, pig, sheep, chicken, wolf, cat, fox, ocelot, panda, polar bear, rabbit, turtle, llama, camel, horse, donkey, mule, dolphin, axolotl, bee, goat, hoglin, zoglin, mooshroom, sniffer, strider, squid, glow squid, villager, zombie, husk, drowned, piglin, zombified piglin, zombie villager, skeleton horse, zombie horse, and more
+
+- Health bar position & scale auto-adjusts Each baby mob gets a uniquely tuned animation so the bar floats at the correct height regardless of entity scaling
+
+- Render controllers updated Entities now reference the new v2/v3/v4 render controllers that handle baby geometry switching
+
+- Old baby animation controllers removed Conflicting baby_transform, baby_scaling, and big_head animation controllers are stripped to prevent model glitches
+
+Installation
+
+- Download the .mcpack or .zip file
+
+- Option A: Double-tap/click the .mcpack file to auto-import into Minecraft
+
+- Option B: Move the .zip into games/com.mojang/resource_packs/ and rename to a folder
+
+- Activate the resource pack in your world settings
+
+- Choose your subpack mode: Player + Mobs or Mobs Only
+
+Note
+
+If another resource pack overrides the same entity .entity.json files, one pack's health bar or visuals may not display. Place this pack above conflicting packs for health bars to take priority.

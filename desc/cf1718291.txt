@@ -1,0 +1,41 @@
+THE CAT IN THE HAT V2
+
+Something is watching you... and it doesnt want to leave.
+
+The Cat in the Hat V2 is a story-driven Minecraft Bedrock horror addon that turns your normal survival world into a creepy stalking experience. The Cat can appear near you, watch from a distance, show up behind you, scratch at windows, make strange noises, leave mysterious gifts, and suddenly begin chasing you.
+
+As time passes, the encounters become more dangerous. You may hear footsteps when nobody is there, breathing nearby, knocking at doors, disturbing music, or see the Cat standing somewhere it definitely wasnt before. Some encounters are harmless... others begin deadly games.
+
+Hide and Seek You have only seconds to find somewhere to hide before the Cat comes looking for you.
+
+Statues Move while the music plays, but when it stops... FREEZE. One mistake may be forgiven. Make another and RUN.
+
+Staring Keep your eyes on the Cat and survive the final confrontation.
+
+Attack the Cat and things become much worse. It can enter an enraged chainsaw state and aggressively hunt players. Fighting back may not be the smartest choice...
+
+Mysterious parcels can also appear during your adventure. Open them carefully because you never know whether you will receive a gift... or accidentally start another nightmare.
+
+The addon includes creepy custom sounds, 4D models, animations, stalking encounters, chase sequences, story progression, multiplayer support, and multiple horror events designed to keep you wondering when the Cat will appear again.
+
+Dont want to wait for a random encounter? The addon also includes instant /function commands that let you manually trigger encounters such as:
+
+/function hattedguest/window
+
+/function hattedguest/behind
+
+/function hattedguest/chase
+
+/function hattedguest/hide_seek
+
+/function hattedguest/statues
+
+/function hattedguest/stare
+
+/function hattedguest/finale
+
+/function hattedguest/help
+
+Play at night, turn your volume up, enter Survival mode... and try not to look behind you.
+
+He is already here.

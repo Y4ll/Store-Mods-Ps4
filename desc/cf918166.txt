@@ -1,0 +1,61 @@
+ExtraBiomes
+
+ExtraBiomes is a world generation addon/mod for Minecraft, available for both Bedrock and Java Edition, that adds 26 new biomes to the overworld, along with the mobs, blocks, and structures to fill them, from burnt forests and jellyfish-filled oceans to a floating Sky City above the mountains. On Bedrock, all textures include PBR maps, so the addon works with RTX resource packs and the new shader system out of the box.
+
+Official downloads sources:
+
+Bedrock:
+
+- Curseforge
+
+- mcpedl
+
+- modbay
+
+- GitHub Releases
+
+Required Bedrock Experiments:
+
+Java:
+
+- Curseforge
+
+- Modrinth
+
+- GitHub Releases
+
+The Java port is currently in beta and supports Minecraft 1.20.1 through 26.3 (1.20.1, 1.20.2, 1.20.4, 1.20.6, 1.21.1, 1.21.3, 1.21.4, 1.21.5, 1.21.8, 1.21.10, 1.21.11, 26.1.2, 26.2 and 26.3). It requires architectury-api, TerraBlender and GeckoLib as dependencies. It can also be compiled from source by cloning this repo.
+
+Compatibility
+
+Compatibility has been tested with the mods in this grid however if you happen to run into a feature cycle out of order bug, create a github issue, stating the mod and versions and I will look into it, but in the meantime using Feature Recycler will solve it
+
+Overworld Surface Biomes
+
+Ever wondered what would happen to a mesa biome over the winter? well, this is it, the frozen mesa, and it is just that, in most ways, it is very similar to the regular mesa, just in a cooler climate, and also the underground mesa generates here.
+
+These frozen mountain biomes were once mesa plateau's but as glacial erosion wore them down they became stunning peaks.
+
+Also like the frozen mesa plateau, this is a variant of the frozen mesa, but instead of being a big flat hill, this is essentially the regular frozen mesa, but with the Bryce pillars.
+
+A desert biome with towering Bryce pillars
+
+The deep dark forest is a once beautiful forest biome, now corrupted by sculk.
+
+the jungle marsh is a swamp-like biome found inside jungles, Mushrooms, and swamp trees will spawn here, as well as tiny jungle trees in shallow areas, tree stumps below the water level and lots of piranhas spawn here, so watch out in the water!
+
+This biome is a jungle with gigantic pillars of stone shooting up through the skyline
+
+When a mesa becomes humid enough to support a jungle biome, a jungle can start to spread over the mesa to form a lush mesa, In this biome, there is a lower section where a jungle spawns, however at higher levels, it is still too dry for a jungle to spread.
+
+the lush mesa Bryce is one of my favourite biome so far in Extrabiomes, it is very similar to the regular lush mesa, however, this has the Bryce pillars from mesa Bryce biomes, as well as lots of little lakes throughout the biome, which look really nice!
+
+the floating jungle is a jungle biome found at the tallest peaks of the world, and above those peaks the jungle floats: sky islands of grass and stone hang in the air with vines, roots and waterfalls trailing from their undersides, wisps of cloud drifting beneath them. Some islands are joined by giant log canopy bridges, and on the rarest archipelagos an overgrown ruin holds a chest of loot
+
+the fungal jungle emerges when a jungle meets a Mushroom Island, with patches of mycelium spread across the ground letting hoppleshrooms and mushrooms live here, and the dense jungle around their clearings contains large numbers of new mushrooms
+
+The futuristic desert is a very rare custom desert biome with white concrete being used as sand with little futuristic trees, This biome was the first biome added before I was even planning to make it into what ExtraBiomes is today.
+
+The glacier is an extremely deep block of ice stretching from the top of the glacier which is the height of your average hill all the way down to bedrock, with the lower layers containing Ice Caves where Lapis has a higher chance of spawning.
+
+The Grand Oasis is a desert variant, with streaks of red sand running through, lots of palm trees, hidden treasure, 

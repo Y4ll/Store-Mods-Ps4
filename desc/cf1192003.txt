@@ -1,0 +1,28 @@
+When a player dies, a dead body appears at the death spot it automatically stores all your dropped items safely. No more hunting for scattered loot
+
+Showcase & Custom skin Tutorial Video
+
+https://youtu.be/5Yc80rAW76s
+
+||Free To Use Just Give Me Credit||
+
+Just hit your body, and a simple UI menu opens tap Grave Open, and all your items drop back instantly.
+
+Youll also receive your death coordinates as feedback, making it easy to find your body
+
+again.
+
+Custom Skin Support:
+
+Custom skin guide
+
+You can even make your dead body look like you!
+Just follow these steps:
+
+Remove ".mcaddon" and rename ".zip" > and extract folder> rp > textures > entity> custombody> delete skin > paste custom skins > rename with previous skin like 1.png, 2.png...8.png
+
+If you loose your world Achievement And want to Re Enable
+
+Check this YT Showcase
+
+https://youtu.be/OflDLYkK7nw

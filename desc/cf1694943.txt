@@ -1,0 +1,9 @@
+Luster Stalker is the official Bedrock Edition port of my original Luster Stalker Minecraft Java mod, based on the original Luster Stalker character and concept created by canaldocavassini2.
+
+This project is an officially authorized Minecraft adaptation, developed with the permission and support of the original creator.
+
+The Bedrock Edition port aims to faithfully recreate the Java mod's encounters, mechanics, behaviors, and atmosphere while adapting them to work naturally within Minecraft Bedrock Edition.
+
+The original Luster Stalker character and concept were created by canaldocavassini2.
+
+Java mod and Bedrock Edition port created and developed by Omayoba.

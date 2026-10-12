@@ -1,0 +1,77 @@
+Weather Immersion is a Minecraft Bedrock addon that completely transforms how weather looks and feels in your world. Rain becomes a layered, wind-driven downpour with surface splashes. Snow biomes erupt into dense blizzards with howling wind streaks. Deserts fill with thick, gritty sandstorms. Everything is automatic, just install and play.
+
+Immersive Rain
+
+- Falling rain streaks that react to wind direction
+
+- Drizzle sheets filling the air with volume during storms
+
+- Water surface ripples, crown splashes, and expanding impact waves
+
+- Solid surface drip effects on grass, stone, and dirt
+
+- Thunderstorm fog with reduced visibility
+
+- Atmospheric mist layer during heavy storms
+
+- Rain automatically skips deserts and frozen biomes
+
+Blizzard
+
+- Dense wind-driven snowfall with crystal snowflake particles
+
+- Horizontal wind streaks for a howling gale effect
+
+- Ground swirl snow kicked up from the surface
+
+- Thick whiteout mist haze
+
+- Blizzard fog that cuts visibility dramatically
+
+- Activates only in frozen/snowy biomes during thunderstorms
+
+Sandstorm
+
+- Thick sand cloud with angular, gritty grain particles
+
+- Fast-moving sand sweep sheets for dramatic wind gusts
+
+- Ground dust kicked up from the desert floor
+
+- Warm sandy brown fog reducing visibility
+
+- Activates in desert and mesa/badlands biomes during any weather event
+
+- Thunder intensifies the effect with denser particles
+
+How It Works
+
+Every effect is fully automatic. The addon detects your biome by scanning ground blocks around you:
+
+Standing on snow/ice? You get blizzards. Standing on sand/terracotta? You get sandstorms. Everywhere else? You get immersive rain.
+
+When you go underground, enter a building, or go underwater, all weather effects and fog automatically stop. When weather clears, everything cleans up instantly.
+
+-Important Note
+
+This pack will not appear in the main Settings Packs menu. To activate it, edit or create a world, go to the Behavior Packs section, and enable the addon there.
+
+-How To Use
+
+Install the .mcaddon file
+
+Edit or create a world
+
+Go to Behavior Packs and enable "Weather Immersion"
+
+Weather effects activate automatically no commands, no settings, just play!
+
+-Compatibility
+
+- Minecraft Bedrock 1.21.0+
+
+- Works in Survival and Creative
+
+- Multiplayer compatible
+
+- Compatible with other addons (no vanilla file overrides except particle materials)

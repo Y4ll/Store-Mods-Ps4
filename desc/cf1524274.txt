@@ -1,0 +1,77 @@
+Neq Stylish Circular Hotbar V1
+
+Creator: Neq Gamerz
+
+Upgrade your Minecraft Bedrock UI with a modern and stylish circular hotbar design. This texture pack completely transforms the default hotbar into a smooth, rounded interface, giving your gameplay a clean and premium look.
+
+Features
+
+Circular Hotbar Design
+
+Replaces the default rectangular hotbar with a sleek circular layout.
+
+Enhanced Selection Highlight
+
+Smooth and visually appealing slot selection effects for better visibility.
+
+Minimal & Clean UI
+
+Designed to maintain clarity while improving aesthetics.
+
+Lightweight Performance
+
+Optimized textures ensure no lag or performance drops.
+
+Subpack Support (Lite Version)
+
+Includes a lighter version for better compatibility on low-end devices.
+
+How It Works
+
+This pack modifies the in-game HUD by replacing:
+
+- Default hotbar textures
+
+- Slot selection indicators
+
+- UI layout via custom HUD JSON
+
+Once activated, the hotbar appears as a circular segmented bar, making your inventory feel more dynamic and modern.
+
+Compatibility
+
+- Minecraft Bedrock Edition (1.21+)
+
+- Works on Android, iOS, and Windows
+
+- Not compatible with some UI-altering packs (may conflict)
+
+Redistribution Policy
+
+- Redistribution is strictly prohibited.
+
+- Do NOT re-upload, modify, or share this pack as your own.
+
+- Do NOT provide direct download links on any platform.
+
+For YouTube Creators:
+
+- You are allowed to showcase or review this texture pack in your videos.
+
+- However, you must NOT share the direct download link.
+
+- Instead, always redirect viewers to the original creator/source.
+
+Notes
+
+- Works best when placed at the top of the resource pack list.
+
+- If UI glitches occur, disable other UI packs.
+
+- Designed purely for visual enhancement, no gameplay changes.
+
+Summary
+
+A clean, modern, and visually satisfying circular hotbar UI pack that enhances your Minecraft experience without affecting performance.
+
+Enjoy a fresh new look in your world!

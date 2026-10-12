@@ -1,0 +1,58 @@
+LUMEN: THE DEFINITIVE IMMERSIVE EXPERIENCE
+
+Lumen is a high-quality resource pack crafted to transform Minecraft into a living, breathing world. Every detail is designed to enhance depth, realism, and atmospherewhile preserving the iconic vanilla identity.
+
+DUAL SKY SYSTEM
+
+Choose your horizon. Shape your world.
+
+REALISTIC SKY: Experience breathtaking, high-fidelity vistas with cinematic depth.
+
+VANILLA+ SKY: A refined classic look that shines beautifully even without shaders.
+
+MOBILE OPTIMIZED
+
+Built for smooth performance without Vibrant Visuals.
+
+For the ultimate next-gen experience, enable them and unlock the full visual power of Lumen.
+
+CORE FEATURES
+
+ATMOSPHERIC AMBIENCE: Carefully tuned environmental settings across all dimensions.
+
+DYNAMIC PARTICLES: Enhanced effects for combat, interactions, and world feedback.
+
+IMMERSIVE SOUNDS: Reworked rain audio for a deeper, more realistic atmosphere.
+
+LEGENDARY UI: Custom Boss Bar designed for more epic encounters.
+
+UNIQUE DETAILS
+
+PUMPKIN HUD OVERHAUL: Custom pumpkin visuals that preview villager trades and future features.
+
+3D GEOMETRY: Blocks and items with true physical depth and refined modeling.
+
+PBR-READY MATERIALS: Designed to support advanced lighting with normal and roughness maps.
+
+AND MUCH MORE... Constant updates, hidden details, and evolving content.
+
+Version 1.2 Changes REALISTIC SKY
+
+Added new fogs to the overworld and its biomes
+Adjusted water volume and density
+Improved block definition and surface detail
+Enhanced visuals in the End and Nether dimensions
+Expanded emissive lighting effects across multiple blocks
+
+Version 1.6 Changes - Hable
+
+Fixed fog issues
+Improved lighting and block visuals
+Stability and optimization for devices and consoles
+
+Version 1.9 Changes - ACES
+
+Added new MER textures
+Added new loading backgrounds
+Performance adjustments
+Added new block edits

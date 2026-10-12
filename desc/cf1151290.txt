@@ -1,0 +1,51 @@
+This is a simple and powerful addon that adds dynamic light for all blocks and items, even with custom light blocks.
+
+Why should I use this add-on? Great question. It's because this add-on is fully customizable. Other developers can add their compatibility with this add-on with a simple scripting technique. So, in the future, it should be compatible with a bunch of add-ons (I hope so).
+
+Features
+
+- Dynamic Light
+
+- Offhand item (right click on air while holding an item
+
+- Documentation
+
+Compatibility
+
+this addon is compatible with Novelty addon by using lanterns in a belt or charm slot it will emit light without holding the items in both hands
+
+Documentation
+
+You can copy the scripting library from this addon in the folder "scripts/lib/DynamicLightLib.js" The example of code:
+
+import { DynamicLightLoader } from "./lib/DynamicLightLib.js";
+
+DynamicLightLoader.addItemLight("minecraft:brush", 14);
+
+DynamicLightLoader.addEntityLight("minecraft:cow", 11);
+
+DynamicLightLoader.addEntityEventLight("minecraft:entity_spawned", 15, 100);
+
+You can also use tag format to add custom dynamic light items. format tag you need is like:
+
+dynamic_light:<light level 1-16>
+
+as an example:
+
+{
+"format_version": "1.20.80",
+"minecraft:item": {
+"description": {
+"identifier": "example:custom_light_item"
+},
+"components": {
+"minecraft:icon": "brush",
+"minecraft:tags": {
+"tags": [
+"dynamic_light:10"
+]
+},
+"minecraft:max_stack_size": 1
+}
+}
+}

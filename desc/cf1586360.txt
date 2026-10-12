@@ -1,0 +1,71 @@
+Greetings.
+
+this is the wisp smp addon, recreated from the scripted smp call wisp smp, this addon features same custom item, command block, powers, structure, and some my own touch of nbt items, The addon is pretty customizeable and have the actual working features such as the lives system or the famous book'o'knowledge item, i hope y'all will like this addon
+
+Heres a little summary :
+
+Wisp SMP :
+
+Wisp SMP is a custom behavior pack addon built for private SMP servers. It extends the survival experience with a lifesteal system, unique custom items, and a chaotic interactive block all designed to create high-stakes, player-driven moments.
+
+Lifesteal System
+
+Players lose hearts on death and can steal them back from others. Colored nametags reflect each player's current heart count at a glance. Admins have full control over starting lives, loss-on-death values, natural death behavior, spectator mode on elimination, and ban management all through an in-game settings UI.
+
+Custom Items :
+
+Book of Knowledge An XP-gated tome with 7 unlockable pages. Spend levels to summon bosses, forge named Netherite tools, teleport to your placed origin point, siphon XP from nearby players, roll random effects, open gateways, or trigger the Kunara Rupture at max level.
+
+Snorlax Snowball An custom snowball that launches that makes the player unable to move till they get hit again.
+
+Enchanted Comparator / Active Comparator A two-stage restrictor item that locks a target player out of a chosen item for a configurable duration.
+
+( to get the active Comparator, drop the Comparator and the item you want to restrict on a crafting table, you will get the active restrictor that on hitting any player will restrict them )
+
+Eye of Revival One-hit kill on left-click attack. And 3 time of use revival One-hour cooldown on hit.
+
+Time Clock slows down the nearby opponents with a configurable 2-minute cooldown.
+
+Conjoined Twins (Thing 1 & Thing 2) A paired mechanic that links two players together with a shared timer. ( to be a conjoin twin make you and your friend get the thing 1 and thing 2 and right clicking both of them will make you the twin, while you are twin you are immortal but if both of twins health goes down below 3 you will be mortal for 60 second)
+
+Index Hit the player to scramble their inventory and right click to steal the item from their hand for 5 minutes, crouch + right click to staft a 10 second timer in which your hit will clear the data of the player you will hit, but it'll also kill you and thats a drawback
+
+Information : this are the 9 custom items but the addon have 13-14 nbt items too like mugm sword and divison rod, feel free to get them from admin menu or from the block itself
+
+Custom block :
+
+Wisp Block (Block of Fate)
+
+Wisp block is a command block textured custom block that on 1st intreact explodes and then avtivate as a rolling fate, you can get custom item, nbt item and stack or blocks but the block is not all rainbow and sunshine, the chances of negative is more than good means the chances to insta kill is there too as well as summoning 10 withers, 50 wardens, and even teleporting the player to nether roof or 50000 block away from spawn
+
+The possibilities are endless. Or maybe not.
+
+What endless is.
+
+Your dreams.
+
+Admin Controls & commands :
+
+Admin panel :
+
+The addon have a cool admin panel where you can manually select block of fate's fate or disable it shift it and even teleport to it. The admin menu have revive section, config section and well everything a person need to manage.
+
+Commands :
+
+cen:wisp_admin opens the admin panel
+
+cen:conjoinedtwins links two players as Conjoined Twins ( for operators to test, otherwise use thing 1 and thing 2 right click to combine )
+
+cen:lifesteal toggles lifesteal on/off
+
+cen:clearcooldowns clears all cooldowns for yourself
+
+cen:cooldown sets cooldown duration for a specific item
+
+Credits :
+
+Hi, thanks for reading so far : D
+
+Mostly the addon is maded by me yan or kaalu xD
+
+But the actual idea and 

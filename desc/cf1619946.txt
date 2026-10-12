@@ -1,0 +1,91 @@
+Simple Farming (Unofficial)
+
+A peaceful farming-themed biome add-on ported from Java Edition to Bedrock.
+
+Requires Minecraft Version 26.3+
+
+Port Permission This add-on is an unofficial port of Simple Farming by enemeez1, originally released for Java Edition. Ported to Bedrock under the terms of the MIT License, which permits adaptation and redistribution with attribution. Special thanks to enemeez1 for creating this excellent mod!
+
+Simple Farming:
+
+Bring a deeper, more rewarding farming experience to Minecraft: Bedrock Edition with Simple Farming.
+
+This add-on expands agriculture far beyond the standard wheat field. Grow a wide range of fruits, vegetables, grains, herbs, and specialty crops, then use your harvests to prepare new meals, drinks, ingredients, and desserts. Build orchards filled with fruit trees, search the world for wild plants, cultivate grapes on trellises, and process ingredients using new farming blocks.
+
+Simple Farming is designed to feel like a natural extension of Minecraft. Crops grow through familiar farming mechanics, bone meal works as expected, fruit trees fit naturally into survival worlds, and the included guidebook helps explain the important systems without revealing every secret.
+
+What You Can Expect:
+
+Discover dozens of new crops and produce, including vegetables, grains, berries, fruits, melons, gourds, and more.
+
+Grow fruit trees with unique saplings, leaves, logs, and harvestable produce.
+
+Build functional grape trellises and allow vines to spread and produce hanging grapes.
+
+Use scythes to harvest mature crops more efficiently, with multiple material tiers available as you progress.
+
+Collect seed packets, find wild plants throughout the world, and expand your farm with crops that are not immediately available through ordinary crafting.
+
+Prepare a large selection of foods, including breads, pies, cakes, sandwiches, soups, salads, meals, sweets, drinks, dairy products, and other ingredients.
+
+Use farming equipment such as the Brewing Barrel to process certain ingredients and create new products.
+
+Track your farming progress through the in-game guidebook and work toward a special completion reward.
+
+There is much more hidden throughout the add-on, so not every crop, recipe, interaction, or reward is listed here. Part of the experience is building your farm, experimenting with ingredients, and discovering what Simple Farming has to offer.
+
+Guidebook:
+
+Players receive an in-game guidebook that explains the add-ons major features, food statistics, crafting methods, crop information, and important farming mechanics.
+
+The guidebook is intended to help confused players while still leaving room for exploration and discovery.
+
+This addon adds new crops, harvestable fruit trees, berry bushes, new farming features, new foods, cooking features, new tools, more plants, more loot, and a whole lot more! I hope you enjoy!
+
+All Food listed in spoiler below:
+
+ALL FOOD:
+
+Fruits and Berries
+
+Apricot, Banana, Blackberries, Blueberries, Cactus Fruit, Cherries, Grapes, Mango, Olives, Orange, Pear, Plum, Raspberries, Strawberries
+
+Vegetables
+
+Broccoli, Cucumber, Cumin Seeds, Eggplant, Habanero Pepper, Lettuce, Pepper, Spinach, Tomato
+
+Melons and Gourds
+
+Cantaloupe, Honeydew Melon, Squash, Zucchini
+
+Roots and Tubers
+
+Cassava, Chicory Root, Ginger, Marshmallow Root, Onion, Radish, Sweet Potato, Turnip, Yam
+
+Grains
+
+Corn, Quinoa Seeds, Sorghum
+
+Legumes
+
+Pea Pod, Peanut, Soybean
+
+Breads
+
+Banana Bread, Barley Bread, Cornbread, Oat Bread, Rice Bread, Rye Bread, Sorghum Bread, Zucchini Bread
+
+Soups and Stews
+
+Borscht, Broccoli Cheese Soup, Carrot Soup, Chicken Noodle Soup, Chili, Cucumber Soup, Onion Soup, Pea Soup, Pumpkin Soup, Radish Soup, Sausage & Barley Soup, Squash Soup, Tomato Soup
+
+Salads
+
+Caesar Salad, Corn Salad, Fruit Salad, Olive & Tomato Salad, Quinoa Salad, Salad
+
+Bowls and Porridges
+
+Oatmeal, Rice Bowl, Sorghum Porridge, Vegetable Medley
+
+Sandwiches
+
+BLT Sandwich, Egg Sandwich, Fish Sandwich, Italian Beef Sa

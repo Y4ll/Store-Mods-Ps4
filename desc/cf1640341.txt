@@ -1,0 +1,93 @@
+An unofficial faithful port for Bedrock Edition of MrGamingLoons' Colourful OreUI resource pack.
+
+This OreUI inspired GUI re-texture brings Minecraft's interface to life. Featuring a premium gradient finish, fluid animations & colourful elements.
+
+Do you want an experience where youre not greeted by the same grey interface every time you open a container? If so, Colourful OreUI is for you.
+
+This pack changes practically every GUI and UI element in minecraft, featuring; fluid animations, polished, premium gradient finish, fresh boss bars and fresh shader panorama's for each version. Oh, and a whole load more that brings colour and life to Minecrafts UI.
+
+Proof of permission
+
+Main Features
+
+- redesigned GUI screens
+
+- toggleable animated screens
+
+- dynamic title backgrounds' sizes
+
+- coloured shulker boxes based on their prefix (see guide below)
+
+- solid compatibility with most resource packs
+
+- dedicated compatibility support for Deesse UI
+
+Available customization
+
+- disabling the custom hud with subpacks: settings (from the main menu or from a world menu, not inside of a world) -> global resources (or 'resource packs') -> gear icon -> set the slider to 'Vanilla Hotbar'
+
+- removing the big left panel in the loom and in the grindstone: click the recipe book toggle
+
+- disabling animations: click on the animation toggle, which is the toggle with the grass block icon that you find under the close button
+
+- enlarging/diminishing the close button and the animation toggle: go to settings -> video -> select 'Pocket UI' if you want to enlarge, 'Classsic UI' if you want to diminish it.
+
+Colouring Shulker boxes
+
+Due to Bedrock Edition's limitations, shulker boxes' screens do not automatically inherit their colour. In order to colour shulker boxes, you can either rename them manually with the anvil or download a script to do that automatically. We'll first go the renaming method first. Add one of these prefixes to your shulker box's name. If you want to keep the default formatting, add r after the prefix. For example, if you want to have a red shulker box display red, you'd have to rename it 'crShulker Box'. The text doesn't necessarily need to be 'Shulker Box', it just needs to start with one of the prefixes, otherwise it will display the default colour. Here is the full table. Some colours have multiple colour codes:
+
+Black: 0 or j
+
+Blue: 9 or 1
+
+Brown: n
+
+Cyan: 3 or s
+
+Grey: 8
+
+Green: 2 or q
+
+Light Blue: b
+
+Light Grey: 7, h or i
+
+Lime: a
+
+Magenta: 5
+
+Orange: p, 6 or v
+
+Pink: d
+
+Purple: u
+
+Red: c, 4 or m
+
+White: f
+
+Yellow: e or g
+
+Alternatively, in order to automate this process you can use a script. One that I tested and therefore recommend is Redstone Chicken's Colourful Containers BE: Script.
+
+Preserving copper chests' theme in renamed containers
+
+Again, due to our beloved Bedrock limitations, copper chests will lose their theme when renamed, becoming normal chests instead in the GUI. To prevent this, you can insert 'nr' (although 'n' will work too, but the shadow will have some issues) as a prefix of the item name when you rename it in an anvil.
+
+Packs with dedicated compatibility support
+
+This list contains all the resource packs that are in a sense 'officially' supported by Colourful OreUI, meaning that I made dedicated code or textures that appear with that pack only in order to improve compatibility with Colourful OreUI.
+
+Only UI packs need dedicated support usually. The fact that a pack isn't on the list doesn't necessarily mean it's not compatible. You can suggest other packs that should have dedicated compatibility support here.
+
+- Deesse UI by ItzRiyo157
+
+- [known issue] The hover green rectangle that appears with the 'move column' mode active isn't perfectly aligned with the pack. As of now this is unfixable due to how Deesse UI is structured.
+
+- Advanced Containers by Dimzcraft
+
+FAQ
+
+Q) What versions does this resource pack support?
+
+A) The latest version of Colourful OreUI, which as of now is 1.2, supports every Bedrock Ed

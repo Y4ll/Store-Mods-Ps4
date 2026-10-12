@@ -1,0 +1,21 @@
+NeBux GUI - Dark Mode
+
+NeBux GUI is a Minecraft Bedrock resource pack that gives every usable block its own themed interface. Each block has a matching GUI for a clean and consistent look, enhancing the visual experience.
+
+This pack is a standalone version of my NeBux UI.
+
+If you want this GUI along with additional features like Guides, Quick Loot, Drop One Item, Drop All Items, and Quick Move, you can check out the Pocket GUI pack on CurseForge or Pocket GUI on MCPEDL.
+
+Want light mode version? Click here
+
+NeBux GUI Light Mode
+
+Features
+
+- Themed GUIs for all usable blocks (crafting table, furnace, anvil, etc.).
+
+- Clean and consistent design for immersive gameplay.
+
+- Dark Mode interface for a modern and stylish look.
+
+Recommendation: This pack only changes the GUI to dark mode. If you are not already using a dark mode texture pack, you should also download a separate dark mode texture for a complete experience. This pack is recommended only for dark mode users.

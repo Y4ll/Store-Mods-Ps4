@@ -1,0 +1,51 @@
+JM Land Claim Protect Your Builds, Trust Your Friends
+
+JM Land Claim is a lightweight, powerful land protection addon for Minecraft Bedrock Edition, designed especially for survival multiplayer (SMP) worlds and realms. It gives players a simple, intuitive way to claim land, prevent griefing, and control who can interact with their builds all through clean, in-game menus.
+
+Features
+
+Stick-Based Claiming
+
+Use a stick to claim a 50x50 area centered on your position no commands needed.
+
+Full Block Protection
+
+Prevents others from placing, breaking, or accessing containers inside your land.
+
+Trusted Player System
+
+Add or remove friends who can interact within your claimed areas.
+
+How It Works
+
+Hold a Stick
+
+Right-click or tap while holding a stick to open the claiming system.
+
+First Use = Claim Land
+
+If you havent claimed land yet, youll be given the option to claim a plot.
+
+Manage Your Claims
+
+If youve already claimed, access a full menu to:
+
+Add or remove trusted players
+
+View all players you trust
+
+Delete your claims
+
+Protection Events
+
+Once claimed, others cant build, break, or open containers on your land unless you trust them.
+
+Installation Instructions
+
+Download the .mcpack and import it into Minecraft.
+
+Create or edit a world and activate the behavior pack.
+
+Enable Beta APIs in the Experimental Features tab.
+
+Start the world and begin claiming using a stick.

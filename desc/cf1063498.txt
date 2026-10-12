@@ -1,0 +1,98 @@
+New Tools
+
+Beharvior & Resources Packs Needed
+
+This addon does not disable achievements.
+
+Sculkite gear is slightly weaker and slower than diamond, but very useful for mining and XP farming.
+
+Full Armor: Sneaking reveals ores in a 4x4 radius for a few seconds, cooldown and hunger cost in negative layers.
+
+With 2 or more pieces: Grants immunity to Darkness and Warden sonic Attacks.
+
+Effect on hit: Weakness.
+
+On kill: Grant 1-4 extra XP orbs.
+
+Speed: Mine deepslate and sculk faster than any tier.
+
+On mine: Chance to grant XP.
+
+Sculkite ore found mostly in the Deep Dark biomes and low Y-levels;
+Must be smelted to obtain its ingot.
+
+Breezine gear is nearly as fast as gold and moderately stronger than iron.
+
+Any Piece: Reflect projectiles, with damage scaling to the amount of pieces equipped.
+
+On Hit: Breezine Tools perform a wind charge attack with a 0.6-second cooldown.
+
+Enderian gear is a good alternative to diamond.
+
+Full Armor: Jump and keep sneaking until it summons an Ender Eye;
+Do it again to teleport to its location.
+Stopping sneaking cancels both timers.
+
+With 2 or more pieces: Grants immunity to Slowness effect.
+
+Effect on hit: Slowness.
+
+Bundle: Enderian Tools can store items like bundles.
+
+Dragon Forge gear is a solid end-game alternative to Netherite.
+
+Full Armor: Grants a double jump in midair and prevents fall damage.
+
+With 2 or more pieces: Grants fire resistance.
+
+On Hit: The Dragon Forge mace is fiery, burning nearby mobs.
+
+Shulkite gear is moderately better than iron and has even more durability than netherite!
+
+Armor texture by Torrezx: CurseForge Shulker Armor Texture Pack
+
+For every 2 pieces equipped: Summon a friendly Shulker bullet that will defend you.
+
+With 2 or more pieces: Grants immunity to levitation effect.
+
+On use/Right Click: Tools can manually summon Shulker Bullets to defend you
+
+Bundle: Shulkite Tools can store items like bundles.
+
+Beehive gear is moderately better than iron.
+
+Any Piece: For every armor piece summons a bee to defend you.
+
+With 2 or more pieces: Grants immunity to poison effect.
+
+On Kill: Grant e few seconds of Regeneration.
+
+On Mine: Chance to grant saturation.
+
+With any piece: 15% chance per piece to deal damage like Thorns, damage increases with more pieces
+
+With 2 or more pieces: Grant water breathing;
+
+Each armor piece grants 2 extra hearts underwater, up to a full bar.
+
+On Hit: Prismarite tools deal triple damage to mobs in water.
+
+On Underwater: Prismarite tools grant conduit effect for mining and exploration!
+
+Item: Prismarite gear is fire-proof, just like Netherite
+
+Crafting follows the standard vanilla patterns for tools and armor.
+
+Supported Languages:
+English
+Spanish
+Portuguese
+If your language isnt supported, English will be used by default.
+
+Current Limitations / Issues:
+Animated items like breezine cannot display the glint effect when enchanted.
+Tools that function like bundles may lose stored items when used in an anvil, so its recommended to empty them first.
+The Shulkite Bundle can only be used comfortably from the inventory due to its use cooldown.
+
+Feedback
+If you think any mechanic needs adjustment or have new ideas, feel free to share them!

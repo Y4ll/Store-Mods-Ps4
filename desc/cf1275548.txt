@@ -1,0 +1,9 @@
+This mod adds a new boss fight to Bedrock Edition Minecraft known as the Endkeeper. This boss has 3 phases and a new drop for beating it. To summon the boss you must craft a new item using 8 dragon heads and 1 totem of undying then attempt to place it on the floor to summon it.
+
+Phase 1: In this phase the boss will roar which will knock you back and deal damage, it will melee attack you and it will also teleport. You can cheese the boss by pillaring up and shooting arrows if it is too difficult.
+
+Phase 2: In this phase the boss will be able to go through walls and fly. It will summon vex-like mobs known as the Endersoul.
+
+Phase 3: In this phase the boss becomes really big and starts shooting dragon fireballs and doing an aoe attack that pulls you towards the boss. After defeating this phase the boss dies and gives you a new weapon.
+
+The reward for beating the boss is the Voidstabber which is a sword that deals 10+ damage which is 1 more heart of damage than the netherite sword.

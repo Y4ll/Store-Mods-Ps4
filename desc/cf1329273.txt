@@ -1,0 +1,57 @@
+FPS Optimizer | FPS Boost for Minecraft Bedrock
+
+FPS Optimizer is a lightweight FPS boost resource pack, under 1 MB, built for smooth, stable performance on every device, from budget phones to high-end PCs.
+
+Rather than reworking how Minecraft looks, it reduces how much work your device has to do: per-biome fog, heavy particles removed, animated textures simplified, and a calmer sound mix. The result is higher, steadier FPS while the game still looks and feels like Minecraft.
+
+Features
+
+Ten in-game controls - tap the gear for two sliders and eight toggles. No reinstall, no re-download, and everything applies in both subpacks. Potion effects, witch and evoker magic, arrow trails, cauldron effects, geysers, noxious gas, sulfur and experience orbs each get their own switch, plus a Particle Amount slider and a Burst Limit slider that caps any single effect, built for splash potions, which throw 30 particles in one frame.
+
+Two performance modes - Default pushes fog past the horizon and removes 48 heavy particle effects. Max FPS switches to its own short-range fog, starting around 60 blocks, and removes 177 of the game's 192 particle effects.
+
+Per-biome fog - all 89 biomes in 26.50 have their own fog entry, plus a catch-all default so nothing slips through. None of the pack's 104 fog definitions include volumetric fog, so the pack never adds Vibrant Visuals' heaviest fog effect.
+
+Frozen animations in Max FPS - 70 of vanilla's 80 animated textures hold a single frame, including water, lava, kelp, seagrass, sea lanterns, lanterns, campfires, cauldrons, portals, command blocks and all 18 bubble column variants. Fire stays animated so it's easy to spot, and sculk animates at a reduced rate.
+
+Lighter overlays - pumpkin blur, rain splashes, the End sky and its light flashes are cleared in both modes, and rain and snow are thinned right down.
+
+Built-in Durability Display - HUD, inventory, hover text and colour-coded armor readouts, active in both modes
+
+Animated durability bars on hotbar items
+
+Numbered hotbar for faster slot recognition
+
+Calmer sound mix - 90 entities, 44 sound events and 40 sound definitions retuned, with rain, cave ambience and portal hum turned right down
+
+Works alongside most resource packs - place FPS Optimizer below anything whose visuals you want to keep, since it overrides fog, particles and UI screens
+
+Best For
+
+FPS boost & lag reduction Low-end devices and budget phones Smooth survival, PvP, and everyday gameplay Long sessions where heat and stutter build up
+
+Installation
+
+- Download the .mcpack file
+
+- Open it Minecraft will import it automatically
+
+- Go to Settings Global Resources, or World Resource Packs for per-world use
+
+- Activate FPS Optimizer
+
+- Pick your subpack Max FPS or Default then tap the gear to tune the particle controls
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.26.40 or newer, updated for 26.50 - on anything older, use v2.7 from the Files tab
+
+- Android, iOS/iPadOS, Windows 10/11, Xbox, PlayStation
+
+- Works in single-player, on servers and on Realms
+
+- No experimental features required
+
+- Works on existing worlds - no reset needed
+
+All-in-one FPS Boost pack - XiaoBoost Ultimate

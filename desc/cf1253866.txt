@@ -1,0 +1,102 @@
+Guide/Showcase [Latest Update]
+
+Important Note:
+
+DOWNLOAD BOTH THE BEHAVIOR PACK AND RESOURCE PACK
+
+This add-on uses "player.json" and may prove to be incompatible with other add-ons that use the same file.
+
+General Information
+
+Add-On Ver: v1.4.3
+Minecraft Ver Used: 26.2
+
+[Resource Pack Settings]
+
+Reduced Particles - Max Particles
+
+[Behavior Pack Settings]
+
+Zero Destruction - Max Destruction
+
+[Select Your Character Before Starting]
+
+Upon loading into the game, you are given a character select book. The book also contains a guide that teaches you mechanics, character guides and general add-on information.
+
+Combat Mechanics/Gameplay
+
+[Fatigue | Cursed Energy | Output]
+
+The core gameplay of the add-on focuses on these three stats.
+
+[Fatigue]
+
+- Fatigue starts from 0% and increases each time a technique is cast. (Stronger Technique = Higher Fatigue)
+
+- Fatigue scales technique cooldowns (Higher Fatigue = Longer Cooldowns)
+
+- Fatigue scales technique Cursed Energy costs (Higher Fatigue = Techniques Require More Cursed Energy)
+
+- Reaching 100% and above leads to [Burnout] which disables your innate Cursed Technique
+
+(Burnout lasts for 8 seconds)
+
+[Cursed Energy]
+
+- Essentially your "mana", casting techniques require different amounts of Cursed Energy
+
+[Output]
+
+- Output scales your technique damage. (Higher Output = More Damage)
+
+- Output decides Reverse Cursed Technique strength. (Higher Output = Stronger Healing)
+
+- Output decides how fast you regenerate Cursed Energy (Higher Output = Faster Cursed Energy Regen)
+
+- Output scales character abilities (Speed, Jump Height, Strength, Dash Distance, Health Boost, etc..)
+
+Black Flash
+
+A rare phenomenon that only occurs 1% of the time. Triggering a Black Flash increases one's Output by 20% and removes ALL Fatigue per hit. Any opponent hit by a Black Flash loses 10% Output and gains 5% Fatigue per hit. Chaining these hits become easier as you land more and more. 1% for the first one, 30% for the second, 60% for the third and 90% to trigger the (final) 4th Black Flash before the odds reset back to 1%.
+
+[Reverse Cursed Technique]
+
+A toggle skill that heals the user. Its effectiveness scales with [Output].
+
+[Reverse Cursed Technique + Sneak]
+
+Sneaking before using RCT is considered "Alternate Reverse Cursed Technique", it's a high-risk high-reward move that's used to reduce Fatigue and reset Output. It only grants temporary health effects that do not scale with Output. This is best used upon reaching Burnout.
+
+- If Output is below 100% but above 11%, Alt RCT restores it to 100%
+
+- If Output is 10% and below, Alt RCT restores it to 50%
+
+- If Fatigue is 100% and above, Alt RCT reduces it to 90%
+
+- If Fatigue is 99% and above 51%, Alt RCT reduces it to 30%
+
+- If Fatigue is 50% and below, Alt RCT reduces it to 1%
+
+[Simple Domain]
+
+Activating this technique protects a user from an enemy domain and its sure-hit effects. It lasts for 7-seconds and needs to be reactivated again for continuous protection.
+
+[Domain Clashes]
+
+If a user casts their Domain Expansion, you can "clash" with them by casting your own. This prevents any of your domains from manifesting until one of you receives too much punch/melee damage. Whoever receives more punch damage loses the clash. So, get ready to throw hands!
+
+[High Jump & Dash]
+
+Sneaking then jumping triggers a high jump. Sneaking longer than 1-second and then jumping triggers a dash. Both scale with Output.
+
+Characters/Skillsets
+
+[Satoru Gojo Skillset]
+
+[Six Eyes]
+
+Technically Gojo's Passive. Six Eyes allows the user to do many things, the main advantage of having it is getting reduced Cursed Energy cost for casting techniques. It gives the user Night Vision, immunity to Blindness and Darkness. Get reduced cooldowns for techniques, lesser Fatigue build up and without it, using the rest of the Limitless Cursed Technique is next to impossible.
+
+[Infinity]
+
+The neutral form of Limitless. It creates an invisible barrier around Gojo preventing any harm from reaching hi

@@ -1,0 +1,34 @@
+Particles Core is a lightweight, highly configurable texture pack that gives you full control over Minecrafts particle system.
+Designed for players who want cleaner visuals, better performance, or custom ambiencewithout breaking the vanilla feel.
+
+Key Features
+
+- Individual particle toggles enable or disable particles one by one
+
+- Clean & consistent visuals that blend seamlessly with vanilla
+
+- Performance-friendly for low to high-end devices
+
+- Enhances combat feedback, ambience, redstone, magic, and world interactions
+
+- Built to work alongside other packs with minimal conflicts
+
+Customization
+
+Particles Core includes an in-game configuration menu, allowing you to fine-tune each particle according to your preferencefrom subtle ambience to a fully minimal experience.
+
+Ideal For
+
+- Performance-focused players
+
+- PvP & competitive gameplay
+
+- Clean UI / visual overhaul setups
+
+Enjoy a smoother, more controlled particle experience. **Build your world, your way.**
+
+If you encounter any bugs, please report them on my Discord server.
+
+Support us
+
+DISCORD YOUTUBE KO-FI

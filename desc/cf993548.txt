@@ -1,0 +1,123 @@
+IF YOU WANT TO INCLUDE THIS ADD-ON IN YOUR VIDEO, PLEASE DO NOT MAKE ANY OTHER SHORTNERS OR DIRECT DOWNLOAD LINK, LEAVE THIS MCPEDL PAGE LINK! DO NOT DISTRIBUTE ADD-ON TO OTHER WEB SITES! THANK YOU!
+
+All the features will split in each category depending in which version it was implemented in!
+
+v1.0.0
+
+v1.0.0 PHOTO GALLERY
+
+BLOCKS
+
+- Calcite Blocks
+
+- Amphibolite Blocks
+
+- Sandstone Bricks and Tiles
+
+- Wax Block! Its' texture was found in 1.15 files, but never made it into the game! Obtained by smelting Honey Block!
+
+- Mossy Deepslate Bricks
+
+- Mossy and Cracked Mud Bricks
+
+- Amethyst and Deepslate Amethyst Ore
+
+ITEMS
+
+- Crystallized Honey! Another texture found in 1.15, yet not added. A new food item which is obtained by smelting Honeycomb.
+
+- Emerald Armor and Tools! When wearing a full armor set, player gets additional health bar! And, each tool, when mined a block, or hit entity, gives player effect for a couple of seconds: Pickaxe - Heist 1; Axe - Speed 1; How - Strength 1; Shovel - Water Breathing; Sword - Regeneration.
+
+WORLD GENERATION FEATURE
+
+- Amethyst and Deepslate Amethyst Ore geerates only in Lush Caves, and drops 1 - 2 amethyst shards.
+
+- Amphibolite, a new stone variant which generates all around the world between Y levels 90 - 256.
+
+v1.0.1
+
+v1.0.1 PHOTO GALLERY
+
+BLOCKS
+
+- Turqoise Froglight
+
+- Netherite Ore
+
+- Calcite, Sandstone Tiles, and Bricks, and Amphibolite Stairs
+
+- Rose
+
+- Snowy Cobblestone! Crafted from snow block and cobblestone.
+
+ITEMS
+
+- Rose! You can put it in off-hand, crafted from Rose Bushes
+
+WORLD GENERATION FEATURES
+
+- Netherite Ore! Found all over the nether between Y levels 0 - 20. Smelting it will produce 1 netherite ingot!(Subjected to change in near future)
+
+MOBS
+
+- Blue Frog! A new frog variant, obtained by growing a tadpole in Deep Dark! By eating magma cubes, Blue Frog will drop Turqoise Froglight!
+
+- Allay, once striken with a lighting bolt, will turn into Vex! (who needs it by why not =/ )
+
+v1.0.2
+
+v1.0.2 PHOTO GALLERY
+
+BLOCKS
+
+- Citrine Geode Blocks, similar to Amethyst Geodes
+
+- Glowing Glass! Cafted similar to tinted glass, but with citrine shards!
+
+ITEMS
+
+- Citrine Shards
+
+- Citrine Cluster and Buds
+
+- Bucket of Adult Green Axolotl
+
+- Bucket of Baby Green Axolotl
+
+WORLD GENERATION FEATURES
+
+- Deep Dark Shacks! A structure that was showen to us at Minecraft Live 2020 for demostrational purposes! The loot is the same as in Ancient Cities, expect you can't get Sweaft Sneek and Armor Trims here!
+
+- Citrine Geodes! They generate the same way as Amethyst Geodes do!
+
+MOBS
+
+- Mooblooms! Mooblooms spawn in Meadows, Sunflower Plains, and Flower Forests! Interacting with Yellow Moobloom with Bonemeal in your hand will make Moobloom generate one-block-tall flower undern itself! But you turn in into Red Moobloom if 2 conditions meet: 1) Yellow Moobloom is in Meadow Biome 2) You interact with Poppy on Yellow Moobloom. Red Mooblooms will grow two-block-tall flower under itself itself! Breading any type of Mooblooms requires Dandelion!
+
+- Frostbyte! A new snowy zombie variation! When it takes its' target, the target gets Slowness effect for 30 seconds. Killing a Frostbyte will produce it release a Snow Explosion which gives Slowness effect for 30 seconds to all targets in 10 block radius!
+
+- Green Axolotl! Showen at Minecraft Live 2020, but never added to the game... Anyway, the only diffirence between Green Axolotl and other variants is that Green Axolotl is made as a separate mob for technical reasons!
+
+MISCELLANEOUS
+
+- Craft Sculk with 9 echo shards in 3 x 3 grid!
+
+v1.0.3
+
+v1.0.3 PHOTO GALLERY
+
+<figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image image_resized"></figure> <figure class="image"></figure>
+
+<figure class="image"></figure>
+
+<figure class="media"></figure>
+
+BLOCKS
+
+- Garnet Blocks
+
+- Quicksand
+
+- Blueberry Bush
+
+- Granite, 

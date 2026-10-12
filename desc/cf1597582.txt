@@ -1,0 +1,102 @@
+BAKU CINEMATIC CAMERA
+
+AFK CINEMATICS CUSTOM CAMERA PATHS BUILD SHOWCASE
+
+Baku Cinematic Camera turns your Minecraft world into a smooth cinematic showcase. When a player stays AFK, the addon can automatically activate a cinematic camera and smoothly showcase the surrounding area, builds, bases and environments.
+
+You can also create your own custom cinematic paths, adjust camera settings and instantly preview your shots without waiting for the AFK timer.
+
+MAIN FEATURES
+
+Automatic AFK Cinematic
+Cinematic mode automatically starts when the player remains inactive for the selected amount of time.
+
+Adjustable AFK Timer
+Choose how long the player needs to stay inactive before cinematic mode starts.
+
+Smooth Cinematic Camera
+Enjoy smooth camera movement designed for showcasing nearby builds and environments.
+
+Automatic Build Showcase
+Perfect for castles, survival bases, cities, maps and other Minecraft creations.
+
+Custom Cinematic Path Editor
+Create your own cinematic route by saving multiple camera positions.
+
+Custom Camera Angles
+Each custom camera point can store its own position and viewing direction.
+
+Instant Preview
+Preview your cinematic route immediately without waiting for AFK activation.
+
+Manual Cinematic Control
+Use the Cinematic Controller to manually start and manage cinematic mode.
+
+Clean Cinematic View
+HUD elements are hidden while cinematic mode is active for cleaner recordings.
+
+Automatic HUD Restore
+The normal Minecraft HUD automatically returns when cinematic mode ends.
+
+Multiplayer Support
+Every player has their own AFK timer and cinematic state.
+
+CINEMATIC MODES
+
+AUTO MODE
+
+The addon automatically generates cinematic camera movement around the player's current location. This mode is useful when you want quick cinematic shots without manually creating a camera route.
+
+CUSTOM MODE
+
+Create your own cinematic path using multiple custom camera points. This gives you much more control over how your build is shown.
+
+Custom Mode is especially useful for trailers, build showcases, map previews and cinematic recordings.
+
+CUSTOMIZABLE SETTINGS
+
+- AFK activation time
+
+- Camera radius
+
+- Camera height
+
+- Cinematic duration
+
+- Fade transitions
+
+- Repeat mode
+
+- Automatic cinematic ON/OFF
+
+- Custom camera points
+
+- Instant cinematic preview
+
+PERFECT FOR
+
+- Survival base showcases
+
+- Castle and city showcases
+
+- YouTube videos
+
+- Adventure maps
+
+- Build presentations
+
+- Minecraft cinematic recordings
+
+i IMPORTANT
+
+This addon controls the Minecraft camera to create cinematic movement. It does not directly record or save video files. Use your preferred screen recorder to capture the cinematic footage.
+
+CREDITS & RIGHTS
+
+Creator: Baku
+All Credits: Baku
+All Rights Reserved Baku
+
+Unauthorized reuploading, redistribution, modification for redistribution, or claiming this addon as your own is not permitted.
+
+Made by Baku

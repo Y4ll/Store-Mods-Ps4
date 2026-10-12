@@ -1,0 +1,21 @@
+This texture pack aims to recreate the design which existed back in the alpha version of Minecraft. Its a much brighter theme of colors and also sounds have been replaced with the old ones. Perhaps some of you want to experience how Minecraft looked like in the early days. This pack will take you on a nostalgic trip back to the year of 2010.
+
+(The original creator of Nostlgia-Craft is made by 2XMM2 that made this possible.)
+
+Nostagia-Craft: Java Edition Page: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1229392-nostalgia-craft
+
+The texture pack makes the world look much more brighter than what it looks like with the default Minecraft PE texture pack which exists for the latest Minecraft version. It's recommended to turn off Smooth Lighting for maximum effect.
+
+Minecraft Alpha:
+
+Minecraft Today (Outdated):
+
+Credits;
+
+- Nostalgia-Craft was originally made by 2XMM2 for Java Edition.
+
+- Nostalgia-Craft Bedrock Port was oriinally made by MasterlazorX.
+
+- This is a fork of MaterlazorX's Bedrock Port which is made possible for newer versions of Minecraft.
+
+- I am very aware that the page for Nostalgia-Craft in MCPEDL got terminated, I wanted to bring this pack back and update it as best as i can.

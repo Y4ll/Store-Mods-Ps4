@@ -1,0 +1,23 @@
+The Ender Elevators V2 addon adds the new UPGRADABLE Enderporter and Omniporter blocks to your Minecraft world!
+
+The Full version includes 178 custom elevators to allow you to travel your world in an instant!
+
+How to craft the Enderporter?
+
+The Enderporter will give you a fun new way to move around your base!
+
+How to upgrade the Enderporter?
+
+The Enderporter can be upgraded up to Mk5!
+
+Enderporter - 16 blocks
+MK2 - Iron - 32 blocks
+MK3 - Gold - 64 blocks
+MK4 - Diamond - 128 blocks
+MK5 - Emerald - 256 BLOCKS!
+
+Omega* - Netherite - 512 BLOCKS IN EACH DIRECTION!
+
+*The Omegaporter can only be crafted with a MK5 Omniporter!
+
+The Omniporter is crafted with Enderporters!

@@ -1,0 +1,77 @@
+Right click anywhere with cheat staff to open cheat menu UI.
+
+CHEATS:
+
+Infinite Health - Add effect "instant_health" with max duration and max amplifier
+
+Nevery Hungry - Add effect "saturation" with max duration and max amplifier
+
+Instabreak - Add effect "haste" with max duration and max amplifier
+
+Walk/Run Fast - Add effect "speed" with max duration and 20 amplifier
+
+Super Jump - Add effect "jump_boost" with max duration and 20 amplifier
+
+Never Drown - Add effect "water_breathing" with max duration and max amplifier
+
+One Hit Kills - Apply 1000 damage when attacking
+
+Force Field - Repels entities before they can reach you
+
+Night Vision - Add effect "night_vision" with max duration and max amplifier
+
+Item Magnet - Pull items towards you
+
+Infinite Durability - Tools never break
+
+Never Burn - Add effect "fire_resistance" with max duration and max amplifier
+
+Give XP - Slider bar to choose amount of XP to give yourself
+
+Give XP Levels - Slider bar to choose amount of XP levels to give yourself
+
+ADMIN MENU:
+
+<figure class="image"></figure>
+
+Who ever is first to join a world after its created will be admin so this ensures the creator of the world or server/realm will be admin as long they join right after creating it so the admin tag can be applied.
+
+After admin is established via tag everyone else gets the cheat menu without admin menu.
+
+ADMIN OPTIONS:
+
+<figure class="image"></figure>
+
+The admin has access to special controls.
+
+Reset Cheat Menu - Turns off everyone's cheats except the admin.
+
+Disable Cheat Menu - Prevents cheat menu from opening for everyone except admin.
+
+Game Mode - Select game mode you want to switch to - Survival/Creative/Adventure/Spectator
+
+CHEAT STAFF RECIPE:
+
+Cheat Staff Crown, Cheat Staff Core, Cheat Staff Handle
+
+<figure class="image"></figure>
+
+CHEAT STAFF CROWN RECIPE:
+
+3 x Diamond, 3 x Amethyst Shard, 2 x Netherite Ingot, Stick
+
+<figure class="image"></figure>
+
+CHEAT STAFF CORE RECIPE:
+
+4 x Netherite Ingot, Stick, Dragon Egg, Dragon Skull
+
+<figure class="image"></figure>
+
+CHEAT STAFF HANDLE RECIPE:
+
+4 x Netherite Ingot, 4 x Emerald, Stick
+
+<figure class="image"></figure>
+
+Have fun cheating in minecraft!

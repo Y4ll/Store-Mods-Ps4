@@ -1,0 +1,4 @@
+Zero XP Anvil removes all experience costs from anvil operations. Repair equipment, combine enchanted books, upgrade gear, and rename items without losing a single XP level no XP cost, no "Too Expensive!" limit, ever. The addon keeps the vanilla anvil experience intact while making item management faster, easier, and completely free of experience costs.
+No XP cost when using the anvil, and no "Too Expensive!" limit repair, rename, and enchant as much as you want.
+Combine enchanted books and items smoothly, even for multi-item actions.
+Iron-based anvil repair: sneak + right-click a damaged/chipped anvil while holding an iron ingot to restore it one stage.

@@ -1,0 +1,15 @@
+MY DISCORD
+
+Before installing this add-on you must enable Vibrant Visual first.
+You can adjust the shade power in the settings before entering the world.
+No experiments, API, or anything else are required to install this add-on.
+Make sure you are using the latest Minecraft Bedrock update.
+
+What does this add-on do?
+It upgrades your visuals to be warmer, more saturated, and balanced (not excessive or too strong).
+
+This add-on does not include player.json.
+This add-on does not require experimental features.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

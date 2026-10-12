@@ -1,0 +1,17 @@
+Tired of creeper craters and massive ravines ruining your builds? Hole Filler gives you two special balls throw one into any hole and it fills up instantly. Small holes, big holes, creeper blasts, deep ravines all filled with a single throw.
+
+Features
+
+- Two fill balls Small for creeper craters and small holes, Big for large ravines and massive holes
+
+- Just throw the ball into the hole and it fills automatically
+
+- Made a mistake or over-filled? Use /holeundo to undo the fill instantly
+
+Commands
+
+- /hf gives you the Hole Filler Small ball
+
+- /hfbig gives you the Hole Filler Big ball
+
+- /holeundo undoes the last fill if something went wrong

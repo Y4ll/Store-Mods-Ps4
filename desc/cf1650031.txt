@@ -1,0 +1,91 @@
+About
+
+Massively improves performance for Vibrant Visuals for low-end devices by optimizing Lighting, Shadows & Fog.
+
+Increases Render Distance to 5094 chunks
+
+Features
+
+- Works on: 1.26.40 - 1.26.50.
+
+- Supports Android & Windows
+
+- Gives upto 70% better performance on Performance settings.
+
+- Increases Render distance to 5094 chunks, like Distant Horizon!
+
+Optimizes:
+
+- Luminous Dreams
+
+- Prizma Visuals
+
+- Dark Fantasy Visuals
+
+- Actions & Stuff
+
+Requires:
+
+- Vibrant Visuals Unlocker (If Vibrant Visuals is gray)
+
+- Mip-Mapper
+
+Try Out:
+
+- Glowing Armor Trims
+
+Make sure to read "Installation Process" below.
+
+Distant Horizon like Render Distance!
+
+Place packs in this order:
+
+Installation Process
+
+Android
+
+- Copy "renderer" folder from "PandaMine's VVO.mcpack"
+
+- Put it into "assets/assets/" in your mcpe APK
+
+- Replace All files and "renderer" folder
+
+- Sign / Build APK -> Install
+
+Windows
+
+- Copy "renderer" folder from "PandaMine's VVO.mcpack"
+
+- Put it into "C:\XboxGames\Minecraft for Windows\Content\data"
+
+- click "Replace All"
+
+- Activate Vibrant Visuals Optimizer + Unlocker + Mip Mapper in Global Resources
+
+Credits to:
+
+Actions & Stuff compatibility (Oreville Studios)
+
+Prizma Visuals compatibility (Starfish Studios)
+
+Luminous Dreams compatibility (Poggy)
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 80% revenue share if it was monetized.
+
+Contact
+
+Discord: pandamine5x
+
+Tags: Vibrant Visuals Optimizer & FPS Booster MCPE, PandaMine's VVO

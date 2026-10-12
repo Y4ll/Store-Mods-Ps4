@@ -1,0 +1,11 @@
+Enhanced Fog adds cinematic fog and volumetric sunrays to Minecraft Bedrock. Simply place the Enhanced Fog pack above any Vibrant Visuals shader to enhance atmosphere and depth without replacing your visuals.
+
+- Recommended settings
+
+For the best experience, configure your Vibrant Visuals as follows:
+
+Volumetric Fog Enabled
+
+Compatible with any Vibrant Visuals shader:
+
+BSLB DREAMY VISUALS

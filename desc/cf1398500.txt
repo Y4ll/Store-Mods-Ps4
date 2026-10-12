@@ -1,0 +1,25 @@
+Simple Visuals is a lightweight Minecraft Bedrock texture pack designed to enhance your game without changing its original style. This pack focuses on cleaner colors, sharper details, and a more polished overall lookwhile keeping Minecrafts classic charm fully intact.
+
+With improved textures, subtle visual upgrades, and a smoother aesthetic, Simple Visuals makes your world feel fresher and more immersive, all without impacting performance. Its perfect for players who want a cleaner, more modern look without turning the game into something completely different.
+
+Features:
+
+-
+
+Cleaner and simplified block textures
+
+-
+
+Enhanced color balance for a softer, modern feel
+
+-
+
+Polished UI elements for a smoother experience
+
+-
+
+100% performance-friendly
+
+-
+
+Stays faithful to the vanilla Minecraft style

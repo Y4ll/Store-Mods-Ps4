@@ -1,0 +1,98 @@
+Baku's Carnival Shader
+Author: Baku_Studio
+
+Baku's Carnival Shader is an original Minecraft Bedrock Edition resource pack made for the official Vibrant Visuals graphics mode. It brings a powerful cinematic golden-hour look with strong glowing sunlight, soft volumetric rays, warm atmospheric colors and rich natural vegetation while fully keeping Minecrafts classic block style.
+
+Pack Information
+
+- Pack Name: Baku's Carnival Shader
+
+- Author: Baku_Studio
+
+- Type: Vibrant Visuals / PBR Resource Pack
+
+- Supported Versions: Minecraft Bedrock & Pocket Edition 1.21.120 and newer (1.21 1.26 generation)
+
+- Required Mode: Vibrant Visuals
+
+- Platforms: Android, iOS, Windows, Xbox, PlayStation (devices that support Vibrant Visuals)
+
+Visual Style
+
+The pack delivers a warm, cinematic and immersive atmosphere. Expect strong golden sunlight with soft volumetric rays, warm peach-orange-pink skies, rich lush emerald green grass, deep natural foliage, soft readable shadows and calm reflective teal water. The result feels modern and cinematic while still looking completely like Minecraft.
+
+Features
+
+Lighting & Glow
+
+- Strong warm golden directional sunlight
+
+- Soft cinematic sun glow and atmospheric light shafts
+
+- Smooth highlight rolloff
+
+- Balanced ambient light so shadows stay detailed
+
+Atmosphere
+
+- Soft layered distance fog
+
+- Warm peach-orange horizon haze
+
+- Strong depth separation
+
+- Beautiful sunrise and sunset color shifts
+
+Color Grading
+
+- Rich natural emerald green vegetation
+
+- Warm cinematic tone
+
+- Soft shadow lift
+
+- Controlled highlight compression
+
+- Filmic tone mapping
+
+Water
+
+- Translucent cyan-teal appearance
+
+- Soft sky and environment reflections
+
+- Golden sun reflection path on water
+
+- Gentle surface waves
+
+- Depth-based coloration
+
+Shadows & Materials
+
+- Soft natural shadows
+
+- Readable detail in shaded areas
+
+- Default PBR material response
+
+- Original Minecraft textures and geometry fully preserved
+
+Installation
+
+- Import the .mcpack file
+
+- Activate Baku's Carnival Shader in Resource Packs (place near the top)
+
+- Go to Settings Video Graphics Mode Vibrant Visuals
+
+- Enter any world
+
+Performance
+
+Lightweight configuration-only pack. Runs well on mobile and higher-end devices that support Vibrant Visuals.
+
+Credits
+
+Created by Baku_Studio.
+Original implementation inspired by cinematic golden-hour reference visuals.
+No proprietary shader source was used or copied.

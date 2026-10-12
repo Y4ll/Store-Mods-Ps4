@@ -1,0 +1,6 @@
+Good Chara Shader transforms your Minecraft visuals with enhanced color grading, epic and dynamic atmosphere, render fog, ACE tone mapping, dynamic lighting, and dynamic water.
+
+Designed with love for Chara fans from the Undertale game,
+this shader delivers a cinematic, dynamic, and warm look across all biomes, making you want to keep playing.
+
+(All photos can be checked in the media or below.)

@@ -1,0 +1,147 @@
+Created by VirtualBlack8 and Genki
+
+Who said an adventure had to be lived alone?
+
+Discover unique companions, evolve their abilities, and forge a special bond in a world where you will never explore alone again.
+
+Support us on Patreon, Ko-fi, or Twitter!
+
+If you enjoy our addon and want to support our work on a voluntary basis, you can do so at:
+
+Patreon: VirtualBlack8
+
+Ko-fi: VirtualBlack8
+
+Twitter/X: Genki
+
+Everything we create is 100% free, with direct downloads and no ads.
+
+Your support, no matter how small, motivates us to keep creating, updating, and improving every day.
+
+Thank you! :)
+
+Join our Discord!
+
+Join our community to receive technical support, add-on news, share ideas, or report bugs.
+
+Click here to join
+
+What is The Companions?
+
+The Companions adds unique companions that can accompany you throughout your adventures. Each companion has its own personality, special abilities, exclusive items, and enhanced forms through Ambrosia.
+
+Some specialize in combat, others focus on support, while some offer completely unique abilities.
+
+As the addon continues to grow, new companions, items, mechanics, and visitors from other realities will be introduced.
+
+Official artwork by Genki
+
+This addon does NOT disable achievements.
+
+Conelli Your First Companion
+
+Conelli is much more than just a companion. She is a loyal friend who will accompany you from the very beginning of your adventure and do everything she can to keep you safe.
+
+Unlike most companions, Conelli prefers helping over fighting. She will stay close to her owner, provide healing whenever needed, and avoid dangerous situations whenever possible.
+
+More Information:
+
+Where to find Conelli
+
+Conelli can only be found inside her house, a small structure that generates exclusively in Birch Forests.
+
+Inside her home, you can find:
+
+- Carrots and Golden Carrots
+
+- The Carrot Hammer
+
+- And Conelli waiting for you
+
+How to tame Conelli
+
+Conelli can only be tamed using a Golden Carrot.
+
+How to Heal Conelli
+
+- Golden Carrots
+
+- Can also be fully healed instantly using a Companion Potion.
+
+Special Ability
+
+When her owner is injured, Conelli will automatically provide healing support.
+
+Her ability to keep players alive makes her one of the most reliable companions for exploration and survival.
+
+Health
+
+- Normal: 35 Hearts
+
+- Enhanced: 70 Hearts
+
+Can follow you or sit down
+
+Can sleep in beds like a player
+
+Enhanced Conelli Evolution with Ambrosia
+
+After consuming Ambrosia, Conelli becomes much more resilient and her healing abilities improve significantly, allowing her to support her owner even during the most dangerous adventures.
+
+Carrot Hammer Exclusive Item
+
+A unique weapon that can be found inside Conelli's house.
+
+- Damage: 5 Hearts
+
+- Has a chance to briefly immobilize enemies
+
+- Compatible with sword enchantments
+
+- Can be repaired using carrots
+
+Gregory Your Second Companion
+
+Gregory is a fierce wolf that inhabits the depths of the Mega Taiga.
+
+His instincts are entirely focused on combat and protection. Once tamed, he will fearlessly attack any threat that stands between him and his owner.
+
+During the day, he usually remains calm and watchful, but when night falls, his wild side becomes impossible to ignore.
+
+More Information:
+
+Where to find Gregory
+
+Gregory can only be found inside a cave that generates exclusively in Mega Taiga biomes.
+
+Inside his den, you can find:
+
+- The Wolfsbane Sword
+
+- Ingredients for Rabbit Stew
+
+- Bones and Rotten Flesh
+
+- And Gregory waiting in the darknes
+
+Wild Gregory
+
+Neutral during the day
+
+At night he becomes aggressive and will attack any nearby creature, including players
+
+How to tame Gregory
+
+Gregory can only be tamed using a rabbit stew.
+
+How to Heal Gregory
+
+- Any food that can normally be used to heal wolves.
+
+- Can also be fully healed instantly using a Companion Potion.
+
+Special Ability
+
+Gregory specializes in hunting enemies and protecting his owner.
+
+His attacks can weaken opponents, and once combat begins, he becomes faster and

@@ -1,0 +1,9 @@
+Tree Vein Miner
+
+Crouch + break a log to fell connected logs within a radius.
+
+Installation
+
+- Double-click the file, or move it manually into your Minecraft
+
+- Open your world settings Behavior Packs Enable Tree Vein Miner

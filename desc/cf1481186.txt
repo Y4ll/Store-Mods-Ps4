@@ -1,0 +1,87 @@
+Hacker Terminal Addon
+
+The Hacker Terminal addon adds a futuristic tablet-style device to Minecraft that lets you control many game features from a simple and clean interface.
+
+Instead of typing commands, you can open the terminal and access powerful controls instantly.
+
+This addon is perfect for builders, survival players, and server admins who want fast access to important commands.
+
+Features
+
+Give Items
+
+Quickly give yourself any item without typing commands.
+
+Advanced Teleport System
+
+Teleport anywhere using custom coordinates, save your home location, and instantly return to it whenever you want.
+
+Home System
+
+Save your favorite location and teleport back with a single click.
+
+Weather Control
+
+Change weather to rain, thunder, or clear.
+
+Time Control
+
+Switch between day, night, sunrise, and sunset.
+
+Effects Menu
+
+Apply potion effects instantly.
+
+Spawn Entities
+
+Spawn mobs and entities directly from the terminal.
+
+Gamemode Switcher
+
+Quickly change between Survival, Creative, Adventure, and Spectator.
+
+New
+
+Temporary Spectator Mode
+
+Enable Spectator Mode for 60 seconds and automatically return to Survival Mode when the timer ends. Perfect for scouting caves, bases, and hidden locations safely.
+
+Crafting Recipe
+
+Achievement & Mods Friendly
+
+The addon is designed to work smoothly with many other addons and attachments without conflicts.
+
+How to Use
+
+-
+Get the Hacker Terminal item.
+
+-
+Hold the terminal in your hand.
+
+-
+Right-click / interact to open the menu.
+
+-
+Select the feature you want to use.
+
+Requirements
+
+- Minecraft Bedrock Edition
+
+- Activate Resource Pack + Behavior Pack
+
+- Turn on Beta APIs / Experimental Features if required by your Minecraft version
+
+Creator
+
+Addon created by Kareo Gamerz
+
+License
+
+All Rights Reserved This addon was created by Kareo Gamerz. You are not allowed to redistribute, modify, or reupload this addon on any other platform without the creators permission.
+
+You may, however, make videos or showcase this addon on YouTube or social media please provide credit and a link to the original CurseForge or MCPEDL page.
+
+2025-2026Kareo Gamerz All Rights Reserved.

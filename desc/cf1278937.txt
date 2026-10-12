@@ -1,0 +1,82 @@
+Discord : https://discord.gg/c9B8SJfb7B
+Donate: https://paypal.me/harrybeest
+
+Leaving feedback in the comments or joining the discord (https://discord.gg/c9B8SJfb7B) would be amazing to help me improve and implement new features!
+
+-- CHANGELOG --
+
+-
+
+- Added a LEGENDARY NEW FRUIT to the Fruit Lucky Block !!!
+
+- Kumquat
+
+-
+
+- Retextured:
+
+- Orange
+
+- Kiwi
+
+- Pomegranate
+
+- Adjusted drop chances for legendary fruit due to the Kumquat being added
+
+FRUIT LUCKY BLOCK
+
+The Fruit Lucky Block can be found naturally in any of these locations:
+
+- Abandoned Mineshafts
+
+- Shipwrecks and Buried Treasures
+
+- Desert Temples
+
+- Igloos
+
+- Jungle Temples
+
+- Dungeons
+
+- Pillager Outposts
+
+- Strongholds
+
+- Villages
+
+- Woodland Mansions
+
+Or it can be crafted using this crafting recipe:
+
+Here is a table of every available drop from the Fruit Lucky Block with their rarity, drop chance, nutrition and saturation!
+
+DESSERT LUCKY BLOCK
+
+The Fruit Lucky Block can be found naturally in any of these locations:
+
+- Abandoned Mineshafts
+
+- Shipwrecks and Buried Treasures
+
+- Desert Temples
+
+- Igloos
+
+- Jungle Temples
+
+- Dungeons
+
+- Pillager Outposts
+
+- Strongholds
+
+- Villages
+
+- Woodland Mansions
+
+Or it can be crafted using this crafting recipe:
+
+Here is a table of every available drop from the Fruit Lucky Block with their rarity, drop chance, nutrition and saturation!
+
+Leaving feedback in the comments or joining the discord (https://discord.gg/c9B8SJfb7B) would be amazing to help me improve and implement new features!

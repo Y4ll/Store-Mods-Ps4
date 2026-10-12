@@ -1,0 +1,35 @@
+Skip the furnace. With Auto Cook & Smelt, every mob you kill drops perfectly cooked food, and every ore you mine drops a smelted ingot instantly. No fuel, no waiting, no campfires. Just hunt, mine, and grab ready-to-use loot. Perfect for fast-paced survival, hardcore runs, and anyone tired of babysitting furnaces.
+
+How It Works
+
+- Kill any animal and it drops cooked meat instead of raw steak, cooked chicken, cooked porkchop, mutton, rabbit, and cooked fish
+
+- Mine iron, gold, or copper and get the ingot directly no smelting needed
+
+- Ancient Debris drops Netherite Scrap straight from the block
+
+- Potatoes come out baked and kelp comes out dried automatically
+
+- Works automatically no setup, no commands, just join the world
+
+Features
+
+- Auto-cook drops mobs drop food already cooked and ready to eat
+
+- Auto-smelt ores iron, gold, copper and ancient debris come out smelted
+
+- Enchant bonus kept Looting and Fortune still give you extra drops
+
+- Saves you fuel, furnaces, and tons of time
+
+- Lightweight, runs entirely on scripts with no lag impact
+
+Why You'll Love It
+
+No more carrying coal stacks or waiting on furnaces mid-adventure. Clear a mob farm and walk away with stacks of cooked food. Strip-mine a cave and come back with ingots, not raw chunks. It makes survival smoother, faster, and a whole lot more satisfying.
+
+Achievement Friendly?
+
+Yes fully achievement friendly. No cheats required, no experimental toggles, no achievement lock.
+
+Hunt. Mine. Cooked and smelted, instantly.

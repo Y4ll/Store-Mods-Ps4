@@ -1,0 +1,21 @@
+Block ESP is a specialized utility resource pack designed to grant "X-Ray" vision solely for storage and utility objects, making them visible through solid walls and terrain.
+
+Key Features:
+
+Focused Detection: Highlights only Chests (including Trapped and sometimes Ender Chests/Barrels depending on the pack version) and Bells with bright, glowing outlines through obstacles.
+
+Ore-Free: Does not highlight any ores (diamonds, gold, netherite, etc.) or building blocks, keeping the view uncluttered.
+
+Loot Finder: Optimized for quickly spotting storage containers in dark caves, dungeons, bastions, and hidden bases.
+
+Ideal For:
+
+Efficiently raiding generated structures (Nether Fortresses, Bastions, End Cities).
+
+Locating buried treasure chests.
+
+Finding villages quickly by spotting bells.
+
+Recovering lost storage within your own base.
+
+> Note: This gives a gameplay advantage and may be banned on many multiplayer servers. Use responsibly.

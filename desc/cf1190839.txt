@@ -1,0 +1,34 @@
+This addon will show you a heart counter for monsters and mobs, and the nice thing about my addon is that it works with the rest of the mobs that other addons add. Don't forget to subscribe in my YouTube channel: @shadowgamer100k"
+
+More Add-ons by shadowGamer100k
+If you enjoy this utility, you might find my other survival tools helpful:
+Magnet Add-on: Effortlessly collect items from a distance.
+Teleporters System: Setup advanced travel networks across your world.
+Spawner Mover: Relocate mob spawners to build the ultimate farm.
+Lock & Key: Secure your chests and doors from other players.
+Ore Finder: Locate valuable ores quickly and easily.
+
+### Version 3.0: Performance, Feature & Stability Update
+** Performance & Core**
+- **Lag Reduction:** Scanning now limited to a **20-block player radius** only.
+- **Instant Updates:** Health bars update immediately via `entityHealthChanged` (**zero delay**).
+- **Universal Graphics:** Replaced custom symbols with standard characters (`|`, `-`) for **100% rendering** on all platforms (Mobile, Console, PC).
+** New Features**
+- **Dynamic Flashing:** Health bars now flash **Dark Red** on damage and **Aqua** on healing.
+- **Status Tags:** Displays text-based indicators like `[POISON]`, `[REGEN]`, and `[FIRE]` reliably.
+- **Smart Aggro:** Neutral mobs turn **Red** instantly when angry or targeting a player.
+- **Pet Ownership:** Tamed animals display `Owner: [Name]`.
+- **Boss Support:** Special **Purple** formatting for Wither, Ender Dragon, and Warden.
+** Visuals & QoL**
+- **!LOW! Alert:** Bold warning prefix automatically triggers when an entity is below **15% HP**.
+- **Name Tags:** Custom names (e.g., "Dinnerbone") are preserved and not overwritten.
+- **Pretty Names:** Automatically converts technical IDs (e.g., `minecraft:zombie`) to **"Zombie"**.
+- **Color Coding:** Monsters (**Red**), Passive Animals (**Green**), Players (**Gold**).
+
+This addon will literally help you and will benefit you a lot in Survival. Suppose you have added mobs or bosses from other addons to your world, but you want to know how much health this mob or boss has left so that it dies, and here comes the role of my addon, which will give you the number of hearts of all the mobs. Not only Minecraft mobs, but even mobs and monsters that you add through other addons. Like what you see in those screenshots.
+
+old versions style !!
+
+It also works with players and shows you how many health they have left.
+
+SHOWCASE

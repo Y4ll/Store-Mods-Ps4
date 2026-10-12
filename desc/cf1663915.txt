@@ -1,0 +1,39 @@
+Alex'in Magaralar: Bedrock (Resmi Olmayan Guncelleme)
+
+Bu eklenti, populer Java modu Alex's Caves'in heyecan verici atmosferini ve ozelliklerini Minecraft Bedrock Edition'a getiriyor! Bu, projenin ilk surumu (v1.0) olup, yaknda gelecek buyuk magara biyomlar ve icerikleri icin temel olustururken, ozel esyalar ve oyun mekaniklerini de hemen sunuyor.
+
+Bu Surumdeki Baslca Ozellikler:
+
+Ozel Esyalar ve Gucler: Karakterinizi guclendirmek ve maceralarnz srasnda avantaj elde etmek icin yeni ozel esyalar ve mekanikler kullann.
+
+Gelecegin Temeli: Ilk surum olarak, gelecek magara sistemleri ve genisleme guncellemeleri icin saglam bir altyap olusturuyor.
+
+Temel Optimizasyon: Mobil ve konsol platformlarnda sorunsuz ve kesintisiz bir deneyim icin tasarlanmstr.
+
+Oyun Deneyimi: Orijinal olarak Beef tarafndan olusturuldu, Withermc1247 tarafndan guncellendi.
+
+About this version: Unofficial Bedrock update and optimization for current versions, combining and fixing these files for smooth gameplay.
+
+Overview:
+
+This project is an unofficial Bedrock port/update inspired by the famous Java Edition mod. It brings unique cave exploration elements and mechanics to Minecraft Bedrock Edition, designed to offer a smooth and optimized experience across mobile and console platforms.
+
+Features & Player Experience:
+
+New Cave Biomes & Mechanics: Introduces distinct cave environments that alter player survival strategies, requiring careful navigation and preparation.
+
+Special Items & Equipment: Grants access to custom items and powers, giving players strategic advantages during intense subterranean adventures.
+
+Immersive Gameplay: Designed to significantly enhance the underground exploration experience, making mining and cave-delving much more engaging.
+
+Credits & Original Content:
+
+Original Java Mod: Alex's Caves by AlexModGuy
+
+Original Mod Link: Alex's Caves on CurseForge
+
+Port / Update Author: Withermc1247
+
+License: This unofficial Bedrock adaptation respects the original author's rights and project terms. All rights to the original concept and assets belong to AlexModGuy.
+
+Resource Files & Links:

@@ -1,0 +1,53 @@
+Mesozoic Biology is a Minecraft Bedrock dinosaur addon like many others, but with a distinct focus: scientific accuracy. With guidance from multiple experts and carefully designed original coloration concepts, we aim to bring dinosaurs and other Mesozoic animals to your world like never before!
+
+This update introduces over 90 species, most of which can be tamed as babies!
+
+- Carnivores: Cooked Steak for taming, beef for growing, cooked porkchop for breeding.
+
+- Herbivores: Baked Potatoes for taming, apples for growing, golden carrots for breeding.
+
+- Scavengers (Azdarchids): Rotting Flesh for taming and breeding, beef for growing.
+
+- Piscivores: Cooked Salmon for taming, Raw Cod for growing, tropical fish for breeding.
+
+- Omnivores (Ornithomimoids): Dried kelp or Seeds for taming, Sweet Berries or Bread for growing, beetroot seeds or bread for breeding.
+
+Larger creatures can be ridden once fully grown and tamed. You can also make them sit, and by sneaking while holding a bone, toggle their behavior between following you or roaming freely perfect for building your own Prehistoric Park! (get it)
+
+Throughout the world, youll find fossil ores. Mining them gives both generic and species-specific fossils. These can be used on a cloning machine, crafted with iron blocks, gold ingots, copper nuggets, a diamond, and a water bucket.
+
+To operate the machine, youll need bio fuel, crafted from a bone and an egg. Insert your fossils into the machine, larger species require more generic fossils to complete their DNA, 5 for very small creatures, and up to 64 for giant sauropods. Once the process is complete, youll receive an egg, ready to hatch your very own Mesozoic beastie!
+
+This update features a MASSIVE roster of species, including iconic dinosaurs like Tyrannosaurus, Triceratops, and Spinosaurus! as well as a wide variety of lesser-known prehistoric animals.
+
+New species include: Quetzalcoatlus, Camptosaurus, Anzu, Onchopristis, Carcharodontosaurus, Nemegtosaurus, Sinosauropteryx, Protoceratops, Yutyrannus, Compsognathus, Sinoceratops, Ophthalmosaurus, Fasolasuchus, Alioramus, Psittacosaurus, Suchomimus, Mosasaurus, Styracosaurus, Hatzegopteryx, Nanotyrannus, Iguanodon, Megalosaurus, Shantungosaurus, Olorotitan, Deinonychus, Utahraptor, Maip, Austroraptor, Megacephalosaurus, Pteranodon, Nanuqsaurus, Guanlong, Sarcosuchus, and Nothosaurus.
+
+A very special thanks to all the devs who made this possible!
+
+Leaders: Springmorb, El_Indoraptor, Ordicanthus
+
+Coders: Xterionix, Aliconator
+
+Artists (besides the leaders): DrongoJack (burb6991), TitanusPixel55, BlepTank, paleofragilis43, Reaper.art, Toxodris (R.I.P.)
+
+Thanks to everyone for your patience, it's been a ride! And remember!
+
+The red Tyrannosaurus is not real.
+
+Frequently asked questions:
+
+"Why is Nothosaurus not able to crawl on land?" Nothosaurus was unable to do so, it was entirely adapted to water, you can see this due to the way the humerus is twisted backwards entirely.
+
+"Why did this dinosaur lose to this other one?" Because we base the stats of the dinosaurs on their size, armor, and weaponry, if one loses to another that's just how it is, you're the one who made them fight in the first place too.
+
+"Why are the dinosaurs not attacking eachother?" They only do so when they're hungry, they're not killing machines.
+
+"Why does the cloning machine not work?" You're not putting in enough generic fossils, and if the UI is messed up, it's because you're using a badly pirated or ancient version of Minecraft.
+
+"This dinosaur is too big" we scale our dinosaurs in a way where the player is the average world human height.
+
+"This dinosaur is too small" more recent research corrected incorrect scaling for it, we will change stuff according to the most recent research.
+
+"Why is Suchomimus not semi aquatic?" bone density studies suggest Suchomimus was as terrestrial as your average theropod, meanwhile Spinosaurus and Baryonyx were properly semi aquatic.
+
+"Why is Saurophaganax here, will it be remo

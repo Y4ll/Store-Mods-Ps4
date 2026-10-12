@@ -1,0 +1,22 @@
+SYC's Auto Totem (Achievements Friendly)
+
+Auto Totem Offhand automatically equips a Totem of Undying in your offhand whenever one is available in your inventory. No commands, no settingsjust pure survival support.
+
+This mod is achievement friendly and does not disable achievements. Perfect for survival, PvP, boss fights, and hardcore worlds.
+
+- Help Me -
+
+Features:
+
+1.Auto equips totem in offhand
+
+2.Works instantly when a totem is used
+
+3.Lightweight & lag-free
+
+4.Survival and multiplayer friendly
+
+Note - Direct Sharing This Addon Or Copying This Is Not Allowed.
+
+For Creators : You Can Share This Addon But Only use of Official Links are permitted.
+undefined

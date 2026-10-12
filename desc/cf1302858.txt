@@ -1,0 +1,318 @@
+List Weapon
+
+-
+
+-
+
+- Typhoon Spirit Katana
+
+- Cosmic Gravity Mace
+
+- Divine Sword
+
+- Blue Flame Gauntlet
+
+- Cursed Book
+
+- Moonlight Scythe
+
+- Volcano Axe
+
+- Frost Bow
+
+- Plague Scythe
+
+- Darkness Sickle
+
+- Earth Glove
+
+- Thunder Dagger
+
+- Crimson Spear
+
+- Flame Sword
+
+- Water Trident
+
+- Devil Greatsword
+
+- Smoke Crossbow
+
+- Soul Staff
+
+- Shadow Kunai
+
+https://www.patreon.com/cw/Rexoes
+
+Dash Update(not work for now, i'll update it on next upd)
+
+double click forward button After that click sneak to use dash
+
++ or
+
+You can turn on and turn off dash feature with
+
+/function dash_off
+
+/function dash_on
+
+New!!! BOSSES
+
+Kyros The Blazing Commander
+
+Structure
+
+Kyros Arena
+
+Ruined Temple
+
+New Items
+
+Elemental Fragments
+
+how do i get?
+
+From Chest In This Structure in minecraft
+
+- Ruined Temple
+
+- Desert pyramid
+
+- Buried treasure
+
+- Ancient city
+
+- Pillager Outpost
+
+- Shipwreck
+
+- Igloo
+
+- Jungle Temple
+
+- Killing Kyros
+
+The first weapon is the Typhoon Spirit Katana
+
+Basic Attack (click/leftclick)
+
+Skill 1 (hold/right click)
+
+Skill 2 (click/leftclick+jump)
+
+Skill 3 (sneak/shift+click/leftclick)
+
+Skill 4 (sneak/shift+jump)
+
+Skill 5 (sneak/shift+hold/rightclick)
+
+how to craft
+
+Cosmic Gravity Mace
+
+Basic Attack (click/leftclick)
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+hold/rightclick)
+
+how to craft
+
+Divine Sword
+
+Basic Attack (click/leftclick)
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+hold/rightclick)
+
+how to craft
+
+Blue Flame Gauntlet
+
+Basic Attack (click/leftclick)
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+hold/rightclick)
+
+how to craft
+
+Moonlight Scythe
+
+Basic Attack (click/leftclick)
+
+Run skill 1 (run)
+
+Run skill 2 (run+left click)
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+hold/rightclick)
+
+Cursed Grimoire
+
+Basic Attack (click/leftclick)
+
+Run skill 1 (run)
+
+Skill 1(hold/right click)
+
+Skill 2(sneak/shift+click/leftclick)
+
+Skill 3(sneak/shift+jump)
+
+Skill 4(sneak/shift+hold/rightclick)
+
+how to craft
+
+Magma Axe
+
+Basic Attack (click/leftclick)
+
+Run skill 1 (run)
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+rightclick)
+
+How to craft
+
+Frost Bow
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+rightclick)
+
+How to craft
+
+Plague Scythe
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+rightclick)
+
+how to craft
+
+Darkness Sickle
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+rightclick)
+
+How To Craft
+
+God of Thunder Dagger
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+rightclick)
+
+How To Craft
+
+Earth Glove
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+rightclick)
+
+How To Craft
+
+Crimson Spear
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+rightclick)
+
+How To Craft
+
+Flame Sword
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+
+Skill 5(sneak/shift+rightclick)
+
+How To Craft
+
+Water Trident
+
+Skill 1(hold/right click)
+
+Skill 2(click/leftclick+jump)
+
+Skill 3(sneak/shift+click/leftclick)
+
+Skill 4(sneak/shift+jump)
+

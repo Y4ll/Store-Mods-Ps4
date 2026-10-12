@@ -1,0 +1,43 @@
+Project Overview
+
+This project was created with one goal in mind: bringing the classic cart PvP community back to life on Minecraft: Bedrock Edition.
+
+The addon focuses on recreating and improving some of the mechanics that make cart PvP and just tnt minecarts so unique, while adapting them specifically for Bedrock Edition. It introduces several mechanics designed around competitive gameplay, including cart stacking, offhandable minecarts, proper chain explosions, and Xbow carting.
+
+Cart Stacking
+
+Cart stacking allows multiple minecarts to be stacked together, making it possible to create powerful cart setups(traps) and more advanced PvP strategies.
+
+Offhandable Carts
+
+The addon also makes carts offhandable, giving players much more flexibility during PvP.
+
+Being able to keep a cart in your offhand means you can quickly switch between your main-hand weapon or item and your cart without constantly having to move items around your hotbar.
+
+Proper Chain Explosions
+
+One of the biggest focuses of this addon is bringing proper chain explosions to Bedrock.
+
+The goal is to make explosions behave in a way that feels much closer to the mechanics expected from java, while still working within Bedrock Edition.
+
+Xbow Carting
+
+Xbow carting adds another layer of strategy to cart PvP by allowing crossbow-based gameplay to work alongside cart mechanics.
+
+Made for Competitive PvP
+
+This addon is designed with competitive cart PvP in mind. The goal isn't simply to add new items or change how minecarts work, it's to recreate the mechanics and gameplay style that make cart PvP enjoyable in the first place.
+
+Whether you're practicing techniques, fighting friends, hosting PvP events, or trying to rebuild a cart PvP community on Bedrock, this addon is intended to provide the mechanics needed for a more complete cart PvP experience.
+
+Compatibility
+
+This pack is also designed to work alongside Blurry's Java PvP.
+
+Compatibility Notice: This addon works with Blurry's Java PvP, but this pack MUST be placed above Blurry's Java PvP in the behavour pack area
+
+Placing this pack above Blurry's Java PvP ensures that this addon's cart PvP mechanics take priority where necessary and helps prevent conflicting changes from other packs.
+
+The ultimate goal of this project is to bring cart PvP back to Bedrock Edition and give players a reliable environment to enjoy the mechanics, strategies, and competitive gameplay that made cart PvP popular.
+
+More mechanics, improvements, and PvP-focused features can be added over time as the project develops.

@@ -1,0 +1,41 @@
+Ethereal Mystic Reworked is a cinematic Vibrant Visuals shader pack that transforms Minecraft's atmosphere and lighting into a mystical, vibrant world. Built around rich skies, enhanced lighting, atmospheric fog, and magical color grading, it gives every biome a more immersive and ethereal appearance while keeping the original Minecraft style intact.
+
+- Features
+
+- Custom-built orange-yellow sun glow with warm golden lighting during sunrise, sunset, and daytime
+
+- Enhanced color grading with deeper shadows, vibrant midtones, and cinematic highlights for a richer visual atmosphere
+
+- Custom-tuned local lighting for torches, lanterns, candles, and glowing blocks with improved source colors
+
+- Atmospheric fog profiles for air, water, and weather tuned around warm orange-yellow tones for a richer and more immersive ambience
+
+- Custom yellow-red aurora effect that adds a magical atmosphere to nighttime skies
+
+- Enhanced sky colors with smoother transitions between day, sunset, twilight, and night
+
+- Improved environmental lighting that gives caves, forests, oceans, and open landscapes more visual depth
+
+- Soft and refined shadows for cleaner edges and a more natural-looking world
+
+- Performance-focused visual enhancements designed to deliver a beautiful experience without unnecessary visual clutter
+
+Requirements
+
+- Minecraft Bedrock 1.21.80+
+
+- Vibrant Visuals enabled
+
+- Recommended: mid-to-high end device for the best visual experience
+
+Installation
+
+- Download the .mcpack file
+
+- Open it with Minecraft installed it will import automatically
+
+- In-game: Settings Global Resources Ethereal Mystic Reworked Activate
+
+- Enable Vibrant Visuals in video settings for the full effect
+
+The Ethereal Mystic Reworked Team

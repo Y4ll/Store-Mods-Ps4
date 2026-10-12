@@ -1,0 +1,6 @@
+This resource pack replaces the default Minecraft mace with a scythe, making combat feel more stylish and intense. It was originally made by Phanisment0 for Java Edition and has now been carefully ported to Bedrock Edition, while keeping the original look and quality.
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

@@ -1,0 +1,33 @@
+Friendly Mobs
+
+by Gavti
+
+Friendly Mobs turns every hostile and neutral mob in the game peaceful. Zombies, skeletons, creepers, endermen, the Warden, wolves none of them will ever attack you, even after you hit them first. Bosses (Wither, Ender Dragon) are intentionally left alone so boss fights still work.
+
+Where you can use this pack
+
+- Zoos & wildlife parks house real mobs safely, visitors can walk right up to them
+
+- Museums & exhibits display dangerous mobs like the Warden or Wither Skeleton with zero risk
+
+- Machinima & cinematic builds film scenes with mobs as extras, no combat interruptions
+
+- Screenshots & renders get close-up shots of mobs for thumbnails and artwork
+
+- Relaxed / kid-friendly worlds explore without combat stress
+
+- Adventure & roleplay maps use mobs purely as scenery or NPCs, not threats
+
+Mobs covered (40)
+
+Overworld: Zombie, Husk, Drowned, Zombie Villager, Skeleton, Stray, Bogged, Spider, Cave Spider, Creeper, Witch, Slime, Enderman, Silverfish, Endermite, Pillager, Vindicator, Evoker, Ravager, Vex, Phantom, Guardian, Elder Guardian, Warden, Shulker
+
+Nether: Zombie Pigman, Wither Skeleton, Blaze, Ghast, Magma Cube, Hoglin, Piglin, Piglin Brute, Breeze
+
+Neutral (normally turn hostile if hit): Wolf, Bee, Polar Bear, Llama, Iron Golem, Goat
+
+Screenshots and images on this page may be AI-enhanced for presentation purposes and are for illustration only.
+
+Gavti Usage & Credit
+
+This pack is free to use in your maps, worlds, and videos but only with prior permission from Gavti, and with clear credit given to @GAVTI. Do not re-upload, redistribute, or resell this pack without permission.

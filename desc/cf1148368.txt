@@ -1,0 +1,109 @@
+Welcome to v1.5.1 release of Superhero Plus: Bedrock Edition, an official port of the original Java mod made by Kostina, currently the addon is still in development, but there are currently a decent amount of superpowers, which can be obtained in unique and fun ways
+
+Permission
+
+This here is proof of permission that were allowed to port this mod
+
+Powers:-
+
+Electrokinesis:-
+
+Can be obtained by getting struck by lightning while holding an experimental vaccine,
+
+It gives you an item that allows you to summon lightning in the direction you are facing and a secondary ability that summons lightning around you
+
+When you use the item, you have a 15 chance to get an electroball, when thrown, explodes violently.
+
+Energy Constructs:-
+
+Can be obtained by punching a training dummy with an electroball, it gives you the energy constructs item, when used has a chance to give the player, an Energy saber, Energy blocks and Energy nets.
+
+-
+
+- Energy Saber:- Is a powerful weapon that deals 11 damage, sets an entity on fire, but has 4 durability, its a strong but fragile weapon.
+
+- Energy Blocks:- This block can only be broken by players with the energy construcs ability, it dissapears after some time.
+
+- Energy Nets:- This item can be thrown, it electrocutes and damages the target.
+
+Super Leap:-
+
+Can be obtained by drinking a super leaping serum.
+
+it gives you an item that when clicked dashes into the air, you have to be on ground for this to work.
+
+Healing Factor
+
+Can be obtained by drinking a Mirakuru serum, this ability grants you regeneration 3 every 10 secs
+
+Super Strength
+
+Can be obtained by punching a training dummy with a strength artifact scroll in your offhand while under the strength effect,
+
+It gives you permanent strength 3
+
+Super Speed & Dimension Travel
+
+Edit :- Major super speed update
+
+Can be obtained by injecting yourself with velocityX, and gettng struck by lightning within its time limit
+
+Super speed works a lot differently, your speed isnt active by default, it can be triggered by running, which will put you at base speed,
+
+Super speed works based on progressive speed, the longer you run, the faster you become
+
+When you run for long enough, you hit sonic boom and break the sound barrier,
+
+If you run for long enough after hitting the barrier, you will become fast enough to dimension travel, allowing you to travel between dimensions
+
+After hitting the sound barrier, you will have infinite mass punch and be able to one shot anything, but doing so will reset your speed
+
+**Water running** Water running can only be achieved by reaching a certain level of speed, with super speed active (about the time when the lightning trail comes out)
+
+Flight
+
+Flight can be obtained by drinking a flight serum
+Edit :- Major flight update
+
+--To levitate--, you need to put the angel wing in your offhand, hold the jump button while looking up to levitate, the higher you look, the higher you levitate
+
+--To fly -- hold shift and jump with the angel wing in your offhand
+
+Webswing
+
+Webswing can be obtained by getting bit by a radioactive spider
+
+On clicking the item while facing a block, you get pulled to the block, the farther you are to the block, the harder you get pulled to it
+
+Pyrokinesis
+
+Pyrokinesis can be obtained by using a binding agent while submerged in lava
+
+It comes with two items, Fireball and Lava stream
+
+**Fireball** Click to launch a fireball in your view direction.
+
+**Lava Stream** Click to fire a jet stream of lava your view direction, setting anything in its way ablaze
+
+Cryokinesis
+
+Cryokinesis is obtained by drinking a serum base while submerged in powdered snow for 2 minutes
+
+It comes with two items, Ice shard and Cryo freeze
+
+Ice shard Shoot a singular ice shard that does heavy damage
+Cryo Freeze AOE attack, its better explained by viewing it ingame
+
+Essentials
+
+Essentials are used to craft/obtain powers, here are the list of currently available ones
+
+Serum bases
+
+Experimental Vaccine
+
+Super leaping serum
+
+Mirakuru serum
+
+Strength 

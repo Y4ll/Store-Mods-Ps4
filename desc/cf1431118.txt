@@ -1,0 +1,30 @@
+Unleash a whole new level of canine companionship with the "Better Dogs" texture pack! This pack introduces a delightful array of new dog breeds, each waiting to become your loyal and lovable companion."Better Dogs" texture pack is Originally created by Mrblueyeti for Java Edition and was ported by me to Bedrock Edition. More dogs will be added soon!
+
+HOW IT WORKS
+
+Put a name tag on an anvil. Rename it like this: "Husky" or "Snood" . Make sure the first letter of the name is uppercase and other letters are lowercase, be aware of the spaces, and don't include the quotes (""). Use the nametag on a tamed wolf only and finish! Texture variants for each breed varies depending on biome.
+
+NAMETAGS
+
+- "Snood"
+
+- "Husky"
+
+- "Corgi"
+
+- "Border Collie", "Collie" or "BC"
+
+- "Afghan Hound" or "Afghan"
+
+- "Lab", "Labrador" or "Labrador Retriever"
+
+- "Golden" or "Golden Retriever"
+
+- "Pug"
+
+- "Shih Tzu" or "Shihtzu"
+
+For the original Java Version:
+Better Dogs | mrblueyeti's Profile
+
+Owner's Permission:

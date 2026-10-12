@@ -1,0 +1,53 @@
+Hackers 4D
+
+Ever wanted to look like a true hacker? Well if so this skinpack is for you!
+
+What this skinpack includes:
+
+10 4D and unique skins with capes.
+
+Hive server support.
+
+Matching Duos
+
+Hackers.
+
+Images:
+
+How To Download
+
+On all devices you must have the 1st Animal Friends Skinpack for this to work, as the skinpack will be replaced.
+
+For Windows
+
+- Download the A-ping Hackers file
+
+- Rename The File From "A-ping Hackers.mcpack" To "A-ping Hackers.zip". (No Quotations)
+
+- Unzip The File.
+
+- Press Windows R, then run should appear, paste the link below into the box: %LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\premium_cache\
+
+- Open Up The skin_packs Folder And Delete Everything In There. (Don't Worry, You Won't Lose Any Of Your Skins!)
+
+- Drag The Unzipped A-ping Hackers Hats Folder Into The skin_packs folder.
+
+- Restart Minecraft If You Had It Open, And You Should Be Good To Go!
+
+For iOS
+
+- Download the A-ping Hackers File
+
+- Rename The File From "A-ping Hackers.mcpack" To "A-ping Hackers.zip". (No Quotations)
+
+- Unzip It.
+
+- Move It To This Location: My iPhone/Minecraft/internal/premium_cache/skin_packs. And press move
+
+- Press Select All, Or .../select/select all.
+
+- Make Sure To Deselect Your Pack By Pressing On It, Then Delete Everything In There
+
+- Open Up Minecraft And Enjoy!
+
+Android Version Coming Soon!

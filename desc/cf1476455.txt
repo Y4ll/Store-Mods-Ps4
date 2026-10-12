@@ -1,0 +1,4 @@
+Simple Shader transforms your visuals with very simple techniques, but even though it is simple, this shader still has a dynamic atmosphere, render fog, ACE tone mapping, dynamic lighting, and dynamic water.
+Designed for people who like simple things.
+
+(All photos can be checked in the media or below.)

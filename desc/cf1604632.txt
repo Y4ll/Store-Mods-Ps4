@@ -1,0 +1,30 @@
+Step into a world bathed in warm, cinematic light. Cyrus Shaders reworks Bedrock's atmosphere, fog, and lighting to create a soft, sun-drenched look that feels like a permanent golden hour without losing the vanilla identity you know.
+
+Volumetric fog rolls gently through forests and biomes, catching sunbeams as they filter through leaves. Every biome has been individually tuned for consistent, immersive fog density and color, so the transition from birch groves to cherry blossoms to open plains feels seamless and alive. Warm orange-yellow tones wash over water, foliage, and skies at sunrise and sunset, giving every moment a dreamy, peaceful quality.
+
+Whether you're wandering through misty woodlands, watching light ripple across still water, or catching the sun dip behind the treeline, Cyrus Shaders is built to make ordinary moments in your world feel cinematic while keeping performance smooth and the vanilla charm fully intact.
+
+Features:
+
+- Custom volumetric fog presets tuned per biome
+
+- Warm, golden-hour color grading across all lighting conditions
+
+- Enhanced atmospheric depth and light shafts
+
+- Fully vanilla-compatible no visual overhaul, just enhancement
+
+- Outlined, glowing ore blocks that stand out clearly even in dim or foggy lighting
+
+Compatibility
+
+- Minecraft Bedrock 1.21.80+
+
+- RenderDragon rendering engine required
+
+- Compatible with all game modes
+
+- Works alongside other resource packs (no core file overrides atmospheric and biome fog settings only)
+
+Feel free to drop your feedback and suggestions we'd love to hear from you.
+Cyrus Shaders Team

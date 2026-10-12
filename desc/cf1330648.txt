@@ -1,0 +1,1 @@
+particles-off is an optimizer that removes all the particles from your Minecraft bedrock, by not having particles the game loads less resources and runs much better having more FPS, in short it is a simple texture that can increase your fps in Minecraft

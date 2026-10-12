@@ -1,0 +1,211 @@
+Java Aspects bridges the gap between Bedrock and Java Edition. It changes water colors, explosion particles, block sounds, mob animations, and many other things. Now, you can bring the clean visuals of Java Edition into the world of Mineraft Bedrock.
+
+Check out Console Aspects for the Legacy Console Edition style on Bedrock.
+
+Creator: AgentMindStorm, Bluesky Account, YouTube Channel (Click here for more credits.)
+
+Pack Options
+
+Explore the different ways to use Java Aspects.
+
+Default Textures
+
+Matches the latest update for Java Edition. Modern block, item, and entity textures.
+
+Programmer Art (Classic Textures)
+
+The original look of Minecraft. You must apply the Minecraft Classic Texture Pack from the Marketplace below Java Aspects for the subpack to work correctly.
+
+This mode does not recreate bugs from Programmer Art, such as green Villager hats.
+
+Compatibility Mode
+
+Allows another resource pack to overwrite textures while keeping Java sounds, animations, and language changes intact. Apply the other pack above Java Aspects.
+
+(Note: City Texture Pack not included!)
+
+Feature List
+
+Read a comprehensive list of in-game differences when using Java Aspects.
+
+Recommended Game Settings:
+
+Accessbility:
+
+- Block Dithering: OFF
+
+- Player and Mob Dithering: OFF
+
+- Actionbar Background Opacity: 0%
+
+- Chat Background Opacity: 50%
+
+- Text Background Opacity: 0%
+
+Video:
+
+- Fancy Bubbles: ON
+
+- Show Autosave Icon: OFF
+
+- Outline Selection: ON
+
+====================
+
+Atmosphere:
+
+Fog and Sky
+
+- Lighter overworld fog
+
+- Blue rain fog
+
+- Deep blue underwater fog
+
+- Distant underwater fog
+
+- Biome-specific sky colors from Java Edition
+
+- End sky color
+
+Weather
+
+- Smaller snowflakes
+
+====================
+
+Block Changes:
+
+Textures
+
+- More transparent water from Java Edition
+
+- Crimson-colored Weeping Vines
+
+- Snowy Grass Block side matches normal Grass Block side
+
+- Blackstone Slab and Stairs have consistent tops and bottoms
+
+- Pale Copper Torch and Lantern colors
+
+- Updated Purple Glazed Terracotta sword outline
+
+- Consistent Decorated Pot top and bottom rotation
+
+- Activated Observer back texture
+
+- Fire and Bubble Coral Block textures
+
+- Structure Block Save/Load are used like Java Edition
+
+- Structure Void texture similar to Barrier
+
+- Black opaque Leaves textures when using Fast graphics
+
+- Fixed miscolored Weathered Copper Bars pixels
+
+- Correct Nether Reactor textures
+
+- Missing texture is now pink and black
+
+Colors
+
+- Water colors from Java Edition
+
+- Warmer Meadow grass and foliage
+
+- Warmer Dripstone Cave grass and foliage
+
+- Cooler Lush Cave grass and foliage
+
+- Smooth Grass Block side biome transitions
+
+- Carried Grass Block tint
+
+- Carried Leaves tints
+
+- Ominous Banner colors match player-made banners
+
+Models
+
+- Taller
+
+- Seagrass
+
+- Wider
+
+- Calibrated Sculk Sensor amethyst
+
+- Improved Texture Mapping
+
+- Torch
+
+- Redstone Torch
+
+- Soul Torch
+
+- Copper Torch
+
+Rotation and Variation
+
+- Concrete Powder now randomly rotates on top and bottom
+
+- Stone, Bedrock, Deepslate, and Sculk now have texture variance
+
+- Dirt and Sand no longer rotate the side texture
+
+- Removed random rotation from most other blocks to match Java Edition
+
+Ambient Occlusion and Brightness
+
+- Face dimming on most light sources (such as Glowstone)
+
+- Darker Sand shading to match Sandstone
+
+- Lighter Obsidian shading to match Crying Obsidian
+
+- Lighter Respawn Anchor shading to match Crying Obsidian
+
+- Darker Leaves shading to match all other blocks
+
+Texture Animations
+
+- Faster Lava
+
+- Faster Magma Block
+
+- Faster Kelp
+
+- Faster Seagrass
+
+- Faster lit Smoker front
+
+- Faster Crimson and Warped Stem sides
+
+- Removed frame blending for most animations
+
+Distant Rendering
+
+- Lighter Distant Leaves
+
+- Greener Grasses and Ferns
+
+- Improved color accuracy for:
+
+- Cornflower
+
+- Warped Roots
+
+Miscellaneous
+
+- Lighter block cracking animation
+
+- Christmas Chest textures (requires Christmas Chests companion pack)
+
+====================
+
+Item Changes:
+
+General Changes
+
+- First Pers

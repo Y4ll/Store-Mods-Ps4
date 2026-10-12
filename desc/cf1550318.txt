@@ -1,0 +1,60 @@
+Ore Vein Miner Fast Mining Addon
+
+Welcome to Ore Vein Miner by BAKU, a lightweight Minecraft Bedrock addon designed to make ore mining faster and more efficient .
+
+With this addon, breaking a single ore block automatically mines the entire connected ore vein, helping you collect resources quickly while keeping your survival gameplay smooth and enjoyable .
+
+Addon Features
+
+- Instant Ore Vein Mining Mine an entire connected ore vein by breaking one ore block.
+
+- Fast Resource Collection Spend less time mining and gather ores much faster.
+
+- Survival Friendly Perfect for survival worlds without changing the vanilla feel.
+
+- Optimized Performance Lightweight and designed for smooth gameplay.
+
+Gameplay Benefits
+
+- Faster Ore Collection Collect diamonds, iron, gold, redstone, emeralds, and more in seconds.
+
+- Better Mining Experience Reduce repetitive mining while exploring caves.
+
+- Exploration Focused Spend more time exploring instead of mining every block individually.
+
+- MCPE & Bedrock Optimized Works smoothly on Minecraft Bedrock Edition.
+
+Addon Highlights
+
+- Mine Entire Ore Veins
+
+- Supports All Vanilla Ores
+
+- Fast & Lightweight
+
+- Survival Friendly Gameplay
+
+Addon Info
+
+- Type: Survival Utility Addon
+
+- Feature: Ore Vein Miner
+
+- Platform: Minecraft Bedrock Edition
+
+- Smooth & Performance Friendly
+
+Why Use This Addon?
+
+If you want a faster and smoother mining experience while keeping survival gameplay fun, Ore Vein Miner is the perfect addon for quickly collecting valuable ores without unnecessary grinding.
+
+Credits
+
+Addon Creator: BAKU
+
+Support & Feedback
+
+Please rate this addon and leave a review if you enjoyed it it really helps!
+
+Have any questions or suggestions?
+Join my Discord and ask here Click to Join Discord

@@ -1,0 +1,39 @@
+In a time before Pokemon were used for battling and people captured them in Pokeballs, they were kept as pets used for fun and companionship. Welcome to Pokemon Adventures! Eevee.
+
+Pokemon Adventures! gives you the chance to tame and keep some of your favourite Pokemon. No skill or battling required just a loving owner to take care of them.
+
+This add-on is still in production and will be updated frequently with new features.
+
+Eevee will spawn in the wild but before you can take one home with you, you will need to craft together Soup. Soup can only be crafted using a Cooking Pot.
+
+Each Soup will require natural ingredients found in the wild mainly Berries. Berry Trees can be found in any Grassy Biome, simply harvest the Berries from the trees to create a Recipe. Players can also eat them for a small hunger boost.
+
+Healing Soups will heal the HP of your Pokemon by a certain amount depending on the Soup.Hiringu Soup will heal any Pokemon by 20
+
+Cho Iyashi Soup will heal any Pokemon by 60
+
+Eievui Soup, used for Taming a Wild Eevee
+
+You can tame an Eevee by feeding them the correct Soup
+
+Once tame you can access their menu giving you a few options by sneaking and interacting
+
+Eevee will be able to sit on your shoulder using the Jump Up buttonSneak and Jump at the same time whilst standing still to let Eevee down.
+
+Eevee will have a Go Dig button, this will make them sniff out some lost items and dig them up for you
+
+Evolution is part of any game that involves Pokemon and this add-on is no different, Evolution will work similar to main stream Pokemon games but maybe a few different twists down the line.
+
+Evolution Stones are a big source of evolution and if you dig in any Biome at around 30 "Y" you will come across some Element Ore, by breaking this Ore you will get a fragment of an Evolution Stone.
+
+Craft nine Fragments of the same Evolution Stone to create that Evolution Stone.
+
+As Eevee requires an Evolution Stone to evolve the option will be in it's menu. As long as you have the correct Stone in your inventory and you are at least level 25 you will be able to evolve it.
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on
+
+The Thumbnail for this add-on DOES NOT portray actual gameplay content
+
+Achievement Compatible

@@ -1,0 +1,27 @@
+[Compatible with other addon][1.21.122]
+
+TREE CAPITATOR!! Cut down trees at a high speed and use a variety of axes from other addons to take advantage of this feature!! Grab your favorite axe and start chopping the nearest tree!!
+
+Configuration command for operator
+
+Axe durability consumption was added based on the number of logs broken; this option can be disabled from a settings menu accessed with operator privileges.
+
+-Works with achievements!
+
+-Now works with all available woods
+
+-Optimized for better performance
+
+Updated to Minecraft 1.21.101 if you still have Minecraft 1.21.101 This version is available in downloads!!
+
+TEST
+
+To deactivate the complete tree felling, you can be in sneaking mode so that it removes block by block.
+
+Remember!
+
+To ensure that the addon is working, check if this small text with an icon appears, saying 'recapitator.' The addon is compatible with other addons.
+
+It works with other addons too!
+
+Important: people who review this addon many times do not read the characteristics and terms to make a video of this addon. If you are a content creator please use the mcpedl link and you are not allowed to leave the direct link or make your own link. If you break I will take measures for this

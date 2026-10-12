@@ -1,0 +1,113 @@
+Neq's Better Tree Cutter & Vein Miner
+
+Upgrade your Minecraft Bedrock survival experience with Neq's Tree Cutter & Vein Miner a powerful utility add-on designed to make resource gathering faster, smoother, and more satisfying in MCPE 1.21+.
+
+Created by Neq Gamerz, this add-on introduces smart mining mechanics that help players cut entire trees and mine connected ore veins instantly while keeping gameplay balanced and survival-friendly.
+
+Features
+
+Tree Cutter System
+
+- Break a single log while sneaking to cut down the entire tree instantly.
+
+- Supports multiple tree types including:
+
+- Oak
+
+- Birch
+
+- Spruce
+
+- Jungle
+
+- Mangrove
+
+- Cherry
+
+- Crimson & Warped stems
+
+- Natural block drops are preserved.
+
+- Fast and efficient wood farming for survival worlds.
+
+Vein Miner System
+
+- Mine connected ores instantly by breaking one ore block while sneaking.
+
+- Works with:
+
+- Coal
+
+- Iron
+
+- Gold
+
+- Diamond
+
+- Emerald
+
+- Copper
+
+- Redstone
+
+- Lapis
+
+- Nether Quartz
+
+- Ancient Debris
+
+- Deepslate variants
+
+- Automatically detects connected ore clusters.
+
+Enchantment Support
+
+- Fully compatible with:
+
+- Fortune Enchantment
+
+- Silk Touch Enchantment
+
+- Correct drops are generated based on your tool enchantments.
+
+Gravel Miner
+
+- Instantly clear connected gravel clusters.
+
+- Makes cave exploration and mining much easier.
+
+Optimized Performance
+
+- Designed for Minecraft Bedrock 1.21+
+
+- Lightweight and optimized scripting system.
+
+- Smooth gameplay with survival-friendly mechanics.
+
+Compatibility
+
+- Minecraft Bedrock Edition / MCPE 1.21+
+
+- Works in Survival Worlds
+
+- Multiplayer Compatible
+
+- Script API Supported
+
+Creator
+
+Neq Gamerz
+
+Redistribution Policy
+
+- Redistribution of this add-on is strictly prohibited.
+
+- Do NOT re-upload this pack to any website, app, or media platform.
+
+- Do NOT modify and redistribute this pack without permission from the creator.
+
+- YouTubers and content creators are allowed to showcase this add-on in videos, but direct download links must not be shared.
+
+- Always provide proper credit to Neq Gamerz.
+
+Enjoy faster mining, easier resource collection, and a smoother survival adventure with Neq's Tree Cutter & Vein Miner!

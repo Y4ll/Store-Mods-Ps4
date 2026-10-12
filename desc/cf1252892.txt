@@ -1,0 +1,49 @@
+This is a port of Italian Brain Rot mod by soyHerios from Minecraft Java.
+
+This ITALIAN BRAIN ROT addon, as the name suggests, brings creatures from the AI-created universe called ITALIAN BRAIN ROT to MINECRAFT while maintaining a visual aesthetic that remains friendly to the vanilla art style.
+
+By executing the command !start, you will summon "Herios, the Brain Rot Seller" a silent merchant who offers spawn eggs for all the custom creatures featured in the mod. These spawn eggs are not obtained freely; each one requires a specific combination of items, encouraging players to gather, explore, and trade strategically.
+
+Each creature is unlocked through its own unique trade. For example:
+
+- Tung Tung Tung Sahur: 16 oak wood blocks + 64 sticks
+- Tralalero Tralala: 16 kelp + 1 water bucket
+- Chimpanzini Bananini: 16 melon slices + 5 melon seeds
+- Frigo Camelo: 16 wheat + 5 leather
+- Bombardiro Crocodilo: 16 lily pads + 5 iron ingots
+- La Vaca Saturno Saturnita: 16 leather + 10 wheat
+- Burbaloni Luliloli: 16 sand + 5 leather
+- Brr Brr Patapin: 16 oak leaves + 6 oak logs
+- Herioscuino Tanquini: 16 iron ingots + 2 wheat seeds
+- Lirili Larila: 16 cactus + 10 sand
+- Tripi Tropi Tropa Tripa: 16 salmon + 1 water bucket
+- Ballerina Capuchina: 16 pink wool + 5 white wool
+
+- Boneca Ambalabu: 16 slime balls + 5 black wool
+
+Key Features:
+Over a dozen original entities such as Lirili Larila, Tripi Tropi Tropa Tripa, Ballerina Capuchina, Boneca Ambalabu, and more.
+
+Spawn eggs available exclusively through custom trade interactions with the Brain Rot Seller.
+
+Fully animated using GeckoLib, with smooth transitions and detailed movement.
+
+Designed with a vintage pixel art aesthetic, perfectly compatible with vanilla Minecraft visuals.
+
+This mod is ideal for players seeking to enrich their world with unusual, creative, and mysterious creaturesadding depth to exploration, resource collection, and world-building. BrainRot is more than just a content mod: it delivers a light narrative experience through its custom entities and trading system, all while respecting the original tone and atmosphere of Minecraft.
+
+Permissions:
+
+Discord soyHerios comunity: https://discord.gg/w4vBjv8sfx
+
+Discord: euforia_sin_h
+
+Discord server comunity: https://discord.gg/YJ5v727bJH
+
+YT: https://www.youtube.com/@Euforia-conr
+
+Note:
+
+Don't forget to activate the beta-api from experimental options.
+
+Some mechanics have been adapted to make them compatible with the limitations of Minecraft Bedrock

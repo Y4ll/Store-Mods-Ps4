@@ -1,0 +1,127 @@
+Adds a creepy Cave Dweller mob with adaptive AI that stalks players in deep caves, learns new abilities over time, and creates tense, unpredictable encounters.
+
+Disclaimers:
+
+- It's definitely not a 1:1 Bedrock port to clear confusion! A good friend made this nice title some time ago and I chose to still use it lol!
+
+- Even though this addon features "unique AI", it's quite different from the Marketplace Cave Dweller! They both adapt and learn yes lol! BUT the Marketplace one is way more polished and is made by a professional studio making actual profit! This little addon is a very fun experiment made by a crazy dude with the hobby of making addons! It might be less polished, but has the benefit of being art made with passion and being ready to be improvised/improved at any time! It also might feel more natural due to having less boundaries! You will find out about those boundaries while playing! This addon just feels different, maybe slightly off! In a very good way lol!
+
+Recommended using 4 Chunks Simulation Distance(Or lowest)(Or higher for increased spawnrate) for the intended spawn rate etc!
+
+Use Vibrant Visuals for the proper experience(If possible)!
+
+Turn on experimental features just in case(For the script to unlock more deep features etc)!
+
+Turning on Beta Api in your Minecraft world from the experimental settings is required for the intended addon experience in Minecraft version 26.50 etc!
+
+Tip: Play with very low Minecraft Gamma/Brightness setting for a better experience!
+
+Optionally: Use a mob remover like my AntiMobs addon to get rid of any possibly annoying Vanilla Monsters!
+
+Epilepsy warning: This addon uses very extreme effects! Play with caution!
+
+[Spoiler Warning] Some stuff that might occur in caves after activating this addon:
+
+- The cave dweller lurks in the caves
+
+- It's unpredictable
+
+- Slowly progressing when you are inside a cave
+
+- At first you might notice sounds are off
+
+- This will get worse
+
+- Eventually, you will feel like being followed perhaps stalked without being able to confirm it
+
+- Eventually, you will hear weird monster-like sounds echoing through the caves, those who aren't vanilla
+
+- At some point you hear pretty loud footsteps
+
+- Those will get closer and closer
+
+- You will start barely noticing the entity
+
+- It's very hideous (In early state)
+
+- Later, it starts playing/messing around etc.
+
+- From this point, quite a lot of weird random stuff can happen
+
+- Looking at it directly conflicts it; it responds in various kinda endless ways
+
+- Keeps its hideous attitude
+
+- It often just flees
+
+- It can put you off
+
+- It taunts/tricks you
+
+- It confuses you on purpose
+
+- Changes its attitude
+
+- It could be either passive, neutral, hostile
+
+- But also stuff in between
+
+- Mischievous
+
+- Playful
+
+- Sadistic
+
+- It's very agile too
+
+- It's not overpowered
+
+- It sticks and hangs
+
+- It climbs
+
+- It crouches
+
+- it peeks
+
+- It can hear you
+
+- It interacts by sounds ingame
+
+- It crawls into small gaps using this to its advantage
+
+- Getting too close might anger it
+
+- A chase can happen when or when you aren't ready
+
+- It has a huge environmental advantage
+
+- It progressively gets stronger
+
+- It unlocks/learns abilities
+
+- Some passive, some hostile and kinda nasty
+
+- It might learn to mine, use various tactical manoeuvres and a lot of other things you might not predict
+
+- It could learn to leave the caves, if the player progresses and reaches a certain level
+
+- It prefers darkness and uses it as cover
+
+- It might mess with the lighting
+
+- It has vicious glowing eyes (Very nice with Vibrant Visuals on)
+
+- Stuff happens and progresses quite slowly at random
+
+- Entering the Deepslate layer might wake it up early
+
+- The deeper you are inside the caves, the faster it progresses
+
+- Staying in deep caves is both risky and scary
+
+- It is super hideous sometimes and hides/peeks from cover
+
+- The AI is inconsistent in an interesting, eerie way
+
+- It might follow you into the Nether and eventually into the End to

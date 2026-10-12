@@ -1,0 +1,128 @@
+A fully functional add-on that allows you to create and manage waypoints in your Minecraft world, with the ability to teleport to them at any time!
+
+SHOWCASE
+
+FUNCTIONALITY
+
+To use the addon...
+
+Just open the menu you want! You can do the following with each one!
+
+Waypoints Manager
+
+- Use it to create, edit, delete, and teleport to your waypoints.
+
+- Create waypoints with custom names.
+
+- Save the exact coordinates of your current location.
+
+- Instantly teleport to any of your saved waypoints (only in the same dimension!).
+
+- Edit your waypoints' names or update their coordinates.
+
+- Delete waypoints you no longer need.
+
+Vanilla Waypoints Configs Menu
+
+- Access all addon configurations and info.
+
+- Adjust the maximum limit of waypoints you can create.
+
+- Toggle visual particles on/off.
+
+- Toggle sound effects on/off.
+
+- Server mode: restrict configuration access to operators only.
+
+- Operator permission system for multiplayer servers.
+
+FEATURES
+
+- Create custom waypoints - Save important locations with unique names.
+
+- Teleportation - Travel to your saved waypoints easy.
+
+- Waypoint editing - Change names or update coordinates whenever you want.
+
+- Complete management - Delete waypoints you no longer need.
+
+- Intuitive interface - Easy-to-use form menus.
+
+- Slot system - Control how many waypoints you can create (configurable).
+
+- Multi-dimension - Waypoints work in Overworld, Nether, and The End.
+
+- Server mode - Permission system for administrators in multiplayer.
+
+- Customization - Enable/disable sounds and particles according to your preference.
+
+- Lag-free - Optimized to not affect game performance.
+
+HOW TO GET THE ITEMS
+
+If you lost the items, you can craft them!
+
+Waypoints Manager Recipe:
+
+Materials needed:
+
+4x Red Dye
+
+2x Paper
+
+2x Empty Map
+
+1x Ender Pearl
+
+Configs Menu Recipe:
+
+Materials needed:
+
+1x Cobblestone
+
+1x Pink Dye
+
+Or use commands:
+
+/give @s dl_vw:waypoints_manager
+/give @s dl_vw:configs_menu
+
+You can also create them from the inventory in creative mode! (Found in the "Equipment" category)
+
+COMPATIBILITY
+
+This addon is completely compatible with other addons and does NOT use experimental features!
+
+- Compatible with achievements.
+
+- No experimental features required.
+
+- Works in survival and creative modes.
+
+- Multiplayer compatible (server mode included).
+
+ALL MY LINKS
+
+Join my Discord community, subscribe to my YouTube channel, and Buy me a coffee to continue supporting my projects!
+
+You won't regret it!
+
+INSTALLATION PROCESS & SUPPORT
+
+Correct installation process:
+
+- Download both files, the behavior pack [BP] and the resource pack [RP] (If you only download one of the two .mcpack files, the add-on may not work properly).
+
+- Import both files into Minecraft Bedrock. One at a time.
+
+- Activate the add-on in an old or new world. When you activate one of the two, the other will automatically activate. For example: if you activate [RP] -> [BP] will automatically activate.
+
+- Enjoy :)
+
+If you encounter any issues or have questions:
+
+- Join the Discord server for quick support.
+
+- Report bugs in the section intended with detailed information.
+
+- Share your suggestions for future updates.

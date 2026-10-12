@@ -1,0 +1,119 @@
+Adds over 20 enchantments: Hammer (33 mining), Vein Miner, Smelting Touch, Wisdom, Double Jump, Lava Walker, Frostbite, Lifesteal, Tree Decapitator, Bulwark, Second Wind, Adrenaline, and more.
+
+New enchantmenting table
+
+Recipe
+
+Hold the item you want to enchant in your hand and right-click (Use button).
+The available enchantments will vary depending on the item type.
+
+What is Transfer?
+It allows you to transfer an enchantment from one item to another (for example, moving Wisdom from your old pickaxe to a new one), respecting the addon's compatibility and maximum levels.
+How to use it (step by step)
+1. Open the addon's enchantment table (Use button).
+2. Go to the Transfer tab.
+3. Choose the destination item (the one that will receive the enchantment).
+4. The panel will show transferable enchantments. Incompatible ones will appear disabled with the reason.
+5. Check the cost (XP and lapis lazuli) and click Confirm.
+Rules and limits
+Only enchantments compatible with the target item type can be transferred.
+If the target already has that enchantment, it is combined/upgraded to the level cap defined by the addon.
+Conflicts (e.g., two enchantments that cannot coexist) prevent the transfer until they are resolved.
+The maximum levels of the addon are not exceeded.
+The durability and name of your items do not change when transferred.
+Costs
+The price in XP/Lapis depends on the level of the enchantment and how many you are transferring.
+It is only deducted upon confirmation.
+
+Enchantments
+
+Armor
+
+Armor enchantments: how do they work?
+Pieces and levels
+
+Most armor enchantments can be applied to four pieces: helmet, chestplate, pants, and boots.
+
+Each piece has its own level (e.g., Helmet III, Boots I). You can mix levels.
+
+Power sum (general rule)
+
+The add-on combines what you are wearing: it counts how many pieces have the enchantment and their levels.
+
+Think of power as a percentage between 0% and 100%:
+
+Mental formula: Power (sum of levels) / (max. level per piece 4).
+
+If the max level per piece is III:
+
+1III 25%
+
+2III 50%
+
+3III 75%
+
+4III = 100%
+
+Mixes also add up: Helmet III + Boots I = 4/12 33%.
+
+How does this power affect things?
+
+It depends on the enchantment, but it usually scales one or more of these things:
+
+Potency (damage reduction, healing, resistance, etc.).
+
+Duration of effects.
+
+Probability of activation.
+
+Range/radius.
+
+Thresholds and activation
+
+Some enchantments require a minimum number of pieces or power to activate (e.g., 2 pieces for the medium version, 4 pieces for the maximum version).
+
+Others always work, but improve with more pieces/level.
+
+Level difference between pieces
+
+They are not replaced: they accumulate. A high level in one piece and a low level in another do add to the total.
+
+The overall level cap of the enchantment is never exceeded.
+Cooldowns and balance
+
+Many effects use cooldowns to prevent abuse.
+
+More power can reduce cooldown, increase duration, or raise probability (depending on the enchantment).
+
+Magnetism
+
+Magnetism
+
+Pulls nearby dropped items toward you, streamlining collection while exploring or mining. Each equipped armor piece enhances both range and pulling strength. Crouching (sneak) temporarily disables the effect.
+
+Applies to: Armor (all pieces)
+Mechanics:
+
+- Active when not sneaking and wearing at least one Magnetism-enchanted armor piece.
+
+- Every tick interval, searches for dropped items within range and applies a small directional impulse toward the player.
+
+- The attraction strength and detection radius scale with the number of enchanted pieces equipped.
+
+- Items within close range are ignored to prevent excessive jitter.
+
+- Automatically limits the number of items processed per tick for performance efficiency.
+
+Formula:
+
+- Base Radius: 4 blocks
+
+- +2 blocks per equipped piece (max 12)
+
+- Base Pull: 0.06
+
+- +0.02 per piece, with distance falloff (up to 0.12 maximum pull)
+
+Levels:
+
+- Single functional level. Effect scales dynamically with the number of enchanted armor pieces equippe

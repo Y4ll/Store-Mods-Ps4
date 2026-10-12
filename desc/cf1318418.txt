@@ -1,0 +1,88 @@
+Watch or Read the Installation Guide to prevent issues
+
+Watch this video below or Read the Installation Guide to prevent issues
+
+About:
+
+WATCH THE VIDEO ABOVE OR READ THE INSTALLATION GUIDE TO PREVENT ISSUES
+Arduous Journey is a real addonpack for the Bedrock version of Minecraft that works on ALL platforms and includes custom content, not just mashing addons together.
+
+Playing this pack will bring you into a challenging dark fantasy world with new things such as bosses, mobs, dungeons, armors, tools and much more then you can imagine like the world lore & its story!
+
+The custom mods include various stuff made by me such as bosses, performence tweaks, custom fixes to make addons work together, custom edits to most structures and etc. Read the installation instructions below please.
+
+Discord: DISCORD LINK
+
+Images of Addonpack
+
+Tame new animals
+
+A Villager Faction Post in the wild
+
+A deer finding themselves in the wrong place
+
+A outpost of the Unbound Faction
+
+Pillager Faction on a Voyage
+
+Sentinel Faction investigating Unbound Territory
+
+The undead roam the night
+
+Pillager Faction Fort
+
+Centaurs Camp beware
+
+??? Underground
+
+Medusa
+
+A Soul Sand Valley in the Nether
+
+?????
+
+Compatible with Monsters by Levelatics
+
+Compatible with RPG Add-On by Kubo Studios
+
+Player Colony
+
+Other High Quality Addons you could add to this addonpack
+
+Monsters 1.1 by Levelatics - From Minecraft Bedrock Marketplace (High quality, unique bosses with structures and new mobs with cool designs, very amazing) Highly Suggest to use with pack
+
+Villager News by Orville Studios - Gives Villagers voice lines for various stuff.
+
+Dragons Addon 1.6 by Shapescape - From Minecraft Bedrock Marketplace (High quality Dragons you can find in the world with mob variey, dragon pet customization and unique dragon armor) Highly Suggest to use with pack. Grab this version of Mythlogical Craft from this link that removes the dragons from Mythlogical so the new addon is the only dragons appearing in the overworld: https://drive.google.com/file/d/1WAReMWxjZ6GAMMuS0zLLPfqnU3Q3bSch/view?usp=sharing
+
+Actions & Stuff AND Compatibility with A&S 1.1 - Minecraft Bedrock Addons - CurseForge
+
+Set Texture slider to Vanilla Experience.
+
+(Beautiful animation and effects for most items/Mobs) WILL lag mutiplayer or low end devices overtime due to this addon using multiple entitys for certain things such as effects, best for solo play.
+
+Installation Guide (Must read or watch installation video above)
+
+Step 1: Download the latest Arduous Journey Mcaddon file in the Files tab! Then double click the downloaded mcaddon file itself, doing so will make it auto install all the addons into your game.
+
+It will take a minute for all the addons to install, please wait until the game is done.
+
+Step 2: The Better On Bedrock addon is the only addon that didn't give permission to include their addon in this pack. Click this link and download their addon!: https://www.curseforge.com/minecraft-bedrock/addons/better-on-bedrock
+
+Step 3: Click to create a world and go to the "Experimental" world settings, then toggle on Upcoming Creator Features and "Beta APIs". Some addons will fail to work unless these are on!
+
+Step 4: The Resource Packs must be organized exactly like this image below for the first 10 Resource Pack addons. The rest of the addons do not matter in the way they are organized.
+
+Here is the addon list if you unsure which addons belong to this pack THIS LINK IS NOT HOW TO ORGANIZE, THE IMAGE IS BELOW: https://docs.google.com/document/d/1V3ckoFrT_vWib3vIXfbpLKKZZtgOoHdPuGWyxjcxXRw/edit?usp=sharing
+
+Step 5: Recommended settings!
+
+Difficulty: HARD!
+
+Render Distance 12 or lower
+Higher may cause lag or crashes due to a Mojang bug unrelated to my pack: Mojang Bug Report Link
+
+Vibrant Visuals - Does not matter
+On specific Consoles you may sometimes get a visual error where everything glows pink for a moment randomly.
+
+Final Step: Once in the world, after a few seconds un-needed guidebooks and items will be 

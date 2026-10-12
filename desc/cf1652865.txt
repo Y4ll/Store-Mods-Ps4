@@ -1,0 +1,102 @@
+Requiem Rising is a JoJo's Bizarre Adventure / JJBA addon that centers on customizable PvP.
+The core of the PvP are its sandbox elements, and every fight you have with another player will be unique!!
+
+You combine Stands, Specialties, Accessory Sets and Dark Determinations to make one unified build that, depending on your mix-and-match skills, could blow opponents away!!
+
+THIS ADDON WILL ONLY BE UPLOADED TO MCPEDL, CURSEFORGE AND THE RR DISCORD! IF IT IS ANYWHERE ELSE, I WAS NOT THE ONE WHO UPLOADED IT!!
+
+That isn't to say we don't have plenty of PvE / singleplayer content as well!!
+
+Starting things off, the most important feature in the addon: THE CODEX.
+
+The Codex is a full wiki of everything in the addon. You get it when you spawn in, and it can also be purchased from the Passione Mafioso NPC if you lose yours.
+
+THIS ADDON IS IMMENSELY COMPLEX!!! YOU NEED IT, EVEN IF YOU THINK YOU DON'T!!!
+
+Now, leveling up. Another item you will get when you spawn is the Character Leveling Menu item. Clear your hotbar and use it to open the menu, where you will be able to access a configuration menu to do things like enabling a custom camera angle (including an extra configuration menu for admins), an overview skill that lets you see the stats of nearby players, and of course open up multiple skill trees for your character, your stand, and your specialty.
+
+The basic combat is also very simple and uses familiar mechanics
+
+Dash: While holding a moveset item, crouch and jump to use your dash.
+It will launch you in the direction you are facing but can be upgraded to launch you in the direction you are moving instead.
+
+Block: Crouching allows you to block attacks. Not all attacks can be blocked however, some will either break your block, causing you to become stunned, or go straight through it, ignoring it completely and hitting you anyway
+
+Parry: For just a moment after you activate your block, you are put into a parry state that allows you to deflect certain attacks that aren't blockable. You cannot spam the parry however, crouching too often will shut it down and force you into the blocking state immediately, however blocking an attack will reset that timer and allow you to parry again immediately. Unlike being blocked, being parried will stun you, so you must be very careful using parriable attacks.
+
+Attack: Simply left click while holding a moveset item to use your basic attack, it comes out quick, does decent damage, and is blockable.
+
+Slam: Crouch and left click while holding a moveset item to use your slam, it comes out far slower and does higher damage, and it is parriable, but breaks block.
+
+The rest of your skills are defined by your kit!
+
+Being the main piece of your build, Requiem Rising has many stands from many parts.
+We also try not to add all the same stands as other JoJo mods, so you might see something here you can't really find anywhere else!!
+
+-> Part 3
+
+- Star Platinum
+
+- Hierophant Green
+
+- Cream
+
+-> Part 4
+
+- Killer Queen
+
+- The Hand
+
+-> Part 5
+
+- Gold Experience & Requiem
+
+- Soft Machine
+
+-> Part 6
+
+- Underworld
+
+-> Part 7
+
+- D4C
+
+- Tusk Acts 1-2 (BETA ONLY)
+
+- In A Silent Way (BETA ONLY)
+
+- Boku No Rhythm Wo Kiitekure (BETA ONLY)
+
+-> Part 8
+
+- Soft & Wet
+
+- Speed King
+
+-> EX
+
+- Star Platinum: Over Heaven
+
+Specialties (Specs) are things like Spin, and Hamon, secondary movesets that only give you a few extra skills, mostly designed to help your Stand fight instead of being your main combat source.
+
+-> Part 1
+
+- Hamon: Brawler Style
+
+- Vampirism: Superhuman Style
+
+-> Part 7
+
+- Spin: Steel Style
+
+-> EX
+
+- Physical Combat
+
+- Edict
+
+Accessory Sets are armor pieces that grant passives when worn. Extremely simple, but choosing the right one for you is crucial to getting a good build.
+
+You can wear all 4 pieces of the same set to get a powerful buff, or mix and match freely to get weaker versions of multiple buffs!
+
+(NOTE: THEY ARE INVISIBLE IN GAME SO THAT WHEN YOU USE A SKILL THAT TURNS YOU INVISIBLE YOU DO NOT APPEAR AS FLOAT

@@ -1,0 +1,45 @@
+Minecraft is all about creativity and survival, but building a proper shelter on your first day can be time-consumingespecially for new players. Thats where the Craftable Houses Addon comes in! With this addon, you can instantly spawn three unique houses using special craftable items. Whether you need a quick base, a medium-sized home, or a cozy decorative house, this addon has you covered.
+
+House 2: The Medium Rustic Home
+
+Description: House 2 is a warm, medieval-style home with two tall towers and detailed wooden roofing.
+Design: This house is larger than a basic starter hut, featuring a medieval design and multiple entry points.
+Features:
+
+- Crafted with wood planks (see recipe).
+
+- Spacious two-floor layout.
+
+- Room for storage, crafting, and expansion.
+
+- Decorative details like beams and angled roofs.
+
+House 3: The Compact Stone Cottage
+
+Description: House 3 is a charming stone-and-wood starter home, ideal for players who want a compact but stylish base.
+Design: A balanced mix of stone bricks and wood makes this home feel cozy yet durable.
+Features:
+
+- Crafted using wood and stone (see recipe).
+
+- Two levels: lower floor for crafting/storage, upper floor as a bedroom.
+
+- Chimney and rustic design details.
+
+- Perfect for small survival worlds.
+
+House 4: The Large Fantasy Home
+
+Description: House 4 is the most detailed home in the addon, built with a fantasy style that feels grand and magical.
+Design: With towering walls, curved roofs, and large interiors, this house makes you feel like youre living in a castle-like base.
+Features:
+
+- Crafted using a mix of wood planks (see recipe).
+
+- Large multi-floor layout with plenty of space.
+
+- Pre-lit to keep mobs away.
+
+- Beautiful detailing for players who love aesthetics.
+
+-

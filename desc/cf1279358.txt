@@ -1,0 +1,3 @@
+KALASH CRAFT
+
+This mod adds firearms, ores, and crafting stations. The mod aims to make the creation of firearms as realistic as possible. It is being developed for experimental and entertainment purposes. Currently, the mod includes 55 crafting recipes, 4 types of ores, and 7 crafting stations. The mod works on all versions of Minecraft Bedrock Edition starting from 1.21 and above.

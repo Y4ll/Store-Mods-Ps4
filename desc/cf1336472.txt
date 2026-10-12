@@ -1,0 +1,70 @@
+How to get started?
+
+First of all, TURN ON BETA API IN EXPERIMENTAL GAMEPLAYS!!!
+Also, you need to activate extra behavior pack to make addon work.
+
+How to get my stand?
+
+To get your stand, you need to have an arrow first. To get your arrow, you need to find meteor on plain biome. Then use meteor to craft one.
+
+There are also 2 different types of stand arrow, special arrow and requiem arrow. You can find heart father and Polnareff to get these 2 arrows.
+After using the arrow, you need to go through trials. Including fighting and so on. If you don't like these trials, you can turn them off in settings. By sneaking twice with the golden slot.
+You can also check your stand's introduction in settings like this(If you have one).
+
+Stands
+
+Star Platinum
+
+You can check more info in introduction.
+
+The World
+
+You can check more info in introduction.
+
+Hierophant Green
+
+You can check more info in introduction.
+
+Silver Chariot
+
+You can also combine it with Anubis God!
+It can also evovle to silver chariot requiem. After evoving, it will cost your will power constantly, if your will power drops to 0, it will go out of control!
+
+Check more info in the introduction.
+
+Killer Queen
+
+Check more info in the introduction.
+
+The Hand
+
+Check more info in the introduction.
+
+Purple Haze
+
+Check more info in the introduction.
+
+Techniques
+
+Vampire
+
+You can turn into vampire! Craft a stand mask and attack mob to turn into a vampire. Find it in Jungle Pyramid!
+
+Check more info in the introduction!
+
+Structures
+
+To get into Mr.President, you need to collect turtle scales (Baby turtles have a chance to produce unstable turtle scute as they grow), after that, craft unstable crystals with scales to summon Mr.President. Then you can find Polnareff.
+
+Something bizarre will happen if you sneak for a long time watching the wall in front of you...
+
+Bizarre Ore lies in it!
+
+Command
+
+If you wanna adjust the stand stats, here we introduce an easier way instead of editing json files.
+
+Made by BLACK_heimu, translated by me. Here's the permission from the original creator:
+
+Recommend version: 1.21.100 or higher.
+SHARING DIRECT LINK IS NOT ALLOWED

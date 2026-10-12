@@ -1,0 +1,21 @@
+This pack enhances slot highlight, making it clearer and easier to see. It is perfect for PvP, Survival, and more, with a variety of colors to choose from.
+
+Features
+
+- Enhanced Slot Highlight Makes the selected slot clearer and more visible, helping you quickly identify your current selection.
+
+- Multiple Highlight Colors Choose from multiple highlight colors to match your preferred visual style.
+
+- Hotbar & GUI Support Works across the hotbar and supported in-game GUIs for a consistent slot highlight experience.
+
+Showcase
+
+- Works on GUIs
+
+- Settings: You can set it here!
+
+- CurseForge yBetter Slot Highlight
+
+- MCPEDL yBetter Slot Highlight
+
+Support me:)

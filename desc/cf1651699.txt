@@ -1,0 +1,55 @@
+Waila GT V2 The tooltip Bedrock has been missing. Point at anything and instantly know everything: what it is, how to harvest it, what's inside it, how much health it has left. No more guessing, no more opening menus, no more breaking immersion. Just look, and know.
+
+IMPORTANT NOTE Please ensure this add-on is placed as high as possible in your behavior pack load order to prevent conflicts or errors.
+
+No Experimental Features
+Achievements Friendly
+Multiplayer Ready
+
+Block & Entity Info
+Inventory Preview
+Settings
+
+FEATURES
+
+Instant Block Intelligence Aim at any block and the HUD tells you exactly what tool to use, whether the one in your hand is correct, and for crops precisely how far along they are. No more digging blind.
+
+Container Preview Point at chests, barrels, hoppers, dispensers, or droppers to preview their complete contents in real time. Previously an experimental toggle, container preview is now a fully integrated, stable core feature.
+
+Furnace Smelting Readout Look at any active furnace, blast furnace, or smoker to monitor estimated cooking progress, remaining fuel burn time, and output preview without opening menus. Dynamic timers provide a real-time approximation of your smelting cycle.
+
+Smart Interaction Icons Instantly see if a mob can be bred, tamed, ridden, or traded and whether you're holding the right item for it.
+
+Full Entity Readout Health, armor, and every active status effect, all rendered live the moment you look at any mob or player. A rendered 3D portrait puts a face to every stat.
+
+Unified and comprehensive customization All settings are managed via two commands. Run /pmenu to open the personal panel and configure your settingsthis also works with any other GT add-ons you have installed.
+
+Additionally, server administrators can run /menu to establish default settings for everyone, applying them globally to all players.
+
+Floating Damage Viewer See exact combat damage float right above your crosshair in real time. Numbers cleanly drift apart during fast combos without overlapping, and colors can be fully customized via /pmenu.
+
+COMPATIBILITY
+
+- No experimental features required
+
+- Multiplayer and Realms compatible
+
+REQUIREMENTS
+
+- Minecraft Bedrock Edition 1.26.50+
+
+LIMITATIONS
+
+- The only exception is that addon items cannot be rendered, though entities can.
+
+LICENSE & USAGE
+
+This Add-On is a derivative work built on top of WAILA by r4isen1920, and is likewise distributed under the MIT License. If you wish to reuse or attribute this work into your own, please refer to the license accordingly.
+
+Copyright (c) 2025 r4isen1920 original WAILA Copyright (c) 2026 REX1858 derivative modifications (Waila GT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

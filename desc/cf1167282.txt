@@ -1,0 +1,7 @@
+Add a little realism to your skies! Real Sun & Moon will do that for you. Perfect texture pack for a more realistic feel to your skies!
+
+Now all your skies either Day or Night will have a real looking Sun & Moon.
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on

@@ -1,0 +1,75 @@
+Add adorable plushie blocks to your Minecraft world!
+
+WIKI
+
+Plushie Addon (Unofficial) Complete Guide
+
+About This Addon
+
+The Plushie Addon brings a collection of cute, decorative plushie blocks to Minecraft Bedrock Edition. Perfect for decorating your bedroom, living room, or any space that needs a touch of warmth and cuteness!
+
+Features
+
+- 90+ Different Plushies - Including allay, armadillo, axolotl, and many more!
+
+- Craftable Recipes - Each plushie has its own crafting recipe
+
+- Beautiful Textures - High-quality, detailed textures for each plushie
+
+- Decorative Blocks - Perfect for interior decoration and building projects
+
+- Custom Models - Unique 3D models for each plushie type
+
+How to Use
+
+1. Craft Plushies - Use the crafting table to create your favorite plushies
+
+2. Place & Decorate - Place plushies anywhere in your world as decorative blocks
+
+3. Collect Them All - Try to collect every type of plushie available!
+
+Compatibility
+
+- Minecraft Version: 1.21.60+ (Bedrock Edition)
+
+- Required: No additional mods or addons needed
+
+- Multiplayer: Works in both single-player and multiplayer worlds
+
+- Realms: Compatible with Minecraft Realms
+
+Installation
+
+1. Download the addon files
+
+2. Import both the Behavior Pack and Resource Pack
+
+3. Enable both packs in your world settings
+
+4. Start crafting and decorating!
+
+Bug Reports & Suggestions
+
+Found a bug or have a suggestion for a new plushie? Please let me know in the comments!
+
+Changelog
+
+v1.0.0
+
+- Initial release with 90+ plushie types
+
+- Complete crafting recipes for all plushies
+
+- Custom textures and models
+
+- Full compatibility with Minecraft Bedrock Edition
+
+- VV Support
+
+Changelog
+
+v2.0.0
+
+Particles specifically themed with plush mobs applied, for example Blaze sometimes expels particles of small fires, the dolphin has particles of bubbles, etc.
+
+Enjoy decorating your world with these adorable plushies!

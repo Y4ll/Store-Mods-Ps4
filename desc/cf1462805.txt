@@ -1,0 +1,107 @@
+I'm sure you ever thought that minecraft even on hard difficulty is an easy game, well this addon changes that, now minecraft will be much more complicated! Your goal will be to complete the game with this new difficulty, it is recommended to play on hard to make it more funny! This Addon does not use a resource pack, it is just a behavior pack. As soon as you enter a game in survival you will notice a big difference, then all the changes.
+
+If you want to increase the difficulty of the bosses, download: True Bosses
+
+This addon offers up to 5 difficulties, choose one of them, it's up to you!
+
+Harder Difficulty:
+
+- The chance of monsters dropping their armor/swords/bows is 10%
+
+- All mobs have a mere 80% chance to drop items on death!
+
+- Mobs have a very low chance of spawning with potion effects!
+
+Insane Difficulty:
+
+- To start with something simple, all hostile mobs can see through walls.
+
+- The maximum spawn rate of hostile mobs has been increased by 50%.
+
+- All mobs have a mere 60% chance to drop items on death!
+
+- Hoglins and Zoglins can break shields!
+
+- When Zombie/Zombie Piglin attack there is a 10% chance that another Zombie will spawn!
+
+- The chance of monsters dropping their armor/swords/bows is 5%
+
+- Mobs have a low chance of spawning with potion effects!
+
+- You must now equip at least one piece of gold armor so that the Zombie Piglins don't attack you!
+
+- Monsters can spawn at a light level less than or equal to 9, meaning soul illuminations do not disable hostile mobs from spawning.
+
+Demon Difficulty:
+
+- To start with something simple, all hostile mobs have a very high vision and tracking range (26 blocks), and can see through walls.
+
+- The maximum spawn rate of hostile mobs has been increased by 100%.
+
+- Skeletons shoot arrows from 18 blocks away!
+
+- Endermen can now break shields!
+
+- Undead entities don't burn during the day!
+
+- Ghast and wither skeletons can spawn in the overworld.
+
+- Some spiders can breed as cave spiders!
+
+- The chance of monsters dropping their armor/swords/bows is 2.5%
+
+- Monsters can spawn at a light level less than or equal to 10, meaning soul illuminations do not disable hostile mobs from spawning.
+
+- Mobs have a medium chance of spawning with potion effects!
+
+- All mobs have a mere 40% chance to drop items on death!
+
+Torment Difficulty:
+
+- To start with something simple, all hostile mobs have a very high vision and tracking range (36 blocks), and can see through walls.
+
+- Skeletons shoot arrows from 20 blocks away!
+
+- Piglins and Zombified piglins are aggressive!
+
+- The maximum spawn rate of hostile mobs has been increased by 200%.
+
+- Most hostile mobs are now able to climb blocks!
+
+- The chance of monsters dropping their armor/swords/bows is 0%
+
+- Reduced animal spawn rate by 50%
+
+- Monsters can spawn at a light level less than or equal to 11, meaning soul illuminations do not disable hostile mobs from spawning.
+
+- Mobs have a high chance of spawning with potion effects!
+
+- Zombies and Zombie Pigman have up to a 15% chance to summon more zombies on hit.
+
+- All mobs have a mere 30% chance to drop items on death!
+
+Nightmare Difficulty:
+
+- To start with something simple, all hostile mobs have a very high vision and tracking range (48 blocks), and can see through walls.
+
+- Zombies and Zombie Pigman have up to a 30% chance to summon more zombies on hit.
+
+- Enderman are totally aggressive!
+
+- You can't sleep, the bed will explode if you try!
+
+- Mobs have a very high chance of spawning with potion effects!
+
+- Reduced animal spawn rate by 90%
+
+- Monsters can spawn at a light level less than or equal to 13, meaning soul illuminations do not disable hostile mobs from spawning.
+
+- All mobs have a mere 20% chance to drop items on death!
+
+List of upgrades to hostile mobs:
+
+- All monsters can spawn with potion effects, they can be strength, health boost, speed, invisibility!
+
+- All hostile mobs will spawn with stronger armor, and with a higher chance of having enchantments.
+
+- All hostile mobs will a

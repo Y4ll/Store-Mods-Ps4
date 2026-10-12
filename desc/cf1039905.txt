@@ -1,0 +1,20 @@
+New Armored Elytras
+
+Beharvior & Resources Packs Needed
+
+This addon does not disable achievements.
+
+Armored Elytras / Colytras combine the armor protection of a chestplate with the flight of an Elytra.
+
+(The armor armount is the same as the chestplate it was made from)
+
+Armor toughness and knockback resistance, in the case of Netherite, are preserved.
+
+Broken Colytras stop providing armor and can be repaired using Phantom Membranes or ingots.
+
+Supported Languages:
+All
+Feedback
+If you think any mechanic needs adjustment or have new ideas, feel free to share them!
+
+This addon does not disable achievements

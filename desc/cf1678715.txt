@@ -1,0 +1,29 @@
+Description
+
+Loot Beam adds a cinematic loot beam system to Minecraft Bedrock, making dropped items easier to identify and giving item drops a more rewarding RPG-style appearance.
+
+Each loot rarity has its own unique beam color and visual effect, allowing players to quickly recognize the value of dropped items from a distance. Higher rarities feature stronger and more noticeable effects to make rare loot feel more special.
+
+The beam uses a smooth vertical gradient, remaining brighter and denser near the item while gradually fading toward the top. Additional particles complement the beam without overwhelming the screen, creating a clean but visually impressive effect.
+
+Loot Beam is designed for survival worlds, RPG addons, dungeon maps, adventure maps, boss fights, and any Minecraft world where discovering valuable loot should feel more satisfying.
+
+Holograms on dropped item
+
+Features:
+
+- Rarity-based beam colors
+
+- Multiple loot rarity tiers
+
+- Smooth beam gradient and fading
+
+- Enhanced particle effects
+
+- Clearer item visibility from a distance
+
+- RPG-inspired visual style
+
+- Designed for Minecraft Bedrock Edition
+
+- Lightweight visual effects

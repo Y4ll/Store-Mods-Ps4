@@ -1,0 +1,37 @@
+Experience the thrill of aerial combat with the WWII Warplanes Add-on for Minecraft Bedrock Edition. Take to the skies in meticulously recreated planes from the Second World War, each equipped with powerful weaponry. Whether you're dogfighting, bombing, or flying reconnaissance, this add-on brings historical aircraft to life with immersive mechanics. Gear up, fuel your planes, and dominate the battlefield from above!
+
+This add-on features a custom camera, along with unique rotation and movement mechanics created using the scripting API. It also includes the ability to fire guns, drop bombs, and provides smooth animations for a more immersive experience.
+
+How to get the plane
+
+You can get the plane using the workbench which is craftable in the crafting table as shown below
+
+then use can tap the workbench and gather necessary items to create the plane
+
+How To Fly The Plane
+
+Use the accelerator item, and wait untill the progress bar is complete, make sure you are in a flat surface
+
+Fuel System
+
+This can be on or off in the settings. To add fuel tap on the plane holding redstone dust and then a form will show up add the desired amount.
+
+Custom Damage System
+
+This system removes hit immunity from entities and players. You can turn this feature on or off using the settings.
+
+Collision detection
+
+Planes will explode upon colliding with a block, By default is turned off. This feature is still experimental, with two available methods: velocity-based and raycast. I recommend using the velocity-based method. You can also turn this feature on/off in the settings.
+
+Add-on Settings
+
+This add-on has features that can be turned on/off based on your preference.
+
+The Planes
+
+Super marine Spitfire
+
+Douglas SBD Dauntless
+
+Messerschmitt Bf 109

@@ -1,0 +1,38 @@
+V1.2.0.
+
+-Updated For Newer Versions (Tested in Minecraft 1.21.114)
+
+-Minor Changes
+
+Visual Examples.
+
+Fog Device
+
+The Fog Device is added to enhance the horror and darkness atmosphere, which is perfect for the flashlights, to use it simply right click in PC or Hold Screen in Android to use the item.
+
+Fog Device On
+
+Fog Device Off
+
+Crafting recipes
+
+Flashlight Crafting Recipe
+
+Fog Device Crafting Recipe
+
+Creative Inventory Menu
+
+Experimental Feature Needed
+
+Buy Me a Coffee: buymeacoffee.com/BlazingFire203
+
+Notable Bugs (I'll Fix it Soon)
+
+- using the flashlight while wearing and any helmet will remove the helmet, just don't wear any helmet to avoid this issue
+
+- Pumpkins have a weird texture I'll fix this soon (hopefully)
+
+- Map Used In The Gameplay -
+https://www.curseforge.com/minecraft-bedrock/maps/s-a-s-the-infection-adventure-map
+
+Have Fun And Enjoy.

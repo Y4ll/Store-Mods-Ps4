@@ -1,0 +1,26 @@
+Someone's Glowing Ores
+
+Never miss a diamond in the dark again!
+This lightweight, achievement-safe resource pack focuses purely on making all ores emit a stunning PBR glow in the dark.
+
+Features
+
+- 100% Achievement Safe: Built purely as a Vanilla Resource Pack. No cheats or behaviors used!
+
+- Global Resource: Apply in your main menu settings to use on every world, Realm, and Server.
+
+- Stunning PBR Glow: All ores (Diamond, Iron, Gold, Redstone, Emerald, Lapis, Coal, and Nether Ores) emit a natural, beautiful light source.
+
+- Performance Friendly: Contains only the exact textures needed for ores, keeping your game running smoothly.
+
+Requirements
+
+To see the glowing effect, you must have Deferred Technical Preview enabled in your Minecraft Video Settings. This pack utilizes the new PBR (Physically Based Rendering) pipeline in Bedrock.
+
+Installation
+
+- Download and double-click the .mcpack file.
+
+- Go to Settings > Global Resources and activate Someone's Glowing Ores.
+
+- Turn on Vibrant Visuals in your Video Settings!

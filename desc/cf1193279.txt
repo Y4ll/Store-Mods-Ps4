@@ -1,0 +1,5 @@
+This is "Devamped: UI Standalone" version, for those who wants to use the UI rather than the actual pack, now you can!
+
+This pack uses modified JSON-UI, along with buttons, and HUD order to make it looks like Java Edition's Hotbar. (Properly EXP outline, Fixed experience bar having 1.5 offset and Better Touch control's hotbar experience.)
+
+Term of service and usage are still applied since this uses Devamped assets as a base, and the license should be the same aswell.

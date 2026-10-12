@@ -1,0 +1,21 @@
+Break a single block of dirt and get a diamond block. Break stone and get a saddle. Kill a chicken and it drops a netherite ingot. This addon turns every block break and mob kill into a chaotic loot lottery nothing drops what it's supposed to anymore.
+
+How It Works
+
+- Break any block in the game it's instantly removed and drops 1 to 3 completely random items instead of its normal drop
+
+- Kill any mob same thing, 1 to 3 random items drop instead of the mob's usual loot
+
+- The random pool pulls from every single item in the game tools, blocks, food, mob drops, everything is possible
+
+- Random stack sizes too sometimes you get 1 item, sometimes a full stack of 64
+
+Why You'll Love It
+
+Survival becomes pure chaos. Mining a single block could give you diamonds, or it could give you a single rotten flesh. Every break and every kill is a gamble perfect for challenge runs, content creation, or just messing around with friends.
+
+Achievement Friendly?
+
+Yes fully achievement friendly. No cheats required, no experimental toggles, no achievement lock.
+
+Every block is a mystery box. Break responsibly.

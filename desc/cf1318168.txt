@@ -1,0 +1,63 @@
+About
+
+One of the best 3D Skin layer packs, supports Vibrant Visuals and 64x, 128x skins. And gives maximum performance and support for low-end devices!
+
+Upto 40% better performance compared to v1.0 and other 3D Skin Layer packs!
+
+Performance Mode
+
+- Culls invisible Geometry and Effects
+
+- LOD Distance - distance before switching to 2D Layer
+
+(Disable, if your skin becomes invisible)
+
+Features:
+
+- Supports Vibrant Visuals
+
+- Wide, Slim and 64x + 128x (HD) Skins
+
+- Java Hand option
+
+- Performance Mode option
+
+- Fix Invisible Skin option
+
+Try out:
+
+- Fog Remover
+
+- Vibrant Visuals Unlocker
+
+Trailer
+
+Use this pack order when using A&S Support!
+
+Disclaimer: this pack uses required A&S assets, using explicit permission.
+
+Incompatible with pirated A&S copies.
+
+Actions & Stuff Official Download
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 80% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+Contact
+
+Discord: pandamine5x
+
+Follow for more packs!

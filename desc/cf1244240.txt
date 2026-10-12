@@ -1,0 +1,74 @@
+Connected Blocks is inspired by Optifine CTM that connects the borders of blocks.
+
+You can craft a connected block by just putting the normal block to the crafting table:
+
+Connected Blocks
+
+Connected Planks
+
+Connected Decorative Stones
+
+Connected Bricks and Resin Bricks
+
+Connected Colored Glass
+
+Gravel and Sand now connects to grass (Creative Mode only)
+
+PREMIUM VERSION
+
+Want to take Connected Blocks further?
+
+The Premium Version adds features that go beyond simply connecting regular blocks.
+
+Premium currently includes:
+
+Connected Slabs
+Get connected textures on slabs for cleaner floors, paths and detailed builds.
+
+Conversion Wand
+Automatically convert existing blocks in your world into their connected versions instead of crafting and replacing them manually.
+
+More Premium Features Coming
+
+Premium is continuously being expanded with new connected block types and building features.
+
+[GET THE PREMIUM VERSION ON PATREON]
+
+Your Patreon subscription helps support development and gives you access to the Premium Version.
+
+2.4.5 VERSION UPDATE
+
+Fixed console errors that pop up when loading up the world.
+
+COMPATIBILITY
+
+Connected Textures is also compatible with Easy Build Mod.
+
+SUGGESTIONS & SUPPORT
+
+Have a block you'd like to see connected?
+
+Leave a suggestion in the comments or join the Discord server for updates, previews and announcements.
+
+[JOIN THE DISCORD]
+
+------ KNOWN BUGS ------
+
+Can walk through glass panes that are connected on 3 sides and 4 sides.
+
+Connected Gravel and Sand render issues
+
+-----------------------------
+
+WANT MORE?
+
+The Free Version gives you the core Connected Blocks experience.
+
+Premium gives you additional tools and features for builders who want more control over their builds.
+
+[BECOME A PREMIUM MEMBER]
+
+Thank you for supporting Connected Blocks!
+
+To Access the Premium Version of Connected Blocks
+Visit this PATREON PAGE!

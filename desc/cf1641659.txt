@@ -1,0 +1,111 @@
+PUREVFX Immersive Visual Effects for Minecraft Bedrock
+
+Bring your Minecraft world to life with PUREVFX, a massive ambience and visual effects overhaul for Bedrock Edition. Weather, sky, water, combat, and sound every moment gets richer with over 40 individually toggleable systems.
+
+Weather
+
+Rain Particles visible rain sheets with realistic falling motion
+
+Blizzard heavy wind-driven snow during thunderstorms in snowy biomes
+
+Sandstorm dense wind-blown sand clouds during thunderstorms in desert biomes
+
+Snow Flurry a gentle, always-on dusting of snow in cold biomes even outside storms
+
+Sand Drift light ambient sand wisps lifting off the ground on calm desert days
+
+Atmospheric Fog biome-tinted fog that shifts with your surroundings
+
+Ground Fog low, ground-hugging mist patches at dawn and night
+
+Wind a shared wind direction driving rain, falling leaves, and sandstorm motion
+
+Environment
+
+Ambient Dust floating dust motes across biomes
+
+Butterflies multiple species drifting through flowers, grass, and open ground, with movement-based spawn behavior
+
+Fireflies soft blinking glow motes over grass and foliage at night
+
+Natural Decor gentle floating pollen/seed motes over grass and foliage by day
+
+Falling Leaves biome-specific drifting leaf particles for every tree type
+
+Cold Breath visible breath in freezing biomes
+
+Footprint Decals persistent ground marks across surfaces
+
+Torch Flare glowing light bloom around torches
+
+Dynamic Lights held, worn, and dropped light sources (torches, lanterns, lava buckets, glowing/on-fire mobs) actually light up the world
+
+Waterfall Mist streak-and-mist effect where falling water lands, tinted per biome water color
+
+Embers drifting embers near torches, campfires, and lanterns
+
+Underwater Bubbles ambient bubbles while swimming
+
+Ambient Mist a subtle wisp of mist that follows the player, independent of weather
+
+Godrays light shafts through the environment
+
+Water Splashes droplets, side-splash, and ripple particles
+
+TNT Explosion FX layered blast particles with distance-aware sound
+
+Lava Splashes molten splash and ash trail when entities fall into lava
+
+Lava Ambience surface bubbles, embers, and heat-glow near exposed lava
+
+Tumbleweeds wind-blown tumbleweeds that roll across deserts with real physics-driven movement
+
+Sky
+
+Rainbows appear after rain clears in eligible biomes
+
+Northern Lights (Aurora) color-shifting curtains in the night sky over snowy biomes, with a rare extra-vivid variant
+
+Shooting Stars stars streak across clear night skies
+
+Meteor Showers rare multi-star events radiating from a single point in the sky
+
+Ambient Birds biome- and time-of-day-aware flyby birds
+
+Volumetric Clouds layered sky clouds
+
+End Sky (Ambience) glow dust, void tendrils, dimension crack sparks, and falling ender motes in The End
+
+End Sky (Distant Stars) a farther-out sparkle layer reading as distant stars in the End's void sky
+
+Lens Flare sun/moon lens flare
+
+Combat
+
+Blood FX color-coded blood spray and ground splatter on hit, skipped for bone/metal mobs for realism
+
+Ambient Sounds
+
+Biome & Cave Ambience looping soundscapes with pitch variation
+
+Wildlife Calls owl, wolf, crow, and eagle sounds
+
+Rain & Thunder Audio matching storm intensity
+
+Adjustable ambient volume slider
+
+Settings
+
+Every single feature is individually toggleable in-game through the PUREVFX Settings Book organized into Weather, Environment, Sky, Combat, and Ambient Sounds categories. A new Game Mode menu also lets you apply bulk quality presets (Low, Medium, High, Realistic) that set every toggle at once. No fake or dead toggles if it's in the menu, it works.
+
+Compatibility
+
+Works with survival, creative, and adventure worlds
+
+Pure particle/script implementation, no resource conflicts
+
+Performance-conscious with tick-budgeted scanning systems tested and runs smoothly even on low-end devices (2GB RAM)
+
+Requires Minecraft Bedrock 1.21+
+
+(By PROMO ADDONS)

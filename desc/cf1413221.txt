@@ -1,0 +1,51 @@
+Time Stop Addon (Script API)
+
+Ever wanted to freeze the world and move freely while everything else stands still?
+
+The Time Stop Addon allows you to control the flow of time in Minecraft Bedrock Edition. Using the modern Script API, this addon offers a smooth, lag-free experience that freezes mobs, projectiles, and physics instantly.
+
+Key Features
+
+Matrix-Style Projectiles: Arrows, snowballs, and tridents freeze in mid-air! When you resume time, they continue flying exactly where they left off with their original speed.
+
+Complete Mob Freeze: Mobs are locked in place. They cannot walk, run, or pathfind.
+
+Invincibility Logic: While time is paused, mobs cannot deal damage and deal zero knockback. You are safe to walk right up to a Creeper's face!
+
+Day/Night Cycle: The sun and moon stop moving, and the weather freezes.
+
+Multiplayer Friendly: The player who stops time can move, while entities and projectiles remain frozen.
+
+How to Use
+
+Craft or obtain a vanilla Clock.
+
+Right-Click (PC) or Long Press (Mobile) while holding the Clock.
+
+To Pause: You will hear a sound and see a message "Time has STOPPED."
+
+To Resume: Use the clock again. Everything will snap back to action instantly.
+
+Installation & Requirements
+
+This addon requires the Beta APIs experimental feature to work because it uses the powerful GameTest Script Engine.
+
+Download the .mcpack file.
+
+Open Minecraft and go to your world settings.
+
+Activate the Behavior Pack.
+
+IMPORTANT: Go to "Experiments" and turn on Beta APIs.
+
+Start your world!
+
+Notes
+
+This addon uses the @minecraft/server module for high performance.
+
+Unlike old command block systems, this does not spam your chat log or cause massive TPS lag.
+
+Created by: CrownBossYT
+
+License: Free to use for videos (please link back to this page!).

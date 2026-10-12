@@ -1,0 +1,73 @@
+WITHER EXPANSION.
+
+[This addon will add new content related to the Wither Boss. New weapons, armor, and mobs are expected to arrive, all themed around the Wither Boss.]
+
+Warning: When creating a world with the Mod, be sure to enable the "BETA API'S" option in the experimental settings.
+
+V2.0 - Update notes -
+
+- New wither armor added.
+
+- New weapon "Hand of the Wither" added.
+
+- New Nether merchant NPC added.
+
+- New food added.
+
+- Some texture and crafting bugs have been fixed.
+
+1 - Wither blade -
+
+Damage: 30
+
+Durability: 1200
+
+- This sword is meant to be crafted after you've completed the game, as only then will you have access to all the resources needed to build it. All the items to craft it can be acquired in survival mode. You can check all the necessary items to make it on your standard crafting tablet, also following this Crafting cascade:
+
+- After finishing crafting the three parts of the sword, you will need to perform a ritual, such as summoning a special altar, that will allow you to complete the sword.
+
+- You will need 8 blocks of soul sand, 4 blocks of netherite, and 4 blocks of lapis, 8x nether campfires and a block called "altar of corruption" which can be crafted at a regular crafting table.
+
+-
+
+- One important detail is that you must place the corrupted altar in the middle last for it to work.
+
+-
+
+- If everything goes well, this block will appear, and by interacting with it you will be able to make the sword. Make sure to do everything correctly so that there are no mistakes during the ritual and you don't lose everything.
+
+2 Wither armor.
+
+DEF / Durability
+
+Helmet - 7 / 950
+
+Chestplate - 12 / 1050
+
+Pants - 10 / 910
+
+Boots - 7 / 890
+
+- To obtain the necessary items to craft the armor, you must find an NPC who can be found anywhere in the Nether; his name is "Corrupted Villager." This NPC will sell you the wither armor manual, which is the essential item for crafting the armor.
+
+-
+
+- ((Wither armor manual))
+
+- Finally, you must go to the same location where you crafted the Wither Sword, and the armor crafting point will also be there. To do this, you obviously need to perform the ritual mentioned earlier.
+
+3 Wither's hand
+
+Damage: 7
+
+Durability: 200
+
+*Causes a wither effect on whoever is affected.
+
+*It's an easier weapon to make and it deals good damage, although it's not very durable.
+
+4 Antidote for wither
+
+- This potion, which can be easily made early in the game with very basic items, is capable of neutralizing the wither effect, which can make fighting the boss easier.
+
+This mod is under development and new things are coming soon! Leave your feedback :D

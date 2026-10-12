@@ -1,0 +1,98 @@
+USEFUL SLIME - Slime Arsenal
+
+Transform ordinary slime into extraordinary power!
+This addon brings a complete set of slime-infused gear with stunning visual effects and unique mechanics.
+
+SLIME SWORD
+The most powerful weapon in the addon!
+
+Lifesteal Every hit heals you with beautiful particle trails
+Chain Damage Your attacks jump to nearby enemies
+SLIME FURY At 5 combos, unleash a devastating AOE explosion with knockback, slowness & damage
+SLIME TETHER Right-click to launch homing slime beams that chase and repeatedly push enemies!
+
+SLIME BOOTS
+Fall from any height and bounce back up! Each bounce preserves momentum with satisfying slime sounds and impact particles. Never take fall damage again!
+
+SLIME SLING
+Launch yourself through the air with incredible force! Perfect for quick escapes or reaching high places. Leaves a trail of slime particles behind you.
+
+SLIME STAFF
+Create a massive slime explosion that spawns friendly slimes and grants you Resistance & Speed buffs. Watch the spectacular spiral particle effects!
+
+SLIME SHIELD
+Turn defense into pure slime power!
+
+Block attacks with a heavy slime impact that pushes enemies away with strong knockback. While defending, the shield gives your combat a bouncy slime feel and adds a whole new defensive playstyle to the addon.
+
+SLIME FOODS
+Slime is now useful in survival too!
+
+Slime Gelatin A light slime snack with jump utility
+Slime Ball Stew A stronger slime meal for mobility-focused gameplay
+Bowl of Slime Soup A bigger slime dish with even better movement support
+
+These new foods expand slime into a proper survival material instead of just gear crafting.
+
+SLIME POTIONS
+Unlock a brand new way to move!
+
+Slime Potion Grants powerful bounce-based movement and enhanced jumping
+Large Slime Potion A longer and stronger version with an even better slam
+
+While active, you gain a unique SLIME SLAM ability:
+Jump into the air, activate the slam, crash back down, and blast nearby enemies away with slime force!
+
+ELASTIC SLIME BED
+A brand new custom bounce block!
+
+This low-profile slime trampoline is perfect for launch pads, parkour maps, vertical transport, and fun movement builds. It gives slime a whole new building use beyond normal blocks.
+
+STICKY SLIME SLAB
+Compact, clean, and perfect for slime builds.
+
+This slab version gives builders much more control when using slime in survival, decoration, obstacle courses, and custom movement paths.
+
+OILED SLIME SLAB
+Slime just got slippery!
+
+This animated slab creates a fast sliding surface, ideal for attractions, transport systems, race tracks, and crazy slime rides. It brings an entirely new movement style to the addon.
+
+SLIME OIL VIAL
+Control the oil system yourself.
+
+Use the Slime Oil Vial on a Sticky Slime Slab to transform it into an Oiled Slime Slab.
+After use, it becomes an Empty Slime Oil Vial.
+You can also refill it by collecting slime oil from the ground.
+
+SLIME OIL LAYER
+A thin new block that spreads across the floor.
+
+This oily slime layer adds environmental detail and helps make the oil system feel alive in the world. It is perfect for themed builds, hazards, and connecting the new mechanics visually.
+
+OILY SLIME
+A completely new slime variant!
+
+The Oily Slime drips bright oily particles and leaves slime oil behind as it moves. It expands the addon with a new creature, a new environmental mechanic, and a new resource loop tied directly to the oil system.
+
+SHOWCASE 2.4 UPDATE
+
+SHOWCASE 2.3 UPDATE
+
+SHOWCASE 2.2 UPDATE
+
+SHOWCASE 2.1 UPDATE
+
+SHOWCASE 2.0 UPDATE
+
+SHOWCASE
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website

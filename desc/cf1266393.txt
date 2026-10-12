@@ -1,0 +1,59 @@
+There are a total of 21 recipes this addon adds:
+
+DEMANDED RECIPES
+
+Enchanted Apple Old Recipe (from Gold Block and Apple):
+
+Cobweb from String:
+
+String from Cobweb (Requested by ZeroRacer):
+
+Coal Block from Charcoal:
+
+Magma Cream from Blaze Powder and Slimeball (Requested by odenjuanknobe) [Old Recipe that was removed]:
+
+FURNACE CRAFTS
+
+Iron Block from smelting Raw Iron Block (Requested by Lewboy2227):
+
+Gold Block from smelting Raw Gold Block:
+
+Copper Block from smelting Raw Copper Block:
+
+REVERSIBLE CRAFTS
+
+(These are the crafts when you join 4 items to make a block. They cannot be reversed in vanilla Minecraft but can by this addon)
+
+Quartz from Quartz Block:
+
+String from Wool: (You can use any color of wool you want)
+
+Amethyst Shard from Amethyst Block:
+
+Nether Wart from Nether Wart Block:
+
+Brick from Brick Block:
+
+Nether Brick from Nether Brick Block:
+
+Clay Ball from Clay Block:
+
+Glowstone Dust from Glowstone:
+
+Prismarine Shard from Prismarine:
+
+Popped Chorus Fruit from Purpur Block:
+
+Magma Cream from Magma Block:
+
+Pointed Dripstone from Dripstone Block:
+
+Gunpowder from TNT (Requested by Shizoid):
+
+Discord: dumbical
+
+Want me to add another recipe? Comment your ideas!
+
+Addon made by Dumbical
+
+Feel free to check out my other addons, you'll enjoy it trust me :)

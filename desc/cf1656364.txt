@@ -1,0 +1,45 @@
+Uncraft
+
+Overview
+
+Uncraft adds a useful resource recovery system for tools, armor, horse armor, and weapons.
+
+Recycle unwanted equipment and reclaim its original materials based on its remaining durability. This helps you make the most of your resources and avoid wasting valuable materials during survival.
+
+The addon works especially well with mob farms and automated farms, making it easier to recycle unwanted gear and turn it back into useful resources.
+
+Features
+
+Achievement Friendly
+
+The addon does not disable Minecraft achievements, allowing you to enjoy its features while keeping your survival experience intact.
+
+Resource Recovery
+
+Recycle most tools, armor, and weapons to recover their original crafting materials based on the item's remaining durability.
+
+Nether Equipment Support
+
+Netherite equipment can also be recycled, allowing you to recover its corresponding resources.
+
+Enchanted Item Recycling
+
+Recycle enchanted equipment and recover the corresponding Enchanted Books along with the recovered materials.
+
+Farm Friendly
+
+Works especially well with mob farms and automated farms, allowing you to efficiently recycle unwanted equipment and manage large amounts of loot.
+
+Notes
+
+- Do not copy, redistribute, or re-upload this addon to any platform without permission.
+
+- You may modify the addon and its scripts to better suit your own playstyle.
+
+- Feel free to customize the addon for your own survival experience.
+
+- Have fun and enjoy playing!
+
+Recycle More. Waste Less. Survive Better.
+
+Turn unwanted equipment back into valuable resources and make every drop count!

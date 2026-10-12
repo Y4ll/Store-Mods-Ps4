@@ -1,0 +1,181 @@
+Block Armor V3.1.1
+
+Wear Minecraft Blocks. Gain Unique Powers.
+
+Block Armor turns Minecraft blocks and materials into complete armor sets and most of them do much more than simply protect you.
+
+Build armor from Glowstone, TNT, Sculk, Redstone, Honey, Quartz, Obsidian, Stone and many other blocks to unlock unique abilities for combat, exploration, mining, movement and Survival.
+
+Current Content
+
+- 35 Complete Armor Sets
+
+- 140 Individual Armor Pieces
+
+- 34 Unique Armor Powers
+
+- Redstone Block, Sculk & TNT Armor
+
+- Every armor power can be enabled or disabled
+
+- Personal Settings
+
+- Operator-controlled World Settings
+
+- Complete in-game Armor Guide
+
+- Optional translated armor lore
+
+- 29 language variants included
+
+- Repairable armor
+
+- Vanilla armor enchantments
+
+- Compatible with other Add-ons
+
+- Action & Stuff compatible
+
+- Realms & Multiplayer friendly
+
+- Does NOT use player.json
+
+- No Experimental Gameplay Required
+
+- Achievements Friendly
+
+Visit StvAddons
+
+Join My Discord Server
+
+Latest Update V3.1
+
+What's New Since V3.1?
+
+3 New Complete Armor Sets
+
+- Redstone Block Armor
+
+- Sculk Armor
+
+- TNT Armor
+
+Block Armor now contains:
+
+35 Complete Sets / 140 Armor Pieces
+
+12 Additional Active Armor Powers
+
+Several armor sets that previously worked only as normal equipment now have their own mechanics.
+
+New/current powers added after V3.0 include:
+
+- Brick Armor Explosion Protection
+
+- Gilded Blackstone Armor Piglin Defense
+
+- Nether Brick Armor Wither Protection
+
+- Log Armor Speed
+
+- Oak Planks Armor Forest Regeneration
+
+- Cobblestone Armor Melee Protection
+
+- Andesite Armor Mining Haste
+
+- Diorite Armor Status Cleansing
+
+- Granite Armor Charged Counterattack
+
+- Redstone Block Armor Item & XP Magnet
+
+- Sculk Armor Vibration Detection
+
+- TNT Armor Blast Jump
+
+Combined with the previous abilities, Block Armor now has:
+
+34 Active Armor Powers
+
+Dirt Armor remains available as a normal armor set without a special ability.
+
+V3.1.1 Fixes & Improvements
+
+TNT Blast Jump
+
+TNT Armor's Blast Jump has been improved.
+
+The jump itself no longer causes unwanted fall damage when you land.
+
+Conduit Power
+
+Prismarine Armor's Conduit Power has been improved so the effect no longer constantly expires and reappears, preventing the annoying visual flicker.
+
+Smarter Potion Effect Handling
+
+Armor abilities now work much more safely with effects the player already has.
+
+If you already have the same effect at an equal or stronger level, Block Armor leaves your existing effect alone.
+
+If an armor ability temporarily provides a stronger version, your previous effect can be preserved and restored when the armor effect ends, as long as its original duration has not expired.
+
+Removing the armor also removes the effect provided specifically by the armor instead of leaving it behind.
+
+World Settings Permissions
+
+World Settings now correctly recognize:
+
+- World Owners / Hosts
+
+- Operators
+
+- Admin-level players
+
+Players without permission can still use the normal personal features without being able to change global armor powers.
+
+Full V3.1 Details
+
+Brick Armor Blast Defense
+
+Wearing the complete Brick Armor set reduces explosion damage by 40%.
+
+It also helps reduce the knockback caused by explosions.
+
+Gilded Blackstone Armor Piglin Defense
+
+Wearing the complete set reduces damage received from:
+
+- Piglins
+
+- Piglin Brutes
+
+Damage from these enemies is reduced by 50%.
+
+Nether Brick Armor Wither Defense
+
+The complete Nether Brick Armor set automatically removes the Wither effect.
+
+It also reduces damage received from Wither Skeletons by 30%.
+
+Log Armor Lightweight Movement
+
+Wearing the full Log Armor set grants Speed I.
+
+This makes the wooden set useful as lightweight exploration equipment.
+
+Oak Planks Armor Forest Regeneration
+
+Wearing the complete Oak Planks set slowly regenerates your health while you remain close to forest blocks.
+
+This includes nearby:
+
+- Logs
+
+- Wood
+
+- Leaves
+
+Cobblestone Armor Melee Defense
+
+The complete Cobblestone set reduces direct melee 

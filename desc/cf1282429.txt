@@ -1,0 +1,25 @@
+This is a port of LUMINOUS: BEASTS mod from Minecraft Java.
+
+Ultimate Bestiary
+
+WORK IN PROGRESS
+
+-All music discs
+
+-Custom death animations
+
+Permissions:
+
+Discord: euforia_sin_h
+
+Discord server comunity: https://discord.gg/YJ5v727bJH
+
+YT: https://www.youtube.com/@Euforia-conr
+
+LUMINOUS discord: https://discord.gg/nqg5Gm6sg7
+
+Note:
+
+Don't forget to activate the beta-api from experimental options.
+
+Some mechanics have been adapted to make them compatible with the limitations of Minecraft Bedrock.

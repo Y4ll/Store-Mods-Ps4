@@ -1,0 +1,29 @@
+Project Description:
+
+Losing hours of hard-earned loot simply because a skeleton lands a lucky critical hit or you miscalculate a drop is one of the most frustrating experiences in gamingand a surefire way to make anyone want to log off for the night. Actual Gravestones completely eliminates that frustration. Instead of watching your valuable items scatter into lava, despawn in a dark cave, or get snatched by wandering mobs, this mod ensures your inventory is safely locked away inside a secure gravestone the moment you fall.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Real-time death grave feature.
+
+- Death compass with cords on respawn.
+
+- Fully compatible in all dimensions.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+When you die, your loot is safely stored in a personal grave until you return. You no longer have to worry about your hard-earned items despawning, burning in lava, or getting picked up by wandering mobs.
+
+Your gravestone will never be the same as your friends'. Every time you die, a completely random gravestone design will mark your final resting place, ensuring that no two demises look alike.
+
+When you respawn, you will automatically receive a recovery compass in your inventory equipped with all the vital tracking information you need to easily locate your grave.
+
+Getting your gear back has never been easier or safer. When you finally reach your destination, all you have to do is simply interact with your grave, and your entire inventory of hard-earned loot will be instantly returned to you.

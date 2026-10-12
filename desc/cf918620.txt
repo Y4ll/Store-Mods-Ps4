@@ -1,0 +1,155 @@
+Gravel's Hammers Add-On for Minecraft Bedrock Edition
+
+Overview
+
+Gravel's Hammers is a Minecraft Bedrock Add-On designed to align closely with the vanilla mechanics and values of vanilla pickaxes. This add-on enhances your ability to create large tunnels or to clear areas while maintaining the game's balance.
+
+Hammer Mining Modes
+
+- Wooden, Stone, and Gold Hammers: Perform 331 mining when breaking a block.
+
+- Iron and Diamond Hammers: Perform 332 when interacting and 331 when breaking.
+
+- Netherite Hammer: Performs 332 for block breaking and 333 when interacting.
+
+Note: You must sneak/crouch to activate any 33 hammer mode!
+
+Dynamic Durability System
+
+Hammers only lose durability when they actually break a blocksaving resources and improving longevity.
+
+Durability Values
+
+Material
+Durability
+
+Wood
+60
+
+Stone
+132
+
+Iron
+251
+
+Gold
+33
+
+Diamond
+1562
+
+Netherite
+2032
+
+Enchantment Support
+
+Gravel's Hammers supports all standard pickaxe enchantments:
+
+- Fortune
+
+- Unbreaking
+
+- Silk Touch
+
+- Mending
+
+- Efficiency
+
+- Curse of Vanishing
+
+Experimental Features
+
+This add-on does not use experimental toggles, ensuring full stability with future game updates.
+
+Dedication to Vanilla Mechanics
+
+- All hammer types match pickaxe crafting rules (e.g., wooden hammers use any wood type).
+
+- Mining speed and block compatibility mirrors vanilla pickaxes.
+
+- Repairing uses the same materials and amount.
+
+- Progression follows pickaxe tiers (e.g., wood cant mine diamond ore).
+
+Recipes
+
+Wooden Hammer
+
+Crafted using:
+
+- 5 Wooden Planks (any type)
+
+- 2 Sticks
+
+Stone Hammer
+
+Crafted using:
+
+- 5 Stone/Deepslate
+
+- 2 Sticks
+
+Iron Hammer
+
+Crafted using:
+
+- 5 Iron Ingots
+
+- 2 Sticks
+
+Gold Hammer
+
+Crafted using:
+
+- 5 Gold Ingots
+
+- 2 Sticks
+
+Diamond Hammer
+
+Crafted using:
+
+- 5 Diamonds
+
+- 2 Sticks
+
+Netherite Hammer
+
+Crafted using:
+
+- 1 Diamond Hammer
+
+- 1 Netherite Upgrade Smithing Template
+
+Workbench
+
+Crafted using:
+
+- 1 Log (any type)
+
+- 5 Planks (any type)
+
+- 1 Iron Ingot
+
+You craft all hammers on this special workbench!
+
+Credit
+
+Special thanks to Chikorita for the hammer textures.
+
+Usage Policy
+
+-
+License: All content is protected under copyright law. All rights are reserved unless explicitly stated otherwise. Unauthorized use is strictly prohibited.
+
+-
+YouTube and Other Media Platforms: Use in videos or other public-facing media must include a visible, clickable credit linking back to the original source or this page.
+
+-
+Redistribution and Reposting: Republishing, reuploading, or redistributing this content on any platform including but not limited to websites, forums, social media, or file-sharing services is strictly forbidden without prior written permission.
+
+-
+Modifications: Any modifications or derivatives of this content are also subject to these restrictions and must not be distributed without explicit authorization.
+
+-
+Commercial Use: Use of this material for commercial purposes requires a separate license agreement.

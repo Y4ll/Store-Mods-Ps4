@@ -1,0 +1,71 @@
+Website: Gameflowplayz
+
+Support: Buy me a Diamond
+
+Discord: Join Server
+
+G-Flow Xray
+
+A lightweight visual pack for Minecraft Bedrock that makes ores easier to spot
+
+G-Flow Xray hides common stone-type blocks while keeping ores fully visible. Designed for miners who want to save time without breaking achievements or changing gameplay mechanics.
+
+Features
+
+Stone, deepslate, tuff, netherrack, blackstone, basalt, soul sand, soul soil, end stone rendered invisible
+
+Gravel left vanilla
+
+Surface blocks left vanilla
+
+Select which ores to highlight
+
+8 normal ores with thin natural-color outlines
+
+8 deepslate ore variants with matching outlines
+
+PBR support for all 16 ore textures (emissive glow under Vibrant Visuals)
+
+Fullbright ambient override for VV mode
+
+Glowing ores
+
+Compatibility
+
+Minecraft Bedrock Edition
+
+Best experienced with Vibrant Visuals
+
+Works with Fancy/Simple Graphics (recommended settings apply)
+
+Lightweight and mobile-friendly
+
+Pure resource pack achievements stay intact
+
+Recommended Settings Fancy/Simple Graphics
+
+Brightness: 100%
+
+Increase Render Distance
+
+Turn off Smooth Lighting
+
+Use a torch or Night Vision for full visibility underground
+
+Recommended Settings Vibrant Visuals
+
+Increase Render Distance
+
+PvP Player?
+
+Check out G-Flow PvP a visual pack tuned for cleaner combat and reduced screen clutter.
+
+Match Your Interface
+
+Pair with G-Flow Dark UI for a complete dark-themed interface across all menus and HUD elements.
+
+Created by GameFlowPlayz
+
+Feedback, suggestions and bug reports are always welcome as G-Flow Xray continues to evolve.
+
+Download now and mine smarter.

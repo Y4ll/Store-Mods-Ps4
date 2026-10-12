@@ -1,0 +1,39 @@
+Flicker - Dynamic Lighting for bedrock edition (mcpe)
+
+This addon works perfectly on 26.0 and above upto latest versions (this line is updated regularly)
+
+Lore: Fire emits light. Whether placed on a wall or held in a hand, the flame pushes back the darkness naturally.
+
+(This addon will probably continue to work even after game updates, as it doesn't use experiments)
+
+The best thing about this addon is that it is simple. No new blocks or duplicate items, just Dynamic Lights :)
+
+If you want a cheap and extremely good server, check out gravelhost, use my link or the code for 25% off for your purchase.
+
+Usage:
+
+Hold any light emiting item in your hand or offhand and it will illuminate everything around you just like when its placed down.
+
+Switching to off-hand:
+
+just sneak/crouch twice quickly (for keyboards/controllers) or use the emote 'over there' on touch devices.
+
+It is designed to automatically adapt to any torches or lanterns added in future by Mojang.
+
+recommendation: if you want to put all items in offhand aswell as use them, check out my other addon:
+https://www.curseforge.com/minecraft-bedrock/addons/doublehands
+
+Some Special Things:
+
+Lanterns work underwater, but torches do not as they have fire exposed.
+
+If you want to support me and donate a small amount, please consider this one time patreon donation (no subscription or membership)
+Join My Patreon
+
+Join the discord for help and chat:
+
+Areed's Discord Server
+
+This Addon Doesn't Disable Achievements :)
+
+Part of the Survival Essentials collection by Areed.

@@ -1,0 +1,25 @@
+FaZeStudios - Enhanced +
+
+Did u Ever feel that the normal shaders that are built in aren't your style well this shader pack fixs that
+
+Tis shaders adds many stuff such as:
+
+Glowing Ores and Nether Wood
+
+Splashs when fallen in water <Sub Pack Required For Water Functionality>
+
+Glowing Sun and Moon
+
+End Glow
+
+Etc
+
+Dev Notes:
+
+For Water Splashes Please download my other mod called "Enhanced Water Splashs" and do not use this pack by itself use it ONLY with this mod
+
+Compatible and usage
+
+For this to work u must enable Vibrant Visuals
+
+And when testing this on mg phone (Samsung Galaxy S24) its laggy so just to say that this isnt too good on mobile platforms, tho a newer phone or those redmagic ones should run it fine, so i recommend something newer if your gona use it on your phone

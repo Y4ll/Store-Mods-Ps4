@@ -1,0 +1,25 @@
+UNCANNY DAYS
+
+Uncanny Days is a psychological analog horror mod designed to make your Minecraft world feel deeply unsafe. You are not just being chasedyou are being watched, stalked, and psychologically targeted by unpredictable entities that manipulate the environment around you.
+
+Current Features:
+
+Unpredictable Stalker Entities: Entities that observe from afar, hide, and strike when you least expect it.
+
+Psychological Tension: Experience strange world behaviors, interface distortions, and unsettling atmospheric shifts.
+
+Scripted Horror Feel: A dynamic world system where safety during the day offers no guarantee of survival when darkness falls.
+
+Upcoming Updates:
+
+Paralyzing mechanics and new custom entity behaviors.
+
+Additional entities with unique stalking patterns.
+
+Expanded lore and atmospheric events.
+
+Showcase:
+
+https://youtu.be/lUX9gJKC9kE?si=Wv_W3CzpNnpyEOgA
+
+OFC SHOWCASE: Coming Later

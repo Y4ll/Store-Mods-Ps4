@@ -1,0 +1,7 @@
+Mob Health Bar
+
+Mob Health Bar a Minecraft Bedrock behavior pack that shows a mob's health above its head for 2 seconds after a player lands a hit.
+
+Shows a single Minecraft-style heart icon with the mob's health value.
+
+Example

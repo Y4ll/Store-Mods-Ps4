@@ -1,0 +1,17 @@
+Arabic Font & RTL Fix
+
+A high-quality Minecraft Bedrock addon that fully repairs Arabic text rendering across chat, menus, UI, and gameplay. Fixes disconnected Arabic letters, reversed sentences, and broken formatting by adding proper Right-To-Left (RTL) support and an optimized Arabic font for a smooth and readable experience. Designed to make Arabic writing look natural and clean inside Minecraft.
+
+Features:
+
+Fixes broken Arabic letters
+
+Correct Right-To-Left text rendering
+
+Improved Arabic chat readability
+
+Better Arabic UI and menu support
+
+Lightweight and compatible with most addons
+
+Optimized for Minecraft Bedrock Edition

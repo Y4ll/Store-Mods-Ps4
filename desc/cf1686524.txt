@@ -1,0 +1,53 @@
+About
+
+Cut down whole trees without slowly breaking every log.
+
+Tree Capitator Lite automatically fells the connected trunk after you break one log with an axe. It keeps the experience lightweight and close to vanilla: axes lose durability, Unbreaking is respected, leaves decay naturally, and sneaking lets you chop individual blocks whenever you need precise control.
+
+Features
+
+- Whole-tree chopping break one log with an axe to fell up to 64 connected logs of the same wood family.
+
+- Build protection matching leaves or Nether wart blocks must be nearby, helping prevent accidental destruction of log-only structures.
+
+- Vanilla tool wear every additional log can consume axe durability, with full Unbreaking support.
+
+- Precision override sneak while chopping to break only the selected block.
+
+- Broad tree support works with oak, spruce, birch, jungle, acacia, dark oak, mangrove, cherry, pale oak, crimson, and warped trees, including stripped variants.
+
+- Natural leaf decay only logs are removed; leaves and their drops continue to use normal Minecraft behavior.
+
+- Multiplayer friendly works independently for every player without menus or commands.
+
+- Lightweight one Behavior Pack, no recurring world scans, custom items, or configuration screens.
+
+How to use
+
+- Import the .mcaddon file into Minecraft Bedrock.
+
+- Activate the Tree Capitator Lite Behavior Pack for your world.
+
+- Break a tree log with an axe while standing normally.
+
+- Sneak while chopping whenever you want normal single-block breaking.
+
+Notes
+
+- The add-on searches upward from the chopped block and removes no more than 64 logs per tree.
+
+- Extremely large trees whose canopy is beyond the search limit may be left unchanged as a safety measure.
+
+- Wooden structures without nearby matching leaves are not treated as trees.
+
+- Creative mode removes the connected logs without spawning drops or damaging the axe.
+
+- No experimental toggles are required.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.30 or newer
+
+- Tree Capitator Lite Behavior Pack must be active
+
+- No external add-on dependencies required

@@ -1,0 +1,63 @@
+Performance+ | FPS Optimization Pack
+
+Official Performance Resource Pack for Minecraft Bedrock/Pocket Edition.
+
+Performance+ is a carefully optimized resource pack for Minecraft Bedrock, designed to reduce lag, lower rendering load, and improve overall gameplay smoothness on low-end and mid-range devices.
+
+Instead of flashy visuals, Performance+ focuses on clean textures, reduced visual noise, and smart feature optimizations that directly improve performance. Every change is made to keep Minecraft looking vanilla, readable, and lightweight, while delivering a noticeably smoother and more stable experience.
+
+Key Features
+
+-Clear water and clear fog in all 89 biomes
+
+-Lower fire texture for improved combat visibility
+
+-Fast & optimized full grass rendering
+
+-176 particles removed, with potion and spell effects kept but trimmed
+
+-42 animated block textures frozen, including water, lava, kelp, bubble columns and portals
+
+-Cleaner block visuals with refined 16 textures
+
+-Reduced rendering overhead for smoother frame pacing
+
+Best Use Cases
+
+-Smoother gameplay and reduced lag
+
+-Low-end phones, tablets & PCs
+
+-Older hardware or weak GPUs
+
+-Survival, PvP, and long gameplay sessions
+
+-Reduced device heating and stutter
+
+Compatibility
+
+-Minecraft Bedrock Edition
+
+-Supported versions: 1.21+
+
+-Works in single-player & on servers
+
+-Compatible with most resource packs & shaders
+
+-Works with Vibrant Visuals
+
+-Supports Pocket Edition
+
+Installation
+
+1.Download the .mcpack file
+
+2.Open the file Minecraft will import it automatically
+
+3.Go to Settings Resource Packs My Packs
+
+4.Activate Performance+
+
+Support & Feedback
+
+If Performance+ improves your gameplay, consider leaving a on CurseForge or MCPEDL. Bug reports, suggestions, and feedback are always welcome, your support helps improve future updates.

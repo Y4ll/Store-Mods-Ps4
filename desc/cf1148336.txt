@@ -1,0 +1,29 @@
+Ever wanted to know how much health a Zombie has left? Now you can. Health bars gives every mob in the game a Health Bar so you can see exactly how much health they have left!
+
+-This add-on is for Vanilla Mobs only!-
+
+Join the Four Worlds Studios Discord
+
+You will see the Health Bar fall as you attack Mobs.
+
+All Vanilla Mobs will have Health Bars.
+
+Health Bars will change colour as their life decreases.
+
+You can change the style of Health Bar you want to use in the games settings.
+
+-Section Style-
+
+-Smooth Style-
+
+-RPG Style-
+
+-Heart Icon-
+
+The add-on is compatible with Texture Packs.
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on
+
+The Thumbnail for this add-on DOES NOT portray actual gameplay content

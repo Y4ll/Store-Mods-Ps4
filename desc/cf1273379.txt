@@ -1,0 +1,29 @@
+- Tired of driving cars made out of wool?
+
+- Tired of anyone being able to steal your car at any time?
+
+- Tired of car addons that don't work properly in survival?
+
+I am too! And it was out of this frustration that I've spent over a year developing CMDBlocc's Vehicles! As of version 1.2, this pack features 15 distinct vehicles; from sports cars, to a family minivan, and even a moped! All cars are dyeable and have a built in ownership system that allows you to not only keep your car secure, but also allows you to sell and trade vehicles with other players!
+
+Here are some other features of CMDBlocc's Vehicles:
+
+- All cars are dyeable by the owner, allowing you to change the color whenever you please!
+
+- All vehicles have a maintenance and repair system, and will break down more often as they age.
+
+- All applicable vehicles also have an inventory system with a working trunk, allowing you to securely store items and make them publicly visible whenever you want!
+
+- All vehicles have a simple damage and collision repair model, allowing them to appear dented when damaged.
+
+- Pack is fully functional in survival mode, with all vehicles available from specialized traders!
+
+- If you aren't able to purchase a new vehicle, you can purchase a Mystery Lemon from a trader who definitely isn't inspired by Spamton G. Spamton from Deltarune.
+
+Along with all this, even more features are planned in future updates!
+
+For now, however, no fuel system is planned. I'm sorry for any confusion!
+
+What are you waiting for? Bring the fun of highly-detailed vehicles to your Minecraft: Bedrock Edition game!
+
+Need help figuring out how to use the pack's many features? You can find comprehensive video tutorials on my YouTube Channel!

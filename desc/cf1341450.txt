@@ -1,0 +1,13 @@
+An Extension Pack for Deesse UI Pack to make your Minecraft UI dark.
+
+This is an extension pack for Deesse UI Pack. This pack makes your UI have a dark theme.
+
+There are 2 subpacks:
+
+- Default. This subpack only makes the custom UI from Deesse UI Pack dark, while the vanilla UI does not.
+
+- Make All UI Have Dark Theme. This subpack makes all UI from vanilla and Deesse UI Pack dark.
+
+Credits:
+
+DrAv0011 (https://bedrocktweaks.net) : vanilla ui dark theme.

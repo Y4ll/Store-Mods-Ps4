@@ -1,0 +1,23 @@
+Have you ever dreamed of seeing the hitbox of a player in Minecraft Bedrock?
+
+This is possible with this resource pack, which is compatible with most servers. With this resource pack, you will always know where to aim to inflict damage. This will give you an advantage in combat and increase your chances of winning.
+
+The player standing:
+
+The player sneaking:
+
+The player crawling (the crawl hitbox is the same size as the swim hitbox):
+
+The player flies on elytra:
+
+The player sleeping:
+
+There is also a switch to make hitboxes visible through walls (Initially hitboxes are not visible through walls):
+
+The function that allows you to see hitboxes through walls was created for anarchy servers, where there are no rules and restrictions. On such servers, you can do whatever you want, and no one will stop you.
+
+But if you try to use this function on regular servers, you can get into trouble. First, this is considered cheating, and you violate the rules of the game. Second, the server administration may detect this, and you may be banned from the server. Third, this may ruin your reputation among other players.
+
+Therefore, I strongly recommend that you do not use this function on regular servers. It is intended only for anarchy servers, where you can enjoy freedom and impunity. On regular servers, you should play fairly and respectfully to other players. Only then will you be able to enjoy the game and not spoil your mood.
+
+MCPEDL | CurseForge

@@ -1,0 +1,14 @@
+About:
+Are you tired of complicated searches for ores? Outlined Glowing Ores is a pack that improves ore visibility and appearance, making it easier to locate ores with this pack and making your collecting journey easier.
+
+Features:
+- Makes ores glowing and more visible
+- Making it easier to locate ore
+Note:
+- If you are using another resource or texture pack, make sure you are activating the pack above the resource or texture pack
+- Make sure you download the latest version for a better experience
+
+Required Settings:
+- Make sure you activate the "vibrant visuals" feature and "turn off reflections" before using the pack
+
+Join our Discord for more support [Discord]

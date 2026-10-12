@@ -1,0 +1,33 @@
+Pixel 2 Studios Staff :
+
+- BananeDX (Project Manager, General Developer)
+
+Presentation EN
+
+Have you always dreamed of driving this incredible car ? Well, at least you can in Minecraft (in reality it's practical in the city to park everywhere but not for long distances, yes I made this addon because I own a Twingo myself).
+
+You can craft the car at with crafting table. Yes, the car crafting system is not very optimal, I did it when I was starting to learn this feature, but the main goal is that you can drive it. And anyway, if you activate the addon your world will necessarily be in cheat mode, so you can get them even in survival with the commands.
+
+The car is compatible with Better RTX.
+
+This is a pretty simplistic model, just what is needed.
+It has a few unused animations, and for those who are wondering, no there is nothing under the hood, I am not an automotive engineer I do not know how to reproduce an engine and I do not want to.
+
+This addon was originally published on the MCPEDL site, but was removed for various reasons. Pixel 2 Studios is publishing this addon on CurseForge and Planet Minecraft instead, and this will be the case for all of our addons. If you find this addon on strange sites, it is obviously not us who published it there.
+
+Presentation FR
+
+Vous avez toujours reve de conduire cette incroyable voiture ? Eh bien, au moins, vous pouvez le faire dans Minecraft (en realite, c'est pratique en ville pour se garer partout mais pas pour les longues distances, oui j'ai fait cet addon car je possede moi-meme une Twingo).
+
+Vous pouvez fabriquer la bagnole avec une table d'artisanat. Oui, le systeme de fabrication de voitures n'est pas tres optimal, je l'ai fait lorsque je commencais a apprendre cette fonctionnalite, mais le but principal est que vous puissiez la conduire. Et de toute facon, si vous activez l'addon, votre monde sera forcement en mode triche, vous pourrez donc les obtenir meme en survie avec les commandes.
+
+La voiture est compatible avec Better RTX.
+
+C'est un modele assez simpliste, juste ce qu'il faut.
+Il comporte quelques animations inutilisees, et pour ceux qui se posent la question, non il n'y a rien sous le capot, je ne suis pas ingenieur automobile je ne sais pas reproduire un moteur et je ne le souhaite pas.
+
+Cet add-on a ete initialement publie sur le site MCPEDL, mais a ete supprime pour diverses raisons. Pixel 2 Studios publie cet add-on sur CurseForge et Planet Minecraft a la place, et ce sera le cas pour tous nos add-ons. Si vous trouvez cet addon sur des sites etranges, ce n'est evidemment pas nous qui l'avons publie la.
+
+(This is not a banana but an apple)
+
+(Ce n'est pas une banane mais une pomme)

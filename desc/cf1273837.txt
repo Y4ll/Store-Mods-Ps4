@@ -1,0 +1,25 @@
+Crumble - Bakery and Cafe Addon v5
+
+What's Crumble?
+
+Crumble is a cozy little addon for Minecraft Bedrock that adds everything you need to create the cafe of your dreams! Whether you're designing a cute coffee shop in a bustling village or a peaceful bakery tucked away in the forest, Crumble brings a variety of cafe-themed decorations, furniture, and treats to help bring your vision to life. This is best paired with furniture addons in the market!
+
+From stylish counters and seating to delicious pastries and coffee items, this addon is perfect for roleplaying, building aesthetic interiors, or just adding a touch of charm to your world. It's lightweight, simple to use, and made with care to blend seamlessly into the Minecraft experience.
+
+This remake improves crumbles mechanics, models, textures, and optimization! You can now make your dream cafe come to life (in minecraft xD)
+
+Note that all the items included in this pack is purely for aesthetic and decoration use only.
+
+Best to use with Kitchenette [My kitchen addon].
+
+How to Use Crumble?
+
+You have to activate both resource and behavior pack of Crumble from your world settings. Then, you can get the items from your Equipment Inventory. All the inclusions have an AE tag.
+
+More
+
+All the models and textures are from the vanilla archive and made by me (aecraft). Please DO NOT distribute any of the assets without my permission.
+
+more @ https://aecraft.carrd.co
+
+Please link my youtube for credits:

@@ -1,0 +1,11 @@
+Better Lucky Block features a balanced reward system with multiple rarity tiers, giving every opening a chance to surprise you.
+
+- Common (70100%) = Food, Iron Ingots, Gold Ingots, and other basic survival resources.
+
+- Uncommon (2040%) = Diamonds, Emeralds, Experience Bottles, Ender Pearls, Lapis Lazuli, and other useful items.
+
+- Rare (815%) = Diamond Armor & Tools, Shields, Bows, and valuable combat equipment.
+
+- Epic (25%) = Netherite Scraps, Totems of Undying, Tridents, Echo Shards, and other high-value rewards.
+
+- Legendary (12%) Elytra, Netherite Armor & Tools, Enchanted Golden Apples, Ancient Debris, Pigstep, Otherside, and other exclusive treasures.

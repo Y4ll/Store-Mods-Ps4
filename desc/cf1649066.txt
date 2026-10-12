@@ -1,0 +1,47 @@
+SlendyTubbies: MoonWatch
+
+A Minecraft Bedrock Addon Inspired by Slendytubbies 3 by ZeoWorks.
+
+This addon brings a darker version of the Teletubbies' world to Minecraft Bedrock, inspired by Slendytubbies 3. From the outside, everything looks calm: green hills, sun, a clear sky... but as soon as night falls (or you wander too far), something changes. The same characters you knew aren't there to play with you anymore.
+
+What it's about
+
+Two kinds of Teletubbies live in your world:
+
+- Teletubbies (Dipsy, Laa Laa, Po, Tinky Winky and White Tubbie), which you can tame and take care of. They sit when you ask them to, heal when you give them their special food, and flee in terror when they sense something hostile nearby.
+
+- Slendytubbies (Slendy Dipsy, Slendy Laa Laa, Slendy Po and Slendy Tinky), who no longer recognize anyone. They chase you the moment they detect you nearby, and each one has its own attack style: Slendy Po even changes shape mid-fight when it's about to die.
+
+- White Tubbie isn't just another teletubbie it's the one who stands its ground and fights the Slendys to protect the rest. If you have it nearby, you're not as alone.
+
+Insomnia System
+
+One of the core features of the addon is a sanity system: every hit you take wears you down mentally, not just physically. The lower your insomnia level gets, the more often you'll suffer full-screen screamers and an icon on your HUD warns you how bad things are before it's too late.
+
+Crafting and items
+
+- Chainsaw: your main weapon against the Slendys. Crafted with iron, a stick and copper blocks and Slendy Dipsy drops it on death.
+
+- Dipsy Hat: equippable, made from white and black wool.
+
+- Tubby Custard / Infected Tubby Custard: the Infected Tubby Custard isn't something to eat lightly, it has poison effects.
+
+- Tubby Custard Machine, Tubby Toast, Security Cameras and The Announcer block, all craftable in-game.
+
+Requirements
+
+- Minecraft Bedrock 1.21.90 or higher.
+
+- You don't need to enable any experiments or "Beta APIs" the addon runs on the game's standard features.
+
+- Enable both packs when creating the world: the Behavior Pack and Resource Pack for Slendytubbies MoonWatch (one depends on the other).
+
+Credits
+
+Slendytubbies belongs to Zeoworks. Teletubbies belongs to its respective creators/owners. This is a fan-made project with no commercial purpose just a tribute to something that probably scared us more as kids than we admitted.
+
+Notices
+
+This is my first add-on, so it may have some bugs. I'll keep updating and adding more content in future versions, like new characters and more enemies, as well as more blocks, and improving any bugs it has. I'll probably do some reworks of the Slendytubbies as well.
+
+v1.0.0 first stable release of the add-on.

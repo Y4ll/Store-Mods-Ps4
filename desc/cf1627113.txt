@@ -1,0 +1,107 @@
+MINERPLUS - 3X3, VEIN MINER & THE EMERALD EXPANSION
+
+ONE PICKAXE BECAME A WHOLE KIT.
+
+MinerPlus has always been about not mining one block at a time. Version 2.5.0
+keeps that pickaxe exactly as you know it - and gives it a crew: a helmet that
+lights your tunnel, a backpack you actually wear, and a guardian with a pistol
+who walks behind you and shoots what tries to kill you.
+
+AT A GLANCE
+
+Emerald Pickaxe 3x3 mining + automatic vein miner, 2031 durability
+Miner's Helmet Wearable headlamp, light level 10, toggles on and off
+Emerald Backpack 27 slots, custom interface, contents follow the item
+Magnet Totem Pulls every dropped item within 20 blocks
+Furnace Totem Smelts ore inside your backpack while you walk
+Guardian Totem An armed bodyguard with 40 HP and its own storage
+Languages English, Francais, Espanol
+
+THE EMERALD PICKAXE
+
+The original, untouched.
+
+- 3x3 area mining. One swing clears a full slice. Tunnels in a fraction of
+the time.
+- Automatic Vein Miner. Hit one ore, the whole connected vein comes out,
+up to 64 blocks.
+- 2031 durability, and Unbreaking works exactly as on a vanilla tool. Every
+extra block costs one point of wear - powerful, never free.
+
+A 3x3 tunnel being carved, then a large iron vein vanishing in one hit.
+
+EMERALD MINER'S HELMET
+
+Stop placing torches.
+
+Sneak + right-click while holding it to switch the lamp on. It projects light
+level 10 around you as you move, and burns one durability point every 10
+seconds while lit - light you manage, not an infinite floodlight.
+
+407 durability, 2 armour points, repairable with emeralds.
+
+Pitch-black cave, the lamp switches on, the player walks and the light
+travels with them.
+
+EMERALD BACKPACK
+
+27 extra slots, worn on your chest. Sneak + right-click with empty hands to
+open it.
+
+No plain menu list here. MinerPlus ships a custom interface built from the
+backpack's own texture - the same canvas and leather you see on your back -
+with a real grid: your 27 slots, three upgrade sockets, and your full
+inventory underneath. One click moves an item either way.
+
+The contents belong to the bag, not to you. Drop it, die with it, trade it,
+leave it in a chest - everything inside travels with the item. Hand your
+backpack to a friend and they open it to YOUR loot. That is what makes it safe
+on servers and Realms.
+
+240 durability, 3 armour points. Wear it out completely and it tears open,
+spilling everything at your feet instead of deleting it.
+
+Opening the backpack UI, moving a few stacks in and out. Show the grid
+- it is the most striking new thing in the addon.
+
+THE THREE UPGRADES
+
+Three dedicated sockets in the backpack. Each totem has its own slot, and each
+works only while the backpack is worn.
+
+Magnet Totem
+Every dropped item within 20 blocks flies to you. Vanilla pickup takes over
+once they arrive. No more sweeping a cave floor after a creeper.
+
+A scattered pile of drops rushing toward the player.
+
+Furnace Totem
+Smelts raw ore sitting in your backpack - one unit every 4 seconds,
+entirely on its own. Iron, gold, copper, ancient debris and their raw forms
+only; your food and building blocks are never touched. Smoke drifts from
+the bag while it works.
+
+THE EMERALD GUARDIAN
+
+Forty hit points, a pistol, and one job.
+
+- Walks beside you and keeps pace. It only teleports if you genuinely
+outrun it.
+- Fires on any hostile within 16 blocks that it can actually see. It will
+not lock onto something behind a wall.
+- Shoots while walking. It escorts and covers you at the same time, and
+plants its feet to fire when you stop moving.
+- 27 slots of its own. Right-click to open its backpack. It picks loot up
+off the ground for you.
+- Immune to fall and void damage. Following you off a cliff will never
+kill it.
+- Three-layer gunfire audio that shifts with distance, muzzle flash, and a
+health bar above its head.
+
+And it can die. If it falls, its totem is consumed and vanishes from your
+backpack - craft another one. The guardian is an investment, not a permanent
+buff.
+
+CRAFTING
+
+Emerald Pickaxe

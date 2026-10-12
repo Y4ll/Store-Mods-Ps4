@@ -1,0 +1,73 @@
+Do you imagine having a Hot Wheels Toys in Minecraft? now you have it! I'm introduce to you Hot Wheels Minecraft Character Cars! in this series have 8 total of cars! they mainly designed by Minecraft Mobs!
+
+Basic Information
+
+Hot Wheels Minecraft Character Cars Basic Specifications
+
+Performance:
+
+- Speed: 5 Blocks/Second. [0.50 Speed]
+
+- Toys Speed: 2 Blocks/Second. [0.25 Speed]
+
+Miscellaneous:
+
+- Health: 20 Points.
+
+- Seat count: Depends on Vehicle.
+
+Damage:
+
+- The Vehicle will get damage animation if under max health condition and if the Vehicle in Critical Health [2 health] will release particles if the car moving. so fix your car using Wrench.
+
+Wrenches:
+
+- Wrench: Fixes 1 point to the vehicle.
+
+- Tweak: Changes the vehicle size.
+
+Nitrox2:
+
+- The blue one is Full Nitrox2. Use it carefully! You can use Nitrox2 only 3 times! So, save it if you really need it. How to use it? Just the same as with a pig!
+
+Commands, Eggs and Colors available to change:
+
+- /summon hp:hwmcc_creeper [NONE]
+
+- /summon hp:hwmcc_spider [NONE]
+
+- /summon hp:hwmcc_skeleton [NONE]
+
+- /summon hp:hwmcc_enderman [NONE]
+
+- /summon hp:hwmcc_ocelot [NONE]
+
+- /summon hp:hwmcc_zombie [NONE]
+
+- /summon hp:hwmcc_iron_golem [NONE]
+
+- /summon hp:hwmcc_redstone_monstrosity [NONE]
+
+Hot Wheels Minecraft Character Cars Visual
+
+Toys Scale vs Real Size
+
+"Use the Invisibility Potion if you want to ride the Toys Version"
+
+Congratulations! Now you just changed to "Hot Wheels: Unleashed!" game in Minecraft!
+
+Video
+
+Note
+
+- This addon support other addon.
+
+Join our Discord! and submit your ideas!
+
+Click here for more!
+
+Visit website for more info about this addon!
+
+If you are content creator, please use MCPEDL, ModBay, Better Bedrock or Planet Minecraft link if you want to share it, do not relink or use direct link to Mediafire! Do not upload to another websites or applications without my permission.
+
+You can modify this pack for yourself only.

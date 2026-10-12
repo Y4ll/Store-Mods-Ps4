@@ -1,0 +1,112 @@
+This Add-On combines aspects of Batman from DC Comics and Minecraft. Complete with different suits for the Bat himself and his allies. Numerous gadgets AND vehicles. Oh yeah, enemies too.
+
+TL;DR, I added Batman gadgets, weapons, vehicles, suits, sidekick suits, enemies and villains into the game.
+
+New Update Showcase Video:
+
+Before starting, be sure to select between Hero ID or Enemy ID
+
+ID Cards
+
+The Hero ID enabled you to fully utilize Batman's entire arsenal of suits, gadgets, weapons and vehicles.
+The Enemy ID makes you susceptible to being affected by the gadgets and other weapons.
+
+Bat Suits
+
+Batman comes equipped with a number of different suits that each have their own unique look and protection + durability stats.
+
+(from left to right)
+
+Classic Suit (Source)
+>Glider Cape(Elytra), Weakest Durability, Weakest Protection, No Wayne Tech (Stat Boosts)
+
+Year Zero Suit (Source)
+>Glider Cape(Elytra), Okay Durability, Weak Protection, No Wayne Tech (Stat Boosts)
+
+Arkham Origins Bat-Suit (Source)
+>Glider Cape(Elytra), High Durability, High Protection, Wayne Tech Integration (Night Vision, Strength, Speed, Jump, Resistance)
+
+Arkham Knight Bat-Suit (Source)
+>Glider Cape(Elytra), Highest Durability, Highest Protection, Wayne Tech Integration (Night Vision, Strength, Speed, Jump, Resistance)
+
+Bat-Family Suits
+
+Batman is not the only character players can portray, his "Bat Family" members' suits are also in the add-on. Some have a cape glider, some don't.
+
+(from left to right)
+
+Red Hood Suit (Source)
+>No Glider, High Durability, High Protection, Wayne Tech Integration (Night Vision, Strength, Speed, Jump, Resistance)
+
+Batgirl Suit (Source)
+>Glider Cape(Elytra), High Durability, High Protection, Wayne Tech Integration (Night Vision, Strength, Speed, Jump, Resistance)
+
+Robin Suit (Source)
+>Glider Cape(Elytra), High Durability, High Protection, Wayne Tech Integration (Night Vision, Strength, Speed, Jump, Resistance)
+
+Red Robin Suit (Source)
+>No Glider, High Durability, High Protection, Wayne Tech Integration (Night Vision, Strength, Speed, Jump, Resistance)
+
+Nightwing Suit (Source)
+>No Glider, High Durability, High Protection, Wayne Tech Integration (Night Vision, Strength, Speed, Jump, Resistance)
+
+Bat Family Gear
+
+The "Bat Family" also comes equipped with their unique weapon. Each weapon has its own unique attack.
+
+Red Hood Deagles
+
+(thank you to @TheF1rst on Discord for the texturing!)
+
+Red Hood's Desert Eagles are easily one of the most dangerous weapons in the add-on. You have 10 shots before needing to reload.
+
+Nightwing Escrima Sticks
+
+Nightwing's Escrima Sticks can be thrown and retrieved for long ranged targets. They also have a chance to give slowness effects to targets hit with melee attacks.
+
+Red Robin Staff
+
+Red Robin's Staff is a decent weapon on it's own with a special attack. When the player right-clicks/interact tap, the player will slam the staff to the ground and knock back nearby enemies.
+
+Robin Katana
+
+A deadly sword given to Damien by his grandfather Ras Al Ghul. The sword itself does not have a special attack (for now) but it does deal high amounts of damage per hit.
+
+Bat Family Offhand Gear Slots
+
+You can place their gear in your offhand to keep them on the player body.
+
+Gadgets
+
+You know what they're for.
+
+Batarangs
+
+(from left to right)
+
+Batarang
+>Stackable to 8, Standard Issue.
+
+Ricochet Batarang
+>Stackable to 3, Initially bounces off a wall and then proceeds to hit multiple targets one by one.
+
+Enhanced Batarang
+>Stackable to 4, Can be used as a melee weapon and has stronger damage.
+
+Molten Batarang
+>Stackable to 2, Lights targets hit on fire.
+
+Explosive Batarang
+>Stackable to 3, Explodes when a target is nearby, can be used as a trap.
+
+Smoke Bomb
+
+Smoke Bombs will explode into a cloud of smoke that blinds + slows enemies caught in the effective range.
+
+Grappling Gun
+
+Shoots a rope with a hook that latches onto surfaces to quickly pull you towards it. Maximum of 80 blocks in range.
+
+Rebreather
+
+Holding it is

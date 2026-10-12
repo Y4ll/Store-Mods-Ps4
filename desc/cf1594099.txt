@@ -1,0 +1,39 @@
+Take your Minecraft Bedrock SkyBlock experience to the next level with this feature-rich addon! Start on your own island and expand it into a thriving empire using an advanced economy, island upgrades, custom shops, generators, and powerful management tools.
+
+Build, farm, mine, trade, and progress through a fully customizable SkyBlock experience designed for both single-player and multiplayer worlds. Manage your island with easy-to-use GUIs, invite friends, earn money, unlock upgrades, and grow your island's value as you work towards becoming the richest player.
+
+Features
+
+- Create and manage your own SkyBlock island
+
+- Invite friends and manage island members
+
+- Complete economy with balance, bank, and player payments
+
+- Buy and sell hundreds of items
+
+- Custom generators and resource progression
+
+- Farming, mining and mob farming support
+
+- Island leveling and upgrade system
+
+- Island value and progression tracking
+
+- Island bank with shared storage
+
+- Player shops and Auction House support
+
+- Daily rewards, quests, and achievements
+
+- Island protection and permissions
+
+- Modern GUI menus for all major features
+
+- Optimized for Minecraft Bedrock Realms, Worlds, and Dedicated Servers
+
+- Easy to configure and expand
+
+Whether you're playing solo or with friends, this addon provides a complete SkyBlock experience packed with progression, automation, and endless opportunities to grow your island.
+
+Compatible with Minecraft Bedrock Edition and designed for long-term survival gameplay.

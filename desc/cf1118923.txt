@@ -1,0 +1,65 @@
+Tired of creepers blowing up your builds? Worried about griefers on your server? SurveilCraft is here to help! This easy-to-use pack adds functional CCTV cameras to Minecraft Bedrock Edition, letting you monitor your world and keep everything secure.
+
+SurveilCraft offers a variety of cameras to fit your needs, and it's fully optimized for multiplayer. So grab your friends and build a secure world together!
+
+This is my third camera related mod, and I tried to make this pack as much perfect as possible, but your feedbacks & suggestions are always welcomed!
+
+How To Use SurveilCraft
+
+Out first step is to access SurveilCraft's main menu and it is quite simple, All you have to do is grab a Breeze Rod or Stick (rename it "CCTV") in your hand and right click/long press, And main menu will pop up. Here you will be able to control everything related to this pack! (There are no additional items added, to maintain the vannila experience).
+
+Main Menu
+
+You will be available to control everything from here, such as placing new CCTVs, managing and controlling CCTVs.
+
+Currently SurveilCraft has four different types of CCTV cameras, with different features & abilities, which you can use depending on the situation and your needs!
+
+- Normal CCTV
+
+This is the most commonly found type of CCTV, This is the simplest type of CCTV you can place them and get live view from them, but you cannot control their direction of facing!
+
+- Horizontal Panoramic CCTV
+
+Unlike Normal CCTVs, Horizontal Panoramic CCTVs are controllable, which means you can get live view from them and you can also control them (you can move them 360 horizontally). This will give you a really good field of view of all directions!
+
+- Vertical Panoramic CCTV
+
+Similar to previous one, you can get a 180 control vertically. This is a really cool type of CCTV, specially you have some tall buildings in your server!
+
+- Pan-Tilt CCT
+
+This one is combination of previous 2 types, You can completely controll this camera and get a live view of every possible direction (horizontally or vertically)!
+
+Important Feature Details
+
+- If you play in multiplayer, all the CCTV cameras will be different for each players,
+
+- One player can only view their own CCTVs, they cannot interfere with other player's CCTVs,
+
+- CCTVs can be placed anywhere in the world and can be controlled easily,
+
+- You can place them in all three dimensions,
+
+- But you can only view the cameras in the dimension you are in (I cannot do anything this is how Minecraft works),
+
+- One player can only place 10 cameras per type (total 40 cameras),
+
+- Currently CCTVs are not visible, because I'm waiting for your feedback. So let me know if make CCTVs visible!,
+
+- This mod works in both 1.20 & 1.21,
+
+- You don't need to enable any experiments to use this pack!,
+
+- This is v-1.0.0, so if you find any bugs, please share with me!
+
+Download & Support Me!
+
+Direct download is available but if you want to support me, you can download from here:
+
+Download & Support Me
+
+Feel free to directly download, but if you like it feel free to donate & support me:
+
+Donate Here
+
+Try it, share it, and explore Minecraft from a whole new angle!

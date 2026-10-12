@@ -1,0 +1,37 @@
+This is an unofficial version of the It Takes A Pillage mod by Izofar for Bedrock under the MIT License.
+
+The Pillagers have expanded their Civilization! They have set up encampments and fortresses all over the world! Do you have what it takes to overcome these new threats, and seize their precious loot?
+
+FAQ
+
+What does this add-on have?
+
+2 new buildings: Bastille and Pillager Camp
+
+2 new items:
+
+-New music discs can be found in Bastille
+
+-Ravager Horns can be obtained by defeating Ravagers (eating it will give you a Bad Omen effect)
+
+4 new mobs:
+
+-Archers use bows
+
+-Skirmishers are more brutal than Vindicators
+
+-Legioners use swords and shield
+
+-Clay Golems can be summoned with clay blocks and carved pumpkins
+
+Compatible:
+
+Can work well with most other add-ons.
+
+Can I get achievements?
+
+Yes.
+
+Trailer:
+
+Discord Community:Dan Craft

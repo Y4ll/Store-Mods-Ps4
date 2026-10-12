@@ -1,0 +1,43 @@
+Unlimited Loch Villager Trades
+
+Trade with villagers without:\/\/ worrying about their offers getting locked! Unlimited Villager Trades increases the usage limit of every supported trade, allowing you to trade billions of times.
+
+Features
+
+- Removes the normal villager trade limit
+
+- Supports every villager profession
+
+- Supports the Wandering Trader
+
+- Covers 279 vanilla trade offers
+
+- Keeps original items and prices unchanged
+
+- Preserves normal villager levels and XP progression
+
+- No experimental features required
+
+- Multiplayer-friendly
+
+How to Use
+
+- Download and open the .mcaddon file using Minecraft.
+
+- Activate Unlimited Villager Trades from the world's Behavior Packs section.
+
+- Place it above other packs that modify villager trades.
+
+- Enter the world and start trading!
+
+Important Information
+
+For the best results, use newly generated or previously untraded villagers. Villagers whose offers have already been saved in the world may retain their previous trade limits.
+
+Credits
+
+Created and developed entirely by Baku.
+
+All add-on development, modifications, testing, branding and creative credits belong to Baku.
+
+Enjoy unlimited trading and build your Minecraft economy without restrictions!

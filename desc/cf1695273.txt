@@ -1,0 +1,93 @@
+Aqua Item Upgrader
+
+Turn any item into a better one... or lose it all. A high-stakes item upgrade gamble for Minecraft Bedrock.
+
+>Small note: this addon is made with $0 budget. The logo was made with AI, so please be nice about it!
+
+How it works
+
+1. Hold the item you want to upgrade.
+
+2. Sneak and right-click.
+
+3. Pick the amount, the prize you want, and a multiplier (x1, x2, x3, x5, x10, x20).
+
+4. Confirm and watch the chances spin. Win the prize... or lose your item.
+
+The probability depends on the value of your item vs. the prize:
+
+- Same value: ~50%
+
+- Cheaper prize: up to 95%
+
+- More expensive prize: from 0.25%
+
+Higher multipliers give a bigger prize but a much lower chance.
+
+Features
+
+- Upgrade from any item in your inventory.
+
+- 130+ curated items with automatic values for every other item (no exploits).
+
+- Win streaks: each consecutive win adds +0.25x to your prize (up to 3x). Lose and the streak resets.
+
+- Search any item by ID (e.g. `minecraft:diamond`) and try to win it.
+
+- A guide book given on first join (open it anytime with the `aqua:guide_book` item).
+
+- Bilingual: Spanish and English.
+
+- Flashy progress-bar animation, sounds and particles on every spin.
+
+Multipliers
+
+| Multiplier | Prize | Chance |
+
+|------------|-------|--------|
+
+| x1 | 1x | Highest |
+
+| x2 | 2x | High |
+
+| x3 | 3x | Good |
+
+| x5 | 5x | Low |
+
+| x10 | 10x | Very low |
+
+| x20 | 20x | Extreme |
+
+Combo system
+
+Win twice in a row and you start a streak. Every consecutive win raises your multiplier by +0.25x:
+
+- Streak 2: x1.25
+
+- Streak 3: x1.50
+
+- ...
+
+- Streak 9: x3.00 (max)
+
+Lose and the streak resets to zero.
+
+Commands
+
+- `/give @s aqua:guide_book 1` get the guide book.
+
+Installation
+
+1. Download the `.mcaddon` file.
+
+2. Open it Minecraft imports both packs automatically.
+
+3. Create a world (or edit an existing one) and enable **Aqua Item Upgrader** under Behavior Packs and Resource Packs.
+
+4. Play. Sneak + right-click with any item to start upgrading.
+
+Support
+
+Report bugs or suggest new features in the Discord of Aqua Axolotl.
+
+https://discord.gg/CpxKNaTWDe

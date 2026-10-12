@@ -1,0 +1,21 @@
+This pack gives you the new Spring to Life panorama in any version of Minecraft!
+
+360 view
+
+Note
+
+It should work on almost any version of Minecraft Bedrock; you can ignore warnings. If your Minecraft version is too old, you might have to edit the manifest.json file of this pack.
+
+A better pack
+
+This pack is part of my full "All Minecraft Panoramas" collection, which includes every panorama ever added. I recommend you try that one too!
+
+Java
+
+This is for Minecraft Bedrock edition. Java version is coming soon: https://www.curseforge.com/minecraft/texture-packs/panorama-1-21-5
+
+Help
+
+Heres a guide if you need help installing: https://adib3700.notion.site/ThreeSeven0Zero-Minecraft-Resource-Pack-Installation-tutorial-1ac9ff516372807ca61cf8ad8afd5339
+
+giptala6@gmail.com - If you need any help, you can email me.

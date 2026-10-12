@@ -1,0 +1,67 @@
+Orbital Strike Cannon
+
+Unleash the Power of the Orbital Strike!
+
+Orbital Strike Cannon brings one of the most iconic and destructive weapons associated with Wemmbu into Minecraft. This addon is designed to recreate the devastating feeling of calling down an orbital strike from above, while keeping the activation and overall experience similar to the original weapon.
+
+How It Works
+
+The Orbital Strike Cannon uses a fishing rod as its targeting device. Aim at your desired location and activate the cannon to call down an orbital strike from the sky. Once activated, the selected area will be covered by a massive barrage of explosions.
+
+Craftable Special TNT
+
+The weapon isn't simply handed to youyou'll need to prepare the necessary equipment first.
+
+You can craft a series of specially compressed TNT charges, which are used to power the orbital strikes. Different TNT variants provide different levels of coverage, allowing you to choose the appropriate level of destruction for your situation.
+
+Multiple Coverage Levels
+
+Choose from several strike levels with different coverage areas.
+
+Whether you want to destroy a small area or unleash an enormous bombardment, the addon gives you different options to match the scale of your target.
+
+The largest strike has an impressive radius of up to 200 blocks, creating a huge area of destruction in a matter of moments.
+
+Use With Caution!
+
+The Orbital Strike Cannon is an extremely powerful weapon. A single strike can affect a massive area, so make sure you're aiming at the right location before activating it.
+
+Perfect for testing destructive capabilities, custom maps, PvP arenas, or simply watching absolute chaos unfold.
+
+Features
+
+-
+
+Orbital strike system inspired by Wemmbu's iconic weapon.
+
+-
+
+Fishing rod used as the targeting device.
+
+-
+
+Craftable special compressed TNT charges.
+
+-
+
+Multiple levels of strike coverage.
+
+-
+
+Massive explosive bombardments.
+
+-
+
+Maximum strike radius of 200 blocks.
+
+-
+
+Designed for destructive experiments, maps, and pure Minecraft chaos.
+
+Thank You!
+
+Thank you for trying Orbital Strike Cannon!
+
+If you enjoy the addon, feel free to leave a review or share your feedback. Your suggestions can help improve future versions and make the orbital strike system even more impressive.
+
+Aim carefully. Pull the trigger. Watch the sky fall.

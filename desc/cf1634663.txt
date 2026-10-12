@@ -1,0 +1,81 @@
+ADDON CREATORS:
+
+- O/R13 Mobs Creator (addon creator)
+
+- Ocelot Mobs Creator (addon assistance)
+
+WARNING:
+
+- This add-on was created exclusively for the original Bedrock version of Minecraft and is not compatible with the Java version or game clones. If you see this add-on on other platforms, it is not the original.
+
+- If you use this add-on in your videos, please credit me as the developer in the description.
+
+- If you are an add-on creator and decide to make your own add-on based on ours, please credit me as the original author.
+
+- All 3D models of characters and items, textures, animations, and Peppa Pig voiceovers were created from scratch by Ocelot and myself and are original to this add-on. If they are used, we must be credited as the true authors.
+
+Over a year ago, I created the popular "Peppa Pig Dweller" add-on; it became one of my most successful creations and inspired many other add-ons based on my concept. Although a long time has passed since the last version was released, the add-on remains popularpeople continue to create add-ons for it and make videos showcasing itso I decided to update this truly cool add-on.
+
+You can read all the information about the update and the add-on below.
+
+WHAT'S NEW:
+
+1) Peppa Pig has been modified
+
+2) George added
+
+3) New survival mechanics added
+
+4) Peppa Pig sounds added and modified
+
+5) Dinosaur toy added
+
+ABOUT THE ADD-ON:
+
+PEPPA PIG DWELLER is a Minecraft horror add-on designed for survival gameplay. The add-on introduces two new characters, a toy box, and a dinosaur toy.
+
+1) Peppa Pig Dweller: the only hostile mob added by this addon; the pig has 500 health and 3 different types of attacks.
+
+- Right-hand attack deals 5 damage.
+
+- Left-hand attack deals 5 damage.
+
+- Jumpscare attack instantly kills the player. Peppa attacks only the player and George. In survival mode, she spawns only after George cries.
+
+2) George: a friendly character who does not attack the player or other mobs. He has only 50 health points. In Survival Mode, how quickly you encounter Peppa depends entirely on his condition. George has three meters you need to monitor; if any one of them drops to zero, George will start crying, and Peppa Pig will appear.
+
+- HUNGER METER: George is a very picky eater, so he can only be fed carrots.
+
+- FEAR METER: Like all small children, George can get scared. The fear meter depletes much more slowly than the others during gameplay, but try to avoid or skip thunderstorms. To lower George's fear level, you need to give him his favorite dinosaur toy, which can be found in toy boxes.
+
+- SLEEP BAR: Like all young children, George needs plenty of sleep, so you will need to build a special bed for him. His hunger and fear levels continue to decrease while he sleeps. Also, to move around the world faster, I recommend picking George up, as he does not follow the player on his own. That said, Peppa Pig may also appear if you kill George.
+
+3) Toy Box: An ordinary box containing various loot, similar to "Lucky Blocks." The box can yield bad itemssuch as sticks or bonesas well as good ones, like a dinosaur toy for George, copper, iron, or a carrot (also for George).
+
+4) Dinosaur: A standard dinosaur toy that can be given to George to reduce the fear meter.
+
+5) Bed: George needs his own personal bed for sleeping; to craft it in Survival mode, you only need sticks and blue wool. To get George to lie down on it, you need to push him as close to the bed as possible.
+
+ADD-ON FEATURES:
+
+-
+
+All characters and items feature unique 3D models, textures, and animations of incredible quality.
+
+-
+
+Incredible survival features
+
+-
+
+Extensive sound effects for characters
+
+-
+
+Playable with friends
+
+-
+
+Unique content
+
+If you encounter any errors while playing with the add-on, please let me know so I can fix them. A big thank you to everyone who played with our add-on; I hope you enjoyed it.

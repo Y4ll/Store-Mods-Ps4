@@ -1,0 +1,63 @@
+## Ben 10 Volume 2 10 Aliens, Rituals, Gods & a Real Omnitrix
+
+**It's Hero Time!** Strap on the Omnitrix and unlock the power to transform into 10 unique alien forms each with their own model, animations, and combat style. A fully working transformation system for Minecraft Bedrock, inspired by the Ben 10 universe.
+
+### 10 Unique Aliens
+
+- **Echo Echo** fast and agile, master of sonic attacks and unlimited summonable clones
+
+- **Chromastone** a crystalline powerhouse that absorbs impact and fires energy beams
+
+- **Swampfire** fire-immune and self-healing, unleashes explosive fire attacks
+
+- **Big Chill** real flight (not a potion effect!), freezes enemies with ice attacks
+
+- **Humungousaur** grows to massive size, crushing everything in his path
+
+- **Brainstorm** telekinetic and electrical powers, genius-level alien
+
+- **Spider-Monkey** web-slinging agility, traps enemies in sticky webs
+
+- **Goop** shape-shifting alien that can shrink to squeeze through tight gaps
+
+- **Arcticguana** ranged ice-beam specialist with a fully animated combat moveset
+
+- **Alien X** a reality-warping cosmic being with 6 devastating powers: Black Hole, Black Hole Bullet, Time Manipulation, Telekinetic Grab, Follow Fire, and Mega Explosion
+
+### Ritual Summoning System
+
+No commands needed just drop the right items together on the ground:
+
+- **Redstone + Emerald + Iron Ingot** receive the Omnitrix directly
+
+- **Iron Block + Ice** summon the Ice God
+
+- **Dirt + Iron Block** summon the Earth God
+
+These gods cannot be found in the wild the ritual is the only way to summon them. Defeat them to earn a DNA Sample and permanently unlock Alien X or Arcticguana.
+
+### A Real Working Omnitrix
+
+Hold the Omnitrix, open the holographic selector, and pick your alien. Watch the transformation trigger instantly with custom particle effects and sound design.
+
+### Battery System
+
+Transformations aren't permanent the Omnitrix runs on a battery. Stay transformed as long as you can, then recharge before transforming again.
+
+### Self-Destruct
+
+A high-risk option in the Omnitrix menu a 30-second countdown ending in an explosion that destroys your Omnitrix. Perform the ritual again to get it back.
+
+### Built for Immersion
+
+Custom sound effects for every power, transformation, and event. Distinct particle effects throughout, including a cinematic falling capsule and holographic selector beam.
+
+### Requirements
+
+- Minecraft Bedrock Edition (latest stable recommended)
+
+- **Beta APIs must be enabled** in your world settings for the add-on to function
+
+---
+
+*Created by GKEM (Gunnu Ke Epic Mod)*

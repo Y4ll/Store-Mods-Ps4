@@ -1,0 +1,82 @@
+Real Vanilla Sit
+
+Seamless Sitting on Stairs, Slabs, and Carpets The Vanilla Way
+
+Real Vanilla Sit is an optimized addon for Minecraft Bedrock Edition that lets players sit seamlessly on any vanilla stairs, slabs, and carpets.
+
+Trailer
+
+Features
+
+- Sit on any vanilla block of the following types:
+
+- Stairs (as long as theyre not upside down)
+
+- Bottom slabs
+
+- Carpets
+
+- Sit by interacting with supported blocks using an empty hand no sneaking, no items required. Its that simple.
+
+- Two players cannot sit on the same seat at the same time, ensuring realistic multiplayer behavior.
+
+- Sit perfectly aligned with the stairs direction for natural posture.
+
+- Prevents sitting on upside-down stairs and top slabs to ensure logical behavior.
+
+- No commands needed just sit and play.
+
+- Optimized by design with no interval loops and powered by the official Minecraft Scripting API v2.0.0 (@minecraft/server).
+
+Perfect For
+
+- Survival and SMP servers
+
+- Roleplay and furniture builds
+
+- Quality-of-life enhancements
+
+- Addon packs that need a clean sitting system
+
+How to Sit
+
+- Right-click or tap on supported blocks with an empty hand to sit.
+
+- Press jump, sneak, or break the block to stand up.
+
+Compatibility
+
+- Multiplayer worlds
+
+- Realms support
+
+- Dedicated Servers
+
+Installation
+
+- Download the Real Vanilla Sit.mcaddon file.
+
+- Open it to automatically import into Minecraft Bedrock.
+
+- In your world settings, activate both the Behavior Pack and Resource Pack.
+
+- No experimental toggles required.
+
+- Play and sit!
+
+License
+
+Licensed under CC BY-ND 4.0.
+You may use and share this addon with credit, but modification and reuploads are not allowed.
+
+Creator
+
+Addon created with by Papa Alsa
+YouTube @alsahonggo
+
+Notes
+
+Please do not reupload this addon as your own.
+If you'd like to share it, use the official download link.
+
+Let your players rest and relax the vanilla way.

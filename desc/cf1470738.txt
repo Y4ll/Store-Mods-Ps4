@@ -1,0 +1,5 @@
+ANIMA DISCORD
+
+Anima Shader provides 3D dynamic water, dynamic visuals with tone mapping, vibrant visuals, intense sunrises, epic sunsets, and a beautiful night sky at midnight. Featuring PBR, realistic colors, and realistic shadows, it makes your world pop with epicness.
+
+(You can see all the features of this addon/shader in the photo below)

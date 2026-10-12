@@ -1,0 +1,23 @@
+This pack brings back the 1.16 bow, crossbow, spyglass, shield, and trident animations! 1.16 Textures and 1,16 hand in first person, you can also choose mixed mode (Java and bedrock) or Java attachable for ur preference
+
+Instead of the new odd animations.
+
+Heres a video!
+
+https://youtu.be/DFLwUFQ0UEE?si=_SrIPWDO2b2EzPJC
+
+This brings the hand bobbing animation, (bobs when view bobbing is off) (bobs less when view bobbing is enabled)
+
+This brings the fixed bow base pose, hitting and charging
+
+This also brings the fixed trident base pose,hitting and charging
+
+This also brings the fixed crossbow base pose,hitting and charging
+
+This also brings the fixed spyglass base pose,hitting
+
+This also brings the fixed shield base pose,hitting and use.
+
+This also fixed the breathing bob to be faster and weaker, it also rotates.
+
+Make sure to use subpacks effectively!

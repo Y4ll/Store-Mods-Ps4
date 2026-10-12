@@ -1,0 +1,96 @@
+Serene Visuals is my overcast pack. Soft diffused light, cool muted tones and deep greens at ground level. Not every shader needs to be loud.
+
+What this changes
+
+Overcast skies
+
+Real cloud layering across the sky rather than one flat sheet. Light comes through diffused instead of as a hard beam, which is what sets the mood for the whole pack.
+
+No sun glare
+
+The sun never blows out the screen. You can look toward it at midday without everything going white, which matters more in survival than it sounds.
+
+Color grading
+
+Cool and muted, kept deliberately gentle. Nothing is pushed into oversaturation and nothing goes harsh.
+
+Foliage
+
+Grass and leaves go deep and rich at ground level, so the world stays green and full even though the light above it is soft.
+
+Fog and depth
+
+Smooth fog in the distance that gives terrain real depth. Hills and treelines separate from each other instead of stacking flat.
+
+Consistency through the day
+
+Morning, midday, under clouds and at dusk all hold the same look. There is no point in the cycle where the pack falls apart or washes out.
+
+Requirements
+
+THIS PACK IS FOR VIBRANT VISUALS ONLY
+IT DOES NOT WORK WITH MB LOADER
+
+Vibrant Visuals must be ON. This pack is built for Bedrock's Vibrant Visuals renderer. The pack will not do anything if it is off.
+
+Where to turn it on: Settings > Video > Graphics > Vibrant Visuals
+
+If that toggle is not there, your device or version does not support Vibrant Visuals yet.
+
+About my other packs
+
+I have several other shader packs on my page, and they are not recolors of this one. Each is built with its own style. The atmospherics, lighting, color grading, water and PBR are set up separately in every pack, so no two of them behave the same way in game.
+
+If you want to explore the rest, everything I have made is here:
+
+- My CurseForge profile
+
+- My MCPEDL profile
+
+Installation
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate Serene Visuals
+
+- Turn on Settings > Video > Vibrant Visuals
+
+- If the lighting still looks the same, leave the world and load it again once
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link this CurseForge page in the description.
+
+- Use the pack in your own gameplay videos and streams. No permission needed, go ahead.
+
+- Modify the pack for your own personal use. Tweak whatever you want on your own device. The modified version has to stay with you though. It cannot be uploaded or shared publicly anywhere.
+
+- Share this page with friends or in servers.
+
+YOU ARE NOT ALLOWED TO
+
+- Upload a modified version. Editing my pack and releasing it under your own name, or claiming it as your own work, is not allowed.
+
+- Use assets from this pack in your own pack. If you want to use something from it, contact me on Discord first and ask.
+
+- Put the download behind your own link. If you make a review video, link my official project page and nothing else. No monetized links, no link shorteners, no ad links, and no direct download that you host yourself.
+
+- Reupload the pack anywhere else.
+
+FAQ
+
+The pack is not working. Nothing changed after I installed it.
+I get this comment a lot, and almost every single time the reason is the same. Vibrant Visuals is turned off.
+
+This pack only works when Vibrant Visuals is ON. That is written clearly at the top of this page. With it off, the pack loads fine but nothing on your screen changes, because there is no renderer for it to work with. The pack is not broken.
+
+Go to Settings > Video > Graphics > Vibrant Visuals and switch it on. If you cannot find that option at all, your device or Minecraft version does not support it yet.
+
+Please check this before commenting that the pack does not work.
+
+The sky looks cloudy and grey. Is that a bug?
+No, that is the pack. Serene is built around overcast light on purpose. If you want clear blue skies, Mike Visuals or 

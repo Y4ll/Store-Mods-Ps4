@@ -1,0 +1,45 @@
+Real X-Ray + Night Vision cuts through stone, dirt, and deepslate to put every ore right in front of you no mods, no broken achievements, no excuses. Every ore from coal to ancient debris has been reworked with high-contrast custom textures that pop instantly, and a night-vision-style tint wraps the entire underground in crisp blue clarity so nothing hides in the dark.
+
+Custom glowing ore textures mean diamonds shimmer, redstone pulses, and emeralds practically announce themselves. The pack also exposes dirt surface layers so you always know exactly where ground level sits no more blind digging into the wrong layer.
+
+Lava? Visible. Water? Transparent and clearly marked. Every hazard you'd normally stumble into while strip-mining is dealt with before it costs you your inventory.
+
+PBR-ready MER textures are included for every ore, so Vibrant Visuals users get the full glowing ore experience with real emissive lighting.
+
+Key Features
+
+- Custom high-contrast ore textures for all ores including deepslate and Nether variants
+
+- Night-vision blue filter applied to the underground HUD for instant depth clarity
+
+- Glowing custom ore textures with PBR/MER support for Vibrant Visuals
+
+- Also works in Fancy graphics no Vibrant Visuals required to see the glow effect
+
+- Visible dirt surface layer so you always know your depth
+
+- Lava and water reworked for underground hazard visibility
+
+- Achievement-safe no gameplay values changed, textures only
+
+- Works in Simple, Fancy, and Deferred Rendering modes
+
+Recommended Settings
+
+- Turn off Smooth Lighting for the sharpest ore contrast
+
+- Graphics mode: Simple or Fancy both work perfectly
+
+- Enable Vibrant Visuals for emissive glowing ores (optional, looks incredible)
+
+Install
+
+- Import the pack in-game or drop it into your resource_packs folder
+
+- Edit or create a world Resource Packs enable Real X-Ray + Night Vision
+
+- Turn off Smooth Lighting for best results
+
+- See everything. Miss nothing.
+
+The Real X-Ray + Night Vision Team

@@ -1,0 +1,49 @@
+About
+
+Clear Water FPS Booster makes Minecraft Bedrock water cleaner, clearer, and easier to play around on low-end devices.
+
+It keeps the vanilla style, but tunes the effects that often make oceans, rivers, rain, and underwater views feel noisy.
+
+Features
+
+- Clearer water surface color
+
+- Higher water surface transparency
+
+- Longer underwater fog distance
+
+- Neutral water tint across vanilla biomes, including Pale Garden
+
+- Nearly invisible clean still and flowing water textures
+
+- Calmer water splash, drip, wake, and bubble effects
+
+- Cleaner flowing-water animation without the chunky vanilla noise
+
+- Slower water, lava, fire, portal, kelp, sculk, lantern, and similar animated textures
+
+- Reduced common particle clutter for busy vanilla effects
+
+How to use
+
+- Import the .mcaddon file into Minecraft Bedrock.
+
+- Activate the Clear Water FPS Booster resource pack for your world. No behavior pack or experiments are required.
+
+- Put the Clear Water resource pack above other visual packs if another pack also changes water, fog, particles, or animated textures.
+
+Notes
+
+- This is not an RTX pack.
+
+- This is not a realistic water shader.
+
+- Performance gains may vary depending on your device, world complexity, entity count, simulation load, and render distance.
+
+- The pack is designed as a practical low-end visual optimization, not a cinematic graphics overhaul.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.50 or newer
+
+- No external dependency required

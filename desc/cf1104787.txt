@@ -1,0 +1,81 @@
+Ever desire more blocks to build with in your world? This unofficial port of the popular Java edition mod Chisel adds over 2000 block variations of vanilla blocks, as well as some new ones, that can be crafted at the stonecutter. In addition to the stonecutter you can also craft an iron chisel and interact with the chisel blocks to cycle through all the variations of that block.
+
+Blocks Available to Chisel
+
+All wood planks
+
+All concrete colors
+
+Stone, Cobblestone, Deepslate, Bricks
+
+Andesite, Granite, Diorite
+
+Limestone, Marble, Chisel Basalt (New blocks)
+
+Endstone, PurPur, Prismarine
+
+Glowstone, Obsidian
+
+Lava Stone, Magma Blocks
+
+Coal and Charcoal
+
+Packed Ice
+
+Quartz
+
+Diamond, Emerald, Lapis
+
+Dirt
+
+Iron, Gold, Redstone
+
+Honeycomb
+
+Red and Yellow Sandstone
+
+Terracotta (No colors)
+
+Factory, Laboratory, Paper Blocks (New Blocks)
+
+Laboratory block has arrow block that fully connects to itself based on the block face it is placed on.
+
+Basalt, Netherbricks, Netherrack
+
+Glass
+
+Bookshelves
+
+Bookshelves fully connect to neighboring bookshelves of the same plank type. Connection is based on the direction you are looking when placing them.
+
+Crafting table for all wood types
+
+New Blocks
+
+Marble, Limestone, Basalt
+
+Directly from the PC mod Marble, Basalt, and Limestone have arrived. These new decorative blocks have natural generation in your world! Limestone is located y0-y75, Marble is located between y0 - y130, and Basalt is y20 and below. Don't worry though if you already have a generated world they also come with crafting recipes! Recipes should be found in the crafting table and use vanilla blocks. Marble is stone and diorite, Limestone is stone and bonemeal, and Basalt is stone and coal.
+
+Lava Stone
+
+Lava stone is obtained by crafting with a bucket of lava surrounded by stone.
+
+Factory
+
+Laboratory
+
+Paper
+
+Connected Texture Variants
+
+New variant blocks allow for connected textures for blocks already in chisel. Blocks with light blue name have variants! These include trim, intersection, inner blocks. Place a chisel block with a light blue name back in stonecutter to craft these blocks. These trim blocks act like logs where they rotate based on the block face they are placed on.
+
+Credits
+
+Thank you to the original mod creator AUTOMATIC_MAIDEN for creating such a wonderful mod and thank you to tterrag, Drullkus, minecreatr, and to everyone else who has been involved in the original mod in any way. These textures are not my own I simply used them from the original mod Chisel and brought them over so bedrock users could experience them as well.
+
+Some other textures are from the Painterly Pack created by Rhodox and Friends. A link to the Painterly pack follows if you would like to check them out. http://painterlypack.net/
+
+Deepslate Textures by @itisbeez on X. Big thank you for the beautiful textures!
+
+If you like what I make consider following me on twitter at https://twitter.com/Mc77Rivers. Twitter is the easiest way to contact me about bugs and to stay up to date on what I'm working on. Thanks and I hope you all enjoy!

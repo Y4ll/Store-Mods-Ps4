@@ -1,0 +1,83 @@
+# Sanity System Addon - Complete Guide & Mechanics
+
+> **Author:** FEBERNAISYSTUDIOS
+
+> **Development Team:** Hac Long Studios VN
+
+> **Discord:** [Join our Discord](https://discord.gg/CdjYgGN85d)
+
+> **YouTube:** [Subscribe on YouTube](https://www.youtube.com/@Nova_Sky_004)
+
+Cre Arrow textures -> https://www.curseforge.com/minecraft/mc-mods/tough-as-nails
+
+---
+
+## ENGLISH DESCRIPTION
+
+Welcome to the **Sanity System Addon**! This pack brings a rich survival-horror experience to Minecraft Bedrock Edition through a dynamic Sanity mechanic (ranging from 0 to 100). Below is the complete breakdown of how Sanity increases and decreases.
+
+### Factors that INCREASE Sanity (+)
+
+* **Sleeping:** **Sleeping in a bed** immediately restores Sanity back to the maximum **100**.
+
+* **Environment & Time:** **Daytime & Clear weather** outdoors continuously increases Sanity (`+0.15` to `+0.25` per tick).
+
+* **Nighttime Light Sources:** Standing near light sources at night within a 12-block radius helps dispel darkness:
+
+* **Lava:** `0.9` (Very High)
+
+* **Campfire / Soul Campfire:** `0.8` (High) *(+0.3 special bonus)*
+
+* **Beacon (Light block):** `0.8` (High)
+
+* **Glowstone / Shroomlight / Sea Lantern:** `0.7` (High)
+
+* **Lantern / Jack o' Lantern:** `0.5` (Medium)
+
+* **Torch / Soul Torch:** `0.4` (Medium)
+
+* **Fire / Powered Redstone Lamp:** `0.3` (Low)
+
+* **Redstone Torch:** `0.2` (Very Low)
+
+* **Food & Consumables:** **High-tier / Cooked food** (Golden apples, cooked meats, cake, soup) restores **`+10`**. Basic food restores **`+5`**. Dried kelp restores **`+2`**.
+
+* **Handheld Items & Music:** **Holding flowers** in the main or off-hand adds `+0.5`. **Standing near an active Jukebox** playing music adds `+1.5`.
+
+* **Mobs & Allies:** **Pets & friendly animals** (cats, dogs, sheep, parrots, villagers) grant comfort (`+0.1` to `+0.3`). **Nearby players or team members** grant up to **`+1.0`**.
+
+* **Special Structures:** **Beacons** (Iron, Gold, Diamond) restore `+3` to `+10`. **Emerald Beacons** double (`x2`) the recovery effect. **Honey Drips** from nectar-carrying bees have a chance to instantly restore **`+20`** Sanity.
+
+### Factors that DECREASE Sanity (-)
+
+* **Time & Weather:** **Nighttime & Midnight** outdoors drains Sanity (`-0.3` to `-0.8`). Midnight adds an extra `-0.4`. **Bad weather** (Dusk `-0.1`, Rain `-0.2`, Thunderstorms `-0.4`) further reduces Sanity.
+
+* **Monsters & Bosses:** **Mobs & Undead** nearby drain Sanity based on threat level and crowd density (`-0.3` to `-0.7`). **Bosses** (Warden, Wither) apply massive psychological pressure, multiplying the threat factor by `1.5` (`-0.5` to `-1.5`).
+
+* **Poor Quality Food:** **Raw meats** drain **`-5`**. **Rotten flesh, spider eyes, pufferfish, and poisonous potatoes** drain **`-15`**.
+
+* **Dangerous Actions:** **Excessive swimming or swimming at night** drains **`-2 per second`** and causes exhaustion.
+
+* **Low Sanity Penalties & Death:** **Self-harm:** Below 20 Sanity, players risk hurting themselves (`-1` health). **Total Depletion (Sanity = 0):** The player instantly suffers **`2000`** lethal damage, broadcasts a death message, and resets Sanity.
+
+---
+
+## MO TA TIENG VIET
+
+> **Tac gia:** FEBERNAISYSTUDIOS
+
+> **Nhom phat trien:** Hac Long Studios VN
+
+> **Discord:** [Tham gia Discord](https://discord.gg/CdjYgGN85d)
+
+> **YouTube:** [Kenh YouTube](https://www.youtube.com/@Nova_Sky_004)
+
+Chao mung ban en voi **Sanity System Addon**! Addon nay mang lai trai nghiem sinh ton kinh di ich thuc cho Minecraft Bedrock Edition thong qua he thong o tinh tao (Sanity tu 0 en 100). Duoi ay la chi tiet cach thuc hoat ong cua he thong:
+
+### Cac yeu to lam TANG Sanity (+)
+
+* **Giac ngu:** **Ngu tren giuong** giup hoi phuc tuc thi ve **100 Sanity**.
+
+* **Moi truong & Thoi gian:** **Ban ngay / Binh minh** ung ngoai troi quang may tanh giup tang nhe tu `+0.15` en `+0.25` moi tick.
+
+* **Anh sang ban em (Light Sources):** ung gan cac khoi phat sang ban em trong ban kinh 12 blocks giup xua tan bong toi (gia tr

@@ -1,0 +1,45 @@
+Family life - Have a family within Minecraft, this addon replaces the villagers in the world with NPCs and adds several interactions. With the remake of the addon it will be possible to do even more things, have even more interactions, compatibility with other addons, multiplayer and an improved and more intuitive UI.
+
+HOW TO USE
+
+To start an interaction with an NPC by long clicking on the screen, press the right button or the respective command. One disadvantage is that it is necessary to hold any item for the interaction to begin.
+
+The new interaction screen is very intuitive and simple to use, just press or click the button
+
+STATUS
+
+The stats increase as you interact with the NPC and depending on the level of intimacy you have with him the outcome of the interaction may change.
+
+Romantic
+
+Romantic status increases by flirting, and with this high status the chance of interactions like getting married going well increases.
+
+Friendship
+
+The friendship status increases by talking, with this high status it is possible to have a discount on exchanges, it is easier to get other statuses.
+
+Once you have a high level of friendship with the npc, you can see their status on the left-hand side of the interaction screen
+
+Personality
+
+Personalities are traits that NPCs are born with. They directly affect interactions with the npc, giving each one more originality.
+
+For example, an npc with the "romantic" personality has an easier time raising romantic status.
+
+Available translations [PT-BR, ENGLISH, SPANISH, Traditional Chinese, Simplified Chinese]
+
+CREDITS
+
+Thanks to nextplumestudio for the Traditional Chinese and Simplified Chinese translations.
+
+- mcpedl: https://mcpedl.com/user/nextplumestudio/
+
+Special thanks to Cleora for allowing me to use her amazing skins in my project.
+
+You can find her work and support her on the following platforms:
+
+- Minecraft Skins: https://www.minecraftskins.com/profile/3625549/cleora
+
+- Planet Minecraft: https://www.planetminecraft.com/member/cleora
+
+- Discord: https://discord.com/invite/kXXtAcFmgY

@@ -1,0 +1,17 @@
+Enhanced Vibrant Visuals transforms your Minecraft Bedrock world with enhanced atmospherics, biome specific volumetric fog, full PBR textures, dynamic particles and custom color grading all built on top of the Vibrant Visuals graphics mode.
+
+A complete visual overhaul for Minecraft Bedrock Vibrant Visuals.
+
+What's Inside?
+
+-Unique Atmospherics: Overworld, Cherry Grove, Nether, Warped Forest, and The End.
+
+-Biome-Specific Fogs: Cherry pink, birch gold, desert heat haze, jungle mist, deep dark void, swamp murk, ice chill, mesa dust, and more, each with separate air, water, and weather distances.
+
+-PBR Texture Sets: Full heightmaps, normal maps, and MER data via the High resolution subpack. Covers all ores, deepslate variants, water, lava, lanterns, torches, sea lantern, and more
+
+-Enhanced Particles: Reworked leaves (biome tinted, cherry, pale oak), snowflakes with custom crystal atlas, rain splash, fire/flame variants, torch & candle bloom glow effects, lava embers, enchanting table, end rod, totem, spore blossom, mycelium dust, water splash/wake, campfire smoke.
+
+Enhanced Vibrant Visuals is made for new Vibrant Visuals and will work on IOS, Android, Xbox, PlayStation and Windows.
+
+Screenshots taken with Enhanced Vibrant Visuals:

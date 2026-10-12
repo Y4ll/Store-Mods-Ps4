@@ -1,0 +1,37 @@
+Introducing New X Blissful HDR
+
+An improved shader that enhances the original Newb X Blissful and takes it further by improving everything to make it more realistic than ever .This pack offers many features including an improved sky, atmospheric fog, improved lighting and shadows, improved end and even more features.This shader will transform your Minecraft world to be extraordinary.This shader aims for a more realistic and cinematic look.
+
+This shader includes:
+
+- Enhanced night and noon sky colors
+
+- Improved Moon and Sun colours
+
+- Improved shadows
+
+- Added side block shadows
+
+- Improved torch lighting
+
+- Improved bloom around Sun and Moon
+
+- Improved the night sky
+
+- Improved night sky aurora
+
+- Updated tonemapping
+
+- Added new end sky
+
+- More atmospheric fog and lighting
+
+- More cinematic visuals
+
+- Square fluffy clouds
+
+- And so much more
+
+This shader requires MB LOADER to work.
+
+Supports 26.30+

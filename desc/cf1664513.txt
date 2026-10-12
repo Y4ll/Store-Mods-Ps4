@@ -1,0 +1,33 @@
+Description
+
+The Stalkers+ is a Minecraft Bedrock horror add-on designed to make you feel like you are never truly alone.
+
+Different Stalkers can appear through a variety of creepy and unpredictable events. Some silently watch from a distance, peek through windows, hide around corners, appear near doors, or stalk you from the darkness. Others are far more dangerous and may begin hunting or chasing you.
+
+The add-on includes multiple unique Stalkers, custom models, textures, animations, sounds, behaviors, and scripted horror encounters.
+
+Features include:
+
+Multiple Stalker entities
+
+Random stalking events
+
+Window and door encounters
+
+Distant and close-up appearances
+
+Cave encounters
+
+Chase and hunting events
+
+Creepy ambient encounters
+
+Custom animations and models
+
+Custom sounds and effects
+
+Special event commands
+
+Unpredictable horror gameplay
+
+You never know which Stalker is watchingor when the next encounter will begin.

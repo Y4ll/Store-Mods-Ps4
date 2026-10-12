@@ -1,0 +1,3 @@
+This addon has subpacks, and you can adjust the saturation settings before entering the world.
+
+(join discord for feedback and news)

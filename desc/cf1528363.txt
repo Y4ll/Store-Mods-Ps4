@@ -1,0 +1,55 @@
+Change the in-game experience point (EXP) format to the current RGB format.
+
+English Description
+
+RGB XP Bar New Smooth Animated UI for Bedrock
+
+Elevate your Minecraft Bedrock UI with a vibrant, beautifully animated RGB experience bar! This lightweight resource pack transforms the boring vanilla XP bar into a dynamic, shifting rainbow color spectrum that responds perfectly in-game.
+
+Key Features:
+
+Smooth RGB Animation: Continuous, high-quality color transitions that look stunning at any resolution.
+
+Creative Mode Friendly: Smart UI logic ensures the XP bar cleanly disappears when entering Creative mode, keeping your screen clutter-free.
+
+Pure Client-Side: Zero behavior packs required! Works flawlessly on servers, Realms, and single-player worlds without disabling achievements.
+
+Optimized Performance: Lightweight JSON and flipbook implementation designed specifically for mobile (Android/iOS), Windows, and consoles without FPS drops.
+
+Compatibility & Installation:
+
+Compatible with Minecraft Bedrock (Pocket Edition, Windows 10/11, Xbox).
+
+Simply download the .mcpack, open it to import, and activate it in your Global Resources!
+
+Place it near the top of your active packs to ensure it overwrites standard UI elements.
+
+Thank you for over 20,000 downloads! If you love the smooth spectrum, don't forget to leave a comment and rate the pack!
+
+RGB XP Bar New XP Bedrock
+
+(XP Bar) ! RGB Minecraft
+
+:
+
+RGB : (Smooth Transitions) UI
+
+Creative: UI XP
+
+Client-Side 100%: Behavior Pack! , Realms (Achievements)
+
+: JSON (FPS) (Android/iOS)
+
+:
+
+Minecraft Bedrock (PE, Windows, Consoles)
+
+.mcpack Global Resources
+
+20,000 !
+
+Advantages: When added to the game, it will enhance the experience point (XP) display with a beautiful rainbow effect.
+
+How to use: Once you've finished downloading the game and it shows "download complete," you can add it to the Global Resource Pack and Resource Pack in your desired world. There are also settings for selecting game textures and action & stuff.
+
+Pack by: gmuikfsrun

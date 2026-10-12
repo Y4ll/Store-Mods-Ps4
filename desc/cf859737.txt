@@ -1,0 +1,25 @@
+This resource pack adds a curated selection of paintings to the game from our Texels Paintings mod. While the original mod is only available to Java players we want our content to be enjoyed by as many players as possible so we have created this bedrock compatible resource pack.
+
+FaQ
+
+Can I use this on Win10, iOS/Android, or console?
+This resource pack should be compatible with all bedrock editions of the game. Some platforms like consoles may require a realms subscription or third party tools to load third party resource packs.
+
+Does this replace the vanilla paintings?
+Unfortunately this resource pack does replace the vanilla paintings. We are interested in creating an addon that can add paintings without replacing the existing ones but this largely depends on Mojang adding support for this to the game. We are committed to making our content enjoyable by as many players as possible and will revisit this once it is feasible.
+
+Can you add a new painting?
+Unfortunately not. We are limited to the amount of vanilla paintings in the game and the pack currently uses up every painting slot, including the hidden elemental painting variants.
+
+Can I use this in my videos or live streams?
+Yes you can use our paintings in your videos and live streams provided that you do not claim ownership of the paintings pack and provide us credit.
+
+Support the Project
+
+Like our project and want to support us? That's awesome! You can support us in the following ways.
+
+- Leave a comment on our page.
+
+- Share the project with your friends.
+
+- Post screenshots of your builds and videos using our project.

@@ -1,0 +1,59 @@
+About
+
+Adds ESP to your game, allowing to see all mobs, chests, shulkers, bases and players. Helps to find treasures and mobs.
+
+Features:
+
+- No "Inverted look" like in other ESP packs
+
+- Works with Vibrant Visuals and Actions & Stuff
+
+Subpacks:
+
+- Default (All Entities)
+
+- Players Only
+
+- Chest + Shulker + Bed
+
+- Hive Bux
+
+Try out
+
+- PandaMine's VIbrant Visuals Unlocker
+
+- White + 3D Block Outline
+
+Requires:
+
+- Mip Mapper
+
+If you're reviewing or sharing this mod, please only use CurseForge link!
+
+Restart game after changing subpack.
+
+Showcase
+
+Disclaimer: Using this pack can get you banned on servers.
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 80% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+Contact
+
+Discord: pandamine5x
+
+Follow for more packs!

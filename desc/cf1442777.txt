@@ -1,0 +1,67 @@
+Introduction
+
+Clear Vision is a lightweight, survival-friendly Bedrock Addon that gives you total control over your sight without messy commands or bulky equipment. No more carrying stacks of torches or brewing endless potions clarity is just a double-tap away.
+
+Showcase
+
+Achievement Friendly
+
+Unlike most addons, Clear Vision is built with specific metadata that allows you to use it in your world without disabling Xbox Achievements. Stay rewarded while you play!
+
+How to Use
+
+The activation logic is built to be intuitive and prevent accidental triggers. To toggle your vision, perform the following "Double Crouch" combo within 1 second (20 ticks):
+
+- To Turn ON: Look directly UP at the sky and crouch twice quickly.
+
+- To Turn OFF: Look directly DOWN at the ground and crouch twice quickly.
+
+Note: You must look at a steep angle i.e. straight up or straight down
+
+Features
+
+- Action Bar Notifications: Smooth "Night Vision: ON/OFF" text appears above your hotbar when toggled.
+
+- Sound Feedback: A subtle chime confirms when your vision changes.
+
+- Vanilla Feel: No new items or crafting recipes required.
+
+- Multiplayer Ready: Works perfectly on dedicated servers and Realms.
+
+- 1.21+ Support: Fully updated with the latest player components (including Raid Omen support).
+
+Installation
+
+-
+
+Download the .mcpack file.
+
+-
+
+Double-click to import it into Minecraft Bedrock.
+
+-
+
+Add the Clear Vision Behavior Pack to your world.
+
+Note: Works best with 1.21+
+
+Why choose Clear Vision?
+
+Most Night Vision addons are either "always on" or require you to type commands. Clear Vision gives you the power to choose when you see in the dark using a natural movement combo that feels like a part of the vanilla game.
+
+Compatibility
+
+This addon modifies the player.json file. If you are using other addons that change player behavior (like sitting, crawling, or custom health) It might cause issues, ensure Clear Vision is at the top of your Behavior Pack list. It is compatible with all 1.21+ vanilla features.
+
+Community & Feedback
+
+Thank you for choosing Clear Vision! This project was designed to make the Minecraft experience more fluid and accessible, and I truly appreciate everyone who downloads and tries it out.
+
+- Found a bug? If the double-crouch feels unresponsive or if you encounter any "floating" issues, please let me know!
+
+- Have a suggestion? If you have ideas for new toggle gestures or other utility features, Id love to hear them.
+
+- Support: If you enjoy the addon, a rating or a comment goes a long way in helping others find it.
+
+Please leave a comment for any issues, feedback, or just to let me know it's working for you! I will do my best to respond and keep the addon updated with the latest Minecraft versions.

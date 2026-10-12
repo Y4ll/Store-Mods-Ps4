@@ -1,0 +1,71 @@
+Flux Dynamic Light
+
+A lightweight, high-performance, and lag-free dynamic lighting addon built specifically for Minecraft Bedrock Edition (1.21.x+).
+
+Tired of placing hundreds of torches while mining in dark caves? Just hold a torch, lantern, or any light-emitting item in your hand or off-hand, or toss it into a dark ravine, and watch the world illuminate around you smoothly in real time.
+
+Important: no experimental toggles are required to use this addon. However, due to a recent Minecraft update, any behavior pack installed from outside the official Marketplace disables Xbox Achievements/Trophies in that world, regardless of experimental toggles. This addon is NOT achievement friendly. If keeping achievements matters to you or your players, keep this in mind before installing.
+
+What's New in v1.0.1
+
+- Added a Lock Settings (Operator Only) toggle: world owners and server admins can lock settings so regular players can't tamper with the configuration, preventing config-stick spam on multiplayer/SMP worlds.
+
+- Added full dynamic lighting support for Copper Torch and Copper Lantern.
+
+- Added full support for Copper Bulb (all oxidized and waxed variants) and Chemistry/Colored Torches.
+
+- Enhanced the in-game Settings UI contrast for clearer readability on all screens.
+
+- Cleaned up the config stick's tooltip text.
+
+Highlights
+
+- No Experimental Toggles Required: no need to enable Beta APIs, Holiday Creator Features, or any other experimental toggle. Just activate the packs and play. Note: achievements will still be disabled in that world since this is a non-Marketplace behavior pack.
+
+- Centralized Lag-Free Engine: built with an optimized single-loop scheduler and smart player-priority suppression, so dropped items and multiplayer lighting won't cause block-update lag or stutter, even on large servers or Realms.
+
+- 100% Vanilla Safe Menu: the settings menu is accessed with a regular vanilla stick named fluxmenu (or via /scriptevent flux:get_config), no risky custom items that break on game updates.
+
+- Admin Lock Settings: server owners can lock the config menu to operators only, keeping settings consistent across Realms and SMP servers.
+
+Features Overview
+
+- Dynamic Hand Lighting: walk around dark caves with light seamlessly following you.
+
+- Full Off-hand Support: hold a pickaxe or sword in your main hand while lighting up caves from your off-hand.
+
+- Quick Off-hand Switch: right-click/hold a light source into the air to instantly swap it into your off-hand.
+
+- Dropped Items Lighting: toss torches or glowstone down ravines or deep pits to inspect the bottom before jumping down.
+
+- Smart Light Prioritization: automatically prioritizes the brightest source between mainhand and offhand, preventing flickering between nearby players and dropped items.
+
+- Interactive 2-Level Settings UI: complete control over light settings, active dimensions, dropped item limits, and auto-offhand mechanics.
+
+Supported Items & Light Levels
+
+Light Level
+Supported Items & Blocks
+
+Level 15 (Maximum)
+Lava Bucket, Lantern, Campfire, Glowstone, Shroomlight, Sea Lantern, Beacon, End Rod, Conduit, Jack o'Lantern, Copper Bulb (all variants), Froglight (Ochre, Pearlescent, Verdant)
+
+Level 13 (Standard Torch)
+Torch, Soul Lantern, Copper Lantern, Soul Campfire, Candle (plain and all 16 dyed colors), Sea Pickle, Colored Torches (Green, Blue, Purple, Red)
+
+Level 11 (Medium-High)
+Soul Torch, Copper Torch (full dynamic lighting support), Crying Obsidian
+
+Level 9 (Medium)
+Redstone Torch, Fire Charge, Totem of Undying, Nether Star, Ender Chest, Enchanting Table, Sculk Catalyst
+
+Level 6 (Soft Glow)
+Blaze Rod, Blaze Powder, Glow Ink Sac, Glowstone Dust, Dragon's Breath, Glow Berries, Magma Block, Enchanted Book, Eye of Ender, Bottle o' Enchanting, Brewing Stand, Redstone Dust, Repeater, Comparator
+
+In-Game Settings Menu
+
+How to Open
+
+- New players automatically receive a stick named fluxmenu on first join.
+
+- Right-click/long-press the stick to open the Flux Settings Menu

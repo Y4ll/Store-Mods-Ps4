@@ -1,0 +1,51 @@
+Ascendant: Vocation is a profession expansion for Ascendant: Mastery. Choose one active job, earn profession XP from supported activities, and advance through a custom jobs interface while profession level-ups feed the core Mastery progression loop.
+
+Ascendant: Mastery is required. Ascendant: Sustenance is optional and adds shared navigation when installed.
+
+- Eight professions: Lumberjack, Miner, Farmer, Warrior, Builder, Smither, Fisher, and Brewer.
+- One active profession at a time.
+- One hundred levels per profession with persistent XP and level data.
+- A job-change cooldown that prevents constant profession switching.
+- Custom job icons, progress bars, status information, and translated UI text.
+- Bedrock-detectable block breaking, block placing, and entity kills award profession XP.
+- Existing legacy saves migrate automatically without changing job IDs or losing progression.
+- Integrated Mastery and optional Sustenance navigation.
+- Profession level-ups award vanilla experience, which Mastery converts into progression XP through its normal XP observer without duplicate awards.
+
+Open the Vocation screen and select a profession. Only the active profession receives XP. Leaving or changing a job starts the configured cooldown. Previous profession levels and XP remain saved.
+
+Some Java activities, including exact crafting, fishing, brewing, enchanting, and anvil-output completion, do not expose reliable stable Bedrock completion events. Vocation does not award guessed XP from inventory changes. Compatible addons can award exact XP through the included Script Event API.
+
+- Run /asc:vocation.
+- Open it from the Vocation tab in the Ascendant: Mastery interface.
+
+1. Import the included behavior pack and resource pack.
+2. Install and activate Ascendant: Mastery's behavior and resource packs.
+3. Activate both Vocation packs on the same world.
+4. Back up an existing world before updating.
+
+- Minecraft Bedrock 1.26.40
+- Both the Ascendant: Vocation behavior pack and resource pack are required.
+- Ascendant: Mastery is required; Vocation is an expansion for it.
+- Ascendant: Sustenance is optional.
+
+Extensions now use simple break, place, and kill lists with readable job names and XP amounts:
+
+{ break: "myaddon:ruby_ore", job: "miner", xp: 5 }
+{ place: "myaddon:ruby_block", job: "builder", xp: 2 }
+{ kill: "myaddon:forest_monster", job: "warrior", xp: 10 }
+
+Existing employment checks and XP multipliers still apply. These lists add actions to the eight existing professions; they do not create new jobs or detect crafting, fishing, or brewing completion.
+
+An inactive, ready-to-copy extension_template is included inside the behavior pack. Edit scripts/lists.js; the supplied script handles registration, retries, and readable error messages automatically. Follow extension_template/START_HERE.txt to copy the template out, rename its manifest, and assign unique UUIDs.
+
+The shared template supports all three Ascendant addons and multiple mandatory Mastery skill requirements. It includes Add-On metadata, an editable author field, and a direct dependency on Vocation 1.0.5. If you use other addon lists, also add those addons as dependencies. Vocation-only extensions do not require Mastery. Metadata alone does not guarantee achievements; Minecraft world eligibility still applies.
+
+BREAKING CHANGE: The old v1/v2 extension APIs and registration events are removed. Existing extensions must be recreated using the new lists. Use replace: true when intentionally changing a built-in XP action, and reload the world after editing lists.
+
+- /asc:vocation_job manages profession levels.
+- /asc:vocation_add_xp awards test XP to an employed profession.
+- scriptevent asc:vocation_diagnostics reports persistence, cooldown-write, and extension health.
+- See EXTENSION_API.md and extension_template/START_HERE.txt in the behavior pack for extension setup and
+
+This is a Bedrock rewrite, not a direct Java mod loader conversion. Vocation uses reliable stable Bedrock events

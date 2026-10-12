@@ -1,0 +1,67 @@
+A new fungal infection has arrived in Minecraft Bedrock smile fungus the planet, it has arrived in... meteors? You must be careful not to fall into madness since there are many infected... EVERYONE WILL BE HAPPY Compatible with Minecraft Bedrock 1.21.21+ onwards(no experimental functions needed)THIS IS A BETA VERSION subject to change but is completely playable in survival; IF YOU WANT TO MAKE A REVIEW PLEASE PLACE THE LINK TO THIS PUBLICATION OR THE YOUTUBE TRAILER, this way you will help me so that the addon reaches more people and I can work more on it.
+
+Hey, I'm still alive, or so I think... I've been feeling very happy lately, but previously I was locked in my room and that's why there was no progress on the projects... until I started to see the world in a different way... now I want to make people happy. everyone... he has given me that mission, the fungus... the spores...
+
+This is... THE SMILE FUNGUS ADDON
+
+This addon is based on the analog horror series of the same name, only you know Xaier G likes to add extra things, so let's see what this first beta version brings us:
+
+THE INFECTION:
+
+The fungus apparently arose from an extraterrestrial pathogen, which came to Earth through meteors, during the extinction of the dinosaurs, here in Minecraft you will see it like this:
+
+Meteors do not cause explosions, but they leave fungus smile blocks which will infect your world.
+
+small meteor
+
+large meteor
+
+THEY WILL ONLY APPEAR IF YOUR WORLD IS IN HARD MODE
+
+Mycotalamus Meteor
+
+This will only appear on burnt Smile Blocks, which are created by launching Fungus Bombs or being hit by missiles. The meteor will leave the flowers open, which could turn into a BRAIN if not destroyed.
+
+Humans can be infected through smile spores.They will have stages and variants:
+
+the happier, the more aggressive
+
+And what happens to the BRAIN SMILE? Well, this video shows the evolution of the block, which will create several shells to defend itself and turrets with eyes that will attack the player. It will also summon neurophages to defend the brain. If the player remains within the brain's range for 2 minutes, the MYCOTALAMUS, the guardian, will be born.
+
+CITIES
+
+These are spread like a biome around the world, with imposing buildings that use 5 different combinations to generate procedurally. There are many resources inside, but missiles will also rain down. Don't worry, they don't do much damage, but they do destroy the Smile blocks by burning them.
+
+SMILE FUNGUS BIOME
+
+There are parts of the world transformed into biomes where the most advanced infected spawn naturally, along with the Smile flowers and turrets.
+
+Synaptic Catalyst
+
+This will be a reward for destroying the Smile Fungus Brain. It is crafted using the Neuroa fragment dropped by the Mycotamus upon defeat, along with Brain Blocks that fit inside the dome. Additionally, to use it, you must wear the Smile Fungus Hat Brain, which is also crafted with Brain Blocks. This item will allow you to perform a knockback attack on Smilers and generate Neurophage allies, which will follow you if you hold it.
+
+HUMAN INFECTION
+
+Variant A (the most common at first):
+
+After the third stage, the infected person will age rapidly and die to spread the infection.
+
+It has a child variant
+
+Variant C (the most dangerous, apparently)
+
+It arises from some infected with Variant A in its 3rd stage, instead of dying, it will continue to mutate, with low probability
+
+It has a child variant
+
+In stage 5, the infected can leave a Smile Fungus Eye Fragment
+
+In stage 7, the most aggressive, it will have a ranged and melee attack; the infected can leave a Smile Fungus Hearth Fragment
+
+Exploter variant (not canon but rare to see)
+
+When the infected die, they can leave their corpse, which will begin to spread the smile fungus blocks, and will give the wither effect to players who do not have masks equipped.
+
+-Variant B will be implemented in a future update...
+
+-It is being evaluated that other humanoid vanilla mobs (villager,

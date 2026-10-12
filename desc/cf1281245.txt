@@ -1,0 +1,29 @@
+Instant Build Addon!!
+
+Spawn The Build Where Ever You Like!
+
+How to Use:
+
+Open the Creative Menu and grab the "Build Ball"
+
+Right-click to spawn the build.
+
+The build will generate starting at your height and expand upwards, extending to the southeast.
+So plan the placement carefully!
+
+(Maybe Use A Practice World First) There Is No Undo!
+
+Troubleshooting!
+
+Large Builds May Cause Performance Issues On Weaker Systems!
+
+If A Build Doesn't Spawn Fully:
+
+Respawn the build in the same location and stand near the gap to ensure it fills in.
+Alternatively, Set your simulation distance to 12 or as high as possible to allow the build to load properly!
+
+Let Me Know If You Have Any Issues In My Discord Kittys Builds!*
+
+Want More Builds? Also Check in My Discord I Have Over 700+ Builds For Bedrock!
+
+https://discord.gg/aujyATgMVy

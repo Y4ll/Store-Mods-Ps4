@@ -1,0 +1,51 @@
+The CUTEST Add-on in Minecraft is here!
+
+This Add-on is an authorized Minecraft Bedrock port of Popular Biology / Chiikawa Java Mod created by Dwinovo.
+
+This mod brings some of the internet's most beloved and trending characters into Minecraft tameable little friends, a job system that lets them work on their own, and a music box that plays your very own songs(Coming soon!). These pets, complete with exquisite models and unique sound effects, can fight alongside their owners, adding a new layer of excitement to your adventures.
+
+v1.2 LATEST Update (Support 1.21.2 - 26.40+):
+
+1) Adds Ulayaha effect, obtainable by eating a Glow Berry. Feed it to tamed cute creatures, and they will glow.
+
+2) Added mod Config tool to enable optional Dynamic Light and adjust explosion intensity.
+
+3) Adds Dynamic Light (optional).
+
+4) More language supprt: English, Deutsch, Espanol, Francais, Portugues, Italiano,
+
+Key Features
+
+Taming and Interaction: Each creature in this mod can be tamed using specific items. For example, "Hachiware" can be tamed with a "Cornflower," while "Chikawa" requires a "White Tulip." Once tamed, these pets will follow and assist you in battles. Author Note: In the recent update, creatures can be tamed with ANY COOKED FOODS, such as Bread and Cooked beef.
+
+Job System:
+
+1) Farmer: Equipped with a hoe, with any vanilla seeds in backpack. Pets will help you sow seeds and harvest mature crops.
+
+2) Swordman: Equipped with a sword. Pets will help you automatically attack hostile mobs such as monsters, except creepers.
+
+3) Archer: Equipped with a bow. Pets will help you automatically shoot hostile mobs with bows and arrows, except creepers.
+
+Detailed Models and Exclusive Sounds: Every creature in the mod is carefully modeled and equipped with distinct sound effects, creating an immersive and visually pleasing experience.
+
+Combat Companions: Your tamed pets arent just companionsthey are also powerful allies in combat. Each creature has unique abilities. For instance, "Usagi" inflicts a fire effect on enemies, while "Hachiware" adds extra knockback power.
+
+Exclusive Weapons: Each pet comes with its own special weapon, which can be equipped by Shift + Right-clicking on the pet. These weapons enhance their combat abilities, like the "Hachiwares Hunting Stick" increasing knockback or "Usagis HuntingStick" adding fire damage and explosion.
+
+Once tamed, pets can be commanded to sit, stand, and they will assist you in battle, making them both loyal companions and fierce fighters.
+
+NOTE1: PLEASE DO NOT REUPLOAD THE ADD-ON TO ANY OTHER WEBSITE. You are allowed to make videos, but please ensure ONLY sharing this curseforge link when forwarding to anyone else: https://www.curseforge.com/minecraft-bedrock/addons/cute-pets
+
+NOTE2: 3D pixel blockbench Models created by Dwinovo. I've got his permission to make this Add-on.
+
+NOTE3: This Add-on is purely FICTIONAL and FOR ENTERTAINMENT PURPOSES ONLY. Please do not relate it to reality.
+
+- Licensed under CC-BY-NC-SA-4.0.
+
+- Art support by zoe_1000.
+
+- Chiikawa and its characters are the property of Nagano. This is a non-commercial fan project, not affiliated with or endorsed by the rights holders.
+
+Thanks for your donation and support!
+
+Patreon: https://patreon.com/weizhijs

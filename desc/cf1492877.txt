@@ -1,0 +1,108 @@
+Files Ultimine Destroy Blocks Faster Than Ever
+
+Break multiple blocks instantly tunnels, 3x3 mining, and vein mining all in one addon.
+
+Inspired by the popular FTB Ultimine mod, now in Minecraft Bedrock.
+
+Showcase
+
+Heres what the addon looks like in action
+
+- Mining 64 blocks in one click
+
+- 3x3 mining tunnels
+
+- Vein mining ores instantly
+
+- Real-time block highlight preview
+
+- Smooth and satisfying mining
+
+Tip: The highlight system shows EXACTLY what will break before you mine.
+
+What is This Addon?
+
+Files Ultimine brings Ultimine-style mining mechanics to Bedrock Edition.
+
+Instead of breaking blocks one by one, this addon lets you mine entire groups at once whether it's ores, tunnels, or full mining patterns.
+
+Perfect for survival, grinding, or just making mining feel insanely satisfying.
+
+How to Use
+
+- Sneak Un-sneak Sneak again
+
+- Ultimine activates
+
+- Switch hotbar slots to change mining modes
+
+- Look at a block to preview the area
+
+- Break once... and everything goes
+
+Tip: Different hotbar slots = different mining shapes
+
+Mining Modes
+
+- Shapeless (Vein Mining)
+
+- Small Tunnel
+
+- 3x3 Mining
+
+- Large Tunnel (3x3)
+
+- Mining Tunnel
+
+- Escape Tunnel
+
+Features
+
+- Mine up to 64 blocks at once
+
+- Real-time highlight preview system
+
+- Smart block detection
+
+- Right-Click Crop Harvesting: Harvest full fields instantly & auto-replant crops
+
+- Smart Grass & Flower Clearing: Clears non-adjacent grass & flora across uneven terrain
+
+- Works with Fortune & Silk Touch
+
+- Hunger-based balancing
+
+- Intelligent tool + block matching
+
+- Area till, shove and scrape
+
+Notes
+
+- Works in survival & creative
+
+- Requires hunger to activate
+
+- Some blocks depend on tool type
+
+- Must Turn On Beta APIs for it to work.
+
+Optimized for smooth performance
+
+Terms of Use
+
+- Do NOT reupload or redistribute
+
+- Do NOT rebrand or claim as your own
+
+- You may use in videos with credit
+
+Feedback & Support
+
+Found a bug or got ideas?
+Drop them in the comments
+
+Final Words
+
+Mining will never feel the same again.
+
+Once you use Ultimine... youre not going back.

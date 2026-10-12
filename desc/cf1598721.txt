@@ -1,0 +1,28 @@
+This texture pack is a Bedrock version of Bare Bones PBR x128 !
+
+It adds PBR to Bare Bones, which makes the game look like the Minecraft trailers
+
+I took the screenshots with Vibrant Visuals and some with Trailer Visuals
+
+Place it above the default Bare Bones in the texture pack list
+
+To properly update the texture pack, I recommend deleting the old version in game, then download and import the latest one
+
+- About emissive blocks brightness :
+I know it can be very bright when using Ray Tracing or any other shader
+Emissive blocks in this texture pack are meant to work with Vibrant Visuals (the default shader)
+Here is a small texture pack to place above BBPBRx128 that reduce the brightness for emissive blocks :
+
+- Bare Bones PBR x128 Low Brightness
+If you are playing with Vibrant Visuals, do not download this pack
+
+If you play with Actions & Stuff, here is the pack order :
+-Bare Bones & Stuff
+-Bare Bones PBR
+-Bare Bones
+-Actions & Stuff
+
+Thanks a lot to my friend Exyo who helped me making the pack on Bedrock !
+
+If you ever take nice screenshots, I could add it in the gallery !
+If you feel creative or artistic, you can send them to me : ludo_silver on Discord

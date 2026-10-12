@@ -1,0 +1,18 @@
+MY DISCORD
+
+(disclaimer the image is made by ai)
+
+Skills:
+Active Skill 1: Reaper Hand You now have a high chance to apply the Wither effect to your target
+Active Skill 2: Wither Connection Every time you kill a target, it will drop 1 Wither Skull
+Active Skill 3: Reaper Aura when you hit a mob, it will be marked with the Reaper Mark effect. Anyone affected by the mark will constantly apply the Cursed effect to nearby entities.
+Active Skill 4: Locked
+
+Passive Skill 1: Reaper Aura Visual effect only
+
+This add-on is achievements friendly.
+This add-on does not include player.json.
+This add-on does not require experimental features.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

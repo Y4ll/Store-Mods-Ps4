@@ -1,0 +1,15 @@
+Blockify's Health Indicator
+
+This pack displays the health of mobs or entities above their heads, making it easier to see how much health they have, and it works seamlessly on servers without any issues.
+
+Features
+
+- Four different health bar variations to choose from.
+
+- Displays health bars for players as well.
+
+- Fully compatible with servers.
+
+- Supports all Minecraft versions.
+
+Preview Video

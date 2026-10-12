@@ -1,0 +1,83 @@
+: I'm not a programmer, nor a designer, I just like Minecraft :D
+
+: Eu nao sou programador e nem designer, eu apenas gosto de Minecraft :D
+
+Update Notes:
+
+- New items that add a protective shield to the player.
+
+- New item with custom menu (phone)
+
+- New textured blocks.
+
+- Bug fixes
+
+Andrey's Craft Mod v1.4
+
+This mod was created by just one person and it is mainly focused on adding new Crafts and utilities to the game, but it is also focused on adding varied content to the game, expanding the experience Vanilla. :D
+
+((( Important notice: This mod was made by only one person. )))
+
+Quick tutorial '-'
+
+( Most of the items you can craft can be found in the crafting table, but here's a quick rundown of some items that aren't in the crafting table that are important! )
+
+1 - Fried egg
+
+2 Raw titanium
+
+3 Melted sugar
+
+4 CUSCUZ Cake :)
+
+5 Melted obsidian
+
+- Bosses ! -
+
+(You can summon an important boss to get some items that you don't have in the crafting tablet. It is important to summon him by placing the bottom blocks first, then the top blocks.)
+
+Forest Spirit Totem
+
+He is a flying Boss that gives the poison effect to whoever he attacks and destroys blocks around him, so it is important to take a bow and some buckets of milk (or glasses of milk!)
+
+Geode Golem totem
+
+This is the most important Boss at the beginning of the game, as he drops a crucial item for making the advanced crafting table that will expand the number of possible Crafts. He is an extremely difficult Boss and has a lot of health, so you need the best armor in the overworld to face him.
+
+Wind Wizard
+
+This wizard can be summoned using clouds. He has the ability to summon brezzes to help him and has a lot of health, but the reward is worth it :D
+
+(Obs: Do exactly as shown in the image, but place the middle block last.)
+
+- NPC's ! -
+
+- "Dae" -
+
+This NPC's name is Dae, she is an NPC that can be found in normal forests and mainly in taiga forests. She sells two important items for creating tools and some utilities. (Don't kill her!!!!)
+
+- "Tourmaline Trader" -
+
+This wandering NPC appears in the game's main forests and exchanges useful items and food for tourmaline stones!
+
+- "Revolted Creeper" -
+
+This NPC spawns in the game's main forests and plains and trades various items for gunpowder. It's a great source of gunpowder, if you know what I mean ;)
+
+IMPORTANT NOTICE:
+
+--- When creating the world, make sure to enable the experimental "BETA APIs" option. !!!!
+
+Finishing:
+
+- This addon is still in development and the goal is to create 1,000 new Crafts, so we need your help! Leave any ideas for tools or items in general in the comments!
+
+- Novas atualizacoes estao por vir!!!
+
+----- Creator profile:
+
+https://youtube.com/@andrey_klayk?si=7CJBSqxfRJBUJbKz
+
+Nota: I've been feeling a bit unmotivated about this mod because it's not giving me much results and at the same time it's a lot of work to do everything alone. If you liked the Mod, let me know! :'D
+
+Thenks :')

@@ -1,0 +1,160 @@
+Manyzz Texture Pack (Bedrock Edition) 128x Realistic
+
+Manyzz Texture Pack (Bedrock Edition) is the main and most complete version of the project.
+Designed in rich 128x128 resolution, this pack enhances Minecraft Bedrock with detailed, realistic textures while keeping the games natural charm.
+Every texture is crafted to stay faithful to vanilla color palettes, biome atmosphere, and overall Minecraft identity.
+
+Whats Included
+
+The Bedrock Edition currently offers the most complete and polished version of Manyzz Realistic 128x textures.
+It includes:
+
+Full Overworld Woods
+
+-
+
+Oak, Spruce, Dark Oak, Jungle, Acacia
+
+-
+
+Mangrove, Cherry, Pale
+
+Leaves, Doors & Trapdoors
+
+All overworld variants, fully remade.
+
+Stone & Ore Families
+
+-
+
+All overworld ores
+
+-
+
+All deepslate ores
+
+-
+
+All deepslate variants
+
+-
+
+Raw ore blocks
+
+-
+
+Sandstone & red sandstone families
+
+Terrain & Environment
+
+-
+
+Sand, red sand
+
+-
+
+Plants & vegetation
+
+-
+
+Flowers, mushrooms, crops
+
+-
+
+Natural blocks like moss, roots, bamboo, cactus, etc.
+
+Nether & End Content
+
+-
+
+Crimson & warped wood family
+
+-
+
+Soul sand, soul soil
+
+-
+
+Nether ores & ancient debris
+
+-
+
+Purpur blocks, end stone variants, chorus plants
+
+Utility & Functional Blocks
+
+-
+
+Workstations (smithing table, cartography, loom, stonecutter, etc.)
+
+-
+
+Crafting table, furnace family
+
+-
+
+Barrels, chests, beehives
+
+-
+
+Redstone components (pistons, observers, comparators)
+
+The Bedrock version contains hundreds of complete, fully polished textures, making it the richest edition of Manyzz Realistic.
+
+Difference From Java Version
+
+After comparing both packs:
+
+The Bedrock version currently includes 555 more textures than the Java version.
+
+This makes Bedrock the leader version and main development reference.
+
+Examples of textures exclusive to Bedrock right now:
+
+-
+
+Complete plant and crop families
+
+-
+
+All Nether wood blocks
+
+-
+
+Ancient debris (side + top), soul variants
+
+-
+
+All workstation blocks
+
+-
+
+Purpur, chorus, end stone family
+
+-
+
+Redstone machine components
+
+-
+
+Many decorative & natural blocks
+
+Future Java updates will gradually catch up.
+
+Goal of the Bedrock Edition
+
+To serve as the main reference for all textures, where:
+
+-
+
+New textures are developed first
+
+-
+
+Visual quality is standardized
+
+-
+
+Block families are completed before being ported to other editions
+
+The Bedrock Edition represents the full experience of Manyzz Texture Pack.

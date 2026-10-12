@@ -1,0 +1,19 @@
+Website: https://www.shivamzter.com/bedrock/stylista
+
+What is Stylista?
+
+Stylista is a procedurally made stylized theme resource pack which supports both Ray Tracing and Vibrant Visuals(PBR Deferred Rendering) mode for Minecraft Bedrock Edition, the resource pack adds a stylized feel to your game.
+
+The pack is available in 256x resolution on the store https://www.shivamzter.com/store.
+
+How do I install?
+
+You can follow this installation guide https://www.shivamzter.com/installation/resourcepack/bedrock.
+
+Is there a Java Edition version?
+
+The resource pack is also available with a lot more textures for Minecraft Java Edition, The Bedrock version is in very early state and does not have many textures as I'm just starting out and making the resource pack from scratch to follow both RTX and PBR(Deffered Rendering) format without doing any conversions from Java Edition version.
+
+Have questions or need help?
+
+If you have any questions or encounter any issues then please join the Discord server where either someone from the community or I will be happy to help you out!

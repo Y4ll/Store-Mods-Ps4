@@ -1,0 +1,46 @@
+JAWA - Just Another WAILA Add-On
+
+You're staring at a block. You know it's some kind of stone. But which kind of stone? Deepslate? Tuff? Andesite? Regular stone that's been sitting there since chunk generation, minding its own business? You don't know. You've never known. You've been mining mystery blocks for years and honestly, at this point, you're too afraid to ask.
+
+JAWA fixes that. Point at literally anything and get its name, namespace, block states, tags, and more - right there on your HUD, in real time. No menus. No wiki tabs. No squinting at textures trying to figure out if that's granite or polished granite while your friend judges you silently.
+
+But we didn't stop at blocks. Look at an entity and you'll see its health bar, armour rating, active status effects with durations, and whether it's tameable, tamed, a baby, or what item you need to breed it. Look at a chest? Here's what's inside all 27 slots rendered right on the overlay, without opening it. Hoppers, furnaces, brewing stands, droppers, even donkeys with saddlebags - if it holds items, JAWA will show you what's in it. Because apparently opening a chest is too much effort now, and honestly? We respect that.
+
+The whole thing is stupidly customisable. Pick from over a dozen hand-crafted frame styles - everything from a classic tooltip to diamond-encrusted flex frames. Adjust opacity. Change position. Set different positions for when you're sneaking. Toggle individual features on or off. Want block states only when sneaking? Done. Want entity effects hidden entirely because you don't care that a zombie has Fire Resistance for some reason? Also done. There's even a dark mode for the container UIs, because apparently we're that kind of addon now.
+
+Server admins get their own panel too. Set the defaults for new players, and lock settings you don't want people messing with. Because we all know that one player who'd set their overlay to 0% opacity and then complain it doesn't work.
+
+JAWA is what happens when "What Am I Looking At?" meets someone who took the question personally.
+
+Screenshots
+
+Block Display
+
+Looking at a block showing name, namespace, tags and block states
+
+Entity Display
+
+Looking at an entity showing name, health bar and tags
+
+Container Preview - Chest
+
+Looking at a chest showing its full inventory contents
+
+Container Preview - Furnace
+
+Looking at a furnace showing input, fuel and output slots
+
+Numeric Health Mode & Status Effects
+
+Entity display with numeric health showing HP and percentage
+
+Settings Panel
+
+The /jawa:config player settings form - admins can set defaults and lock settings
+
+Frame Styles
+
+A selection of the available frame styles
+
+Thanks to r4isen1920 for the inspiration
+https://www.curseforge.com/minecraft-bedrock/addons/waila

@@ -1,0 +1,28 @@
+The Better Dynamic Lighting addon drastically enhances your Minecraft survival experience by emitting a moving radius of light directly around the player. Perfect for miners, cave explorers, and night adventurers, this addon provides a highly immersive and realistic lighting engine without altering the beloved core vanilla feel of the game. It is fully optimized for flawless performance and seamless integration into your CurseForge worlds and modpacks.
+
+How it Works
+
+-
+
+Hold any supported light source item.
+
+-
+
+Place it in either your Main Hand or Off-Hand.
+to equip it in left hand press crouch + right click.
+
+-
+
+Walk around and watch the dark world light up automatically!
+
+Supported Light Sources
+
+This addon breatheslife into your inventory by turning standard light-emitting blocks and items into fully functional mobile flashlights. You can roam the dark utilizing standard Torches, Soul Torches, Lanterns, and Soul Lanterns right from your off-hand. It also includes dynamic light support for heavier glowing blocks and materials like Glowstone, Glowstone Dust, Sea Lanterns, Shroomlights, Froglights, and even active Campfires. Simply holding any of these items will instantly keep the darkness at bay.
+
+Achievement Friendly: This addon does not require turning on cheats, meaning you can keep earning achievements and trophies in your survival world!
+
+No Experimental Features: Enjoy a hassle-free setupno need to toggle any experimental gameplay settings or Beta APIs to make it work.
+
+Feedback & Support
+
+Your feedback helps make this addon even better! If you encounter any bugs, have suggestions for new light sources, or just want to share your thoughts, please drop a comment below. Don't forget to leave a rating if you enjoy using Better Dynamic Lighting in your worlds!

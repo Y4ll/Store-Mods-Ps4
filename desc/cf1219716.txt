@@ -1,0 +1,15 @@
+Newb X Apocalypse
+
+Shader variant that amplifies fear factor when combined with horror add-ons. Minecraft pachet needed currently shader works 1.21+
+
+Sunrise/Sunset
+
+Day
+
+Cave
+
+Nightser
+
+Compatible with Windows ISO image (here's the picture) - works for Windows
+
+Download version 1.26.0 mergen

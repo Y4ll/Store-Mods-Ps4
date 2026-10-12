@@ -1,0 +1,23 @@
+Dreamshift (Bedrock port)
+
+This is a Bedrock conversion of the Dreamshift Java mod.
+
+I didnt make the original idea I just ported it so it works on Bedrock. The main stuff is still there: the dream dimensions, the slippages (those bright vertical lights), and the Dreamcatcher Stone that chases you in Timezones and sends you back to the Overworld if it catches you.
+
+Whats in this version
+
+- Slippages that open for about a minute, play sound when they appear, then close
+
+- Dream dimensions: Mossy Rooms, Journeys Station, TIMEZONES, Unauthorized Church, Overgrowth
+
+- Dreamcatcher Stone chase in Timezones
+
+- Basic commands to force a slip or return to the Overworld
+
+Some things from the Java version might work a bit different because Bedrock doesnt support everything the same way. Structures and loading especially can feel different.
+
+Install
+
+Import the pack, enable the behavior pack + resource pack, turn on Beta APIs if needed. New world is safer for the first try.
+
+If somethings broken or missing compared to the Java version, tell me and Ill try to fix it.

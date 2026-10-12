@@ -1,0 +1,21 @@
+Do you have trouble breaking ores and logs? Would you like to break them easier and faster? Try this add-on! This add-on can easily take ore and logs!
+
+Blocks supported
+
+All ores and logs
+
+magma block, clay block
+
+How to use
+
+Sneak and the corresponding block.
+Destroy the corresponding block to use it.
+
+Support for fortune enchantment
+
+Support for silk touch enchantment
+
+If you have any questions, please join the discord server.
+Discord
+
+Dont forget to turn them on at the end

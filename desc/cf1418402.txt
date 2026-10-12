@@ -1,0 +1,73 @@
+PLEASE, READ THE ENTIRE PAGE BEFORE DOWNLOADING THE ADDON.
+
+Here we are, we made it, the Armageddon in Minecraft Bedrock is here. Will you be able to survive hell ?
+
+After committing the original sin, there is no turning back. Solar apocalypse, meteorites, tornadoes : God will lead you to a hard life. This addon aims to provide a realistic simulation of an apocalypse, making your survival increasingly difficult as the days go by. Moreover, this addon contains hundreds of new sounds, atmospheres, animals, and much more to discover as the world decays around you.
+
+Here is a non-exhaustive list of everything this addon will add to your game.
+
+A progressive apocalypse leading to destruction :
+
+To activate the apocalypse, you need to craft the 'Pandora's Box' block, then place the block and break it to summon the Totem of Armageddon. After that, you have 7 days until the whole environment turns into hell.
+
+Here is the recipe for the Pandoras box block, all the logs in the inventory are compatible with the recipe.
+
+After crafting the Pandoras box block, place the block, and then destroy it.
+
+Then, the Totem of Armageddon should appear in front of you. After this, it is no longer possible to stop the grim end that is reserved for you...
+
+The following morning, the Totem will activate, which means that the solar Apocalypse will have begun.
+
+You will have 7 days from the activation of the Totem of Armageddon to prepare for the end.
+
+Here is a detailed video on how the Totem of Armageddon works.
+
+Here are 7 days before, then 7 days after the apocalypse. IF YOU WANT TO GO OUTSIDE DURING THE DAY AFTER DAY 7, YOU MUST MAKE A FIRE RESISTANCE POTION OR YOU WILL GET DAMAGE FROM THE SUN.
+
+Here is a detailed video on the different stages of the Apocalypse, day by day.
+
+Several events that make your survival difficult :
+
+During the Apocalypse (and before the Apocalypse), you will face many events that will make your life difficult. Here is a non-exhaustive list :
+
+Here is the tornado event. Very destructive, I ADVISE NOT GETTING TOO CLOSE.
+
+Here is the damage caused by the tornadoes.
+
+Here is a detailed video on the tornado event.
+
+Here is the meteor event, also very destructive. Here are some shots of a meteorite crash.
+
+Here are examples of meteor craters. IF YOU WANT TO APPROACH THE CRATER, YOU MUST MAKE A FIRE RESISTANCE POTION, OR WAIT UNTIL THE SMOKE DISAPPEARS, OR YOU WILL GET DAMAGE.
+
+Here is what can be found inside a crater. IF YOU WANT TO GO INSIDE THE CRATER, YOU MUST MAKE A FIRE RESISTANCE POTION, OR WAIT UNTIL THE SMOKE DISAPPEARS, OR YOU WILL GET DAMAGE.
+
+Here is a detailed video on the meteor event.
+
+Here are the daily probabilities of each event occurring based on the Apocalypse level.
+
+New water bar :
+
+A thirst bar has been added to increase realism and difficulty to the game. To drink, you can either sneak and right-click with empty hands on water blocks or cows, or you can craft glass bottles, fill them, and then heat them in a furnace to obtain purified water suitable for consumption. BE CAREFUL, IF YOU CONSUME UNSAFE WATER, YOU RISK BEING POISONED !
+
+Here is the recipe for the purified water bottle.
+
+Here is a detailed video on the new water bar.
+
+New sounds for players and environments :
+
+The player is now feeling emotion and has his own sounds effects.
+
+You can change your character's voice (among male, female, or no voice) using a hermaphrodite potion that's given to you at the start of the game or after respawning.
+
+After drinking the potion, you'll see this menu. Select the desired voice. The default voice is male.
+
+You can also change the players' sounds using direct commands :
+
+/function the_end_player_voice_set_to_female --> Set the players sound effect to female.
+
+/function the_end_player_voice_set_to_male --> Set the players sound effect to male.
+
+/function the_end_player_voice_set_to_none --> Desactivate the players sound effect.
+
+You'll also find new sounds for environments, weather, and events. I won't describe

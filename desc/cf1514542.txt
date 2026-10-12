@@ -1,0 +1,15 @@
+Simple Gravestones does what it says. It simply adds gravestones.
+
+A gravestone will spawn in the nearest open space wherever you die, it will also put a message in chat saying where you died. This can be toggled off with the command /ae_sg:toggle.
+
+Once you find your gravestone, it will have your name above it and will look different depending on the dimension.
+
+Then, simply right-click, or break your gravestone to recieve your items and experience back.
+
+You can also craft each type of gravestone for decorational purposes.
+
+No experimental options needed.
+
+Works for 26.0 and above.
+
+Join the discord!

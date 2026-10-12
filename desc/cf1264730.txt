@@ -1,0 +1,119 @@
+<figure class="image"></figure>
+
+<mark class="marker-blue">All Items in the Addon</mark>
+
+Morph Item
+
+<mark class="pen-red">used to morph into mob</mark>
+
+<figure class="image image_resized"></figure>
+
+Unmorph Item
+
+<mark class="pen-red">used to remove morph</mark>
+
+<figure class="image image_resized"></figure>
+
+Randomize Morphs Tool
+
+<mark class="pen-red">used to change into random mobs</mark>
+
+<figure class="image image_resized"></figure>
+
+Ability tool
+
+<mark class="pen-red">use mob ability (if they have one)</mark>
+
+<figure class="image image_resized"></figure>
+
+<mark class="marker-yellow">ADDON DESCRIPTION</mark>
+
+Introducing AG's Morph Mobs, the ultimate Minecraft addon that unleashes your shapeshifting abilities like never before! With this groundbreaking addon, players can seamlessly transform into any Minecraft mob at their whim, opening up a whole new world of possibilities and adventures. <mark class="marker-yellow">OVER 70+ MOBS!</mark>
+
+<mark class="marker-green">MORPH ITEMS </mark>
+
+Morph Item
+
+Hold OR right-click on a mob to morph into it! This item helps you to change into the mob by going near it and striking the item to transform into it. Take on the abilities and appearance of any creature!
+
+<figure class="image image_resized"></figure>
+
+<mark class="marker-green">Crafting</mark>
+
+<figure class="image"></figure>
+
+USE PREVIEW IN GAMEPLAY
+
+<mark class="marker-green">Go Near Target </mark>
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+<mark class="marker-green">Strike Item to transform into the mob</mark>
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+Randomize Morphs Tool
+
+Use this tool to transform into a random mob! Who knows what you'll become!
+
+<figure class="image image_resized"></figure>
+
+<mark class="marker-green">Crafting</mark>
+
+<figure class="image"></figure>
+
+Unmorph Item
+
+Need to switch back to your normal self? Use the <mark class="marker-yellow">Unmorph Item</mark> to shed your disguise and return to human form.
+
+<figure class="image image_resized"></figure>
+
+<mark class="marker-green">Crafting</mark>
+
+<figure class="image"></figure>
+
+Ability Tool
+
+This amazing tool lets you harness the special abilities of the mob you're morphed into! For example enderman, snow golem, Ghast and more!
+
+<mark class="pen-red">The Player only equips this item after transforming into the mob with ability</mark>
+
+<figure class="image"></figure>
+
+<mark class="marker-green">Example, shoot snow ball with snow golem </mark>
+
+<figure class="image"></figure>
+
+Craft all the Morphing tools for ultimate control over your transformations!
+
+GAMEPLAY & SCREENSHOTS
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+And there's more to come! We're constantly working on updates to expand the features of AG's Morph Mobs. Expect even more ways to morph, use abilities, and explore the world in future updates!
+
+What's New
+
+<mark class="marker-yellow">New Item: Name Tag Remover</mark>
+
+This Item in the update basically removes the player morph when morphing
+
+<mark class="pen-red">Crafting Recipe</mark>
+
+<figure class="image"></figure>
+
+<mark class="marker-green">How To Use</mark>
+
+- Download both behavior pack and resource pack
+
+- Activate them both, <mark class="marker-pink">no need</mark> for experimental features
+
+- Have fun!

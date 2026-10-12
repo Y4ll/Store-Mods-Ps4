@@ -1,0 +1,75 @@
+Minecraft Fortify Reworked
+
+Minecraft Fortify Reworked is a large Minecraft Bedrock equipment and combat expansion. It adds ten themed armor sets, complete tool collections, specialized weapons, custom crafting materials, unique abilities, new combat mechanics, and a hostile Reaper Skeleton encounter.
+
+Both downloads are required. Install and activate the Behavior Pack and Resource Pack together.
+
+Included equipment sets
+
+- Nexus equipment and bow a green-themed armor and weapon set with custom projectiles.
+
+- Reaper equipment and scythes fear-based combat abilities and a Reaper Skeleton enemy.
+
+- Aetherite equipment and greatswords powerful gear crafted from Aetherium ore.
+
+- Warden equipment and echo staff darkness resistance, mob tracking, echo tools, and a directional staff attack.
+
+- Phantom equipment and whip invisibility-focused armor and a distinctive whip weapon.
+
+- Glowing Obsidian equipment and battleaxe glowing armor, dynamic light, strength effects, and heavy weapons.
+
+- Gilded Netherite equipment and morningstars upgraded Netherite gear, resistance, durability damage, and stun attacks.
+
+- Copper equipment and hammers enchantable copper armor, tools, and specialized hammer attacks.
+
+- Amethyst equipment and spear a complete Amethyst set with a first-person spear animation.
+
+- Emerald equipment and dagger a complete Emerald set with its own specialized weapon.
+
+Featured armor
+
+Warden Glowing Obsidian Gilded Netherite Phantom
+
+The addon also includes custom smithing templates, recipes, first-person weapon animations, directional sounds, durability-aware abilities, recipe unlocking, multiplayer-aware PvP behavior, custom blocks, and the Ability Damage enchantment system.
+
+Reworked scripting and performance
+
+Version 1.0.2 rebuilds the equipment abilities with Minecraft's scripting APIs. The rework reduces command and entity usage, improves sound positioning, updates item formats, fixes portal-related problems, and makes ability durability costs scale with the number of targets hit.
+
+Minecraft Fortify does not replace player.json, making it easier to combine with other compatible Bedrock addons.
+
+Requirements and installation
+
+- Download both the MC Fortify Reworked Behavior Pack v1.0.2 and MC Fortify Reworked Resource Pack v1.0.2 from this CurseForge project.
+
+- Open both .mcpack files to import them into Minecraft Bedrock Edition.
+
+- Apply both packs to the same world.
+
+- Enable the Custom Biomes and Beta APIs world experiments.
+
+- Place the Behavior Pack above conflicting gameplay packs if another addon changes the same items, entities, or recipes.
+
+Required experiments
+
+The pack manifests require Minecraft Bedrock 1.21.0 or newer. The CurseForge file tags should be treated as the author's current compatibility declaration.
+
+Credits
+
+- Warden Creations creator, design, textures, models, and implementation.
+
+- t17x scripting work for the Minecraft 1.21 update.
+
+- Wrint Nexus armor textures and ideas.
+
+- Kaito3020 Warden armor ideas.
+
+- Community supporters suggestions and testing feedback.
+
+Community
+
+- Warden Creations on YouTube
+
+- Warden Creations Discord
+
+Someone stole my addon and uploaded it as their own. I'm trying to take it down. But in the meantime, I apparently need to include their addon in my description to credit them https://www.curseforge.com/minecraft-bedrock/addons/mc-fortify

@@ -1,0 +1,47 @@
+This update was planned as version 1.0, but due to delays in development, we decided to release version 0.7.5 instead. Although some features are still missing, everything included in this version is very useful for survival. Keep the keys obtained from the bosses, as they will be needed to summon a boss in the next version.
+
+Features:
+
+Mobs:
+
+Passive Mobs
+
+Duck
+
+A cute mob that you can find in rivers, lakes, and the new wetland biome. This mob can swim and walk on land. However, if it's hit, it will take off flying and may despawn from your world. To prevent this, use shears on it to stop it
+from flying. When defeated, it drops meat that you can cook, and over time, it also drops duck eggs that you can throw to potentially hatch.
+
+Flagon Mysthic
+
+The Flagon Mysthic is a tameable mob that you can obtain through trades with the Stinky Medical. Once acquired, you need to give it a soul gem to bring it to life and make it your pet. This mob will follow you and can evolve using one of the forges dropped by the Unbound Elemental and the Sentinel. After evolving, the Mystic Jar will be able to trade the best armor in the addon.
+
+To activate its trading abilities, you must interact with it using a material that represents its essence. Once this is done, make sure your hand is empty to open the trading menu. Keep in mind that after activating this state, the mob will no longer be able to sit or follow youit will only trade with you. If you want it to return to its normal state, simply interact with the corresponding material again, and the Mystic Jar will resume its usual behavior.
+
+Neutral mobs
+
+Mercenary
+
+The Mercenary is a mob that spawns in ruins generated around the world and can also appear in Outcast caravans. This mob will become aggressive if you open a chest near it. There are two variants of the Mercenary: one equipped with a sword and shield, and another with a hammer. Both types will use a bow if their target is at a distance, and when their health is low, they will buff themselves, becoming a true threat in combat for a few seconds.
+
+The Mercenary will trade items with you when sitting, and you can tame it by purchasing a contract. However, keep in mind that once hired, it will no longer trade items with you.
+
+Outcast
+
+The Outcast is a peaceful mob, although it has a neutral variant. This mob travels in caravans with other mobs at night, representing a faction or its marginalized status, and can also appear in certain structures. It behaves similarly to a villager but with some additional features. One of the most interesting versions is the one with a chest, which contains very useful items for the start of your survival adventure. However, the choice of whether to respect its peaceful nature or take the resources by force is up to you and your sense of honor.
+
+Stinky Medical
+
+The Stinky Medical is a neutral mob that appears with a certain probability in houses generated in forests. This mob trades important items such as the jar. Additionally, it will sell you its mask, an herb, its wand, and a syringe with suspicious blood.
+
+If the Stinky Medical is hit, it will summon a Putrefacto to help defend itself. If the Putrefacto is defeated, the Stinky Medical will curse you with the bad omen effect and then resume trading with you.
+
+Hostile Mobs
+
+Assassin
+
+The Assassin is a hostile mob found in abandoned carts scattered throughout the world. It becomes invisible when targeting an enemy, pursuing and attacking it until it is eliminated. Upon defeat, the Assassin drops its dagger as loot.
+
+Abomination Duck
+
+The Abomination Duck is a mob that currently only appears through transformation. If you interact with a duck using the syringe with suspicious blood sold by the Stinky Medical, the duck will turn into a mutant. It can also become a mutant through the Plague's roar. In a future update, the Abomination Duck will naturally spawn in a new biome. Its main weakness is fire, and it is particularly vulnerable to sacred weapons.
+

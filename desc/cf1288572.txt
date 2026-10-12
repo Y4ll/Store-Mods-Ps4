@@ -1,0 +1,2 @@
+This texture pack retextures the original sandstone texture to the amethyst block one and changes the step, placing and dig sound to mimic it perfectly. This was made for those bridging servers that use the boring default sandstone texture.
+Have fun and enjoy ;)

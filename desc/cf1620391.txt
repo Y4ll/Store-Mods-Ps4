@@ -1,0 +1,141 @@
+Simple Danger Sensor
+
+Simple Danger Sensor is a Minecraft Bedrock add-on that automatically detects nearby hostile mobs and warns you in real time. It displays the closest hostile mob, its approximate distance, and a color-based danger indicator to help you react before enemies get too close.
+
+Designed to feel like a natural part of Minecraft, this add-on requires no setup, commands, or custom items. Simply install it and start playing.
+
+How It Works
+
+The add-on continuously scans for nearby hostile mobs around the player. Whenever a hostile mob is detected, the system automatically displays the closest threat along with its approximate distance.
+
+If another hostile mob becomes closer, the warning automatically updates to the new nearest target.
+
+When no hostile mobs are nearby, the warning disappears automatically.
+
+Danger Indicator
+
+The warning color changes depending on the distance between you and the detected hostile mob.
+
+Safe-Green
+
+- 2532 Blocks
+
+Caution-Yellow
+
+- 1524 Blocks
+
+Danger-Orange
+
+- 814 Blocks
+
+Critical-Red
+
+- 07 Blocks
+
+Supported Hostile Mobs
+
+Simple Danger Sensor detects hostile mobs from Minecraft Bedrock Edition 1.21+ including:
+
+- Zombie
+
+- Husk
+
+- Drowned
+
+- Skeleton
+
+- Stray
+
+- Bogged
+
+- Creeper
+
+- Spider
+
+- Cave Spider
+
+- Witch
+
+- Pillager
+
+- Vindicator
+
+- Evoker
+
+- Ravager
+
+- Vex
+
+- Phantom
+
+- Silverfish
+
+- Endermite
+
+- Slime
+
+- Blaze
+
+- Ghast
+
+- Magma Cube
+
+- Hoglin
+
+- Zoglin
+
+- Piglin Brute
+
+- Wither Skeleton
+
+- Enderman
+
+- Shulker
+
+- Breeze
+
+- Warden
+
+- Wither
+
+- Ender Dragon
+
+Additional hostile mobs introduced in future compatible Minecraft Bedrock versions may also be supported.
+
+Features
+
+- Automatic hostile mob detection.
+
+- Displays the closest hostile mob.
+
+- Shows approximate distance.
+
+- Color-based danger indicator.
+
+- Plug & Play.
+
+- No custom items.
+
+- No commands required.
+
+- Lightweight and optimized.
+
+- Multiplayer compatible.
+
+- No Experimental Features Required.
+
+- Achievement Friendly.
+
+Designed for Survival
+
+Simple Danger Sensor is designed to improve player awareness without changing vanilla gameplay. It does not modify mob AI, combat mechanics, loot tables, or world generation. The add-on simply provides real-time warnings, making exploration, mining, and survival safer while preserving the original Minecraft experience.
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.21+
+
+- No Experimental Features Required
+
+- Achievement Friendly
+
+Created by: MrDavid13

@@ -1,0 +1,194 @@
+Are you tired of ordinary swords? Have you seen 3d Katana? Try this add-on! This add-on adds Slash Blade! Let's face the monsters with this! Your Minecraft life should change ...!
+
+Created by: tunekeshi 2304 (programmer) 26hro (programmer)aesu12 (3D model and animation) oubi (3D model)
+
+This add-on is an add-on that adds a Slash Blade And its survival friendly.
+
+SA(Special Attack)
+
+Sa (Special Attack) is a special ability that comes out when you Long press (right click).
+
+Kill count
+
+Jumping while sneaking allows you to move forward and inflict damage
+
+ProudSoul
+
+ProudSoul is increased by killing mobs. 10 ProudSoul is reduced each time SA is used.
+
+ProudSoulMobProudSoulSA1010SA
+
+Dual wield
+
+Place the sword off-hand
+
+By using dual wield, it becomes easier to explode and raise the rank in the fourth attack.
+
+Slash blades
+
+Unsigned Katana -Deku-
+
+No SA
+
+Katana -Shirasaya-
+
+No SA
+
+Odachi --
+
+With SA
+
+Yuzuki Katana -Tukumo-
+
+With SA
+
+Rusted Katana
+
+No SA
+
+Drop from zombies
+
+Fox Moon Katana -White Fox-
+
+With SA
+
+Fox Moon Katana -Black Fox-
+
+With SA
+
+Brave Katana
+
+With SA
+
+Magic Sword -YAMATO-
+
+With SA
+
+Drop from the ender dragon
+
+Sange
+
+With SA
+
+Drop from the wither
+
+Frozen Ice Katana
+
+With SA
+
+Goken -Doutanuki-
+
+With SA
+
+Unsigned -NoName-
+
+With SA
+
+Keikoutou
+
+With SA
+
+Satana
+
+No SA
+
+Bella's Katana
+
+With SA
+
+Terrablade
+
+With SA
+
+Nihil
+
+With SA
+
+Bloody Nihil
+
+With SA
+
+Crimson Nihil
+
+With SA
+
+Crimson Cherry
+
+With SA
+
+Purgatorium Memento Mori
+
+With SA
+
+Anonymity -BambooLight-
+
+No SA
+
+Noted -SilverBambooLight-
+
+No SA
+
+Hardwood -Tagayasan-
+
+With SA
+
+Muramasa
+
+With SA
+
+Blood moon
+
+With SA
+
+Souhyou
+
+With SA
+
+Balkon -wood-
+
+With SA
+
+Balkon -rock-
+
+With SA
+
+Balkon -iron-
+
+With SA
+
+Balkon -gold-
+
+With SA
+
+Balkon -diamond-
+With SA
+
+TinyProudSoul
+
+Drop from a monster
+
+ProudSoul
+
+BladeSoulIngot
+
+BladeSoulSphere
+
+Katana Crafting Table
+
+Lower the cost of making a sword
+
+Katana Stand
+
+You can put a sword on it
+
+You can break it by tapping while sneaking
+
+Chouchin
+
+Tourou
+
+If you have any questions, please join the discord server.
+
+Discord
+
+Dont forget to turn them on at the end

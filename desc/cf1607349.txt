@@ -1,0 +1,29 @@
+Walking Spawns Random Blocks is a simple but fun Minecraft Bedrock addon that turns every step into a surprise.
+
+Whenever you walk, a completely random block is placed directly beneath your feet, creating an endless trail of unpredictable terrain. From common blocks like stone and dirt to colorful decorative blocks and rare materials, every movement transforms the world around you.
+
+Perfect for:
+
+- Challenge runs
+
+- Random world generation
+
+- Multiplayer chaos
+
+- YouTube videos
+
+- Speedruns with a twist
+
+Features:
+
+- A random block spawns under your feet while walking.
+
+- Blocks are only placed beneath the player.
+
+- Works continuously as you move.
+
+- Huge variety of possible blocks.
+
+- Great for survival and creative gameplay.
+
+Can you survive when every single step changes the world beneath you? Install Walking Spawns Random Blocks and find out!

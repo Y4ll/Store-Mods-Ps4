@@ -1,0 +1,27 @@
+English Description:
+Java Chat Add-On
+This add-on brings the familiar Java Edition chat design to Minecraft Bedrock Edition!
+Clean, classic Java-style chatbox
+Compatible with Realms and servers
+No external scripts required pure UI change
+Lightweight and optimized
+
+Installation:
+Just add this resource pack to your world or Realm. No additional configuration needed.
+
+Note:
+This add-on is purely cosmetic. It does not affect gameplay or commands.
+
+Deutsche Beschreibung:
+Java Chat Add-On
+Dieses Add-On bringt das klassische Chat-Design der Java Edition in Minecraft Bedrock Edition!
+Saubere, klassische Java-Chatbox
+Kompatibel mit Realms und Servern
+Keine externen Skripte nur UI-Anpassung
+Leichtgewichtig und optimiert
+
+Installation:
+Einfach das Ressourcenpaket zur Welt oder zum Realm hinzufugen. Keine weiteren Einstellungen erforderlich.
+
+Hinweis:
+Dieses Add-On ist rein optisch und hat keinen Einfluss auf das Gameplay oder Befehle.

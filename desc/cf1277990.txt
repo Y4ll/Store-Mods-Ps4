@@ -1,0 +1,48 @@
+When Comparing Minecraft java and bedrock, there's always one thing that stands out: The Food. Food in Minecraft Bedrock just feels off.
+In Java Edition, e
+
+Bedrock has never had this mechanic, which makes food feel kind of pointless beyond just keeping you from starving. A golden carrok, matching Java's values and behavior as closely as the scripting API allows.
+
+What saturation actually does
+
+Saturation is a hidden value that sits on top of your hunger bar. It doesn't show up on screen, but it affects two things:
+
+- It slows hunger drain. Saturation depletes before your visible hunger bar does, so eating high saturation foods like golden carrot, cooked beef, etc means your hunger bar stays full much longer.
+
+- It enables fast hu'll regenerate 1 HP every half second same speed as Java Edition. Each heal costs 1.5 saturation, so richer foods keep you healing for longer.
+
+Saturation caps at 20 and resets to 5 on death, exactly like Java.
+
+Per-food saturation values
+
+Every food item has been mapped to its Java Edition saturation value. Here's the full breakdown:
+
+9.6
+Golden le, Enchanted Golden Apple, Cooked Salmon, Cooked Mutton
+
+12.0
+Rabbit Stew
+
+Golden carrot is the highest saturation food per item, same as Java. It's worth farming.
+
+Installation
+
+- Use MCPEDL app on Mobile (Android + IOS) for ease of downloading and installing packs directly into minecraft.
+
+Restricition
+
+- When Sharing the Cot on Youtube or other platform, Give original mcpedl or curseforge link Only.
+
+- You are not allowed to reupload the project or anyrm and claim it as yours.
+
+Notes
+
+- Activatboth resource pack and behavior pack.
+
+- Cake is not supported. In Bedrock, cake is placed as a block and eaten differently. There's no clean workaround for this as of now.
+
+- The hunger drain slowdown from saturation isn't fully replicable on Bedrock due to API limitations. what this addon of the mechanic.
+
+Join the Discord server to be part of the our community or to contact me: https://discord.gg/Wvst4znsgk
+
+Made By Eyrae

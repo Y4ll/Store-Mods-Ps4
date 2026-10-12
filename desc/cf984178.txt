@@ -1,0 +1,92 @@
+Prepare yourself for the arrival of the fearsome Skeleton King and his army
+
+Version 3.0 | Bedrock 1.21.92
+
+Patreon.com/realtern
+
+What's New?
+
+A new book, a new upgrade for your skeleton sword. A combo that makes you dangerous. You can upgrade your sword at the smithing table using a template and a netherite ingot.
+
+Where to Find the King?
+
+Look for the Skeleton King's arena in the plains. There, you'll find a floating torch that summons shadows. Defeat the waves of enemies in front of the torch so it can consume them and evolve. Dialogues will appear, hinting that the King is drawing near.
+Also, each time you defeat a shadow and it is consumed by the torch, it will drop a new item called Purified Fire. This valuable resource will be useful later on for new crafting recipes.
+
+Cursed Torch
+
+When you approach the cursed torch, it will begin to summon waves of 4 shadows that will try to attack you. If you defeat them, they will be consumed or purified by the torch, dropping Purified Fire and adding 1 charge to it.
+For every 4 charges the torch absorbs, it will level up, up to a maximum of level 4. Upon reaching the fifth stage, it will summon the Skeleton King.
+
+The King
+
+The ruthless Skeleton King. Find out why he is the king of the skeletons.
+
+ABILITIES
+
+Mini Skeleton Horde:
+Summons 6 mini skeletons that attack everything. Their hits slow you down, and they explode on death, damaging non-undead. They have a shield and helmet that block damage until they break.
+
+Lightning:
+Strikes lightning at the nearest player or in a straight line. Youll see particles one second before it hits.
+
+Fire Prison:
+Sets the ground on fire around the nearest player in a # shape. A warning sound plays two seconds before.
+
+Skeleton King Phase II
+
+When the Skeleton King takes lethal damage, he starts healing and transforms his sword into a crossbow. Once transformed, he takes on a darker look, and bats spawn around him, damaging non-skeleton entities. Thats your cue to keep your distance and strike.
+Occasionally, an eye appears above him and slowly heals him. If you destroy it with a projectile, it deals heavy damage. His crossbow also shoots three arrows with Instant Damage II watch out for those.
+
+REWARD
+
+Once you have defeated the Skeleton King, he will fall, and a final lightning bolt will strike him, disarming him and releasing the great skeleton sword. Just take it; you earned it!
+
+ITEMS
+
+Skeleton Sword
+
+A powerful sword that deals 10 damage and has the ability to summon 4 skeletons to fight by your side 2 melee and 2 ranged.
+You can enchant it like a regular sword, which makes the Mending enchantment especially useful if you want to extend its durability when using its main ability.
+
+Dark Skeleton Sword
+
+The dark skeleton sword is better in every way: more damage, more durability, and it summons 6 skeletons instead of 4. Its ability also wears it down less. Upgrade it at the smithing table with a template and a netherite ingot.
+
+Necro Book: Archers
+
+Summons a wave of 4 skeleton archers. They will attack your enemies from a distance. The item has a total of 16 charges before it breaks.
+
+Necro Book: Guards
+
+This book summons 4 sword wielding skeletons. They're fast but dont have the damage potion like the ones summoned by the Skeleton King.
+
+Necro Book: Skeleton Horse
+
+You appear riding a skeleton horse automatically. It has all the traits of a normal one, but disappears if you dismount. Think of it as portable transportation.
+
+LICENCE
+
+PERMISSIONS
+
+- You can share this Add-on with your friends.
+
+- You can use this Add-on for your realm.
+
+- You can use this Add-on on a dedicated server.
+
+- You can create a video about the Add-on.
+
+- You can use it in conjunction with other add-ons at your own risk.
+
+NOT ALLOWED
+
+- You cannot change, modify, or remove the creator's information within the Add-on.
+
+- You cannot claim this Add-on as your own.
+
+- You cannot publish it on other websites or Discord without using the official Add-on link.
+
+Credits
+
+Youtube

@@ -1,0 +1,47 @@
+Simple Guns adds a few Guns to your world, very light on the animations so perfect for any device to cause Anarchy!
+
+Join the Four Worlds Studios Discord
+
+Simple Guns runs on an auto reload system, simular to how the Bow and Arrow works, as long as you have the correct ammuntion anywhere in your inventory the Gun will reload and shoot.
+
+Right Click or Long Tap to fire the Guns.
+
+Sneek to activate the scopes (If you have one equipped).
+
+You can equip a Scope on a Ammunition Bench, if you change Scope you will get the other one back.
+
+Steel Ingot
+
+Melted Copper
+
+9mm ammunition
+
+45acp ammunition
+
+5.56mm ammunition
+
+7.62mm ammunition
+
+.300 ammunition
+
+2x Scope
+
+4x Scope
+
+6x Scope
+
+Change the colour of the Dye to change the colour of the Body Armor.
+
+When you die all your loot will be kept dafe inside a Death Crate.
+
+You will be given the location so you can find your Death Crate.
+
+Simply interact with the Death Crate to retrieve all your loot.
+
+You can choose to have the Death Crate active in your world by adjusting the setting for the Behaviour Pack.
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS used in this add-on
+
+Achievement Compatible

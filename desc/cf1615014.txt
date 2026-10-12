@@ -1,0 +1,99 @@
+BSL Vibrant Visuals is my ocean pack. Deep blue water with real wave movement, the sun shimmering across the surface, and golden sunsets sitting on top of it all.
+
+What this changes
+
+Ocean
+
+Open water goes deep blue and moves properly, with the sky reflecting off the surface as it does. This is where the pack spends most of its effort.
+
+Sun on water
+
+The sun shimmers across the surface in a moving trail. Sailing toward a sunset is the single best thing this pack does.
+
+Shallow water
+
+Clear enough to see the floor through it, so beaches and rivers do not turn into flat blue sheets.
+
+Sunsets and dusk
+
+Golden light through sunset that shifts into purple as it goes down. The two tones do not fight each other, they hand over.
+
+Sky
+
+Strong blue daytime sky with crisp cloud edges, so clouds read as separate shapes rather than one flat band.
+
+Waving plants
+
+Grass and leaves move in the wind instead of standing frozen.
+
+Requirements
+
+THIS PACK IS FOR VIBRANT VISUALS ONLY
+IT DOES NOT WORK WITH MB LOADER
+
+Vibrant Visuals must be ON. This pack is built for Bedrock's Vibrant Visuals renderer. The pack will not do anything if it is off.
+
+Where to turn it on: Settings > Video > Graphics > Vibrant Visuals
+
+If that toggle is not there, your device or version does not support Vibrant Visuals yet.
+
+About my other packs
+
+I have several other shader packs on my page, and they are not recolors of this one. Each is built with its own style. The atmospherics, lighting, color grading, water and PBR are set up separately in every pack, so no two of them behave the same way in game.
+
+If you want to explore the rest, everything I have made is here:
+
+- My CurseForge profile
+
+- My MCPEDL profile
+
+Installation
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate BSL Vibrant Visuals
+
+- Turn on Settings > Video > Vibrant Visuals
+
+- If the lighting still looks the same, leave the world and load it again once
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link this CurseForge page in the description.
+
+- Use the pack in your own gameplay videos and streams. No permission needed, go ahead.
+
+- Modify the pack for your own personal use. Tweak whatever you want on your own device. The modified version has to stay with you though. It cannot be uploaded or shared publicly anywhere.
+
+- Share this page with friends or in servers.
+
+YOU ARE NOT ALLOWED TO
+
+- Upload a modified version. Editing my pack and releasing it under your own name, or claiming it as your own work, is not allowed.
+
+- Use assets from this pack in your own pack. If you want to use something from it, contact me on Discord first and ask.
+
+- Put the download behind your own link. If you make a review video, link my official project page and nothing else. No monetized links, no link shorteners, no ad links, and no direct download that you host yourself.
+
+- Reupload the pack anywhere else.
+
+FAQ
+
+The pack is not working. Nothing changed after I installed it.
+I get this comment a lot, and almost every single time the reason is the same. Vibrant Visuals is turned off.
+
+This pack only works when Vibrant Visuals is ON. That is written clearly at the top of this page. With it off, the pack loads fine but nothing on your screen changes, because there is no renderer for it to work with. The pack is not broken.
+
+Go to Settings > Video > Graphics > Vibrant Visuals and switch it on. If you cannot find that option at all, your device or Minecraft version does not support it yet.
+
+Please check this before commenting that the pack does not work.
+
+Is this the real BSL Shaders on Bedrock?
+No. It is my own pack, made from scratch, going for a similar look. BSL itself is a Java shaderpack and cannot run on Bedrock at all. See the note above.
+
+My device heats up a lot while using this pack.
+Lower your Vibrant Visuals settings in the video menu and drop your 

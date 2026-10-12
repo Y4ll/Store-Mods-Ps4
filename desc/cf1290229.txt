@@ -1,0 +1,21 @@
+Chase the Skies Panorama with Shaders (Bedrock)
+
+This is a really simple Resource Pack that adds shaders to the original panorama.
+
+The seed was discovered by the Minecraft@Home team.
+
+- Seed: 8819392414030687460
+
+- Coordinates: X=1266.666 Y=105.002 Z=-125.298
+
+- Version: Minecraft Java 1.21.5 or Minecraft Bedrock 1.21.70
+
+The shaders used are Mojang's Vibrant Visuals.
+
+Note: GUI not included.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+- Feel free to include this resource pack in your mod pack or server.
+
+- If you wish to use this pack in any form of content, please credit with a link to the original PlanetMinecraft/Modrinth/CurseForge page where you can.

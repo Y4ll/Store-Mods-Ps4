@@ -1,0 +1,111 @@
+Steam & Gears Create Mod for Minecraft Bedrock
+
+Steam & Gears brings the beloved Create mod experience to Minecraft Bedrock Edition. Build intricate kinetic networks, process items with airflow, generate steam power, and automate your world all powered by the Script API with no experimental toggles required.
+
+Features
+
+Kinetic System
+
+Build rotational networks using shafts, cogwheels, large cogwheels, and gearboxes. Every component has RPM and Stress Unit (SU) values overload your network and it stops working. Gear ratios between small and large cogwheels (2:1) let you trade speed for torque and vice versa.
+
+- Shaft transmits rotation along a single axis
+
+- Cogwheel connects perpendicular shafts and transmits rotation
+
+- Large Cogwheel 3x3 cogwheel with a 2:1 gear ratio to small cogwheels
+
+- Gearbox redirects rotation between horizontal and vertical axes
+
+- Clutch redstone-controlled disconnect for your kinetic network
+
+Power Sources
+
+- Hand Crank manual power at 32 RPM, perfect for early game
+
+- Water Wheel place next to flowing water for passive rotation (up to 16 RPM)
+
+- Steam Engine a 3-block multiblock structure that converts steam into high-speed rotation (up to 96 RPM when superheated)
+
+Fluid System
+
+Transport and store fluids with a full pipe and tank network:
+
+- Fluid Tank multiblock tanks (1x1 up to 3x3, up to 32 blocks tall). Stores Water, Lava, Milk, and Steam
+
+- Fluid Pipe directional fluid transport with precise custom hitboxes matching the visual model
+
+- Fluid Pump moves fluid through pipes based on RPM
+
+Heat your water tanks with a Blaze Burner to generate Steam the fuel for your Steam Engine.
+
+Encased Fan & Processing
+
+The Encased Fan creates airflow that pushes entities and processes items. Place specific blocks in the airflow path to unlock different processing types:
+
+- Washing (water) clean ores, dye wool, make concrete, and more
+
+- Smoking (fire/campfire) cook food items
+
+- Blasting (lava/heated blaze burner) smelt ores and glass
+
+- Haunting (soul fire) transform items with soul energy
+
+Over 100 processing recipes included. Airflow distance scales with RPM (420 blocks).
+
+Mechanical Arm
+
+The Mechanical Arm automatically transfers items between nearby containers (chests, barrels, hoppers, furnaces, shulker boxes, vaults, and more). Use the Wrench to select input and output points within a 10-block range.
+
+Blaze Burner
+
+A living machine the Blaze Burner features an animated blaze entity that looks at nearby players. Feed it fuel (blaze rods, coal, lava buckets) to increase its heat level:
+
+- Passive no fuel, ambient state
+
+- Heated red fire particles, enables blasting via fan
+
+- Superheated blue fire particles, maximum steam generation
+
+Vault
+
+Multiblock storage system build vaults from 1x1x3 up to 3x3x9 with 20 inventory slots per block.
+
+Wrench
+
+Your essential tool for configuring machines, selecting Mechanical Arm targets, and managing your factory.
+
+Technical Details
+
+- Script API powered (@minecraft/server 2.6.0-beta)
+
+- PBR textures supported for RTX-enabled devices
+
+- Custom collision boxes using Bedrock 1.26.0 array collision system pipe hitboxes precisely match their visual models
+
+- Full kinetic network simulation with RPM propagation, gear ratios, stress calculation, and overstress detection
+
+- Persistent data your networks, fluid tanks, and machines survive world reloads
+
+- Plugin API included for addon developers to extend functionality
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.0 or higher
+
+- No experimental toggles required
+
+Installation
+
+- Download the .mcaddon file
+
+- Open it with Minecraft both packs will be imported automatically
+
+- Apply both the Behavior Pack and Resource Pack to your world
+
+- Enable the "Script Eval" capability if prompted
+
+Credits
+
+Author: Lord Big Brain
+
+Build. Automate. Engineer. Steam & Gears transforms your Bedrock worlds into mechanical masterpieces.

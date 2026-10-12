@@ -1,0 +1,21 @@
+Glowing X-Ray v1.0
+
+Tired of squinting at dark cave walls hoping you spotted a diamond? Glowing X-Ray makes every ore block emit a soft glow, so valuable resources stand out clearly against stone and Deep slate no more digging past hidden treasure in the dark.
+
+This pack adds emissive, PBR-ready textures to every ore in the game: Coal, Iron, Gold, Redstone, Lapis Lazuli, Diamond, Emerald, Copper, and Quartz, plus their Deep slate variants, along with Nether Gold Ore and Ancient Debris. Each block uses custom MER (Metallic/Emissive/Roughness) maps, so the glow effect activates automatically when Deferred/PBR rendering is enabled giving your mining runs a clean, clutter-free way to spot ores at a glance.
+
+Features:
+
+Emissive glow on all overworld and Nether ores
+
+Full Deep slate ore variant support
+
+Ancient Debris included
+
+PBR/MER texture maps for realistic lighting response
+
+Simple,clean visual style no clutter, just clarity
+
+new particles added
+
+Requirements: Minecraft Bedrock 1.21.80+, with Deferred Technical Rendering (PBR) enabled for the glow to appear.

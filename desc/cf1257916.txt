@@ -1,0 +1,205 @@
+NOT AN OFFICIAL MINECRAFT PRODUCT.
+
+The classic Minecraft sounds you know and love! Mojang is constantly updating the game with new and diverse sounds, but if you prefer more of a retro flavor to your Minecraft, this pack is for you! Also, newer content have received the same treatment for consistency sake!
+
+Subpacks
+
+Options labelled under 'Classic' removes sounds to match the atmosphere of certain historical versions of Minecraft.
+
+Universal Changes / Additions
+
+Amethyst Block, Bud, and Cluster:
+
+- Uses the old stone sounds (consistency with stone)
+
+- Breaking uses glass sounds (consistency with glass)
+
+- Chime sounds are removed (consistency with glass)
+
+Ancient Debris:
+
+- Uses the old stone sounds (consistency with stone)
+
+Anvil:
+
+- Uses the old stone sounds
+
+Azalea and Leaves:
+
+- Uses the old grass sounds (consistency with grass and leaves)
+
+Bamboo, Block, and Wood:
+
+- Uses the old wood sounds (consistency with wood)
+
+Basalt:
+
+- Uses the old stone sounds (consistency with stone)
+
+Bogged:
+
+- Uses Skeleton sounds (consistency with Skeletons)
+
+Bone Block:
+
+- Uses its old sounds before the v1.16 "Nether Update"
+
+Brush:
+
+- Brushing suspicious gravel uses the old gravel sounds (consistency with gravel)
+
+- Brushing suspicious sand uses the old sand sounds (consistency with and sand)
+
+Button:
+
+- Uses its old press and release sounds before the v1.9 "Combat Update"
+
+Calcite:
+
+- Uses the old stone sounds (consistency with stone)
+
+Campfire:
+
+- Crackling uses fire sounds (consistency with fire)
+
+Candle:
+
+- Uses the old wood sounds (consistency with torches)
+
+Cave Vines:
+
+- Uses the old grass sounds (consistency with vines)
+
+Chain:
+
+- Uses the old stone sounds (consistency with stone)
+
+Cherry Leaves:
+
+- Uses the old grass sounds (consistency with leaves)
+
+Chiseled Bookshelf:
+
+- Uses the old wood sounds (consistency with bookshelves)
+
+Cloth:
+
+- Uses its old sounds before the v1.4.2 "Pretty Scary Update"
+
+Cobweb:
+
+- Uses its old sounds before the v1.21 "Tricky Trials"
+
+Copper Block and Grate:
+
+- Uses the old stone sounds (consistency with stone)
+
+Copper Bulb:
+
+- Breaking uses glass sounds (consistency with redstone lamps)
+
+- Uses the old stone sounds (consistency with redstone lamps)
+
+Cow and Mooshroom:
+
+- Uses their old sounds before the v1.4.2 "Pretty Scary Update"
+
+Creaking Heart:
+
+- Ambience is removed
+
+- Uses the old wood sounds (consistency with wood)
+
+Crossbow:
+
+- Uses bow shooting sounds (consistency with bow)
+
+Decorated Pot:
+
+- Uses the old stone sounds
+
+- Shattering uses glass sounds
+
+Deepslate, Brick, and Tile:
+
+- Uses the old stone sounds (consistency with stone)
+
+Dirt / Gravel:
+
+- Uses its old sounds before the v1.4.2 "Pretty Scary Update"
+
+Dripstone:
+
+- Uses the old stone sounds (consistency with stone)
+
+Drowned:
+
+- Uses zombie sounds (consistency with zombies)
+
+Ender Dragon:
+
+- Uses their old hurting sounds before the v1.4.2 "Pretty Scary Update"
+
+Fishing Rod:
+
+- Uses its old bobber sound from pre-release versions
+
+Flint and Steel:
+
+- Uses its old igniting sound before the v1.4.2 "Pretty Scary Update"
+
+Froglight:
+
+- Uses the old wood sounds (consistency with shroomlights)
+
+Fungus:
+
+- Uses the old grass sounds (consistency with mushrooms)
+
+Glass:
+
+- Uses its old sounds before the v1.4.2 "Pretty Scary Update"
+
+Grass:
+
+- Uses its old sounds before the v1.4.2 "Pretty Scary Update"
+
+Hanging Roots:
+
+- Uses the old dirt / gravel sounds (consistency with dirt)
+
+Husk:
+
+- Uses Zombie sounds (consistency with Zombies)
+
+Lodestone:
+
+- Uses the old stone sounds (consistency with stone)
+
+Magma Cube:
+
+- Uses Slime sounds (consistency with Slimes)
+
+Mangrove Roots:
+
+- Uses the old grass sounds (consistency with grass)
+
+Moss Block and Carpet:
+
+- Uses the old grass sounds (consistency with grass)
+
+Mud:
+
+- Uses the old dirt sounds (consistency with dirt)
+
+Mud Brick and Packed:
+
+- Uses the old stone sounds (consistency with stone)
+
+Muddy Mangrove Roots:
+
+- Uses the old dirt sounds (consistency with dirt)
+
+Music:
+
+- Plays music before the v1.16

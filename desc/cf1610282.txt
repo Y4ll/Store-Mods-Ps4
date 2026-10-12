@@ -1,0 +1,95 @@
+Description
+
+Enchanted Apple Expansion
+
+Enchanted Apple Expansion is a Minecraft Bedrock add-on that extends the progression of the vanilla Enchanted Golden Apple by introducing three new upgrade tiers.
+
+Each apple features its own custom texture, crafting recipe, rarity, and carefully balanced abilities designed for survival gameplay. Every tier is progressively stronger than the last while maintaining a fair and enjoyable survival experience.
+
+Ko-fi Link:
+
+New Apples
+
+Blessed Apple (Tier I)
+
+The Blessed Apple is the first upgrade after the Vanilla Enchanted Golden Apple. It grants improved defensive abilities and several quality-of-life effects, making it a reliable choice for exploring caves, the Nether, and early boss encounters. This apple serves as the foundation of the Enchanted Apple progression.
+
+Yellow Heart Recovery(Absorption)
+
+The Blessed Apple restores its Absorption hearts after 13 seconds without taking damage, once your normal health has fully regenerated.
+
+Mythic Apple (Tier II)
+
+The Mythic Apple is the second upgrade in the progression, providing a significant improvement over the Blessed Apple. It introduces stronger combat buffs, increased mobility, and additional utility effects, making it ideal for raids, ocean exploration, and difficult survival challenges.
+
+Yellow Heart Recovery(Absorption)
+
+The Mythic Apple restores its Absorption hearts after 8 seconds without taking damage, once your normal health has fully regenerated.
+
+Divine Apple (Tier III)
+
+The Divine Apple is the ultimate apple available in Version 1 of the Enchanted Apple Expansion. Crafted by upgrading the Mythic Apple, it grants the strongest collection of effects in the add-on, making it ideal for end-game combat, boss battles, and dangerous exploration.
+
+Yellow Heart Recovery(Absorption)
+
+The Divine Apple restores its Absorption hearts after 5 seconds without taking damage, once your normal health has fully regenerated.
+
+Crafting
+
+Blessed Apple (Tier I)
+
+Craft the Blessed Apple by combining a Vanilla Apple with the required materials shown in the recipe.
+
+Mythic Apple (Tier II)
+
+Craft the Mythic Apple by using a Golden Apple as the main ingredient along with the required materials shown in the recipe.
+
+Divine (Tier III)
+
+Craft the Divine Apple by upgrading Enchanted Golden Apple with the required materials shown in the recipe. As the final tier in Version 1, this recipe creates the most powerful apple in the Enchanted Apple Expansion.
+
+NEW
+
+Version 1.31.0
+
+Craftable Vanilla Enchanted Golden Apple
+
+The Craftable Vanilla Enchanted Golden Apple is a bonus feature added in Version 1.31 of Enchanted Apple Expansion. Instead of relying on rare loot from structures, you can now craft the Vanilla Enchanted Golden Apple using a simple but expensive recipe.
+
+This feature makes it easier to start the Enchanted Apple progression while remaining balanced for survival. Since the recipe requires 8 Gold Blocks, it is still a valuable late-game item and doesn't remove the challenge of obtaining one.
+
+Effect Extension
+
+Consuming the same apple while its effects are still active will extend the duration of all compatible effects instead of replacing or resetting them.
+
+This allows players to refresh their buffs before they expire, making it easier to prepare for long adventures, raids, or boss fights without losing active effects.
+
+Note: This feature only works when consuming two identical apples. Different apple tiers are designed as upgrades and should not be used to extend one another's effects.
+
+Features
+
+- Three brand-new custom apples.
+
+- Craftable Vanilla Enchanted Golden Apple
+
+- Custom pixel-art textures.
+
+- Progressive upgrade system.
+
+- Custom crafting recipes.
+
+- Balanced survival gameplay.
+
+- Custom item names and rarity colors.
+
+- Organized Creative Inventory placement inside "Nature" for easier access.
+
+- Vanilla-friendly design.
+
+- Compatible with Minecraft Bedrock Edition 1.21 and above.
+
+Progression
+
+Divine Apple (Tier III)
+
+Mythic Apple (

@@ -1,0 +1,17 @@
+Cromos Realistic is a Vibrant Visuals resource pack for Minecraft Bedrock Edition. It gives water a clearer, turquoise look, adds more noticeable animated ripples, and tunes volumetric fog to highlight sunlight between trees. It also includes underwater visibility adjustments, soft shadows, and custom colors for light sources.
+
+Choose one preset: LOW, MEDIUM, or HIGH. Enable Vibrant Visuals in the games video settings, then activate only one Cromos Realistic preset.
+
+Created by Cromos: https://www.youtube.com/@cromosg
+
+Note: The ripples are a visual effect; they do not physically raise or lower water blocks. The pack does not add handheld torch lighting or glowing mob eyes.
+
+Changelog v0.1.7:
+
+- Added a custom Cromos Realistic pack icon.
+
+- Added the creators YouTube channel to the pack description.
+
+- Kept the Caribbean-style water, animated ripples, and sunlight settings introduced in earlier versions.
+
+Minecraft version: Select Minecraft Bedrock 1.26.0 or newer. That is the minimum declared in the packs manifest. The Dappled Forest settings are intended for Bedrock 26.50 or newer; I havent tested the pack in-game across every version. For CurseForge, publish it under Minecraft Bedrock Texture Packs; similar Vibrant Visuals packs also use the Shaders catego

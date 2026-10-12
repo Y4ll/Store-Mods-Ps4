@@ -1,0 +1,37 @@
+F3 Button [Debug Screen]
+
+This resource pack adds a Java Edition-like Debug Screen to Minecraft Bedrock / Pocket Edition. With just one button, you can instantly view all important game information with a clean black background overlay for better readability.
+
+This pack is a standalone feature taken from my NeBux UI Pack.
+
+Features:
+
+- Position (XYZ Coordinates)
+
+- Days Played
+
+- Inventory Counter (used/total slots)
+
+- Inventory Status (Available / Full)
+
+- Game Mode Info
+
+- Device & Input Status
+
+- UI Profile (Classic / Pocket)
+
+- Dimension Info (Overworld Nether conversion)
+
+- Chunk Position
+
+- XP Level Display
+
+- FPS Counter
+
+- Pack Information (Pack version, world details)
+
+If you enjoy my packs and want to support my work
+
+Support Me on Ko-fi
+
+Your support means a lot thank you!

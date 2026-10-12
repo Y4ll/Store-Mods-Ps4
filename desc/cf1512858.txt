@@ -1,0 +1,116 @@
+The Harvester Grim Reaper Plague Doctor Boss
+
+The Harvester is a soul-fire boss for Minecraft Bedrock: half Grim Reaper, half Plague Doctor. His skull burns like a torch, teal soul fire pours off his robe and scythe, and every skill he casts is telegraphed so you can read it, dodge it, and fight back.
+
+Requires Minecraft Bedrock 1.26.50+. No experimental toggles needed.
+Built on the latest stable Script API (@minecraft/server 2.10.0).
+
+How to fight him
+
+- Summon him with /summon pa:harvester, or find him in The End.
+
+- 550 health, 3 phases. He grows faster and fiercer as his health drops.
+
+- Every skill shows a warning first (sprouting soul wheat, an opening coffin, lit candles, glowing footprints, clock-dial rings), and he stands still while casting.
+
+- His skills hit every creature in their area, not just players: villagers, animals and golems get caught too.
+
+- Enrages after 5 minutes of fighting.
+
+Skills
+
+Phase 1 Doctor of the Dead
+
+- Reaping Arc: a wide scythe sweep that leaves the ground burning.
+
+- Field of Souls: rows of soul wheat sprout around you, then he reaps the whole field. Stand in the bare furrows.
+
+- Will-o'-the-Wisps: ghost fires drift after you. Sprint to outrun them.
+
+- Candles of the Dead: soul candles light up around you. Stand on one to snuff it, or it erupts and heals him.
+
+Phase 2 Epidemic
+
+- Plague Pyre: soul fire erupts on the target and spreads to anyone standing nearby. Spread out!
+
+- Footsteps of the Dead: your own footprints ignite. Keep moving and never retrace your steps.
+
+- Buried Alive: a coffin opens beneath you. Step out before the lid slams shut.
+
+- Plague Aura: standing next to him infects you.
+
+Phase 3 Final Harvest
+
+- Death Sentence: an hourglass runs down over your head. Drink milk to cleanse your plague first.
+
+- Danse Macabre: hooded dancers circle you and close in. Slip out through the gap.
+
+- The Black Death: a killing miasma floods the arena. Hide in a soul lantern's light.
+
+- Final Harvest: the ground fills with soul wheat before a full 360 spin. Stand right next to him, or get out of the field.
+
+The Plague
+
+Most skills add plague stacks (shown above your head). At 5 stacks you burst for extra damage. Stacks fade over time, and milk cures them instantly.
+
+Rewards
+
+Every kill drops:
+
+- 1 Reaper Skull
+
+- 812 Souls
+
+- 500 XP
+
+Use them to craft the Harvester Scythe: right-click for Shadow Reap, use it on a mob for Soul Harvest, and it has passive Death Mark, Soul Explosion and Dark Blessing. Also included: the Dark Knight armor set, apples, ingots and steel gear.
+
+Features
+
+- 18 custom animations and 48 hand-drawn particles in a memento mori woodcut + soul fire pixel-art style
+
+- Custom soul-fire effects attached to the boss that never stop burning
+
+- No on-screen spam: no action bar HUD and no phase-change titles. Only short warnings for the three skills that need a specific dodge
+
+- Stable APIs only: no Beta APIs or other experiments
+
+Overview
+
+The Harvester adds a terrifying new end-game boss and a full custom progression tier to your Bedrock survival world. Grind through Steel, forge the Dark Knight set, then challenge the Harvester itself a monster powerful enough to kill a Netherite-geared player in seconds.
+
+Everything in this addon connects together in one progression chain, from your first iron ingot all the way to the Harvester Scythe.
+
+Update 1.0
+
+Progression Path
+
+```
+
+Iron + Coal
+
+Raw Steel / Raw Rast Iron (craft)
+
+Steel Ingot / Rast Ingot (smelt)
+
+Steel Stick Steel Sword (craft)
+
+Super Smithing (craft with Diamond + Gold Block + Netherite Template)
+
+Soul + Ingots Dark Night Ingot / Dark Soul Ingot (craft)
+
+Dark Knight Armor Set (craft upgrades Netherite)
+
+kill The Harvester for Soul 8 + Reaper Skull
+
+Harvester Scythe (craft)
+
+Steel Tier Starting Materials
+
+Raw Steel
+
+Craft with Iron Ingot + Coal (L-shape pattern). Smelt in any furnace or blast furnace to get Steel Ingot.
+
+Raw Rast Iron
+
+Craft with Iron Ingot + Coal (reverse L-shape pattern). Smelt to get Rast Ingot (Ta

@@ -1,0 +1,9 @@
+Craft your very own Totem of Undying! No need to trigger a raid, unless you really like Emeralds. Not a cheap recipe but worth it!
+
+Craft your Totem of Undying.Not the cheapest of recipes but better then waiting for raids, now you can control your fate!
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on
+
+Achievement Compatible

@@ -1,0 +1,11 @@
+v1.0.6
+
+The Piggyback Add-on lets you carry other players on your back, making your Minecraft adventures more fun and interactive! Just point at another player and tap Ride (on mobile) or right-click (on PC) to piggyback. Jump to get off anytime.
+
+Perfect for multiplayer, roleplay, or just having fun with friends. No setup needed! Just install and start playing. Build together, travel together, and enjoy the game like never before!
+
+This add-on DOES NOT require experimental options.
+Please DO NOT mix it with packs that use "player.json" to avoid errors.
+Achievements Compatible
+
+Big thanks to Ravioli THE guy for teaching me how to keep achievements on!

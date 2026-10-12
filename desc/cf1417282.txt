@@ -1,0 +1,75 @@
+Better Structure Loot is a simple addon that attempts to balance the vanilla structure loot, while also not making it too overpowered. With this addon enabled, you should no longer find chests with just a couple pieces of wheat or string inside of them, making structure loot feel a lot more rewarding rather than just a small bonus. Most structure loot tables have recieved a lot of new items, however I have made sure that no items included in the vanilla loot tables were removed.
+
+This addon is achievement friendly and does not require any experimental toggles to be enabled.
+
+If you have any questions or find any issues with this addon, you can contact me in the comments or on Discord (lionhead07)
+
+You can see exactly what changes were made to certain structure loot tables below, however pretty much all structure chests now contain:
+
+- Double the amount of items
+
+- Double the chance for rarer items (Diamonds, enchanted books and tools, armor trims, nautilus armor, etc.) to appear over less rare items
+
+- Newer items and materials
+
+- A lower chance to generate "worse" items like rotten flesh or wheat seeds
+
+Individual Structure Loot Changes:
+
+Pillager Outpost Loot
+
+Pillager Outpost chests can now contain some of the loot found in Woodland Mansions, as well as raid enemy drops and ominous bottles.
+
+Here are some examples of Pillager Outpost chests with this addon enabled:
+
+Mineshaft Loot
+
+Mineshaft chests have been updated to include some of the newer materials added to the game like copper, amethyst, and raw ores. All tools found in Mineshaft chests will be enchanted, and there is a very rare chance to find a diamond pickaxe.
+
+Here are some examples of Mineshaft chests with this addon enabled:
+
+Ancient City Loot
+
+A ton of items have been added to Ancient City chests in order to make the reward feel a bit more worth the risk. Enchanted spears and crossbows, diamonds, diamond blocks, emeralds, even more enchanted golden apples. Since armor trims have double the chance to generate, you should find the silence armor trim a lot easier now as well.
+
+Here are some examples of Ancient City chests with this addon enabled:
+
+Jungle Temple Loot
+
+Vanilla Jungle Temples will often just be full of bamboo and rotten flesh, despite being pretty difficult to find. With this addon they will now contain a ton of copper ingots and copper tools, as well as more iron and gold.
+
+Here are some examples of Jungle Temple chests with this addon enabled:
+
+Desert Temple Loot
+
+Some of the new loot in Desert Temple chests includes copper, golden carrots, golden spears, and sometimes very damaged enchanted diamond spears. Gold and gunpowder have been changed to generate way more often, and sand should now generate way less.
+
+Here are some examples of Desert Temple chests with this addon enabled:
+
+Buried Treasure Loot
+
+Buried Treasure chests now contain more TNT, spyglasses, pufferfish, and very rarely some enchanted diamond weapons.
+
+Here are some examples of Buried Treasure chests with this addon enabled:
+
+Woodland Mansion Loot
+
+Mansion chests will no longer sometimes be very empty, and will now generate with diamond/emerald blocks, totems of undying, different music discs, shields, and enchanted diamond armor.
+
+Here are some examples of Woodland Mansion chests with this addon enabled:
+
+Nether Fortress Loot
+
+Nether Fortresses now contain a lot more Nether mob drops, enchanted golden armor, quartz, and very rarely netherite horse armor. Potions of decay can now appear rarely as well, allowing you to obtain them in survival.
+
+Here are some examples of Nether Fortress chests with this addon enabled:
+
+End City Loot
+
+A lot more diamonds, emeralds, gold, and iron will generate in End City chests. Copper, phantom membranes, and end related items will now generate as well, along with less beetroot seeds.
+
+Here are some examples of End City chests with this addon enabled:
+
+Other Structure Loot
+
+Decorated pots found in Trial Chambers can now have a ton of new items! For 

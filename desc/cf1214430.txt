@@ -1,0 +1,46 @@
+The MOST CLASSIC Lucky Block Add-on is here, which involves Lucky Blocks with various Luck values, Lucky Sword, Lucky Bow, Lucky Potion and more! Besides, these stuffs contain different Lucky Values to craft!
+
+v1.0 LATEST UPDATE:
+
+- Lucky Potion is now obtainable! Break Lucky Blocks to get it. Drops equipment, food, creatures, enchanting books, experience bottles, and even explosions!
+
+- Lucky Blocks, Lucky Swords and Lucky Potions now grant max Luck values, from -100 to +100.
+
+- Support 1.21.110-1.21.132, 26.0-26.20 and all versions above 1.21.2!
+
+- Add classic Lucky Block, Lucky Sword, Lucky Bow!
+
+- In the outer islands of The End dimension, a large number of Lucky Blocks will be generated.
+
+Three ways to get Lucky Blocks:
+
+1. By crafting.
+
+2. Good Lucky Blocks(Luck = +75) have a higher probability of being generated in the desert. Bad Lucky Blocks(Luck = -75) are likely to spawn in plains, deserts, etc. Regular Lucky Blocks(Luck = 0) are generated in large numbers on the outer islands of the End dimension, but also, with a small probability, in Overworld dimension or Nether dimension.
+
+3. By using commands. Use
+/function luckygive
+to get some Lucky Blocks, a Lucky Sword, a Lucky Bow and some Lucky Potions.
+Or simply use /give command.
+
+The higher the Luck value of the Lucky Block, the greater the probability of hitting something lucky. Items such as iron ingots, gold ingots and diamonds can be used to increase the lucky value. Rotten flesh can be used to reduce the lucky value.
+
+Upgrade recipe: 1 Lucky Block + 8 iron ingots / 4 gold ingots / 2 diamonds.
+Downgrade recipe: 1 Lucky Block + 5 rotten flesh
+
+Lucky Sword, Lucky Bow, and Lucky Potion also have a lot of rich events built in, but be careful that sometimes they can cause damage to you. All three can be obtained by opening a Lucky Block or using /function luckygive . Currently, their lucky value can only be changed by a certain amount of iron ingots or rotten flesh.
+
+Lucky blocks can trigger hundreds of events, items, or combinations. As for what it is, it all depends on luck. Welcome to try!
+
+Note: Part of the module source code is from the network, for reference only. This Addon is not easy to make. This lucky block mod is not associated with lucky block java mod.
+
+If you like this Addon, please support me. Thanks so much. Thanks for your donation!
+Via Patreon (Recommended): https://patreon.com/weizhijs
+
+Via Alipay or Wechat Pay afdian: https://afdian.com/a/weizhijs
+
+Chinese Introduction :https://weizhijs.github.io/luckyblock/h.htm
+
+Related links
+
+Home page of my official github website: https://weizhijs.github.io/en/m.html

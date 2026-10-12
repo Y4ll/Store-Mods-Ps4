@@ -1,0 +1,14 @@
+REQUIREMENT [***IMPROTANT***]:
+
+This addon required the latest version of UI Stacker to run. Download The UI Stacker addon from here.
+Download Link: https://www.curseforge.com/minecraft-bedrock/addons/ui-stacker
+
+DETAILS:
+
+Effect Timer Overlay allow the player to display effect timer that can tell you excatly how much time there is left on the effect. This addon can show 9 active effect. Timer is show from 0:00 to 9min+. If the timer goes under 30s the timer becomes red and if the timer is infinit the timer stays at 0:00.
+
+Credits:
+
+- Beyond64: Programmer, Creator and artist
+
+For more updates or any additional questions reach us on Discord.

@@ -1,0 +1,52 @@
+Get the Dragon Mounts 2 Addon here!
+
+COMMUNITY SUPPORT
+
+The Dragon Mounts 2 Discord
+
+My discord is personally SmollCosuna, please text me for any inquiries/bugs!
+
+I am not a part of the Bedrock Dragon Mounts 2 team, so I am not responsible for the bugs in their addon and they are not responsible for the bugs of my texture pack. Unless they updated something and I need to informed about how to fix the pack, otherwise please don't bother them about this pack unless you're trying to find me!
+
+About The Pack
+
+This is a texture pack for Dragon Mounts 2 BE, it is not a mod on its own and is entirely dependent on that addon.
+
+This pack overhauls the textures of most of the dragons for more ease of telling the difference for male and female. There's also just more emissive parts than the original addon, I'm working on making the animations more lively as well.
+
+Changes
+
+-
+Changed the textures of all the dragons, excluding moonlight, male enchant, male storm, female ender, skeleton, wither, and zombie dragons.
+
+-
+Added multiple new glowing textures! Almost every dragon has new glow textures, excluding the zombie, moonlights, and male enchant.
+
+-
+Changed the armor to look more like cloth, darker, less saturated colors.
+
+-
+Changed the textures of the scale blocks and items to match the new dragon colors.
+
+-
+Changed the dragon eggs to have the texture of the scale blocks instead of their own.
+
+Known issues
+
+- The glow textures look blurred slightly, more bulky and less detailed. I do not know why this happens.
+
+LICENSE
+
+The add-on's binaries, as well as it's textures and code are licensed under the GNU General Public License v3.
+
+Dragon Mounts 1 and 2 are both owned by Tomanex, JDSKoala and the Dragon Mounts Team.
+
+I am not part of that team, I do not own any of these models, animations, or code, any textures that have not been changed completely belong to them and their team.
+
+CREDITS
+
+Dragon Mounts 2 is made, owned, and maintained by Tomanex and their team!
+
+LegitDragonb0y's Dracomalum addon used to be my favorite to play with! Give him some love.
+
+Original Java Developers: BarracudaATA - The original project author for Dragon Mounts TheRPGAdventurer - Former author for Dragon Mounts 2

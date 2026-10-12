@@ -1,0 +1,117 @@
+Crate Delight
+
+Expand your storage with crates and bags!
+Crate Delight is a Vanillafriendly addon that lets you craft crates and bags to organize your resources, keeping your chests clutterfree and your inventory tidy.
+
+This is a port of the Java edition.
+Original Java version
+
+Features
+
+Storage Blocks: Compress 9 identical items into a single Crate or Bag.
+
+Vanilla Friendly: Uses only Minecraft vanilla items and recipes.
+
+Decorative Touch: Perfect for pantries, kitchens, farms, and storage rooms.
+
+Fast Unpacking: Place a crate or bag in any crafting grid to instantly retrieve your items.
+
+Available Crates (19)
+
+Crates are used to store solid foods, crops, and fish:
+
+Apple Crate
+
+Beetroot Crate
+
+Berry Crate
+
+Blue Egg Crate
+
+Brown Egg Crate
+
+Brown Mushroom Crate
+
+Carrot Crate
+
+Cod Crate
+
+Egg Crate
+
+Glowberry Crate
+
+Golden Apple Crate
+
+Golden Carrot Crate
+
+Poisonous Potato Crate
+
+Potato Crate
+
+Pufferfish Crate
+
+Pumpkin Slice Crate
+
+Red Mushroom Crate
+
+Salmon Crate
+
+Tropical Fish Crate
+
+Available Bags (10)
+
+Bags are used to store powders, seeds, and baked goods:
+
+Beetroot Seeds Bag
+
+Bread Bag
+
+Cocoa Beans Bag
+
+Cookie Bag
+
+Gunpowder Bag
+
+Leaf Litter Bag
+
+Melon Seeds Bag
+
+Pumpkin Seeds Bag
+
+Sugar Bag
+
+Wheat Seeds Bag
+
+Crafting Recipes
+
+To Pack (Craft a Crate/Bag):
+Place 9 matching items in a 33 pattern in a Crafting Table.
+Example: 9 Apples 1 Apple Crate
+
+To Unpack (Retrieve Items):
+Place 1 Crate or Bag anywhere in a crafting grid (even your 22 inventory).
+Example: 1 Apple Crate 9 Apples
+
+Changes from the Original Java Mod
+
+This Bedrock Edition version is a full port of the original Java mod. All features were reimplemented from scratch using Bedrock components, items, blocks, and scripting.
+
+Main differences from the Java version:
+
+All crates and bags recreated using Bedrock item/block definitions.
+
+Textures adapted to Bedrockcompatible formats.
+
+Crafting recipes rebuilt using Bedrock JSON systems.
+
+Java logic replaced with Bedrock scripting and vanilla component behavior.
+
+Added Bedrockspecific optimizations for performance.
+
+No Java code or assets are included; everything was recreated for Bedrock.
+
+License
+
+This project uses the same MIT License as the original Java mod. The original copyright notices are preserved.
+
+Original Java mod: https://modrinth.com/mod/crate-delight

@@ -1,0 +1,44 @@
+This addon features 3D Block Characters such as Uppercase Letters(A-Z), Lowercase Letters(a-z), Numbers(0-9) and some Symbols(?#@...). Use this to decorate your personal build project or add some fun to some of your builds.
+
+The characters is styled like a "regular random font", since many addons already features "Minecrafty" font style. This also features lowercase letters and a more convenient way to put color to each characters.
+
+Note:
+
+- Minimum Minecraft version requires v1.21.60 above
+
+- Not created for survival mode use, maybe in future updates
+
+- For the meantime, this addon can be used conveniently to any of your creative mode
+builds!
+
+Changelog [v4.0]:
+
+- You can now place each characters as normal blocks just like before in [v2.0]
+
+- Group each characters per category in the creative inventory
+
+- Fixed collision box & selection box to all character blocks
+
+- Fixed when using 'pick block' in creative mode to get the actual item of the characters & not the block itself
+
+- Added information book for information & future addon updates
+
+How to use:
+
+It's easy!
+
+You can interact / click the 3D character block with the following items:
+
+- Dyes= to change color (Default: White)
+
+- Glow ink sac = to put lighting / luminance (Default: No light)
+
+- Ink sac = to remove lighting / luminance
+
+- You can also place each characters to item frames
+
+Watch the video below on How to use it.
+
+Feel free to contact me on my twitter or discord for any direct feedback / concerns / recommendations. I also read some comments from this post :)
+
+Thanks again!

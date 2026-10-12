@@ -1,0 +1,45 @@
+Dynamic Water
+
+Transform Minecraft's oceans, rivers, and lakes with realistic animated water. Dynamic Water introduces moving waves, enhanced boat physics, and ultra-detailed 128x textures to create a more immersive aquatic experience.
+
+Features
+
+Realistic Waves
+
+- Animated water surfaces with smooth wave motion.
+
+- Oceans, rivers, and lakes feel alive instead of completely flat.
+
+- Designed to enhance exploration, sailing, and coastal builds.
+
+Improved Boat Physics
+
+- Boats react naturally to wave movement.
+
+- More immersive sailing experience across oceans and waterways.
+
+- Dynamic interactions between boats and moving water for a realistic feel.
+
+128x High-Resolution Textures
+
+- Detailed 128x water textures for maximum visual quality.
+
+- Crisp reflections, smoother animations, and enhanced depth.
+
+- Perfect for players who want a next-generation Minecraft look.
+
+Compatibility
+
+- Designed for Minecraft Bedrock Edition.
+
+- Works best with Render Dragon-compatible devices.
+
+- Recommended for mid-range to high-end hardware due to the high-resolution textures.
+
+Experience Minecraft's Waters Like Never Before
+
+Whether you're crossing vast oceans, building waterfront cities, or simply enjoying the scenery, Dynamic Water adds a new level of realism and immersion to every world.
+
+THIS MOD MAY NOT LOOK AS SHOWN DEPENDING ON THE DEVICE (Vibrant Visuals and Ray Tracing)
+
+DO NOT REDISTRIBUTE WITHOUT CLEAR PERMISSION FROM THE AUTHOR OF THIS MOD. THIS MOD IS TO BE DEPRECATE UNLESS MOJANG GIVES BETTER SUPPORT FOR LEGACY MODS WITH CODE THAT DOES NOT SUPPORT NEWER VERSIONS.

@@ -1,0 +1,52 @@
+Version 1.0 was originally planned to include much more content, but due to development delays, university responsibilities, and life circumstances, we decided to release a smaller version. This approach also helps us identify and fix bugs more easily. Everything included in this release is valuable and useful for survival gameplay.
+
+Features:
+
+Mobs:
+
+Neutral mobs
+
+Worker
+
+The Worker is a mob found in an abandoned old train station. During the day, hell interact peacefully but if he senses a threat, hell attack with his powerful double-barrel pistol. Hes tough, so its best not to pick a fight. The Worker offers valuable trades and will play an important role in future updates, so treat him with caution.
+He also has a small chance to drop his weapon when defeated.
+
+Hostile Mobs
+
+Crazy Butcher
+
+The Crazy Butcher is an aggressive mob found in certain structures, always busy doing what he loves most: dismembering. He will attack you on sight and leap onto your back to make it easier to hack you apart with his machetes. Getting him off is difficult, and you're likely to die before you can shake him loose.
+He has a small chance to drop his knives when killed.
+
+Heretic
+
+Heretics are neutral mobs that appear in structures scattered throughout the world. They live in various settlements and supposedly dwell in peace. However, once night falls, the hunt begins a search for potential werewolves that often ends with them becoming the prey themselves.
+At night, they will attack the player using various weapons such as muskets, shovels, pickaxes, pitchforks, and more. They have a low chance of dropping their firearm, as well as silver bullets and salt.
+
+Werewolf
+
+Werewolves can naturally spawn in the world, often near a campfire. These werewolves wont attack unless provoked, and they can be tamed using "ew:parasitized_blessed_flesh". Once tamed, they become your companion and will attack any target you engage.
+However, beware: werewolves transformed by the Cleric's howl will be hostile toward the player. They also have a chance to drop their claws upon death.
+
+Rat Man
+
+The Rat Man spawns in the sewers, a rare structure found throughout the world. He appears in a state of suffering, crying, and worshipping his King. This enemy will attack the player and is highly resilient. He can grab and devour you, restoring his health in the process, making the fight significantly harder. Upon death, he drops his skin as loot.
+
+Scarecrow
+
+The Scarecrow is a mob that spawns in pumpkin fields (and will appear in other structures in future updates). During the day, it remains an inanimate object, but at night it comes to life and becomes extremely dangerous. Upon activation, it unleashes a massive fire explosion and summons a Lost Soul that also explodes when it approaches the player.
+Throwing a bottle of holy water at it will return it to its inanimate form. Additionally, if you use it during the day while it's in its scarecrow pose, it will not activate at night, remaining lifeless for the rest of the game. When killed, it only drops straw.
+
+Minibosses
+
+Violinist
+
+The Violinist is a miniboss that spawns in one of the Heretic villages. He appears playing a haunting melody while the heretics dance around a bonfire. During the day, he remains neutralbut once night falls, he becomes hostile and unleashes powerful tunes that grant Strength, Resistance, Speed, or Regeneration to nearby enemies. Upon being defeated, he will drop his violin.
+
+Churchman
+
+The Churchman appears in one of the Heretic villages. During the day, he can be found praying and may offer the player blessings in the form of sweet bread and wine. He is neutral by day but becomes hostile at night.
+
+In combat, he uses martial techniques and will randomly shield himself, making him highly resistant to damage. If the player tries to flee, he will spit fire from a distancemaking him extremely dangerous.
+
+If killed during the day, he drops his boxing gloves. However, if defeated at night, he transfo

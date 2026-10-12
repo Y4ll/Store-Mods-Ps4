@@ -1,0 +1,41 @@
+Minecraft now works for Minecraft 26.10!!
+
+NEW!!
+
+-Updated for Minecraft 26.10
+
+-Paint Brush and Chisel
+
+Chisel:
+
+The Chisel is a tool that converts natural blocks or blocks used in construction into their brick variants. Once transformed, a natural block cannot revert to its natural form but can be converted into its crafted variants.
+
+Paint Brush:
+
+The Paint Brush! A tool for coloring blocks without having to do it manually. Use your imagination! The paint will run out, but the brush won't break, so just keep your paint pot full and get painting! HAHAHA
+
+Sickle:
+
+It works like a normal hoe, but by doing it right or interacting with a growing crop you can break crops in a 3 x 3 area and replant them automatically.
+
+Now you can break more crops and be more efficient!
+
+HAMMER:
+
+A great hammer that helps you mine as if it were a pickaxe but with the possibility of chopping 3 X 3 (DOES NOT WORK IF YOU ARE IN SNEAKING MODE)
+
+LUMBERJACK AXE:
+
+A great ax that helped you cut down trees quickly thanks to the ability of "TREE CAPITATOR", now all those trees will not be saved from your axe! (DOES NOT WORK IF YOU ARE IN SNEAKING MODE)
+
+SNOW SHOVEL:
+
+A large snow shovel that digs in 3 x 3, removes all that pesky dirt or snow so you can flatten large amounts of soil (DOES NOT WORK IF YOU ARE IN SNEAKING MODE)
+
+-Now it breaks snow (It didn't do it before)
+
+SPADE FORK:
+
+a farmer's tool! Grow more plants with these tools that do 3X3 in crops! (DOES NOT WORK IF YOU ARE IN SNEAKING MODE)
+
+Big Shears

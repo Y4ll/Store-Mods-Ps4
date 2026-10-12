@@ -1,0 +1,21 @@
+Better Waving Leaves brings life to Minecraft's foliage with smooth, realistic wind animations no mods, no scripts, no behavior pack required.
+
+Every leaf type waves in the breeze: oak, birch, spruce, jungle, acacia, mangrove, cherry, azalea, bamboo, and pale oak. Flowers nod dandelions, roses, tulips, alliums, orchids, sunflowers, and more. Tall grass and ferns sway. Vines drift weeping, twisting, cave, and regular. Crops ripple as they grow: wheat, carrots, potatoes, and beetroots all animate through their growth stages. Even the lily pad shifts on the water's surface.
+
+74 natural blocks animated in total, all using optimized flipbook textures that blend seamlessly into vanilla Minecraft's art style. Nothing looks out of place it just looks alive.
+
+Drop it in your resource pack folder and you're done.
+
+Details
+
+- 74 animated block textures
+
+- Covers all leaf types, flowers, grasses, vines, crops, and more
+
+- Flipbook-based lightweight, no lag
+
+- Works alongside other resource packs
+
+- No behavior pack or experimental toggles needed
+
+- Bedrock Edition only requires 1.21.80 or higher

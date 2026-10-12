@@ -1,0 +1,19 @@
+Approach the entities to see their health
+
+You can rename them
+
+Player Support:
+
+New Custom Command
+
+/eu:config health_indicator
+
+Discord: euforia_sin_h
+
+Discord server comunity: https://discord.gg/YJ5v727bJH
+
+YT: https://www.youtube.com/@Euforia-conr
+
+Note:
+
+Don't forget to activate the experimental options.

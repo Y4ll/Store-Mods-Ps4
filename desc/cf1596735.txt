@@ -1,0 +1,11 @@
+Welcome to the Siren Head Southpoint Horror Add-on
+
+NOTE: Enable beta API
+
+Original version (for Minecraft Java): https://www.curseforge.com/minecraft/mc-mods/siren-head-southpoint
+
+Soon after you enter, you will hear many unsettling sounds and at that moment, you are in danger. This mod introduces Siren Head a tall and hostile creature that will hunt you. It produces many sounds, moves quickly, and can climb walls. When it gets close, the ground vibrates slightly and your screen will begin to shake continuously. Siren Head can lift its target into the air. Each attack causes an explosion and scatters blocks; it is capable of destroying blocks. Siren Head will be stunned if attacked by a ranged weapon.
+
+Original game made by UndreamedPanic: https://undreamedpanic.itch.io/sirenhead-southpoint
+
+Sirenhead was originally created by: https://twitter.com/slimyswampghost Trevor Henderson

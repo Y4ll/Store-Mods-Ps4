@@ -1,0 +1,51 @@
+Still carrying a torch just to place it every few blocks? This addon makes any light source light up the world around you as you walk. No crafting, no commands, no resource pack.
+
+- How to Use
+
+Simply hold a torch (or any light source) in your main hand or off-hand. The light follows you automatically. Sneak + use a torch to send it straight to your off-hand, so your sword stays in the main hand. That's it.
+
+- Features
+
+- Real light, not a trick Uses vanilla light blocks, so it works with any shader or texture pack
+
+- 37 light sources Torches, lanterns, campfires, glowstone, sea lanterns, shroomlight, froglights, amethyst, glow berries, end rods, even a lava bucket
+
+- One-tap off-hand Sneak and use a torch and it moves across on its own. No inventory screen, no dragging
+
+- Off-hand support Light works from either hand, so you can fight and still see
+
+- True brightness Every item lights at its real vanilla level, a soul torch is dimmer than a lantern
+
+- Leaves nothing behind The light is cleaned up when you swap items, log out, or change dimensions
+
+- Never touches your builds Only ever replaces air, never your blocks
+
+- Achievement-safe Does NOT disable achievements or trophies
+
+- Multiplayer ready Every player gets their own independent light
+
+- Extremely light The lighting loop runs entirely on the script API: 1 block check per update while standing still, 3 while walking, and no commands at all
+
+- Fully configurable Brightness threshold, update rate, off-hand light and off-hand transfer all editable
+
+- Compatibility
+
+- Minecraft Bedrock Edition 1.21.50+, 26.0+
+
+- Works on Android, iOS, Windows, Console
+
+- Behavior Pack only, no Resource Pack needed
+
+- Works with shaders and texture packs
+
+- Compatible with other addons
+
+- Installation
+
+- Download the .mcpack file
+
+- Tap/double-click to auto-import into Minecraft
+
+- Apply the pack to your world under Behavior Packs
+
+- Play, hold a torch and watch the world light up!

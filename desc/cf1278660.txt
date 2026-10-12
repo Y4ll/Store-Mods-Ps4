@@ -1,0 +1,62 @@
+DOESN'T WORK? WANT TO ASK A QUSTION?
+
+JOIN MY DISCORD COMMUNITY
+
+Alternative if in realms custom commands wont work:
+
+TUTORIAL HOW TO REVIVE A PLAYER
+
+When you die you will instantly respawn as knocked down in the same location with all your loot still in the inventory.
+
+While you are knocked you aren't able to do the following actions.
+- Move or jump.
+- Rotate your camera.
+- Break blocks.
+- Hit entities.
+
+The only input that the game will recognize are:
+- Right-Click a totem to revive yourself.
+- Hold the Jump button for 1 entire second to surrender.
+
+To revive someone:
+- Stay Crouched for 5 seconds near the player.
+
+To get back your loot:
+- 1 Find your death location
+- 2 Right-Click the Loot Chest with your name written on it.
+
+If you got any question or suggestion leave it in the comments, i'll reply to you as soon as i read it.
+
+contact me on Discord
+
+IN DEPTH DESCRIPTION
+
+Revive Me! modifies the standard death mechanics in Minecraft Bedrock by introducing a controlled Knockdown state instead of an immediate respawn. When a players health reaches zero, the player becomes Knocked Down at the exact position where the damage occurred. In this state, the player cannot move, attack, jump, rotate the camera, or interact with the environment, but retains their full inventory.
+
+While knocked down, the player has three possible outcomes:
+
+-
+
+Revival by another player A teammate can revive the downed player by crouching near them for a set amount of time. Once the revival completes, the player returns to normal gameplay with their inventory intact.
+
+-
+
+Selfrevival using a Totem of Undying If the player has a Totem of Undying, they can use it to immediately recover from the knockeddown state.
+
+-
+
+Surrender The player can choose to respawn normally by holding the jump key for a configurable duration.
+
+To preserve items, the addon generates a Loot Chest at the death location. This chest contains the players inventory and can be retrieved by interacting with it. The Loot Chest feature can be enabled or disabled through the configuration menu.
+
+After being revived, the player may use a Medikit to restore health. The Medikit operates through crouching and follows a twophase process: a short preparation period followed by gradual healing up to a defined maximum. Healing can be interrupted, and any remaining healing potential is retained.
+
+All timings, behaviors, and optional features are fully configurable through an ingame UI or commands. This includes revival duration, knockdown lifetime, surrender time, Loot Chest behavior, notification visibility, hardcore mode, and inventory rules. The addon also includes custom animations and UI elements to indicate knockdown and revival states.
+
+The system is designed without modifying player.json, ensuring compatibility with other addons and allowing achievements to remain enabled.
+
+This addon is the first implementation of a revive system that operates without modifying player.json. The initial release was published on June 12, 2025.
+
+DO NOT REDISTRIBUTE.
+
+YOU ARE NOT ALLOWED TO CREATE YOUR OWN SHORTLINK TO LINK THIS PAGE OR A DIFERENT HOST TO DOWNLOAD THE ADDON.

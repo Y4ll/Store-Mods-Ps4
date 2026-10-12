@@ -1,0 +1,85 @@
+Killing a player gives you their heart, getting killed by any source will lose you a heart (This can be changed using ?heart envsteal)
+
+Items:
+
+Heart Fragment - Used to make hearts
+
+Heart Essence - Used to make hearts
+
+Heart - Used to gain 1 heart
+
+Gain hearts by:
+
+- Killing another player
+
+- Using a heart item
+
+Lose hearts by:
+
+- Getting killed
+
+Withdrawing hearts
+
+Hearts can be withdrew by doing ?withdraw <amount>
+
+The Beacon of Life
+
+The Beacon of Life can be used to revive people:
+
+- Hold the Beacon of Life
+
+- Right click/use the BoL
+
+- Select which player to revive
+
+Craft it using this recipe:
+
+The Heart of Life
+
+Using this item will give you an extra permanent revive heart (instead of reviving with 5 hearts you revive with 6) (This item was previously used to revive people, now it has a different use)
+
+Craft it using this recipe:
+
+What happens when you lose all your hearts?
+
+Losing all your hearts puts you into spectator mode (changeable with ?banghosts), players in spectator mode can only go a limited amount of block before being teleported to spawn
+
+I only want to lose hearts from players
+
+If environment steal is on, you will lose hearts from mobs and other natural causes, if it isn't, you will only lose hearts from players. Envsteal can be configured using commands
+
+Legacy Commands
+
+Legacy lifesteal commands are used with the command /ls:console "<command>". For example, /ls:console "withdraw 5"
+
+Slash Commands
+
+Admin Panel
+
+The admin panel is an easy way to configure settings and do commands. (Made for console and mobile users)
+
+Lifesteal doesn't require any experiments (as of lifestealv1.18.0)
+
+You are allowed to:
+
+- Showcase this addon WITH CREDITING
+
+- Use this addon in your worlds/servers/realms
+
+- Modify this addon (Without removing the credits)
+
+You are NOT allowed to:
+
+- Repost this addon to other sites (This includes apps)
+
+- Create your own download link
+
+- Claim this addon as your own
+
+For more information, go to this video:
+
+I'll try to update the addon as frequently as I want to :) (and when an update breaks it)
+
+Support me on Patreon!
+
+Join the discord! (Support and stuff)

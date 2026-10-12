@@ -1,0 +1,99 @@
+Java Advancements
+
+The full Java Edition advancement system, rebuilt for Minecraft Bedrock.
+
+Real advancement tree. Real tabs. Real toasts sliding in from the corner. 117 advancements across five branches, laid out exactly the way Java lays them out connected by branch lines, framed by type, and waiting for you to earn them.
+
+update 1.0.0
+
+Three editions pick your difficulty
+
+Same 117 achievements, same rewards, same menu in all three. The only thing that changes is whether the Nether and The End are handed to you or earned. Install one, not three.
+
+Edition
+Nether opens after
+The End opens after
+
+Normal
+Nothing. Every tab is open from the start just the Java achievement experience, at your own pace.
+
+Gated
+64 Diamonds
++ an Enchanted Golden Apple
+Kill the Wither
++ the Warden
+
+Extreme
+325 Diamonds
++ 2 Enchanted Golden Apples
+Kill 5 Withers
++ 2 Wardens
+
+On Gated and Extreme the portal actually enforces it. A locked tab shows chained shut with a live counter of how close you are, and walking into the portal early throws you straight back out. No sneaking ahead.
+
+Gated is the one most people want: a real wall, but one you will clear on a normal survival run. Extreme is built for long-haul SMPs and progression series two Wardens is the hard part, not the diamonds.
+
+Nothing is ever lost. Achievements in a locked tab still track quietly in the background you just cannot browse the page or step through the portal yet.
+
+What you get
+
+A proper advancement screen. Five tabs Minecraft, Nether, The End, Adventure, Husbandry each with its own background and its own branching tree. Tap any advancement to read what it wants and what it pays; the panel opens right beside the window, so you can browse the whole tree without backing out once.
+
+Three kinds of goal, three kinds of frame. Square for a normal task, round for a goal, spiked star for a challenge. Locked ones sit dark, earned ones light up white, gold and purple.
+
+Toast notifications. Finish something and a panel slides in from the top right with the right sound and the right wording: Advancement Made!, Goal Reached!, Challenge Complete! Earn five things at once and you get five toasts in a row, not one on top of another.
+
+Announcements. Every unlock is called out in chat the way Java does it green for tasks and goals, purple for challenges so your friends know exactly what you just pulled off.
+
+Secret advancements. A handful stay hidden behind ??? until the moment you earn them.
+
+Rewards worth chasing
+
+This is not just a checklist. Everything pays out.
+
+Type
+Reward
+
+Task
+XP
+
+Goal
+Levels + Emeralds
+
+Challenge
+Levels, Diamonds, a Golden Apple, Regeneration, Absorption, and fireworks
+
+And on top of that:
+
+- Every 10 advancements a bonus of levels, gold and XP bottles
+
+- Finish a whole tab a serious payout, announced to everyone on the world. Diamond Blocks for Minecraft, Netherite Scrap for the Nether, an Elytra for The End, Enchanted Golden Apples for Adventure, and a stack of Golden Carrots for Husbandry
+
+- Finish all 117 a Nether Star, two Totems of Undying and Netherite Ingots
+
+Bag full? Rewards drop at your feet instead of vanishing.
+
+Two editions pick one
+
+They are separate downloads. Install one, not both.
+
+Normal Edition
+
+Every tab is open from the moment you start. Explore in any order you like, collect at your own pace. This is the one you want if you just want the Java advancement experience on Bedrock.
+
+Advanced Edition
+
+Same 117 advancements, same rewards but the Nether and The End are locked behind entry requirements, and the portals actually enforce it.
+
+Locked tab
+Opens after
+
+Nether
+Kill an Iron Golem and collect 32 Diamonds
+
+The End
+Kill the Wither and kill the Warden
+
+Until you have done both, that tab shows as chained shut, with a live counter of how close you are and if you walk into the portal early, it throws you back out. No sneaking ahead.
+
+This is the one you want if you like a run with gates in it, or if you are setting up a progression series or an SMP where th

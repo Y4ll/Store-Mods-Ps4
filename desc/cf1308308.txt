@@ -1,0 +1,205 @@
+Table Of Contents:
+
+Equipment, Tools and Weapons
+
+Stats
+
+Battleaxes
+
+Broadswords
+
+Daggers
+
+Gambesons
+
+Halberds
+
+Hammers
+
+Katanas
+
+Mattocks
+
+Scythes
+
+Ore and Materials
+
+Brass
+
+Ruby
+
+Emerald Gear
+
+Obsidian Gear
+
+Wooden Armor
+
+Amethyst Infusions
+
+Redstone Infusions
+
+Lapis Infusions
+
+Emblems
+
+What are Emblems?
+
+Arrow Emblem
+
+Axe Emblem
+
+Dagger Emblem
+
+Leaf Emblem
+
+Mace Emblem
+
+Repeater Emblem
+
+Mace Emblem
+
+Shield Emblem
+
+Shulker Emblem
+
+Staffs
+
+Wooden Staff
+
+Bamboo Staff
+
+Bone Staff
+
+Amethyst Staff
+
+Blazing Staff
+
+Breezing Staff
+
+Blinding Staff
+
+Consumables
+
+Dynamite
+
+Resistance Shields
+
+Rusted Daggers
+
+Smoke Bombs
+
+Spells
+
+What are Spells?
+
+List of Spells
+
+Mystic Robe
+
+Mobs
+
+Goblin
+
+Guise
+
+Wandering Spirit
+
+Blocks
+
+Colored Quartz
+
+Waxed Grass
+
+Vanilla Changes
+
+Enchanting (scrolls)
+
+Hunger (Stamina)
+
+Equipment, Tools and Weapons
+
+Ore and Materials
+
+Emblems
+
+Staffs
+
+Spells
+
+Mobs
+
+Blocks
+
+Vanilla Changes
+
+Addon Credits
+
+Created by CrystalWolf998 (Raid Games)
+
+All textures, scripts, descriptions, and designs were done by me!
+
+Special thanks to SplindidMass209, Garbo_Truck6259, NorthWind and others for Beta-Testing.
+
+Want to use Raids Stuff in a map, video, or other project?
+
+Youre allowed to make other projects using Raids Stuff; however, please post the following in the description of whatever project made using it:
+
+This project uses the Raids Stuff Addon for Minecraft Bedrock Edition. Raids Stuff was created by CrystalWolf998 and is available to download on curseforge or MCPEDL:
+
+https://mcpedl.com/raids-stuff/
+
+https://www.curseforge.com/minecraft-bedrock/addons/raids-stuff
+
+And do NOT repost the Addon or download file on another website.
+
+Individual feature downloads
+
+If you only want some features, you can download them as individual add-ons as well. Here is a list of all available add-ons
+
+Identical versions as of version 7.0
+
+- Battleaxes - https://mcpedl.com/ar-the-battleaxe-addon/
+
+- Katanas - https://mcpedl.com/the-katana-addon/
+
+- Stamina/Food system - https://mcpedl.com/the-hunger-rework/
+
+Older versions (Not the same as in Raids Stuff but will be updated soon)
+
+- Halberds - https://mcpedl.com/the-halberd-addon/
+
+- Staffs - https://mcpedl.com/the-staff-addon/
+
+- Spells - https://mcpedl.com/raids-spells/
+
+- Infused Gear - https://mcpedl.com/amethyst-infused-armor/
+
+- Colored Quartz - https://mcpedl.com/colored-quartz/
+
+- Waxed Grass - https://mcpedl.com/waxed-grass/
+
+- Ruby Gear - https://mcpedl.com/ar-ruby-tools/
+
+Individual feature add-ons not yet available
+
+- Scythes
+
+- Hammers
+
+- Daggers
+
+- Mattocks
+
+- Emblems
+
+- Scrolls
+
+- Gambesons
+
+- Emerald Gear
+
+- Obsidian Gear
+
+Future Plans
+
+There are no planned major updates for Raids Stuff at this time; however, it will receive occasional updates adding any new weapons or items I make for Raid Arena II. Bug fixes and minor improvements will also still continue as well.

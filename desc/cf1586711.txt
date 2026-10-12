@@ -1,0 +1,15 @@
+Realistic Water adds physically-based water with animated caustics, dynamic surface waves, PBR water textures, and per-biome water colours across 91 biomes to Minecraft Bedrock. Simply place the Realistic Water pack above any Vibrant Visuals pack.
+
+Compatible with any Vibrant Visuals shader:
+
+Subpack tiers
+
+Choose the variant that fits your device and aesthetic:
+
+- Realistic Water 1 Crystal-clear cenote look. The clearest water of the set, with the most detailed surface waves and bright, sharp caustics. (Best for high-memory devices)
+
+- Realistic Water 2 Balanced natural ocean. True-blue clarity, gentle waves, and the longest caustic animation.
+
+- Realistic Water 3 Soft tropical lagoon. A touch more sediment for a milkier, calmer pool-like surface with broad caustics. (Lighter on memory)
+
+- Vanilla Water Vanilla clarity with no surface waves and lightweight caustics, while still benefiting from your shader. (Best for low-memory devices)

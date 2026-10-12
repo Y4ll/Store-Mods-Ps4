@@ -1,0 +1,115 @@
+DESCRIPTION
+
+Abilities
+
+Can pick up items
+
+Can build using scaffolding
+
+Can receive items from you
+
+Can attack using ranged or melee weapons (depending on what it is holding)
+
+If inventory is OFF, it will automatically equip any item you give it (only once)
+
+Has multiple skins and capes
+
+Can chat when hurt or when you hurt it
+
+Can be tamed using a Diamond
+
+Can sit and stand on command
+
+Can sneak and strafe during battle
+
+Can jump while fighting
+
+Can use shields for defense
+
+Can eat food items to regenerate
+
+Has advanced movement and combat logic
+
+Performs random sneaking behavior
+
+Supports custom name tags
+
+Can chat whether wild or tamed
+
+Added Sit option to UI
+
+Added Hostile Mode toggle in UI
+
+Added Trade system (trade items with your bot easily)
+
+Panic and Patrol options removed from UI
+
+Added more skin variations
+
+Items It Can Use
+
+Sword melee
+
+Bow ranged
+
+Snowball ranged
+
+Trident melee or ranged
+
+Crossbow ranged
+
+User Interface (UI)
+
+Settings include:
+
+Hunt mode
+
+Hostile mode
+
+Sit / Stand toggle
+
+Trade option
+
+Inventory (if ON, it stores items instead of equipping them)
+
+Removed from UI:
+
+Patrol
+
+Panic
+
+Cellphone features:
+
+Friend list
+
+Call friends
+
+Teleport to friends
+
+Call all friends
+
+Rename or add name tags
+
+Wallet app to check balance
+
+Cash in / Cash out
+
+Shop app for shopping
+
+How to Use
+
+Where to find the phone and UI settings: Go to the Items category, look for UI Setting and Phone. After that, you can start using all the features.
+
+How to give the bot items: Hold the weapon or item you want to give, look directly at the bot, and drop it. Make sure the inventory is OFF, or else it wont equip it.
+
+How to trade: Open the bots UI and select Trade. From there, you can exchange items with your bot easily.
+
+How to tame the bot: Hold a Diamond and use it on the bot. Once tamed, it will follow and obey your commands.
+
+What if theres a bug? Avoid repeating the action that caused the bug. Instead, report it to the owner or the official account of HEXBYTE OFFICIAL ADDON MAKER.
+
+Can I remove the items it is wearing? No. You can only give items once.
+
+Can I suggest new features?
+
+Yes! Just comment on the latest video of the HEXBYTE OFFICIAL ACCOUNT.

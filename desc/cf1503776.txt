@@ -1,0 +1,109 @@
+Blocklings
+
+Build Your Own Living Team
+
+Blocklings brings a full collection of companion creatures to Minecraft Bedrock Edition.
+Each Blockling has its own identity, behavior, visuals, and gameplay role, turning your world into something much more alive than a simple pet addon.
+
+Tame them, travel with them, use their abilities, and build a team of companions that can help you farm, fight, explore, and automate parts of your survival experience.
+
+What This Addon Includes
+
+- 18 unique Blocklings with different themes, roles, and abilities
+
+- Full taming, growing, breeding, sitting, and following systems
+
+- Farming-focused Blocklings for crops, bamboo, berries, melons, pumpkins, and more
+
+- Combat-focused Blocklings with knockback, crowd control, fire, support auras, and special attacks
+
+- Gadget systems that unlock new powers on specific companions
+
+- Custom particles, textures, models, sounds, and animations
+
+- Advanced Bedrock scripting for smarter and more dynamic behavior
+
+- Reworked spawn rules so Blocklings appear in more fitting biomes and environments
+
+Meet The Blocklings
+
+Nature and Farming
+
+- Dirt Blockling grows saplings and plant-based gadgets
+
+- Tundra Dirt Blockling focuses on sweet berries and colder environments
+
+- Hay Blockling helps with wheat-themed farming
+
+- Pumpkin Blockling is tied to pumpkin farming
+
+- Watermelon Blockling supports melon farming
+
+- Bamboo Blockling farms bamboo and controls enemies with powerful knockback and bamboo cages
+
+- Amethyst Blockling grows crystal-themed plant gear
+
+Utility and Special Systems
+
+- Lapis Blockling stores experience and can provide XP support
+
+- Iron Blockling can mine for you
+
+- Obsidian Blockling works like a mobile forge and can smelt materials
+
+- Portal Blockling gives your world teleportation-based utility
+
+- Redstone Blockling uses a powered gadget core and glow system
+
+- Shroomlight Blockling acts as a living light source
+
+Combat and Support
+
+- Diamond Blockling is a heavy damage companion
+
+- Emerald Blockling uses an offensive aura ability
+
+- Gold Blockling provides support and defensive value
+
+- Honey Blockling summons help and supports the player with swarm-based combat
+
+- Netherite Blockling unleashes fire-based attacks and area burn effects
+
+SHOWCASE V1.2
+
+SHOWCASE V1.1
+
+SHOWCASE
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+JOIN DISCORD --> Click Here

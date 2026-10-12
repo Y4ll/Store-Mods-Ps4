@@ -1,0 +1,25 @@
+||| Free to use, just give me credit|||
+
+This addon auto-replaces the Totem of Undying when used, making survival easier.
+
+If you can't understand, just check my YouTube video:
+
+https://youtu.be/EnQouMsgeAU
+
+- Auto-Equip Totems Instantly equips a new totem when one is used.
+
+- On/Off Holding a shield in the off-hand disables it.
+
+- Easy & Lightweight Runs smoothly without lag.
+
+Multiplayer/Addon Capability
+
+It works with multiplayer and other Addons
+
+Infinite totem?
+
+No, It's just automatically switch your inventory Totem in off hand.
+
+ON OFF
+
+Advance version with more features - https://mcpedl.com/auto-totem/

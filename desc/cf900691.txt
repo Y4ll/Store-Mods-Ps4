@@ -1,0 +1,7 @@
+Most spawn eggs are crafted with eggs, bone meal, and an item specific to the desired mob.
+
+Others consist of another creatures spawn egg combined with a different item, for example using a piglin spawn egg and a golden axe to make a piglin brute.
+
+The final way to make spawn eggs is by smelting other spawn eggs, such as the slime egg turning into a magma cube spawn egg when smelted.
+
+The mob spawner is also craftable, however quite expensive (for good reason)

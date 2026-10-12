@@ -1,0 +1,59 @@
+Monster Structures adds seven monster versions of vanilla structures that generate in your world alongside the real ones. An outpost on the plains, a shipwreck on the beach, a house in a quiet village. They look exactly like the ones you've passed a hundred times, and they stay that way until you disturb them.
+
+From now on, every temple, outpost and shipwreck you find comes with the same question: is it real, or is it a boss?
+
+Each one guards its own loot and fights in its own way. How they fight is written in the Guidebook. Here's what each of them turns into.
+
+Looks like a normal pillager outpost. Just don't open the supply chest at the top.
+
+Found in: Plains
+
+Drops: Sentry Armor Trim, emeralds and the whole outpost's blocks
+
+Just another shipwreck on the beach, until you get close.
+
+Found in: Beaches
+
+Drops: Coast Armor Trims, Diamond Nautilus Armor, a trident, explorer maps, diamonds and the ship's wood
+
+A regular desert temple. Get near the chest in the middle and something under the sand wakes up.
+
+Found in: Deserts
+
+Drops: Dune Armor Trims, Enchanted Golden Apples, diamonds, enchanted books and a small mountain of sandstone
+
+A mossy temple deep in the jungle. Walk in for the double chest and the walls start moving.
+
+Found in: Jungles
+
+Drops: Wild Armor Trim, diamonds, enchanted books, iron gear and stacks of mossy cobblestone
+
+An old ruined portal with a chest next to it. Get close and the portal starts to hum.
+
+Found in: Almost anywhere in the Overworld, away from oceans and rivers
+
+Drops: Wayfinder Armor Trim, golden gear, a lodestone, the portal's obsidian and a small chance at an Enchanted Golden Apple
+
+A normal village house with a yellow bed inside. Try taking the bed.
+
+Found in: Plains villages
+
+Drops: The house itself, beds and chests included, plus emeralds, food, maps and iron tools
+
+An End City tower out on the far islands. Step on its base and it gets up.
+
+Found in: The outer End islands, more than 1,000 blocks from the center. This is the toughest of the seven.
+
+Drops: Two damaged Elytra, Spire Armor Trims, enchanted diamond gear, shulker shells, dragon's breath and the tower's purpur
+
+The Guidebook is a journal kept by someone who ran into all seven and lived to write about it. It covers what gives each creature away, how it fights, where it's weak and what it drops.
+
+Craft it from a Book, Sandstone and a Chest. Use it somewhere with a bit of open space and the book opens up right in front of you. Flip through the pages with your cursor and sneak to close it.
+
+- Download the file and open it. Minecraft imports the behavior and resource packs for you.
+
+- Create a world, or open an existing one, and turn on Monster Structures under Behavior Packs. The resource pack is added automatically.
+
+- Go exploring. The structures only generate in new chunks, so in an older world you'll need to travel to land you haven't loaded yet.
+
+Requires Minecraft Bedrock 26.50 or newer.

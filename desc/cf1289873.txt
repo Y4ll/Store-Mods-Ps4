@@ -1,0 +1,3 @@
+When you hold a tool in your hand, it becomes a convenient tool like: "common","uncommon","rere","epic","legendary","divine" . with effects corresponding to the level of toxicity like: "Lightning","Poison","Wither","Melting","Explosion","Levitation","Absorb" and "Steal Vitality"
+
+Khi ban cam mot cong cu tren tay, no se tro thanh mot cong cu tien loi nhu: "common","uncommon","rere","epic","legendary","divine" . voi cac hieu ung tuong ung voi muc o oc hai nhu: "Lightning","Poison","Wither","Melting","Explosion","Levitation","Absorb" va "Steal Vitality"

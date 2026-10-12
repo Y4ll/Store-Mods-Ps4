@@ -1,0 +1,7 @@
+This shader makes your world look warmer and more saturated.
+You can set the shader level in the settings beforehand.
+If you install Vibrant Visual, it will be even more dynamic, but hey, this pack is for laggy phones or for people who need higher FPS for PvP or other gameplay.
+
+All proof about the addon is below.
+
+JOIN DISCORD

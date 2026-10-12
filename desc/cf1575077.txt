@@ -1,0 +1,45 @@
+A powerful in-game build editor for Minecraft Bedrock. Select any area, copy or cut it, rotate it, mirror it, and paste it anywhere all without leaving your world. No external tools, no PC required. Structure Shifter brings WorldEdit-style building to Bedrock.
+
+How to Get Started
+
+Type /voxen:sswand in chat to get the Structure Shifter Wand. Everything is done with this wand.
+
+How to Use
+
+- PC: Right-click a block to set Point 1, right-click another for Point 2
+
+- Mobile: Tap a block for Point 1, tap another for Point 2
+
+- A selection box appears choose Copy or Cut from the menu
+
+- Right-click anywhere to preview the paste position
+
+- Crouch while holding the wand to open the paste menu
+
+Features
+
+- Copy & Cut any area up to 64x384x64 blocks
+
+- Rotate your build 90, 180, or 270 before pasting
+
+- Mirror on X, Z, or both axes
+
+- Undo last paste one tap to revert
+
+- Point paste mode place build from a corner position
+
+- Area paste mode center your build inside a marked zone
+
+- Move paste up or down to fine-tune Y position
+
+- Optionally include or exclude mobs and item frames
+
+- Save to Library store builds permanently in your world and reload them anytime
+
+- Live particle preview shows your selection and paste area in real time
+
+Achievement Friendly?
+
+Yes fully achievement friendly. No cheats required, no achievement lock.
+
+Select. Copy. Paste. Rotate. Build smarter.

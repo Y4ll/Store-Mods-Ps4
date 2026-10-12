@@ -1,0 +1,257 @@
+- Do not use direct download links
+
+- Do not put your own shorteners
+
+- Do not upload this content to websites or applications without our permission.
+
+This add-on will have the Plant Vs Zombies 2 plants to help you out in your survival world and defeat zombies for you. The add-on can be used in maps as well. If you want to have a Plant Vs Zombies 2 map, then this add-on is for you. (This is not really the best in survival, because some plants can one shot vanilla zombies, and some zombies can kill you on one hit. I am planning to have it survival friendly and fit in a survival experience)
+
+There are currently 76 plants in the add-on so far, and 35 zombies from the actual game.
+
+PLANTS
+
+Here is a list of all the plants that is in the add-on:
+
+- Peashooter
+
+- Sunflower
+
+- Wall-Nut
+
+- Potato Mine
+
+- Cabbage-Pult
+
+- Bloomerang
+
+- Iceberg Lettuce
+
+- Grave Buster
+
+- Bonk Choy
+
+- Repeater
+
+- Twin Sunflower
+
+- Kernel-Pult
+
+- Snapdragon
+
+- Spikeweed
+
+- Spring Bean
+
+- Coconut Cannon
+
+- Threepeater
+
+- Spikerock
+
+- Cherrybomb
+
+- Split Pea
+
+- Chili Bean
+
+- Pea Pod
+
+- Lightning Reed
+
+- Melon-Pult
+
+- Tall-Nut
+
+- Winter Melon
+
+- Hot Potato
+
+- Pepper-Pult
+
+- Chard Guard
+
+- Stunion
+
+- Rotobaga
+
+- Red Stinger
+
+- A.K.E.E.
+
+- Endurian
+
+- Stallia
+
+- Gold Leaf
+
+- Laser Bean
+
+- Blover
+
+- Citron
+
+- E.M. Peach
+
+- Infi-Nut
+
+- Magnifying Grass
+
+- Tile Turnip
+
+- Sun-Shroom
+
+- Puff-Shroom
+
+- Fume-Shroom
+
+- Sun Bean
+
+- Magnet-Shroom
+
+- Phat Beet
+
+- Celery Stalker
+
+- Thyme Warp
+
+- Garlic
+
+- Spore-Shroom
+
+- Intensive Carrot
+
+- Primal Peashooter
+
+- Primal Wall-Nut
+
+- Perfume-Shroom
+
+- Primal Sunflower
+
+- Primal Potato Mine
+
+- Lily Pad
+
+- Tangle Kelp
+
+- Bowling Bulb
+
+- Guacodile
+
+- Banana Launcher
+
+- Moonflower
+
+- Nightshade
+
+- Shadow-Shroom
+
+- Dusk Lobber
+
+- Grimrose
+
+- Snow Pea
+
+- Power Lily
+
+- Squash
+
+- Chomper
+
+- Ghost Pepper
+
+- Homing Thistle
+
+- Aloe
+
+ZOMBIES
+
+Here is a list of all the zombies that is in the add-on:
+
+- Basic Zombie
+
+- Conehead Zombie
+
+- Buckethead Zombie
+
+- Flag Zombie
+
+- Mummy Zombie
+
+- Conehead Mummy
+
+- Buckethead Mummy
+
+- Pyramid-Head Zombie
+
+- Flag Mummy Zombie
+
+- Egypt Rally Zombie
+
+- Ra Zombie
+
+- Camel Zombies
+
+- Explorer Zombie
+
+- Torchlight Zombie
+
+- Tomb Raiser Zombie
+
+- Pharaoh Zombie
+
+- Mummified Gargantuar
+
+- Imp Mummy
+
+- Zombot Sphinx-Inator
+
+- Pirate Zombie
+
+- Conehead Pirate
+
+- Buckethead Pirate
+
+- Barrelhead Pirate
+
+- Flag Pirate Zombie
+
+- Jolly Roger Zombie
+
+- Swashbuckler Zombie
+
+- Seagull Zombie
+
+- Pelican Zombie
+
+- Barrel Roller Zombie
+
+- Imp Pirate Zombie
+
+- Imp Cannon
+
+- Pirate Captain Zombie
+
+- Zombie Parrot
+
+- Gargantuar Pirate
+
+- Zombot Plank Walker
+
+NPC TRADER
+
+Crazy Dave
+
+He will spawn in your survival world randomly chilling, you can trade the suns that you've collected that also spawns in the overworld to obtain a plant and protect your base.
+
+ITEMS
+
+Shovel
+
+You can use this item to remove plants in your survival world, to craft it:
+
+SCREENSHOTS:
+
+GAMEPLAY VIDEO:
+
+NOTE: HIS ADDON IS NOT YET COMPLETED AND WILL BE UPDATED AS THE TIME GOES.

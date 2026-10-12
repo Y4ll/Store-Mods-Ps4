@@ -1,0 +1,43 @@
+COMPLIMENTARY VIBRANT VISUALS
+
+CREATED BY VEDA77
+
+A New Era of Bedrock Graphics
+
+Complimentary Vibrant Visuals is a premium graphics overhaul engineered specifically for the Minecraft Bedrock Render Dragon engine. It transforms standard, flat environments into deeply atmospheric, physically accurate landscapes.
+
+Whether you are capturing cinematic screenshots or building your ultimate survival base, this shader provides a definitive visual upgrade without compromising the beloved aesthetic of vanilla Minecraft.
+
+Next-Gen Capabilities
+
+PBR Texturing
+
+Complete integration of normal and specular maps. Experience realistic material roughness, depth, and reactive light reflections across terrains.
+
+Color Grading
+
+Eliminates the washed-out tone of the base game. Biomes feature rich, carefully calibrated color palettes that dramatically enhance environmental mood.
+
+Optimized Tiers
+
+Includes highly optimized memory tiers via subpack configurations (Low Featured & Default Featured) to ensure maximum stability.
+
+Atmospheric Lighting
+
+Stunning sunrises, glowing ores, and deep shadows completely change the way you explore the world at night and in caves.
+
+Installation & Setup
+
+- Download the .mcpack file and open it to import into Minecraft.
+
+- Navigate to Settings > Global Resources and activate the pack.
+
+- Click the Gear Icon on the pack to select your performance tier (Low Featured or Default Featured).
+
+- Crucial: Ensure that Deferred Technical Preview is enabled in your Video settings!
+
+Support My Work!
+
+If you love my high-quality Add-Ons and Shader packs, make sure to follow my official pages! It helps me create more amazing, professional content for the community.
+
+Developed by Veda77 (Veda Official). Leave a rating and let us know your favorite looking biome!

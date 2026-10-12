@@ -1,0 +1,21 @@
+Craftable Items gives players new ways to obtain rare and normally uncraftable materials. This addon introduces balanced, survivalfriendly recipes for items that usually require grinding, boss fights, or a lot of luck to obtain.
+
+Current craftable items include:
+
+- Nether Star
+
+- Experience Bottle
+
+- Elytra
+
+- Music Disc's
+
+- Mob Spawner
+
+New Items:
+
+- Totems
+
+- Cow, Pig, and Sheep spawn eggs
+
+This pack is perfect for survival worlds, SMP servers, or anyone who wants more flexibility without breaking the vanilla feel. Every recipe is designed to stay fair, intuitive, and fully compatible with normal gameplay.

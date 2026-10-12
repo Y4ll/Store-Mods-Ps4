@@ -1,0 +1,19 @@
+Ultimate PvP Kit
+
+Update: Low Fire No guys, No fire effect on screen
+
+Ultimate PvP Kit is the definitive, performance-focused texture pack custom-built for Minecraft PvP (Player vs Player) enthusiasts. If you want to elevate your combat gameplay, gain a competitive edge, and keep your screen clean and distraction-free without any lag, this pack is exactly what you need!
+
+Key Features
+
+Short & Optimized Swords: Sword models have been downsized to preserve your screen space and ensure maximum visibility during intense combat. Enjoy clean, custom textures for all sword tiers from Wood to Netherite.
+
+Custom Spears & Mace: Stand out in battle! This pack features uniquely styled Spear textures (Copper, Iron, Gold, Diamond, Netherite) and a lethal, bad-ass Mace texture to completely revamp your arsenal.
+
+Dynamic Bow & Crossbow Indicators: Take precise shots with clear, step-by-step pulling animations (stages 0, 1, and 2), allowing you to accurately judge your weapon's draw time.
+
+Clean & Minimalist PvP UI: The user interface and hotbars have been stripped of clutter. Keep your focus entirely on your crosshair and your target.
+
+Distinct Potion Bottles & Custom Food: Quick-glance color coding and highly identifiable visual designs for all potion types (including splash variants). Instantly grab the right item under pressure. Food items are crisp and highly detailed.
+
+FPS Boost / Low-End Device Friendly: Highly optimized textures designed to reduce frame drops during critical fights, ensuring smooth frame rates even on low-end hardware.

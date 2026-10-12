@@ -1,0 +1,45 @@
+Dynamic Garage Doors Add-On for Minecraft Bedrock
+
+Enhance your builds, modern houses, fire stations, and car repair shops with fully functional, animated garage doors. Unlike static block designs, this add-on introduces dynamic block entities with realistic sliding mechanics, custom sound effects, and customizable collision hitboxes.
+
+Key Features
+
+- Realistic Animations & Sounds: Smooth opening and closing transitions accompanied by custom mechanical audio.
+
+- Dynamic Collision System: When open, the doors collision box is completely disabled, allowing players and large vehicles to pass through effortlessly. When closed, it functions as a solid protective wall.
+
+- The Wrench Tool: Your main instrument for adjusting and dismantling.
+
+-
+
+- Dismantle: Simply click the garage door with the wrench to safely break and collect it.
+
+- Configuration Menu: Hit the door block with the wrench to open an advanced settings UI.
+
+In-Game Configuration UI
+
+Using the Wrench, you can access a dedicated settings menu for each door to adjust the following:
+
+- Slide Direction: Choose whether the door slides to the left or right upon opening.
+
+- Grid Centering: Toggle a 0.5-block offset to make the door align perfectly with adjacent wall blocks.
+
+- Rotation Menu: Rotate the door hitbox and model to 0, 90, 180, or 270 degrees to fit any architectural layout.
+
+How to Get Started
+
+- Obtain the Garage Door Item from the Creative inventory.
+
+- Place the door on the ground. Its initial direction will align with your player's orientation.
+
+- Click the door to open/close it.
+
+- Use the Wrench to configure slide direction, centering, or rotation.
+
+Important Installation Requirements
+
+This add-on utilizes the Bedrock Script API. To ensure all functions work correctly, you must enable the following experiments in your world settings:
+
+- Beta APIs
+
+- Upcoming Creator Features (if applicable)

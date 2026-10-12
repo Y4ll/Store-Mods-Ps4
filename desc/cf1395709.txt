@@ -1,0 +1,287 @@
+Golden Age Textures is a complete nostalgia-focused resource pack that brings back the original Alpha and Beta era visuals, sounds and colors of classic Minecraft. Everything inside the pack is restored to feel old, simple and retro just like early Minecraft days.
+
+Showcase video
+
+Included Retro Features
+
+Classic Minecraft Logo
+
+Old-style menu logo just like early versions.
+
+Dirt Background
+
+Menu dirt background restored for full nostalgia.
+
+Old Cobblestone
+
+Rough Alpha cobblestone texture.
+
+Alpha Foliage
+
+Classic saturated grass & leaf colors.
+
+Classic Ores
+
+Old diamond, gold, iron, coal, lapis & redstone ore textures.
+
+Pre-1.18 Stripped Dark Oak
+
+Earlier version of stripped dark oak texture.
+
+Old Planks
+
+Classic wooden plank look from early Minecraft.
+
+Old Gravel
+
+Retro gravel texture from Beta.
+
+Old Netherrack
+
+Warm, classic netherrack color.
+
+Old Lava
+
+Retro lava animation style.
+
+Old Ghasts
+
+Classic ghast design from early Nether.
+
+Old Obsidian
+
+Simpler, dark obsidian texture.
+
+Old Metal Blocks
+
+Original iron, gold, and diamond block styles.
+
+Old Water
+
+Classic water color & transparency.
+
+Old Ice
+
+Old blue-tinted ice texture.
+
+Old Lapis Block
+
+Original lapis lazuli block texture.
+
+Old Sponge
+
+Retro sponge texture included.
+
+Old Wool Colors
+
+Soft, classic wool colors.
+
+Old Shulker Colors
+
+Recolored shulkers with old shading.
+
+Old Spawn Eggs
+
+Vintage spawn egg designs.
+
+Snoutless Pigs
+
+Classic pig model without snout.
+
+Snoutless Cows
+
+Classic cow model without detailed snout.
+
+Poppy Rose
+
+Replaces poppy with the old rose.
+
+Bed Icons
+
+Retro bed item icons.
+
+Beta Item Tooltip
+
+Old tooltip style from Beta versions.
+
+Zombie Pigman
+
+Restores the classic Pigman (before Zombified Piglin).
+
+Oarless Boats
+
+Old boat model without oars.
+
+Old Clouds
+
+Classic cloud shape & texture.
+
+Old Door Sound
+
+Vintage door opening/closing sounds.
+
+Old Damage Sound
+
+Retro hurt/damage sound effects.
+
+Old Explosion Sound
+
+Beta explosion sound restored.
+
+Old Level-Up Sound
+
+Classic XP orb sound.
+
+Legacy Bedrock Dried Kelp
+
+Restored early dried kelp texture.
+
+Old Dyes
+
+Old-fashioned dye item colors.
+
+New Classic Block Textures
+
+Simple Classic Pumpkin
+
+Simple old-style pumpkin texture with a classic orange pixel-art appearance.
+
+Old Cactus
+
+Classic dark green cactus texture inspired by early Minecraft.
+
+Old Sugar Cane
+
+Simple vintage sugar cane texture with an old-school green palette.
+
+Classic Bedrock
+
+Dark, rough bedrock texture with an authentic Alpha/Beta-inspired appearance.
+
+Classic Stone
+
+Simple gray stone texture with the classic old Minecraft pixel pattern.
+
+Old Brick Block
+
+Classic red brick texture with dark mortar lines.
+
+Classic Stone Bricks
+
+Old-style stone brick texture with simple gray blocks and dark mortar.
+
+Mossy Stone Bricks
+
+Classic stone bricks covered with subtle, pixelated moss.
+
+Combinations Included
+
+extras/planks/oarless_old_planks
+
+A special combination that adds old planks + oarless boat style.
+
+Legacy Baby Mobs
+
+Classic-style baby mob textures restored from older Minecraft versions.
+
+- Baby Zombie
+
+- Baby Zombie Villager
+
+- Baby Husk
+
+- Baby Drowned
+
+- Baby Piglin
+
+- Baby Piglin Brute
+
+- Baby Hoglin
+
+- Baby Zoglin
+
+- Baby Villager
+
+- Baby Pig
+
+- Baby Cow
+
+- Baby Sheep
+
+- Baby Chicken
+
+- Baby Mooshroom
+
+- Baby Rabbit
+
+- Baby Wolf
+
+- Baby Cat
+
+- Baby Ocelot
+
+- Baby Horse
+
+- Baby Donkey
+
+- Baby Mule
+
+- Baby Llama
+
+- Baby Trader Llama
+
+- Baby Camel
+
+- Baby Panda
+
+- Baby Fox
+
+- Baby Goat
+
+- Baby Turtle
+
+- Baby Bee
+
+- Baby Strider
+
+- Baby Sniffer
+
+- Tadpole
+
+Restored Sounds
+
+- Old Door Sound
+
+- Old Damage Sound
+
+- Old Explosion Sound
+
+- Old Level-Up Sound
+
+- Additional legacy sound effects
+
+- And All types mobs sounds
+
+- MORE
+
+Screenshot
+
+Subpacks
+
+Default
+
+Recommended version with the standard Golden Age textures.
+
+Old Textures
+
+Enables extra old-Minecraft textures and visuals for a more classic Minecraft experience.
+
+Compatibility
+
+Minecraft Bedrock 26.20
+
+Mobile / PC / Console supported
+
+Survival friendly
+
+Pure nostalgia, no s

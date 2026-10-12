@@ -1,0 +1,473 @@
+CRAFTABLE RARE ITEMS
+
+Rare Minecraft items are now craftable with balanced survival recipes.
+
+About This Pack
+
+Craftable Rare Items expands survival crafting by adding recipes for valuable items that are normally obtained from rare loot, structures, mobs, exploration, or special events. The recipes are designed to stay useful without making rare items completely free.
+
+Main Features
+
+- 28 unique rare and normally non-craftable vanilla items can be crafted.
+
+- 29 recipe definitions are included, with an additional fallback recipe for the Trident.
+
+- Recipes use vanilla Minecraft ingredients and the normal Crafting Table.
+
+- Includes combat, exploration, End, Nether, Trial Chamber, archaeology, music, nature and utility items.
+
+- No custom replacement items are required for the recipe results.
+
+Complete Recipe Guide
+
+Each 33 grid below shows the exact Crafting Table pattern. Empty cells must remain empty.
+
+1. Enchanted Golden Apple 1
+
+G
+G
+G
+
+G
+A
+G
+
+G
+G
+G
+
+G = Gold Block | A = Apple
+
+2. Nautilus Shell 1
+
+P
+P
+P
+
+P
+B
+P
+
+P
+P
+P
+
+P = Prismarine Shard | B = Bone
+
+3. Heart of the Sea 1
+
+D
+D
+D
+
+D
+C
+D
+
+D
+D
+D
+
+D = Prismarine Shard | C = Nautilus Shell
+
+4. Totem of Undying 1
+
+G
+E
+G
+
+E
+T
+E
+
+G
+E
+G
+
+G = Gold Ingot | E = Emerald | T = Ghast Tear
+
+5. Elytra 1
+
+P
+D
+P
+
+L
+C
+L
+
+P
+D
+P
+
+P = Phantom Membrane | D = Diamond | L = Leather | C = Diamond Chestplate
+
+6. Trident 1
+
+P
+S
+P
+
+I
+
+S
+
+P = Prismarine Shard | S = Nautilus Shell | I = Iron Ingot
+
+Fallback shapeless recipe: 2 Prismarine Shard + 1 Nautilus Shell + 1 Iron Ingot + 1 Stick.
+
+7. Shulker Shell 1
+
+E
+P
+E
+
+P
+C
+P
+
+E
+P
+E
+
+E = Ender Pearl | P = Popped Chorus Fruit | C = Chorus Fruit
+
+8. Wither Skeleton Skull 1
+
+C
+C
+C
+
+C
+S
+C
+
+C
+C
+C
+
+C = Coal | S = Skeleton Skull
+
+9. Saddle 1
+
+L
+L
+L
+
+L
+I
+L
+
+I
+
+I
+
+L = Leather | I = Iron Ingot
+
+10. Name Tag 1
+
+P
+P
+P
+
+I
+
+S
+
+P = Paper | I = Iron Ingot | S = String
+
+11. Iron Horse Armor 1
+
+I
+
+I
+
+I
+I
+I
+
+I
+
+I
+
+I = Iron Ingot
+
+12. Golden Horse Armor 1
+
+G
+
+G
+
+G
+G
+G
+
+G
+
+G
+
+G = Gold Ingot
+
+13. Diamond Horse Armor 1
+
+D
+
+D
+
+D
+D
+D
+
+D
+
+D
+
+D = Diamond
+
+14. Nether Star 1
+
+W
+S
+W
+
+D
+G
+D
+
+W
+S
+W
+
+W = Wither Skeleton Skull | S = Soul Sand | D = Diamond | G = Ghast Tear
+
+15. Echo Shard 2
+
+A
+S
+A
+
+S
+C
+S
+
+A
+S
+A
+
+A = Amethyst Shard | S = Sculk | C = Crying Obsidian
+
+16. Disc Fragment 5 2
+
+S
+A
+S
+
+A
+C
+A
+
+S
+A
+S
+
+S = Sculk | A = Amethyst Shard | C = Coal
+
+17. Dragon's Breath 4
+
+B
+G
+B
+
+G
+C
+G
+
+B
+G
+B
+
+B = Glass Bottle | G = Ghast Tear | C = End Crystal
+
+18. Dragon Egg 1
+
+O
+E
+O
+
+E
+N
+E
+
+O
+E
+O
+
+O = Obsidian | E = End Crystal | N = Nether Star
+
+19. Heavy Core 1
+
+B
+D
+B
+
+D
+N
+D
+
+B
+D
+B
+
+B = Breeze Rod | D = Diamond | N = Netherite Ingot
+
+20. Sniffer Egg 1
+
+M
+T
+P
+
+T
+E
+T
+
+P
+T
+M
+
+M = Moss Block | T = Torchflower Seeds | P = Pitcher Pod | E = Turtle Egg
+
+21. Netherite Upgrade Smithing Template 1
+
+D
+N
+D
+
+B
+G
+B
+
+D
+N
+D
+
+D = Diamond | N = Netherite Scrap | B = Blackstone | G = Gold Ingot
+
+22. Sponge 1
+
+K
+K
+K
+
+K
+P
+K
+
+K
+K
+K
+
+K = Dried Kelp | P = Prismarine Crystals
+
+23. Cobweb 1
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S = String
+
+24. Spore Blossom 1
+
+P
+M
+P
+
+M
+A
+M
+
+P
+M
+P
+
+P = Pink Petals | M = Moss Block | A = Flowering Azalea
+
+25. Budding Amethyst 1
+
+A
+A
+A
+
+A
+C
+A
+
+A
+A
+A
+
+A = Amethyst Shard | C = Calcite
+
+26. Music Disc Pigstep 1
+
+G
+B
+G
+
+B
+F
+B
+
+G
+B
+G
+
+G = Gold Ingot | B = Blackstone | F = Disc Fragment 5
+
+27. Music Disc Otherside 1
+
+E
+D
+E
+
+D
+F
+D
+
+E
+D
+E
+
+E = Emerald | D = Deepslate | F = Disc Fragment 5
+
+28. Music Disc Relic 1
+
+C
+B
+C
+
+B
+F
+B
+
+C
+B
+C
+
+C = Copper Ingot | B = Brick | F = Disc Fragment 5
+
+Credits & Rights
+
+Creator: Baku
+Addon Idea: Baku
+All Rights & Credits: Baku
+
+This pack is made for Minecraft Bedrock Edition. Do not re-upload, redistribute, rename, modify and publish, or claim this pack as your own without permission from Baku.
+
+Craft the rare. Keep exploring. Enjoy survival your way.

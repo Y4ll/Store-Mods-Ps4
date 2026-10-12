@@ -1,0 +1,21 @@
+LOW FIRE, SHIELD & SMALL TOTEM (v1.21+)
+
+Improve your combat efficiency and screen visibility with this essential PVP utility pack! This pack is designed to remove screen obstructions, giving you a clear view of your opponents during intense battles in Minecraft Bedrock and Pocket Edition.
+
+Main Features:
+
+Low Fire & Soul Fire: Reduced fire height so your vision stays clear even when you're on fire.
+
+Lowered Shield: The shield occupies much less screen space, allowing you to see what's ahead while blocking.
+
+Small Totem: A compact Totem of Undying texture that doesn't block the middle of your screen when popped.
+
+PVP Optimized: Clean textures designed to maintain high FPS on all mobile devices.
+
+How to Install:
+
+Download the .mcpack file from the link above.
+
+Tap the file to import it directly into Minecraft.
+
+Go to Settings > Global Resources > My Packs and Activate "Low Fire, Shield & Small Totem."

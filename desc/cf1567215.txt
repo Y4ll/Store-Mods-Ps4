@@ -1,0 +1,99 @@
+This addon doesn't need to activate any experimental toggles. but if you facing issues with no zombies on your worlds or you can't spawn it manually you can read the pinned comment"
+
+Welcome to No Man's Land
+
+No Man's Land is a medieval zombie apocalypse experience designed to make survivel feel tense, immersive, and unpredictable. This project focuses on atmosphere, stealth, and survival rather than overwhelming players with endless hordes. The undead are not just another hostile mob - they react to the world around them and force you to think before making every move.
+
+This is the first public alpha release, and many features, creatures, and systems are planned for future updates.
+
+WHAT'S NEW?
+
+Click on these spoiler dropdown to find out
+
+0.2.1 Update Stand Your Ground
+
+0.2 Full Changelog :
+
+Added :
+
+Wooden Barricade Blocks pathways while damaging zombies at the same time.
+
+Smoke Pot Stuns zombies caught inside the smoke.
+
+Fire Pot Sets zombies on fire.
+
+Resin Pot Slows down zombies that walk through the resin.
+
+Rattle Attracts zombies with its loud noise.
+
+Added Particle Quality options in the resource pack settings to let players adjust performance.
+
+Adjustment :
+
+Reduced the health of Rotten Peasants and Rotten Knights.
+
+Zombies now despawn outside a certain radius to improve performance.
+
+Reduced the maximum number of zombies that can spawn at the same time to improve performance.
+
+Zombie Corpses will now disappear if they are not looted within 1 minute after death to improve performance.
+
+Zombie Variants
+
+Bad Vision
+
+Their Hearing is often more dangerous than their vision. Careless movement, sprinting, or making noise dan attract unwanted attention even when you're safe.
+
+Stealth System
+
+Sneaking significantly reduces the chances of being detected by nearby zombies, allowing you to move through dangerous areas more carefully.
+
+During rain, the sound of rainfall helps mask your presence, making stealth much more effective.
+
+Day 5
+
+The world starts ralatively peacefull, giving players time to gather resources and prepare.
+
+The infected begin appearing from Day 6 onward or when indacator Days Played 5.
+
+Moon Phase Spawning
+
+Zombies still spawning on day or night, but they also react to the moon phase. You're safe on New Moon Phase, but probably die on Full Moon Phase.
+
+Horde Climbing
+
+When zombies gather in large numbers, they can help each other reach elevated positions, making fortified locations much less reliable than before.
+
+Looting Corpse
+
+Sneak near a corpse and interact whit it to search for random loots. Risk venturing into dangerous areas for a chance to find valuable resource.
+
+Visual Immersion
+
+To make the apocalypse feel more alive - and more terrifying, No Man's Land includes severa; visual effect :
+
+Changelog 0.1 Alpha - They're Coming
+
+Added :
+
+- 3 Medieval zombie variants
+
+- Stealth system
+
+- Moon phase spawning
+
+- Corpse looting
+
+- Horde climbing behavior
+
+- Visual blood immersion
+
+Follow The Project
+
+Thank You
+
+Thanks for downloading No Man's land.
+
+This project is being developed by a solo creator, and your support, feedback, bug reports, and suggestions help shape it's future.
+
+Good luck surviving the new worlds.

@@ -1,0 +1,61 @@
+The Sift Concept Dimension Add-On
+
+Explore an unofficial concept recreation of The Sift, a mysterious dimension filled with vibrant meadows, unusual terrain and strange new life.
+
+The Sift expands Minecraft Bedrock with a fully scripted custom dimension. Its procedural terrain system combines multiple noise layers to create plains, forests, mountains, raised plateaus and contrasting meadow patches without relying on traditional feature rules.
+
+Entering The Sift
+
+Use the following command:
+
+/eu_the_sift:enter
+
+The surrounding terrain will be generated before the player is teleported into the dimension.
+
+Development Status
+
+The Sift is currently an early concept project. Terrain generation, biome distribution, creatures and structures may change as development continues.
+
+Because the add-on uses experimental Minecraft Bedrock scripting and custom-dimension functionality, you may need beta api options enabled.
+
+Creating a backup before updating the add-on is recommended.
+
+Entities
+
+Blub
+
+Trill
+
+Biomes
+
+Disclaimer
+
+This is an unofficial fan-made concept and is not affiliated with or endorsed by Mojang Studios or Microsoft. It is an interpretation of The Sift based on currently available information and original creative ideas.
+
+Dev:
+
+YouTube:
+https://www.youtube.com/@Euforia-conr
+
+Discord:
+euforiaconr
+
+Discord Euforia Server Community:
+https://discord.gg/YJ5v727bJH
+
+Twitter:
+https://x.com/EuforiaConR
+
+Artist:
+
+YouTube:
+https://www.youtube.com/@drecxiMC?sub_confirmation=1
+
+Gmail:
+dereckmonroy940@gmail.com
+
+Twitter:
+https://x.com/Drecxi_00
+
+Note:
+Do not forget to enable the Beta API in the Experimental Options.

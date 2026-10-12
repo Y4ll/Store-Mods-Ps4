@@ -1,0 +1,54 @@
+Fiery Combat
+
+A timing-based combat overhaul for Minecraft Bedrock Edition.
+
+Fiery Combat replaces Minecraft's default combat with a more responsive and skill-based combat system focused on timing, positioning, and weapon handling. Attacks, defense, movement, and hit reactions are designed to make every encounter feel more deliberate and engaging.
+
+Trailer
+
+Core Features
+
+-
+
+Timing-Based Combat
+Replace traditional spam attacks with a combat system built around attack timing and deliberate inputs.
+
+-
+
+Weapon-Based Combat
+Different weapon types have their own characteristics, allowing swords, greatswords, gauntlets, maces, and other weapons to play differently
+
+-
+
+Poise System
+Attacks apply impact to a target's poise. Taking enough impact can break poise and create an opening for stronger attacks.
+
+-
+
+Guard & Parry
+Defend against incoming attacks with well-timed guards and parries. Good timing can turn an enemy's attack into an opportunity.
+
+-
+
+Clash System
+Certain attacks can collide with each other, creating weapon clashes and rewarding players who manage their attacks and timing carefully.
+
+-
+
+Roll & Evasion
+Use directional rolls to avoid attacks and reposition during combat, with a short invulnerability window to reward precise timing.
+
+-
+
+Player Settings
+Customize combat behavior, attack input, camera options, visual indicators, and other gameplay preferences.
+
+Designed for Skill-Based Combat
+
+Fiery Combat is built around a simple principle:
+
+Don't just attack. Read the fight.
+
+Position yourself, manage your actions, recognize enemy openings, and choose the right response. Whether you're fighting mobs, challenging another player, or building your own combat style, every action should have a purpose.
+
+Fiery Combat aims to make Minecraft combat feel more responsive, readable, and rewarding while keeping the system accessible to Bedrock players.

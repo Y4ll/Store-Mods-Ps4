@@ -1,0 +1,37 @@
+Ultra Dynamic Light Addon With Head Light + Offhand
+
+Ultra Dynamic Light is a Minecraft Pocket Edition add-on that brings Java Edition style Dynamic Lights into your world.
+
+This add-on is fully Achievement Friendly, which means your world achievements will remain enabled even after applying the add-on.
+
+How to Activate
+
+To use this add-on, go to your world settings and activate both:
+
+Resource Pack
+
+Behaviour Pack
+
+After enabling both packs, the Dynamic Light system will start working in your world automatically.
+
+Features
+
+Hold any light source block or item in your hand to emit Dynamic Light around the player.
+
+All Glowing items and blocks support offhand
+
+Select item in hotbar and 2 time sneak to sweep items in offhand
+
+Dropped light source items also emit Dynamic Light on the ground.
+
+Dynamic Lights are also fully visible underwater, including in deep water areas, allowing players to explore oceans, caves, and underwater structures with clear lighting effects.
+
+Includes a brand new special helmet called Head Light.
+
+Equip the Head Light helmet on your players head to get a stronger and better light source while exploring caves, night areas, and dark places.
+
+Enjoy smooth and immersive Dynamic Lighting in Minecraft Pocket Edition with achievement support! :::
+
+Made By RJ Studio Do not Republish without Credit
+
+Discord : https://discord.gg/yzHGpdKCAD

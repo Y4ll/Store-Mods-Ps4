@@ -1,0 +1,36 @@
+Vampire craft - Vampires, werewolves and hunters
+
+With this addon it is now possible to become the strongest being in all of Minecraft. So try what in the opinion of many is the best vampire and werewolf addon for minecraft bedrock.
+
+Features
+
+The addon has unique mechanics to transform the experience of playing Minecraft like drinking blood... Unique mechanics for vampires, where he must drink blood to not end up dying of thirst.
+
+Read more about this mechanic on our official wiki: https://wiki.sunrise-studio.site/addons/vampire-craft/features/#drink-blood
+
+It is possible to transform into a vampire or werewolf using your fangs, which are dropped when you kill one of them... Wait 5 min and the transformation will be complete. After having already become a vampire or werewolf, it is possible to unlock skills at the blood altar and use them using the item that appears in the player's inventory at the end of the transformation.
+
+See more about becoming a vampire: https://wiki.pedro-denovo.site/addons/vampire-craft/features.html#%F0%9F%A7%9B-how-to-become-a-vampire
+
+See more about becoming a werewolf: http://localhost:5173/addons/vampire-craft/features.html#%F0%9F%90%BA-how-to-become-a-werewolf
+
+See more about unlocking and using skills: http://localhost:5173/addons/vampire-craft/features.html#%F0%9F%A7%AA-how-to-unlock-new-skills
+
+Community
+
+To answer questions, suggestions, problems or anything else, get in touch via the official Sunrise Studios discord
+https://discord.gg/NvRvSu2nCA
+
+Mention @pedro_denovo and we will help you
+
+Addon screenshots
+
+Read more about Vampire Craft on the official addon wiki page.
+
+wiki page: https://wiki.sunrise-studio.site/addons/vampire_craft/
+
+CREDITS
+
+Thanks to nextplumestudio for the Traditional Chinese and Simplified Chinese translations.
+
+MORE CONTENT

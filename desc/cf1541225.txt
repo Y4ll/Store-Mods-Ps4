@@ -1,0 +1,57 @@
+Ultimate TNT Expansion
+
+Ultimate TNT Expansion is a powerful and feature-rich mod that completely enhances the explosive experience in Minecraft. This mod introduces a wide variety of custom TNT types, each with unique abilities, effects, and mechanics designed to transform gameplay, whether for survival, creative building, or large-scale destruction.
+
+Features
+
+Multiple New TNT Variants
+
+Discover a collection of highly customized TNT blocks, each with distinct explosion behaviors and visual effects.
+
+Advanced Explosion Mechanics
+
+Experience explosions beyond vanilla limits, including massive blasts, controlled detonations, chain reactions, and special effects.
+
+Unique Abilities
+
+Some TNT types may include:
+
+Area mining explosions
+
+Entity-targeting blasts
+
+Environmental transformations
+
+Elemental effects (fire, lightning, etc.)
+
+Optimized Performance
+
+Designed to handle powerful explosions while maintaining stable gameplay performance.
+
+Survival & Creative Friendly
+
+All TNT types can be balanced for survival progression or freely used in creative mode for testing and fun.
+
+Compatibility
+
+Compatible with the latest versions of Minecraft (check file details for supported versions)
+
+Works alongside most mods (unless they directly modify explosion mechanics)
+
+Installation
+
+Download the mod file
+
+Install a compatible mod loader (Forge / Fabric)
+
+Place the file in your mods folder
+
+Launch Minecraft and enjoy!
+
+Why Use This Mod?
+
+If youve ever felt that vanilla TNT is too limited, this mod takes explosives to the next level. Whether you want massive destruction, efficient mining, or just chaotic fun, Ultimate TNT Expansion delivers a completely new explosive experience.
+
+Note
+
+Due to the high power of some TNT types, use with cautionespecially in survival worlds or multiplayer servers

@@ -1,0 +1,81 @@
+Minecraft But Structure Loots Are OP
+
+Created by: GamerFile
+
+In this addon, all structure chest loot has been modified to drop overpowered items!
+With just a few loot chests from villages, desert temples, igloos, fortresses, bastions, jungle temples, strongholds, end citieseven ancient citiesyou can collect enough gear to defeat the Ender Dragon or complete any survival goal with ease.
+
+Originally made for Java, this version is now available for MCBE. So go aheaddownload it and support me!
+
+What's Inside?
+
+Here are some of the OP items you can find:
+
+-
+
+Full Set of Enchanted Diamond Armor
+
+-
+
+Full Set of Enchanted Netherite Armor
+
+-
+
+Golden Apples & Enchanted Golden Apples
+
+-
+
+Golden Carrots
+
+-
+
+Enchanted Diamond & Netherite Tools
+
+-
+
+End Portal Frames, Nether Portal Blocks, Eye of Ender
+
+-
+
+All Mineral Blocks, including Netherite Blocks
+
+-
+
+Totems of Undying, Obsidian, Blaze Rods, Ender Pearls
+
+-
+
+Water Buckets
+
+-
+
+...and much more! (Too much to list here!)
+
+Bonus Surprise
+
+If you're lucky, you might find a chest inside a chest.
+Yes, it's rarebut opening those nested chests can give even more OP loot. And if it happens again? Lets just say... jackpot.
+
+Screenshots
+
+<figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure>
+
+Special Thanks
+
+Thanks to ViiaaaCans and CheeseMuffins for the suggestion on achievement compatibility and Trims and Enchants retention these features were added thanks to your comments!
+
+Important Notes
+
+-
+
+This addon works only in newly created worlds. It wont function in existing ones.
+
+-
+
+If you're a content creator, please include a link to this or MCPEDL page in your video or description.
+
+-
+
+Do not reupload, share direct download links, or modify and repost this addon without my permission. If you want to share it, link to the official page.
+
+GamerFile. All rights reserved.

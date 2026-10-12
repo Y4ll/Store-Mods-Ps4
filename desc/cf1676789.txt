@@ -1,0 +1,7 @@
+Suitable for low-end devices, it smoothly maintains the game's default style and features vibrant water effects.
+
+From version 2.5 onwards, I recommend using it with MBLoader.
+
+This project was created by me, and I have released it as open source.
+
+OPEN SOURCE

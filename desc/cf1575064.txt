@@ -1,0 +1,21 @@
+Tired of losing all your items every time you die? Keep Inventory lets you keep your items and XP after death without enabling cheats. Your tools, armor, diamonds, and everything else in your inventory stay with you when you respawn.
+
+Commands
+
+- /keepinvon - Enables Keep Inventory for the entire world.
+
+- /keepinvoff - Disables Keep Inventory.
+
+Features
+
+- Enabled by Default - Keep Inventory activates automatically when you apply the addon
+
+- No Cheats Required - Works without enabling cheats in your world settings
+
+- Keep Your XP - Your experience stays with you when you die
+
+- Simple Commands - Turn Keep Inventory on or off anytime using the commands
+
+- Works for Everyone - Keep Inventory applies to all players in the world
+
+Having any issues with my mods or found a bug? Or do you have an idea for a mod you would like me to make? Join my Discord server and let me know. I'm active there regularly and would love to hear your feedback, suggestions, and ideas.

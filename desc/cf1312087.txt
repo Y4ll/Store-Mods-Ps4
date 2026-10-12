@@ -1,0 +1,29 @@
+NovaFX Visuals gives Bedrock a clear, cool daylight, crisp blue skies falling away through golden dusk, water alive with caustics and waves, and volumetric fog written for all 89 biomes.
+
+- Per-Biome Volumetric Fog 22 Profiles Across 89 Biomes
+
+- Volumetric God Rays
+
+- Blue-to-Gold Skies, Dawn to Midnight
+
+- Water Caustics, Waves & Depth-Graded Clarity
+
+- Dedicated Nether & End Atmospherics
+
+- 109 Coloured Light Sources
+
+- Soft Shadows
+
+- Full PBR Textures (Default & 32x)
+
+- Compatible with other Packs
+
+Installation:
+
+- Download the NovaFX Visuals.mcpack
+
+- Open it to import
+
+- Enable NovaFX Visuals in your resource packs
+
+- Turn on Vibrant Visuals

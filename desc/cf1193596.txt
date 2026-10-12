@@ -1,0 +1,7 @@
+Rings and Relics is an addon that introduces over 35 new accessory items, each offering unique mechanics for players. It features two types of accessories: Rings and Relics. Rings provide simpler mechanics, while Relics offer more advanced and complex abilities.
+
+Note: This addon requires Novelty API to work.
+
+All accessories can be obtained as loot drops from defeating mobs. Each mob has a specific drop chance, making exploration more rewarding and exciting than ever before.
+
+All relics and rings can be found in equipment tabs

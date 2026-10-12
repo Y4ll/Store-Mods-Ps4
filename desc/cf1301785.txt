@@ -1,0 +1,61 @@
+Java-like ender pearls
+
+BisectHosting is an awesome Minecraft Server host for both Bedrock and Java editions!
+
+Their top-tier features include, but are not limited to:
+
+- Multi-Game Hosting: Server hosting for 110+ games with BisectOne.
+
+- One-Click Modpacks: Pre-install 2,300+ Minecraft modpacks automatically.
+
+- 24/7/365 Support: Round-the-clock troubleshooting for your server and mods.
+
+- Premium Performance: Powered by the latest Ryzen hardware.
+
+- Global Network: 21 locations across the globe for low latency.
+
+- Advanced Security: Built-in DDoS protection.
+
+Starting from just $5.99! Click the link below or use code "sisso" at checkout for 25% off your first month!
+
+by SissoKassem
+
+its quite simple really, this replicates the minecraft java ender pearl behavior like loading chunks, working in 8 blocks tall stasis chambers, having air and water drag, ect
+
+screenshots:
+
+- This behaviour pack does NOT need any experiments
+
+- This behaviour pack DOES need minecraft 1.21.90 or later
+
+- chunk loading loads 5x5 chunk square around the pearl, instead of java's 3x3 as 5x5 is the minimum
+
+- As of v1.5.2, this is achievement friendly!
+
+V1.8.0 -- (NEW)
+
+- This Version Adds Support for logging! Maintaining Your pearl if you leave your world / server
+
+- This Version Adds Support for dimentional persistence, leving the overworld nd going to h enether wont remove your pearl!!
+
+V1.7.9 -- (NEW)
+
+- This Version Adds Support for logging! Maintaining Your pearl if you leave your world / server
+
+- This Version Adds Support for dimentional persistence, leving the overworld nd going to h enether wont remove your pearl!!
+
+- This version adds a mob spawning engine that took around 1500 lines of code! (very buggy wih iron farms n such it preffered to use 1.8.0
+
+- very laggy and unstable, report ll isues to the discord
+
+Java-Like enderpearl Bundle
+
+- includes the stable 1.8.0 rlease and beta 1.7.9 in a single addon download
+
+EXTRAS (optional but reccomended)
+
+- Java-like hunger (adds java hunger, sauraion, and exaustion)
+
+- Java-like Combat (adds java pvp mchnichs)
+
+note: version 1.5 fixed chunk loading

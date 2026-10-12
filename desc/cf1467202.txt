@@ -1,0 +1,29 @@
+EnchantCraft PRO v3.0.0 - The Ultimate Enchanting Overhaul
+
+Hey everyone. Let us talk about one of the most frustrating and outdated mechanics in vanilla survival Minecraft: the enchantment table. You spend hours grinding mobs to reach level thirty, craft bookshelves, and set up your enchanting room. When you finally place your diamond pickaxe on the table hoping for Fortune three, the game relies entirely on random number generation and gives you Unbreaking one instead. It wastes your time, drains your experience points, and forces you to build massive, laggy villager trading halls just to get the specific books you actually want.
+
+I wanted to completely remove the annoying RNG from the game and give players total control over their gear progression. That is exactly why I created the EnchantCraft PRO addon. This expansion acts as a direct, interactive enchantment shop where you spend your experience points to get exactly what you want, when you want it. For Version 2.0.0, the entire underlying code has been rewritten. I have completely removed the old premium key locks, meaning every single feature, tier, and menu is fully unlocked for everyone. It is a massive progression upgrade that respects your grinding time.
+
+The Master Enchantment Dashboard
+
+The core of this addon is the brand new interactive user interface. I wanted to make upgrading your gear as smooth as possible without forcing you to memorize complex crafting table recipes or chat commands. Now, all you have to do is hold a standard Book in your hand, sneak to crouch, and use the item. This instantly opens the Master Enchantment Dashboard on your screen.
+
+Inside this menu, everything is perfectly organized. If you are holding a sword, you can open the Weapons tab and purchase specific upgrades like Sweeping Edge or Mending directly onto the item. The addon calculates the exact experience level cost for each upgrade and deducts it from your character instantly. It completely eliminates the need for lapis lazuli, bookshelves, and random rolling.
+
+Over-Max Enchantments and True Power
+
+Vanilla Minecraft strictly limits how powerful you can become. Once you hit Sharpness five or Efficiency five, your progression permanently stops. I wanted to reward players who grind hard into the late game. With this new update, the EnchantCraft system allows you to push your gear far beyond the vanilla limits.
+
+If you have enough experience points, you can use the dashboard to upgrade your swords to Sharpness ten, allowing you to slice through heavy boss mobs with ease. You can upgrade your pickaxes to Efficiency seven to instantly mine deep slate, or push your looting tools to Fortune five to double your diamond yields. It makes the endgame incredibly fun and gives you a massive goal to work towards.
+
+The Disenchanting System
+
+If you love raiding End Cities or Bastion Remnants, you probably have chests completely filled with high-tier diamond and gold gear that have terrible enchantment combinations. Normally, this gear is just useless clutter.
+
+To fix this, I introduced the Disenchanting feature. Through the main menu, you can select any enchanted item in your inventory and strip the magic right off of it. Not only does this give you a clean, unenchanted piece of gear to start fresh with, but the system also refunds a portion of the experience points stored in that item back to your character. It is an amazing way to recycle trash loot into valuable XP for your main gear.
+
+Server Balance and Admin Controls
+
+Giving players the ability to craft level ten enchantments can easily break a multiplayer server if it is too cheap. To make sure your survival Realm remains challenging, I built a dedicated Admin Settings panel into the addon.
+
+Server owners can access this menu to globally adjust the experience point multipliers. If you feel like your players are getting too powerful too quickly, you can increase the XP cost of all high-tier enchantments. You can also restrict certain over-max

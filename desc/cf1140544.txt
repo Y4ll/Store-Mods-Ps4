@@ -1,0 +1,17 @@
+Keep your base a complete secret with Phase Blocks, Pass through blocks that know one else knows about! Keep all your items safe behind a secret wall!
+
+Phase Blocks allows you to keep your base hidden away from everyone else.
+
+As an extra security measure you could even add a hidden room inside your secret base just incase someone follows you home. The perfect place to hide all the loot you want to keep safe.
+
+Craft a Phase Table and you will be able to turn any block into a Phase Block, they will look exactly the same as the vanilla block but you will be able to phase through them to get to your base.
+
+Place any block on the Phase Table to reduce it's mass allowing you to phase through it.
+
+-Works with Texture Packs-
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on
+
+Achievement Compatible

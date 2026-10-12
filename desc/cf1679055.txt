@@ -1,0 +1,7 @@
+Item Durability Indicator adds a visual durability display for the tool you are currently holding. It shows both the current durability and maximum durability of the item, allowing you to clearly see exactly how much durability the tool has left.
+
+For example, if you are using an Iron Axe, the display might show 180/250, meaning the axe currently has 180 durability remaining out of a maximum of 250.
+
+This is useful for tracking your tool's condition more accurately. Instead of guessing how much durability your tool has left based on its durability bar, you can see the exact numbers and better plan when you need to replace or repair your tools.
+
+Note: Images shown are AI-generated.

@@ -1,0 +1,95 @@
+Disclaimer: This is an ancient-themed addon based on fantasy and magic. None of the content is based on known history.
+
+JOIN DISCORD
+
+Aetherion Echoes
+
+Aetherion Echoes is an ancient themed addon that brings the forgotten power of the past back to life.
+Discover powerful Artifacts, master ancient Magic, face terrifying Bosses, and uncover the mysteries left behind by civilizations long forgotten.
+
+- How to play this addon?
+When you log in for the first time, you will receive 2 free artifacts. Choose wisely!
+
+- Every night between 810 PM, Mummies will spawn based on your day count. Look up at the sky with an empty hand to check your current day count.
+
+- After defeating Mummies or bosses, you will receive Ancient Coins (for the Artifact Shop) and Ancient Gold Coins (for the Magic Shop).
+
+- Right-click the coins to open the shops.
+
+- Bosses will start spawning from Day 9 onward, and they only spawn at midnight. If you want to skip a boss fight, simply go to sleep early.
+
+- Bosses usually spawn alone, but there are certain days when all of them can spawn together. Don't worry, though this only applies once you reach Day 100+.
+
+- Is this addon only about fighting?
+No! There are many artifacts and magic abilities that can be used for exploration, adventure, and many other things.
+
+- What is my favorite artifact in the addon?
+Soul Lantern, because Creepers can no longer sneak up behind me and explode.
+Feather Spirit, because you can jump without limits.
+
+- What is my favorite magic ability in the addon?
+Dragon Legacy, because you can breathe fire like a dragon.
+Wind Step, because you can fly with an Elytra and travel anywhere without limits.
+
+Bosses:
+
+Ancient Dragon
+
+The Ancient Dragon harnesses her wind magic to create an impenetrable barrier. (Youll need artifacts that grant a speed boost to overcome it.)
+She possesses the power to command the forces of nature ( wind and lightning )
+
+(...)
+
+Ancient Pharaoh
+
+The Ancient Pharaoh is the most dangerous one, even though he isnt particularly fast or physically strong. This boss focuses more on intelligence and strategy rather than brute strength. Yes, this boss can actually think.
+
+However, because he takes time to think before acting, you can land multiple hits on him before he executes his next move. Youll need to equip 11/13 artifacts if youre not using magic.
+
+The Ancient Pharaoh can summon an army of the dead and unleash a violent whirlwind.
+(Youll need artifacts that can repel undead and monsters to defeat this boss.)
+
+(...)
+
+Ancient Nefer
+
+Nefer is the complete opposite of the Pharaoh. The moment she sees you, she will immediately hunt you down without hesitation. She doesnt waste even a second thinking.
+
+With her immense power and incredible speed, if youre not prepared or properly geared up, you wont be able to escape her. Youll become her prey.
+
+Nefers SFX comes in two versions: Ancient and English.
+Make sure to choose the version you want in the download section.
+
+(...)
+
+Cursed Mummy
+
+The Ancient Cursed Mummy is an undead soldier that spawns every night. You dont actually need to kill it, because killing it may cause you even more problems, unless youre prepared to deal with the consequences.
+
+(...)
+
+Cursed Scarab
+
+The Cursed Scarab has a short lifespan. Its also extremely small and difficult to hit. Once it bites you, you may be afflicted with a cursed effect. Running away from it is probably your best option.
+
+(...)
+
+Artifacts:
+
+how to use: To activate an artifact, you must keep it in your inventory. Once it is in your inventory, the artifact will activate automatically. Artifacts function as passive skills.
+
+Titan Heart
+
+Grants Double Max Health, and restores 1 Heart every 1 second.
+
+Ancient Ember
+
+The player's basic attacks have a 50% chance to burn the target for 60 seconds.
+
+Relic of Extinction
+
+Deals 520 additional random damage to entities that belong to the Undead or Monster family.
+
+Hunter Fang
+
+Has a 30% chance to mark the target. A marked target takes 210 damage e

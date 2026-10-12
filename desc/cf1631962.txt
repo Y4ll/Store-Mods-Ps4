@@ -1,0 +1,63 @@
+OFFICIAL ADDON by PKFL, LookOut3D
+
+!
+
+Bob The Toolbox brings the visitor from LookOuts series into Minecraft.
+
+CREDITS
+
+Created by PKFL & LookOut3D & TingKH
+
+Mod Developed by PKFL & TingKH
+
+REQUIRED
+
+- BETA APIs (Experiments) -
+
+- V26.0 - V26.30+ -
+
+Bob will guide you through a sequence of building lessons, resource-gathering objectives and increasingly dangerous visitations. Follow his instructions, prepare your shelter and find The Visitor before it finds you.
+
+The Story
+
+When a new world begins, Bob The Toolbox appears near the players. At first, he may seem helpful: he gives instructions, provides materials and teaches you how to build.
+
+Complete his lessons by placing the requested blocks and gathering the required resources. As the story progresses, Bob begins warning you about something called The Visitor.
+
+When visitation begins, The Visitor will hide somewhere nearby. You have only ten seconds to find it. If you succeed, it will flee. If you fail, the visitation becomes a deadly chase.
+
+Build carefully, listen to Bob and prepare before night arrives.
+
+Some later events and appearances are intentionally left unexplained.
+
+Features
+
+- A complete story campaign featuring Bob The Toolbox.
+
+- Original voice lines and sound effects.
+
+- Normal, talking and crushed appearances for Bob.
+
+- Bob watches nearby players and reacts when approached.
+
+- Pick up Bob, carry him in your inventory and place him back into the world.
+
+- Building objectives.
+
+- Multiple construction lessons using different wood and building materials.
+
+- Resource-gathering objectives.
+
+- Crawlspace and basement construction challenges.
+
+- Timed visitation events.
+
+- The Visitor can hide in randomly selected locations.
+
+- The Visitor can pursue players, climb and break through certain obstructions.
+
+- Multiple story stages with different rewards and outcomes.
+
+- commands for starting, testing and controlling campaign events.
+
+- Multiplayer support.

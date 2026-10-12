@@ -1,0 +1,73 @@
+HerbCraft
+
+A complete Minecraft Bedrock addon that introduces a farmable magical herb, unique custom traders, craftable potions with special effects, and a scripted growth and economy system designed for Bedrock 1.21.90+.
+
+Overview
+HerbCraft brings a new, fully-integrated farming and economy system into Minecraft. New trader mobs spawn across the world, offering a way to start your farm with this mystical plant. The herb grows through multiple visual stages, and players can harvest it, process it, and craft it into unique consumables with magical properties. The addon combines custom entity behaviors, scripted block mechanics, and a complete trade loop to deliver a vanilla-friendly experience.
+
+Core Features
+Natural Mob Spawning: Three new custom mobs the Herb User (2 variants) and the Herb Wandering Trader spawn naturally in specific biomes.
+
+Complete Farming Cycle: Grow a custom Herb Bush from an Herb Zip Seed, watch it mature through multiple stages, and harvest it with shears.
+
+Craftable Magical Items: Process your harvest to craft a Baga or brew a Mystic Potion, each providing unique status effects from their latent magic.
+
+Scripted Growth & Effects System: Robust JavaScript handlers manage the plant's random tick growth and apply status effects to players when items are consumed.
+
+Full Economy Loop: The new mobs act as traders, allowing you to sell your crafted goods for emeralds or buy seeds to expand your operation.
+
+Villager-like AI: Traders follow a day-night cycle, seeking shelter and sleeping at night, making them feel like a natural part of the world.
+
+Immersive Particle Effects: Consuming a Baga generates a unique particle effect, enhancing the magical experience.
+
+Two-Block Plant Structure: The Herb Bush grows to be two blocks tall, with linked logic ensuring both parts are managed correctly when harvested or broken.
+
+The Herb Traders
+To create a self-contained economy, this addon introduces three new trader mobs. These custom NPCs bring the world to life, providing a way for players to get started and a market to sell their final products.
+
+Behavior & Spawning:
+
+Herb Users (2 variants) spawn naturally and rarely in Plains biomes.
+
+The Herb Wandering Trader spawns in Jungle and Bamboo biomes.
+
+They all share advanced, villager-like AI, including wandering, opening doors, avoiding hazards, and sleeping in a bed at night.
+
+Trading:
+Each trader has a custom trade table. They will buy your harvested Herb, crafted Bagas, and brewed Mystic Potions in exchange for emeralds. They are also the primary source for acquiring Herb Zip Seeds.
+
+Items, Blocks & Recipes
+
+Items & Blocks
+
+- item.weedcraft:weed_zip_seed=Herb zip seed Plants the Herb Bush.
+
+- item.weedcraft:weed=Herb The raw, harvested plant material.
+
+- item.weedcraft:weed_bud=Herb Bud A processed item made by smelting Herb.
+
+- item.weedcraft:beck=Baga A craftable bundle of herbs with moderate effects.
+
+- item.weedcraft:bong_item=Mystic Potion A brewed concoction with potent effects.
+
+- tile.weedcraft:weed_bush.name=Herb bush The two parts of the custom plant.
+
+Crafting & Processing
+
+- Furnace Recipe: 1 Herb 1 Herb Bud.
+
+- Shaped Recipe (Baga): paper + Herb Bud + flint_and_steel Baga.
+
+- Brewing Recipe (Mystic Potion): Water Bottle + Herb Bud Mystic Potion.
+
+Spawning & Biomes
+Herb Users: Spawn rarely in Plains biomes, controlled by custom spawn_rules to ensure they are a special encounter.
+
+Herb Wandering Trader: Spawns in Jungle and Bamboo biomes.
+
+Spawn Logic: All mobs spawn on the surface, alone (max_size: 1), and with a density limit to prevent overpopulation in a single area.
+
+Growth & Harvesting Mechanics
+Random-Tick Growth: A custom JavaScript component (weedcraft:growth_handler) increments the plant's weedcraft:growth_stage state on random ticks until it reaches the final stage.
+
+Harvesting: Use shears on a fully grown, two-block-tall Herb Bush to receive Herb. The plant will revert to its initial growth stage. Breaking the plant will destroy it without any

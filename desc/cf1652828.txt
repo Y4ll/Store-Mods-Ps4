@@ -1,0 +1,13 @@
+Fnaf Statue Addon
+
+Adds posable static fnaf animatronics entities to your world.
+
+Includes most characters from FNAF 1/2
+
+How to use:
+
+Place down a statue, then crouch + interact to cycle through the poses.
+
+Addon currently in update 2.
+
+More coming soon......

@@ -1,0 +1,9 @@
+Mystery.jar horror mod for Minecraft bedrock Created based on the Trojan, the woonderland.jar, the broken script.
+
+This mod adds 15 Entities (more entities will be added in future updates) and also adds 4 structures that will appear throughout your world.
+
+entities will always haunt you in your world, you will not be able to hide from them anywhere
+
+DON'T FORGET TO ENABLE EXPERIMENTS WITH THIS MOD
+
+In the future, new mobs, structures, and possibly dimensions will be added.

@@ -1,0 +1,85 @@
+This is a major update that fixes all the bugs from the Vietnam Military Addon.
+
+This add-on features PvP gameplay, a new bullet damage calculation mechanic, and PvE; different ammo types have varying armor-piercing capabilities, and in-game armor types do not reduce bullet penetrationwith the exception of Netherite armor.
+
+Arrmor
+
+Modern Arrmor
+
+War in Vietnam
+
+Assault rifle
+
+1.Akm (Russia - Soviet)
+
+Akm-1 (STL-A1 VietNam)
+
+2 M4a1 (American)
+
+3.Stv380 , Stv215 (VietNam)
+
+4. Ak103 (Russian)
+
+5.Ak15(Russia)
+
+6.M16a1 (American -Nato)
+
+7.Car-15 (American - Nato)
+
+8.Fn-Fal(Nato)
+
+9 Akms (Soviet)
+
+10.Qbz-95 (China)
+
+Sniper - DMR
+
+https://youtu.be/
+
+1.SVDS
+
+2.SR-25
+
+SMG
+
+1.UZI Pro(Israel)
+
+2.Ump-45 (Nato)
+
+3.Mp5 a3 (Germany)
+
+4.Pizon PP-19(Russian)
+
+5.FN-P90
+
+Light Machines Gun
+
+1.M249
+
+2.RPD
+
+3.M60
+
+Anti Tank
+
+1.Rpg-7
+
+2.M72 law
+
+Vehicles Milytary
+
+BRDM2
+
+Commando M706
+
+Knife
+
+M9 knife
+
+Bayonets
+
+Medkit
+
+Stimshot
+
+Vietnam People's Army whit Stv380 + SPL40

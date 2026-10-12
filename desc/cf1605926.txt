@@ -1,0 +1,39 @@
+Upgrade your survival experience with Sneak and Enchant!
+
+Simply sneak while holding a compatible tool, weapon, or armor to open the Enchant Menu. Choose the enchantments you want, then apply them instantlyno commands, no anvils, and no complicated setup.
+
+Features
+
+Works in Survival Mode
+
+Supports Vanilla Enchantments
+
+More particles in 1.9.0
+
+Weapons, Tools & Armor Supported
+
+Fishing Rod, Bow, Crossbow, Trident & More
+
+Fast and Easy Enchant Menu
+
+Simple Sneak-to-Open System
+
+Mobile Friendly
+
+Lightweight & Optimized
+
+Compatible with the Latest Minecraft Bedrock Version
+
+How to Use
+
+Hold a compatible item.
+
+Sneak (Crouch).
+
+The Enchant Menu will appear.
+
+Select your enchantments.
+
+Press Apply Enchantments.
+
+Created by HexByte Official.

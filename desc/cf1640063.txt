@@ -1,0 +1,47 @@
+Ever wished the iconic Trailer look had just a bit more polish, color, and functionality?
+
+Bare Bones but Better! takes the clean, vibrant aesthetic of the original Bare Bones pack and dials it up to eleven. Packed with community-driven enhancements, subtle 3D details, quality-of-life UI tweaks, and glowing elements, this is the ultimate way to play Minecraft with trailer-style visuals without missing out on modern pack features!
+
+Key Features & Visual Upgrades
+
+- Saturated & Vibrance Boost: Saturated blocks, vibrant foliage.
+
+- Glowing Effects: Emissive textures for End Portals, torches, and armor trims for maximum ambiance in the dark.
+
+- Clearer World Details: Seamless clear glass, glass doors, and refined redstone visual indicators.
+
+- Quality of Life & UI: Numbered hotbars, 25-age kelp indicators, improved fence connections, new Bare Bones hearts and dirt variations.
+
+- 3D Elements & Fixing: reworked bed models/textures and logged hanging signs.
+
+- And more!
+
+Hall of Fame (Credits)
+
+This project exists thanks to the amazing work and contributions of these creators:
+
+- robot Original Bare Bones creator
+
+- saif Original pack holder, core concepts, testing & bug fixes
+
+- Notnicto Original pack creator, texture saturation, feature ideas
+
+- New Vietnam Pack naming, credits management, clear glass, fast leaves, glass doors, bed model fixes, logged hanging signs, body/item armor updates, black nether bricks, brown leather, black arrow tips, & Christmas Forever update
+
+- Regzinx Saturated leaves & modified bed models
+
+- Pagodzilla Redstone visual overhaul
+
+- Fused Bolt & alexs_mtro 3D Vanilla x Bare Bones assets
+
+- Bedrock Tweaks (https://bedrocktweaks.net/) & Vanilla Tweaks (https://vanillatweaks.net/) 25-age kelp, numbered hotbar, better fences, and concepts for brown leather, dirt variations, and logged hanging signs
+
+- zan4re27 Glowing Ender portals & glowing torches
+
+- PandaMine Glowing armor trims
+
+- Pochilito Modern Bare Bones asset updates
+
+- LegendWar ultimate texture pack testing world
+
+- Prestonsupf Bare Bones farmland

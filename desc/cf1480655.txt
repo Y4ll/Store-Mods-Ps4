@@ -1,0 +1,101 @@
+This Freecam add-on for Minecraft Bedrock Edition lets you move the camera freely without moving your player, allowing you to fly through blocks and inspect your world easily.
+
+This add-on is available under the CC BY-NC-ND License. Non-commercial use with attribution only, but you may not modify or adapt it in any way.
+
+Features
+
+Freecam Controls
+
+Open the FreecamBE Menu by using the FreecamBE item in your hand to toggle freecam on/off, lock/unlock the camera, and access all settings.
+
+Category
+Option
+Description
+
+Movement
+Horizontal & Vertical Speed
+Adjust camera speed (0100, default: 1.0)
+
+Collision
+Ignore Non-Solid Blocks
+Pass through leaves, grass, etc.
+
+Ignore Openable Blocks
+Pass through doors, trapdoors, and fence gates
+
+Ignore All Collision
+Pass through everything (requires OP or Creative mode)
+
+Visual
+Freecam Spawn Position
+Inside Player (default), In Front of Player, or Behind Player
+
+Utility
+Close on Damage
+Automatically exit freecam when you take damage
+
+Notification
+Action Bar
+Messages appear on the action bar
+
+Chat (Private Message)
+Messages appear in chat privately
+
+Disabled
+No notifications shown
+
+Camera Lock
+
+Freeze the camera in place with a locked rotation.
+
+Support language
+
+- English
+
+- Dansk (Danmark)
+
+- Deutsch (Deutschland)
+
+- Espanol (Espana)
+
+- Espanol (Mexico)
+
+- Filipino (Philippines) [Required Pack: Universal Language]
+
+- Francais (Canada)
+
+- Francais (France)
+
+- Indonesia (Indonesia)
+
+- Italiano (Italia)
+
+- ()
+
+- ()
+
+- Portugues (Brasil)
+
+- Portugues (Portugal)
+
+- ()
+
+- () [: THLanguage Bedrock]
+
+- Turkce (Turkiye)
+
+- ()
+
+- ()
+
+Example picture:
+
+Video / Review Add-On
+
+Support
+
+You can join Discord to be notified of any new additions to the addon.
+
+Note: Videos of the addon are also allowed, but you must link to either CurseForge or MCPEDL for downloading
+
+Note: This addon need BetaAPIs

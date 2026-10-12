@@ -1,0 +1,362 @@
+Full description:
+
+You can find different breeds of dogs in the woods and tame them with bones.
+
+<figure class="image"></figure>
+
+When a dog is housebroken it will be given a leash that indicates it is housebroken. You can change the color of the leash using a dye.
+
+<figure class="image"></figure>
+
+Your tame dog will protect you from attacking enemies or attacks.
+
+<figure class="image"></figure>
+
+Poop
+
+Your dog will release his poop in a short period of time.
+
+<figure class="image"></figure>
+
+With the poop you will be able to obtain natural charcoal only from the melting furnace.
+
+<figure class="image"></figure>
+
+Dog cookies
+
+You can use the cookies to feed your dogs and restore their health.
+
+<figure class="image"></figure>
+
+You will be able to make special dog cookies that will give you unique abilities:
+
+<figure class="image"></figure>
+
+List of cookies:
+
+- Red cookie: Will give you regeneration I
+
+- Purple Cookie: Will give you strength I
+
+- Orange Cookie: Will grant fire resistance I
+
+- Green Cookie: Will give you slow fall
+
+- Blue cookie: Will grant resistance I and resistance to thrust.
+
+Ball and frisbee
+
+You can play with your dogs by throwing the ball or the frisbee for your dog to go for it.
+
+<figure class="image"></figure>
+
+When your dog picks up the ball or frisbee, interact with it to pick it up and the dog will release experience orbs.
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+Dog breeds:
+
+Alaskan Klee Ka
+
+Characteristics:
+
+Domesticated:
+
+- Health: 20
+
+- Damage: 3
+
+- Movement: 0.3
+
+Wild:
+
+- Health: 40
+
+- Damage: 4
+
+- Movement: 0.3
+
+Basset Hound
+
+Characteristics:
+
+Domesticated:
+
+- Health: 16
+
+- Damage: 3
+
+- Movement: 0.225
+
+Wild:
+
+- Health: 35
+
+- Damage: 4
+
+- Movement: 0.255
+
+Beagle
+
+Characteristics:
+
+Domesticated:
+
+- Health: 20
+
+- Damage: 3
+
+- Movement: 0.3
+
+Wild:
+
+- Health: 40
+
+- Damage: 4
+
+- Movement: 0.3
+
+Bulldog
+
+Characteristics:
+
+Domesticated:
+
+- Health: 32
+
+- Damage: 4
+
+- Movement: 0.25
+
+Wild:
+
+- Health: 60
+
+- Damage: 6
+
+- Movement: 0.25
+
+Chihuahua
+
+Characteristics:
+
+Domesticated:
+
+- Health: 15
+
+- Damage: 2
+
+- Movement: 0.25
+
+Wild:
+
+- Health: 30
+
+- Damage: 3
+
+- Movement: 0.25
+
+Dalmatian
+
+Characteristics:
+
+Domesticated:
+
+- Health: 20
+
+- Damage: 3
+
+- Movement: 0.3
+
+Wild:
+
+- Health: 40
+
+- Damage: 4
+
+- Movement: 0.3
+
+Doberman
+
+Characteristics:
+
+Domesticated:
+
+- Health: 40
+
+- Damage: 7
+
+- Movement: 0.35
+
+Wild:
+
+- Health: 75
+
+- Damage: 9
+
+- Movement: 0.35
+
+German Shepherd
+
+Characteristics:
+
+Domesticated:
+
+- Health: 55
+
+- Damage: 6
+
+- Movement: 0.35
+
+Wild:
+
+- Health: 80
+
+- Damage: 8
+
+- Movement: 0.35
+
+Viringo
+
+Characteristics:
+
+Domesticated:
+
+- Health: 20
+
+- Damage: 3
+
+- Movement: 0.3
+
+Wild:
+
+- Health: 40
+
+- Damage: 4
+
+- Movement: 0.3
+
+Poodle
+
+Characteristics:
+
+Domesticated:
+
+- Health: 35
+
+- Damage: 3
+
+- Movement: 0.25
+
+Wild:
+
+- Health: 60
+
+- Damage: 4
+
+- Movement: 0.25
+
+You can change the color of the poodle by holding down the crouch button and interacting your poodle with a dye.
+
+<figure class="image"></figure>
+
+Rottweiler
+
+Characteristics:
+
+Domesticated:
+
+- Health: 35
+
+- Damage: 3
+
+- Movement: 0.25
+
+Wild:
+
+- Health: 60
+
+- Damage: 4
+
+- Movement: 0.25
+
+Shar Pei
+
+Characteristics:
+
+Domesticated:
+
+- Health: 20
+
+- Damage: 3
+
+- Movement: 0.2
+
+Wild:
+
+- Health: 40
+
+- Damage: 4
+
+- Movement: 0.2
+
+Sheep Dog
+
+Characteristics:
+
+Domesticated:
+
+- Health: 38
+
+- Damage: 3
+
+- Movement: 0.2
+
+Wild:
+
+- Health: 60
+
+- Damage: 4
+
+- Movement: 0.2
+
+Shiba Inu
+
+Characteristics:
+
+Domesticated:
+
+- Health: 20
+
+- Damage: 3
+
+- Movement: 0.3
+
+Wild:
+
+- Health: 40
+
+- Damage: 4
+
+- Movement: 0.3
+
+White swiss shepherd
+
+Characteristics:
+
+Domesticated:
+
+- Health: 25
+
+- Damage: 3
+
+- Movement: 0.3
+
+Wild:
+
+- Health: 50
+
+- Damage: 4
+
+- Movement: 0.3

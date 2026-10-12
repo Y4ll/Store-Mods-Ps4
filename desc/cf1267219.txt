@@ -1,0 +1,15 @@
+Members in my discord server get early access to all add-ons/packs
+
+https://discord.gg/UP86z5vkmv
+
+Donators to my PayPal get exclusive prelease content/sneak peaks through my discord server^ (and it helps support me wanting to keep these projects going)
+
+If you download an updated version, after already downloading a previous one, and your game says duplicate pack detected PLEASE contact me, I will fix it for you. (Some updates I forgot to update the UUIDS for anyone who wants to attempt fixing it themselves)
+
+If it is your first time seeing and downloading this pack you only need to download and activate the latest version, and it includes all previous features. No need to download older versions. (You dont even need to download the 1.21.8x versions if you're playing on that version, the 1.21.9x and older versions should also work on .8x because they are made to be backwards compatible.
+
+For Bedrock Edition!!! Because don't you get tired of searching for better combat resources, and almost everything is for java edition?
+
+Better textures for PVP in Minecraft, It shortens all swords, axes, and picks. (And shears) Turns wool to solid colors so it's easier to see, adds a low fire effect so it doesnt blind your screen, and changes the breaking texture to a progress bar you can set to be 12 different colors in the packs settings, can go in global.
+
+Keep in mind this: Certain colors of the progress bars only render on certain blocks, for example the yellow one wont render well on a blue colored block. This is a Bedrock limitation as it renders the breaking texture as transparent which is not datadriven so I can't override it. White does not render at all, I kept it there so in the future if they change this the textures are there.

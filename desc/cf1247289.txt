@@ -1,0 +1,105 @@
+Overview
+
+Welcome to Apocalypse, the Add-On version. This add-on brings the Map's experience into your own worlds.
+
+If you are looking for the map, it is here
+
+Slay zombies for Experience Levels, and use them to buy weapons, utility or boosters to aid you in your survival in this apocalypse! Oh and you can CHAINSAW zombies for ammo.
+
+This add-on also has a custom music system. The music changes according to the time of day and number of zombies. The World Host can always turn on / off the music.
+
+<figure class="image"></figure>
+
+Copyrights & Credits
+
+This addon is published on MCPEDL and will only be here. It is not allowed to be published on any other websites or Minecraft Add-On applications without my (JuliusScizzor's) permission.
+
+If you are using this for your content (YouTube videos, etc.), all I ask is for you to link this MCPEDL page in your video descriptions and/or link to my YouTube channel.
+
+You are NOT allowed to edit the code or use any of the assets WITHOUT my permission. Learning from the code is fine, but blatant copying is NOT learning. If you want some images for fan-art, etc, PLEASE contact me on Discord.
+
+Show your support by sharing this map and my videos!
+
+Music belongs to Krypt, DO NOT USE WITHOUT HIS PERMISSION
+
+<figure class="image image_resized"></figure>
+
+Special Thanks to:
+
+- JustAsh (Gametest Ammo Detection for < v1.1, now i completely re-coded it but yes still thx for helping me start out on scripting lol)
+
+- r4isen1920 (custom UI)
+
+- Dany Fox, BendytheDemon18 (Testing & Support)
+
+- Discord Community (Testing & Support)
+
+- Majestik (help on the new custom gun damage script)
+
+Host System
+
+This add-on features a Host system. The very first player to join a world with this Add-On active will be the World Host.
+All players will receive the following items when they first join the world:
+
+- Full Iron Armour
+
+- Chainsaw
+
+- P250 Pistol
+
+The World Host will receive the following additional items:
+
+- Safehouse
+
+Custom Damage System - No Hit Immunity
+
+This add-on also has a custom gun damage system using scripting that removes hit immunity, meaning fire rate actually matters and shotguns work like shotguns.
+
+<figure class="image"></figure>
+
+Safehouse
+
+There can only be 1 safehouse in any world. Choose your location wisely! The safehouse as a chest with supplies, a crafting table and a furnace.
+The safehouse also contains Chuck, the friendly shop keeper. He will load the chunks around him and he cannot be removed.
+Right click/tap the Highscore Block or the Stats Block to view the World Highscores or World Stats respectively
+
+New Safehouse - Stronghold
+
+It has many starter items, lava generators for fuel (using dripstone) and even a small potato farm on the roof! Oh and it's no longer flammable.
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+Old Safehouse (Now called "Shed")
+
+The old safehouse isn't deleted! The world host can still craft it using Spruce Planks and an Iron Block. You can view all the new custom recipes in the recipe book.
+
+<figure class="image"></figure>
+
+Shop
+
+Use Experience Levels to buy items! Some special items such as Boosters may cost different items such as Diamonds or Lapis Lazuli Blocks.
+
+Just simply right click / tap & hold Chuck to open up the shop menu!
+
+<figure class="image"></figure>
+
+Host Menu
+
+Here you can change some settings like Difficulty, Music, Hordes, Display, etc.
+You can access this menu anywhere, use the Host Menu item or type !host in chat. If it breaks try using the fix item.
+
+<figure class="image"></figure>
+
+Personal Menu
+
+You can access this anywhere, use the Personal Menu item or type !personal in chat. Here you can see the Credits, buy boosters, look at your stats, as well as learn about every zombie type!
+
+<figure class="image"></figure>
+
+Prestige
+
+Use the Prestige item or type !prestige in chat to access this menu. Unlock all weapons & abilities first to prestige, which will give you permanent buffs.
+
+<figur

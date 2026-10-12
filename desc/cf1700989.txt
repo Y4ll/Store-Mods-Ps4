@@ -1,0 +1,44 @@
+Social Villagers
+
+Vanilla villagers just stand around and grunt. This addon gives them a voice. They talk, react to what you do, chat with each other, and actually feel like they live in the village.
+
+What villagers do now
+
+They talk. 120+ voiced lines for greetings, trading, gossip, jokes, danger, weather, sleeping and a lot of random moments. What they say depends on what's going on around them, so you won't hear the same thing every time.
+
+They show emotions. 36 facial expressions and 17 emote effects. Happy, angry, scared, sleepy, confused, they show it on their face, with little hearts, sweat drops, music notes and question marks popping up above their heads.
+
+They notice you. Break blocks near them, place something valuable, set things on fire, use TNT, ring the bell, stare at them too long, and they'll have something to say about it. They also notice when you're hurt, on fire, sneaking or running past.
+
+They react to mobs. Zombies, creepers, skeletons and the Warden scare them. Cats, wolves, cows and other animals get a much friendlier reaction.
+
+They talk to each other. Villagers gather up, have conversations and gossip about what's happening in the village. Stand nearby and you'll catch some of it.
+
+They have personalities. Some are cheerful, some are timid, some are grumpy, brave or chatty. Two villagers can react to the same thing in completely different ways.
+
+They remember how you treat them. Trade with them, give them food and help them out, and they'll like you more. Hit them and they won't forget it.
+
+They care about trades. A good trade makes them happy, and emeralds get their own reactions.
+
+They react to the world. Rain, lightning, night time, bedtime and work hours all change how they act and what they say.
+
+Fun extras
+
+Baby villagers have their own lines. They play, ask questions, get excited and complain like actual kids.
+
+Jukebox parties. Play a music disc and nearby villagers come over and dance.
+
+Mimic. Sneak near a villager and see what happens.
+
+The nose. Use shears on a villager to take its nose. Give it back whenever you feel bad about it.
+
+Original addon created by FleetMc Studio.
+
+How to install
+
+1. Download and import both the resource pack and behavior pack.
+2. Turn both packs on in your world settings.
+
+Compatibility
+
+Minecraft Bedrock 26.20 and above. Works in multiplayer.

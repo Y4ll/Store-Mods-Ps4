@@ -1,0 +1,75 @@
+Kaleidoscope Immersive Eating (Unoffical)
+
+Requires Minecraft Version 26.3+
+
+This add-on is an unofficial Bedrock port of Kaleidoscope: Immersive Eating by MemoryToame, originally developed for Minecraft Java Edition.
+
+Ported to Bedrock under the terms of the GNU General Public License version 3 (GPLv3), which permits use, modification, and redistribution of the work, provided that derivative works are also licensed under GPLv3 and that source code (or a means of obtaining it) is made available to recipients. The original source is available at github.com/MemoryToame/ImmersiveEating.
+
+Special thanks to MemoryToame and the Kaleidoscope: Immersive Eating team for creating the original mod!
+
+Overview
+
+Immersive Eating brings brand-new eating animations and an immersive experience to Kaleidoscope Cookery, giving the otherwise simple eating process richer visual presentation.
+
+List of foods with eating animations
+
+- Red Mushroom Pot Soup
+
+- Desert Style Sashimi
+
+- Nether Style Sashimi
+
+- Tundra Style Sashimi
+
+- End Style Sashimi
+
+- Cold Style Sashimi
+
+- Four Joy Meatball Soup
+
+- Golden Salad
+
+- Fried Caterpillar
+
+- Spicy Chicken
+
+- Dongpo Pork
+
+- Baozi Plate
+
+- Qingtuan Plate
+
+- Fondant Pie
+
+- Sweet and Sour Ender Pearls
+
+- Spicy Rabbit Head
+
+- Crystal Lamb Chop
+
+- Frost Lamb Chop
+
+- Blaze Lamb Chop
+
+Foods with eating animations
+
+REQUIRED DEPENDENCY and PACK ORDER
+
+You need Kaleidoscope Cookery for this add-on to work, v1.0.5 or Newer is required!! Download it HERE.
+
+NOT CURRENTLY COMPATIBLE WITH ACTIONS AND STUFF
+
+This pack uses player.json
+
+Additional Thanks to:
+
+[Help me improve this pack and your name will go here!]
+
+Player.json is used - Achievement Friendly - Realm Friendly
+
+DISCORD SERVER: Loyallay's Discord Server
+
+Please delete the old version from your device before installing any update version
+
+Check out my profile for other Add-ons, Texture Packs, Worlds, and Skin Packs!

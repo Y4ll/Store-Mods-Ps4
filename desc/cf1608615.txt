@@ -1,0 +1,16 @@
+DreamHaze wraps everything in soft blush skies, deep violet nights, and hot magenta sunrises. No golden hour, no warm tones just a world that looks like it exists inside a dream. Every system is tuned around one palette and nothing breaks it.
+
+Built for Minecraft Bedrock Vibrant Visuals, DreamHaze is a full shader pack not just a sky swap. Atmosphere, lighting, fog, water, color grading, and ores all work together so the pink-purple aesthetic holds in every biome, every dimension, every hour of the day.
+
+- Pink sky all day. Soft rose zenith, blush horizon, rayleigh scattering keeping the whole dome saturated and hazy from sunrise to sunset.
+
+- Deep purple nights. Dark purple-black ambient, violet moonlight, indigo sky. Moody without being pitch black.
+
+- Volumetric god rays. Ground-level fog that builds naturally, directional light shafts that catch the pink sunlight through trees and over hills.
+
+- Sunrises and sunsets that hit different. The horizon erupts into hot magenta as the sun crosses the edge of the world, Mie glow building around it then slowly fades back into soft pink as full day settles in.
+
+- Sun and moon on separate color tracks. Sun runs pink-to-magenta all day, moon holds a steady violet glow at night. The lighting palette never breaks regardless of what time it is.
+
+Requires Minecraft Bedrock 1.21.80+.
+reefycraft

@@ -1,0 +1,15 @@
+Survival Essentials Overhaul is the ultimate all-in-one survival package that combines the best survival add-ons into a single collection. It includes everything you need to enhance your survival experience, along with exclusive and unique add-ons that introduce new mechanics, features, and quality-of-life improvements. Every addition is carefully designed to make your Minecraft world feel more immersive, dynamic, and alive.
+
+Survival Essentials Overhaul Features
+
+- Health Bar View the health of mobs and bosses in real time with an RPG-style health bar.
+
+- Dynamic Light Hold torches or other light sources to illuminate dark areas without placing them.
+
+- Vein Miner & Auto Smelt Instantly mine entire ore veins, with compatible ores automatically smelted when mined.
+
+- Tree Capitator Chop down an entire tree by breaking a single log, making wood collection much faster.
+
+- Stat Boost Gain permanent or progressive stat upgrades to become stronger as you survive.
+
+- FPS Boost Improve game performance with built-in optimizations for smoother gameplay and higher frame rates.

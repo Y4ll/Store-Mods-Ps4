@@ -1,0 +1,45 @@
+All golems in this addon can be summoned with golem structures and can spawn naturally in villages.
+
+Emerald Golem:
+
+Gold Golem:
+
+Redstone Golem:
+
+Lapis Golem:
+
+Diamond Golem:
+
+Netherite Golem:
+
+Interact with a diamond golem with a netherite block in mainhand to turn it into this golem.
+
+Glass Golem:
+
+Hay Golem:
+
+Bedrock Golem:
+
+Creative Only:
+
+Oak Golem:
+
+TNT Golem:
+
+Cobblestone Golem:
+
+Mossy Cobblestone Golem:
+
+Discord: euforia_sin_h
+
+Discord server comunity: https://discord.gg/YJ5v727bJH
+
+YT: https://www.youtube.com/@Euforia-conr
+
+Note:
+
+Don't forget to activate the experimental options.
+
+I plan to add golems of all minerals, some with unique mechanics.
+
+A new update will be coming soon, feel free to leave comments and suggestions.

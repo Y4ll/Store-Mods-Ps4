@@ -1,0 +1,40 @@
+This add-on serves as an expansion to the existing Roll and Stamina system, introducing a variety of new parkour-inspired movesets. Since many users requested more parkour mechanics, this extension was created to deliver that experience without turning the original Roll and Stamina add-on, primarily designed for adventure gameplay, into a full parkour-focused mod.
+
+Require:
+
+- Roll and Stamina
+
+- Kamii's Script Configuration (Optional)
+
+Features:
+
+- Sliding
+Players can slide by sprinting and holding the sneak key. While sliding, nearby entities receive knockback damage based on the boots thorns enchantment.
+
+- Wall Running
+Initiate a wall run by sprinting and jumping toward a wall.
+
+- Wall Sliding
+Like Wall Running, but the player needs to look at to wall.
+
+- Safety Roll
+While falling, pressing the jump key just before landing will trigger an automatic roll to reduce impact.
+
+- Vaulting
+Running into a wall, fence, or single block allows the player to vault over it smoothly.
+
+- Cat to Cat
+During a climb or wall run, pressing jump lets the player leap in the direction theyre facing. If aimed toward a wall, the jump will reflect off it, redirecting the player appropriately.
+
+Configuration:
+
+This addon has a configuration menu (only works using Kamii's Script Configuration)
+
+Installation:
+This add-on requires the Roll and Stamina base add-on to function, as it builds upon its mechanics. Make sure to install the main add-on first before using this extension.
+
+Require:
+
+- Roll and Stamina
+
+- Kamii's Script Configuration (Optional)

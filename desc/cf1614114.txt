@@ -1,0 +1,135 @@
+Description
+
+Ore Detector is a Minecraft Bedrock add-on that helps players locate nearby ores without using X-Ray or altering vanilla blocks.
+
+Simply use the Ore Detector, choose the ore you want to search for, and the add-on will locate the nearest matching ore. Once found, a live tracking HUD displays the ore's coordinates and distance, updating in real time as you move. Designed for survival gameplay, Ore Detector makes mining more efficient while preserving Minecraft's exploration and progression.
+
+Ko-fi Link:
+
+How It Works
+
+Use the Ore Detector and select the ore you want to locate.
+
+The add-on scans the nearby area and detects only the nearest ore of the selected type. Once found, tracking begins automatically.
+
+Only one ore can be tracked at a time to maintain balanced gameplay.
+
+Live Tracking HUD
+
+After a successful scan, a tracking HUD will appear displaying:
+
+- Ore Name
+
+- X Coordinate
+
+- Y Coordinate
+
+- Z Coordinate
+
+- Live Distance
+
+The distance updates automatically as you move toward or away from the tracked ore.
+
+Distance Indicator
+
+Green Near
+
+Yellow Medium
+
+Red Far
+
+Automatic Tracking
+
+Once the tracked ore is mined, the tracker automatically:
+
+- Stops tracking
+
+- Removes the HUD
+
+- Clears the target
+
+- Allows a new scan immediately
+
+No manual reset is required.
+
+Supported Ores
+
+- Coal Ore
+
+- Copper Ore
+
+- Iron Ore
+
+- Gold Ore
+
+- Redstone Ore
+
+- Lapis Lazuli Ore
+
+- Diamond Ore
+
+- Emerald Ore
+
+- Nether Quartz Ore
+
+- Nether Gold Ore
+
+- Ancient Debris
+
+NEW Version 1.30
+
+Now Craftable in Survival!
+
+The Ore Detector can now be crafted using vanilla Minecraft materials, making it fully obtainable in Survival Mode. Gather the required resources, craft your Ore Detector, and start searching for nearby ores without needing Creative Mode.
+
+This update makes the add-on more survival-friendly while keeping the original detection system unchanged.
+
+Features
+
+New Survival Crafting Recipe
+
+Obtainable in Survival
+
+Same Ore Detection Features
+
+No Experimental Features Required
+
+Achievement Friendly
+
+Compatible with Minecraft Bedrock 1.30+
+
+Features
+
+- Scan for nearby ores.
+
+- Detects only the nearest matching ore.
+
+- Live coordinate tracking.
+
+- Real-time distance updates.
+
+- Automatic tracking reset.
+
+- Simple and intuitive interface.
+
+- Lightweight and optimized.
+
+- Vanilla-friendly gameplay.
+
+- Compatible with Minecraft Bedrock Edition 1.21 and above.
+
+Designed for Survival
+
+Ore Detector is designed as a quality-of-life tool that improves mining without replacing Minecraft's core survival experience. Rather than revealing every ore underground, it tracks only one nearby target at a time, encouraging exploration while making resource gathering more efficient.
+
+NO EXPERIMENTAL FEATURES REQUIRED + Achievement Friendly!
+
+Minecraft Bedrock Edition
+
+Compatible with Version 1.21+
+
+Created by MrDavid13
+
+YouTube: @MrDavid1330
+
+Ko-fi: mrdavid13

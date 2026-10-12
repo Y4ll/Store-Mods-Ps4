@@ -1,0 +1,48 @@
+Instant Smelting Without Furnaces or Lag! Smelt ores automatically the moment they drop no more waiting, no more fuel, and no command spam.
+
+Features:
+
+Instantly smelts raw iron, copper, gold, and ancient debris
+Achievement-friendly No cheats required!
+Lightweight & lag-free Optimized for survival and Realms
+
+Showcase:Works with Fortune:
+
+How It Works:
+
+- Mine Iron Ore, Copper Ore, Gold Ore, or Ancient Debris
+
+- Watch it instantly smelt into ingots (or netherite scrap)
+
+- AutoSmelt works with any pickaxe (or ends with _pickaxe) and any shovel (or ends in _shovel)
+
+Auto-Setup on World Load:
+
+No setup needed it installs itself automatically when the world first loads. Youll see:
+
+Simple AutoSmelt - Enabled
+
+Config Item:
+
+Crafting Recipe for Config
+
+How to Install:
+
+1 Download the .mcaddon file
+2 Open it to install in Minecraft
+3 Add it to your world in Behavior Packs
+4 Load the world and enjoy auto-smelting!
+
+Tested & Compatible:
+
+Works with:
+
+- Vein Miner by Geokiller
+
+- Tree Capacitator & Vein Miner by DARKLEXx
+
+- Edd's VeinCapacitor by AlienEdds
+
+Compatible with Realms & Other Addons
+
+Need help? Join our discord

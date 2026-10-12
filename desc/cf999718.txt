@@ -1,0 +1,166 @@
+Definitive Ore Miner
+
+Mine faster, smarter, and with full control over your mining experience.
+
+Definitive Ore Miner lets you mine connected ores, create custom tunnels with different shapes and sizes, customize how the mining system behaves, and even preview the affected blocks before you start mining.
+
+Real-Time Mining Preview | Fortune & Silk Touch | Custom Mining Areas
+
+Realms Compatible | No Experimental Features | No PLAYER.JSON
+
+Visit My Official Page
+
+What is Definitive Ore Miner?
+
+Definitive Ore Miner is a highly configurable mining addon designed to make mining faster and more convenient while still giving you control over how it works.
+
+Use it as a Vein Miner for connected ores or configure it to excavate tunnels using different sizes, shapes, speeds, and mining rules.
+
+- Mine connected ore veins automatically.
+
+- Create tunnels from a single line up to 5x5.
+
+- Choose between Line, Stair, Circle, Triangle, and Cross.
+
+- Use Progressive Mining for smoother large excavations.
+
+- Configure durability cost, drops, particles, Actionbar information, and more.
+
+- Preview exactly what will be affected before you mine.
+
+Addon Showcase
+
+3d Preview
+
+Latest Updates
+
+Update 1.10.7
+
+Real-Time Mining Preview
+
+- Added a new real-time mining preview.
+
+- You can now see which blocks will be affected before you start mining.
+
+- The preview works in every direction, including walls, floors, and ceilings.
+
+- Improved the preview to use fewer particles and look much cleaner.
+
+- Preview particle density automatically adjusts depending on the mining area size.
+
+Mining Improvements
+
+- The first block now breaks normally without constantly cancelling or restarting the mining animation.
+
+- Improved Fortune support.
+
+- Improved Silk Touch behavior.
+
+- Improved XP drops from ores.
+
+- Improved Unbreaking support with the Ore Miner system.
+
+- Improved tool-tier detection so pickaxes cannot mine blocks they normally should not be able to break.
+
+- Improved support for custom pickaxes that correctly use Minecraft tool tiers.
+
+Better Ore Detection
+
+- Reworked the ore detection system so it only mines actually connected ores.
+
+- The addon can no longer detect unrelated ores hidden behind large amounts of stone.
+
+Performance Improvements
+
+- Significantly improved performance when using large mining areas.
+
+- Optimized tunnel mining to avoid unnecessary block scanning.
+
+Update 1.10.6
+
+Durability Cost Configuration
+
+Added an option to control how much durability is consumed from your pickaxe when using the Ore Miner system.
+
+You can configure the durability cost from 1 to 10 durability points per use.
+
+Update 1.10.5
+
+New Configuration UI
+
+Added a brand-new custom interface for the Configuration Book, along with more options to customize the Ore Miner experience.
+
+- Base Blocks
+
+- Mining Area
+
+- Mining Shape
+
+- Progressive Speed
+
+- Progressive Mining
+
+- Enable Only When Sneaking
+
+- Mining Particle
+
+- Only Ores
+
+- Show Actionbar
+
+- Drop Blocks
+
+Main Features
+
+- Real-time mining preview before you start mining.
+
+- Preview support for walls, floors, and ceilings.
+
+- Mines actually connected ores.
+
+- Mining areas from Line up to 5x5.
+
+- Multiple mining shapes: Line, Stair, Circle, Triangle, and Cross.
+
+- Optional Progressive Mining.
+
+- Multiple progressive mining speeds.
+
+- Configurable maximum number of blocks per activation.
+
+- Configurable pickaxe durability cost from 1 to 10.
+
+- Fortune support.
+
+- Silk Touch support.
+
+- Correct ore XP drops.
+
+- Unbreaking support.
+
+- Proper pickaxe tool-tier detection.
+
+- Support for custom pickaxes that correctly use Minecraft tool tiers.
+
+- Optional Only Ores mode.
+
+- Configurable mining particles.
+
+- Optional Actionbar information.
+
+- Configurable block drops.
+
+- Optimized for larger mining areas.
+
+- Compatible with Realms.
+
+- Compatible with other Add-ons.
+
+- No Experimental Features required.
+
+- Does not use PLAYER.JSON.
+
+Real-Time Mining Preview
+
+See exactly what will be affected before breaking the first block.
+

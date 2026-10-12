@@ -1,0 +1,14 @@
+Welcome back to the Beyond Vanilla series!
+Today, Im excited to introduce a new addon for the series called Beyond Vanilla: Timbres & Tones.
+This addon makes Minecraft more immersive by adding ambient sounds, armor sounds, weapon hit sounds, and much more to your world.
+
+First of all, the ambient sounds.
+From now on, your Minecraft world will feel more alive with immersive ambient sounds. Almost every biome has its own unique ambient sound, and the sounds change depending on the time of dayday or nightand whether the player is in a cave or not.
+
+Armor Sounds and More
+This addon adds armor sounds when equipping and moving. Additionally, it includes custom hit sounds based on the type of armor the player is wearing. There are also unique sounds for taking hits and charging a bow. All of these features are designed to work seamlessly with other resource packs and addons.
+
+Settings
+Players can adjust the volume of custom sounds and change the sound types using the settings item, which is given to them the first time they join.
+
+The Showcase Video:

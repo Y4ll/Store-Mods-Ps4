@@ -1,0 +1,28 @@
+A resource pack that overhauls the look of Minecraft mobs while keeping a cute, but mostly vanilla feel. Includes remodels and textures! This pack was originally created by emberjams for Java Edition and was ported by me to Bedrock Edition
+
+Changes so far to:
+
+- Cows
+
+- Sheeps
+
+- Squids
+
+- Glow Squids
+
+- Pigs
+
+- Chickens
+
+- Ghasts
+
+- Foxes
+
+- Mooshrooms
+
+ACTIONS AND STUFF COMPATIBILITY PACK
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

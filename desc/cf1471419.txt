@@ -1,0 +1,159 @@
+And y'all can believe because it's over 62k+ downloader who believes that this works
+
+Follow for more content like this and update of project
+
+Join discord server
+
+Here
+
+to get update faster!
+
+Join now early members get the best experience
+
+! Only Available on Curseforge and MCPEDL !
+
+Fight with a fake "dream" player which will teach you PvP with many features
+
+Easy and free to use follow to get more content and updates
+
+Changelog important to know features:-
+
+v1.0
+
+- visible name when not point like real player
+
+- It have unlimited hearts for practice
+
+- To remove or kill type"/kill @e[name=dream]
+
+- For spawn serch in creative menu for "pvp:dream" or type command "/summon pvp:dream"
+
+- Free yo use feels like real player
+
+- You can't rename dream with any other name
+
+How to customize the inventory
+
+- Hands
+
+- /replaceitem entity @e[type=pvp:dream] slot.weapon.mainhand 0
+
+- /replaceitem entity @e[type=pvp:dream] slot.weapon.offhand 0
+
+V1.1
+
+Armor weapons mainhand and offhand supported
+
+Armor
+
+- /replaceitem entity @e[type=pvp:dream] slot.armor.head 0
+
+- /replaceitem entity @e[type=pvp:dream] slot.armor.chest 0
+
+- /replaceitem entity @e[type=pvp:dream] slot.armor.leg 0
+
+- /replaceitem entity @e[type=pvp:dream] slot.armor.feet 0
+
+V1.1.0.1
+
+Added spawn and dreath message as:-
+
+Spawn message "Dream joined the game"
+
+Death message "Dream left the game"
+
+V1.5
+
+Running on beta
+
+Major update
+
+Important: hit with stick to toggle fights
+
+Strafe enderpearl throw then heal + block attack by shield!
+
+Added fights critical+normal hits
+
+V1.5.1
+
+Improved animations
+
+Chasing
+
+V1.5.6
+
+Config system type /function dream_config to get access
+
+Added cps and reach control
+
+V1.6.5
+
+Added locator bar
+
+Added up and down arrow indicator
+
+V1.6.6
+
+Added armor texture
+
+V1.6.7
+
+Added healthbar as said as the goal
+
+V1.6.8
+
+Added more slots like a player upto 36 slots
+
+Every slot accessible by /replaceitem entity @e[type=pvp:dream] slot.inventory. 0
+
+V1.6.8.3
+
+Minor improvements
+
+V1.7.0.0
+
+Added death particle animation
+
+- ### TURN ON BETA API IN EXPERIMENTAL FEATURES
+
+\\\*\\\*Future features (working)\\\*\\\*
+
+-
+Might be mace pvp?
+
+-
+If this pack hits 75.0k downloads this working features will also come
+
+-
+Terms to use
+
+-
+Don't claim your credit on codes and scripts
+
+-
+You can edit and use for our personal use
+
+-
+But you can't share the edited pack to others
+
+-
+Only available on Curseforge and MCPEDL!!
+
+-
+Don't distribute the pack on other sites like (9minecraft, modbay, MCPEDL.org and etc,)
+
+-
+And special thank to you all for 58k downloads
+
+-
+Follow to stay ahead updates, features, and improvements drop here first
+
+-
+I will upload new version fast if every new version hit ~20k a day ;)
+
+-
+# Next major update at 75k
+
+undefined* # Full changelog link:- PvP dream trainer changelog
+
+Goal: 1,000,000 downloads Progress: 5.8% Thanks for your support more updates coming.

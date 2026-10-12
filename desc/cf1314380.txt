@@ -1,0 +1,43 @@
+What if you fell through reality... and landed somewhere you were never meant to be?
+
+This addon recreates the eerie and endless world of The Backrooms inside Minecraft Bedrock Edition but without jumpscares. Instead, the horror is ambient, psychological, and immersive.
+
+How to Enter:
+Noclip is triggered when the player gets buried inside falling blocks like gravel or sand. Once clipped through, reality collapses... and the backrooms begin.
+
+How to Escape:
+You must explore and survive until you either:
+
+-
+
+Reach the final level
+
+-
+
+Escape through Level Run
+
+Features:
+
+-
+
+Multiple handcrafted levels based on backrooms lore
+
+-
+
+Unique, mysterious entities that behave differently per level
+
+-
+
+Functional blocks and level-based structure generation
+
+-
+
+An atmosphere of liminality and psychological isolation
+
+-
+
+Light survival mechanics but focus is exploration and immersion
+
+There are no cheap jumpscares. The experience leans into eerie quietness, surreal architecture, and unsettling logic.
+
+Supports multiple languages including English, Japanese, Spanish, Korean, Russian, and more.

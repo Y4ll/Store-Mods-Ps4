@@ -1,0 +1,17 @@
+This addon introduces a terrifying new entity called "Anguish" to your Minecraft world. Unlike regular monsters, Anguish is designed to stalk, torment, and psychologically intimidate players before taking any action.
+
+Features
+
+Stalker Behavior: Anguish quietly follows and watches you from a distance, creating a constant sense of dread.
+
+Look-At Mechanic: Your worst mistake will be looking directly at Anguish. Maintaining eye contact or turning your camera toward it triggers aggressive behaviors.
+
+Custom Models & Animations: Features unique entity models, smooth camera-tracking animations, and immersive custom sounds designed for survival horror.
+
+How to Play
+
+Download and install both the Behavior and Resource packs.
+
+Enable Experimental Features in your world settings for full functionality.
+
+Enter your world... and keep your camera away from the shadows. Good luck!

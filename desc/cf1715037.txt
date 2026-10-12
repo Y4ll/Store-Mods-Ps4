@@ -1,0 +1,75 @@
+Something Fell From the Sky...
+
+Baby Parasites turns your survival world into a parasite horror story. Meteors crash into the world and an alien infection starts rewriting the land block by block. Worse, it hides inside baby mobs. That cute baby pig following its herd might not be a pig anymore.
+
+Key Features
+
+- 13 Infected Baby Hosts Bees, pigs, chickens, villagers, zombies, zombie piglins, striders, squids, polar bears, llamas, foxes, turtles and dolphins.
+
+- Two Terrifying Stages Every host has an Awakened form and a fully mutated Aberration form, for 26 unique parasite mobs.
+
+- Meteor Crash Sites Meteors crash into the Overworld, each with a glowing Meteorite Heart at its core.
+
+- Spreading Infection Grass, stone, wood and leaves slowly corrupt into a purple parasite landscape.
+
+- Carnivorous Parasite Plants Predatory plants sprout across infected zones and bite anyone who gets too close.
+
+- A Cure Craft the Serum Bag to save infected babies before it's too late.
+
+- Hazard Armor A full protective suit built to survive the infected zones.
+
+- Built-in Guidebook The Baby Parasites Diary covers every host, both stages, the cure and the armor.
+
+The Infection Spreads
+
+Every meteor carries a Meteorite Heart, and as long as it survives, the infection keeps growing. Normal blocks transform into Infected Soil, Corrupted Grass, Corrupted Stone, Corrupted Logs, Leaves, Moss and Vines. Leave a crash site alone for too long and the whole area becomes parasite territory.
+
+Want to stop it? Find the Meteorite Heart and break it with a diamond or netherite pickaxe. Once the heart is destroyed, the infection at that crash site stops.
+
+Awakened Aberration
+
+Only baby mobs can carry the parasite, and every host goes through two stages:
+
+- Stage 1 Awakened: The baby still looks almost normal. It hides in herds, copies normal behaviour, and waits until you get close. Watch for wrong sounds, strange eyes, and babies ignoring their usual food.
+
+- Stage 2 Aberration: The parasite erupts out of the host and becomes a deadly predator. There is no cure at this stage.
+
+Awakened hosts can drop Viscous Samples, and Aberrations can drop Stellar Shards. You'll need both.
+
+Cure Them Before It's Too Late
+
+The Serum Bag is the only known cure. Use it on an Awakened baby to force the parasite out, and it returns to normal with permanent immunity.
+
+Used on infected ground, it works like bone meal and cleans the area around it. As long as the Meteorite Heart is still beating, though, the infection will spread back, so the heart is always the real target.
+
+Once a host becomes an Aberration, the Serum Bag won't help you.
+
+Gear Up With Hazard Armor
+
+Craft each Hazard Armor piece from its diamond version, Stellar Shards and Viscous Samples:
+
+- Hazard Respirator Mask Prevents nausea.
+
+- Hazard Chestplate 50% chance to resist a parasite's latch attack.
+
+- Hazard Reinforced Leggings Part of the full protective suit.
+
+- Hazard Boots No more slowing on Infected Soil.
+
+- Full Suit Blocks all negative effects from infected zones.
+
+Read the Containment Files
+
+You get the Baby Parasites Diary the first time you join a world. It holds the full story of the outbreak, told through recovered research logs, along with details on every host, both stages, the cure and the armor. Read it carefully. The last entry might be the most important one.
+
+How to Install
+
+- Download and open the .mcaddon file. Minecraft will import both packs automatically.
+
+- Create or edit a world and activate Baby Parasites in Behavior Packs. The Resource Pack is added automatically.
+
+- Explore, and keep an eye on the sky.
+
+Updates & Feedback
+
+Baby Parasites will keep receiving balance improvements and bug fixes. Found a bug or have an idea? Let us know in the comments.

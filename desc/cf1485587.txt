@@ -1,0 +1,53 @@
+JM Admin Tools v2.2
+
+Admin Tools is a Minecraft Bedrock addon that gives server admins a complete in-game UI for player moderation, ticketing, teleportation, land claims, and server management.
+
+Built for servers, realms, and shared worlds. Admins get a full toolkit through the Admin Tool item, players get a simple menu for tickets, homes, and teleports, and anyone can claim and protect their land with the Claim Tool. Everything is configurable in-game, no config files or command knowledge needed.
+
+Version 2.3 beta out now! Adds translations and some new features/improvements. See the file's changelog for full details.
+
+Achievement Friendly! No Experimental Features needed!
+
+Watch the Admin Tools v2.2 Showcase Video:
+
+What's New in v2.2?
+
+- Kits Build item bundles from your own inventory and hand them out as automatic starter kits or claimable kits, with access limited by role, rank, or playtime. Every kit also has ready-made commands to give or claim it from chat, NPCs, or command blocks.
+
+- Gravestones When you die, your items go into a protected grave at the spot instead of scattering. Walk up and interact to grab them back. Graves can't be broken and survive restarts. On by default.
+
+- Live Claim Preview Setting up a claim is now something you can see. A live, color-coded outline draws the box you're selecting and snaps to the block you're aiming at, so you know exactly what will happen (new claim, sub-claim, overwrite, or blocked) before you commit. The action bar spells out the size and result. On by default.
+
+- Owner-Only Claims (Server Owner only) Fully private claims that even other admins and mods can't enter, build in, view, edit, expand, or delete.
+
+- Game Commands A no-typing menu in the Commands panel for weather, time, difficulty, world spawn, game rules, and clearing dropped items, plus a one-tap gamemode switch. It only shows the options you're allowed to use.
+
+- Hologram Leaderboards Holograms can now display a live scoreboard objective, or rank players by stats the addon already tracks (playtime, kills, deaths, blocks mined/placed, distance) with no scoreboard setup. Both refresh on their own about every 10 seconds.
+
+- Admin Privileges (Server Owner only) Control what your admins can do, the same way Mod Privileges works, with global and per-admin settings.
+
+- Custom Claim Notifications Write your own "entered claim" and "left claim" messages with placeholders and color codes, choose where they show (action bar, title, or chat), and let claim owners set a per-claim welcome message.
+
+- Menu Visibility One place to show or hide what appears in the Player and Admin menus, kept in sync with each feature's own toggle.
+
+- Editable Ender Chest The inventory viewer's Ender Chest is now a live, editable view, so you can take or remove items just like the main inventory.
+
+- Owner Reset Commands (Server Owner only) Script-event commands to clear one player's claims, clear every claim, or reset all settings to defaults without touching your data, each with a confirmation guard.
+
+- Smarter Search Hundreds of new keywords and a cleaner results screen, so searches that used to come up empty now land on the right screen.
+
+See the changelog for the complete list of changes.
+
+Updating an existing world? A few defaults changed (Gravestones is on, changing gamemode and editing kits are now staff privileges that default off). See the "Before you update" and "Moved" sections of the changelog.
+
+If you have questions, suggestions, or feedback visit the Discord: https://discord.gg/ZsrM5HqHdS
+
+For detailed info please visit my support site: https://jmaddons.support
+
+Features
+
+Moderation & Staff Tools
+
+- Ticket System Players can submit support tickets that move through Open, Claimed, Resolved, and Closed states. Admins can reply with notes, teleport to the ticket location, and filter by status.
+
+- Player Moderation Warn, freeze, kick, temp ban, perm ban, and unban players (including offline bans). Full punishment history is attached 

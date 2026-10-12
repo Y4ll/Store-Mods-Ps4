@@ -1,0 +1,7 @@
+Visuals +
+
+A visual pack that tweaks Minecraft's lighting, fog, and color grading. Nothing more. No new textures, no overhaul, just the vanilla look with the color and light dialed in properly.
+
+Deserts and mesas get warmer, harsher lighting to match the heat. The deep dark gets darker, tighter fog for that "something's down here" feeling. Cherry groves, the End, oceans: each biome has its own lighting and fog setup instead of sharing one flat default. Water reads a bit clearer, colors pull a bit further from the washed out vanilla palette without tipping into oversaturation.
+
+Runs on the resource pack's PBR capability where supported, but doesn't require it. No performance cost, no gameplay changes, compatible with basically anything else you're running.

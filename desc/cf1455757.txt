@@ -1,0 +1,85 @@
+Keystone Feature Overview
+
+Configuration and Performance You can open the main menu with /es:config to enable or disable modules and tweak settings through a clean user interface. The built in Performance Mode monitors game performance and will temporarily pause heavy modules if lag is detected, restoring them automatically once things run smoothly again.
+
+Mining
+
+-
+
+Vein Miner allows you to sneak while mining to break entire ore veins at once. It honors your Fortune and Silk Touch enchantments, uses the correct durability per block, and works perfectly with Auto Smelt.
+
+-
+
+Auto Smelt converts raw drops like iron, gold, and ancient debris directly into smelted items and grants the correct XP.
+
+-
+
+Ore Highlight helps you find more loot by briefly highlighting nearby matching ores after you mine one. You can customize the radius and visual style.
+
+-
+
+Gravity Control lets you collapse entire columns of sand, gravel, or concrete powder just by digging the bottom block with a shovel.
+
+Farming
+
+-
+
+Right Click Harvest lets you instantly harvest and replant crops like wheat, potatoes, and nether wart without needing extra seeds.
+
+-
+
+Area Hoe tills a full 3x3 area of dirt with a single click.
+
+-
+
+Tree Capitator allows you to fell entire trees just by sneaking and chopping the bottom log. It includes fast leaf decay to quickly clear the canopy.
+
+Building
+
+-
+
+Scaffold helps you bridge through the air by placing blocks under your feet when you sneak at the edge of a block.
+
+-
+
+Vein Builder lets you extend a straight line of blocks instantly by sneaking while placing, complete with particle previews so you don't miss.
+
+Multiplayer
+
+-
+
+AFK Detection automatically marks inactive players to keep server logic fair.
+
+-
+
+Sleep Vote skips the night when a specific percentage of active players sleep, showing live progress in the chat.
+
+-
+
+Togglable PvP lets players use /es:pvp to enable or disable combat. You can only be attacked if you have PvP enabled.
+
+Navigation and Quality of Life
+
+-
+
+Homes lets you set, list, and teleport to saved locations using the /es:home commands.
+
+-
+
+Dynamic Light illuminates the area around you when you hold a torch or light item. It even works underwater.
+
+-
+
+Gravestone stores your items safely when you die. Only you can retrieve them, and it features a beacon beam to help you find your death point.
+
+Commands List /es:config opens the Essential++ settings /es:pvp toggles combat on or off /es:sethome saves your location /es:home [name] teleports you to a saved home /es:delhome deletes a saved home
+
+Compatibility Beta API does not need to be enabled. Achievements remain obtainable and this pack does not disable them.
+
+This Add-On works for any Minecraft Bedrock version above 1.21.90
+
+IGNORE WHAT THE VIDEO SAID ABOUT SCRIPT API
+
+Join my Discord:
+
+Support On Kofi:

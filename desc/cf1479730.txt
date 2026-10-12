@@ -1,0 +1,35 @@
+Siren Head: Stranded Add-on
+
+Turn on Experimental (Beta APIs)
+
+Java version: https://www.curseforge.com/minecraft/mc-mods/siren-head-stranded
+
+This add-on brought the Siren Head from Hex Core's horror game Siren Head Stranded: https://hexcoregames.itch.io/siren-head-stranded into Minecraft.
+
+Features:
+
+Siren Head will emit various sounds (alarm sirens, conversations, laughter, etc.).
+
+Siren Head has 10000 health and deals 100 damage.
+
+Siren Head moves very fast (sometimes faster than players).
+
+Siren Head's attack targets are players and villagers.
+
+When attacking, Siren Head will lift its target into the air and bite it.
+
+Siren Head can disguise itself as a lamppost to trick players.
+
+Siren Head will naturally spawn.
+
+Credits:
+
+Trevor Henderson - Siren Head
+
+Hex Core - Siren Head: Stranded (Horror Game)
+
+The_SrKangoo - The person who created the model, texture, and animations for Siren Head
+
+Kyrie guinto - The licensor grants permission to use the model, texture, and animations
+
+Kyrie Guinto 3 - Animator

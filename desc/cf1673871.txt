@@ -1,0 +1,17 @@
+Project Description:
+
+Smelting ores can get tedious, requiring constant trips back to your base to collect coal and manage furnaces. With this change, every ore drops its fully smelted counterpart directly upon mining, eliminating the need to ever smelt again.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Real-time fully smealted mine drops.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+All ores that drop items requiring smelting now yield their fully processed, ready-to-use versions instantly. Say goodbye to countless coal-mining trips.

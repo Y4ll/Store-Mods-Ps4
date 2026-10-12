@@ -1,0 +1,179 @@
+CLASSIC UI
+
+POCKET UI
+
+********************** OTG BACKPACK **********************
+
+OTG Backpack is a modular survival backpack addon for Minecraft Bedrock Edition.
+
+Start with a simple Basic Backpack and upgrade it through multiple tiers as your adventure grows:
+
+Basic > Copper > Iron > Gold > Diamond > Netherite
+
+Each tier increases your storage potential and unlocks more backpack utility, turning the backpack into a portable survival system for exploring, mining, building, traveling, and long-term worlds.
+
+OTG Backpack is designed to be more than just extra storage. It includes portable workstations, fluid tanks, modules, cosmetics, placement support, quick transfer tools, mobile-friendly controls, and world settings for admins.
+
+********************** MAIN FEATURES **********************
+
+Upgradeable Backpack Tiers
+
+Upgrade your backpack through six tiers:
+
+Basic Copper Iron Gold Diamond Netherite
+
+Higher tiers provide more storage and unlock additional backpack systems, including:
+
+- Portable workstations
+
+- Fluid tanks
+
+- Built-in crafting and smelting
+
+- Module slots
+
+- Advanced utility features
+
+Netherite Backpack
+
+The Netherite Backpack is the highest backpack tier and provides the largest storage capacity.
+
+Netherite features include:
+
+- 126 storage slots
+
+- Support for the Overpack Module
+
+- Access to advanced portable workstations
+
+- Stronger effects from selected modules
+
+- Improved large-storage UI
+
+- Fire resistance when dropped as an item
+
+Overpack Module
+
+The Overpack Module is an endgame upgrade available for Netherite Backpacks.
+
+It adds a second storage page containing another 126 slots, making it useful for:
+
+- Long mining trips
+
+- Large construction projects
+
+- Exploration
+
+- Resource gathering
+
+- Adventure supplies
+
+Page 1 and Page 2 remain separate and can be switched from inside the backpack.
+
+Stockpile Module
+
+The Stockpile Module provides bulk storage separate from normal backpack slots and Overpack Page 2.
+
+Features include:
+
+- Two item filters
+
+- Automatic storage of matching items
+
+- Large virtual item counts
+
+- Individual withdrawal controls
+
+- Magnet compatibility
+
+Stockpile is useful for carrying large amounts of frequently collected resources without filling the main backpack inventory.
+
+Built-in Crafting Table
+
+Craft directly inside your backpack using the built-in 33 Crafting Table.
+
+The Crafting panel supports compatible vanilla and OTG Backpack recipes.
+
+You can also deploy a normal Crafting Table into the world when needed.
+
+Portable Workstations
+
+OTG Backpack provides portable workstation access depending on backpack tier, installed modules, and World Settings.
+
+Available utilities include:
+
+- Built-in Crafting Table
+
+- Virtual Furnace
+
+- Stonecutter
+
+- Anvil
+
+- Max Enchanting Setup
+
+- Brewing Stand
+
+- Smithing Table
+
+- Ender Chest
+
+- Rest Campfire
+
+- Sorting
+
+Successful workstation deployment automatically closes the backpack.
+
+If the area is blocked or unsafe, the backpack remains open so you can reposition and try again.
+
+Max Enchanting Setup
+
+Netherite Backpacks can deploy a complete temporary level-30 enchanting station.
+
+The setup includes:
+
+- A functional Enchantment Table
+
+- A complete Bookshelf arrangement
+
+- Maximum enchanting power
+
+- Automatic rotation so the entrance faces the player
+
+Players do not need to carry or spend Bookshelves.
+
+The setup can automatically clear harmless ground cover such as:
+
+- Grass
+
+- Tall Grass
+
+- Flowers
+
+- Ferns
+
+- Snow Layers
+
+- Bushes
+
+- Firefly Bushes
+
+- Leaf Litter
+
+The area must still be flat, supported, and free from solid blocks, liquids, carpets, or other obstacles.
+
+The temporary structure:
+
+- Cannot be mined for free materials
+
+- Does not drop Bookshelves or the Enchantment Table
+
+- Is protected against explosions and pistons
+
+- Disappears when the owner moves too far away
+
+- Disappears after death, teleporting, portal travel, or changing dimensions
+
+- Is replaced when another portable workstation is deployed
+
+Virtual Furnace and Fluid 

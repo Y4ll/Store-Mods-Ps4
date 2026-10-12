@@ -1,0 +1,45 @@
+Bosya's Japan Katana v4.0.5 - Vanilla Sword
+
+Japan Katana is a Minecraft Bedrock resource pack that transforms all vanilla swords into beautifully crafted 3D Japanese katana models. Each sword tier features a unique and highly detailed design.
+
+Looking for Actions & Stuff Support?
+
+This pack does NOT support the Actions & Stuff animation pack! If you want custom animations, unique craftable katanas, and Actions & Stuff support, please download Bosya's Japan Katana - Support A&S instead!
+
+Key Features
+
+- Full 3D Katana Models: Transforms all 7 sword tiers (Wooden Netherite) into custom 3D katanas.
+
+- Achievement Friendly: Only changes the visuals of the swords. No behavior pack is required, keeping your survival achievements fully enabled.
+
+How to Apply
+
+- Download the .mcpack file.
+
+- Open the file to import it into Minecraft.
+
+- Go to Settings Global Resources and activate Japan Katana v4.0.5.
+
+Rules & Permissions:
+
+You Are Allowed To:
+
+- Showcase my work in videos/streams if you give proper credit (e.g., link to the official CurseForge page).
+
+- Edit files for personal use only.
+
+You Are Not Allowed To:
+
+- Distribute through monetized links (AdFly, Linkvertise, dll.).
+
+- Re-upload, edit, or re-share my projects on other websites or third-party apps without permission.
+
+- Use direct download links (Mediafire, Google Drive, dll.) when sharing.
+
+CurseForge: bosya's Projects
+
+MCPEDL: bosya's Profile
+
+Telegram: @bosya_craft Group
+
+Support: Donate on Ko-fi

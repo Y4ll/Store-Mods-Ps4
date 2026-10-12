@@ -1,0 +1,26 @@
+A pack that remodels farm animals with tons of variants! The "Cozy Critters" texture pack was originally created by CanineGray for Java Edition and was brought to Bedrock Edition by me, Parzival_.
+
+Remodeled mobs:
+
+- Chickens
+
+- Pigs
+
+- Sheep
+
+- Cows
+
+Randomized Traits:
+
+- Cow horn lengths
+
+- Pig ear shapes
+
+- Pig tusks
+
+- Sheep horn types
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

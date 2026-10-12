@@ -1,0 +1,95 @@
+Ores Dimension
+
+Ever wondered what a world made entirely around one ore would look like? Ores Dimension adds 9 unique ore-themed dimensions to Minecraft Bedrock, each with its own terrain, blocks, trees, and atmosphere based on a specific ore.
+
+9 Ore Dimensions
+
+- Iron Dimension
+
+- Gold Dimension
+
+- Copper Dimension
+
+- Coal Dimension
+
+- Redstone Dimension
+
+- Lapis Dimension
+
+- Diamond Dimension
+
+- Emerald Dimension
+
+- Netherite Dimension
+
+Build Your Ore Portal
+
+Build a portal frame using the corresponding ore block and light it with Flint & Steel. The portal will open into that ore's own dimension.
+
+For example, build an Iron Block frame to enter the Iron Dimension, or a Diamond Block frame to enter the Diamond Dimension.
+
+Unique Worlds
+
+Each dimension generates its own terrain with ore-based surfaces, underground layers, hills, trees, ponds, and natural structures. The terrain is procedurally generated, so you can explore a large world instead of a small fixed area.
+
+Explore & Survive
+
+These dimensions are not just empty ore worlds. Explore their terrain, collect resources, discover different landscapes, and build your own base in whichever ore dimension you like.
+
+Animals such as Cows, Sheep, Pigs, and Chickens can also spawn naturally in the dimensions.
+
+Portal Travel
+
+- Build an ore-block portal in the Overworld.
+
+- Light it using Flint & Steel.
+
+- Enter the portal to travel to the matching ore dimension.
+
+- Return through the portal to go back to the Overworld.
+
+- Portal locations are linked to make travelling between worlds easier.
+
+Features
+
+- 9 custom ore dimensions.
+
+- Iron, Gold, Copper, Coal, Redstone, Lapis, Diamond, Emerald, and Netherite worlds.
+
+- Custom procedural terrain generation.
+
+- Ore-based terrain and vegetation.
+
+- Custom portal system.
+
+- Ore block frames for each dimension.
+
+- Flint & Steel portal activation.
+
+- Natural ponds, hills, trees, and structures.
+
+- Natural animal spawning.
+
+- Linked portal travel.
+
+- Designed for Minecraft Bedrock Edition.
+
+Minecraft Version
+
+- Minecraft Bedrock Edition 1.26.50+
+
+- Enable Beta API in Experimental Features!
+
+Created by FleetMc Studio
+
+Support FleetMc Studio
+
+If you enjoy this addon and would like to support future Minecraft Bedrock projects, consider supporting FleetMc Studio on Ko-fi. I'm currently saving for a new laptop so I can create bigger, higher-quality addons, maps, and texture packs with faster updates and more features. Every contribution helps bring future projects to life.
+
+Report a Bug
+
+Also, give your rating by scrolling down
+
+Giveaway
+
+Win $5 Gift Card Giveaway

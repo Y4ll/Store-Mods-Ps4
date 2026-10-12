@@ -1,0 +1,18 @@
+VARIANTS' LIST
+
+Put a nametag on a horse, dunkey, mule or skeleton horse to obtain the variants. dont include the '' and all names are case sensitive.
+
+- HORSE 'Pegasus', 'Alicorn', 'Unicorn', 'Swift Wind', 'Zorse', 'Zegasus', 'Zombicorn', 'Zalaricorn', 'Zebra', 'Hell Horse'
+
+- DONKEY 'Skelly', 'Pegasus', 'Zebra'
+
+- MULE 'Skelly', 'Pegasus', 'Zebra'
+
+- SKELETON HORSE 'Pegasus', 'Alicorn', 'Unicorn', 'Thestral'
+
+This pack was originally created by Fishysalmon02 for Java Edition and was ported by me to Bedrock Edition. some functions may not be the same due to bedrock limitations.
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

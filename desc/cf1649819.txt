@@ -1,0 +1,74 @@
+ANCIENT VILLAGERS
+
+38 items: currencies, relics, crowns, weapons, working shields, food, the war horn, the imperial decree, ancient scrolls
+24 custom mobs and professions: warriors, cavalry and emperors (seven types)
+Invasions with an objective tracker
+Wild skirmishes between rival war bands
+Festivals, coronations and mourning bells
+
+Seven Civilisations -
+
+Greek
+Marble, hoplites, the Owl of Athena
+
+Roman
+Legionaries, the scutum and gladius, Saturnalia
+
+Egyptian
+Sandstone temples, the pschent, khopesh-armed Medjay
+
+Persian
+The King of Kings, Immortals, Nowruz
+
+Norse
+Longhouses, bearded axes, the Winter Blot
+
+Maya
+Stepped pyramids, the macuahuitl, the Wayeb rites
+
+Carthaginian
+Harbour cities, the Sign of Tanit, Punic shields
+
+Each has its own architecture, temple, palace, statue, currency, food, festival, weapons, shields, iron golem, and trade tables for all 13 professions.
+
+The add-on rebuilds your world's villages.
+
+Conquest -
+
+Wear a people's crown and fight for them. Defend their cities, kill the raiders at their gates, bring gifts to their court.
+
+Their army will march on your command. Pick a rival city and conquer!
+
+Cities pay tax, and revolt if you neglect them.
+
+The Imperial Codex -
+
+Your holdings, your standing with all seven peoples, your campaigns, and every city you have found.
+
+Sneak and interact with a ruler for his court. A click still trades.
+
+Ancient Professions -
+
+New villager professions with their own robes and trades in every civilisation.
+
+- Philosopher at the temple. Books, scrolls, bottled experience.
+
+- Astrologer at the statue. Clocks, compasses, spyglasses. Ask him and he tells you when an army is coming.
+
+- Chronicler at the palace. Maps, name tags, and the city's history: who took it, and what it was called before.
+
+Getting started -
+
+- Find a village. It rises on its own.
+
+- Defend it when it is attacked.
+
+- Get a crown and wear it.
+
+- Sneak and use the crown to open the Codex (more features when interacting with emperor)
+
+/scriptevent anc:codex opens it anywhere. /scriptevent anc:diag reports what the add-on can see.
+
+Submitted For The Minecraft ModJam 2026
+
+This is a newly published addon, there are most likely issues and conflicts DO NOT use this on a pre-existing world.

@@ -1,0 +1,105 @@
+Flyerworks
+
+Ten aircraft, from a wooden glider to a supersonic jet, backed by a genuine aerodynamic flight model.
+
+Why Flyerworks
+
+- Ten Distinct Airframes From wooden gliders to supersonic interceptors, each with its own flight physics, hit points, and operational role.
+
+- True Aerodynamic Model Throttle, airspeed, drag, and energy retention. Pull too hard without speed and the wing quits.
+
+- Tactical Air Combat Dynamic dogfighting featuring evadable guided missiles with physical turn limits, hold-to-fire autocannons, and unguided heavy ordnance.
+
+- Vanilla-Integrated Progression Seamless survival balance. Crafting recipes require dimension-locked blueprints found across the Overworld, Nether, and End.
+
+- Wreckage & Recovery Crashes leave smoking crash sites. Bring a Toolbox to repair your downed craft rather than losing your investment.
+
+- Dynamic Camera Suite Built-in chase views that dodge terrain automatically, plus a dedicated cinematic suite for recording.
+
+Aircraft Progression
+
+- Early Game (Pre-Nether) Inexpensive and accessible, prioritising utility and light scouting over pure firepower.
+
+- Mid Game (Nether Tier) Unlocked via Nether progression and bartering. Piston-driven fighters, high-speed hovercraft, and heavy armament.
+
+- Late Game (End Tier) Peak speed and survivability built from End City technology and Shulker engineering.
+
+- Secret (Rare Finds) Magical oddities with zero fuel requirements and unconventional flight mechanics.
+
+Please allow a moment for the images to load, as they carry most of the information.
+
+Aircraft Lineup
+
+SkyHawk Early Game
+
+Your primary amphibious explorer. Built around a boat hull, it handles water landings effortlessly, carries cargo and a passenger, and serves as your first step into powered flight.
+
+- Role: Water-landing airship / transport hybrid
+
+- Flight Mode: VTOL Burns fuel
+
+- Specifications: 100 HP 6 cargo slots 2 seats
+
+- Armament: Autocannon
+
+- Acquisition: Craftable pre-Nether (Blueprint acquired from Wandering Traders)
+
+K-58 Thunderbolt Early Game
+
+A classic interceptor inspired by the P-51 Mustang. Built for speed and light strikes, this is the first airframe where energy management matters: bleed too much airspeed in a turn, and control authority drops rapidly.
+
+- Role: Fast scout / light interceptor
+
+- Flight Mode: Plane Burns fuel
+
+- Specifications: 120 HP 3 cargo slots 1 seat
+
+- Armament: Autocannon, RKT, APM, UGBS, UGBL
+
+Hovercraft Mid Game
+
+Compact redstone and blaze engineering capable of traversing water, land, and low air with blistering speed. Highly thirsty and lightly armoured, it sacrifices everything for raw surface pace.
+
+- Role: High-speed terrain traversal
+
+- Flight Mode: Plane Burns fuel (High consumption)
+
+- Specifications: 75 HP No cargo 1 seat
+
+- Armament: None
+
+- Acquisition: Redprint (Nether Fortress chests / Piglin bartering)
+
+M62 Saber Mid Game
+
+Voted for by AsepStalinj891 & YouTheGud
+
+An early-generation jet inspired by the Me 262. Boasting heavy frontal firepower, it trades high-G roll rates for sheer straight-line speed and a devastating missile payload.
+
+- Role: Heavy strike fighter
+
+- Flight Mode: Plane Burns fuel
+
+- Specifications: 170 HP 6 cargo slots 1 seat
+
+- Armament: Autocannon, AVM, APM, RKT, UGBS, UGBL
+
+- Acquisition: Redprint
+
+F/A-31 Daemon Mid Game
+
+A cutting-edge fighter bridging mid and late-game tech, inspired by the F-35B. Features seamless switching between hovering VTOL and high-speed Plane mode, with turn performance sharp enough to beat guided missile tracking.
+
+- Role: Advanced multi-role strike fighter
+
+- Flight Mode: VTOL and Plane Burns fuel
+
+- Specifications: 250 HP 12 cargo slots High agility
+
+- Armament: Autocannon, ATIM, AVM, AMM, APM
+
+- Acquisition: Redprint
+
+StratoSailer Late Game
+
+A mechanical anglerfish built from End Portal materials and prismarine. Unmatched durability with zero fuel requirements thanks to its Shulker core, which doubles as an offensive Shulkercannon firing levitation rounds. Grants fire and

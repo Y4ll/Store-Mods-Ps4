@@ -1,0 +1,92 @@
+Dimension Traveler, have you ever wanted to explore something beyond the End?
+
+Ethercraft is a dimension that challenges you to conquer it from scratch, featuring:
+
+- 120+ unique items
+
+- 127 new blocks
+
+- 20+ entities, including a two-phase final boss!
+
+On the next page, we'll cover:
+
+- How to Travel getting into the dimension
+
+- The Combat System how to fight and survive
+
+- Items everything you can find and craft
+
+- Entities every creature that awaits you
+
+- Biomes the landscapes you'll explore
+
+How to Travel
+
+How to Travel
+
+To enter Ethercraft, you must journey through the Nether and find Quartz.
+
+With 5 blocks of Quartz, you can craft the
+
+"""Quartz Portal Frame (Block)"""
+
+Build a portal the same way you would a standard Nether portal, and light it with fire.
+
+Once inside, you'll need to wait 2 to 3 minutes for the dimension to finish generating.
+
+After that, you'll be able to travel back and forth quickly and freely, and your friends can join you too. Don't forget to bring extra quartz for your return trip or you'll be stranded! You've been warned.
+
+The Dimension of Dreams is extremely dangerous enter with caution.
+
+Please do not exit the world while it is still generating!
+
+Photo taken with Vanilla RTX
+
+The Combat System
+
+You'll quickly notice that your vanilla weapons or any weapon from outside this world barely scratch these creatures. That's because of the magical barrier protecting this dimension, which reduces your damage output to just 25%.
+
+Luckily, you can craft Ethercraft weapons that let you strike with 100% damage! Of course, you'll have to start over from wood, then stone, before reaching the magical Etherite but it's all part of the new challenge.
+
+You'll also be able to craft Anti-Gravity Arrows and the Bow of Athena, letting you pierce through the barrier in ways normal arrows never could!
+
+But beware that same magical barrier doesn't protect you. It doesn't matter if you're wearing full Netherite armor; it won't shield you from the damage these hostile creatures deal.
+
+So gear up with Ether Stone Armor, Etherite Armor, or Etherite Armor enhanced with Leviathan Scales only this armor will protect you from harm.
+
+You can tell you're dealing damage by watching for defense particles falling downward. If you see them rising instead, it means you're not using the right Ethercraft weapons.
+
+Good luck out there.
+
+Items
+
+Ethercraft is packed with items most can be found naturally in the world or obtained by hunting mobs.
+
+Some special items require crafting, and you'll need their recipes first. Most of these recipes can be traded from the Dethermons goat-like demons who dwell beneath the temple.
+
+Collect them all!
+
+Entities
+
+Alicorn
+A horse with a horn and wings what more could you want? You can equip it with a saddle and armor to trot or fly. To switch between trotting and flying, you'll need the Master Horn, dropped by Dethermons upon death.
+
+They can drop feathers and unicorn feathers, useful for crafting Ether arrows, as well as their powerful horn for crafting the Bow of Athena. The higher your Looting enchantment, the greater the chance of a drop!
+
+Angel Pig
+Angel Pigs can be tamed with green Betherries. You can equip them with a saddle and fly. They're neutral and drop feathers and pork upon death. They come in three variants!
+
+Angelfish
+Fish that can be eaten in-game! The Axovulpus absolutely love them.
+
+Axovulpus
+Is it a fox? An axolotl? Maybe it's our brand turned into an in-game entity you can admire. On death, it rarely drops its tail, along with plenty of its fur, which can be used to craft the Axovulpus Plushie or new bed sheets.
+
+Bighaired Chicken
+A green chicken with an afro. You can enjoy its green eggs for breakfast.
+
+Cathorns
+Cats with horns. They drop fragments used to craft their incredible lamps. They can be tamed with Angelfish.
+
+Chlamydosaurus Flower
+Beware of these lizards they inhabit the Withered Biome and came to life from malevolent flowers. They'll bite without hesitation. Their scal

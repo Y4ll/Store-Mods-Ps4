@@ -1,0 +1,160 @@
+Necessary World Experiments:
+
+None!!
+You do not need any on, and having them on will still make the addon work!
+
+Preview of the Warden Armor
+
+-
+
+This addon includes:
+
+|---------- New Warden Drops ----------|
+
+New Warden Drops:
+
+Warden Heart: 100% drop rate, qty. 1
+
+Warden Tendrils: 100% drop rate, qty. 2
+
+|---------- New Repairs ----------|
+
+Warden Armor & Echo Tool Repairs:
+
+*All Warden armor, Echo tools, and the Echo staff will be repairable with the Warden Heart, Warden Tendrils, and Echo Shards with an anvil*
+
+Warden Heart: Repairs 100% durability
+
+Echo Shards: Repairs 66% durability
+
+Warden Tendrils: Repairs 33% durability
+
+Same Item: Repairs 5% + other item's durability
+
+|---------- Warden Armor Stats----------|
+
+Warden Armor Stats:
+
+**A full set of Warden armor is required to activate the Warden armor's special abilities**
+
+1. Applies the darkness effect for 10 seconds right after a full set of Warden Armor is equipped
+
+2. Gain permanent Night Vision and Darkness & Blindness resistance
+
+3. Gain a unique mob tracking ability:
+
+mobs within a radius of 25 blocks are pinged by an echo for 5 seconds.
+
+**Does not track players**
+
+The echo can be seen through walls!
+
+Warden Helmet: 5 bars of protection, 495 durability when equipped
+
+In comparison, Netherite Helmet has: 3 bars of protection, 407 durability when equipped
+
+Warden Chestplate: 11 bars of protection, 720 durability when equipped
+
+Netherite Chestplate: 8 bars of protection, 592 durability when equipped
+
+Warden Leggings: 8 bars of protection, 675 durability when equipped
+
+Netherite Leggings: 6 bars of protection, 555 durability when equipped
+
+Warden Boots: 4 bars of protection, 585 durability when equipped
+
+Netherite Boots: 3 bars of protection, 481 durability when equipped
+
+**In case you were wondering, here's a graph comparing the Warden Armor protection dropoff to Diamond:**
+
+|---------- Echo Tools Stats ----------|
+
+Echo Tools Stats:
+
+Echo Sword: 8 damage, 3122 durability, 15 speed
+
+Netherite Sword: 8 damage, 2031 durability, 15 speed
+
+Echo Pickaxe: 6 damage, 3122 durability, 9 speed
+
+Netherite Pickaxe: 6 damage, 2031 durability, 9 speed
+
+Echo Axe: 7 damage, 3122 durability, 9 speed
+
+Netherite Axe: 7 damage, 2031 durability, 9 speed
+
+Echo Shovel: 5 damage, 3122 durability, 9 speed
+
+Netherite Shovel: 5 damage, 2031 durability, 9 speed
+
+Echo Hoe: 6 damage, 3122 durability, 9 speed
+
+Netherite Hoe: 6 damage, 2031 durability, 9 speed
+
+|---------- Echo Staff Stats ----------|
+
+Echo Staff Stats:
+
+Echo Staff:
+
+3122 durability, Does not break any blocks
+
+Normal hit (Left Click - Staff):
+
+0 damage (same as fist)
+
+Cast (Right Click - Staff):
+
+10 magic damage to mobs, 5 magic damage to players
+
+uses 15 durability
+
+0.64 second charge, 3 second duration, 10 second cooldown
+
+Range of 10 blocks, the chance of hitting an enemy decreases the further away they are
+
+Close ----------> Far
+
+siphons XP from mobs that are hit
+
+|---------- 3D Models and Recipes ----------|
+
+3D Models:
+
+Full set of Warden Armor and Echo sword equipped
+
+Echo staff and Echo pickaxe equipped
+
+Armor Recipes:
+
+Warden Helmet
+
+Warden Chestplate
+
+Warden Leggings
+
+Warden Boots
+
+Tool Recipes:
+
+Echo Staff
+
+Echo Sword
+
+Echo Pickaxe
+
+Echo Axe
+
+Echo Shovel
+
+Echo Hoe
+
+Where to find the items:
+
+Enjoy the addon!
+
+-
+
+Watch this video for more details about the addon!
+
+Please subscribe if you want more addons like this one!

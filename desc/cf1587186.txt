@@ -1,0 +1,24 @@
+Timber Tales brings Minecraft forests to life with a more immersive, natural, and satisfying tree experience for your survival world.
+
+Progressive axe cuts
+
+Chop Progress Indicator
+
+Visible Cracks
+
+Falling-tree animations
+
+Terrain reactions
+
+Impact effects
+
+Multiplayer-Friendly optimization
+
+Deeper Cuts
+Each additional hit causes deeper and more noticeable damage.
+
+Ready to Fall
+
+One final strike sends the entire tree falling.
+
+This is only the beginning. More mechanics, unexpected features, and wild surprises are already growing in the woods...

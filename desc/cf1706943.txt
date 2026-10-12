@@ -1,0 +1,171 @@
+Smart Villager Addon
+
+Smart Villager Addon transforms Minecraft Bedrock villagers into a more active and autonomous civilization. Each profession has unique behaviors, tools, workstation interactions, daily routines, and combat abilities.
+
+Features
+
+Universal Villager Behavior
+
+All villagers can:
+
+- Collect dropped items within their surroundings
+
+- Store collected items in their internal inventory
+
+- Deposit items into nearby chests and barrels
+
+- Build village chests when storage is unavailable
+
+- Help expand villages by placing beds and workstations
+
+- Automatically synchronize their behavior when changing professions
+
+Profession Behaviors
+
+Farmer
+
+- Tills farmland and plants crops
+
+- Uses bone meal to accelerate crop growth
+
+- Harvests and replants mature crops
+
+- Plants flowers and tree saplings
+
+- Produces bone meal through composting
+
+- Breeds cows, sheep, chickens, and pigs
+
+- Feeds baby animals to accelerate their growth
+
+- Defends the village with an iron hoe
+
+Butcher
+
+- Hunts adult cows and pigs
+
+- Collects meat and leather
+
+- Uses smokers to cook collected meat
+
+- Automatically gathers fuel and raw meat for cooking
+
+Shepherd
+
+- Starts with companion sheep
+
+- Shears sheep for wool
+
+- Dyes sheep into different colors
+
+- Feeds sheep to regrow their wool
+
+- Protects sheep from hostile predators
+
+- Works with looms to produce carpets
+
+Armorer
+
+- Repairs damaged Iron Golems
+
+- Provides defensive buffs to nearby villagers and players
+
+- Works with anvils
+
+- Can construct Iron Golems during dangerous situations
+
+Weaponsmith
+
+- Sharpens weapons using grindstones
+
+- Uses a Goat Horn to rally villagers during attacks
+
+- Provides Strength to nearby allies
+
+- Fights hostile mobs using swords and axes
+
+Fletcher
+
+- Patrols the village perimeter
+
+- Uses bows and crossbows against hostile mobs
+
+- Can fire flaming arrows near fire sources
+
+- Applies combat effects against different enemies
+
+- Crafts arrows at fletching tables
+
+- Practices archery using target blocks
+
+Fisherman
+
+- Detects nearby rivers, oceans, and ponds
+
+- Autonomously fishes using a custom fishing rod
+
+- Collects fish from water
+
+- Feeds stray cats
+
+- Cooks fish using campfires
+
+- Restocks ponds with fish
+
+Librarian
+
+- Plants and harvests sugarcane
+
+- Works with lecterns to create books and paper
+
+- Provides beneficial effects to nearby villagers and players
+
+- Removes harmful status effects from allies
+
+Cleric
+
+- Performs Zombie Villager curing rituals
+
+- Uses Weakness potions and Golden Apples
+
+- Provides defensive effects during village attacks
+
+- Works with brewing stands
+
+- Creates and uses combat and healing potions
+
+Dynamic Profession Synchronization
+
+Villagers are continuously monitored for profession changes. When a villager claims, changes, or loses a workstation, their equipment, tags, and profession-specific behavior are automatically updated.
+
+This allows villagers to transition between professions without leaving behind old behavior or equipment.
+
+Village Expansion
+
+Villagers can actively contribute to the growth of their village by:
+
+- Placing beds with valid clearance
+
+- Building additional workstations
+
+- Claiming newly placed workstations
+
+- Creating storage containers
+
+- Collecting and organizing resources
+
+- Supporting natural village breeding
+
+Minecraft Version
+
+Minecraft Bedrock Edition 1.21.0 or higher.
+
+The addon uses the Bedrock Scripting API and requires Beta APIs to be enabled.
+
+License
+
+All rights reserved.
+
+No permission is granted for third-party distribution, reuploading, mirroring, or redistribution.
+
+The addon is officially published only on CurseForge and MCPEDL. Always use the official project pages when downloading the addon.

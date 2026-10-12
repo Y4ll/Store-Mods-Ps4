@@ -1,0 +1,177 @@
+This add-on will add different types of crates that generate naturally in your world. By using keys and other equipment, you can unlock the crates to obtain random loot, ranging from low-tier to high-tier items.
+
+(v1.16)
+
+NEW UPDATES:
+
+Version: 1.16
+
+Version: 1.16
+
+NOTE:
+
+- This update only works with Minecraft version 26.40 and higher.
+
+STRUCTURES:
+
+- Reworked structure generation to prevent structures from generating too close to or colliding with other structures.
+
+MOBS:
+
+- Piglin Crates Trader:
+
+- Can now pickup and store Golden Dandelions in its inventory.
+
+- Updated its animation and model to match the vanilla Piglins animations.
+
+BLOCKS:
+
+- Custom blocks now have assigned instrument sounds when played by a Note Block.
+
+ITEMS:
+
+- Fixed a bug with the Flint Axe when stripping logs and wood.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.40 version.
+
+Version: 1.15
+
+Version: 1.15
+
+NOTE:
+
+- This update only works with Minecraft version 26.30 and higher.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.30 version.
+
+BLOCKS:
+
+- Fixed a bug where Wooden Crates could drop multiple loot items from a single interaction.
+
+- Added 5 Crate Trophies and 5 Crate Key Trophies.
+
+- Trophy tiers: Stone, Copper, Iron, Golden, and Diamond.
+
+- Stone Crate Trophies and Stone Crate Key Trophies have a chance to be obtained from any type of Crate.
+
+- Higher-tier trophies can be crafted by combining lower-tier trophies.
+
+Version: 1.13.1
+
+Version: 1.13.1
+
+STRUCTURES:
+
+- Improved Overworld structure generation. Structures are now generated using jigsaw structures.
+
+- Increased block variety in structures.
+
+- Decorated Pots in structures may now contain different types of items.
+
+- Structures can now be located using the /locate command in Creative Mode with their identifier names:
+
+- ntk:crates_trader_house_desert
+
+- ntk:crates_trader_house_plains
+
+- ntk:crates_trader_house_savanna
+
+- ntk:crates_trader_house_swamp
+
+- ntk:crates_trader_house_taiga
+
+- ntk:pile_of_acacia_wood_crate
+
+- ntk:pile_of_bamboo_wood_crate
+
+- ntk:pile_of_birch_wood_crate
+
+- ntk:pile_of_cherry_wood_crate
+
+- ntk:pile_of_dark_oak_wood_crate
+
+- ntk:pile_of_jungle_wood_crate
+
+- ntk:pile_of_mangrove_wood_crate
+
+- ntk:pile_of_pale_oak_wood_crate
+
+- ntk:pile_of_spruce_wood_crate
+
+BLOCKS:
+
+- Fixed Golden Crate destruction particles.
+
+- Copper Equipment can now be obtained from Copper Crates.
+
+TRADING:
+
+- Revamped trade stack limits.
+
+Version: 1.14
+
+Version: 1.14
+
+NOTE:
+
+- This version may no longer be able to update over older versions.
+
+- This update only works with Minecraft version 26.10 and higher.
+
+TECHNICAL CHANGES:
+
+- Changed the UUID to fix importing issues on Realms. (Note: This will prevent the add-on from updating over older versions.)
+
+BLOCKS:
+
+- Fixed Nether Hyphae Crates not dropping loot when opened with a Flint Axe.
+
+- Added Trial Crate and Ominous Trial Crate. Trial Crates can be found naturally in the deepslate layer underground, and can also be obtained through trading with the Crates Trader. They can be opened using Trial Keys and drop loot similar to Trial Vaults.
+
+TRADING:
+
+- Crates Traders now offer the Learning Book of Crates Trading at the Apprentice level (Level 3).
+
+Version: 1.13.1
+
+Version: 1.13.1
+
+STRUCTURES:
+
+- Improved Overworld structure generation. Structures are now generated using jigsaw structures.
+
+- Increased block variety in structures.
+
+- Decorated Pots in structures may now contain different types of items.
+
+- Structures can now be located using the /locate command in Creative Mode with their identifier names:
+
+- ntk:crates_trader_house_desert
+
+- ntk:crates_trader_house_plains
+
+- ntk:crates_trader_house_savanna
+
+- ntk:crates_trader_house_swamp
+
+- ntk:crates_trader_house_taiga
+
+- ntk:pile_of_acacia_wood_crate
+
+- ntk:pile_of_bamboo_wood_crate
+
+- ntk:pile_of_birch_wood_crate
+
+- ntk:pile_of_cherry_wood_crate
+
+- ntk:pile_of_dark_oak_wood_crate
+
+- ntk:pile_of_jungle_wood_crate
+
+- ntk:pile_of_mangrove_wood_crate
+
+- ntk:pile_of_pale_oak_wood_crate

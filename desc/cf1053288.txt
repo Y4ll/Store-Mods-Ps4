@@ -1,0 +1,19 @@
+This addon makes all kinds of minerals more visible, this is because it makes those emit light.
+
+This helps a lot in the gameplay in general and makes mining less tedious since after the cave update it became more tedious.
+
+Works with render dragon,that means it will most likely work as the game is updated.
+
+Ores emit light like redstone and if you want them to turn off just hit the block,if you want the block to emit light again you need to put the block again.
+
+This is an ADDON, you must install both the Resource Pack and Behavior Pack.
+
+Glowing ores only appear in unexplored terrain.
+
+Works fully in new worlds.
+
+In existing worlds, only new chunks will have glowing ores.
+
+Compatible with other resource packs.
+
+This addon does not disable achievements

@@ -1,0 +1,89 @@
+This addon is an unofficial port of the Java Edition mod made by shiroroku. You can go to the original mod page here.
+
+If you find any bugs, please contact me via my discord server or my youtube channel.
+
+Colored versions of the Cards here.
+
+Find each of the 22 cards throughout the world, and receive their bonus by just carrying them! This small addon just adds the cards and their abilities. You can't craft them but instead you find them all in loot chests, such as buried treasure, shipwrecks, dungeons, and more.
+
+Cards and their effects:
+
+- Death: When hitting a non-undead mob, it takes a second damage equivalent to 20% of the damage on hit
+
+- Judgement: When hitting a mob, it has a 15% chance of taking a second damage equal to the first
+
+- Justice: 25% of Damage taken (to health) is also dealt to the attacker.
+
+- Strength: Constant Strength 2
+
+- Temperance: Every minute, regenerate 1 hunger point
+
+- The Chariot: Constant Speed
+
+- The Devil: Attacks inflict weakness
+
+- The Emperor: Constant Hero Of The Village 3.
+
+- The Empress: Every 3 minutes, causes nearby mobs to grow
+
+- The Fool: Jump Boost 3
+
+- The Hanged Man: Receive 50% of damage taken (to health) as experience
+
+- The Hermit: Resistance when away from players and tamed mobs
+
+- The Hierophant: Some xp from defeating mobs/breaking blocks that give xp
+
+- The High Priestess: Upgrades held enchantment books with experience (hold the screen with the book to get the effect)
+
+- The Lovers: Nearby players and tamed mobs are granted Regeneration 3
+
+- The Magician: Vanilla golden equipment regenerate when used
+
+- The Moon: Constant Night Vision
+
+- The Star: Nearby items are attracted to the player
+
+- The Sun: Constant Health Boost
+
+- The Tower: Constant Slow Falling
+
+- The World: Slowness 3 to nearby mobs
+
+- The Wheel Of Fortune: When breaking a vanilla ore, an extra drop is generated and when killing a mob, you have a 2% chance of getting double the loot
+
+Tarot Deck:
+
+Store the Cards. Hold the screen (without sneaking) to store and hold the screen (sneaking) to retrieve
+
+How to get the Cards:
+
+The Cards cannot be crafted, but they can be obtained through loot from these structures:
+
+- Desert Pyramids
+
+- Dungeons
+
+- End Cities
+
+- Nether Fortresses
+
+- Mineshafts
+
+- Shipwrecks
+
+- Stronghold Libraries
+
+- Temples in Villages
+
+Activate Holidays Features and Beta API in versions prior to 1.21+
+
+No need to enable experimental gameplay in version 1.21+
+
+This addon is achievement friendly in 1.21.94+
+
+LICENCE:
+
+The mod is MIT Licensed and I got permission from the original mod owner
+
+Go to original mod page

@@ -1,0 +1,37 @@
+This addon is for players that want to display entity health and doesn't want to break other addons. If you are an addon creator this addon also includes tags and family types to be use on your entity to exclude them from this addon.
+
+How To Use:
+
+- Just enable the addon inside your world.
+
+What It Looks Like:
+
+Mobs with nametag:
+
+It will exclude names with special behaviors.
+
+Excluding Mob With Nametags:
+
+Add "[smh]" at the beginning of the name and it will not add the hearts.
+
+How To Exclude My Custom Entity:
+
+You can add one of these tags to the entity to exclude it:
+
+- EXCLUDE_HEART
+
+- SIMPLE_MOB_HEART_EXCLUDE
+
+- SMHE
+
+You can also add a family type to the entity to exclude:
+
+- EXCLUDE_HEART
+
+- SIMPLE_MOB_HEART_EXCLUDE
+
+- SMHE
+
+Suggestions or Bug Report:
+
+Discord: https://discord.gg/DZ7Q2ugEeg

@@ -1,0 +1,56 @@
+AuraFX Visuals is a Vibrant Visuals shader pack built for Minecraft Bedrock's new rendering pipeline. It delivers cinematic atmospheric lighting, dreamy pink-and-purple skies, volumetric sun rays, warm forest sunlight, blazing magenta sunsets, and deep blue starlit nights, all while staying lightweight and smooth across low-end and high-end devices.
+
+Reimagined Visual Style
+
+- Vibrant, saturated color identity built around pink, purple, and gold atmospheric tones
+
+- Balanced between cinematic drama and vanilla-friendly readability
+
+- Designed to feel alive and immersive without overwhelming vanilla builds
+
+- Clean reflective water and soft volumetric fog transitions
+
+Advanced Atmospherics System
+
+- Custom sky zenith and horizon color tuning for a signature dreamy gradient
+
+- Smooth day-to-night sky transitions with tuned Rayleigh scattering for color depth
+
+- Enhanced sun Mie scattering for a glowing, glare-rich sun disc
+
+- Fiery magenta-to-gold sunsets and sunrises with strong horizon blending
+
+- Deep blue moonlit nights with a crisp starfield and soft moon Mie glow
+
+Lighting & Sun Rays
+
+- Volumetric sun rays with boosted intensity through forest canopies and foliage
+
+- Smooth illuminance ramp from vibrant daylight to cool nighttime ambience
+
+- Blue-tinted moonlight for soft, natural night visibility
+
+- Tuned horizon blend stops for a seamless sky-to-treeline transition
+
+Color Grading & Fog
+
+- ACES tone mapping with lifted contrast and boosted saturation across highlights and midtones
+
+- White balance tuned at 6400K for a natural, slightly warm base look
+
+- Biome-aware volumetric fog for atmospheric depth in forests and groves
+
+- High-saturation highlight and midtone grading for punchy, vibrant scenes
+
+Enhanced Local Lighting
+
+- Hand-tuned point and static light colors for every glowing block. warm amber torches and campfires, icy cyan soul fire, glowing purple portals and amethyst. giving light sources a richer, more natural warm-to-cool color range instead of flat vanilla white light
+
+Requirements
+AuraFX Visuals requires Minecraft Bedrock/PE with Vibrant Visuals enabled, on version 1.21.80 or higher. Supported devices include Adreno 640+ (Snapdragon 855), MediaTek Dimensity 1000+, and PCs with DirectX 12 FL11 support.
+
+Installation
+
+- Download the .mcpack file 2. Open to import into Minecraft 3. Enable AuraFX Visuals in Global Resources 4. Turn on Vibrant Visuals in Video Settings
+
+AuraFX Visuals reefycraft

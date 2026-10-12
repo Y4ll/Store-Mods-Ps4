@@ -1,0 +1,29 @@
+Typing out endless coordinates just to build a wall or clear some terrain is tedious. This addon fixes that by giving you a quick, visual way to manage your builds without touching the chat console. Just grab a Wooden Axe and start creating.
+
+How it works
+
+First Right-Click: Set your first point.
+
+Second Right-Click: Set your second point.
+
+Third Right-Click: Open the menu.
+
+Inside the Menu you can:
+
+Adjust on the fly: You can see your selected coordinates inside the UI and tweak them manually if you need to perfect your selection.
+
+Mass Fill: Type the block you want, hit confirm, and the entire area fills instantly.
+
+Block Replacement: If you want to swap a specific block type rather than filling the whole area, put your new block in the first slot and the block you want to replace in the second slot.
+
+Quick Reset: To clear your points and start over, click the reset button at the bottom of the menu, or just Shift + Right-Click with your axe in-game.
+
+Limits and Dimensions
+
+Universal Support: This works across the Overworld, the Nether, and the End, with no distance restrictions on where you can select your points.
+
+Size Limit: Because the addon runs on the game's native /fill command, the maximum area size is bound by Minecraft's built-in limits to keep your game running smoothly without lag.
+
+Grab a Wooden Axe, skip the command lines, and speed up your building process.
+
+Tutoriel here :

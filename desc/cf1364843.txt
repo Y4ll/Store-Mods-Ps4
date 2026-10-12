@@ -1,0 +1,36 @@
+Discover with this Add-On a lot of construction blocks originally used in medieval France, that left their trace until this day!
+
+Blocks will be added progressively through my own experiences and your suggestions.
+
+To this day, this Add-On contains:
+
+- Tiles roofs
+
+Tiles roof are traditionally used in France because they resist well to heat, allow water flow. Plus, their rounded shape keeps air flowing in the roof, helping avoid overheating. In this Add-On, tiles can be crafted by placing a brick in a stonecutter. With this brick, you can craft 3 kinds of roofings: roofs, corners and roof tops, which can respectively be crafted this way:
+
+After that, you can try out more complex shapes to expand your possibilities. Try the inner corner and the tile roofroof top mix, which can respectively be crafted in the following way:
+
+-Cobblestone variants
+
+You can fill traditional tile roofs with cobblestone to blend them better into your builds. To do so, simply place the roofing block together with a cobblestone block in the crafting table.
+
+Example:
+
+-Chimneys
+
+Chimneys exist since the beginning of housings in all Europe to fight the winter's cold. Here, for your chimney to work, you will need two different blocks: the chimney base and the chimney body.
+
+The chimney body can be crafted the following way:
+
+Placed in the world, it will look like this but won't do anything
+
+Now, using a chimney body with brick blocks and a coal item the following way, we can craft the base chimney:
+
+Now, we can ignite this new block, but it won't do anything if we don't make the proper setup:
+Place a chimney body on top of the base chimney, and you'll see how particles start to come out!
+
+You can make the chimney how tall you want
+
+And if you want it in your house, you can craft a chimney tiles roof:
+
+You can fill it with cobblestone by putting it in a crafting table with a cobblestone block

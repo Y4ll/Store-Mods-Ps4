@@ -1,0 +1,85 @@
+Reds More Structures Addon adds new structures to Minecraft Bedrock, making the world a more exciting place with new structures to explore. All structures contain loot, and some you can also encounter enemies. In this first version, Reds More Structures Addon is still in the testing phase, since these structures can generate very close or far from each other.
+
+Java Version Here
+
+As of version 1.0.8, it is no longer necessary to use the experimental Custom Biomes feature.
+
+All Structures
+
+Tower
+
+It will spawn in almost all biomes, containing loot and providing a good view that will help you which way to go.
+
+Beach House.
+
+Will spawn on beaches and stone beaches. A small house that has a bed and loot.
+
+Creeper House
+
+Small houses abandoned by creepers. Inside you can find a barrel with loot. It can spawn in almost all biomes, and between 1 to 4 houses together.
+
+Abandoned House
+
+A big house, but destroyed. Inside youll find a bed, some chests, and barrels containing loot. If you like, you can renovate and live.
+
+Mini Buddha 1
+
+Small Buddha statue that will spawn in almost all biomes. It has a chest with loot.
+
+Mini Buddha 2
+
+Another small Buddha statue that will also spawn in almost every biome, and a chest with loot.
+
+Big Buddha
+
+A little rarer to spawn. Will spawn in almost all biomes, above height 80. It has 2 chests with Class A loot.
+
+Oracle of the Plain
+
+It will spawn in the plains biome and has a Class B loot barrel.
+
+Ice Oracle.
+
+Will spawn in snow biomes, containing a chest with Class B loot.
+
+Flower Oracle.
+
+Will spawn in Meadow, Sunflower Plain, and Blossom Forest biomes. It has a Class B loot barrel.
+
+Great Oracle.
+
+A little rarer. Will spawn in almost all biomes, and contains chests with Class A loot.
+
+Dark Tower
+
+Large tower with various types of loot. However, you will be able to find Witches, Vindicators, and Pillagers in the place.
+
+Sphinx
+
+Will spawn in the desert. It has gold blocks for you to pick up.
+
+Patheon
+
+It will spawn in the Desert, and it has some barrels with C-class loot, and a chest with A-class loot. It can spawn covered by sand. Making it difficult to find the loot.
+
+Great Pyramid
+
+Will spawn in the desert. Pyramid larger than the games standard. Inside you should find some barrels with class C loot, tombs that when you open you can find chests with class B loot, and even a chest with class A loot. It can generate covered by sand. Making it difficult to find the loot.
+
+Jungle Pyramid.
+
+Will spawn in Jungles. Pyramid larger than the games standard. Inside you should find some barrels with class C loot, tombs that when you open you can find chests with class B loot, and 2 chests with class A loot.
+
+Titan Sword.
+
+Great Sword of Titan. It is very rare and will spawn in any biome. It can generate missing pieces. It is usually buried with the tip below 30. If the sword is whole and you dig to its tip, you can find up to 2 diamond blocks.
+
+Installation
+
+- Download the mcpack file.
+
+- Double-click to install on your Minecraft.
+
+- Create a new world and in the addon options, find the Reds More Structures Behavior Pack.
+
+- Start your world.

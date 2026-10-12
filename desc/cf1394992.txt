@@ -1,0 +1,134 @@
+This is an unofficial version of the Dungeons Enhanced mod created by Barion and Valarauko9:Here
+
+Minecraft is great game, but exploring always felt a bit boring for us.
+
+There aren't many structures or dungeons you can explore and the ones you find, are getting repetitive.
+
+We decided to spice things up a bit, by adding new dungeons and structures for you to explore.
+
+By now 25 new dungeons and structures are included in our addon.
+
+They all fit a medieval/fantasy theme and could fit along other fantasy or RPG-like Add-Ons.
+
+Some of our structures also look like they could be an upgraded version of a vanilla structure or a variant to them.
+
+Get ready to find huge mazes under trees, castles, towers and forgotten temples.
+
+We hope you have fun!
+
+Full List of Structures:
+
+This is the full list of all our structures including their vavariations.
+
+1. black citadel (Not yet added)
+
+A giant fortress found in the lava lakes of the nether, infested with wither skeletons guarding treasure.
+
+2. castle
+
+Once strongholds of great power now overrun with monsters castles represent long forgotten kingdoms.
+The castle also comes with a second variation:
+
+3. deep crypt
+
+In deepest parts of the world one can found the eary chambers of the deep crypt. Wonder who is buried there?
+
+The deep cryt is a giant randomly generated dungeon found on the deepslate level:
+
+4. desert temple
+
+Under the hot sun in the desert you can find ancient structures which may contain the remains of once great pharaos.
+
+5. desert tomb
+
+The smaller brother of the desert temple the desert still holds some secrets.
+
+6. druid circle
+
+I wonder what these where for? rituals, sacrifice or some kind of religion?
+
+The druid circle also comes with a bigger second variant:
+
+7. dungeon variant
+
+Slightly more interesting than the normal spawner dungeon. Comes in three variants. (spider/zombie/skeleton)
+
+8. elders temple
+
+In the depths of the ocean one can find a giant structure of ancient times. But be aware of its inhabitants!
+
+9. fishing ship
+
+Ever wondered where the fisherman gets his fish?
+
+10. flying dutchmen
+
+Flying on diferents heights the legendary flying dutchmen. The undead crew never rests!
+
+11. hay storage
+
+In the savannah small structures containg hay can be found.
+
+12. ice pit
+
+Freezing cold halls can be found in the ground. Don't get lost or killed in this deadly labyrinth.
+
+The Ice pit can generate with one or two floors:
+
+13. jungle monument
+
+Remnats of ancient civilations can found everywhere even in the deeepest overgrown parts of the jungle.
+
+14. large dungeon
+
+The big brother of normal dungeons. Home to different monsters and treasures. It is also randomly generated.
+
+15. miners house (under rework)
+
+Thered mountains of the mesa biome contain much gold and gold usually draws miners in.
+
+16. monster maze
+
+Hidden under the roots of an really old dark oak tree lies the biggest structure of dungeons enhanced. A giant maze filled with foes of all kind. Nobody really knows what its original purpose was.
+
+The monstermaze is randomly generated and can reach huge proportions:
+
+17. mushroom house
+
+Even mushrooms can be made to a comfortable home.
+
+It also has a second variant:
+
+18. pillager camp (Not yet added)
+
+Pillagers need to travel huge distances on their raids, makes sense that they set up camps.
+
+19. pirate ship
+
+Ever since the villagers discovered the sea for them someone followed them but not with good intensions...
+
+20. ruined building
+
+Long times ago someone lived here before, now only ruins can be found.
+
+Three different variations can be found:
+
+21. stables
+
+Domesticated horses need a place to stay right? Sadly here monsters have taken over.
+
+22. sunken shrine
+
+Holy shrines that where once places of worship now submerged in the sea.
+
+23. tall witch hut
+
+This witch definitly improved her small hut.
+
+24. tower of the undead
+
+Also part of long forgotten kingdoms they are now guarded by new inhabitants.
+
+Second variant of the tower of the undead is much bigger:
+
+2

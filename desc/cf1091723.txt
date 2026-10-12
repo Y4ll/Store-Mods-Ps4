@@ -1,0 +1,27 @@
+Overview
+
+This addon adds the four nations bending styles from the show Avatar: The Last Airbender to Minecraft Bedrock Edition! Avatar is a popular TV show set in a world in which some peopleknown as benderscan telekinetically manipulate one of the four elementswater, earth, fire or airthrough bending inspired by Chinese martial arts. This addon brings Avatar: The Last Airbender (sometimes abbreviated as ATLA and also known as Avatar: The Legend of Aang in some regions) to Minecraft Bedrock Edition! This addon is the result of over 2 years of continued development, and its just finished being fully overhauled! Im proud to say this is the best ATLA addon youre going to get for Bedrock, Join the discord for the SMP and Support!
+
+Getting Started
+
+When you spawn in, you should be prompted with a tutorial screen. If you dont see this screen, the addon is not working, so refer to the troubleshooting section! After reading through the tutorial, the only thing you need to do to start bending is right clicking (or long pressing) on your Bending Scroll item in your inventory. The scroll is your key to everything bending: selecting your element, configuring your moveset, and managing your abilities. The first option you'll be presented with is to choose your style! In some servers (if an admin has enabled the setting through the admin menu, more on that later) you cannot choose avatar, or bending choice may be random (and/or final). For the sake of this guide, we'll choose Air!
+
+Choosing Slots
+
+To wield your bending abilities, bind moves to your hotbar slots. When a move is bound to a slot, performing the associated action while that slot is active triggers the move. To bind a move, open your bending scroll and navigate to the "choose slots" page. When you open the interface, you'll see several tabs and columns to help you manage your setup. On the far-right tab, labeled "Choose Slots", you'll find a list corresponding to your hotbar slots (numbers 1 through 9). These are the slots where you can bind moves, allowing you to trigger specific actions in-game when those slots are selected or hovered over.
+
+What are slots?
+
+Slots represent the spaces in your hotbar that you can customize. Think of them as containers for the actions you want to use. Each slot can hold one move, which is an ability or action you can perform in the game. By assigning moves to these slots, you gain the ability to activate them by performing an action while the slot is selected.
+
+- Choose a Slot: Start by selecting a hotbar slot in the far-right tab labeled "Choose Slots". This selection corresponds directly to the numbers 19 on your hotbar in the game. For example, if you select slot 1, the move you bind will be triggered whenever that slot is selected
+
+- Select a Move: In the first column, titled "Choose Move", you'll see a list of available moves. Click on the move you want to assign to your selected slot
+
+- Choose a Binding: The second column, titled "Choose Binding", lets you define the action that will trigger the selected move. This could be an interaction like right-clicking, sneaking, or another input of your choice. Once you've made your selections, your chosen move will be bound to the selected slot with the specified binding. This setup gives you the freedom to customize how you interact with the game to suit your playstyle.
+
+To streamline your gameplay further, the mod offers a feature called Movesets. These are essentially presets that allow you to save and load your bindings with ease. For example, you might create one moveset for combat scenarios and another for exploration. To access this feature, simply click the "Movesets" button in the interface. From there, you can save your current bindings as a new moveset or load a previously saved one. This system is particularly useful for players who like to switch between different styles of play without the hassle of manually rebinding moves each time.
+
+Skill Tree
+
+The skill tree is a way to unlock ne

@@ -1,0 +1,41 @@
+Another independent mod from simulation addon real zombie apocalypse v.3.6.1. The mod contains only military armors from rza and some extra stuffs.
+
+About the armors
+
+Enchantable (helmet enchants)
+
+Has high defend points (30-35)
+
+Pretty durable(310-315)
+
+Fixable by string using anvil
+
+Wear it on Helmet slot
+
+Armor types
+
+Military-Desert, plains, snow, savanna, pilot
+
+Police-Fbi, SWAT
+
+Bonus- Riot shields
+
+Mod Benefits
+
+Pure experimental(Holiday and beta api's)
+
+Very small(1.1mb total)
+
+Highly compatible
+
+Has 2 variants each variant decides ur minecraft version
+
+-addon_name.mcaddon(For only older minecraft)
+
+-addon_name1.21+.mcaddon(For latest minecraft)
+
+Photography was taken in minecraft 1.21.130.10 with aplok guns by Gabriel aplok
+
+Join my new discord server
+
+https://discord.gg/zxFUhpNaFT

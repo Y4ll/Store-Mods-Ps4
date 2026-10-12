@@ -1,0 +1,63 @@
+True Java Saturation Authentic Java Healing for Bedrock!
+
+This addon faithfully recreates Javas hidden saturation system for Bedrock, adding depth to your survival experience.
+
+Installation & Compatibility
+
+- Download the BP and add it to your Minecraft world.
+
+- No experiments required for this addon.
+
+- Works on the latest stable Minecraft versions (not beta or preview).
+
+- Does not use player.json, so its compatible with most other addons and keeps achievements enabled.
+
+Achievement-Friendly & undefinedNo player.json!
+
+This addon is inspired by Java Editions hidden food mechanics and rebuilt for Bedrock. Heres a quick look at what it does:
+
+True Java Saturation
+
+This addon brings Javas saturation mechanic to Bedrock, making health regeneration strategic.
+
+[How It Works]
+
+- Healing uses saturation Every time you regenerate health, saturation is consumed, just like in Java Edition.
+
+- Better food = faster recovery Foods with higher saturation values let you heal more efficiently.
+
+- True Java behavior Saturation only works if your hunger bar is full, mirroring Java Editions mechanics.
+
+- Strategic gameplay Youll think twice before eating that cookie instead of a steak.
+
+License
+
+Youre welcome to:
+
+- Use this addon in your personal worlds (singleplayer or multiplayer).
+
+- Share the official CurseForge link with others.
+
+- Include this addon in a Bedrock behavior/resource pack collection as long as you give proper credit and link back here.
+
+You're not allowed to:
+
+- Reupload or post this addon on without permission.
+
+- Claim this addon as your own creation.
+
+- Modify and share the files without giving credit to the original author.
+
+Full License: CC BY-NC-SA 4.0
+
+undefined
+
+Installation & Compatibility
+
+- Download the BP and add it to your Minecraft world.
+
+- No experiments required for this addon.
+
+- Works on the latest stable Minecraft versions (not beta or preview).
+
+- Does not use player.json, so its compatible with most other addons and keeps achievements enabled.

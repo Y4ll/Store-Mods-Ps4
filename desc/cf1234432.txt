@@ -1,0 +1,271 @@
+Credits:
+
+- Add-on created by Mr. Nido's (Youtube) (Website): Textures, models and behaviors.
+
+- Beta Testers: Zerofatalred, Wasa_denya, Gomemer & Mondongo.
+
+Full description:
+
+In survival mode you will be able to manufacture all the weapons that are available in this add-on, for this you will have to manufacture the weapon workbench from the workbench:
+
+Place the weapon workbench on the ground and interact with it to open an interface that will show you all available weapons:
+
+When selecting a weapon you need the necessary items to manufacture it. You should have the items in your inventory and click on Manufacture.
+
+To make ammunition you need the ammunition box:
+
+Place the ammunition box and interact with it:
+
+To manufacture ammunition you must have in your inventory an ingot of iron and gunpowder by quantity, from the interface of the box select the ammunition and the quantity you want to manufacture.
+
+Controls:
+
+As long as you have the gun in your hand you can perform these different actions:
+
+Reload:
+
+To reload you need to have in your inventory the ammunition of the respective weapon, then while you have the weapon in your hand press the interact button, you must wait for the weapon to reload, if you change the slot the reload is canceled.
+
+Shoot:
+
+While the gun is loaded, it interacts with the gun to fire.
+
+Aim:
+
+While holding the gun, press the crouch button to aim.
+
+Weapons list:
+
+Glock 17
+
+- Damage:
+
+- Normal: 9
+
+- Silencer: 8
+
+- Magazine Quantity: 15 rounds
+
+- Magazine: Glock Ammo
+
+- Rate of fire: 0.33 seconds
+
+- Loading time: 3.25 seconds
+
+- Accessories:
+
+- Silencer
+
+- Flashlight
+
+- Telescopic sight: EOTech 552 (4x)
+
+- Laser sight
+
+Desert Eagle
+
+- Damage: 14
+
+- Magazine Quantity: 9 rounds
+
+- Magazine: Desert Eagle Ammo
+
+- Rate of fire: 1 second
+
+- Loading time: 2 seconds
+
+- Accessories:
+
+- Flashlight
+
+- Telescopic Sight: EOTech 552 (4x)
+
+- Laser sight
+
+Micro Uzi
+
+- Damage:
+
+- Normal: 9
+
+- Silencer: 8
+
+- Magazine Quantity: 20 rounds
+
+- Magazine: Micro Uzi Ammo
+
+- Rate of fire: 0.1 seconds
+
+- Loading time: 2.5 seconds
+
+- Accessories:
+
+- Silencer
+
+- Flashlight
+
+- Telescopic sight: EOTech 552 (4x)
+
+- Laser sight
+
+Skorpion vz. 61
+
+- Damage:
+
+- Normal: 8
+
+- Silencer: 7
+
+- Magazine Quantity: 20 rounds
+
+- Magazine: Skorpion ammo vz. 61
+
+- Rate of fire: 0.1 seconds
+
+- Loading time: 1 second
+
+- Accessories:
+
+- No
+
+Remington 870
+
+- Damage: 16
+
+- Magazine Quantity: 8 Shells
+
+- Magazine: Shotgun cartridge
+
+- Rate of fire: 1.3 second
+
+- Loading time: 0.5 seconds per cartridge
+
+- Accessories:
+
+- Flashlight
+
+- Bayonet
+
+- Laser sight
+
+Benelli M4
+
+- Damage: 18
+
+- Magazine Quantity: 10 Shells
+
+- Magazine: Shotgun cartridge
+
+- Rate of fire: 0.35 second
+
+- Loading time: 0.5 seconds per cartridge
+
+- Accessories:
+
+- Flashlight
+
+- Bayonet
+
+- Laser sight
+
+M4A1
+
+- Damage:
+
+- Normal: 11
+
+- Silencer: 10
+
+- Magazine Quantity: 30 rounds
+
+- Magazine: M4A1 Ammo
+
+- Rate of fire: 0.09 seconds
+
+- Loading time: 1.8 second
+
+- Accessories:
+
+- Silencer/Bayonet
+
+- Flashlight
+
+- Telescopic sight: EOTech 552 (4x), TRS26 (7x) or Sniper(10x)
+
+- Laser sight
+
+- Secondary Weapon: M203 or Shotgun
+
+M16
+
+- Damage:
+
+- Normal: 9
+
+- Silencer: 8
+
+- Magazine Quantity: 50 rounds
+
+- Magazine: M4A1 ammunition
+
+- Rate of fire: 0.1 seconds
+
+- Loading time: 2.0 second
+
+- Accessories:
+
+- Silencer/Bayonet
+
+- Flashlight
+
+- Telescopic sight: EOTech 552 (4x), TRS26 (7x) or Sniper(10x)
+
+- Laser sight
+
+- Secondary Weapon: M203 or Shotgun
+
+Grenade Launcher - M32
+
+- Explosion power: 2
+
+- Magazine Quantity: 50 rounds
+
+- Magazine: Grenade Launcher Ammunition
+
+- Rate of fire: 1.5 seconds
+
+- Loading time: 4.0 seconds
+
+- Accessories:
+
+- Telescopic sight: EOTech 552 (4x)
+
+M202
+
+- Explosion power: 4
+
+- Magazine Quantity: 4 rounds
+
+- Magazine: M202 ammunition
+
+- Rate of fire: 2.0 seconds
+
+- Loading time: 3.0 seconds
+
+- Accessories:
+
+- No
+
+M249
+
+- Damage: 12
+
+- Magazine Quantity: 100 rounds
+
+- Magazine: M249 ammunition
+
+- Rate of fire: 0.1 seconds
+
+- Loading time: 3.0 second
+
+- Accessories:

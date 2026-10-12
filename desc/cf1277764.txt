@@ -1,0 +1,39 @@
+The types of doors added are very diverse, including the following:
+
+Glass Door
+
+Screen Door
+
+Prison Door
+
+Sturdy Door
+
+Sturdy Door with Glass
+
+Medieval Wooden Door
+
+In addition to these types, there are more variants based on different woods and metals, totaling 14 variations per door.
+
+To use the doors correctly, you first need to place them. Then, crouch and right-click on the door. After that, a menu will appear with many options. These options allow you to modify the technical aspects of the door, such as its connectivity with other doors, its functionality with Redstone, its interaction, and much more!
+
+One of the features is the security system, which allows you to lock your doors. The security settings are very diverse. The simplest method is using keysonly users who have a key can open and close the doors. Another system is the owner-based methodif you are the owner of the door, you will always be able to open it.
+
+There are more configurations, but they are just variations of these two main systems.
+
+Tip: Create multiple keys and keep them safe! If you have friends you trust, you can give them a key to access your doors.
+
+Crafting
+
+Creative:
+
+You can find the beds in the Creative menu under the Construction category. Alternatively, you can obtain them using the command "/give @p md:", which will display the available variants.
+
+Survival:
+
+To craft doors in Survival Mode, you will need clay, which you will use in a stonecutter. Once placed, a list of doors will appear, sorted by wood variant. After selecting the type you want, you will need to put the block back into the stonecutter to see the available doors. Finally, just choose the door you want and craft it!
+
+(Reminder: I didn't make the addon, it was Ezekielicococo on mcpedl and discord)
+
+Images
+
+(These photos are not from me)

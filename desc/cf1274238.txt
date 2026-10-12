@@ -1,0 +1,13 @@
+Mod Description (English):
+
+This is a texture pack designed for Minecraft Bedrock 1.21.80 that includes anti-lag optimizations, Barebones-style visuals, and a variety of custom features. It enhances performance while maintaining a clean and simplified aesthetic.
+
+The pack also adds new functions and quick configuration options, making it easier to customize your game and protect your Minecraft experience efficiently. Ideal for low-end devices and players who want both smooth gameplay and visual improvemens
+
+Descripcion del Mod (Espanol):
+
+Este es un paquete de texturas disenado para Minecraft Bedrock 1.21.80 que incluye optimizaciones anti-lag, estilo visual tipo Barebones y una variedad de caracteristicas personalizadas. Mejora el rendimiento mientras mantiene una estetica limpia y simplificada.
+
+El pack tambien anade nuevas funciones y opciones de configuracion rapida, facilitando la personalizacion y proteccion de tu experiencia en Minecraft. Ideal para dispositivos de bajos recursos y jugadores que buscan un rendimiento fluido con mejoras visuales.
+
+---

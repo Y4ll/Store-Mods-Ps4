@@ -1,0 +1,19 @@
+DOES NOT REQUIRE ANY EXPERIMENTS / ACHIEVEMENTS ENABLED
+
+This is only a behavior pack, meaning it does not need a resource and has no .mcaddon releases
+
+Configuration Command
+
+/toggles
+
+String Duper Setup
+
+Tripwire on Block - String - String - Tripwire on Block
+
+Tripwire Duper Setup
+
+Tripwire on Block - String - Tripwire on Block
+
+Place the armor stand on top of the string
+
+For more updates / help join my discord: https://discord.gg/Dn3GUN2YuK

@@ -1,0 +1,15 @@
+This mod turns your Minecraft experience upside down by making every single crafting recipe completely random! Every time you start a new world, the game generates a fresh set of combinations. This means a recipe that gives you a diamond sword in one world might give you a dirt block in the next. No two playthroughs will ever be the same!
+
+How it works:
+
+- Every world has its own randomized logic.
+
+- Don't worry once you discover a recipe in your world, it stays the same for that specific world. You can craft it again and get the same item every time.
+
+Can you actually beat Minecraft when you have no idea how to make a pickaxe? Give it a try and have fun!
+
+Attention: To use this mod, please enable the Beta API in your world settings.
+
+Also, be sure to check out my other modifications you might find something else youll love!
+
+Join my Discord community to stay updated, get support, and connect with other players - https://discord.gg/UCrMnESjD

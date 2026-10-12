@@ -1,0 +1,23 @@
+Kamii script configuration is specifically designed for my own needs. This script can make addons scripts more configurable.
+
+Features
+
+added a new command configuration menu by typing /configuration.
+
+Every addon that supports this script has its own configuration tab.
+
+Screenshots
+
+this is how it looks with roll and stamina configuration
+
+<figure class="image"></figure>
+
+How does it work?
+
+So first, script from other addons sends scriptevent to this script,
+
+then that data will be read by these addons and sent to an actor to store all of the config settings,
+
+then the player can access the config menu and change the configuration.
+
+After you change the configuration, this script sends again a scriptevent to the addons that send configuration and stored on their config variable.

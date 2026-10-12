@@ -1,0 +1,95 @@
+More Add-ons by shadowGamer100k
+If you enjoy this utility, you might find my other survival tools helpful:
+Magnet Add-on: Effortlessly collect items from a distance.
+Teleporters System: Setup advanced travel networks across your world.
+Spawner Mover: Relocate mob spawners to build the ultimate farm.
+Lock & Key: Secure your chests and doors from other players.
+Ore Finder: Locate valuable ores quickly and easily.
+
+Craftable Rares Add-on Professional Survival Recipes for Minecraft Bedrock 1.21+
+
+Craftable Rares Add-on is a survival focused Minecraft Bedrock utility add-on that brings fair crafting recipes to uncustomary or hard-to-find items. Instead of relying purely on luck and exploration, players can now work toward endgame gear through logical and balanced crafting paths. By combining rare materials, players can obtain powerful items in a controlled way that respects the progression of the game.
+
+If you are looking for a Minecraft Bedrock craftable elytra add-on, craftable totem recipe, netherite upgrade template crafter, or a survival enchanted apple add-on, this add-on is built to deliver essential utility while remaining fully compatible with survival gameplay and SMP servers.
+
+Video Showcase
+
+Click the image above to watch the recipes in action!
+
+What This Add-on Does
+
+Integrates seamlessly into the standard Minecraft Bedrock crafting table.
+
+Provides high-cost recipes for items that are normally uncraftable.
+
+Maintains game integrity by requiring boss drops or rare materials for endgame gear.
+
+Allows players on SMP servers to obtain multiple rare items without depleting world resources.
+
+Supported Recipes
+
+The Elytra
+
+Stop searching End Cities for hours. You can now craft an Elytra, but you will need to prove your strength first. Recipe: Nether Star (Center) + Phantom Membranes + String. Logic: Requires defeating the Wither, making the Elytra a true progression reward.
+
+Totem of Undying
+
+A balanced recipe to keep you safe during your most dangerous adventures. Recipe: Emerald (Top) + Gold Ingots. Logic: Uses precious metals and gems to justify the life saving power.
+
+Netherite Upgrade Template
+
+Lost your only template in lava? You no longer need to find another Bastion to keep your gear upgraded. Recipe: Diamond + Netherite Ingot + Netherrack. Logic: Allows you to reconstruct the template using high tier materials if you lose the original.
+
+Enchanted Golden Apple (Notch Apple)
+
+The legendary crafting recipe returns to the game for the ultimate survivalists. Recipe: 8 Gold Blocks surrounding 1 Apple. Logic: Consumes 72 Gold Ingots total, keeping it extremely rare and expensive.
+
+Survival Balance and Logic
+
+This add-on is designed to be "Vanilla Plus" and does not grant items for free.
+
+High tier items require boss loot (Nether Stars) to prevent skipping game stages.
+
+Expensive material costs ensure that exploration is still encouraged for gathering resources.
+
+Perfect for long term survival worlds where exploration loot has already been taken.
+
+Performance Optimized and Server Safe
+
+Uses native JSON recipe files for maximum performance.
+
+No heavy scripts or ticking loops that cause server lag.
+
+No world corruption or block duplication risks.
+
+Safe for SMP servers and Realms.
+
+Best For
+
+Survival worlds
+
+Progression focused gameplay
+
+SMP and Realm servers
+
+Skyblock and resource limited worlds
+
+Vanilla plus gameplay
+
+Quality of life focused packs
+
+Compatibility
+
+Minecraft Bedrock Edition
+
+Tested on version 1.21 and above
+
+Native JSON based add-on
+
+No experimental toggles required for basic recipes
+
+Works in singleplayer and multiplayer
+
+SEO Keywords Hidden but Powerful
+
+Minecraft Bedrock craftable elytra add-on, craftable totem recipe, netherite upgrade template crafter, survival enchanted apple add-on, Minecraft Bedrock rare item recipes, craftable notch apple, balanced crafting Bedrock, SMP survival add-on, realm compatible recipes, Bedrock Edition utility add-on, Minecraft 1.21 craftable rares, ancient debris crafting re

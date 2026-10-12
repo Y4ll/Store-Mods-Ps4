@@ -1,0 +1,43 @@
+Stop wasting Emeralds! With Villager Trade Previewer, you get full instant access to every trade level. While other outdated packs from 2025 might cause UI glitches, this version is fully optimized for the latest 2026 Bedrock updates, ensuring a smooth and bug-free experience for mobile, console, and PC users.
+
+Why Choose This Pack?
+
+- Instant Intel: Gain immediate access to all locked trades (Levels 2-5) the moment you open any villager menu. No more guessing whats behind the lock!
+
+- Fair Play (Legit): This is NOT a cheat. It does not force-unlock trades or modify prices. It strictly provides the visual information you need to decide if a villager is worth your timekeeping your game 100% fair.
+
+- Modern UI Optimization: Specifically designed to keep your inventory clean. It works perfectly alongside Dark Mode UI and other interface enhancements.
+
+- Conflict-Free Design: Built WITHOUT using player.json or experimental toggles. It won't crash your game, it won't disable your achievements, and it won't conflict with packs like Actions & Stuff.
+
+- Achievement Safe: This pack is 100% visual. It does NOT disable achievements or trophies in your world!
+
+The TexturePack No longer disables Achievements ;)
+
+Key Features
+
+- No Compatibility Issues: 100% compatible with ANY other Add-on or Texture Pack.
+
+- No Experimental Toggles: Works on fully stable worlds. No need to risk your save files.
+
+- Zero UI Lag: Highly optimized for smooth navigation on high-end PCs and low-end mobile devices.
+
+- Language Friendly: Does not modify game strings. All item names will appear in your native language.
+
+- Clean Experience: No annoying watermarks, intrusive credits, or pop-ups blocking your trade window.
+
+Global & Server Compatibility
+
+- Works for Everyone: Designed for all players. Whether you are on a private Realm or a massive public server, you can use this tool to trade like a pro!
+
+- Client-Side Only: Since it's a visual resource, only you see the preview information. It does not affect other players or the server's mechanics.
+
+- Use it Anywhere: Simply activate it in your Global Resources (Main Menu) and it will be active on every world you join.
+
+- Cross-Platform UI: Full support for both Pocket UI (Touch/Mobile) and Classic UI (PC/Console).
+
+SUPPORT THE CREATOR
+
+If you'd like to support my work, you can complete a quick ad step through Linkvertise. It takes just a few seconds and directly supports future project updates!
+
+This is completely optional no downloads are required here, just a simple way to show your support if you appreciate the content.

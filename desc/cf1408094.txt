@@ -1,0 +1,51 @@
+Fullbright Night Vision [RP]
+
+This Resource Pack Increases Your In-game Brightness (No White Filter) Eventually Giving You Powers Of Night Vision And Lets You See And Explore Deep Caves With Ease.
+
+Works On Realms And Servers
+
+To Make This RP Work, Ensure -
+
+- You Are Using Patched MC/MaterialbinLoader On Android.
+
+- You Are Using Better Render Dragon on Windows.
+
+- You Are Using Minecraft 26.10+ Versions.
+
+- Increase Game Brightness To 100% In Caves For Better Visibility.
+
+Installation Note -
+
+- Import .mcpack file in your minecraft.
+
+- Apply It From Global Resources For Servers And Realms
+
+- Apply It From Local World Settings For Singleplayer World.
+
+- Help Me -
+
+- Important Note -
+
+You Might Not Notice A Consistency In Brightness.
+
+As This Is Shader Based, You May See A Decline In FPS if You Are Using Low-end Device.
+
+You Are Allowed To -
+
+- Showcase This Pack With Full Credits To SYCUREGAMING.
+
+- Modify It For Personal Uses.
+
+- Share Using Official MCPEDL/CURSEFORGE/NEXUS MODS Links.
+
+You Are Not Allowed To -
+
+- Claim This Work As Yours.
+
+- Share This Using Direct Links.
+
+- Upload It On Other Website.
+
+- Showcase/Use The Pack Without Proper Credits.
+
+Do Not Try To Steal This Pack Or Any Of Its Assets Or Be Ready To Face Legal Claims/Penalties.

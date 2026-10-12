@@ -1,0 +1,10 @@
+Dynamic Shader (Zephyr)
+Makes your Minecraft gameplay look like an RPG game such as Genshin Impact.
+
+This shader is not just an ordinary shaderit also gives an ocean-blue sky atmosphere, deep blue water that looks realistic like in real life, and realistic shadow effects. Your world will feel more alive with this shader, and you can finally enjoy the sunrise and sunset views with your partner or your dog.
+
+credits: block_craft_addons
+
+REQUEST ADDON ON DISCORD
+
+(See the in-game screenshots below)

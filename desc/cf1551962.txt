@@ -1,0 +1,13 @@
+Aurora Visuals is a Minecraft shader pack designed to transform the game's iconic blocky world into a cinematic, atmospheric experience without sacrificing performance or the charm that makes Minecraft unique.
+
+Key Visual Features:
+
+Realistic water rendering semi-transparent, reflective oceans with visible underwater seagrass and light scattering beneath the surface
+
+Dynamic sky & lighting a glowing sun with lens bloom, volumetric clouds, and smooth atmospheric haze that shifts the mood dramatically across biomes
+
+Biome-aware atmosphere warm golden haze over savannas and dry grasslands, cool misty tones in plains, and an eerie purple twilight ambiance for nighttime scenes
+
+Enhanced night & mood lighting deep purple overcast skies at night with glowing particles (like an Enderman's eyes) adding mystery to the dark
+
+Cherry blossom & terrain shading rich depth shading on trees and terrain that adds visual weight and realism to every landscape

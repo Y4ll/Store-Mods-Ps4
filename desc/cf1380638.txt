@@ -1,0 +1,5 @@
+Extra Food Add-On adds a wide variety of new foods to your game, such as apple pie, pancakes, bacon, and more.
+
+Each food item restores a specific amount of hunger points.
+
+For example: pancakes restore 4 hunger points.

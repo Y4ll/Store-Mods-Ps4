@@ -1,0 +1,25 @@
+SUPPORTS 26.0+
+
+This pack aims to make the vibrant visuals better than ever imagined!
+
+FEATURES:
+
+- Aesthetic Enhancements Balanced and Vibrant
+
+- New Clouds More natural and dynamic skies
+
+- Better End & Nether Enhanced landscapes
+
+- Improved Underwater Rendering More realism
+
+- Metallic & Rough Reflections Realistic textures
+
+- Refined Stars Immersive night skies
+
+- Insane Water revamp
+
+- Glowing Ores
+
+- Sharper and Quality Shadows
+
+- And *MORE!!!

@@ -1,0 +1,21 @@
+Introducing a 1.18 shader, a game-changer for potato-based devices! This shader takes a unique approach to enhance the basic lighting and visual projections, resulting in a significant improvement to your gaming experience. Prepare to be amazed as the colors and ambiance of your gaming world come to life, creating a truly immersive gameplay environment. Whether you're exploring vast landscapes or engaging in intense battles, this shader is designed to elevate your gaming sessions to a whole new level. Say goodbye to dull visuals and hello to an enhanced and vibrant gaming experience with shader!
+
+Features: for 1.18 below
+
+Shadows
+
+Sky cube maps
+
+Wave animations
+
+Dynamic Lighting
+
+Lifelike sun and moon
+
+Weather monochrome effect
+
+Changelog Dates: by ezpnix
+
+Last Updated at: 2023-12-05 01:15:12 by @ezpnix
+
+New Update at: 2024-05-13 22:41:15 by @YourstewStudios

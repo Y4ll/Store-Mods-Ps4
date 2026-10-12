@@ -1,0 +1,55 @@
+Player grows in size every 30 seconds! This iron is designed for players to make their game even more challenging.
+
+As you grow, you will tower over trees, stomp through forests, and gain incredible giant powers. But being a giant is not all easy, your massive scale will make navigating the world and dealing with enemies a whole new experience!
+
+How It Works
+
+- Constant Growth: Every 30 seconds, all online players grow by 1 level.
+
+- Size Levels: Start at Size Level 1 and grow all the way up to Size Level 50 (MAX)!
+
+- Dynamic HUD: A live action bar HUD displays your current size level and counts down the seconds until the next growth (e.g., GROWTH LEVEL: 1 | Next: 30s).
+
+- Persistent Scaling: Your growth level is saved automatically, so leaving the world or dying won't reset your progress. You will spawn right back at your current size level!
+
+Giant Abilities & Status Effects
+
+As your size increases, you unlock powerful positive status effects to help you survive (and crush everything in your path):
+
+- Speed & Jump Boost: Starts at Level 2, scaling up to Speed IV and Jump Boost IV at max level, allowing you to run faster and leap over obstacles.
+
+- Extra Hearts (Max Health): Starts at Level 2, granting additional max health hearts as you grow, reaching up to +50 extra hearts (+100 HP) at max level!
+
+- Resistance: Starts at Level 10, scaling up to Resistance IV to protect you from heavy damage.
+
+- Strength: Starts at Level 15, scaling up to Strength IV to let you deal massive damage to foes.
+
+- Haste: Starts at Level 20, scaling up to Haste IV to speed up your mining.
+
+Installation
+
+- Use MCPEDL app on Mobile (Android + IOS) for ease of downloading and installing packs directly into minecraft.
+
+- Use Bedrock Manager on Windows For installing addons,packs, worlds, etc and managing them + more features!
+
+- Download Bedrock Manager - https://bedrockmanager.app
+
+Restricition
+
+- When Sharing the Content on Youtube or other platform, Give original mcpedl or curseforge link Only.
+
+- You are not allowed to reupload the project or any platform and claim it as yours.
+
+Notes
+
+- This is a behavior pack only, no textures or visual changes.
+
+- Existing worlds are supported. The system initializes automatically when the pack is loaded.
+
+- Fully compatible with multiplayer.
+
+- Because this addon overrides the player behavior entity (player.json), it may conflict with other add-ons that also modify player behaviors.
+
+Join the Discord server to be part of the our community or to contact me: https://discord.gg/Wvst4znsgk
+
+Made By Eyrae

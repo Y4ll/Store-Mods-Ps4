@@ -1,0 +1,11 @@
+An optimized texture pack that disables precipitation without mods just clear skies and comfortable gameplay.
+
+---
+
+Features:
+
+Complete removal of: - Rain - Thunderstorms - Snowfall
+
+Saves: - Clouds - Night Cycle
+
+Works in multiplayer (on servers without anti-cheat)

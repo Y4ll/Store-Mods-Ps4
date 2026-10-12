@@ -1,0 +1,1 @@
+This pack can only be combined with the HMI pack. This pack adds new tool animations to the tools Netherite each tool has a different animation so that players don't get bored using the animation tool pack

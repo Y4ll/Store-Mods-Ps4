@@ -1,0 +1,152 @@
+To start
+This addon has textures, models, behaviors and <mark class="marker-yellow">CUSTOM ANIMATIONS</mark>, faithful to the movies and trailers of the original movie
+
+<mark class="marker-yellow">See how I made this Addon here!</mark>
+
+<figure class="image image-style-align-right"></figure>
+
+Doctor strange and his variants
+Doctor Strange
+Our doctor strange that we all know, with abilities that every sorcerer supreme should have...
+
+Features:
+Health: 400
+Damage: 12
+scale: 1
+attack: to all player enemies
+
+Wither Strange
+An evil version of doctor strange, will kill everything that moves...
+
+<figure class="image image-style-align-right"></figure>
+
+Features:
+Health: 400
+Damage: 10
+scale: 1
+attack: everything that moves
+
+<mark class="marker-yellow">see their animations here</mark>
+
+<figure class="media">
+
+</figure>
+
+Defender Strange
+the best version of doctor strange, he will take care of everyone and seek peace for the minecarft multiverse
+
+<figure class="image image-style-align-right"></figure>
+
+Features:
+Health: 400
+Damage: 10
+scale: 1
+attack: to all player enemies
+
+SUPREME STRANGE
+The most experienced Strange, a strange that is very similar to the original, strong, agile and powerful
+
+<figure class="image image-style-align-right"></figure>
+
+Features:
+Health: 400
+Damage: 10
+scale: 1
+attack: everything that moves
+
+MORE <mark class="pen-red">MARVEL </mark>IN YOUR MINECRAFT!
+
+<figure class="media">
+
+</figure>
+
+SCARLET WITCH
+
+<figure class="image"></figure>
+
+Features:
+Health: 450
+Damage: 15
+scale: 1
+attack: everything that moves
+
+<mark class="marker-yellow">The illuminati</mark>
+Professor x (Charles Francis Xavier)
+
+<figure class="image"></figure>
+
+Features:
+Health: 80
+Damage: 15
+scale: 1
+attack: to all player enemies
+
+MR. FANTASTIC
+
+<figure class="image"></figure>
+
+Features:
+Health: 100
+Damage: 10
+scale: 1
+attack: to all player enemies
+
+MORE <mark class="pen-red">MARVEL </mark>IN YOUR MINECRAFT!
+
+<figure class="media">
+
+</figure>
+
+SUPERIOR IRON MAN
+
+<figure class="image image_resized image-style-align-left"></figure>
+<figure class="image image-style-align-left"></figure>
+
+Features:
+Health: 300
+Damage: 13
+scale: 1
+attack: to all player enemies
+
+EXCELLENT ANIMATIONS!
+
+EL SANDO
+
+WOLVORINE
+
+<figure class="image image-style-align-right"></figure>
+
+Features:
+Health: 200
+Damage: 10
+scale: 1
+attack: to all player enemies
+
+CAPTAIN CARTER
+
+<figure class="image image-style-align-left"></figure>
+
+Health: 150
+Damage: 10
+scale: 1
+attack: to all player enemies
+
+<mark class="marker-yellow">ITEM REPLACED!</mark>
+
+THE <mark class="marker-yellow">TRIDENT </mark>IS NOW THE SHIELD OF THE CAPTAIN
+
+<figure class="media"></figure>
+
+<mark class="marker-yellow">OFFICIAL TRAILER IN 4K! EL SANDO</mark>
+
+<figure class="media">
+
+</figure>
+
+<mark class="marker-yellow">FULL VERSION TRAILER EL SANDO & MCJEY</mark>
+
+<figure class="media">
+
+</figure>
+
+<mark class="marker-yellow">IF YOU DOWNLOAD THE ADDON IN THE FULL VERSION CREATED BY MCJEY AND THE SANDO DON'T FORGET TO SET THE GAME OPTIONS TO EXPERIMENTAL!</mark>

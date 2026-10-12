@@ -1,0 +1,21 @@
+Project Description:
+
+What is the point of mining glowing ores when the tools you craft do not actually emit light? With this texture pack, your hard-earned gear will finally shine as brightly as the materials used to create them, adding a vibrant and immersive aesthetic to your world.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Vibrant Visuals will need to be activated for some features.
+
+- All tools have a glow.
+
+- Lightweight project.
+
+- Have something to say? Join the Discord.
+
+All Iron, Gold, Diamond and Netherite tools will Glow, even when placed on the floor.

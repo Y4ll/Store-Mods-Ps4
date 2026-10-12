@@ -1,0 +1,166 @@
+Wind Charges Plus
+
+Revolutionize Your Minecraft Experience with Spectacular Wind-Powered Magic!
+
+Transform your world with 8 incredible Wind Charges, each featuring unique mechanics, stunning visual effects, and game-changing abilities that will redefine how you explore and combat in Minecraft Bedrock!
+
+CORE FEATURES
+
+8 Unique Wind Charges with Spectacular Effects:
+
+Wind Charge
+Effect
+Special Ability
+
+Diamond
+Enchanted Diamond Ore Formation
+Creates minable diamond deposits where you land
+
+Amethyst
+Massive Crystal Tornado
+25-block tall spinning amethyst tower with healing
+
+Honey
+Smart Landing Pads
+Honey blocks appear at launch and landing points
+
+Nature
+Floating Garden Islands
+5 connected floating biomes with bridges
+
+Redstone
+Circuit Activation
+Powers all redstone in massive area
+
+Netherite
+Molten Ground & Fire Rain
+Magma transformation + fireball barrage
+
+Ender
+Dimensional Rifts
+Teleportation + enemy displacement
+
+Sculk
+Darkness Zones
+Area darkness effect + sculk particles
+
+ENHANCED FLIGHT MECHANICS
+
+Intelligent Tracking System
+
+- Smart Landing Detection: Charges track your flight path and trigger effects where you actually land
+
+- Customizable Vertical Multipliers: Each charge has unique boost power for different flight experiences
+
+- Precision Targeting: Effects appear exactly where they should for maximum impact
+
+Advanced Physics
+
+- Realistic Knockback: Uses Minecraft's native physics for authentic feel
+
+- Particle Trails: Beautiful trailing effects during flight
+
+- Wind Shockwaves: Expanding particle rings on launch
+
+- Cooldown System: Prevents spam while maintaining flow
+
+SPECTACULAR VISUAL EFFECTS
+
+Particle Mastery
+
+- Custom Particle Types: Enchant, endrod, lava, honey drip, and more
+
+- Performance Optimized: Reduced particle counts for smooth gameplay
+
+- Synchronized Effects: Particles match the elemental theme perfectly
+
+- 3D Formations: Spiraling tornados, expanding rings, floating sparkles
+
+Immersive Audio
+
+- Unique Sound Design: Each charge has distinct audio cues
+
+- Environmental Audio: Sounds match the elemental theme
+
+- Fallback System: Ensures audio works even with resource pack conflicts
+
+COMBAT & UTILITY
+
+Smart Damage System
+
+- Distance Falloff: Damage decreases naturally with range
+
+- Entity Recognition: Damages hostiles, heals allies
+
+- Status Effects: Each charge applies thematic debuffs/buffs
+
+- Knockback Physics: Realistic entity displacement
+
+Player Benefits
+
+- Movement Enhancement: Speed boosts during flight
+
+- Protective Effects: Resistance, fire immunity, slow falling
+
+- Utility Powers: Haste, regeneration, night vision
+
+- Special Abilities: Teleportation, invisibility, levitation
+
+WORLD INTERACTION
+
+Dynamic Environment
+
+- Temporary Structures: All effects are temporary and auto-cleanup
+
+- Block Restoration: Original terrain restored after effects expire
+
+- Smart Placement: Effects only appear in suitable locations
+
+- Lag Prevention: Optimized code prevents server strain
+
+V1.4 UPDATE SHOWCASE
+
+-
+
+V1.3 UPDATE SHOWCASE
+
+V1.2 UPDATE SHOWCASE
+
+V1.1 UPDATE SHOWCASE
+
+SHOWCASE
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Best Addon
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+Discord --> https://dis

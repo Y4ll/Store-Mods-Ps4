@@ -1,0 +1,120 @@
+F O R G O T T E N V I S I T O R S (OFFICIAL PORT)
+
+YOU LEFT THEM.
+
+Every night can become dangerous as different Visitors take turns approaching your base.
+
+The world warns you with countdowns, sounds, visual glitches, camera shake, and distorted world effects. When the timer reaches zero, a Visitor appears nearby and begins hunting, stalking,
+
+breaking in, or searching for the player.
+
+JAVA MOD: https://www.curseforge.com/minecraft/mc-mods/forgotten-visitors
+
+- Night visit system with rotating Visitors.
+
+- Countdown before visits.
+
+- World distortion during the visit event.
+
+- Camera shake, warning text, glitch screens, and screens.
+
+- Custom main menu, intro slides, menu music, hover sounds, and click sounds.
+
+- Smart spawn system that places Visitors on safe surface locations near the player.
+
+- Visitors despawn after the visit.
+
+- Random events during gameplay.
+
+- Config GUI for options.
+
+- Player morph system.
+
+- Custom Mickey body display.
+
+- The Face machete weapon.
+
+- Gore system with configurable gore level. (effects)
+
+- Blood particles and limb damage effects.
+
+- lore book.
+
+- Multiplayer-compatible visit events.
+
+-
+
+|
+
+- The Face: aggressive hunter, machete attacks, climbing, block breaking, water-edge logic, stalking behavior, and heavy gore effects.
+
+- Disembodied: jumps toward the player and can latch onto the players head briefly.
+
+- Acephalous: blind Visitor that reacts to microphone noise instead of normal vision.
+
+- Mickey Morph: large morph entity with ear/limb loss mechanics.
+
+-
+
+Photo Negative Mickey: large, hostile Visitor with custom sounds and jumpscare.
+
+-
+
+- Willie: a hostile Visitor that searches and chases players.
+
+- Undying: stalking Visitor with custom voice and jumpscare behavior.
+
+- Impurity: a hostile Visitor with custom voice and jumpscare behavior.
+
+-
+
+?
+
+- A Visitor is selected for the night.
+
+- A warning countdown appears: THEY ARE VISITING YOU IN:
+
+- Distance warnings appear.
+
+- The final red timer begins.
+
+- The world becomes distorted with an inverted style.
+
+- The visit starts..
+
+- The Visitor hunts, stalks, breaks in, or searches depending on its behavior.
+
+Commands
+
+-
+
+/the_forgotten_visitors_config
+Opens the normal config GUI.
+
+-
+
+/fv_events next
+Shows tonights Visitor.
+
+-
+
+/fv_events visit <visitor>
+Starts a selected Visitor event. Requires cheats/operator permission.
+
+-
+
+/fv_events select <event>
+Same event selector command. Requires cheats/operator permission.
+
+Available event IDs:
+the_face, disembodied, acephalous, mickey_morph, photo_negative_mickey, willie, undying, impurity, all
+
+Config toggle command:
+
+- /fv_config_toggle <key>
+
+Config keys:
+jumpscares, sounds, animations, visuals, custom_body, block_breaking, climbing, gore_up, gore_down, gore_0 through gore max level.
+
+Content Warning
+This mod contains loud sounds, jumpscares, horror imagery, flashing/glitch effects, gore effects, blood particles, and intense chase sequences.

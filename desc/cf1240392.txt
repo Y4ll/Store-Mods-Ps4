@@ -1,0 +1,119 @@
+Recurrent Complex by the author Ivorius is a unique Minecraft mod that adds intricate structures to the game, enhancing the landscape of the Minecraft world. Exploring new areas will lead players to remarkable points of interest, ranging from castles, dungeons, towers, abandoned houses, historical ruins, mysterious structures to unexpected dangerous traps.
+
+This addon not only generates structures but also makes the Minecraft world more captivating with the interplay of complex structures and distinctive landscapes. Get ready for endless discoveries and surprises awaiting you as you step into the fresh and exciting world that Recurrent Complex brings.
+
+Join the Discord server
+
+Version 1.3.8
+
+Now you can play this Addon and earn Achievements
+
+I|l
+
+Name: BrickHenge
+
+Name: WellShrine
+
+Name: DesertTown
+
+Name: Hill Altar House
+
+Name: Floating Tower
+
+Name: Spiral Portal Tower
+
+Name: Large Ruins
+
+Name: Floating Hut
+
+Name: Broken Ship
+
+Name: Void Snake Skeleton
+
+Name: End Floating Crystal
+
+Name: End Obsidian Spike
+
+4 variants
+
+Name: BigPyramid
+
+Name: Crater
+
+Name: IceThorn
+
+There are 5 variations
+
+Name: AbandonedWoodTower
+
+Name: Forest Stronghold
+
+- This is an ancient fortress, deep within the dense forest, built with sturdy cobblestone and spruce wood. Inside, it features diverse dungeons, powerful monsters, puzzles, and towers filled with various loot chests waiting for you to explore.
+
+- This is the largest structure ever created in this addon.
+
+- It is extremely rare, so make an effort to discover the Forest Strongholdit is well worth it.
+
+Name: CuboneSkull, DinosaurSkeleton, DinosaurSkull
+
+Name: Lighthouse
+
+Name: Plains Camp
+
+Name: Plains Windmill
+
+Name: HobbitHole
+
+Although they look small and rustic on the outside, the interiors of Hobbit Holes are described as very cozy and fully equipped with all the necessary amenities.
+
+Name: Babylon Tower
+
+Name: Statue Temple
+
+Biomes: Jungle
+
+Name: TemplePyramid
+
+Biomes: Jungle
+
+Description: Ruins of a lost civilization. Is there any treasure left behind?
+
+Name: Flagship
+
+Biomes: Ocean
+
+Description: The black flag still flies. Dare to come aboard and claim a pirate's fortune?
+
+Name: Desert Temple
+
+Biomes: Desert
+
+Name: Snake Temple
+
+Biomes: Jungle
+
+Description: Built to honor the Great Serpent God. Is the deity still watching from the dense shadows?
+
+Name: Sky Castle
+
+Biomes: Overworld
+
+Name: RLCraft 4Towers
+
+Biomes: Forest
+
+Description: The deeper you go, the fainter the exit becomes...
+
+Name: Wooden Clock Tower
+
+Biomes: Forest
+
+Description: The masterpiece of a reclusive watchmaker who sought solace in this forest. Perhaps he left behind a few mechanical secrets.
+
+Name: Wizard Tower
+
+Biomes: Plains, mesa, jungle, hills, forest...
+
+Join the Discord server
+
+Structural rarity customization options: Rare | Medium | Common

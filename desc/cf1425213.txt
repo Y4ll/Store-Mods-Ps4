@@ -1,0 +1,60 @@
+Welcome!!!
+
+WARNING!!!
+If you want to enable the behavior pack and the resource pack, you must enable them separately.
+
+ADVERTENCIA!!! SI QUIERES ACTIVAR CORRECATEMENTE EL ADDON/MOD
+Tienes que activarlo INDIVIDUALMENTE CADA UNO!!!!
+
+NEW SLIDER!!!:
+
+THE BEHAVIOR PACK HAVE NOW A NEW SLIDER TO ACTIVATE OR DEACTIVATE THE RADIOACTIVE MOBS/ IN BOTH MODES HAVE MULTIPLE ADDON COMPATIBILITY!!!.
+
+EL BEHAVIOR PACK O PAQUETE DE COMPORTAMIENTOS TIENE UNA NUEVA OPCION PARA ACTIVAR O DESACTIVAR A LOS MOBS RADIOACTIVOS/ EN AMBOS MODOS TIENE COMPATIBILIDAD CON OTROS ADDONS!!!.
+
+NEW DISASTER ADDED "METEORS RAIN"/ LLUVIA DE METEOROS:
+
+THIS DISASTER SPAWNS EVERY 30 MINUTES!!!./ESTE DESASTRE SPAWNEA CADA 30 MINUTOS.
+
+The Nuclear War devastated the world your only goal is survive!!!!
+
+Play with your friends or couple!!!.
+Discover this wasteland world and have fun!!!.
+
+If you have suggestions or bug report write me in comments.
+
+Link to see the biomes:
+
+https://www.youtube.com/shorts/x1naD9ypzsU
+
+Do you ever wanted an Adventure time wasteland addon for your minecraft bedrock? Well this addon is for you. If you love adventure time and wasteland you'll love this add-on.
+
+Survive in this apocalypse world fighting against radioactive monsters, mutants, nukes and much more!!!.
+
+-if you want to make your addon compatible with mine add your entities tag "monster" in spawn rules The addon is in development there are bugs in structures sometimes.
+
+The gas mask when you are in coarse_dirt, near of the mutants will start losing durability.
+
+The storms are really bad for you take care.
+
+The nuclear bomb spawn the Lich
+
+There are 3 types of town:
+
+The town is in wasteland
+
+The nuclearcity is in nuclear wasteland biome
+
+The snow city/scorched is in snow waste city biome.
+
+Permission from NukaCraft:mod:
+
+NEW DECORATION FOR WASTE CITY BIOME
+
+How to use the back pack:
+
+To use the backpack you need to sneak/shift and touch the ground to put the backpack you need to have it in main hand and when you finished of saving your inventory just Hit the backpack to Get Your backpack item
+
+To change the skybox use the slider in settings of the resource pack "after" you enter the world!!!
+
+Para cambiar el cielo ve a ajustes del resource pack y mueve el control deslizante para cambiarlo "despues" de entrar al mundo.

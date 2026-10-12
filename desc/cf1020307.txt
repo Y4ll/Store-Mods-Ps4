@@ -1,0 +1,27 @@
+NOTE The following documentation is for v2.5.x. It may not be updated immediately. Refer to the in-game tutorial book if the following documentation is outdated.
+
+Itemducts adds pipes that can transfer items between containers.
+
+NOTE Requires Minecraft v1.21.40 or later.
+
+Found a Bug?
+
+Report bugs on the issue tracker.
+
+Itemduct
+
+- Transfers items from an extraction node into a connected container.
+
+Item Extraction Node
+
+- Extracts items from a container and sends them to connected itemducts.
+
+- Stops extracting when receiving a redstone signal.
+
+Filtered Container
+
+- A container with a filter slot and an item slot. Only accepts items that match the item in the filter slot.
+
+- Hoppers or item extraction nodes can be used to extract items from the item slot.
+
+Follow on X

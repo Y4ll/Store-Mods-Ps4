@@ -1,0 +1,11 @@
+Hardcore Hearts Texture Pack
+
+(Bedrock Edition)
+
+This Hardcore Hearts is a texture modification for Minecraft Bedrock Edition designed to bring the iconic Java Edition "Hardcore Mode" aesthetic to your heads-up display (HUD)
+
+This resource pack replaces the standard survival heart icons with the stylized "Hardcore" versions, featuring the classic red texture with a more intense, outlined design.
+
+Standard Hearts: Includes full and half hearts, as well as their flashing animations for when you take damage.
+
+Status Effects: Custom hardcore-styled textures for Poison and Wither effects.

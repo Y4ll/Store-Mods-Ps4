@@ -1,0 +1,93 @@
+Both an .MCADDON and a .ZIP file can be downloaded via our website.
+Links are provided on this page, above the credits section.
+
+ActualGuns 3D led the rise of fully-featured 3D gun add-ons in Minecraft: Bedrock Edition. Featuring nine firearms, each with high quality animations for both first and third-person, AG3D has been at the forefront of setting a new standard for add-ons. First released in September of 2020, we're now in the process of overhauling AG3D. New animations, effects, and more!
+
+For those of you unfamiliar with ActualGuns 3D, here's a brief showcase of what the add-on has to offer:
+
+Below are rendered images of a few items added to the game by ActualGuns 3D.
+Please note: Only one item of each category (assault rifle, sniper, throwable, etc.) is displayed here.
+There are more items than those shown below.
+
+Notice:
+
+ActualGuns 3D is being progressively overhauled. Some weapons both look and play differently to others.
+More information on this is provided below in the Frequently Asked Questions.
+
+Frequently Asked Questions
+
+Question
+
+Answer
+
+How do I get the items?
+
+- In survival, weapons & ammunition are obtained either by trading with the weapon smith villager or looting pillager outposts.
+
+- In creative, they're all found in your creative inventory.
+
+- In commands, you can use the "/give" command to get guns or ammunition.
+
+How do I reload the guns?
+
+- To reload an overhauled weapon, punch whilst holding it, or use it whilst it's empty. You need the corresponding ammunition type in your inventory.
+
+- To reload a non-overhauled weapon, 'eat' (use) the corresponding ammunition for that weapon.
+
+What is an 'overhauled' weapon?
+
+Overhauled weapons are those we've updated in our progressive overhaul to modernise ActualGuns 3D, after 2-3 years of hiatus.
+
+Functionally, overhauled weapons are a different experience to their non-overhauled counterparts. Reloading is different, overhauled weapons' ammunition can be stacked, and they have various other changes/fixes to improve the gameplay experience.
+
+Which weapons have been overhauled?
+
+As of version 1.14, the only weapons yet to be overhauled are:
+
+- Benelli M3
+
+- Chain-grenade
+
+All other weapons have been overhauled!
+
+Help & Support
+
+If you have more questions, found a bug, or need further support, please contact us on our Discord server.
+We don't often provide support on other social medias, nor on publishing websites such as MCPEDL, CurseForge, et cetera.
+
+Downloads
+
+We, as always, provide official downloads on our own website, including .ZIP files for manual installations. Our website is typically first to receive new updates.
+Our website uses display advertisements to help fund and sustain the project.
+
+- Download the latest ActualGuns 3D as .MCADDON
+
+- Download the latest ActualGuns 3D as .ZIP
+
+Credits (Alphabetical)
+
+- AzozGamer936 (Programmer)
+
+- C. Caracal (Project Director)
+
+- DaffaTheOne (Animator & Thumbnail Artist)
+
+- JustAsh0005 (Programmer & Animator)
+
+- LepikGem (Maintenance Patches)
+
+- Matt (3D Models & Textures)
+
+- Mecha (3D Models & Textures)
+
+- Starlk (Thumbnail & Render Artist)
+
+- ValiantVirgo1804 (2D Item Textures)
+
+- Veidt (3D Models & Textures)
+
+- Vulth (v1.0 Showcase Video)
+
+- Wind_WL (3D Models & Textures)
+
+- xHope (Animator)

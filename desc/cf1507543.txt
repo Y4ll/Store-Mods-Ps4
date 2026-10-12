@@ -1,0 +1,7 @@
+Crafting in bedrock takes a long time
+
+this pack add a button in the crafting menu that instantly craft !
+
+for example 64 logs into 4 stacks of planks with a single button, much faster and easier.
+
+You will be able to craft much faster just like on java!

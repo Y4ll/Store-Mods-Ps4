@@ -1,0 +1,29 @@
+LikeTheTrailers+ is a texture pack that transforms your Minecraft Bedrock Edition into something reminiscent of the game's animated trailers! With textures that faithfully replicate the official artwork and trailers, it makes your worlds look beautiful and inviting. Besides being a really cool texture pack, it adds several other features and interesting extras:
+
+- LikeTheFPS!
+
+- Dark interface
+
+- LikeThePVP!
+
+- Vibrant images included
+
+- Simple shaders and fog effects
+
+- Eating animation
+
+- Water splashing
+
+- Fast crafting
+
+- Block textures for secret and inaccessible items
+
+- Trailer-style artwork and NPCs
+
+- Custom splash text and loading messages
+
+And much more!. If you'd like to support this project, you can join my Discord server to share your ideas or report bugs so we can fix them as soon as possible. https://discord.gg/rtrWwEwaHU
+
+Originally created by @SebisTheProMC, now continued and expanded with new content.
+
+LikeTheTrailers+ aims to be the most complete trailerinspired texture pack for Minecraft Bedrock.

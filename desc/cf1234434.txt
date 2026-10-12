@@ -1,0 +1,19 @@
+Insta Farm Addon allows players to easily create farms and redstone mechanisms. Simply place the block, add materials and build farms - upgrade them for more efficiency!
+
+Find more information and updates at Endev Studio : )
+
+If you'd like to support the content, you can do so on Patreon: EndXenoc MCPE!
+
+On Patreon, you'll enjoy an ad-free experience, no waiting times, and early access to all updates before anyone else.
+
+Your support helps keep the project going and growing thank you! :)
+
+IMPORTANT: If you share this content, BE SURE to use official links from Endev Studio, MCPEDL, ModBay or CurseForge. You are NOT allowed to redistribute it with links of your own.
+
+Featuring over 40 farms and redstone contraptions! Everything is fully survival-friendly and can be easily configured using the in-game guidebook.
+
+To add the required materials, simply keep them in your inventory! If it feels like too much, you can adjust the material percentage in the settings to reduce the required amount.
+
+Downloads at EndDev Studio
+
+- Download Insta Farm V7.0.8.mcaddon

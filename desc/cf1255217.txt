@@ -1,0 +1,33 @@
+BetterNightVision
+
+Toggle Night Vision Instantly No Commands Needed!
+
+The Lightweight Night Vision Solution for Minecraft Bedrock (1.21+)
+
+Tired of fumbling with potions or commands for Night Vision? This addon lets you toggle Night Vision with a single click perfect for survival and realms!
+
+Why You Need This Addon:
+
+One-click Night Vision Long-press (mobile) or right-click (PC) to activate!
+Zero setup Works instantly, no commands or configuration
+Lag-free & optimized Minimal impact on performance
+Multi-language support Includes 7 translated languages
+
+Showcase/How to use
+
+Items Added
+
+Craft the Night Vision Toggle Item:
+
+(1 Blue Dye + 1 Yellow Dye Night Vision Toggle Item)
+
+How to Install:
+
+1 Download the .mcaddon file
+2 Open your file manager and import the file
+3 Activate in your world settings
+4 Enjoy effortless Night Vision!
+
+Works with Realms & Other Add-Ons!
+
+Discord: .gg/7FD24c9yEq

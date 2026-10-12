@@ -1,0 +1,7 @@
+Images
+
+- Added a ring near the fork
+
+- Fork edges now become smoother
+
+- Fork ends also More pointed

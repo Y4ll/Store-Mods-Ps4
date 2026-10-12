@@ -1,0 +1,15 @@
+Elytra Animation Bug Fix
+
+Elytra Animation Bug Fix is an add-on that fixes a Minecraft Bedrock Edition multiplayer animation bug where other players appear to glide with an Elytra while standing upright instead of lying horizontally.
+
+Related Bug Reports
+MCPE-176172
+MCPE-178376
+
+With this add-on enabled, other players gliding poses are displayed correctly, making Elytra flight look more natural in multiplayer.
+
+Starting with version 1.3, the fix will also apply to players who are already gliding when they are loaded!
+
+The resource packonly version has been uploaded!
+
+> Elytra Animation Bug Fix (RP ver)

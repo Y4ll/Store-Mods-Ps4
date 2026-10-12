@@ -1,0 +1,65 @@
+R135 Vaimagined
+
+(R135 Vanilla Reimagined)
+
+Aesthetic Shaders For Minecraft PE 1.21.80+
+
+Attention:
+
+- Please use MB Loader or Minecraft Patched for shaders to work
+
+- If you want to share this shader please use this link!
+
+- Shaders only work in Minecraft PE 1.21.20+
+
+Feature:
+
+- World coloring is not too bright
+
+- Improved World Lighting
+
+- Smooth shadow block
+
+- Enhanced tonemap
+
+- Coloring in every dimension(Overworld, Nether, And The End)
+
+- Leaves Wave
+
+- Grass Wave
+
+- Water Wave
+
+- Lava Wave
+
+- Underwater Wave
+
+- Added Fake PBR(Normal Map) to block
+
+- Adding Rain Splash
+
+- Improved Cave Lighting
+
+- Improved Underwater Lighting
+
+- Added Glowing Ore and other glowing Blocks
+
+- Adding Ground Reflection to blocks
+
+- Adding Underwater Caustics
+
+- Improved Fog Color
+
+- Improved Sky Coloring
+
+- Adding Aurora and Galaxy Spiral to the Sky in End Dimension
+
+- Adding gradient colors to clouds
+
+- And other features..
+
+Creator:
+
+- Created By Regi135
+
+THANKS FOR DOWNLOADING!!

@@ -1,0 +1,3 @@
+Official edition for Minecraft Bedrock, See how to optimize your Minecraft Bedrock (Dubbed in multiple languages):
+
+Are you tired of FPS drops when using shaders or Vibrant Visuals? Sodium Pro is the solution! Sodium Pro is the dedicated interface for FPS gains with RenderDragon shaders and also for Vibrant Visuals. It minimizes the FPS loss that occurs in Minecraft Bedrocks OreUI, optimizes the games materials (something no other optimizer here does), unlocks Vsync settings, and manages mipmapping configurations through terrain.json + blocks.json

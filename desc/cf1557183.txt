@@ -1,0 +1,21 @@
+Compatibility Notice:
+
+Since Minecraft Bedrock 1.26.50, changes to the game have caused addons that priviously supported achivements to no longer be compatible with achievements. Because of this the Achievement Friendly claim has been removed from this addon.
+
+Important:
+
+If you have an older version of this addon, do not use it on your main world either. Older versions of addon are also affected by changes in Minecraft 1.26.50 and will disable Achievements
+
+The Night Vision functionality itself remains unchanged.
+
+Simple Night Vision+ transforms your Minecraft Bedrock experience by giving you crystal-clear vision in even the darkest environments
+
+Whether you're delving deep into cave systems, navigating the Nether, or surviving moonless nights on the surface, Night Vision+ ensures you never lose sight of what matters. No more fumbling for torches or wasting inventory space on potions just seamless, uninterrupted visibility wherever your adventure takes you.
+
+Features:
+
+Permanent night vision effect
+
+Compatible with other addons and resource packs
+
+Perfect for explorers, builders, and adventurers who want to see the world on their own terms.

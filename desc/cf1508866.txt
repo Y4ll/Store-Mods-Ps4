@@ -1,0 +1,63 @@
+True Java Full Bright Clear Vision for Bedrock!
+
+This addon removes all dark lighting in your world, giving you full visibility everywhere without needing night vision potions.
+
+Installation & Compatibility
+
+- Download the BP and add it to your Minecraft world.
+
+- No experiments required for this addon.
+
+- Works on the latest stable Minecraft versions (not beta or preview).
+
+- Does not use player.json, so it's compatible with most other addons and keeps achievements enabled.
+
+Achievement-Friendly & No player.json!
+
+This addon is inspired by Java Edition's fullbright setting and rebuilt for Bedrock. Here's a quick look at what it does:
+
+True Java Full Bright
+
+This addon brings full brightness to Bedrock, removing all dark areas from your world.
+
+[How It Works]
+
+- No more darkness Caves, oceans, and nighttime are fully lit without any torches or potions.
+
+- Achievement-friendly Unlike texture pack methods, this keeps your achievements enabled.
+
+- No resource pack needed Works purely as a behavior pack, no need to change your textures.
+
+- Simple and lightweight Just add it to your world and enjoy clear visibility everywhere.
+
+License
+
+You're welcome to:
+
+- Use this addon in your personal worlds (singleplayer or multiplayer).
+
+- Share the official CurseForge link with others.
+
+- Include this addon in a Bedrock behavior/resource pack collection as long as you give proper credit and link back here.
+
+You're not allowed to:
+
+- Reupload or post this addon on without permission.
+
+- Claim this addon as your own creation.
+
+- Modify and share the files without giving credit to the original author.
+
+Full License: CC BY-NC-SA 4.0
+
+undefined
+
+Installation & Compatibility
+
+- Download the BP and add it to your Minecraft world.
+
+- No experiments required for this addon.
+
+- Works on the latest stable Minecraft versions (not beta or preview).
+
+- Does not use player.json, so it's compatible with most other addons and keeps achievements enabled.

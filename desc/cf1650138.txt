@@ -1,0 +1,19 @@
+Project Description:
+
+Find ores easier than ever before with Actual Ore Sensor! Stop strip-mining in the dark and wasting durable pickaxes. The moment you get near valuable resources, intuitive on-screen prompts instantly guide you to their exact direction and depth. Whether you are hunting down rare ancient debris, stocking up on diamonds, or clearing out cave networks, Actual Ore Sensor takes the guesswork out of caving. Mining made simple, fast, and effortless!
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Dynamic on screen directions.
+
+- Proximity action bar display.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+With Actual Ore Sensor, you will never have to blindly dig for resources again. The moment you are near a vein, intuitive on-screen prompts pinpoint exactly where it is hiding. Just follow the directional arrows, dig down to the precise depth indicated, and claim your loot. Say goodbye to endless strip-mining and broken pickaxes. Mining made simple.

@@ -1,0 +1,7 @@
+The Wither Equipment by Tiffer5999: This Addon adds a upgrade of netherite tools and armor thats much stronger
+
+The Wither tools and armor are crafted with a Netherite tool/armor piece and a Wither upgrade template in a Crafting table
+
+To get the Wither Upgrade template you have to craft it with a Netherite upgrade template and a Nether star
+
+And don't worry, you can duplicate the Wither upgrade template with the Wither upgrade template, 7 diamonds, and a Wither skull

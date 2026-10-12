@@ -1,0 +1,19 @@
+Ever mined right past a diamond because it blended into the wall? Glowing Ores+ fixes that every ore now glows with a bright, distinct color so you can spot valuable blocks from across the cave without breaking Minecraft's classic look.
+
+Features
+
+Full ore coverage Coal, Copper, Iron, Gold, Redstone, Lapis, Diamond, Emerald, Quartz, Nether Gold, and Ancient Debris
+
+Deepslate variants included every deepslate ore gets the same glow treatment as its stone counterpart
+
+Clean, vanilla-friendly glow enhanced visibility without clashing with default textures or shaders
+
+Works great with or without Vibrant Visuals looks fantastic on vanilla lighting, and glows even brighter with shaders on
+
+High-contrast colors each ore type is easy to tell apart at a glance, even in low light
+
+Lightweight pure resource pack, no behavior changes, runs smoothly on any device
+
+Compatibility
+
+Works on Minecraft Bedrock 1.21.80+, and plays nicely alongside other resource and shader packs.

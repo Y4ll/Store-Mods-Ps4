@@ -1,0 +1,75 @@
+If youd like to support my Add-Ons, you can download them directly from my official website, TRMC-Add-Ons. Thank you for supporting my work and enjoying my Add-Ons!
+
+Sofas: Fully functional and modularly arranged
+
+Bookshelves: Apart from being decorative and having different types you can modify them to change variations of the books.
+
+Decorations: Hundreds of decorations of all kinds such as plants, pots, books, statues, utensils and much more!
+
+Kitchen Furniture: Functional and modular kitchen cabinets and countertops.
+
+Lamps: Fully functional lights and switches can be turned on/off by clicking with the hand.
+
+Tables: Hundreds of variations of both color and material.
+
+Chairs: Fully functional chairs that allow you to sit with a single click.
+
+Ducts: Functional ducts and slits that can be opened and closed
+
+Carpets: Rugs with different designs, simple and powerful.
+
+Garage Doors: Functional garage door and able to be operated by one lever.
+
+Trash Bins: Place a trash bin and throw an item above it to delete the item instantly.
+
+Calendar: Keeps track of the days played in your world. Click to view the full timeline of days spent in your adventure!
+
+Curtains: Available in all colors, open and close with a click!
+
+To create the furniture, youll need clay balls. You can place them in a stonecutter, and from there, youll be able to select all kinds of furniture to decorate your Minecraft world.
+
+The furniture design can be described as having a "simple" touch. This means the furniture aims to be minimalist while maintaining a Minecraft-style coherence. Thanks to this consistency, most furniture pieces blend seamlessly with Minecrafts blocks, allowing for easy integration with other vanilla-style Add-Ons.
+
+The furniture categories are varied. The following are the available categories:
+
+- Interior: It includes functional rugs and curtains along with color variations.
+
+- Bathroom: It includes all bathroom decorations such as sinks, mirrors, decor, etc.
+
+- Construction: Includes all kinds of exterior decoration, designed to enhance outdoor spaces and new construction blocks!
+
+- Kitchen: It contains modern countertops for designing kitchens.
+
+- Vent: It contains ventilation blocks, ducts, and air hatches.
+
+- Painting: It includes dozens of paintings, including custom paintings from Patreon donors!
+
+- Decorations: All kinds of miscellaneous decorations that dont fit into other categories.
+
+- Festive: It includes all kinds of festive decorations, such as Christmas, Halloween, summer, and spring decor!
+
+- Garage: It includes garage decorations such as compression machines, repair machines, wheels, functional garage doors, and much more!
+
+- Light: It includes functional lamps and LED lights along with smart switches by range, allowing you to configure and use them!
+
+- Bookshelf: It includes many variations of bookshelves.
+
+- Table: It includes all kinds of tables: modern, simple, and medieval.
+
+- Chair: Category that encompasses armchairs, their variations, and colors.
+
+- Sofa: Category with all the sofas, varieties, and colors.
+
+The Add-On includes a wide variety of features. Because of this, it has a special functionality tag. For example, a block might have the tag "Sit-able", indicating that you can click on it and sit down.
+
+If you want to filter and find these specific blocks, you can use the search bar and type keywords like "Ignitable" or "Configurable".
+
+Creative:
+
+To acquire the furniture in Creative mode, you will find it in the decoration tab of the Creative menu. If you want to obtain it using commands, you will need to type /give @p f: (then you can add the name of the furniture you want).
+
+Survival:
+
+To create furniture, you will need clay and a Furniture Table. Craft the table using two iron ingots, a crafting table, and two oak fences. Place it down and interact with it to open the furniture menu.
+
+Put clay in the clay slot, then select a furniture category using the tabs (chairs, sofas, tables, decorations, etc.). Brows

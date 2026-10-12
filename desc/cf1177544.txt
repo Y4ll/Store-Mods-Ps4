@@ -1,0 +1,14 @@
+Prizma RTX, a PBR pack for Ray Tracing mode (YOU NEED A GPU THAT SUPPORT RAY TRACING AND BE ON WINDOWS). It provides full support for Minecraft 1.21 and implements unique textures and beautiful atmospherics that provide an unforgettable experience.
+
+Prizma goal is to provide detailed PBR textures, beautiful 3D bump effects, amazing sky and the best visual experience. Prizma take full advantage of amazing RTX rendering mode and heavily adjusts everything to give the best visuals
+
+PrizmaRTX is made for RTX rendering and won't work on phones/consoles.
+
+few screenshots showing how beautifully Minecraft can be with Prizma
+
+Prizma Discord Server:
+https://discord.gg/QAtvp3667M
+
+IADhunter really helped me and made amazing bow model https://mcpedl.com/user/iadhunter/
+
+check out this creator's work because they do wonderful things!

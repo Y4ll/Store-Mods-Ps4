@@ -1,0 +1,13 @@
+Vanilla Minecraft, but the way you always imagined it looked. Saturation for vanilla is a lightweight color grading and atmospherics pack that strips away the dull, washed-out haze of default vanilla and replaces it with bold, living color no shaders, no performance cost, just your world turned all the way up.
+
+What changes:
+
+Every biome gets its own color identity. Forests deepen into rich emerald and moss tones that feel alive instead of muddy green-gray. Sunrises and sunsets stretch across the sky in dramatic gold, amber, and rose gradients that actually look like something out of a painting.
+
+Builds pop harder too. Lanterns, glowstone, and warm-lit structures cut through the environment with real contrast against the sky and foliage, so your architecture finally gets the spotlight it deserves.
+
+Why you'll want this:
+
+No FPS hit. No shader pack required. Just pure color grading and atmosphere edits layered cleanly over any resource pack drop it in, and your world instantly feels more cinematic, more alive, and more yours.
+
+Before Saturation | After Saturation

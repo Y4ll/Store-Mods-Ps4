@@ -1,0 +1,13 @@
+Elemental Sword is an addon that adds magical swords with powers. In this version, you can find the fire sword and the blue fire sword; their hidden power generates a circle of fire that burns nearby enemies. To activate each swords power, right-click on PC, or press the power activation button on Android or iPhone.
+
+To begin, you need to obtain the Fire Essence, which is acquired by smelting a Magma Cream in a furnace.
+
+The Fire sword requires two Fire Essences and a stick.
+
+The Blue fire sword requires the Firesword, a Soul Sand, and fire essences.
+
+Fire sword Special Effect
+
+Blue Fire sword Special Effect
+
+Elemental Sword Video Review

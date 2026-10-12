@@ -1,0 +1,21 @@
+Animated Menu Pack Description:
+
+Transform your Minecraft experience from the moment you launch the game by replacing your static main menu with this high-energy Gojo Jujutsu Kaisen animated sequence.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Real time animated menu.
+
+- Having something to say? Join the Discord.
+
+Installation
+
+Once you have installed the pack, head to your settings menu and choose Global Resources.
+
+From the "MY PACKS" menu choose this Texture Pack to activate.
+
+Thats it, once the game has finished loading the Global Resourses you will have an Animated Menu Screen.

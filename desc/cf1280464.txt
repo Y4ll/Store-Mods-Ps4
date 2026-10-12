@@ -1,0 +1,121 @@
+Archaism talismans - showcase (Click here)
+
+Survive and have fun with the more than +396 items in the addon and explore a wide range of possibilities and interactions.
+
+[This addon has a lot of material and is too big to put everything on this page but if you want to read all the crafting Skills and Functions you can do so through this pdf file, it contains Contains all the information you need]
+
+Addon guide:
+https://www.patreon.com/posts/archaism-148786536
+
+Recomended addons:
+
+- Mode insane:
+https://mcpedl.com/difficulty-insane/
+
+- Cataclysmical: is a large content Add-On that adds various blocks, weapons, mobs, dungeons and even bosses. Cataclysmical aims to add a fun and hard challenge to Minecraft. Some mobs and bosses are intended to be hard and challenging.
+https://www.curseforge.com/minecraft-bedrock/addons/cataclysmical
+
+- Structrures addon: (compatble with trinkets loot chest)
+https://mcpedl.com/dungeon-expanse-add-on/
+
+-
+
+Dorio's trinkets: Want even more trinkets? Try out Dorio's trinkets, an incredible addon with over 50 trinkets for even greater customization and power! Dorios' Trinkets and Archaism trinkets are fully compatible since they use the same system made by us.; Dorio's trinkets !!
+https://mcpedl.com/dorios-trinkets/
+
+- The tragedy of the mobs do: You think the player is too op and that the mobs are just victims? Try playing with mobs with extra abilities.
+https://mcpedl.com/the-tragedy-of-the-mobs/
+
+- BigGamer sau addons: Do you need new weapons, blocks, and decorative masks? Well, you'll have it in Crystalline Weaponry.
+https://discord.gg/5s9JuQDASw
+
+Available languages:
+
+English:
+
+Spanish (Espana & Mexico):
+
+Portugues (Brazil & Portugal):
+
+Ukrainian & Rusian:
+
+Korean:
+
+Archaism talismans update
+
+New version v1.8.1
+
+Changes:
+
+- Zweihander rework:
+* Now the zweihander have cooldown on hit
+* The zeweihanders now broken slow
+* Sweep damage compatibles with enchantments ( the durability, sharpenss, knockback, fire aspect)
+- A new trinkets been arrived!!!
+- A new jewerly upgrades have been arrived!!!
+- A new armors sets have been arrived!!!
+- Some rework trinkets(defense stats)
+- Fixes on the langs, name & descripcions from trinkets
+- Death mark rebalanced ; now only apply 1 damage or 2 damage if u have more than 10 hearts
+- Rework on some magics trinkets. New focus on the magic system: Summoner builds
+- Configurable BP & RP
+- Some textures rework
+- Show stats system been simplified
+- Base ui rework
+- New earring slot & face slot
+
+Fixes:
+
+- Guidebooks duplication from other addons; V1.4 will not happen anymore
+- Recover scroll removed
+- Reworked on the defense system now work propertly
+- No sounds in sweep damage; now is added
+- Burns netherite items on lava; now have fire resistance like normal netherte & more items
+
+NEW THINGS // Screenshots
+
+Bonus chest extra loot
+
+News (Marble Armor)
+
+This addon is updated to the new addon format that changed with the new versions of Minecraft so Archaism Talismans +V1.6.6 will only be available from these versions onwards...
+
+Variations on marble blocks!!!!
+
+How to make?
+
+-Stone cutter; 1 block= 4 decorarive blocks
+
+-Addon developed by Hamleth Arena
+
+New compatibility with Euforia items, Magic Rings & Accesories
+
+-Not compatible with novelty api
+
+Thanks for reading!!
+
+Follow me in instagram to follow my addons progress
+
+https://www.instagram.com/hamleth_arena?igsh=MWtwdWY2bGVvMDFxdA==
+
+In-game :
+
+This addon is designed to reinvent vanilla Minecraft shields with a unique, more detailed aesthetic desing.
+
+Installation :
+
+1. Download the ".mcpack" or "mcaddon" files.
+
+2. After downloading the file, open it to run it in Minecraft Bedrock Edition.
+
+3. Activate the files in the settings section under Behavior Pack and Resource Pack.
+
+Data and Support :
+
+Project information, details of our other projects, support from us and the community, and news are available on our Discord server.
+
+Warning
+
+Allowed:
+
+You can use it for the creation of content like videos, shorts, TikToks, 

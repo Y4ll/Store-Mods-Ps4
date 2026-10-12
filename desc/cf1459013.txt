@@ -1,0 +1,271 @@
+This addon adds over eighty (80) throwable items that can upgrade the experience of players in survival or creative. This addon is highly developed to add as many custom projectiles as possible into this addon.
+
+List of Items Added in this Add-on:
+
+Ninja Stars (Shurikens)
+
+- Iron Shuriken
+
+- Copper Shuriken
+
+- Golden Shuriken
+
+- Diamond Shuriken
+
+- Netherite Shuriken
+
+- Blazing Shuriken
+
+- Swirling Shuriken
+
+- Frost Shuriken
+
+- Poison Shuriken
+
+- Wither Shuriken
+
+Rocks
+
+- Cobble Rock
+
+- Deep Cobble Rock
+
+- Sand Rock
+
+- Red Sand Rock
+
+- Nether Rock
+
+- End Rock
+
+- Obsidian Rock
+
+- Granite Rock
+
+- Diorite Rock
+
+- Andesite Rock
+
+- Blackstone Rock
+
+- Basalt Rock
+
+- Tuff Rock
+
+- Sulfur Rock
+
+- Cinnabar Rock
+
+- Healing Rock
+
+Cold Projectiles
+
+- Ice Ball
+
+- Packed Ice Lump
+
+- Blue Ice Chunk
+
+- Solid Snowball
+
+Iron Balls
+
+- Iron Ball
+
+- Spiked Iron Ball
+
+- Molten Iron Ball
+
+- Heavy Iron Ball
+
+- Spiked Heavy Iron Ball
+
+Javelins
+
+- Wooden Javelin
+
+- Stone Javelin
+
+- Copper Javelin
+
+- Iron Javelin
+
+- Golden Javelin
+
+- Diamond Javelin
+
+- Netherite Javelin
+
+- Blazing Javelin
+
+- Frost Javelin
+
+- End Rod Spear
+
+Throwknives
+
+- Wooden Throwknife
+
+- Stone Throwknife
+
+- Copper Throwknife
+
+- Iron Throwknife
+
+- Golden Throwknife
+
+- Diamond Throwknife
+
+- Netherite Throwknife
+
+Javelights
+
+- Javelight
+
+- Soul Javelight
+
+- Copper Javelight
+
+- Redstone Javelight
+
+Boulders
+
+- Stone Boulder
+
+- Fragile Stone Boulder
+
+- Deepslate Boulder
+
+- Fragile Deepslate Boulder
+
+- Sandstone Boulder
+
+- Fragile Sandstone Boulder
+
+- Red Sandstone Boulder
+
+- Fragile Red Sandstone Boulder
+
+- Crystal Ore Boulder
+
+- Magma Boulder
+
+Explosives
+
+- Bomb
+
+- Grenade
+
+- Smoke Bomb
+
+- Dynamite Bundle
+
+- Dynamite Stick
+
+- Pocket Mine
+
+Boomerangs
+
+- Wooden Boomerang
+
+- Stone Boomerang
+
+- Copper Boomerang
+
+- Iron Boomerang
+
+- Golden Boomerang
+
+- Diamond Boomerang
+
+- Netherite Boomerang
+
+Magic Bottles
+
+- Blaze Bottle
+
+- Soul Blaze Bottle
+
+- Dragon Blaze Bottle
+
+- Frost Bottle
+
+- Binding Bottle
+
+Miscellaneous Projectiles
+
+- Paper Ball
+
+- Burning Paper Ball
+
+- Firework on a Stick
+
+- Iron Blade Ring
+
+- Blazing Blade Ring
+
+- Glass Shard
+
+- Dart
+
+- Flying Fist
+
+- Wizard's Cube
+
+This addon is now compatible with Vibrant Visuals!
+
+New Feature: Throwables Troves
+
+Note that these are not blocks, but entities!
+
+Throwables Troves are crates that contain a small set of throwable items, and can come with rarer items. These spawn on the surface at night and despawn during the day. These cannot be destroyed unless interacted by the player.
+
+Red troves spawn as usual; blue troves have a higher chance to spawn in snow biomes; and green troves have a higher chance to spawn in jungle biomes.
+
+Loot tables may be changed in another update.
+
+Currently, there is no item to spawn them, but can be done with cheats by typing any of these commands below. Note that they despawn quick on daytime.
+
+/summon kmcg:throwables_trove
+/summon kmcg:throwables_trove_spruce
+/summon kmcg:throwables_trove_jungle
+
+Ninja Stars (Shurikens)
+
+This addon adds ninja stars (shurikens) in 6 different materials - gold, copper, iron, diamond, blaze, netherite, breeze, frost, poison and wither. These can be thrown at any target and can be picked up when it hit the ground. They also have the ability to break all kinds of glass, normal ice, and even bamboo.
+
+Here are all kinds of ninja stars (shurikens) listed below, and some crafting recipes below to get them in a survival world:
+
+Iron Shuriken
+
+Base Damage: 2 hearts (4 half-hearts)
+
+Recipe: 4 iron nuggets (as shown above)
+
+Copper Shuriken
+
+Base Damage: 1.5 hearts (3 half-hearts)
+
+Recipe: 4 copper nuggets (as shown above)
+
+Golden Shuriken
+
+Base Damage: 1 heart (2 half-hearts)
+
+Recipe: 4 gold nuggets (as shown above)
+
+Diamond Shuriken
+
+Base Damage: 2.5 hearts (5 half-hearts)
+
+Recipe: 4 diamonds (as shown above)
+
+Special Abillity: Can pierce through targets
+
+Netherite Shuriken
+
+Base Damage: 3 hearts (6 half-hearts)
+
+Recipe: 4 diamonds, 1 netherite ingot (as shown above)
+
+Special Abillity: Can 

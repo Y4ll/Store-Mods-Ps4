@@ -1,0 +1,15 @@
+Eclipse Deferred is a next-generation visual experience created by AztralMC64, leveraging the power of deferred rendering combined with physically based rendering (PBR) to bring an unmatched level of realism and immersion. Every element in the world reacts naturally to light, with accurate material definitions that allow metals to shine, rough surfaces to scatter light, and emissive objects to glow convincingly in darkness.
+
+Built for those who seek both visual fidelity and performance, Eclipse Deferred offers dynamic global illumination, soft shadows, volumetric fog, and advanced atmospheric effects that respond to time and weather. The system enables complex lighting interactions and multiple light sources without compromising quality, thanks to its efficient deferred pipeline.
+
+Eclipse Deferred isn't just about lightingit enhances the entire visual language of the world. Colors feel deeper, surfaces appear more lifelike, and environments gain a cinematic tone that adapts naturally to your surroundings. Whether you're exploring dark caves or standing under a glowing sunset, every moment is elevated with depth, realism, and artistic expression.
+
+Crafted with precision and creativity, Eclipse Deferred represents the evolution of Minecraft visuals through the lens of modern rendering technology, offering an experience thats both beautiful and technically impressive.
+
+This deferred is currently in beta, obviously like any beta it will have errors, but the errors will be corrected over time, This shader has nothing to do with Zero deferred, aztralmc64 became the creator of these two shaders by rights of zerormc12, This deferred will be updated over time, meanwhile this deferred will continue to have major changes, Another important fact is that there will also be a version for the marketplace of this same shader, soon, and there will be new projects to look forward to soon.
+
+This shader was produced by AztralMC64 all rights belong to the studio image, Performance is also expected to improve on any device, There will also be several projects expected, which all intertwine with each other to improve the visual quality of your game.
+
+Detailed textures will also be included, as well as support for Ray tracing and Minecraft patch (renderdragon), Also on the other hand Zero deferred will be revived or revolutionized by Haci say from 0, Among one of its changes it will have nothing to do with Zero Deferred Ultra, its most powerful version.
+
+Most of the projects will be coming in December...

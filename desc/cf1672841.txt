@@ -1,0 +1,57 @@
+SPIDER MAN WEB SHOOTER
+
+Swing Aim Move Like a Web Hero
+
+About This Addon
+
+Spider Man Web Shooter is a movement-focused Minecraft Bedrock addon that gives players a custom Web Shooter item designed for fast and smooth travel. Aim at a nearby surface, activate the shooter, and pull yourself directly toward your target.
+
+The addon is designed to stay simple, lightweight, and easy to use while still giving a satisfying web-shooter style movement experience.
+
+Main Features
+
+Web Shooter
+Custom item used to pull the player toward targeted blocks.
+
+Accurate Aim
+Uses your crosshair direction to select the exact surface you want to reach.
+
+Smooth Movement
+Pulling speed automatically adjusts depending on your distance from the target.
+
+No Heavy Particles
+Clean movement system without unnecessary visual effects.
+
+Cancel Anytime
+Use the Web Shooter again while moving to cancel the active pull.
+
+Auto Give
+Players automatically receive a Web Shooter when joining or respawning.
+
+Duplicate Protection
+The addon checks your inventory before giving another Web Shooter.
+
+How To Use
+
+Hold the Web Shooter, aim your crosshair at a block or surface, then use the item. Your player will be pulled toward the selected location. Use the item again during movement if you want to stop.
+
+Item Information
+
+Item Name: Web Shooter
+Item ID: baku:web_shooter
+Maximum Range: Approximately 64 blocks
+Stack Size: 1
+
+Achievement Friendly
+
+This addon is designed for modern Minecraft Bedrock versions using a clean addon structure and does not require cheat commands for normal gameplay. For the best experience, use it in a fresh Survival world where achievements have not already been disabled by other world settings.
+
+Compatibility
+
+Made for modern Minecraft Bedrock Edition versions. Both the Behavior Pack and Resource Pack are included in the addon.
+
+Credits & Rights
+
+Created by Baku
+All credits and rights belong to Baku.
+Please do not re-upload or redistribute this addon without permission.

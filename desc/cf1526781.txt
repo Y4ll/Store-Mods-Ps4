@@ -1,0 +1,13 @@
+Blackhole | N. Extensions
+
+Desc:
+
+This is a visual extension of NoierUi | Main
+
+Note: BlackHole N. Extensions is an extension of NoierUi | Main. It shares the same internal file base and does not replace the main pack it only complements it with an alternative theme for players who prefer darker backgrounds.
+
+This is just a theme pack! It doesn't include any extra features.
+
+By Noier_x7
+
+2026 NoierUi | All rights reserved

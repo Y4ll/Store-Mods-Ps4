@@ -1,0 +1,27 @@
+Phonk Edit Add-on for Minecraft : Bedrock Edition
+
+Bring the hype of YouTube-style phonk edits straight into your Bedrock experience! Make every momentwhether mining, attacking, using items, or taking damagefeel epic.
+
+Features:
+
+- Toggleable Phonk Edit: Turn the effect on or off anytime.
+
+- 3 Phonk Tracks: Pump up your gameplay with different music options.
+
+- Slow Motion Effects: Highlight your best moves in cinematic style.
+
+- Cool
+
+Inspired by
+
+1. Phonk Edit by coah
+
+https://www.curseforge.com/minecraft/mc-mods/phonk-edit
+
+2. So Tuff by Ekical & userchroma
+
+https://modrinth.com/mod/so-tuff
+
+Made with by NatureStudio
+
+Helper: StudioGREEN

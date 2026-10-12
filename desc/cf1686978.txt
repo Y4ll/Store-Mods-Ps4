@@ -1,0 +1,41 @@
+Transform your Minecraft Bedrock Edition world with a stunning and atmospheric visual experience! This shader is designed to improve the overall appearance of the game while keeping the original Minecraft style recognizable.
+
+From beautiful sunsets and glowing lights to enhanced caves and vibrant daytime environments, every biome and location feels more immersive
+
+. Features
+
+Beautiful Dynamic Lighting Enhanced sunlight and warm environmental lighting.
+
+Atmospheric Sunsets & Sunrises Creates a cinematic and immersive sky appearance.
+
+Improved Night Experience Darker nights with beautiful moonlit environments.
+
+Enhanced Light Sources Torches and other light sources produce a warm, glowing atmosphere.
+
+Emissive Block Glow Bright blocks and ores appear more visually striking in dark environments.
+
+Enhanced Sky & Clouds Large, soft and atmospheric clouds for a more realistic visual experience.
+
+Vibrant Colors Improved grass, terrain, and environmental colors.
+
+Atmospheric Caves Dark and immersive caves with improved lighting and depth.
+
+Enhanced Vanilla Style Improves Minecraft's visuals without completely changing its iconic blocky look.
+
+Cinematic Visuals Perfect for screenshots, videos, survival gameplay,
+
+Licence
+
+MIT licence
+
+Source Code
+
+https://github.com/devendrn/newb-x-mcbe
+
+My Discord
+
+https://discord.gg/NfPcEa2TdB
+
+My Discord server
+
+https://discord.gg/j7mK8RqEd

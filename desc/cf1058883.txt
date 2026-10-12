@@ -1,0 +1,119 @@
+Deepslate Enchantment Table
+
+How to use the new Enchantment Table
+
+Hit the table with a book in the hand to open the enchantment interface.
+
+Select enchantments if you have enough XP levels.
+
+Hit the table with an item to enchant it.
+
+The table shows compatible tool icons for each enchantment.
+
+You can use the new enchanted books on the table by hitting it.
+
+Removing Enchantments
+
+Hit the table with an enchanted item to remove one or all enchantments.
+
+Right-click (or hold on touch) to remove the current enchantment from the table.
+
+If the item has the same enchant and level as the table the level will level up (like an anvil).
+
+Soul Fire
+
+Doest not inflict as much damage as fire aspect but slows down mobs and can ignite those immune to normal fire, each level increase the fire duration.
+
+Soul Fire Particles By TitaniumGrunt7
+
+Sweeping Edge (Sword)
+
+Inflict area damage to nearby mobs, each level increases the damage.
+
+Enraged (Spear)
+
+Killing a mob grants a short Speed boost, with duration scaling by level.
+
+Meteor Smash (Mace)
+
+Causes Mace Smash attacks to ignite nearby mobs
+
+Leeching
+
+killing a mob heal you a percentage of the mob's life, each level increases the percentage.
+
+Poison Puff
+
+Applies poison effect when attacking, has 2 levels.
+
+Smelting
+
+Mined metal ores and sand are automatically smelted (works with both the shovel and the pickaxe). Each level increases the experience gained.
+
+Deep Breaker
+
+Mining stone type blocks will be faster as they can be destroyed in a 3x3 area.
+
+Glowing Aura
+
+Emits light around you, which intensifies with each level.
+
+Vitality
+
+Increases maximum health by 2 hearts per level. It has 5 levels.
+
+Reckless
+
+Reduces your max health by 40% in exchange for granting Strength(the effect matches the level).
+
+Burning Thorns
+
+When taking damage, has a +12% chance per level to set your attacker on fire.
+
+Cowardice
+
+Having all of your hearts will increase your speed enormously for each level.
+
+Double Jump
+
+Allows double jumps. Each level increases the height of the double jump.
+
+Lava Walker
+
+Allows you to walk on lava leaving a path of bastalt that is destroyed as you move away.
+
+Wind Charge
+
+Each time you jump to glide, you get a boost.
+
+Iron Wings
+
+As long as you are not flying you will receive the resistance effect.
+
+Multi Arrow
+
+Allows you to shoot 2 extra arrows similar to multishot.
+
+Boomshot
+
+When the bow is completely charged the arrow will explode causing area damage.
+
+Sonic Charge
+
+Instead of firing arrows you will fire a very short range sonic attack similar to the warden.
+
+Fire Charge
+
+Ignite your arrows.
+
+Bounce
+
+Increases shield knockback with each level.
+
+Spikes
+
+Applies damage to melee attackers. Each level increases damage.
+
+RESOURCES PACKS AND BEHAVIORS PACKS NEEDED
+
+This addon does not disable achievements

@@ -1,0 +1,35 @@
+OF FPS Booster The Ultimate Performance Solution for Minecraft Bedrock!
+
+Say goodbye to lag and hello to smooth gameplay. OF FPS Booster is a lightweight, high-performance optimization resource pack specifically designed to maximize your frame rate without losing the classic Minecraft feel. Whether you are on a high-end PC or a low-end mobile device, this pack is built to squeeze every bit of power out of your system.
+
+Key Features
+
+Render Dragon Optimized: Fully updated for the latest Minecraft versions and the Render Dragon engine.
+
+Reduced Particle Load: Removes heavy particles and unnecessary animations that kill your FPS during combat and farming.
+
+Clear Visuals: Optimized fog, skybox, and water rendering for a cleaner look and better visibility.
+
+Faster Chunk Loading: Streamlined texture processing to help your world load faster and reduce stuttering.
+
+PvP Ready: Minimalist UI and clear particles make this perfect for competitive play and Bedwars/Skywars.
+
+Universal Support: Designed for Windows 10/11, Android, and iOS.
+
+Recommended Settings For the best results, we recommend the following in-game settings:
+
+Fancy Graphics: OFF
+
+Beautiful Skies: OFF
+
+Render Distance: 610 Chunks
+
+Anti-Aliasing: 1
+
+-Installation
+
+1.Download the pack
+
+2.Import it into Minecraft BE/PE
+
+3.Enable it in Global Resources or per world settings

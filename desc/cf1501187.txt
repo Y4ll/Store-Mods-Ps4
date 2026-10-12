@@ -1,0 +1,43 @@
+SPAWN EGGS DESING
+
+NEW MOB
+
+Hermit crabs are crabs that will appear on beaches. They are afraid of zombies and drowned, so they will hide in their shells if they see them nearby.
+
+NEW MODEL FOR WHALES
+
+The animals that arrived in this addon are:
+
+Whales are neutral mobs that you can tame with seaweed but only the babies and by growing with cooked salmon, being a tamed baby whale, it will not have the size of a wild adult whale, but you can transport objects with a chest that you give it and use it as a mount. You could cure them with cod or seaweed and they will spawn in any ocean except the warm ones and coral mud.
+
+Hammerhead sharks are neutral and hostile mobs, reddish-bellied hammerhead sharks are very aggressive and will attack you as soon as they see you, and they destroy almost all marine creatures. The green and yellow ones are neutral, meaning they will attack you only if you attack them, both They feed on salmon or cod, the blue ones are the calmest and the white ones are babies, they hate drowned people so they eat them and they will spawn in the warm and coral oceans.
+
+White sharks are neutral and hostile mobs, white sharks with a scar will be very aggressive and will attack you as soon as they see you, those without a scar are neutral, meaning they will attack you only if you attack them, both feed on salmon, cod, They hate drowned people so they destroy them and they will spawn in the warm, coral oceans.
+
+Manta rays are neutral mobs that you can tame with salmon and then you can mount them with a mount, to lower blocks just look down and to go up you just have to look up, you can cure them with cod and algae and they spawn in all oceans except frozen ones.
+
+Mahi Mahi is a fish that spawn in oceans and is similar to cod and salmon, it can appear in different sizes.
+
+Tuna is a fish that spawn in oceans and is similar to cod and salmon, they can appear in different sizes.
+
+Crabs are passive mobs that hate drowned people and guardians so they will attack them if they see them, they are a source of food and you can find them underwater but also outside of it, they spawn in warm oceans, coral ones, in rivers , mangroves and swamps.
+
+Lobsters are passive mobs that hate drowned people and guardians so they will attack them if they see them, they are a source of food and you can find them underwater but also outside of it, they spawn in warm oceans, coral ones, in rivers , mangroves and swamps.
+
+Shrimp are passive mobs that hate drowned people and guardians so they will attack them if they see them, they are a source of food and you can find them underwater but also outside of it, they spawn in all oceans, in rivers, mangroves and swamps.
+
+Jellyfish are neutral animals that will sting you if you hit them. They appear in all oceans except frozen ones.
+
+Hippocampuss are passive animals that have different shapes, colors and patterns that appear in almost all oceans, especially in coral reefs and where there are seaweeds.
+
+The turtles received a modification in texture and behavior because they now eat jellyfish.
+
+Swordfish can be aggressive if you provoke them, they are very fast and appear in all oceans except coral reefs.
+
+The sailfish can be aggressive if you provoke it, it is very fast and appears in all oceans except coral reefs.
+
+The alligator are neutral and hostile mobs, there are aggressive ones and they will attack you as soon as they see you, and neutral ones, meaning they will attack you only if you attack them, both feed on salmon, cod, they hate drowned people so they eat them and they will appear in the swamps. and mangrove swamps.
+
+Octopus are passive mobs that hate drowned people and guardians so they will attack them if they see them. They like to crawl on the sea floor but they also swim from time to time. They appear in warm, coral oceans.
+
+The sawshark are neutral and hostile mobs, there are aggressive ones and they will attack you as soon as they see you, and neutral ones, meaning they will attack you 

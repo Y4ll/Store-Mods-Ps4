@@ -1,0 +1,53 @@
+A Herobrine Addon for Minecraft Bedrock. This addon doesnt just bring the mysterious Herobrine to life it transforms your world with unique, thrilling, and immersive events that will keep you constantly alert. Fully compatible with both the Mobile and PC versions of the game. Read below to learn more and discover how to summon Herobrine.
+
+Remember: Some events are disabled by default. You can enable them using the /herobrine command if you have operator permissions.
+
+Herobrines Main Events:
+
+- Attacking the player: Herobrine may suddenly appear and launch a powerful attack.
+
+- Just watching (Ghosting): He silently observes the player, creating a tense, eerie atmosphere.
+
+- Just watching (Sub-Events): Herobrine observes and triggers unpredictable random sub-events.
+
+- Crashing the world: He holds the power to cause a world crash at random moments.
+
+- Own Animals: Sometimes, Herobrine takes control of animals like chickens, cows, sheep, and pigs.
+
+- Scary Sounds: Creepy sounds may echo unexpectedly, adding suspense.
+
+- Change Torches: While mining, your torches might mysteriously turn into redstone torches.
+
+- Scary Signs: Signs with chilling messages from Herobrine may appear in your world.
+
+- Just watching (Jumpscare): Looking directly at Herobrine in this mode will make him teleport to you, apply an effect, and instantly vanish.
+
+- Attack and Disappear: He attacks swiftly and disappears without a trace.
+
+- Suspicious Tunnels: Perfect 2x1 tunnels may appear deep underground but who dug them?
+
+- Send Message in Chat: Theres a chance Herobrine will send eerie messages directly in chat.
+
+- Transform Animals: Attacking an animal might turn it into a possessed creature.
+
+- Random Fires: Fires can spontaneously appear, spreading across flammable blocks nearby.
+
+- Black Screen: The player's screen goes black, and random cave sounds can be heard.
+
+Blood Moon Event: During this event, all hostile entities become faster and stronger. You wont be able to sleep and Herobrine himself grows even more powerful. Good luck surviving the night...
+
+Warnings:
+
+- Do not copy any part of this addon for use in your own projects.
+
+- If you record a video, please include the original link from MCPEDL ou Curseforge.
+
+Totem:
+
+Found a bug or issue? Report it on our Discord server so we can fix it as soon as possible!
+
+Bedrock Nexus
+
+A friend's server :)
+
+Alya Server

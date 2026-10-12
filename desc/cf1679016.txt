@@ -1,0 +1,7 @@
+Gojo Satoru Infinity Barrier Script gives your player a powerful protective aura that automatically repels nearby monsters. Any monster that enters the aura's range will be pushed away, preventing them from getting close to you.
+
+The script is designed to simulate Gojo Satoru's Infinity Barrier, keeping hostile mobs at a distance without requiring you to attack them.
+
+This is a script, not an addon. You don't need to install a Resource Pack, enable Experimental Features, or configure any additional files. Simply install the script and it will work in your world.
+
+Note: Images shown are AI-generated.

@@ -1,0 +1,47 @@
+Makeradam's The Broken Script Bedrock Port
+
+"Here i am"
+
+TBSBE, one of my most famous bedrock ports is now avaiable here in curseforge!
+
+1:1 Accurate TBS Port
+
+My bedrock port has the objective of being 100% Accurate to java, this means no Fan-made stuff
+
+Features
+
+- Mostly all entities from the java mod
+
+- Dimensions (needs to be fixed)
+
+- Null chatting
+
+- Events
+
+- And more!
+
+MEDIA
+
+V0.5 Release Vided
+
+V0.6.5 Release Video
+
+IMPORTANT
+
+This addon WILL grief your world (eg. chunks, base, farms)
+
+If you are tired of the fog say thi line in chat
+
+!render_10
+
+If this doesn't work run this command instead
+
+/fog @s pop moonglitch
+
+CREDITS
+
+Original java mod by Wendigodrip (now keept by RedstoneWizard08) [LINK]
+
+PERMISSION
+
+I asked RedstoneWizard08 himself permission to post this addon here

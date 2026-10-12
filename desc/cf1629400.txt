@@ -1,0 +1,55 @@
+About
+
+Removes all water, lava, powder snow, weather & nether Fogs from your world!
+
+Works on Simple, Fancy, Vibrant Visuals.
+
+Features:
+
+- Removes Nether Particles
+
+- Supports Actions & Stuff
+
+- Gives better performance
+
+Requires:
+
+- Mip Mapper
+
+Try out:
+
+- VIbrant Visuals Optimizer
+
+- Font Tweaks
+
+Tell your favorite YouTubers and friends about this pack!
+
+Supports Actions & Stuff
+
+Works on Vibrant Visuals!
+
+Disclaimer: this pack uses required A&S assets, using explicitly given permission.
+
+Incompatible with pirated A&S copies.
+
+Actions & Stuff Official Download
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 80% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+Contact
+
+Discord: pandamine5x

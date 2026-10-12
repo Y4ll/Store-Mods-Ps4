@@ -1,0 +1,145 @@
+Soul Land Dimension
+
+Enter a forgotten dimension where powerful creatures, mysterious structures, ancient powers, and dangerous secrets await.
+
+Soul Land Dimension is an adventure-focused Minecraft Bedrock addon built around exploration, powerful creatures, unique equipment, magical abilities, and a mysterious world filled with danger.
+
+The Soul Land is not simply another place to explore. It is a hostile world where every discovery can lead to something far more dangerous than expected
+
+Enter the Soul Land Dimension
+
+The journey begins with the Wandering Trader.
+
+Trade an Iron Ingot with the Wandering Trader to gain access to the Soul Land Dimension.
+
+Once inside, you will discover a dark and mysterious environment filled with strange structures, dangerous creatures, hidden loot, and secrets waiting to be uncovered.
+
+But entering is only the beginning.
+
+How to Leave
+
+Returning to the Overworld is not as simple as walking through a portal.
+
+Use a Nether Star and hold/click the screen to return from the Soul Land Dimension.
+
+Dangerous Creatures
+
+Soul Land is inhabited by creatures with completely different abilities, behaviors, and mechanics.
+
+Some can become powerful companions.
+
+Others exist only to hunt you down.
+
+And some should never be underestimated.
+
+Pyroclast
+
+A massive and powerful creature that towers over the player.
+
+Pyroclast possesses deadly poisonous fangs and can become a useful companion when properly tamed.
+
+Abilities & Features
+
+Poison Fang
+Its bite carries dangerous poisonous power, making it a threatening opponent.
+
+Taming
+Pyroclast can be tamed using Soul Sand.
+
+Pyroclast Meat
+Defeating Pyroclast can provide its meat.
+
+Cooked Pyroclast Meat grants Fire Resistance.
+
+Its meat can also be used to craft Warden Food.
+
+Behavior Control
+Use a Stick to control your Pyroclast.
+
+You can command it to Sit or Stand.
+
+Red Death
+
+One of the rarest and most terrifying creatures within the Soul Land.
+
+Red Death is a gigantic dragon associated with devastating flames and blood, making it one of the most dangerous creatures you can encounter.
+
+But its true danger comes from its transformations.
+
+Four States
+
+Red Death possesses 4 different states.
+
+With every transformation, its power increases.
+
+Defeating one state does not necessarily mean the battle is over.
+
+The Final State
+
+When the final state of Red Death is defeated, it will merge into the player who dealt the killing blow.
+
+Returning to the Overworld will cause Red Death to be automatically summoned as a friendly and tamed companion.
+
+Taming
+
+Red Death can be tamed using Beef.
+
+Dragonhorn
+
+Use a Dragonhorn to command Red Death and activate its powerful special abilities.
+
+Beware the Red Death.
+
+Only the strongest Soul Masters will be prepared for all four states.
+
+Verdant Ravager
+
+A massive bipedal dinosaur and one of the largest creatures in the Soul Land.
+
+Its enormous size is surpassed only by the legendary Red Death.
+
+Devastating Bite
+
+The Verdant Ravager's bite is extremely powerful.
+
+Its attacks can inflict Poison while heavily weakening its enemies.
+
+Verdant Meat
+
+Verdant Ravager can drop its meat when defeated.
+
+Cooked Verdant Meat grants a Speed Boost.
+
+Its meat can also be used to craft the powerful Warden Food.
+
+Verdant Fang
+
+Verdant Ravager has a rare chance to drop a Verdant Fang.
+
+This fang can be used to craft the:
+
+Verdant Ravager Sword
+
+A powerful weapon dealing 25 damage per hit.
+
+Its true strength comes from its poison mechanic.
+
+Every successful strike gradually accumulates poison on the enemy.
+
+The longer you continue attacking, the more dangerous the poison buildup becomes.
+
+Glucose Aldehyde
+
+A mysterious creature specializing in ranged combat.
+
+When enemies approach, Glucose Aldehyde can continuously launch small fireballs at close range.
+
+Rapid Fire
+
+Instead of relying entirely on melee attacks, Glucose Aldehyde repeatedly fires small fireballs at nearby enemies.
+
+Glucose Meat
+
+Defeating this creature can provide Glucose Meat.
+
+Cooked Gluco

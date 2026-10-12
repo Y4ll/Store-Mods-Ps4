@@ -1,0 +1,21 @@
+Are you the contents of your chest of drawers in disarray? Is sorting a pain in the ass? Try this addon! This add-on is sorted by simply tapping on the chest!
+
+Blocks supported
+
+Sneak for 3 seconds and you will get an indication that it is on.
+
+If you press a chest while holding an item while it is on, it will be sorted.(Any item.)
+
+When off, sneek for 3 seconds again to turn it off.
+
+Before
+
+After
+
+If it proves popular, we will add other features.
+
+If you have any questions, please join the discord server.
+
+Discord server
+
+Dont forget to turn them on at the end

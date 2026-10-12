@@ -1,0 +1,37 @@
+Watch the short video above for an overview and help
+
+If you are looking for a fun, simple and not too over exaggerated alternative to the bow that feels a lot more "heavy", upgradable and satisfying, give the Hand-cannon a try!
+
+Current balls
+
+Base ore balls - Copper, Iron, Gold, Diamond and Netherite
+
+Wind ball
+
+Ender ball
+
+Ice ball
+
+Glow ball
+
+Quick note: use them in-game to check their base stats.
+
+Here you'll find
+
+Upgrade System: No need to craft a new weapon. Just Sneak + Use the cannon to open a menu and spend your resources to improve Damage, Radius, Accuracy, Cooldown, Launch power, Multi-shot, Explosion, Stability and Recycle!
+
+Elaborated gameplay: The more launch power you have, more recoil your cannon will have. Many balls also have special effects to be used as you like. Hand cannon can be repaired with iron or diamond and also be enchanted.
+
+Balls deal area damage: Hitting the mobs directly does 1.5x more base damage, but every ball deals area damage and eventually it'll grow stronger than the base one.
+
+QoL: If any upgrade cost needs 9 materials, the script asks for the block instead, so you don't waste good inventory space. Also, you can toggle explosion and multi-shot after you upgrade it.
+
+Lightweight addon: only miserables 600kb :)
+
+Fully compatible addon: No player.json, no vanilla entities changes, no nothing. C'mon, still reading? Just slap that download button!
+
+Have fun! :)
+
+This addon is a great way to use up those extra resources from your mining trips and have some fun blasting mobs. Enjoy! :D
+
+Turn on Beta APIs

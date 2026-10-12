@@ -1,0 +1,85 @@
+A complementary add-on for SERP Pokedrock that adds various details to improve the experience of a Pokemon world in Minecraft.
+
+The add-on is available in Spanish, English, Portuguese, and French (The translation is done by AI; please report any errors).
+
+IT IS VERY IMPORTANT TO HAVE DETAILED ABOVE POKEDROCK
+
+- Behavior
+
+- Resourse
+
+Mechanics
+
+Roll: By crouching, moving forward, and jumping, you can perform a "Dodge" or "Roll"
+
+Level Cap: This mechanic limits the Pokemon you can use based on their level; the level cap increases according to the number of badges you have
+
+(It can also be modified or disabled with the command /dpk:options)
+
+Ranch machine: This allows Pokemon to walk freely outside their Poke Balls without taking up space in your party; some even drop items after a while.
+
+Pokemon Information: This allows you to see details such as a Pokemon's name, gender, and level without engaging it in battle.
+
+(Can be disabled with the command /dpk:options)
+
+PokeMenu: Allows you to pet, change the position of your Pokemon's attacks, and make it sit (Activated by interacting with your Pokemon with your empty hand)
+
+Details
+
+- Now status effects affect out of combat
+
+- Pokemon can appear asleep at night.
+
+- A notification will appear if a Hoopa ring appears.
+
+- Each Pokeball has a different particle when releasing a Pokemon
+
+- If the Pokemon is Shiny, it will have a particle effect and a sound when it appears.
+
+- Mega Evolutions remain active in battle even if you switch Pokemon
+
+- A notification will appear if the Pokemon can evolve.
+
+- It adds some new animations for the player
+
+- Some Pokemon grant you new abilities when you're on their shoulder (For example: Bidoof helps you chop down trees and Spinarak gives you the ability to climb)
+
+New Commands
+
+/dpk:alpha Turns a wild Pokemon into an alpha Pokemon
+
+/dpk:levelcap Tells you your level cap
+
+/dpk:options Allows you to modify addon options in your world
+
+/dpk:regalo_misterioso Allows you to claim rewards, either time-based or via code
+
+/dpk:fullreset Resets your progress upon starting Detailed Pokedrock
+
+(example code: ZacekRules)
+
+Pokemon with Skins
+
+One of the systems in Detailed Pokedrock is Pokemon with Skins; these are usually obtained through rewards or codes.
+
+New Items
+
+- Alpha Capsule: Transforms your Pokemon into their alpha versions. (Not currently obtainable in survival mode)
+
+- Shiny Capsule: Transforms your Pokemon into their Shiny versions. (Not currently obtainable in survival mode)
+
+- Bottle caps: They are used to increase the IVs of your Pokemon. (Not currently obtainable in survival mode)
+
+- Omni Ring: If your Pokemon has a Mega Stone equipped, it will function as a Mega Ring; if the Pokemon is Dynamax level, it will function as a Dynamax Band; if it has neither, it allows you to use the "Power-Up" ability. (Not currently obtainable in survival mode)
+
+(Vitamins are created at the brewing table, using new berries along with a potion (the most basic one) with its opposite effect:
+Health uses maximum health
+Attack and special attack use strength potion
+Defense and special defense use turtle master potion
+Speed uses speed potion)
+
+Important
+
+This addon removes all other vanilla animals that Pokedrock does not, such as nautiluses, skeleton horses, and goats.
+
+Special thanks to ZacekElSerpentin and the HK development team

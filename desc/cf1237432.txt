@@ -1,0 +1,21 @@
+Legacy Panorama with Shaders (Bedrock)
+
+This is a really simple Resource Pack that adds shaders to the legacy panorama used between versions b1.7.3-1.12.2.
+
+The seed was discovered by the Minecraft@Home team.
+
+- Seed: 2151901553968352745
+
+- Coordinates: X=61.48~, Y=75, Z=-68.73~
+
+- Version: Minecraft Java Beta 1.7.3
+
+The shaders used are the Complementary Reimagined Shaders.
+
+Note: GUI not included.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+- Feel free to include this resource pack in your mod pack or server.
+
+- If you wish to use this pack in any form of content, please credit with a link to the original PlanetMinecraft/Modrinth/CurseForge page where you can.

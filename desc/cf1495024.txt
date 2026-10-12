@@ -1,0 +1,68 @@
+ACHIEVEMENTS FRIENDLY
+
+This addon is a Bedrock Edition recreation of Playmate, faithfully adapting the atmosphere and core gameplay from the original Java mod.
+
+Original Java Mod by @Danila_PodPivas: https://www.curseforge.com/minecraft/mc-mods/playmate
+
+OLD PLAYMATE TEXTURE (Texture Pack) : HERE
+
+----------------------
+
+PLAYMATE
+
+When you haven't slept for 2 days, game will start at 3rd night and one of roles will be given:
+
+HIDING
+
+You must hide in the darkest corner and don't make any noise because he hears everything
+If 60 seconds pasts you will win.
+
+Congratulations you survived!
+
+SEEKING
+
+In this case you must find Playmate 3 times before timer runs out. Otherwise...
+
+Congratulations you survived!
+
+There are also chance of him burning your bed so if you hear that your house on fire - it is indeed.
+
+COMMANDS
+
+bedfirefalse - disables Playmate's ability to burn your house.
+bedfiretrue - enables Playmate's ability to burn your house.
+play - (For content creators) Start the game without having to wait two sleepless nights.
+
+pntmc - (For content creators) Run events (hiding, seeking, and burninghouse) immediately without waiting
+
+----------------------
+
+This is NOT the original Java mod.
+
+This is a full Bedrock Edition port rewritten using Minecraft Bedrock systems and Script API.
+
+----------------------
+
+Differences from the original Java version:
+
+- Fully rewritten for Minecraft Bedrock Edition.
+
+- AI behavior adapted to Bedrock limitations.
+
+- Certain mechanics adjusted due to engine differences.
+
+- Optimized for Bedrock multiplayer compatibility.
+
+- Some features may slightly differ due to technical differences between Java and Bedrock Editions.
+
+----------------------
+
+If you use this addon in videos, you must clearly credit, tag me and also give proper credit to @Danila_PodPivas as the original creator.
+
+Do NOT reupload, redistribute, or publicly modify this addon without explicit permission.
+
+Private modifications for personal use are allowed.
+
+If you encounter any issues or missing features, please leave a comment on this project page
+
+Watch This Video for MORE INFORMATION:

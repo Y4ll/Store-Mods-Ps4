@@ -1,0 +1,100 @@
+What if dimensions were physically stacked, and reaching them meant actually traveling there? Immersive Dimension Transitions replaces portal-based travel with a vertical, world-based progression system that makes dimensions feel physically connected.
+
+The Overworld sits between them.
+The Nether lies below.
+The End waits above.
+
+If you want to reach another dimension, you move there.
+
+New Progression Overview
+
+This addon changes how you approach survival and advancement:
+
+1. Craft a Diamond Pickaxe to break the bedrock layer.
+2. Fall below Y = -65 to enter the Nether.
+3. Explore the Nether from just below the roof at Y = 125.
+4. Collect Blaze Rods and brew custom Levitation Potions.
+5. Ascend past the Overworld build limit.
+6. Cross Y = 325 to enter the End.
+
+Portals are no longer required. Preparation and positioning matter.
+
+Core Features
+
+Seamless Vertical Dimension Travel
+Dimension transitions are triggered by height, not blocks.
+
+| Transition | Trigger |
+|------------------------|--------------------|
+| Overworld Nether | Fall below Y = -65 |
+| Nether Overworld | Rise above Y = 128 |
+| Overworld End | Ascend past Y = 325 |
+| End Overworld | Fall below Y = -15 |
+
+Transition Warning Effects
+
+As you approach dimension boundaries, visual cues signal the transition:
+
+- Descending to Nether: Nether fog fades in below Y = -50
+
+- Ascending from Nether: Overworld fog appears above Y = 125
+
+- Ascending to End: Darkness effect begins at Y = 310
+
+- Falling from End: Blindness masks the transition
+
+Breakable Bedrock
+
+Bedrock can now be broken with a Diamond Pickaxe or higher.
+This is required to dig down and access the Nether from below.
+
+Levitation Potions
+
+A new brewing recipe allows you to craft Levitation Potions, required to reach the End's entry height of Y = 325.
+| Recipe | Duration | Lift Height |
+|--------------------------|------------------|---------------|
+| Awkward Potion + Feather | 30 seconds | ~105 blocks |
+
+Brew carefully and time your ascent you'll need to be above the build limit to cross over.
+
+Safety Block System
+
+To prevent deaths caused by chunk loading or device performance, the addon spawns a 11 safety block on arrival:
+
+- Entering the End: End Stone platform appears below you.
+
+- Exiting the Nether: Bedrock floor prevents falling back down.
+
+These blocks remain in the world as part of your arrival point.
+
+Intelligent End Spawn Handling (End Clamping)
+
+The End uses a coordinate-based system to prevent spawning players in empty void areas.
+
+| Overworld Distance from (0, 0) | End Destination |
+|-------------------------|---------------------|
+| 0250 blocks | Main End Island |
+| 2501200 blocks | Redirected to Main Island edge (prevents void spawn) |
+| 1200+ blocks | Outer End Islands |
+
+The End exists directly above the Overworld. Travel to coordinates near (0, 0) and ascend to reach the Main Island and face the Dragon. Those who ascend from distant lands (1200+ blocks) may find themselves among the Outer Islands.
+
+Why does this exist?
+The End has a "dead zone" between the Main Island (0-250 blocks) and the Outer Islands (1000+ blocks) where nothing generates just empty void. Without clamping, players ascending from Overworld coordinates like (500, 500) would spawn in this void and fall to their death with nothing visible around them.
+
+Want to disable it?
+Some players may prefer raw coordinate mapping for creative builds that span dimensions, or for a more hardcore experience. You can disable End Clamping entirely in the configuration menu (see below).
+
+Full Customization
+
+Every aspect of this addon is fully customizable. Server owners and world hosts can fine-tune every transition height, toggle safety features, and adjust End clamping all through an in-game menu.
+
+To open the configuration menu, use:
+/scriptevent idt:config
+
+This opens an interactive UI with the following sections:
+
+Overworld Nether Settings
+
+Trigger Y: The height at which players transition to the Nether (default: -65)
+Destination Y: Where pla

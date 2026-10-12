@@ -1,0 +1,43 @@
+Better WayStones A fast, feature-rich, scoreboard-backed waystone addon for Minecraft Bedrock, survival-balanced, multiplayer-ready, and completely free.
+
+What is Better WayStones?
+
+Better WayStones lets you craft, place, and teleport between named waypoints anywhere in your world. Walk up to one, right-click, and instantly jump to any other waystone you've discovered no commands, no cheats, no fuss. Private, public, and team visibility modes keep things organized whether you're playing solo, with friends, or on a large server.
+
+Key Features
+
+- Discovery system - Public waystones only appear in your list after you walk within 8 blocks of them. Exploration is rewarded.
+
+- Visibility modes - Mark waystones as Private, Public, or Team-only. Team tags use vanilla scoreboard tags, no extra mods needed.
+
+- Favorites, search & pagination - Pin your most-used waystones, filter by category, and search by name with real-time results.
+
+- XP cost & upgrade discounts - Teleporting costs XP based on distance. Owners can invest Iron, Diamond, or Netherite blocks to discount the cost for everyone all the way to free with Netherite.
+
+- Portable items - Craft a Warpstone (16-use teleporter to your last waystone) or a Return Scroll (single-use return ticket to your last departure point).
+
+- Natural generation - Waystones spawn across all three dimensions, surface-level and biome-aware, pre-registered as public.
+
+- Full admin panel - Browse all waystones, force-teleport, force-delete, grant discovery to players, and configure every setting in-game via /scriptevent bws:admin.
+
+Crafting
+
+Waystone block Crying Obsidian (corners) Amethyst Shard (edges) Lodestone (center). Unlocks after picking up an Ender Pearl.
+
+Warpstone 4 Amethyst Shards + Paper + Ender Pearl. Teleports you to your last-used waystone. 16 uses, 60-second cooldown.
+
+Return Scroll (4) 8 Paper + Ender Pearl + Amethyst Shard. Returns you to exactly where you last teleported from. Single-use.
+
+XP Costs & Discount Tiers
+
+Same-dimension cost: 1 level per 700 blocks, capped at 3. Cross-dimension: flat 3 levels. Creative players skip costs by default. Upgrading always refunds the previous tier's block; breaking the waystone returns all invested blocks.
+
+Installation
+
+- Download BetterWayStones.mcaddon and double-click to install.
+
+- In World Settings, activate both the Behavior Pack and Resource Pack.
+
+Credits
+
+Particular thanks to Endermen76428, author of Simple Waystone, who gave explicit permission for this project to use the following MIT-licensed assets:

@@ -1,0 +1,53 @@
+AppleSkin Bedrock (Unofficial Port)
+
+Want to play with your friends? Add-ons do not work very well in Realms..., so why not rent a server from Bisect Hosting? Use my code 'Pupy200mine' to get 25% offit also supports me, and I really appreciate it!
+
+(Click Here!)
+
+If you want to know how to create the server with addons I recommend you to see these instructions:
+
+How to include add-ons in your server
+
+AppleSkin Bedrock allows you to see the nutritional and saturation values for all types of foods, including those from other addons!
+
+This is an unofficial port of the "Appleskin" mod made by squeek502
+
+Mod License/Port Permission:
+
+The mod is under public domain and contains the following:
+
+"Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means."
+
+What allows me to make this port
+
+And that means that my addon will also be under public domain.
+
+For the addon to work properly, move the resource pack to the top, as shown in the image below
+
+Tested with the foods from:
+
+Advanced Fishing BE
+
+Farmer's Delight Bedrock (Unofficial Port)
+
+Strat's Food Expansion
+
+But it is compatible with all addons that add food!
+
+This add-on does NOT require experimental options; you just need to have the latest version of Minecraft.
+
+NEW: Saturation and exhaustion bar
+
+Fully functional and compatible with any food add-on
+
+(Note: if another add-on modifies the UI, it may stop working)
+
+Do you want to use my code to make your own addon? Go ahead!
+
+I'd be Very grateful if you give credits :)
+
+Something is not working correctly but you think you have done everything right?
+
+Fill out this form and submit the bug report: Submit Bug Report - PUPY200MINE S ADD-ONS (weebly.com)
+
+;)

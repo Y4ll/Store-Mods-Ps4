@@ -1,0 +1,15 @@
+For now, Actions & Stuff is required to use this texture pack.
+
+Axolotl Bucket Totem is a resource pack for Minecraft Bedrock Edition that replaces the Totem of Undying from Actions & Stuff with a customizable Axolotl Bucket.
+
+Required Packs
+
+Recommended Packs
+
+Credits
+
+Created and modified by Th6rkkj.
+
+Please do not redistribute, modify, or reupload this pack without permission.
+
+Note: This resource pack only changes the appearance of the Totem of Undying. It does not add a new gameplay item.

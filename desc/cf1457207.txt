@@ -1,0 +1,133 @@
+Changelog :
+
+Summary : new subpacks, new settings button and sliders to change outline colors & model and remove unnecessary things
+
+- Add 3 new packs
+
+- Player Outline for Bedrock v1.26
+
+- Player Outline for Bedrock v1.21
+
+- Player Outline for Action & Stuff
+
+- Add 2 new subpacks and remove a few subpacks
+
+- Glowing Outline [default]
+
+- Solid Outline
+
+- Adding some pack settings compatibility to set outline colors
+
+- Slim Player Model
+
+- 17 option for Armor Outline Colors
+
+- Outline RGB value
+
+- Rainbow Colors
+
+- RGB Speed value for Rainbow Colors
+
+- Passing Through
+
+- Add 2 localization including English, Indonesian Language for pack settings
+
+- Re-write and redesign the whole page for better UI and easy to read
+
+Thought it was impossible to make it follow player skin in just Resource Pack :) since when i look for it, i only found they're all using Behavior Pack, or else in Resource Pack but it's a flat outline. So, i'll never even try it because don't wanna use it with addon LoL.
+
+But, here i am.. finally figure it out on how to make one.. i made 3 different subpacks in it, with action n stuff in separate subpacks which make it 6 subpacks in total.
+
+SUBPACKS
+
+SUBPACKS
+
+DESCRIPTION
+
+Glowing Outline
+Outline that Glows in the dark [exception for all armors, they have different renderer that i can't solve it yet]
+
+Solid Outline
+No glows, just outline
+
+i PACK SETTINGS
+
+Changing to a different Subpacks or Variant
+
+if you're new in Minecraft, and don't know what the subpacks is. please scroll down at the bottom of this Description, and read the FAQ below you'll find "Pack Settings & Subpacks" section
+
+Set Pack Settings
+
+below subpack slider, there's a lot of customization you can set. i separate them so you can choose on which way you wanted to play. you can even change this settings while playing the game
+
+SETTINGS
+
+DESCRIPTION
+
+Slim Player Model
+Set the Player model to Slim version [will effect everyone else]
+
+Armor Outline Colors
+Set Outline Colors for All Armors [there's limitation that makes the attachable items can't be set its own RGB value]
+
+17 Outline Colors for Armor
+Black, Gray, White, Red, Brown, Orange, Yellow, Green, Dark Green, Lime, Cyan, Blue, Dark Blue, Violet, Purple, Pink, Neon
+
+3 individual RGB value
+Set Color to whatever you want, i mean there's a whole RGB value you can choose
+
+Rainbow Color
+turn on/off colors that can change itself everysecond
+
+Rainbow Color RGB Speed value
+Set the speed of 3 individuals RGB value of Rainbow Color
+
+Passing Through
+See players outline even though they're hiding or covered by blocks/walls [this can be considered as cheating, so be careful of getting banned in any servers]
+
+CONTENT LIMITATION
+
+Content Limit
+
+Action & Stuff
+
+because i change player entity file, there are some features will be missing
+
+- All Armor didn't have outline. i can't add it because it'll change the whole Action n Stuff Armor Model and will ruin the experience.
+
+- if you're using custom character, the outline will not match with the character
+
+- some items that's use render controller will be missing too
+
+You're Allowed
+
+- Edit this pack for your private/personal use
+
+- Make videos & media content with this pack as long as you leave a link to my CurseForge or MCPEDL page
+
+- Distribute the pack using your own or new download link (this pack already using direct link that's safe)
+
+You're Not Allowed
+
+- Monetise the pack download. Doing so will result in a copyright takedown.
+
+FEEDBACK & SUPPORT
+
+Feedback
+
+If you have encountered any issues, i'm open to any of your feedbacks and suggestions. it would be soo useful so i can be better and better next time.
+
+You can leave any feedback in the comment of my page (Curseforge/MCPEDL) or Youtube video. or else, you can also join my Discord Server by clicking the discord logo button down there
+
+Support
+
+? F A Q
+
+Having a trouble? read some Frequently Asked Questions below, hope it might be helpful
+
+Global and Local Pack
+
+Global Resources Pack
+Local Packs
+
+Game setti

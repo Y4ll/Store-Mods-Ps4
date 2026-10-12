@@ -1,0 +1,37 @@
+Project Description:
+
+In this hybrid sandbox experience, players can cultivate crops within Minecrafts blocky soil while utilizing advanced growth cinematics and deep soil-quality mechanics to transform a simple homestead into a thriving, high-fantasy estate.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Real-time growth of custom crops.
+
+- Dynamic 3D models.
+
+- Custom crafting benches.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+The Workbench is a custom crafting table used to craft custom items that have been added into this Add-On. The Workbench also crafts anything a Vanilla Crafting Table can.
+
+The Farmers Workbench is a custom crafting table used to craft custom items relating to farming.
+
+Use a Hoe on Grass to create Farmland.
+
+Using a Watering Can, water your Farmland. Wet Farmland will grow crops 2.5x faster then Dry Farmland.
+
+To get your Farm started you will need to find a Wandering Farmer, he will spawn about 20 blocks away from a Wandering Tradesman. The Wandering Farmer will trade you some Seed Bags for Wheat.
+
+The Wandering Farmers trades will change every ten minutes, the price will be random so sometimes waiting for a re-suffle might be the right plan.
+
+Once you have a Farm up and running you can use the Farmers Workbench to create your own Seed Bags.
+
+All Crops have been giving a 3D model or an updated 3D model.

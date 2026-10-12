@@ -1,0 +1,27 @@
+Mob battles addon is a addon that makes users capable of making different mobs fight each other. Even modded or custom entities!
+
+Below is the guide on how to use this addon.
+
+Step 1:
+
+Click (ATTACK) a entity with a team item (Green, Blue, Yellow, or Red Team). That hit entity will get in the team that the item in main hand refers to. Image Instruction (using Red Team to add entity in Team Red):
+
+Step 2:
+
+Click (ATTACK) with a Team item on the other entity. The hit entity will get in a team based on your item (e.g hitting a entity with Blue Team to make it join Blue Team). Image Instruction:
+
+Step 3:
+
+Right click with Start fight item. Image Instruction:
+
+NOTE: Mobs wont fight if they are too far from each other.
+
+More Instructions in gallery
+
+NEW!
+
+Purple team
+
+IMPORTANT!
+
+Download V4 only if you really want 5 teams, most of use cases only need less than 4 teams.

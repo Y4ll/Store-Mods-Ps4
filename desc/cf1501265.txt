@@ -1,0 +1,35 @@
+This shader created so even players with low-end or "potato" devices can experience realistic visuals in Minecraft without sacrificing performance. This pack is optimized to give you smooth gameplay while still delivering beautiful lighting, textures, and atmosphere.
+
+Whether you're using a weak phone or a powerful device, this shader has multiple settings that allow you to adjust performance based on your device.
+
+FEATURES:
+
+Optimized Graphics System (Lite to Full Settings)
+
+Built-in Performance Settings (With / Without Texture Pack)
+
+Custom UI & Title Design
+
+Custom Font Style
+
+Realistic Lighting & Atmosphere
+
+Smooth Performance for Low-End Devices
+
+High Quality 64x Texture Support
+
+Water & Visual Enhancements
+
+RECOMMENDED SETTINGS:
+
+Low-End Devices LITE MODE (No CLOUDS, Maximum FPS)
+
+Mid/HIGH-End Devices FULL
+
+NOTES: If you experience lag, simply switch to a lower setting for better performance.
+
+This shader is designed to be flexible, so you can choose the best experience for your device.
+
+Compatible with Bedrock 1.20.x - 1.21
+
+Shader Pack by: MIZUUU 2026

@@ -1,0 +1,37 @@
+Lazy Legend Hitbox (Red)
+
+Lazy Legend Hitbox (Red) is a clean and competitive Minecraft Bedrock texture pack designed to make hitboxes easier to see during gameplay. The clear red hitbox visuals help you understand entity positions and movement more accurately, giving you better awareness during PvP, survival, and other combat situations.
+
+Key Benefits
+
+- Better Aim & Accuracy Easily identify the actual hit area of entities, helping you land hits more consistently.
+
+- Improved PvP Performance Track opponents more clearly during close-range fights and fast combat.
+
+- Better Entity Tracking Follow the movement of players and mobs even when they are moving quickly.
+
+- Easier Critical Hits Gives you a clearer understanding of entity positioning, making timing your attacks easier.
+
+- Better Reach Awareness Helps you judge the distance between you and an entity more accurately.
+
+- Improved Combat Awareness Quickly understand where an entity is positioned instead of relying only on its model.
+
+- Useful Against Fast Players Red hitboxes can make moving targets easier to track during intense fights.
+
+- Better Visibility in Crowded Areas Helps distinguish entity positions when multiple players or mobs are close together.
+
+- Useful for PvP Practice Great for practicing aim, tracking, timing, and movement.
+
+- Lightweight Design Keeps the visuals simple and focused without unnecessarily changing your Minecraft experience.
+
+- Clean Red Style A bold red hitbox design that is easy to notice while remaining visually clean.
+
+- Beginner Friendly Simple to understand and useful for both new and experienced players.
+
+Perfect For
+
+PvP BedWars SkyWars Survival Practice Servers Mob Fights Combat Training Hitbox Practice
+
+Whether you're practicing your aim, improving your PvP skills, or simply want clearer entity awareness, Lazy Legend Hitbox (Red) gives you a simple and effective visual advantage.
+
+Made for Minecraft Bedrock Edition.

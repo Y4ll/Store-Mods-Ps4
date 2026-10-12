@@ -1,0 +1,18 @@
+MY DISCORD
+
+Cursed Gun gives you guns that are different from others, where normal guns do not have their own will or mind. Cursed Guns have their own will, but unfortunately their thoughts are demonic, so there is a cost for the user. However, if you use them occasionally, I think it is quite worth it.
+
+Skills:
+Active Skill 1: Fire Shot Sets the target on fire (Right-click with the Cursed Gun)
+Active Skill 2: Cursed Shot Applies a Death Curse to the target (Right-click with the Cursed Gun)
+Active Skill 3: Explosive Shot Creates an explosion in the target area (Right-click with the Cursed Gun)
+Active Skill 4: Locked
+Active Skill 5: Locked
+Active Skill 6: Locked
+
+This add-on is achievement friendly.
+This add-on does include player.json.
+This add-on does not require experimental features.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

@@ -1,0 +1,75 @@
+FullBright (Bedrock) Cheats OFF, Achievements Safe
+
+Make Minecraft look clearer without turning on cheats.
+
+FullBright substantially reduces distance fog in air and weather, increases underwater visibility, and extends visibility in lava.
+
+Supported versions: Minecraft Bedrock 1.20.026.34
+
+Graphics: Works best with Simple and Fancy graphics. The effect may be weaker or less noticeable with Vibrant Visuals because that renderer also uses volumetric fog that this pack does not modify.
+
+Author: Leo Termado
+
+Features
+
+- Cheats OFF / Achievements ON pure resource pack, no commands.
+
+- Minecraft Bedrock 1.20.026.34 compatible across the currently supported range.
+
+- Simple & Fancy graphics provides the intended fog-reduction effect.
+
+- Vibrant Visuals may still reduce some distance fog, but the result can be weaker because volumetric fog remains.
+
+- Works on Realms & servers (where resource packs are allowed).
+
+- Plays nice with other packs just set pack order.
+
+- Lightweight zero scripts, minimal files.
+
+Downloads
+
+- FullBright PRO bright, natural look.
+
+How to Use
+
+Per-world
+
+- From the main menu, click Edit on your world.
+
+- Go to Resource Packs Available FullBright Activate.
+
+- In Active, move FullBright to the top (highest priority wins).
+
+- Load the world. Done.
+
+Global (all worlds)
+
+Settings Global Resources activate FullBright and move it to the top.
+
+With X-Ray or other packs
+
+- Activate both; keep FullBright above the other pack so its fog settings win while textures still apply.
+
+On Realms
+
+- Realm owner Edit Realm Resource Packs upload/activate FullBright.
+
+- (Optional) Enable require/force pack for all players.
+
+FAQ
+
+Why are caves still dark?
+
+Resource packs cant raise light levels, modify gamma, or provide Night Vision. FullBright reduces distance fog, so the improvement is most visible across large spaces, during weather, underwater, and in lava. Use a Night Vision (Behavior Pack) editions (Simple/Pro) for true brightness underground.
+
+It didnt change anything.
+
+Make sure its enabled under Resource Packs and placed at the top of Active packs. Another pack might be overriding its fog settings.
+
+If you are using Vibrant Visuals, the difference may be weaker or difficult to notice. Switch temporarily to Simple or Fancy graphics to confirm that the pack is active.
+
+Credits & License
+
+Made with purpose by Leo Termado.
+
+License: MIT free to use, modify, and bundle. Please credit if you fork or redistribute.

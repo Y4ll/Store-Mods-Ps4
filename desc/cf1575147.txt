@@ -1,0 +1,38 @@
+RAGNAROK is an add-on that completely changes how you live in your world.
+Ragnarok is a relatively difficult add-on, as the mythological creatures are not easy to defeat, but once you become a god, nothing will stop you...
+
+You can craft the Ragnarok book to help guide you a bit with the addon while you're playing!
+
+The add-on includes translations into Spanish, Russian, Portuguese, Italian, French, German, and English.
+
+WEAPONS
+
+Weapons aren't easy to come by; you have to fight in structures or kill enemies to get the materials needed to craft them. Once you have a material required to craft a weapon, the recipe will unlock at the crafting table. Each weapon has special abilities, but I'll let you discover those for yourself, hehe...
+
+When using weapons, there's a relatively low chance that a God of War soundtrack will play, either from the Greeks or the Norse. Clearly, this depends on the weapon, and it's a way I came up with to give the add-on more atmosphere. For this same reason, the add-on is somewhat large, but the intention is to make it feel more immersive and "epic."
+
+The Blades of Chaos, the weapon that will remind Kratos of his curse, weapons created for destruction. The weapons have a 12-hit combo (the combo is a small ability that activates when the combo is complete), they also have a 5-block area attack, and they also have their own special ability. Each level and variant of the Blades of Chaos has a different ability.
+
+All weapons can be upgraded, and as I mentioned before, once you have the necessary item, you will unlock the recipe to upgrade the weapons.
+
+Additionally, you can find the alchemist's hilt in structures and by defeating bosses. Once you have this hilt, you can make your weapons even better. To apply the upgrade, you need to use the dwarven table.
+
+Once you've upgraded your weapon with the alchemist's hilt, you can change your weapon's runes! Changing the runes completely alters your weapon's damage and abilities, just like in the Norse God of War games. It's worth noting that rune changes can also be made at the Dwarven Table, and you can obtain runes by defeating bosses. Each weapon has its own unique runes, so you'll have to fight a lot...
+
+Just like in the Norse God of War games, runes change your abilities, but here they also change your damage. I tried to make all the weapons look different so you can easily tell which rune they have equipped :D
+
+And this works and will continue to work for all the weapons already in the addon and those I'll be adding, so there's a huge and customizable variety to help you be the ultimate god...
+
+The Leviatan Axe, the weapon created by the Huldra brothers for the great warrior Fey, is one of the strongest weapons ever created to counter Mjolnir, with a powerful 15-hit combo. It also has the ability to freeze enemies!
+
+(I will soon add runes to leviathan)
+
+By upgrading Leviatan to level 6 and also by upgrading it with the Alchemist's Grip, you can crouch twice and activate "Throw Mode," allowing you to switch between Leviatan's abilities or throw Leviatan.
+
+Upon impact, Leviatan will freeze and obviously damage enemies, so show off your aim...
+
+The Draupnir spear, forged from the Draupnir ring, the weapon created to defeat Heimdall, is the quintessential Spartan weapon. Draupnir weakens enemies and boasts an 8-hit combo. Its abilities vary greatly with each upgrade and even more so when its runes are changed. Go forth and bring hope to the Nine Realms.
+
+The mighty Mjolnir, Thor's hammer, a weapon created with good intentions by the Huldra brothers but used cruelly, used to generate destruction and annihilate all the Jotnar, and to instill fear in the Nine Realms, with a combo of 20 hits, 2 area-of-effect damage per strike, in addition to the power of lightning...
+
+Zeus's lightning bolt, the weapon that defines the order of the cosmos, was forged by the Cyclopes as a gift to Zeus for freeing them from Tartarus where Kronos imprisoned them. Zeus defeated Kron

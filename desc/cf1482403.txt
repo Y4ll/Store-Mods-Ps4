@@ -1,0 +1,11 @@
+Auto Totem By Neq.
+
+This Mod Automatically Equips Totem In Offhand From Inventory. This mod is Achievement friendly. Do not redistribute this mod without my permission.
+
+Note - This Mod Does Not Gives Extra Totems but equips them from inventory.
+
+Main Features
+
+- Automatically Equips Totem
+
+- Supports Achievements

@@ -1,0 +1,15 @@
+Crystal Boost is a high-performance resource pack designed specifically for Minecraft Bedrock (MCPE). Inspired by the efficiency of Java performance mods, Crystal Boost strips away the clutter and optimizes your visuals to deliver the smoothest frame rates possible on any mobile or low-end device.
+
+Performance Features
+
+Optimized FPS: Engine-friendly textures and configurations designed to squeeze every frame out of your hardware.
+
+Zero Particles: All distracting and lag-inducing particles (Crit, Potion, Smoke, Explosions) have been removed for maximum clarity and stability.
+
+Transparent UI: A sleek, minimal, and see-through interface that allows you to keep an eye on your surroundings while managing your inventory.
+
+Competitive Short Swords: Custom low-profile swords that increase your field of view (FOV) during intense PvP encounters.
+
+Clean Smooth Sky: Replaces the heavy default clouds with a lightweight, beautiful smooth sky gradient to reduce GPU strain.
+
+Low Latency: Streamlined assets to reduce input lag and provide a more responsive gaming experience.

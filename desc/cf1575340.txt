@@ -1,0 +1,39 @@
+Create fully customizable potions in survival! Choose any effects, combine them however you want, and set any duration to build the perfect potion for any situation.
+
+The addon turns potions into a customizable toolset. Instead of relying only on vanilla brewing recipes, players can create specialized potions for combat, exploration, mining, parkour, or roleplay by combining effects into a single brew.
+
+Example Potions
+
+/---------&&-------------/
+
+WARNING : COSTS GLOWSTONE!!!
+
+________________________________
+
+CrusadersCustomPotions
+
+allows players to create unique potions with their own combinations of effects. Using a special potion-binding system, you can add multiple effects to a single potion and create brews tailored to combat, exploration, mining, or any adventure.
+
+________________________________
+
+How to use it:
+
+Step 1) Get A GlowingObsidian Block (Using Obsidian in a stonecutter)
+
+Step 2) use either a
+
+Splash potion (warning need 2 to work) , or
+
+Potion (needs just 1 to work) to make a Costom potion select what you want and submit
+
+U Can adjust the Amplifier And duration
+
+________________________________
+
+"Forge your own brews. Combine powers. Create legendary potions."
+
+Minecraft Bedrock Edition
+
+Built using the Minecraft Script API (@minecraft/server and @minecraft/server-ui).
+
+https://youtube.com/shorts/wQvNEORsfUg?si=pJpKq6hkYkLISvZg

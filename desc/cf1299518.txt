@@ -1,0 +1,113 @@
+Hello, Indonesian people! Are you looking for Indonesian type vehicle? Don't worry, I'm adding them now to Minecraft, from iconic one like buses, tuktuk [Bajaj], Jet bus, Trans Jakarta, and more!
+
+Basic Information
+
+Indonesian Vehicle Pack Basic Specifications
+
+Performance:
+
+- Speed: 5 Blocks/Second. [0.50 Speed]
+
+- Toys Speed: 2 Blocks/Second. [0.25 Speed]
+
+Miscellaneous:
+
+- Health: 20 Points.
+
+- Seat count: Depends on vehicle.
+
+Damage:
+
+- The Vehicle will get damage animation if under max health condition and if the Vehicle in Critical Health [2 health] will release particles if the car moving. so fix your car using Wrench.
+
+Wrenches:
+
+- Wrench: Fixes 1 point to the vehicle.
+
+- Tweak: Changes the vehicle size.
+
+c
+
+Nitrox2:
+
+- The blue one is Full Nitrox2. Use it carefully! You can use Nitrox2 only 3 times! So, save it if you really need it. How to use it? Just the same as with a pig!
+
+Commands, Eggs and Colors available to change:
+
+- /summon hp:id_angkot_kijang_rear [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_angkot_kijang [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_angkot_suzuki [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_jetbus_mercedes_benz [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_jetbus_mercedes_benz_long [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_bus_transjakarta [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_bus_transjakarta_long [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_bus_metro_jabar_trans [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_bus_kopaja [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_bus_bandros [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_taxi_toyota_limo [BLACK, BLUE, HYPEREST]
+
+- /summon hp:id_taxi_toyota_alphard [BLACK, BLUE, HYPEREST]
+
+- /summon hp:id_goods_suzuki_carry_expedition [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_goods_mitsubishi_fuso_expedition [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_goods_bemo [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_goods_suzuki_carry [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_goods_mitsubishi_fuso_long [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_goods_suzuki_mbg [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_trans_delman [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_trans_becak [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_trans_tuk_tuk [RED, BLUE, HYPEREST]
+
+- /summon hp:id_police_mitsubishi_evolution_ex [BLACK, GRAY, ORANGE, HYPEREST]
+
+- /summon hp:id_gov_mv3_garuda_limousine [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_truck_isuzu_pertamina [RED, BLACK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_truck_isuzu_pertamina_trailer [RED, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_truck_isuzu_expedition [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+- /summon hp:id_truck_isuzu_expedition_trailer [RED, GRAY, ORANGE, BLACK, PINK, GREEN, BLUE, HYPEREST]
+
+Indonesian Vehicle Pack Visual
+
+Toys Scale vs Real Size
+
+"Use the Invisibility Potion if you want to ride the Toys Version"
+
+Congratulations! Now you just changed to "Hot Wheels: Unleashed!" game in Minecraft!
+
+Video
+
+Note
+
+- This addon support other addons.
+
+Join our Discord and submit your ideas!
+
+Click here for more!
+
+Visit website for more info about this addon!
+
+If you are content creator, please use MCPEDL, ModBay, Better Bedrock or Planet Minecraft link if you want to share it, do not relink or use direct link to Mediafire! Do not upload to another websites or applications without my permission.
+
+You can modify this pack for yourself only.

@@ -1,0 +1,37 @@
+Ultimate Night Vision is a lightweight Minecraft Bedrock resource pack that improves visibility in dark areas, making caves, the Deep Dark, and nighttime exploration much clearer, without using potions or commands.
+
+The pack is designed to work across all graphics modes, including Simple, Fancy, and Vibrant Visuals, ensuring consistent brightness and clean visuals on any device.
+
+-Features
+
+Clear and balanced night vision effect
+
+Works in Simple, Fancy, and Vibrant Visuals graphics modes
+
+No Night Vision potion required
+
+No commands or settings needed
+
+Optimized for caves, Deep Dark, and underground exploration
+
+Clean visuals without harsh colors or overexposure
+
+-Graphics Mode Support
+
+Ultimate Night Vision includes separate subpacks for different graphics modes:
+
+Simple & Fancy Graphics Uses a lightweight HUD-based night vision overlay for smooth brightness.
+
+Vibrant Visuals Graphics Uses an advanced lighting-based method to improve visibility while staying compatible with Vibrant Visuals.
+
+Make sure to select the correct subpack based on your graphics settings before playing.
+
+Installation
+
+Download the resource pack
+
+Import it into Minecraft Bedrock
+
+Enable it in Global Resources or in a worlds Resource Packs
+
+Select the correct graphics mode subpack

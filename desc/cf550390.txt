@@ -1,0 +1,53 @@
+Preface:
+
+Be sure to read carefully this post before downloading and using this resource pack, thank you!
+
+Description:
+
+A UI pack that not only does it show the potion recipes in hierarchy, it also shows some information for each potion.
+
+Features:
+
+A complete potion recipe hierarchy based on official Wiki article, directly on the left side of the main Brewing Stand panel.
+
+- It can be used in both the Classic UI and Pocket UI.
+
+- Compatible with other resource packs (without modified UI of course), even those from the marketplace.
+
+- It is also compatible with latest version of VDX UI.
+
+Screenshots:
+
+Classic UI:
+
+Pocket UI:
+
+You can change styles from subpacks options, make sure to restart the game after changing:
+
+Known Issues:
+
+- Sometimes it makes the heart bar disappear when browsing all the recipes, to solve it, just open "Brewing Stand" again without seeing recipes and close it, that's it. Unfortunately, the definitive solution to this bug is not known...
+
+Terms of Use:
+
+You may:
+
+- Make review about this pack, as long as you credit me as @CrisXolt. And put original download link in description (This forum post).
+
+You may not:
+
+- Make customized APK/APPX and monetized content (pirate modifications), no one will have the permission.
+
+- Use my modified JSON and UIDX data files claiming this work as your, without permission of course. Specially do not modify/erase the text in the first line code in each .json file. (Example text: //File Made/Modified by @CrisXolt or Some people who contributed).
+
+- Redistribute this resource pack made by me in another pages/app store, no one will have the permission.
+
+- Do not use for third-party projects, much less to merge with "Concept Clients" resource packs, no one will have the permission.
+
+If you have any more questions about this, please let me know by sending a message/question in chat, on discord server: CrisXolt's Refuge.
+
+Final Note:
+
+Those default JSON UI data designs is made originally by Mojang and Microsoft, UI design re-make as JSON UI data are modified by me for entertainment purposes.
+
+Just enjoy and good luck! ;D

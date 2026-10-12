@@ -1,0 +1,5 @@
+Eclipse is a UI-only resource pack that works with other texture packs! In dark mode, all UI menus turn a dark color! Perfect for nighttime gaming or a dark look for Minecraft!
+
+Combine other texture packs with dark mode!
+
+- Additional mode: all dark!

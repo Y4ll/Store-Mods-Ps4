@@ -1,0 +1,181 @@
+Carry Light Anywhere in Minecraft Bedrock
+
+System Dynamic Lights adds portable dynamic lighting to Minecraft Bedrock without requiring you to constantly place light blocks.
+
+Hold supported items in your main hand or offhand, wear compatible lantern helmets, drop light-emitting items on the ground, or let supported entities and projectiles illuminate the world around them.
+
+Compatibility
+
+- Realms Compatible
+
+- Multiplayer Compatible
+
+- Compatible with other Add-ons
+
+- Action & Stuff Compatible
+
+- Achievements Friendly
+
+- No Experimental Gameplay Required
+
+- Does NOT use player.json
+
+- Per-player settings
+
+- Operator-controlled world settings
+
+- Custom item & entity light support
+
+Visit My Official Website
+
+Join My Discord Server
+
+Main Features
+
+System Dynamic Lights includes:
+
+- Dynamic light while moving
+
+- Main-hand lighting
+
+- Offhand lighting
+
+- Lantern helmet lighting
+
+- Place supported lights from the offhand
+
+- Dropped Item Lighting
+
+- Burning Entity Lighting
+
+- Natural & Special Entity Lighting
+
+- Burning projectile lighting
+
+- Primed TNT lighting
+
+- End Crystal lighting
+
+- XP Orb lighting
+
+- Custom Entity Lights
+
+- Custom Light Items from other Add-ons
+
+- Underwater Lighting
+
+- In-game Configuration Book
+
+- Performance Presets
+
+- Configurable Dynamic Light Range
+
+- Light Source Priority
+
+- Optional Item Information / Lore
+
+- Translated Interface
+
+System Dynamic Lights V3.3.2
+
+Entity & Projectile Lighting Update
+
+V3.3.2 greatly expands the entity lighting system and improves how different dynamic light sources interact with each other.
+
+What's New?
+
+- Added Custom Entity Lights
+
+- Add light to mobs from other Add-ons
+
+- Custom entities can use Light Levels 115
+
+- Add custom mobs by selecting a nearby entity
+
+- Register up to 24 Custom Entity Lights
+
+- Added/improved special vanilla entity lighting
+
+- Burning arrows now produce dynamic light
+
+- Fireballs produce dynamic light
+
+- Primed TNT produces dynamic light
+
+- End Crystals produce dynamic light
+
+- XP Orbs can produce subtle dynamic light
+
+- Brighter entity lights now have priority when sources overlap
+
+- Adjusted TNT lighting intensity
+
+- Fixed projectiles leaving permanent light behind
+
+- Light is now cleaned when a projectile moves, disappears or dies
+
+- Improved entity-light processing and cleanup
+
+Full V3.3.2 Details
+
+Custom Entity Lights
+
+Operators can now give dynamic lighting to entities from other Add-ons.
+
+You do not need to manually search through files just to find a mob.
+
+Open Custom Entity Lights, move near a custom mob and select it directly from the nearby entity list.
+
+For every registered entity you can choose a:
+
+- Light Level from 1 to 15
+
+You can register up to 24 custom entity light sources.
+
+Custom Entity Lights work when Entity Lighting is set to:
+
+All Supported Entities
+
+You can also edit, remove or clear registered entity lights directly from the menu.
+
+Special Vanilla Entity Lights
+
+The Entity Lighting system now supports more special vanilla entities and projectiles.
+
+Supported special sources include:
+
+- Fireballs
+
+- Small Fireballs
+
+- Dragon Fireballs
+
+- Burning Arrows
+
+- Primed TNT
+
+- End Crystals
+
+- XP Orbs
+
+These sources use different light intensities depending on how bright the entity should visually appear.
+
+Brightest Entity Priority
+
+When several entity light sources overlap, the system now processes them by light intensity.
+
+This prevents a weak source from incorrectly replacing a stronger source.
+
+For example, a nearby XP Orb should no longer override a much brighter entity or projectile light.
+
+The brightest valid source keeps priority in overlapping areas.
+
+TNT Lighting Adjustment
+
+Primed TNT still produces dynamic light, but its light intensity has been reduced to better match its visual appearance and balance it against brighter sources.
+
+Projectile Light Trail Fix
+
+Projectile lights now properly track their previous position.
+
+When a projectile moves to another block, the previous dynamic light position is cleaned before t

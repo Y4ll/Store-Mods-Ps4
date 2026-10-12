@@ -1,0 +1,55 @@
+AFK Cinematic Camera
+
+Let the world keep looking beautiful, even when you stop moving.
+
+AFK Cinematic Camera is a Minecraft Bedrock add-on that automatically activates a stylish cinematic camera when your player stays inactive for a short time. Instead of standing still with a normal view, your character becomes the center of a smooth, dramatic orbiting showcase shot.
+
+Features
+
+Automatic AFK Detection
+The cinematic camera activates after a period of inactivity.Smooth Orbiting Camera
+The camera moves around the player with a polished, cinematic feel instead of staying static.
+
+Dynamic Motion
+Uses flowing movement, changing distance, and subtle height variation to create a more alive and professional presentation.
+
+Automatic Exit
+As soon as the player moves, looks around, or gives input again, the camera returns to normal gameplay view.
+
+Built for Bedrock Atmosphere
+Perfect for making your character, base, armor, biome, or world feel more dramatic while idle.
+
+SHOWCASE
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+JOIN DISCORD --> Click Here

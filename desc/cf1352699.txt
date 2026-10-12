@@ -1,0 +1,129 @@
+Lore & Backstory
+
+The Mimicer mod builds on a disturbing concept: an alien parasite enters the body of Steve (the default Minecraft player model) and slowly deforms him while maintaining control.
+
+Key lore elements:
+
+The parasite spreads through Steves nervous system and brain, keeping him alive, though suffering internally.
+
+Over time, Steves limbs become unnaturally long, his face becomes distorted (with an unsettling smile, exaggerated features, deep eye sockets).
+
+The parasite is hostile, and as soon as it detects a player, it treats them as prey.
+
+The Mimicer can also mimic voices of other entities or players to lure victims out from hiding.
+
+Physical Appearance & Visuals
+
+At first glance, the Mimicer appears as Steve, wearing the same kind of clothes.
+
+However, closer inspection reveals many grotesque and disturbing features:
+
+Elongated limbs: arms and legs are stretched unnaturally.
+
+Hollow gaps / cracks in the torso area, showing dark inner limbs or shadowy parts.
+
+Face distortions: a sinister smile, sunken eyes, exaggeration of facial features.
+
+The body, limbs, and clothes often show blood stains, soot, scratch marks signs of struggle and violence.
+
+Behavior, Phases & AI Mechanics
+
+The Mimicer has a multi-phase stalking / attacking style that makes it more than just a brute monster.
+
+Phases
+
+Roaming
+
+It may spawn within a certain range and wander, often staying out of sight.
+
+minecraft-mods.fandom.com
+
+Stalking
+
+When the player is nearby but not seen, the Mimicer crouches, opens its mouth, reveals its eyes, and watches.
+
+minecraft-mods.fandom.com
+
+If the player looks away, it moves closer to the last known position of the player.
+
+Chasing / Attack
+
+Once its spotted the player and is close enough, the Mimicer begins a chase. Rapid movement, aggressive behavior.
+
+After a successful kill or after a time, it may disappear or vanish with sound.
+
+Abilities & Special Traits
+
+Climbing & Crawling:
+
+The Mimicer can climb up blocks (if theres no obstruction) and squeeze under 1-block gaps (crawling) to navigate terrain.
+
+Invisibility / Stealth:
+
+It can become invisible temporarily (for ~3 to 5 seconds) to surprise the player.
+
+Voice Mimicry / Audio lure:
+
+The Mimicer can imitate voices of other players or creatures to draw the real player out of hiding.
+
+Hostile / Aggressive:
+
+It attacks if the player is within range or seen. If it cannot see the player, it may wait or stay still.
+
+Stats & Combat
+
+Health: 150 (i.e. strong compared to many mobs)
+
+Attack Power / Damage: 3 (relatively low per hit, but dangerous given stealth and surprise)
+
+Experience dropped: 3 XP upon death
+
+minecraft-mods.fandom.com
+
++1
+
+Audio, Voice Lines & Atmosphere
+
+The Mimicer has voice lines which further enhance the horror effect: phrases like I see you, Help me, or You are nothing without me are used.
+
+minecraft-mods.fandom.com
+
++1
+
+The voices are mixed with whisper effects or distorted sound to make them creepy.
+
+CurseForge
+
++2
+
+minecraft-mods.fandom.com
+
++2
+
+Sound design is essential jump scares, ambient whispers, vanishing sounds after kills, etc.
+
+CurseForge
+
++1
+
+Tips for Surviving / Gameplay Advice
+
+Stay in well-lit areas; the Mimicer thrives in darkness and hiding places.
+
+Be cautious in caves or corners; always check your surroundings.
+
+Be wary of doing what seems normal (opening a chest, mining blocks) some of those may be disguise traps or lure triggers.
+
+Use distractions, light sources, or safe structures to avoid being stalked.
+
+If you hear voices or mimicry, dont immediately trust them they could be bait.
+
+If you like, I can also provide a gallery of higher-resolution images or concept art of The Mimicer mod, or a video walkthrough / showcase so you can see it in action. Do you want me to send those?
+
+Vous avez dit :
+
+C pour que je poste le mod sur curseforge est c le portage sur bedrock
+
+ChatGPT a dit :
+
+Parfait alors si ton but est de poster la version Bedrock du mod The Mimicer sur CurseForge, je peux taider a rediger une description clair

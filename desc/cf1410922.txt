@@ -1,0 +1,73 @@
+Build and Walk on Your Own Custom Trains in Minecraft Bedrock!
+
+Design unique trains with vanilla blocks, walk around while they move, and connect multiple minecarts.
+
+Build and Walk on Your Own Functional TrainBefore Create comes to Bedrock!
+
+Welcome to a new approach to Minecraft transportationthe VanillaTrain Addon! If you've ever wanted more from minecarts than just sitting in a fixed seat, now you can design, build, and operate customizable trains that you can actually walk around on while they're moving, adding new possibilities to your railway projects.
+
+Supported Block Types
+
+Build with a variety of vanilla blocks! Currently supported types include:
+
+- Planks & Slabs: All varieties from Oak, Spruce, Birch, Jungle, Acacia, Dark Oak, Mangrove, Cherry, Bamboo, Crimson, and Warped.
+
+- Glass Blocks: Clear glass and all 16 stained glass variants.
+
+- Decorative Blocks: Ladders, Bells, Campfires, and Soul Campfires.
+
+- And more...
+
+About This Early Test Version
+
+This is an early test release. More block types will be supported in future updates. Waiting for your feedback and suggestions to help me improve this addon.
+
+Key Features
+
+- Build Custom Trains: Design your own locomotives and carriages using supported blocks. Create anything from a steam engine to a modern metro, then turn your creation into a functional, drivable train.
+
+- Walk Freely On Moving Trains: Once assembled, your minecart isn't just a vehicle you sit init's a moving platform. Walk between carriages, enjoy the view, and experience the train movement that Create players enjoynow bringing that experience to Bedrock Edition.
+
+- Straightforward Assembly: Hold the Bogey and interact with a minecart. Use the Wrench to define your trains structure, confirm your selection, and your creation becomes operational.
+
+- Connect Minecarts: Use the Lead item to connect minecarts into trains. Adjust connection interval for different spacing between minecarts.
+
+- Control Minecarts: Use the Minecart Controls to control the minecart's movement.
+
+- Manage Your Trains: Use the Minecart Manual to view and manage your created trains. Disassemble trains when needed.
+
+- Multiplayer Friendly: Build and operate trains with friends. Transport players and explore together on moving trains.
+
+How It Works
+
+- Place a Bogey: Start by placing the Bogey item on a straight rail.
+
+- Define Your Structure: Use the Wrench to set two coordinates around your build.
+
+- Confirm and Create: Name your minecart and compile the structure into a functional train.
+
+- Ride and Walk: Drive the train and walk around on it while it moves.
+
+- Connect and Manage: Use the Lead to connect trains and the Minecart Manual for management.
+
+- Simple Video Showcase: https://www.bilibili.com/video/BV1NkexzJE3Y/?share_source=copy_web&vd_source=09a1ead707fe481ee22599522d7aa657
+
+No Experimental Settings Required!
+
+Achievement-friendly and ready to playjust install and start building your own walkable trains without affecting your vanilla progress.
+
+Warning
+
+This addon is in early testing. You may encounter bugs. To prevent train data loss, always save and quit your world properly through the game menu. Force-closing the game may have serious consequences. I appreciate your reports and patience.
+
+Please manually delete the old version files in Minecraft before importing this new version. Failure to do so may result in import failure.
+
+Credits
+
+Addon made by MINECRAFT-SCPCB.
+
+Discord link: https://discord.gg/dtFR4b9Zc
+
+Github: https://github.com/MCSCPCB/VanillaTrain
+
+Ready to build and walk on your own trains? Download now and enhance your railway experience!

@@ -1,0 +1,111 @@
+Craftable Illegal Items
+
+Cursed Blocks / Cursed Items / Illegal Blocks / Illegal Items / Unobtainable Blocks / Unobtainable Items / Craftable Illegals
+
+Ever wanted to get your hands on those mysterious blocks that Mojang never intended players to have? Craftable Illegals brings over 140 unobtainable blocks and items to your crafting table plus an all-new tool to break the unbreakable.
+
+- - Achivement and Realm Friendly - -
+
+What's Included
+
+Unobtainable Blocks & Items
+
+Craft blocks that were previously only accessible through commands, inventory editors, or not at all. This includes:
+
+- Command Blocks Standard, Repeating, and Chain variants, plus the Command Block Minecart
+
+- Structure Blocks & Voids Build and save structures in survival
+
+- Jigsaw Blocks The block behind procedural generation
+
+- Barrier & Light Blocks Invisible walls and custom lighting
+
+- Bedrock & Invisible Bedrock The unbreakable, now craftable
+
+- Allow & Deny Blocks Education Edition permission blocks with matching recipes
+
+- Border Block The impassable world border block
+
+- End Portal & End Gateway Portal blocks you can place anywhere
+
+- Nether Portal Block Place portal blocks without building a frame
+
+- Nether Reactor Core The legendary MCPE block, crafted with its original recipe of iron and diamonds
+
+- Glowing Obsidian Another MCPE classic returns
+
+- Camera The forgotten Bedrock-exclusive item
+
+- Mob Spawner Craft your own spawner cages
+
+- End Portal Frame Build custom strongholds
+
+- Respawn Anchor (Fully Charged) Skip the glowstone charging
+
+- Lit Furnaces, Blast Furnaces & Smokers The glowing variants as placeable blocks
+
+- Fire & Soul Fire Place fire blocks directly
+
+- Water & Lava (Source & Flowing) Fluid blocks in your inventory
+
+- Bubble Column Underwater elevators without the hassle
+
+- Redstone Wire The placed form of redstone dust
+
+- Powder Snow The block form, bucket returned
+
+- Petrified Oak Slab The rare legacy slab
+
+- Player Head Craft from any skull
+
+- Written Book Pre-signed books from a regular book
+
+- Info Update Blocks The classic "update!" placeholder blocks
+
+- Reserved6 One of Bedrock's rarest hidden blocks
+
+- Bamboo Sapling The unobtainable planted form
+
+- Moving Block & Piston Arm Collisions Piston technical blocks
+
+- Frogspawn The frog egg block, crafted from a slimeball and lily pad
+
+- Budding Amethyst The crystal-growing block, crafted from amethyst shards around an amethyst block
+
+- Reinforced Deepslate The indestructible ancient city frame block, crafted from deepslate, sculk, and an echo shard
+
+- Suspicious Sand The archaeology block, crafted from sand
+
+- Suspicious Gravel The archaeology block, crafted from gravel
+
+Additional Illegal Blocks (140+)
+
+The pack also includes crafting catalog entries for an extended collection of unobtainable blocks including:
+
+- All Double Slabs Every material variant (60+ types)
+
+- All Standing & Wall Signs The placed block forms (24 types)
+
+- All Candle Cakes Every color variant (17 types)
+
+- All Coral Wall Fans Living and dead variants (10 types)
+
+- Crop Blocks Carrots, potatoes, cocoa, melon/pumpkin stems, cave vines, pitcher crop, torchflower crop
+
+- Redstone Components Powered/unpowered repeaters and comparators, unlit redstone torch, lit redstone lamp, lit redstone ore, inverted daylight detector, tripwire
+
+- Chainmail Armor Full set: helmet, chestplate, leggings, and boots
+
+- Banners Standing and wall placed forms
+
+- Legacy & Misc Chalkboard, board, deprecated anvil, chiseled purpur, frosted ice, crying obsidian, filled map, firework rocket, and more
+
+Everything has been made craftable. Everything also now shows in the creative menu if possible.
+
+Craft and access any item by using a piece of dirt in a stonecutter. There are also specialized recipes if you prefer in the spoiler below.
+
+Sample of specialized recipes: All are available to view when using the in-game recipe book!
+
+Super Sticks
+
+The crown jewel of Craftable Illegals a brand new tiered tool that can instantly destroy any block

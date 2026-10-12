@@ -1,0 +1,47 @@
+Sky Drop - Battle Royale Simulator
+
+Sky Drop is a Minecraft Bedrock add-on that brings a fast-paced Battle Royale experience into your world.
+
+Start a match, drop into the arena, collect loot, survive against enemies, and fight to become the last player standing. The add-on includes a full match controller system, spectator mode, player profile stats, air drops, custom fake players, and survival-based gameplay designed to feel like a Battle Royale inside Minecraft.
+
+Features
+
+- Battle Royale match system
+
+- Match start countdown
+
+- Spectator Mode
+
+- Player Profile Status
+
+- Win, match, kill, death, and quit tracking
+
+- Air Drops with useful loot
+
+- Fake players that simulate opponents
+
+- Custom controller menu
+
+- Clean chat during match startup
+
+- Improved survival effects during the countdown
+
+- Manual match cancel/end system
+
+- English and Portuguese support
+
+Gameplay
+
+Use the Sky Drop controller to start or manage a match. Players are prepared during the countdown with temporary effects, then the battle begins. Explore the map, find loot, survive encounters, and eliminate opponents until only one player remains.
+
+The add-on is designed for players who want a Battle Royale-style minigame directly inside Minecraft Bedrock, without needing external servers or complicated setup.
+
+Current Version
+
+Sky Drop v1.2.3
+
+This version includes updated menu icons, improved match flow, cleaner countdown chat behavior, profile quit tracking, and updated in-game guides in both English and Portuguese.
+
+Notes
+
+Sky Drop is still being improved over time with balance changes, fixes, and new features. Feedback is welcome to help make the add-on even better.

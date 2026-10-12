@@ -1,0 +1,143 @@
+A historical war addon which takes place in late 15th Century Europe. Join nations, raise armies, fight wars...
+
+This addon aims to provide users a glimpse of what armies would look like in the 1470s...
+
+Grab your weapon, don your armour, and rally up your men to fight!
+
+Although research was done, this addon is far from being 100% historicaly accurate due to considerations on gameplay and lack of knowledge to implement such features...
+
+This addon may not be 100% survival friendly, as some recipes might be available in the base addon...
+
+It is still highly recomended to play with "TheEpicKnightsMod" and "EpicKnightsPlus" installed in order for the addon to work 100% in survival, you can download them through MCPEDL or Curseforge...
+
+Epic Knights Mod Download Link
+
+Epic Knights Plus Download Link
+
+FEATURES:
+
+Currently has 4 playable nations, "Kingdom of England", "Kingdom of France", "Kingdom of Spain", & "Kingdom of Portugal", more are planned to come...
+
+To join any nation, you must become a citezen. You can do this by putting the "Accept Oath" in the offhand... Though take note, you are 'joining' a nation, it does not grand you any special abilities, they will not fight for you, you will just be a soldier... Joining a nation will make you allied with the nation, but beware as now enemies of the nation you joined will now attack you...
+
+You can leave the nation by holding the "Refuse Oath" in the offhand. This makes you neutral to all nations again, but beware as you will be marked a traitor to the nation you leave, proceed with caution...
+
+Soliers are bought through the "Army Table", reffer to instructions below...
+
+Adds 7 Types of Soldiers: Archer, Pikemen, Billmen, Footsoldier, Knight, Cavalry & Standard Bearer... Each having their own stats and abilities, they can also be recruited. Reffer to the info given below...
+
+Soldiers can be led using their nation's flag...
+
+You can spawn Citizens using the Settlement Table, reffer to info given below...
+
+INFORMATION:
+
+SOLDIERS:
+
+Archer:
+
+Health: 20 base / 30 recruited
+
+Armour: Very Low
+
+Weapon: Bow
+
+Range: Very High, 24 blocks
+
+Price: 10 coin / recruit: 10 coin
+
+Special Abilities: Can shoot arrows, will not damage same team...
+
+Pikeman:
+
+Health: 30 base / 35 recruited
+
+Armour: Low
+
+Weapon: Pike
+
+Range: High, 7.5 Blocks
+
+Price: 10 coin / recruit: 50 coin
+
+Special Abilities: Will stop and hold ground once soldiers get near, can hit from a very far distance and fast attack speed, but low damage...
+
+Billman
+
+Health: 30 base / 40 Recruited
+
+Armour: Medium
+
+Weapon: Billhook, Halberd
+
+Range: Medium, 6.5 Blocks
+
+Price: 50 coin / recruit: 50 coin
+
+Special Abilities: Can Block, High damage with Medium attack range...
+
+Footsoldier
+
+Health: 30 base / 40 Recruited
+
+Armour: Medium - High
+
+Weapon: Arming Swords, Maces, Hammers
+
+Range: Medium, 5.0 blocks
+
+Price: 50 coin / recruit: 50 coin
+
+Special Abilities: Can Block, Low damage and attack range, but fast attack speed and good deffense...
+
+Knights
+
+Health: 55 / 65 Recruited
+
+Armour: High
+
+Weapon: Pollax
+
+Range: High , 6 blocks
+
+Price: 100 coin / recruit: 500 coin
+
+Special Abilities: Can Block, High knockback resistance, High damage and Medium range, but slower attack speed and delayed...
+
+Cavalry
+
+Health: 55 / 65 Recruited
+
+Armour: High
+
+Weapon: Lance
+
+Range: Low, 2 blocks / Area Dmg: 3 blocks
+
+Price: 500 coin / recruit: 500 coin
+
+Special Abilities: Low melee attack range and attack speed, but can deal great. damage to nearby enemies within 3 block radius upon impact, also has High knockback resistance...
+
+Standard Bearer
+
+Health: 55 / 65 Recruited
+
+Armour: High
+
+Weapon: Noble Arming Sword
+
+Range: Medium, 5.0 blocks
+
+Price: 100coin / recruit: 500 coin
+
+Special Abilities: Can block, Low damage and attack range, but fast attack speed and good deffense, Can lead nearby soldiers and gives resistance to nearby allies...
+
+ARMY TABLE:
+
+Right Click with any playable nation's flag
+
+Enter the trade menu
+
+Buy Soldiers
+
+Note that you need to upgrade the a

@@ -1,0 +1,65 @@
+Wheel of Creation: Combat Update
+
+Tired of Minecraft combat boiling down to "whoever has the best armor wins"? It's time to change the rules!
+
+Combat Update completely reinvents combat in Bedrock Edition. Now, every material has a strategic purpose in your inventory. Gold annihilates the undead, iron destroys skeletons, and a patient archer can pierce diamond armor. Gear up and think before you strike!
+
+Core Features
+
+- Tactical Quiver & Special Arrows: Store and quickly swap between 4 types of arrows mid-combat.
+
+- Damage Specialization: Every weapon material is highly lethal against a specific enemy type (and weak against others!).
+
+- Dynamic Spawning: Monsters can now spawn as "Tank" or "Agile" variants.
+
+Unique Armor & Piercing: Armors now resist specific damage types (Gold = Magic, Obsidion = Explosions). Beware, arrows now pierce through armor!
+
+Training System: Fight with wooden weapons! Every hit trains you, raising your critical strike chance up to a massive 65%.
+
+Hidden Boss & New Materials: Forge legendary Obsidion and Mythril Bronze gear, or summon the fearsome "Johnny" to claim the devastating Berserker Totem.
+
+Discover all mechanics, crafting recipes, and full details in the Official Documentation!
+https://github.com/HormigaDev/woc-combat-update
+
+Wheel of Creation: Combat Update (Espanol)
+
+Cansado de que en Minecraft el combate se resuma en "quien tiene mejor armadura gana"? Es hora de cambiar las reglas!
+
+Combat Update reinventa por completo el combate en Bedrock Edition. Ahora, cada material tiene un proposito estrategico en tu inventario. El oro aniquila a los no-muertos, el hierro destroza a los esqueletos y un arquero paciente puede perforar armaduras de diamante. Preparate y piensa antes de atacar!
+
+Caracteristicas Principales
+
+- Carcaj Tactico y Flechas Especiales: Almacena y cambia rapidamente entre 4 tipos de flechas en pleno combate.
+
+- Especializacion de Dano: Cada material de arma es letal contra un tipo de enemigo especifico (y debil contra otros!).
+
+- Spawns Dinamicos: Los monstruos ahora pueden aparecer en variantes "Tanque" o "Agiles".
+
+Armaduras Unicas y Perforacion: Las armaduras ahora resisten danos especificos (Oro = Magia, Obsidion = Explosiones). Ten cuidado, las flechas ahora perforan la armadura!
+
+Sistema de Entrenamiento: Usa armas de madera! Cada golpe te entrena para subir tu probabilidad de golpe critico hasta un 65%.
+
+Jefe Oculto y Nuevos Materiales: Forja equipos legendarios de Obsidion y Bronce de Mitrilo, o invoca al temible "Johnny" para reclamar el devastador Totem del Berserker.
+
+Descubre todas las mecanicas, recetas de crafteo y detalles en la Documentacion Oficial!
+https://github.com/HormigaDev/woc-combat-update
+
+Wheel of Creation: Combat Update (Portugues)
+
+Cansado de que o combate no Minecraft se resuma a "quem tem a melhor armadura ganha"? Chegou a hora de mudar as regras!
+
+O Combat Update reinventa completamente o combate na Bedrock Edition. Agora, cada material tem um proposito estrategico no seu inventario. O ouro aniquila os mortos-vivos, o ferro destroi os esqueletos e um arqueiro paciente pode perfurar armaduras de diamante. Prepare-se e pense antes de atacar!
+
+Caracteristicas Principais
+
+- Aljava Tatica e Flechas Especiais: Armazene e alterne rapidamente entre 4 tipos de flechas no meio do combate.
+
+- Especializacao de Dano: Cada material de arma e letal contra um tipo especifico de inimigo (e fraco contra outros!).
+
+- Spawn Dinamico: Os monstros agora podem aparecer nas variantes "Tank" ou "Agil".
+
+Armaduras Unicas e Perfuracao: As armaduras agora resistem a danos especificos (Ouro = Magia, Obsidion = Explosoes). Cuidado, as flechas agora perfuram a armadura!
+
+Sistema de Treinamento: Lute com armas de madeira! Cada golpe te treina para aumentar a sua chance de acerto critico ate impressionantes 65%.
+
+Chefe Oculto e Novos Materiais: Forje equipamentos lendarios de Obsidion e Bronze de Mithril, ou invoque o temivel "Johnny" para conquistar o devastador Totem do Berser

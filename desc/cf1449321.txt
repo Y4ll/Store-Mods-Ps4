@@ -1,0 +1,73 @@
+Vein Miner Pro Addon Smart Ore Mining System for Minecraft Bedrock 1.21+
+
+Vein Miner Pro Addon is a survival focused Minecraft Bedrock mining addon that allows players to mine entire ore veins at once instead of breaking blocks one by one. By sneaking and mining a single ore block with the correct tool, all connected ores of the same type are automatically detected and mined in a controlled and balanced way. It is designed to save time, reduce repetitive mining, and keep gameplay fair through durability limits and block caps.
+
+If you are looking for a Minecraft Bedrock vein miner addon, ore chain mining mod, fast mining system, or survival ore breaker addon, this addon is built to deliver powerful mining while remaining fully compatible with survival gameplay and SMP servers.
+
+What This Vein Miner Addon Does
+When a player breaks an ore block while sneaking, the addon scans all connected blocks of the same ore type.
+Up to a defined maximum number of blocks are collected in one operation.
+Mining only activates when using a proper tool to prevent abuse.
+The system works with natural ore clusters and respects block loading and world safety.
+
+Supported Ores
+Works with all standard Minecraft ores and special blocks including coal ore, iron ore, gold ore, diamond ore, emerald ore, redstone ore, lapis lazuli ore, copper ore, ancient debris, nether quartz, raw ore blocks, gilded blackstone, amethyst clusters, and lit redstone variants.
+Designed to work across Overworld and Nether mining.
+
+Magnetic Drops System
+All items and XP orbs from mined ores are automatically pulled toward the player.
+Prevents loot from falling into lava or deep caves.
+Makes mining faster and safer without changing drop behavior.
+Improves quality of life while keeping natural drops intact.
+
+Tool Durability Protection
+The addon checks remaining tool durability before mining.
+It limits how many blocks can be mined based on tool condition.
+Prevents tools from breaking unexpectedly.
+Warns the player if durability is too low to vein mine safely.
+
+Visual and Audio Feedback
+Action bar messages show how many blocks were vein mined.
+Block names are displayed clearly after each chain mine.
+Satisfying sound effects play when vein mining succeeds.
+The feedback feels responsive and rewarding.
+
+Performance Optimized and Server Safe
+Uses smart scanning logic instead of random block breaking.
+Only nearby connected blocks are scanned.
+No chunk corruption or block duplication.
+No heavy loops or world edits.
+Safe for SMP servers and Realms.
+
+How to Use
+Hold a pickaxe or proper mining tool.
+Sneak and mine an ore block.
+All connected ores of the same type are mined automatically.
+Collect the teleported drops and continue mining.
+Repair or replace your tool when durability runs low.
+
+Best For
+Survival worlds
+Mining focused gameplay
+SMP and Realm servers
+Skyblock and resource worlds
+Vanilla plus gameplay
+Quality of life focused packs
+
+Compatibility
+Minecraft Bedrock Edition
+need beta api
+Script based addon
+No texture or resource pack required
+Works in singleplayer and multiplayer
+
+SEO Keywords Hidden but Powerful
+Minecraft Bedrock vein miner addon, ore vein mining mod, fast mining Bedrock, chain mining addon, survival mining utility, automatic ore mining Minecraft Bedrock, magnetic drops mining mod, SMP mining addon, realm compatible mining mod, Bedrock Edition script addon, Minecraft 1.21 vein miner, ancient debris vein miner, diamond ore mining addon, nether quartz vein miner, no cheat mining addon, vanilla plus mining mod, smart mining system, XP magnet mining addon
+
+Why Choose Vein Miner Pro Addon
+Mines entire ore veins instantly
+Magnetic item and XP collection
+Durability safe and survival balanced
+Supports all major ores
+Optimized and server safe
+Designed for real survival gameplay without cheats

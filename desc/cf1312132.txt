@@ -1,0 +1,95 @@
+Discord for bug support, suggestions, development : Colony Hub
+
+Jerry's Colonies is an addon that adds player-managed colonies to the game. We have an official Server you can play here!
+
+Features :
+
+Flags & Tables
+
+| Flags :
+
+To begin your history, craft a flag using six wool and a stick, then place it on a fence. You can customize it with an emblem, a background and a border !
+
+Your first territory is created ! You can now place the Mayor's Table to start your adventure.
+
+| Tables :
+
+Mayor's Table : The mayor's table is the central management block of your colony ! It provides access to many functions, find some below :
+
+- Home : View your citizen's mood, and your acual stage and level.
+
+- Colony Info : send a chat containing infos about your colony. Only you can see this.
+
+- Customize Flag : To change the style of your flag.
+
+- View Flags : Change your cities' names, turn one into your Capital or Teleport to an other flag.
+
+- Manage Members : Invite players, Purchase Citizens, and Manage Population. You can also use this menu to assign player permissions (ranks).
+
+- Diplomacy : Set relationships with other colonies, alliances and declare wars.
+
+- Rename / Delete your colony : Change your colony's display name or permanty delete your colony.
+
+- Transfer Ownership : Pass the crown to someone and give it full rights of your colony.
+
+- Banquets : Organize feasts to increase your citizen's mood.
+
+Taxation Table : The Taxation Table enables you to collect periodically taxes from players in your colony. This provides a steady income stream that can be used for colony development, purchasing citizens, and buying blueprints. You can also set emeralds taxes to your npc citizens, once unlocked in the research station. But if amounts are too bigs, their mood will go down !
+
+Leveling & Stages
+
+| Stages :
+
+Your colony progress through 3 major stages :
+
+- Colony : Lvl 1 - 10, Basic housing and functions.
+
+- City : Lvl 11 - 20, Unlock the Marketplace and the possibility to expand the colony with flags.
+
+- Kingdom : Lvl 21 - 30, Unlock the Wars, and the all features.
+
+| Leveling :
+
+Every colony earn Experience Points (XP) by completing actions. As your colony accumulates XP it levels up, unlocking more citizens, structures and features. The maximum level is 30.
+
+Gaining XP : Find below some ways to gain xp !
+
+- Feed a citizen
+
+- Claim a citizen
+
+- Recruit a knight
+
+- Place a flag
+
+- Complete a trade (marketplace)
+
+- Construct a Blue Print
+
+- Win a war/assault
+
+- Win an Arena tournament
+
+XP requirements grow by 15% per level ! Your Colony can't lose levels and xp.
+
+Citizens & Workstations
+
+| Citizens :
+
+Citizens are the heart of your colony, there are two kinds :
+
+- Players : Hire players and give them ranks to restrict what they can do.
+
+- Citizens : NPCs you can purshase for 10 emeralds (Mayor's Table), or find them in the world.
+
+Feeding : It's important to feed your citizens correctly. Indeed, citizens need food to stay alive and productive. If a colony runs out of accessible food, the mood will go down and citizens will eventually die of starving. Each citizen take one food point per day, so make sure to refill crates regulary !
+
+Heredity and Growing : Citizens can rarely have a child. The child inherited from parents (Statistics and family name), and go through 4 growing stages (baby, child, teen and adult).
+
+| Workstations :
+
+NPCs citizens can have jobs, and their personal statistics, these stats influence their production speed. Assign them jobs, and manage their production with the 9 Workstations :
+
+Production : Only the LoggerStation, MinerStation, FarmerStation and BreederStation can produce resources. For that, you have to put tools, assign workers, or manage a working area (Breeder and Framer)
+
+Storage Linker : This item enables you to choose any chest, and link it with a workstation ! all resources will be transfered to the chosen chest. You can also sort items to decide which types can go in which chest. Both features have to b

@@ -1,0 +1,27 @@
+All the information you need to use this Add-On is listed below!
+
+Requirements
+
+- The Education Edition slider (found in settings under cheats) must be turned on in order for this Add-On to work!
+
+How to use this Add-On
+
+- Look in the recipe book to find what you need to craft Spider-Man's mask! Wear it like a normal helmet to become Spider-Man. You are given two different items and a set of different animations:
+
+- The three different web items can be right-clicked to fire webs. The first one places a cobweb where a mob stands to "capture" them. The Web Pull item can be used to pull a mob towards you! Web Tornado is an area of effect attack.
+
+- When you are Spider-Man, you can
+
+- Climb walls,
+
+- Emit spider-sense particles when hostile mobs nearby,
+
+- "Swing". You control the swinging by flying as if you are in creative mode but the animation is changed so that it looks like you are swinging or hanging on a web. Here is a list of animations that are changed:
+
+- Flying - Hanging animation (upside down)
+
+- Sprinting while Flying - Swinging animation
+
+- Sneaking - Superhero landing pose
+
+- Sneaking while Falling - Falling animation (sneaking while you are falling to the ground makes you transition instantly from the falling animation to the superhero landing pose)

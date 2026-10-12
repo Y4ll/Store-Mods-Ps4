@@ -1,0 +1,11 @@
+This mod will allow you to unlock crafting recipes for uncraftable items and blocks in the game. There are 80+ new crafting recipes for items like Totem, Enchanted Golden Apple, saddle, elytra, dragon eggs, etc.
+
+RECIPES
+
+- Open crafting table menu and follow the steps. And then click on any item to see the recipes.
+
+- Some items need smelting in a furnace: 1. Rotten flesh > Leather 2. Gravel > Soul soil > Soul sand
+
+Do not forget to turn these on in world settings otherwise, the mod will not work.
+
+This mod does not use player.json, hence it is compatible with any other mods. Also if you find any bugs or have any suggestions join our discord server: LINK

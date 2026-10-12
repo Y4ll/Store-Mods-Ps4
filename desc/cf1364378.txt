@@ -1,0 +1,39 @@
+Windmills Decoration 1.1 Update
+
+Add a natural and animated touch to your Minecraft Bedrock world with the Windmills Decoration addon! This addon introduces windmill decorations that not only beautify your surroundings but also feature spinning animations, making them feel more alive.
+
+Key Features:
+
+- Spinning Animation: The windmill spins with a smooth animation, giving a dynamic and integrated feel within your environment.
+
+- Heightmap Textures for Vibrant Visuals: With a heightmap texture this windmill offers sharper, more engaging visuals, adding depth and detail to its design.
+
+- Easy to Craft: Simply use 4 white wool, 4 oak fences, and 1 oak log to craft this beautiful windmill, perfect for enhancing your house, village, or garden.
+
+- Immersive SFX: Equipped with realistic sounds when the windmill spins, adding to the authentic and lively atmosphere.
+
+- Windmills Decoration is not just a decoration; its an element that brings life and dynamism to your world. With a simple yet charming design, this addon enhances visual depth and creates a peaceful, countryside ambiance.
+
+Crafting Recipe Materials :
+
+- 4 White Wool
+
+- 4 Oak Fence
+
+- 1 Oak Log
+
+Please Read This!
+
+- Windmills can disappear: This is not bug, since the windmill is just entity, so it will disappear in a distance if you too far with windmills just like another entity or mob, and will be back if you close enought to it
+
+- How to break windmills: Interact the windmills with any axes, Interact! not attack (use place block button or RMB if you on windows
+
+- How to spin windmills : Interact windmill once you placed it, make sure to aim on the center of windmills
+
+- How to change colors : Same as how to spin, but you have to sneak
+
+Bring fresh air to your Minecraft world with Windmills Decoration. Let your world spin with life!
+
+1.1 Update :
+
+- Remastered models, animations and mechanics

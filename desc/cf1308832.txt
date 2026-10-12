@@ -1,0 +1,61 @@
+This world edit addon helps players in creative mode when building projects of any size. The addon utilizes the wooden axe to allow players to do what would normally be a hard task of finding coordinates and running commands, by just doing a much simpler set of steps.
+
+The addon allows players to use the wooden axe in creative mode to easily complete a task. To start off, the player must break a block with the wooden axe to set their first position. Next, they must break another block while crouching to set their second position. These two positions together will be used to create a "box" this invisible box is a rectangular prism with the opposite corners being at the two positions. These two positions will not be changed unless the player uses the axe to do so.
+
+Once the player has selected two positions, they may run any of the following short commands to modify the blocks in the selection to their desire. Note: the player must have operator commands enabled.
+
+/set
+
+The /set command can be used to fill the selection with a specific type of block. The full syntax is /set <block>
+
+/replace
+
+Similar to the /set command, the /replace command can be used to fill the selection with a specific block, however only replacing a specific block type. The full syntax is /replace <old block> <new block>
+
+/keep
+
+The /keep command is very similar to the /set command exept it is used to replace all blocks but one specific type. The full syntax is /keep <keep block> <new block>
+
+/center
+
+The /center command is useful when a player wishes to find the center of their selection. The player can run the /center command to place a block in the exact center of the selection. If the center is two blocks, it will place two. The full syntax is /center <block type>
+
+/walls
+
+The /walls command can be useful when the player wishes to create walls in their selection. This command will build walls in the selection on the sides. The full syntax is /walls <block type>
+
+/box
+
+Similar to the /walls command, the /box command will place walls in the selection. However, it will also place a floor and a roof. The full syntax is /box <block type>
+
+/floor
+
+Similar to the /walls fommand, the /floor command will place blocks at the lowest y value in the selectiom. The full syntax is /floor <block type>
+
+/roof
+
+Similar to the /walls fommand, the /roof command will place blocks at the highest y value in the selectiom. The full syntax is /roof <block type>
+
+/drain
+
+The /drain command can be used to remove liquids from a selection. It will remove lava and water. The full syntax is /drain
+
+/itemlist
+
+The /itemlist command can be used to create a list of all the items in container blocks inside the selection. It will provide you with a list that you can copy to your clipboard. To do this on pc, click on the text box, press Ctrl + A, and then press Ctrl + C. This cannot be copied on all devices. The full syntax is /itemlist
+
+/blocklist
+
+The /blocklist command can be used to create a list of all the blocks inside the selection. It will provide you with a list that you can copy to your clipboard. To do this on pc, click on the text box, press Ctrl + A, and then press Ctrl + C. This cannot be copied on all devices. The full syntax is /blocklist
+
+/entitymove
+
+The /entitymove command can be used to force entities to pathfind to a particular position - either the first position or second position (set with axe). It is not incredibly reliable, and as of now, will only move entities in a strait line. The full syntax is /entitymove <entities> [position type: first | second]
+
+/entitystop
+
+The /entitystop command is intended to be used with the /entitymove command. It stops the current movements on entities. The full syntax is /entitystop <entities>
+
+/color
+
+The /color command can be used to change the color of any "colorizeable" blocks in the selection. Blocks considered "colorizeable" are carpets, glass panes, glass, wool, concrete powder, concrete, glazed terracotta, terracotta, and 

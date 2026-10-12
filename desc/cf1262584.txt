@@ -1,0 +1,311 @@
+Furniture - Block Decor
+
+97 blocks 9 clay types 107 recipes
+
+What's New in This Update
+
+100,000 Downloads Special
+
+Thank you for 100,000 downloads on CurseForge! This is the biggest update the pack has ever had, and most of it is things it simply did not have before.
+
+- Furniture 81 97
+
+- Clay types 6 9
+
+- Items 6 43
+
+- In-game guide book 11 pages, 3 languages
+
+- Its own screens Clay Wheel, chest and guide
+
+A Guide Book You Can Hold
+
+No more guessing. 11 pages: the wheel, the wrench, painting, the woods, the multiblocks, storage, cooking, sitting, the lights, the TV, the pets and what every glyph means with pictures, not walls of text.
+
+Three Brand New Sections
+
+- Plants 5 pieces, with its own clay
+
+- Office 9 pieces, with its own clay
+
+- Outdoor 6 pieces, with its own clay
+
+The Clay Wheel Got Its Own Screen
+
+A real interface, with the clay in its own slot and the 33 grid beside it.
+
+Food & Drinks Have Their Own Tab
+
+The cups, glasses and toast are no longer scattered among vanilla's food.
+
+All of it comes through the same Clay Wheel you already know.
+
+How to Get It in Survival
+
+Everything is unlocked with the Clay Wheel. Three steps:
+
+1 Craft the Clay Wheel
+
+Recipe:
+
+2 Put a themed clay in its slot, and the materials in the 33 grid.
+
+3 Pick a section. There are 9 themed clays, all made from plain clay.
+
+- Bathclay 10 recipes
+
+- Kitchen clay 22 recipes
+
+- Bedroom clay 13 recipes
+
+- Plants clay 5 recipes
+
+- Living room clay 19 recipes
+
+- Cleaning clay 7 recipes
+
+- Pets clay 7 recipes
+
+- Office clay 9 recipes
+
+- Outdoor clay 6 recipes
+
+What can this block do?
+
+Every piece repaints. Same kitchen, 16 colours and 12 woods:
+
+Glyph System Understanding Block Properties
+
+Each block name includes glyphs for its properties, features and sizes.
+
+All glyphs:
+
+- you can sit on it (4)
+
+- 16 colours (36)
+
+- shape variations (37)
+
+- turns on and off (25)
+
+- links by channel (11)
+
+- holds water (2)
+
+- holds milk (2)
+
+- holds food (1)
+
+- 12 wood types (24)
+
+- stores items (16)
+
+- joins with its neighbours (10)
+
+- multiblock, size written in the name (21): 1x1x2, 1x2x1, 2x1x1, 2x2x1, 2x2x2, 2x3x1, 3x1x1, 3x2x1
+
+Kitchen
+
+- Blender
+
+- Chair [, , , ]
+
+- Coffee maker []
+
+- Cookie jar
+
+- Cup [, , ]
+
+- Cutting board []
+
+- Dish [, ]
+
+- Extractor hood []
+
+- Fridge [][1x2x1]
+
+- Glass [, ]
+
+- Kitchen block [, , , ]
+
+- Kitchen cabinet [, , , , ]
+
+- Knife holder []
+
+- Large fridge [][2x2x1]
+
+- Microwave []
+
+- Pan
+
+- Pot
+
+- Sink [, , ]
+
+- Stove [, ]
+
+- Table [, , ]
+
+- Toaster []
+
+- Utensils [, ]
+
+Bathroom
+
+- Bathroom cabinet []
+
+- Bathroom sink [, ]
+
+- Bathtub [, ][1x1x2]
+
+- Plunger
+
+- Shower [, ]
+
+- Shower knobs [, ]
+
+- Soapdish
+
+- Toilet []
+
+- Toilet paper
+
+- Towel []
+
+Cleaning
+
+- Auxiliary sink []
+
+- Clothesline [3x2x1]
+
+- Dish rack
+
+- Floor cleaning [1x2x1]
+
+- Ironing board [2x1x1]
+
+- Trash can [, ]
+
+- Washing machine
+
+Bedroom
+
+- Alarm clock [, ]
+
+- Bedroom lamp [, , ]
+
+- Bedroom vanity [, , , ][3x2x1]
+
+- Clock []
+
+- Floor mirror [, ][1x2x1]
+
+- Light bulb [, ]
+
+- Light switch [, ]
+
+- Night stand [, , ]
+
+- Wall mirror []
+
+- Wardrobe [, ][2x3x1]
+
+Living Room
+
+- Big tv [][3x2x1]
+
+- Bookcase [, , ]
+
+- Bunting [, , ]
+
+- Ceiling fan [, ]
+
+- Chandelier [, , ][2x2x2]
+
+- Chimney top [, , ]
+
+- Cobweb []
+
+- Coffee table [, ]
+
+- Fireplace [, , ][3x2x1]
+
+- Floating shelf [, ]
+
+- Floor lamp [, , , ][1x2x1]
+
+- LED strip [, , , , ]
+
+- Old tv [, ]
+
+- Pendant lamp [, , , ]
+
+- Sofa [, , ]
+
+- String lights [, , , , ]
+
+- Table frame []
+
+- Tv []
+
+- Tv stand [, , , ]
+
+- Video game console
+
+- Wall frame []
+
+Pets
+
+- Bird cage [1x2x1]
+
+- Cat tree [][2x2x1]
+
+- Dog house [, ][2x2x2]
+
+- Fish tank [2x1x1]
+
+- Litter box []
+
+- Pet bed []
+
+- Pet bowls [, ]
+
+Plants
+
+- Hanging plant [, ]
+
+- Potted plant [, ]
+
+- Tall plant [, ][1x2x1]
+
+- Vine [, ]
+
+- Wall planter [, ]
+
+Office
+
+- Bedroom desk [, , ][2x1x1]
+
+- Bedroom desk [, , ][3x1x1]
+
+- Books []
+
+- Calendar []
+
+- Chalkboard []
+
+- Clipboard []
+
+- Desk lamp [, , ]
+
+- Globe [, ]
+
+- Telephone []
+
+Outdoor
+
+- Doorbell []
+
+- Doormat []
+
+- Garden

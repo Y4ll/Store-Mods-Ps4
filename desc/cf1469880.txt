@@ -1,0 +1,9 @@
+ZEU7 Shader (Zephyr)
+This shader makes your world look more energetic and gives a warm yet magical atmosphere at different times of the day. It provides a balance between the warmth of the sun and electric fog during transitions. The water looks crystal clear but also energetic. If you like a lightning theme, then you should download this shader.
+
+turn on vibrant visual to activate this shader.
+
+credits: block_craft_addons
+
+REQUEST ADDON ON DISCORD
+(See the in-game screenshots below)

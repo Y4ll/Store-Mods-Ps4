@@ -1,0 +1,29 @@
+Simple Waypoint System
+
+A super light weight, super simple waypoints system. Save locations you've been, teleport back to them later! Yes, it's honestly so simple I haven't much more to say about it. I made one of these a couple of years ago as part of a larger unreleased project, so I thought I'd try my hand at it again in a sprint.
+
+Gamemodes:
+
+Good for Survival: The "Waypearl" item can be crafted using obsidian, ender pearls, and a compass.* The Waypearl gives you access to the whole simple waypoints system. The fastest form of travel in the game.
+
+Good for Creative: The simple waypoints system can be accessed via the /waypoints command (or the aliases /waypoint and /wp), if you have cheats enabled on the world. No more flying to and from your impressive builds.
+
+* Screenshot of the recipe included, although the game will guide you as the recipe will be unlocked if you obtain any of the three items required.
+
+Licensing
+
+All rights reserved unless otherwise explicitly stated. I, the developer and publisher of this software, am not liable in any way for any harm or damage caused to any person or property resulting from the use of this software.
+Below is a brief illustration of permissions granted to you.
+
+As an individual acquiring a copy of this software, you may:
+
+- Download a copy of this software for use in your Minecraft worlds or multiplayer instances (including non-commercial realms and servers).
+
+You must NOT:
+
+- Redistribute any copies of this software, or derivative works, by any means, regardless of commercial or non-commercial intents and purposes.
+
+- Sell, license, or otherwise make available this software to others.
+
+If you wish to organize a special license grant to you or your organization, you may contact me via email:
+caracal [at] caracal.bio

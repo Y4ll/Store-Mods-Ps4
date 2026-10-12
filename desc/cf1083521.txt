@@ -1,0 +1,5 @@
+This texture pack makes all grass and nylium variants connect, resembling the look of the fast connected grass from OptiFine. You can use most texture packs (the ones that only modify textures)
+
+It also changes the water aspect, by making it more transparent and giving it a clean look (also modifies bucket textures!)
+
+However, if you want only the connected grass (or the clear water), you can use subpacks to change this.

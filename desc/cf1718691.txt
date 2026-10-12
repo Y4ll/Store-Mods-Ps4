@@ -1,0 +1,215 @@
+Kaleidoscope Tavern (Unoffical)
+
+Requires Minecraft Version 26.3+
+
+Port Permission
+
+This add-on is an unofficial Bedrock port of the Java Edition mod Kaleidoscope Tavern, created by the Kaleidoscope Official Production Team and published on CurseForge by TartaricAcid.
+
+Special thanks to the original Java developers for creating Kaleidoscope Tavern and making the project available for others to build upon.
+
+The Java project uses a dual-license structure: BSD 3-Clause for source code and CC BY-NC-SA 4.0 for resource files. The source-code license permits modification and redistribution under its terms, while the resource license permits sharing and adapting the licensed assets so long as the attribution, non-commercial, and share-alike requirements are followed. That licensing is what allows this Bedrock port to adapt the original Java mod while preserving credit to the original creators.
+
+Kaleidoscope Tavern adds an extensive tavern and brewing system to Minecraft, including grape cultivation, fruit pressing, barrel brewing and aging, cocktail mixing, drink quality levels, bar equipment, furniture, storage, lighting, paintings, incense, and other decorative content.
+
+Grow several types of grapes on Trellises, crush fruit in the Pressing Tub, combine ingredients and liquids inside Barrels, age drinks through multiple quality levels, attach a Tap to finished barrels, and use the Shaker to prepare cocktails.
+
+The Bedrock port also expands on the original systems with a dedicated in-game guidebook, Bedrock-friendly interaction systems, placeable drinks, configurable gameplay settings, and an open extension API so future Tavern add-ons can add new recipes, drinks, fluids, effects, ingredients, and other content without replacing Tavern files.
+
+For information about brewing, grape growing, cocktail recipes, drink effects, machines, storage, furniture, decorations, and gameplay settings, check the Kaleidoscope Tavern Guidebook in-game.
+
+NO REQUIRED DEPENDENCIES
+
+Kaleidoscope Tavern can be played as a standalone add-on.
+
+It is also designed so future Kaleidoscope add-ons and third-party expansions can register additional Tavern content without hardcoding those add-ons into the base pack.
+
+Guidebook:
+
+The Kaleidoscope Tavern Guidebook is it's own item which teaches you how to use the add-ons mechanics. It is available in all languges Minecraft Bedrock natively supports.
+
+All the new blocks and items:
+
+Click spoiler below to see a list of all foods and blocks added:
+
+All the new blocks and items:
+
+Brewing Equipment
+
+- Barrel
+
+- Pressing Tub
+
+- Shaker
+
+- Tap
+
+Grapes & Cultivation
+
+- Grapevine
+
+- Trellis
+
+- Grape
+
+- Green Grape
+
+- Ice Grape
+
+- Gold Grape
+
+- Grape Bucket
+
+- Green Grape Bucket
+
+- Ice Grape Bucket
+
+- Gold Grape Bucket
+
+- Sweet Berries Bucket
+
+- Glow Berries Bucket
+
+Wines, Spirits & Other Brewed Drinks
+
+- Wine
+
+- Champagne
+
+- Vodka
+
+- Brandy
+
+- Whiskey
+
+- Rum
+
+- Sherry
+
+- Carignan
+
+- Sakura Wine
+
+- Plum Wine
+
+- Ice Wine
+
+- Honey Wine
+
+- Sweet Berry Wine
+
+- Vinegar
+
+- Glowflower Brew
+
+- Riesling Dry White
+
+- Sauvignon Blanc Dry White
+
+- Polaris Sweet White
+
+- Red Queen
+
+- Miner's Star
+
+- Mother Snow
+
+- Madame Shexiang
+
+- Luminous Bride
+
+- Sunset Glow
+
+- Watermelon Juice
+
+Brewed drinks can exist at multiple quality levels as they age in a Barrel.
+
+Cocktails
+
+- Allium Garden
+
+- Bloody Mary
+
+- Brass Heart
+
+- Depth Charge
+
+- Emerald
+
+- Godfather
+
+- Grasshopper
+
+- Mojito
+
+- Nether Special
+
+- Screwdriver
+
+- Sculk Special
+
+- White Lady
+
+- Signature Cocktail
+
+- Mystery Cocktail
+
+Bottles & Barware
+
+- Empty Bottle
+
+- Empty Glassware
+
+- Honey Bottle
+
+- Dragon Breath Bottle
+
+- Molotov Cocktail
+
+Storage & Display
+
+- Bar Cabinet
+
+- Glass Bar Cabinet
+
+- Cellar Cabinet
+
+- Bottle Holder
+
+- Glassware Holder
+
+- Circular Rack
+
+- Tilted Rack
+
+Furniture
+
+- Bar Counter
+
+- Table
+
+- Stepladder
+
+Sofas
+
+- White Sofa
+
+- Orange Sofa
+
+- Magenta Sofa
+
+- Light Blue Sofa
+
+- Yellow Sofa
+
+- Lime Sofa
+
+- Pink Sofa
+
+- Gray Sofa
+
+- Light Gray Sofa
+
+- Cyan Sofa
+
+- P

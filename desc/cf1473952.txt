@@ -1,0 +1,37 @@
+Siren Head: The Alternate Alarms
+
+Turn on Experimental (Beta APIs)
+
+Siren Head addon that introduces a terrifying mob. It stalks players in Survival.
+
+Features:
+
+- Health: 8000
+
+- Damage: 6 (But there are reports that its damage is far more devastating than that)
+
+- The speed is very fast, faster than the player
+
+- Makes very loud noises when it has a target
+
+- It can continuously combine wide-area attack skills.
+
+- It can break many types of blocks
+
+- Spawns in the Overworld
+
+Credits:
+
+Siren Head - Trevor Henderson
+
+Updated by megagatus
+
+ExonarithMC
+
+Kyrie Guinto
+
+Kyrie Guinto 3
+
+This add-on is an updated version of the add-on of the same name by Kyrie Guinto
+
+Thumbnails from Kyrie guinto

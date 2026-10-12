@@ -1,0 +1,91 @@
+Auto Smelt Pickaxe
+
+Auto Smelt Pickaxe adds the Smelter's Pickaxe, a survival-friendly tool that smelts supported blocks the moment you mine them. Blocks without a smelting rule are mined normally.
+
+Features
+
+Smelts supported blocks immediately while the Smelter's Pickaxe is being used
+Preserves the amount produced by Fortune
+Handles both normal and Silk Touch ore drops
+Includes **Efficiency II** and **Unbreaking I** when first obtained
+Uses iron-tier durability, can be repaired with iron ingots, and mines slightly faster than a normal iron pickaxe
+Lets admins enable or disable entire smelting categories
+Includes optional flame particles and a fizz sound, which can be disabled
+Supports custom block-to-item smelting rules through an in-game menu
+Saves all settings and custom rules to the world
+
+Built-In Smelting
+
+| Block mined --> Result |
+
+| Iron Ore / Deepslate Iron Ore --> Iron Ingot |
+
+| Gold Ore / Deepslate Gold Ore --> Gold Ingot |
+
+| Copper Ore / Deepslate Copper Ore --> Copper Ingot |
+
+| Ancient Debris --> Netherite Scrap |
+
+| Stone / Cobblestone --> Stone |
+
+| Deepslate / Cobbled Deepslate --> Deepslate |
+
+| Sand / Red Sand --> Glass |
+
+| Clay --> Bricks |
+
+| Netherrack --> Nether Brick |
+
+Iron, gold, copper, ancient debris, stone-family blocks, and miscellaneous blocks can each be toggled separately.
+
+Crafting Recipe:
+
+Craft the pickaxe at a crafting table:
+
+The recipe unlocks after collecting Raw Iron.
+
+In-Game Configuration
+
+The configuration menu is available to players with the `admin` tag. As the world owner or an operator, run:
+
+/tag @s add admin
+
+/smelter:config
+
+From the menu, admins can:
+
+Toggle each built-in smelting category
+
+Toggle smelting particles and sounds
+
+Add a custom smelting rule using a block ID and output item ID
+
+Remove existing custom rules
+
+Custom rules override built-in rules for the same block. A custom rule replaces everything that block normally drops with the configured output, so choose the mapping deliberately.
+
+Installation
+
+1. Download the `.mcaddon` file.
+
+2. Open it with Minecraft to import the Behavior Pack and Resource Pack.
+
+3. Activate both Auto Smelt Pickaxe BP and Auto Smelt Pickaxe RP on a new or existing world.
+
+4. Join the world and craft the Smelter's Pickaxe.
+
+Compatibility
+
+Minecraft Bedrock Edition 1.21.80 or newer
+
+Works in single-player and multiplayer worlds
+
+No other add-ons are required
+
+Support
+
+Found a bug or have a suggestion? Join the Discord:
+
+discord.gg/bJm8SQEPh5
+
+Made by JediKEAnight134.

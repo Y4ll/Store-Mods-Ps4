@@ -1,0 +1,15 @@
+Voxen Health Indicator shows a live health bar above every mob and player in the game. Works on passive mobs like sheep, pigs and chickens, hostile mobs like the Warden, and everything in between including villagers, iron golems and players.
+
+Features
+
+- Live health display above every mob and player
+
+- Works on all mobs sheep, pig, chicken, villager, iron golem, Warden and more
+
+- Two subpacks included choose the style that fits you best
+
+Subpacks
+
+- Always Visible health indicator stays visible above every mob and player at all times
+
+- Only When Hit health indicator appears for 5 seconds only when a mob takes damage or gets hit by the player

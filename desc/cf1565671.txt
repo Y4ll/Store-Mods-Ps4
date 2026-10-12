@@ -1,0 +1,53 @@
+Creative Wand [Survival/Creative/Spectator Toggle]
+
+Tired of typing long, annoying commands to switch gamemodes or manage your multiplayer server? This addon gives you a simple, craftable magic wand to instantly toggle between Creative and Survival mode. No commands, no cheats, and no experimental toggles required.
+
+How to Use
+
+Simply Long-Press (Hold screen/Right-click) for 3 seconds with the wand equipped. A clean timer will appear, and your gamemode will switch instantly. That's it.
+
+To change another player's gamemode, simply Attack (Hit) them with the wand. It deals zero damage and switches their mode instantly!
+
+Crafting & Auto-Unlock
+
+Place 1 Log (any wood) and 2 Sticks diagonally in a crafting table. The recipe auto-unlocks the moment you pick up a stick in your world, so there's no confusion.
+
+Features
+
+- Instant toggle Hold screen for 3 seconds to switch anytime
+
+- Achievement-safe Does NOT disable achievements or (Works completely without cheats!)
+
+- No Experimental Features Runs entirely on stable APIs. Absolutely no experimental gameplay toggles needed
+
+- Multiplayer ready Hit other players to safely change their gamemode without hurting them
+
+- Clear feedback On-screen timer and sound confirms every toggle
+
+- Zero lag Lightweight script, optimized custom item, no large texture warnings
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.22+
+
+- Works on Android, iOS, Windows, Console
+
+- Compatible with other addons
+
+Installation
+
+- Download the .mcaddon file
+
+- Tap/double-click to auto-import into Minecraft
+
+- Apply both the Behavior Pack and Resource Pack to your world settings
+
+- Play - The wand is ready to craft and use immediately!
+
+Made by FleetMc. If you enjoy this addon, please share it!
+
+YouTubers & Reviewers Disclaimer
+
+Strict Copyright Notice: If you wish to review, showcase, or use this addon in your videos, you MUST use the official MCPEDL or Curseforge link provided on this page.
+
+Do NOT use any external link shorteners (like Linkvertise, AdFly, etc.) and do NOT host this file on your own MediaFire/Drive links. Any violation of these terms will result in an immediate copyright strike on your video.

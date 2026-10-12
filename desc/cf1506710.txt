@@ -1,0 +1,7 @@
+Objective
+
+1. Implement the hand size and view movement from the Java version.
+
+2. Fluctuating vision when walking and running.
+
+3. Adjustments when holding maps.

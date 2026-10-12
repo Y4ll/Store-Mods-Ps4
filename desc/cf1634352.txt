@@ -1,0 +1,61 @@
+Horizen Shader
+
+Horizen Shader is a lightweight Minecraft Bedrock shader focused on soft lighting, gentle sunlight, natural colors, beautiful skies, and a smooth visual atmosphere.
+
+The shader now includes three built-in quality presets, which can be selected directly in-game
+
+Default Balanced visual quality with soft lighting, natural colors, beautiful skies, and the main shader effects enabled.
+
+Day
+
+Morning sky
+
+Night sky
+
+Dawn
+
+Sunset
+
+Rain
+
+Water surface
+
+Underwater
+
+Lava
+
+The end
+
+Glow-in-the-dark ore
+
+Low Lightweight visuals and improved performance for low-end devices.
+
+High Enhanced visual quality with more detailed clouds, lighting, atmosphere, and visual effects for higher-end devices.
+
+Features
+
+Soft and gentle lighting
+
+Natural sunlight
+
+Improved cloud visuals
+
+Natural colors
+
+Beautiful skies and atmosphere
+
+Three quality presets: Low / Default / High
+
+Optimized for a wide range of devices
+
+Requirements
+
+Horizen Shader requires Minecraft Patch or an MB Loader-compatible launcher.
+
+Credits
+
+Created by Kinh Bac Vietnam
+
+Panorama/End sky by Mr Sangg (@leanhsang26th1) on TikTok
+
+Please respect the original creators and do not re-upload, redistribute, modify, or claim Horizen Shader or its assets as your own.

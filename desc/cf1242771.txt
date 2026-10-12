@@ -1,0 +1,30 @@
+About:
+
+This addon helps you build structures easily with just a few simple steps. It includes 257 ready-made structures to choose from such as castles, farms, underground houses, modern houses, Pokemon, villages, vehicles, and more! I also plan to add even more in future updates. One of the unique features of this addon (which you wont find in most others) is the ability to remove structures after placing them.
+
+Screenshots:
+
+How to Use: (It's a little hard to explain how to use it in words, but if you understand it, that's great. If not, you can watch the tutorial video below for a better understanding of how to use it.)
+
+Step 1: Type the following command in the chat box:
+/give @p structure_block
+(to get the structure block)
+
+Step 2: Use this command to view the list of structures:
+/function list1 (or use list2, list3, list4, or list5)
+
+Step 3: After running the command, youll get a list of structure names. Choose the one you want to build and note its coordinate. Note:
+
+- If the coordinate is 2, place two temporary blocks, then place the structure block on top.
+
+- If the coordinate is -2, dig two blocks down, then place the structure block.
+
+Step 4: Enter the structure name in the structure block.
+
+Step 5: Set the mode to Load.
+
+Step 6: Press the Load button to generate the structure.
+
+Turorial Video:
+
+Installation: Simply download the addon. Then, using ZArchiver or any file manager, tap on the downloaded file and press the arrow button it will open Minecraft and the addon will import automatically.

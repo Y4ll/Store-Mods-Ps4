@@ -1,0 +1,79 @@
+Subscribe to Mooshrooom!
+
+JOIN MY DISCORD COMMUNITY
+
+IMPORTANT NOTE:
+Both the lite and the full versions may not be compatible with other addons.
+If the addon does not work, it's probably some packs that you have enabled.
+
+What is this addon?
+
+The goal is simple: give Bedrock players the kind of map that Java players get from mods. It works on every device, from phones to PC, and in single player or multiplayer.
+
+Minimap: an in real time preview of your surroundings.
+
+World Map: open it with /ewm:map to see everything you have explored in one big picture.
+
+What's the main goal of the map?
+
+The addon is meant to be an EXPLORER map, the main focus is exploring and revealing your path and your world.
+
+It is built for CO-OP or Single Player,
+not for servers or fights.
+
+FEATURES
+
+X and Z axes are marked.
+Hold sneak to zoom the minimap in (you can turn this off in the settings).
+Type /ewm:map to open the full-screen map.
+Hold Jump + WASD / left stick to move around the map.
+Crouch to close it.
+You can choose its resolution in the settings.
+
+CUSTOM SETTINGS
+
+ADDON NOT WORKING?
+If the addon doesn't work for you, follow these steps:
+- Disable all the addons, try using ONLY this addon (both RP and BP).
+- Check if you have the right version of the pack installed.
+- If you are on FULL VERSION, check if you have BETA API enabled.
+- Load the world and see if the addon works.
+
+If it still doesn't work, you can ask for help in my DISCORD
+
+INGAME SCREENSHOTS
+
+MINIMAP
+
+Low scale
+
+High scale
+
+WORLD MAP
+
+Low Scale
+
+High scale
+
+SETTINGS AND COMMANDS
+
+/settings - change personal settings and world configuration.
+
+/map - opens the map (all the players share the same unlocked areas).
+
+/minimap <show / hide> - shows/hide minimap.
+
+/preset - quickly changes settings.
+
+/waypoint- opens waypoint menu.
+
+!!! READ THE DESCRIPTIONS !!!
+
+_**
+
+DISCLAIMER
+**_
+
+_**This addon is currently in an inactive phase so things might not work as expected, its not guaranteed that it will work stable.
+
+I will be back updating this later on.**_

@@ -1,0 +1,61 @@
+Arcane Magic Wand
+
+Channel elements and combine them to cast powerful combos or use direct spells to crush your enemies and help you in your adventure.
+
+How it works ?
+
+- Use your wand to channel magic and access spells and elements.
+
+- Cast instantly your direct spells and use them as many time as you want in your slots 2,4,6,8
+
+- Cast your elements once to launch their basic version
+
+- Use several elements in a while to combine them and cast a combo
+
+- Use the reset item to exit channeling and come back to your normal hotbar
+
+Direct Spells
+
+- Explosion : launch an explosion with a radius of 10 blocks
+
+- Teleportation : teleport yourself to the targeted block with a 128 blocks maximum range
+
+- Chain of lightning : strike the targeted entity with a lightning, then strikes two other mobs
+
+- Ice Wall : create an ice wall in front of you that stays in place for 10 seconds
+
+Elemental Basic Spells
+
+- Fire : cast an explosion with a radius of 1.5 blocks that sets mobs on fire
+
+- Water : cast a water jet in front of you that slows down and damages mobs
+
+- Earth : hit the targeted entity with a with a large, sharp stone stone that inflicts 8 points of damage
+
+- Air : cast a shockwave from the targeted block that pushes everything (including you) back and deals damage to mobs
+
+Combos
+
+- Fire + Fire : cast an explosion with a radius of 6 blocks that sets mobs on fire
+
+- Water + Water : cast a circle of water around you that heals you and other entities within a radius of 8 blocks
+
+- Earth + Earth : give you a level 3 resistance effect for the first 2 seconds, then a level 2 effect for 8 seconds
+
+- Air + Air : casts a shockwave 5 blocks wide and 30 blocks long that pushes back mobs and deals damage to them
+
+- Water + Earth : generate a shield with a 50 damage points capacity
+
+- Air + Fire : cast a fire tornado that blows mobs away and sets them on fire
+
+- Air + Water : cast a thunder storm that strikes mobs within a radius of 10 blocks
+
+- Air + Fire : cast a steam cloud to blind and slow your enemies while speeding you up
+
+- Earth + Fire : cast a meteor that inflicts 22 damage on impact and 5 damage around it
+
+- Air + Earth : cast 5 shards of earth that strike the target in turn, inflicting 8 damage
+
+Craft
+
+Please feel free to leave a comment to report any bugs or make any suggestions.

@@ -1,0 +1,143 @@
+Grappling Hook
+
+by CausalGuide
+
+Transform your Minecraft experience with a realistic, momentum-based grappling hook! Swing through caves, scale mountains, and traverse your world like never before with smooth physics and intuitive controls.
+
+What This Addon Adds
+
+The Grappling Hook Item
+
+A craftable grappling hook tool that lets you:
+
+- Shoot hooks at any surface to create instant anchor points
+
+- Swing naturally following realistic curved paths
+
+- Build momentum for faster, more dynamic movement
+
+- Land safely with built-in fall damage protection (5 Seconds Duration)
+
+How to Craft
+
+- This addon is in very early stage bug may occur
+
+- More feature are planned for the next updates
+
+Showcase
+
+How to Use
+
+Basic Controls
+
+- Aim at where you want to hook
+
+- Use Item (right-click/tap) to shoot the hook
+
+- Jump (in auto-pull) or Hold Jump (manual) to pull yourself
+
+- Switch items to remove the hook
+
+Key Features
+
+Realistic Physics
+
+- Hooks fly faster when you're already moving (momentum system)
+
+- Follow the actual path your hook took for natural swinging
+
+- Smooth acceleration and deceleration
+
+- Physics-based rope tension and breaking
+
+Two Control Modes
+
+Manual Mode (Default)
+
+- Toggle with Sneak + Use
+
+- Hold Jump to pull yourself toward the hook
+
+- Release Jump to stop pulling
+
+- Ideal for precise positioning and technical gameplay
+
+Auto-Pull Mode
+
+- Hook automatically pulls you when it lands
+
+- Perfect for fast exploration and parkour
+
+- Sneak while swinging to set your preferred distance
+
+- Jump for extra upward boost near the destination
+
+Safety Features
+
+- Grappling Insurance: Automatic slow falling when approaching ground
+
+- No Fall Damage: Safe landings after swinging
+
+- Rope Break System: Hook detaches if stretched too far
+
+- Auto-Release on Stuck: Won't trap you in walls
+
+Installation
+
+- Download the latest .mcaddon file
+
+- Open the file with Minecraft Bedrock Edition
+
+- Apply the addon to your world when creating/editing
+
+- Start playing and enjoy your new mobility!
+
+Perfect For
+
+- Explorers - Traverse mountains and ravines with ease
+
+- Builders - Reach high places without scaffolding
+
+- Adventurers - Add excitement to dungeon crawling
+
+- Parkour - Create new types of movement challenges
+
+- Survival - Escape dangerous situations quickly
+
+- Creative - Add dynamic movement to your builds
+
+Compatibility
+
+- Minecraft Bedrock Edition (Windows, Mobile, Console, Switch)
+
+- Singleplayer & Multiplayer
+
+- Works with other addons
+
+- All dimensions (Overworld, Nether, End)
+
+- No Experimental
+
+Showcase
+
+Credits
+
+Created by CausalGuide
+
+Special thanks to the Minecraft Bedrock addon community!
+
+Notes
+
+- Hook speed increases with player momentum for realistic physics
+
+- Rope will break if extended beyond maximum length
+
+- Fall damage protection activates automatically after grappling
+
+- Compatible with most terrain and structures
+
+- Check action bar for mode indicators and feedback
+
+Ready to swing? Install the addon and start exploring Minecraft in a whole new dimension!
+
+For support, updates, or to report bugs, please contact CausalGuide

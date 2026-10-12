@@ -1,0 +1,53 @@
+Check this video
+
+(For more Clear info)
+
+https://youtu.be/EQ8b_BJBEsg
+
+||| Free to use, just give me credit |||
+
+In Short All Systems:
+
+Mana Fruit farming
+
+Craft empty mana tube, interact/use the tube to collect mana. Use mana tube to craft mana Seed. You can restore mana by eating mana Fruit
+
+jjj
+
+- Mana Bar: Drains when using magic and refills when not in use.
+
+Fly Wand
+
+-
+
+Fly Wand
+Given on world join unlocks Fly Mode!
+
+Fly Mode:
+Look up to fly up
+Look down to fly down
+Uses Mana while flying
+Mana refills when grounded
+Stops flying if mana is 0
+
+Fun & balanced flight for epic exploring
+
+Soul Wand
+
+How it works:
+Hold the Soul Wand
+Hit any mob
+The mob dies instantly
+Drops a Monster Spawner
+And its Spawn Egg
+
+Requires Full Mana
+Consumes the entire Mana bar!
+Wont work if Mana is low.
+
+Summoning Wand
+
+Added Summoning Wand
+Summon an Iron Golem to protect you
+Uses half a mana bar to summon
+Get ready for battle!

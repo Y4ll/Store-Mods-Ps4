@@ -1,0 +1,13 @@
+Return Potion does not use the player.json.
+
+No experimental toggles are needed to use this add-on.
+
+Available in Spanish and English!
+
+Tambien disponible en Espanol!
+
+Drinking this potion will instantly teleport you back to your spawn point, making it a lifesaver in dangerous situations or when you need a quick escape. Crafting it is straightforward, requiring only basic materials, making it an essential item for both adventurers exploring far from home and builders working on large-scale projects. Keep a few in your inventory to ensure you're always just one sip away from safety.
+
+To make it you will need water bottles and an ender pearl.
+
+Stay informed with the latest updates by joining our Discord server! You'll be the first to know about new changes and additions to the addon: Discord Server

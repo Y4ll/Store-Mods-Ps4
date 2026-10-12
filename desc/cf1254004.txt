@@ -1,0 +1,20 @@
+A shader made by Yummysheep. The Shader changed water, sky, seawater, and plants, and also added animation. We will have a detailed explanation below. We hope the mod gives you a better experience while you are playing Minecraft. Using this shader, everything will look more realistic.
+
+Render Dragon support!
+
+NEW UPDATES!!!! Now supports v26.0 and above
+
+RTX Version here:
+https://www.curseforge.com/minecraft-bedrock/texture-packs/yummysheep-shader-for-rtx
+
+1. More realistic and fluid water, with changing texture, animation and transparency
+
+2. More realistic plants with animated texture
+
+3. Animated ores texture
+
+4. More realistic sky, weather, fog and biome
+
+Attention!
+
+You must activate Render Clouds, Beautiful Skies and Fancy Graphics

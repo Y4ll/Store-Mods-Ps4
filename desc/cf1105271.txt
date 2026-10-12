@@ -1,0 +1,32 @@
+Connected Glasses is an addon that improves the visual aspect of Minecraft, giving you the opportunity to have connected glass without removing the vanilla glass.
+
+Before:
+
+After:
+
+This add-on works with all vanilla glasses, to obtain the new glasses, just place a vanilla glass on the crafting table and you will get its connected version.
+
+At the moment it only works with glass blocks, glass panels will come in the future!
+
+if you have a connected glass, when you put it on the crafting table again, it will give you a normal glass, don't worry about that!
+
+NEW!: VARIANTS
+
+if you miss the old minecraft glass texture, now you can use it with this addon, just configure it in the external settings of the add-on!
+
+you can also clear all distractions!!!
+
+IMPORTANT
+
+The add-on does NOT need experimental options, feel free not to activate them!
+Means that it also works in preview versions.
+
+ADVERTISEMENT
+
+- If you wish to support this and future works, here is our Paypal : https://paypal.me/gabyvicuna1910
+
+- Support me with your subscription on my Youtube channel: https://www.youtube.com/@Scodev
+
+- Join our Discord: https://discord.gg/fRbeJGQfnk
+
+Thanks for all the support, enjoy the addon!!!

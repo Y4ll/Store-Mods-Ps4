@@ -1,0 +1,27 @@
+No Breaking Particles - LAG FIX & FPS BOOST (1.21+)
+
+Summary:
+
+Stop the lag! Remove block-breaking particles for a smoother, high-FPS Minecraft experience. The ultimate utility for PvP and low-end devices.
+
+Description:
+
+Are you experiencing frame drops while mining or during intense PvP battles? Arrow Studios presents the most optimized solution for Minecraft Bedrock Edition.
+
+"No Breaking Particles" is a lightweight utility pack designed to maximize your game's performance by removing the heavy particle effects generated when breaking any block.
+
+Key Features:
+
+Massive FPS Boost: By eliminating particle rendering, your GPU and CPU can focus on what matterssmooth gameplay.
+
+Lag-Free Mining: Break blocks at high speed without the annoying "stutter" or "micro-freezes."
+
+PvP Advantage: Get a clearer field of vision in fights. No more particle clouds blocking your aim!
+
+Low-End Device Friendly: Specially tuned for Mobile (Android/iOS) and older PCs.
+
+Clean & Minimal: Works perfectly alongside other 16x PvP texture packs .
+
+For more updates follow me on courseforge
+
+Minecraft id : PROOOOO721

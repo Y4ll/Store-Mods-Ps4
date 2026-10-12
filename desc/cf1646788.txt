@@ -1,0 +1,138 @@
+Mike Ultra Visuals is my most complete pack. Auroras over night villages, golden sunbeams cutting through forest canopies, pink haze sitting in the cherry groves, and reflections on every piece of metal you carry.
+
+What this changes
+
+Auroras
+
+Green and blue light beams shift across the night sky on their own. Over a village or open water they are the best thing in the pack.
+
+Sunrise and sunset
+
+Long golden light low across the ground, and oceans that go almost mirror flat at sunset so the whole sky lands on the water.
+
+Sunbeams
+
+Volumetric light shafts break through tree canopies and gaps in the clouds. Forests at morning are where you will notice this most.
+
+Water and reflections
+
+Water reflects the sky properly instead of faking it, and holds those reflections while it moves.
+
+Cherry groves
+
+Soft pink haze hangs between the trees, so the biome reads as its own place rather than just pink blocks.
+
+Ambient glow
+
+Torches, lanterns and light blocks throw a warm glow onto everything near them, which is what makes villages feel lived in at night.
+
+Point lighting
+
+Every light source gives off its own colored light instead of everything glowing the same orange.
+
+- Redstone torch glows red
+
+- Soul torch and soul lantern glow cyan
+
+- Lantern glows warm orange
+
+- Campfire glows orange
+
+Glowing ores
+
+Ores give off their own light and stay visible in deep caves, so you spot a vein before your torch light reaches it.
+
+Nether portals
+
+Portals light the blocks around them, with lava particle lighting picked out in detail.
+
+PBR
+
+Metal blocks, tools and armor catch real reflections. Draw an iron sword in the sun and you can see it. This is the part that took the longest to get right.
+
+PBR is also the heaviest part of any Vibrant Visuals pack, so it is not forced on you. It ships as a subpack, which means you can switch it on or off yourself. When you activate Mike Ultra Visuals in Global Resources, pick the version you want. Turn PBR off if your device runs hot or drops frames.
+
+Requirements
+
+THIS PACK IS FOR VIBRANT VISUALS ONLY
+IT DOES NOT WORK WITH MB LOADER
+
+Vibrant Visuals must be ON. This pack is built for Bedrock's Vibrant Visuals renderer. The pack will not do anything if it is off.
+
+Where to turn it on: Settings > Video > Graphics > Vibrant Visuals
+
+If that toggle is not there, your device or version does not support Vibrant Visuals yet.
+
+Showcase
+
+- Village Aurora Night Wide
+
+- Aurora Over Swamp Water
+
+- Aurora Village Night
+
+- Cherry Blossom Sunrise
+
+- Cherry Grove Pink Mist
+
+- Cottage Flower Window Night
+
+- Forest Sunlight Animals
+
+- Glowing Block Hillside
+
+- Iron Sword Reflection On Grass
+
+- Nether Portal
+
+- Ocean Sunset Golden
+
+- Pickaxe Reflection On Grass
+
+- Plains Hills Pig Daytime
+
+- Iron Armor Reflection
+
+- Iron Armor and Sword Reflection
+
+- Rail Reflection
+
+- Torch Soul Glow
+
+- Torch Redstone Glow
+
+- Torch Yellow Glow
+
+- Water Bucket On Grass
+
+About my other packs
+
+I have several other shader packs on my page, and they are not recolors of this one. Each is built with its own style. The atmospherics, lighting, color grading, water and PBR are set up separately in every pack, so no two of them behave the same way in game.
+
+This is also my heaviest pack. If you are on an older phone, either turn the PBR subpack off or pick one of my lighter packs instead. There is no point running this one at 15 frames.
+
+If you want to explore the rest, everything I have made is here:
+
+- My CurseForge profile
+
+- My MCPEDL profile
+
+Installation
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate Mike Ultra Visuals
+
+- Pick the subpack you want. PBR on for the full look, PBR off for better performance.
+
+- Turn on Settings > Video > Vibrant Visuals
+
+- If the lighting still looks the same, leave the world and load it again once
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link

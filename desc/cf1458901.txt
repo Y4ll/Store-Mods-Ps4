@@ -1,0 +1,23 @@
+Crosshair Indicator is a resource pack/pvp texture pack/pvp packs that changes crosshair color to red (indicator) when player or mob is reached to be hit.
+
+Features
+
+- Change the crosshair color to red when looking at mobs or players, very useful for knowing when to attack.
+
+- Automatically changes the crosshair if you use a custom crosshair without having to edit the crosshair indicator.
+
+- Highly compatible with other packs.
+
+You are ALLOWED to:
+
+- Modify this pack only for personal uses.
+
+- Make a review about this pack, as long as you put original download link in description (Curseforge or Mcpedl).
+
+You are NOT ALLOWED to:
+
+- Distribute the modified pack to public.
+
+- Redistribute this pack to other sites (9minecraft, modbay and etc.)
+
+- Share links that are not from original sources (Curseforge or Mcpedl).

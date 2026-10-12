@@ -1,0 +1,39 @@
+About "Slop Guns"
+
+Its named slop guns because of how bad the models and animations there is, the code is also jerry rigged to work barely enough to make the guns shoot. But hey! I didnt steal any assets while making these(apart from sfx but they are free on the internet anyways)
+
+Added crafting as of Update 1.4
+
+Guns
+
+M16A1
+
+AKM
+
+FN FAL
+
+PM Makarov
+
+M1911A1
+
+FN Browning High Power
+
+SR-25
+
+SVD
+
+PKM
+
+G3A1
+
+MP5A2
+
+Known Bugs
+
+-RPK sights are a bit off because of rear and forward sights not aligning well in modelling stage
+
+-Third person leaning animation kinda rotates the gun away from the players hands
+
+More guns will be added in future
+
+If your wondering why the style of texture on G3 and Mp5 are diffrent than the rest is because they are my newer models I plan to updated the others in the future

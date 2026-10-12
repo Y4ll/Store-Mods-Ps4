@@ -1,0 +1,25 @@
+If youd like to support the project, you can visit the official website (EndDev Studio) for downloads. Thank you for enjoying the addon!
+
+For additional support, you can also join my Patreon: EndXenoc MCPE!
+
+On Patreon, you'll enjoy an ad-free experience, no waiting times, and early access to all updates before anyone else.
+
+Your support helps keep the project going and growing thank you! :)
+
+IMPORTANT: If you share this content, BE SURE to use official links from Endev Studio, MCPEDL, ModBay or CurseForge. You are NOT allowed to redistribute it with links of your own.
+
+This is a small add-on that adds wooden and copper planes to Minecraft. Copper planes oxidize over time, and you can wax or deoxidize them to control their appearance.
+
+Its still an early test version, but if it gets enough support, future updates will include new mechanics and customization options.
+
+To craft a plane, you must first create the Plane Engine (recipe shown below).
+
+For wooden planes, use stripped logs, wood planks, and place the engine in the center each one using its respective wood type.
+
+The bamboo plane is crafted in a similar way, but instead of stripped wood logs, youll need stripped bamboo blocks and bamboo planks.
+
+For copper planes, place the engine in the center and surround it with copper blocks. You can use oxidized copper to obtain oxidized variants. Copper planes oxidize naturally over time (between 9003600 seconds) and can be waxed with a honeycomb to prevent oxidation, or deoxidized with an axe.
+
+Downloads at EndDev Studio
+
+- Download Planes Add-On.mcaddon

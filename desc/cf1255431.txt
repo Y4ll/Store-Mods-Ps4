@@ -1,0 +1,51 @@
+Infinite Villager Trading
+
+Infinite Villager Trading Addon enhances your Minecraft experience by removing trade limits and cooldowns from all villagers. That means no more waiting for restocksgathering resources and farming emeralds is now faster and easier than ever, without disabling achievements.
+
+Perfect for creative gameplay, testing, or resource-focused survival worlds, this addon ensures trades are always available with no delays. Its fully compatible with vanilla Minecraft items and requires no additional mods or scripts. Whether you're building an economy-based server or just want a smoother survival experience, this pack delivers maximum trading efficiency.
+
+This addon comes with two (2) file versions:
+
+- Infinite Villager Trades (version) The latest version, fully updated and tested for the current release of MCPE.
+
+2. Infinite Villager Trades The STABLE version (below 1.21) of this addon. Some users reported issues with this version, so it's recommended as a fallback if the new one doesn't work for your setup.
+
+Watch this YouTube video by BobTheNitwit for a full showcase and installation guide:
+
+Having issues? Check out this helpful video to troubleshoot:
+
+This video explains why your villagers might not trade infinitely. The fix is simple: replace the old villagers with new ones. You can either execute them or manually swap them out in your trading hall. Take note of this: Only newly spawned villagers will work correctly with this addon.
+
+Optional Addon Compatibility:
+
+This addon works well with the Custom Cured Discounts & No Witch Transformation addon. (Click the link to go to the addon page.)
+
+- When curing a zombie villager, enjoy massive trade discountsup to -100! Perfect for maximizing your infinite trades.
+
+- With the combination of the said addons, the fletcher will trade to you for only 1 stick per emerald (this is the way to fix the issue of 3 sticks per emerald too!).
+
+- The Cleric will trade to you for only 1 rotten flesh per emerald (this is the way to fix the issue of 3 rotten flesh per emerald too!)
+
+Special thanks to DevShaJok for helping fix compatibility issues and making this addon accessible on more devices!
+
+Please do not reupload or claim this addon as your own.
+If you want to share it, kindly link to this download page or my profile instead.
+
+Got feedback? Drop a comment or join our Discord server I love to hear from you!
+
+Follow me for more addons:
+
+- CurseForge: https://www.curseforge.com/members/itsmexd/projects
+
+- MCPEDL: https://mcpedl.com/user/itsmexd/
+
+- YouTube: http://www.youtube.com/@itsmexd890
+
+- Instagram: https://www.instagram.com/itsmexd890/
+
+- TikTok: https://www.tiktok.com/@itsmexd949
+
+- X (formerly Twitter): https://x.com/INoob10500
+
+Join our official Discord server!
+Discord: https://discord.gg/Y9pfH8ueYm

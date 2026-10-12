@@ -1,0 +1,17 @@
+With this add-on, you'll be able to use multiple features without losing achievements by using just one simple item. If you have a specific feature request, you can send me a message or comment.
+
+Features
+
+User
+
+- You can change your own game mode (not compatible with hardcore)
+
+- You can teleport, either to a user or to a specific coordinate.
+
+- You can set your respawn point anytime, anywhere.
+
+World
+
+- You can change the time of day, sunset, day, midday, etc.
+
+- You can change the climate of the world.

@@ -1,0 +1,66 @@
+True Sky Shader
+
+True Sky is a lightweight Minecraft Bedrock visual pack designed to make the sky, sun, moon, and atmosphere look more realistic and cinematic.
+
+Features
+
+Realistic Sun & Sunlight
+
+Enhanced Moon & Night Sky
+
+Beautiful Sunrise & Sunset Colors
+
+Improved Sky Atmosphere
+
+Atmospheric Fog
+
+Cinematic Sun Rays
+
+Better Horizon Lighting
+
+Designed for Minecraft Bedrock Edition
+
+Lightweight and performance-friendly
+
+Realistic Visual Experience
+
+True Sky adds a more natural atmosphere to Minecraft Bedrock without making the visuals overly complicated. Enjoy beautiful sunsets, realistic daylight, atmospheric nights, and enhanced sky colors while exploring your world.
+
+Performance
+
+The pack is designed to remain lightweight while improving the overall visual experience. Performance may vary depending on your device, Minecraft version, render distance, and other active resource packs.
+
+Installation
+
+-
+
+Download the True Sky .mcpack file.
+
+-
+
+Open the file with Minecraft Bedrock Edition.
+
+-
+
+Minecraft will automatically import the pack.
+
+-
+
+Go to Settings Global Resources.
+
+-
+
+Activate True Sky.
+
+-
+
+Enter your world and enjoy the new sky!
+
+Compatibility
+
+Made for Minecraft Bedrock Edition.
+For the best experience, use a supported/compatible Minecraft version and avoid using multiple packs that modify the same sky or lighting files.
+
+Made for Minecraft Bedrock players who want a beautiful, realistic and cinematic sky experience.
+
+If you enjoy True Sky, leave a comment and share your feedback!

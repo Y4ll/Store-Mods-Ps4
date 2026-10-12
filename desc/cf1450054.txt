@@ -1,0 +1,43 @@
+GrassOP: The Ultimate Overpowered Survival Experience!
+Tired of spending hours mining for a single diamond? Bored of the slow grind to get to the End? GrassOP is here to change the game! This production-ready behavior pack transforms the most common block in Minecraft into a goldmine of god-tier loot.
+How it Works
+Its simple: Touch Grass, Get Rich. Every time you break a grass block (short grass, tall grass, or even the grass dirt block), a random OP item will drop. No crafting recipes, no complex setupsjust pure, unadulterated power from the ground up.
+Features
+
+- 30+ OP Drops: Includes everything from Maxed Netherite gear to rare End-game items.
+
+- Auto-Enchanted Gear: Swords, Bows, and Armor come pre-loaded with high-level enchantments (Sharpness V, Protection IV, etc.).
+
+- Fully Scripted: Built using the latest 2026 Scripting API (@minecraft/server) for maximum performance and zero lag.
+
+- Survival Ready: Perfect for speedruns, chaos challenges, or just having fun with friends.
+
+- Lightweight: Behavior-pack only! No resource pack required, keeping your game fast.
+Whats in the Loot Pool?
+
+- God-Tier Weapons: Netherite Swords, Bows with Infinity, and Riptide Tridents.
+
+- Unbreakable Armor: Full Netherite sets + Elytras with Mending.
+
+- Survival Essentials: Enchanted Golden Apples, Totems of Undying, and stacks of Golden Carrots.
+
+- Progression Skips: Ender Pearls, Eye of Enders, Beacons, and Nether Stars!
+
+- Building Blocks: Stacks of Obsidian, Diamond Blocks, and Emerald Blocks.
+Installation Guide
+
+- Download the GrassOP.mcpack.
+
+- Open the file to import it into your Minecraft Bedrock Edition.
+
+- Create a New World (or edit an existing one).
+
+- Go to Behavior Packs and activate GrassOP.
+
+- IMPORTANT: You must enable "Beta APIs" in the Experiments tab for the script to work!
+Permissions & Credits
+
+- You May: Use this in your YouTube videos/streams (Please link this page!).
+
+- You May Not: Re-upload this mod to other sites or claim the code as your own.
+Are you ready to become the most powerful player on the server just by gardening? Download GrassOP today!

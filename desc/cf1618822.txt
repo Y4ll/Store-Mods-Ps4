@@ -1,0 +1,43 @@
+OFFICIAL ADDON by PKFL, LookOut3D
+
+creepyhorse.jar brings the disturbing creature from LookOuts series into Minecraft.
+
+CREDITS
+
+Created by & PKFL & LookOut3D
+
+Mod Developed by PKFL
+
+The model is Made by @i_am_frajyle
+
+What begins with a motionless saddled pig quickly turns into a relentless horror. Follow the mysterious rules, complete increasingly dangerous timed tasks, and keep the Creepy Horse satisfied before the countdown reaches zero.
+
+DISCLAIMER :
+
+THIS ADDON MAY CONTAIN LOUD SOUNDS AND
+
+CAN GRIEF YOUR WORLD, AND DISABLE YOUR CHEATS!
+
+Saddle it, brush away the flies, feed it, hide from it, and survive its hunts. Every completed task pushes the world into a new stage, while failure causes the horse to become faster, more aggressive, and capable of tearing through blocks to reach players.
+
+The Creepy Horse watches from a distance, appears without warning, reacts to nearby players, and remembers when someone cheats. Using commands, Creative Mode, illegally obtained saddles, or trapping the creature may trigger additional penalties, shorter timers, revoked commands, and new tasks.
+
+- A progression-based horror story with four escalating stages
+
+- Multiplayer support with tasks and shared consequences
+
+- Random stalking encounters and scripted appearances
+
+- Multiple timed objectives and survival sequences
+
+- Intelligent hunting and player-tracking behavior
+
+- Destructive chase sequences
+
+- Same model from LookOut's series with animations, task overlays, particles, and sounds
+
+- Visible saddle model when the horse is successfully saddled
+
+- Anti-cheat consequences and additional penalty tasks
+
+- Commands for selecting stages and tasks

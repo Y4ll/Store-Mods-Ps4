@@ -1,0 +1,3 @@
+Newb X Sapphire is an edited version of Newb shader, aims to enhance Minecraft vanilla graphic to a fantasy colorful visual. This shader supports Minecraft Bedrock Android, iOS and Windows.
+
+Disclamer: Minecraft's RenderDragon engine doesn't officially provide shader supports, you will need some utilities in order to activate the shader. Join Newb Community discord server if you're troubled with the installation process.

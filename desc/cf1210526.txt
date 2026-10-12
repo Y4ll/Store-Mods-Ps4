@@ -1,0 +1,13 @@
+This addon is the latest version of Rynnn Furniture Addon
+
+In this extended version, many models and textures have been changed, as have most of the features.
+
+These new features include connectable blocks, container blocks (which function like chests), and Toggleable blocks.
+
+However, existing blocks still cannot be crafted using a crafting table (which means you can only use them in the creative version).
+
+Here Comes the Dragon! (Download)
+
+Here comes the dragon!
+
+Credit : Foxi for the scripts help

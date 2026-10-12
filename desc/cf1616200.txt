@@ -1,0 +1,7 @@
+Better First Person lets you see your own body in first person for a more immersive Minecraft experience. It's vanilla-friendly, supports multiplayer, and works with most texture packs, animation packs, and addons.
+
+Installation
+Simply place the addon's Resource Pack above any other texture packs you're using to ensure everything displays correctly.
+
+For Addon Creators
+Better First Person continuously updates the camera to maintain the first-person view. If your addon needs temporary control of the camera, add the player tag "none_constant_cam" before setting your own camera, then remove the tag once you're finished. This temporarily disables Better First Person's automatic camera updates.

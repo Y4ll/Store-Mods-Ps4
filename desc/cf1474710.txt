@@ -1,0 +1,224 @@
+TC Fast Furnace
+
+TC Fast Furnace is a powerful Minecraft Bedrock addon that dramatically increases smelting speed to help players save time and progress faster.
+
+It works with all three furnace types: Furnace, Blast Furnace, and Smoker. Ores, food, and other smeltable items are processed instantly based on smart fuel efficiency, making resource management more optimized and convenient.
+
+Fast Furnace automatically detects pre-existing furnaces when you interact with them, adding them to the fast-processing system.
+
+Features
+
+Instant & Super Fast Smelting
+
+All supported recipes are processed rapidly based on furnace type and fuel value. The system grants earned experience directly to nearby players.
+
+- Super Fast Mode: When enabled in Settings, the furnace calculates all available fuel burn capacity and immediately finishes the full batch directly into the output slot.
+
+- Smelt Animation: Enabled by default, providing visual rapid incrementing effects (1..8 items per fuel unit) so you can watch output items tick up smoothly and satisfyingly.
+
+- Animation Sound & Speed: Customizable tick speed (1, 2, or 4 ticks per item) and audio feedback.
+
+Quick Extract
+
+Sneak and interact with a furnace using an empty hand to instantly collect all available outputs without opening the menu. If no output is available, the furnace menu opens normally.
+
+Status Particles
+
+Visual particle indicators display the furnace's current state with smooth, rotating animations:
+
+- Green Circle: Smelting is complete or the output slot is full.
+
+- Red Circle: Input is available, but the furnace has no fuel.
+
+- White Smoke Circle: Fuel is available, but there is no input.
+
+- Fire Circle: The furnace is waiting for the current fuel unit to finish burning.
+
+Live Action Bar Display
+
+Shows the input, fuel, and output status of the nearest furnace directly on your action bar.
+Note: This feature is disabled by default starting in v2.0.1 to keep your screen clear.
+
+Commands and Settings
+
+Open the in-game control interface using custom commands:
+
+- /tc:furn: Open the main dashboard, scan or inspect nearby furnaces.
+
+- /tc:furn scan: Instantly scan and register all furnaces within 16 blocks.
+
+- /tc:furn settings: Open the settings menu to configure features.
+
+- /tc:furn super_fast_on / super_fast_off: Quick toggle for Super Fast Mode.
+
+- /tc:furn animation_on / animation_off: Quick toggle for Smelt Animation.
+
+- /tc:furn anim_sound_on / anim_sound_off: Quick toggle for Animation Sound.
+
+- /tc:furn mute: Mute all sounds, alert messages, and action bar displays for yourself.
+
+- /tc:furn unmute: Unmute notifications for yourself.
+
+- /tc:furn_test: (Admin/OP) Run full diagnostic test on server status, TPS, and furnace tracking.
+
+How to toggle the Action Bar text:
+
+- Type /tc:furn in chat and select Settings.
+
+- Toggle the actionbar option to OFF (or ON) and save.
+
+- Alternatively, type /tc:furn mute to silence all alerts and action bar messages immediately.
+
+Fuel Efficiency Reference
+
+Fuel Item
+Smelt Value (Items per 1 Unit)
+
+Coal
+8
+
+Charcoal
+8
+
+Coal Block
+80
+
+Blaze Rod
+12
+
+Lava Bucket
+100
+
+Dried Kelp Block
+20
+
+Bamboo Block
+2.5
+
+Oak Log
+1.5
+
+Spruce Log
+1.5
+
+Birch Log
+1.5
+
+Jungle Log
+1.5
+
+Acacia Log
+1.5
+
+Dark Oak Log
+1.5
+
+Mangrove Log
+1.5
+
+Cherry Log
+1.5
+
+Pale Oak Log
+1.5
+
+Crimson Stem
+1.5
+
+Warped Stem
+1.5
+
+Stripped Oak Log
+1.5
+
+Stripped Spruce Log
+1.5
+
+Stripped Birch Log
+1.5
+
+Stripped Jungle Log
+1.5
+
+Stripped Acacia Log
+1.5
+
+Stripped Dark Oak Log
+1.5
+
+Stripped Mangrove Log
+1.5
+
+Stripped Cherry Log
+1.5
+
+Stripped Pale Oak Log
+1.5
+
+Stripped Crimson Stem
+1.5
+
+Stripped Warped Stem
+1.5
+
+Oak Wood
+1.5
+
+Spruce Wood
+1.5
+
+Birch Wood
+1.5
+
+Jungle Wood
+1.5
+
+Acacia Wood
+1.5
+
+Dark Oak Wood
+1.5
+
+Mangrove Wood
+1.5
+
+Cherry Wood
+1.5
+
+Pale Oak Wood
+1.5
+
+Crimson Hyphae
+1.5
+
+Warped Hyphae
+1.5
+
+Oak Planks
+0.375
+
+Spruce Planks
+0.375
+
+Birch Planks
+0.375
+
+Jungle Planks
+0.375
+
+Acacia Planks
+0.375
+
+Dark Oak Planks
+0.375
+
+Mangrove Planks
+0.375
+
+Cherry Planks
+0.375
+
+Pale Oak Planks
+0.375
+
+Crimson Planks

@@ -1,0 +1,19 @@
+This simple texture pack removes the blurry overlay that appears when wearing a carved pumpkin.
+
+It's perfect for players who want to wear pumpkins without the annoying visual obstruction.
+
+Especially useful during Ender Dragon fights, where clear vision is crucial.
+
+Fully compatible with Minecraft Bedrock Edition 1.21 and above.
+
+Why Use This Pack?
+
+Removes only the pumpkin blur nothing else is changed
+
+Keeps your vision clear while wearing a carved pumpkin
+
+Lightweight causes zero lag or performance drop
+
+Works in survival, creative, and even Realms
+
+Compatible with most other texture/resource packs

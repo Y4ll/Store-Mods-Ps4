@@ -1,0 +1,105 @@
+Roll & Stamina is an addon that adds roll and stamina mechanics to vanilla Minecraft.
+
+This pack Requires
+
+- Kamii's Script Configuration
+
+- UI Queue Script
+
+By taping sneak (not holding sneak) you will roll. With a roll, you can escape from an enemy or you can jump 3 blocks above by combining jump and roll. Now when you run it will decrease stamina and when you run out of stamina your speed will be decreased until your stamina back to normal. When you get damaged your speed will be decreased for a few seconds.
+
+Main features:
+
+- Rolling
+
+- Stamina
+
+- Slow when damaged
+
+ROLLING
+
+By tapping sneak you will roll and get some knockback
+
+The rolling direction will follow your movement direction, so you can roll backward.
+
+You can combine jump and roll to get a higher jump.
+
+STAMINA
+
+Now you have stamina, so when you run out of stamina your speed will be decreased, and cannot jump for a few seconds.
+
+Stamina will be consumed when you use roll, run, or jump.
+
+Stamina cooldown duration can be affected by potion player used like hunger effect will consume more stamina and speed effect will consume less stamina.
+
+Stamina will reset after sleeping.
+
+Damage slow effect
+
+When you take damage, your speed will be decreased for a few seconds. This will not affect magic damage like poison and wither effects.
+
+Fatigue
+
+When you take an action like mining, attacking, etc. it will add a fatigue bar. when fatigue is at 75% player will get a fatigue and weakness effect then increase roll and stamina exhaustion duration.
+
+Fatigue will be decreased after sleeping.
+
+Edge Climb
+
+You can perform an edge climb by holding the jump button when in mid-air.
+
+Smart Crawling
+
+Players can crawl into tiny gaps by sneaking and looking while moving into the gaps
+
+Wall Climbing
+
+Players can climb by sneaking while sticking on the wall, and by looking down it makes the player move down. after performing wall climbing it will automatically jump.
+
+Grappling Hook
+
+A grappling hook is an item that can improve player movement and mobility. It can be customized with minecraft enchantment book. you can use a grappling hook by hold interact with items like using a trident or bow
+
+Enchantment:
+
+- Multishot: to make a grappling hook shoot two hooks at same time.
+
+- Piercing: to increase maximum distance that hook can reach.
+
+- Quick charge: to reset cooldown after using grappling hook several times.
+
+Rope
+
+rope is an alternative version of scaffolding. rope can be created by attaching a lead to a tripwire hook. lead have some interaction by performing sneak, jump, or sneak + jump
+
+Elevator Pad
+An elevator pad is used to make an elevator construction that can simplify player maneuvering vertically. You can trigger to move the elevator by powering redstone on the wall in front or below the elevator pad. the elevator only works with chain support on the side. Be careful when using an elevator, it can throw bugs that can make players fall.
+
+The elevator pad has a dedicated structure to introduce players to the mechanics.
+
+Glider
+
+The glider is a cheaper version of Elytra that can be made using paper and sticks. Unlike Elytra, a glider cannot be boosted and doesn't have a momentum mechanism. To use a glider, you can hold a right click when falling.
+
+User Interface
+
+Added a new stamina bar on the under of the experience bar, and a roll bar on the side of the health bar.
+
+Configuration (Optional)
+
+You can change all of these addons aspects (Only available with Kamiis Script Configuration)
+
+Compatibility
+
+This addon only uses scripting API, so this pack is compatible with most addons.
+
+This pack will conflict with another addon that has advanced GUI like a thirst bar or remodeled player resource packs.
+
+Important Notes
+
+For mobile users, this addon is only suitable for using joystick control settings and turning off the toggle sneak
+
+For controller users can roll by double clicking sneak.
+
+Which version should you use?
+You can prioritize using the stable version instead unstable vers

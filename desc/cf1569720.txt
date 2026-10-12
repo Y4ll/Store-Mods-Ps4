@@ -1,0 +1,101 @@
+Clean Visuals is my lightest pack. No fog at all, maximum clarity, and built to run well on weaker devices while still looking like a proper shader.
+
+What this changes
+
+No fog
+
+There is no distance fog in this pack at all. Terrain stays sharp all the way to your render distance instead of fading into haze. This is the main thing the pack is built around.
+
+Clarity
+
+Everything holds its edge. Blocks, treelines and horizons stay crisp rather than softening off, which is why this one reads as cleaner than anything else I make.
+
+Lighting
+
+Smooth natural light that shifts properly through the day cycle. Nothing snaps or jumps between times of day.
+
+Shadows
+
+Real shadows with soft edges, so they sit under objects instead of looking painted on.
+
+Water
+
+Clear water with proper reflections on the surface. You can see through it and see the sky in it at the same time.
+
+Sky
+
+Rich color through sunrise and sunset without the rest of the day getting tinted along with it.
+
+Contrast and color depth
+
+More separation between biomes so they do not all sit at the same flat brightness, but kept restrained. This is not a saturated pack.
+
+Performance
+
+This is the lightest pack on my page. Dropping the fog and keeping the effects restrained means there is simply less for your device to do every frame.
+
+If Vibrant Visuals runs at all on your device but my other packs feel heavy, start here. You still get real lighting, shadows and water, just without the expensive extras.
+
+Requirements
+
+THIS PACK IS FOR VIBRANT VISUALS ONLY
+IT DOES NOT WORK WITH MB LOADER
+
+Vibrant Visuals must be ON. This pack is built for Bedrock's Vibrant Visuals renderer. The pack will not do anything if it is off.
+
+Where to turn it on: Settings > Video > Graphics > Vibrant Visuals
+
+If that toggle is not there, your device or version does not support Vibrant Visuals yet.
+
+About my other packs
+
+I have several other shader packs on my page, and they are not recolors of this one. Each is built with its own style. The atmospherics, lighting, color grading, water and PBR are set up separately in every pack, so no two of them behave the same way in game.
+
+If you want to explore the rest, everything I have made is here:
+
+- My CurseForge profile
+
+- My MCPEDL profile
+
+Installation
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate Clean Visuals
+
+- Turn on Settings > Video > Vibrant Visuals
+
+- If the lighting still looks the same, leave the world and load it again once
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link this CurseForge page in the description.
+
+- Use the pack in your own gameplay videos and streams. No permission needed, go ahead.
+
+- Modify the pack for your own personal use. Tweak whatever you want on your own device. The modified version has to stay with you though. It cannot be uploaded or shared publicly anywhere.
+
+- Share this page with friends or in servers.
+
+YOU ARE NOT ALLOWED TO
+
+- Upload a modified version. Editing my pack and releasing it under your own name, or claiming it as your own work, is not allowed.
+
+- Use assets from this pack in your own pack. If you want to use something from it, contact me on Discord first and ask.
+
+- Put the download behind your own link. If you make a review video, link my official project page and nothing else. No monetized links, no link shorteners, no ad links, and no direct download that you host yourself.
+
+- Reupload the pack anywhere else.
+
+FAQ
+
+The pack is not working. Nothing changed after I installed it.
+I get this comment a lot, and almost every single time the reason is the same. Vibrant Visuals is turned off.
+
+This pack only works when Vibrant Visuals is ON. That is written clearly at the top of this page. With it off, the pack loads fine but nothing on your screen changes, because there is no renderer for it to work with. The pack is not broken.
+
+Go t

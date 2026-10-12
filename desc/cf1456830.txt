@@ -1,0 +1,31 @@
+Dynamic Crosshair is a resource pack for Minecraft Bedrock to hide or change your crosshair depending on the context.
+
+Showcase
+
+Features
+
+- Hides the crosshair when not looking at anything and not holding any items.
+
+- The crosshair will change or hide depending on the context you are looking at.
+
+- Change the crosshair style for various situations.
+
+- highly compatible with other packs.
+
+Reference: https://modrinth.com/mod/dynamiccrosshair
+
+Terms Of Use:
+
+You are ALLOWED to:
+
+- Modify this pack only for personal uses.
+
+- Make a review about this pack, as long as you put original download link in description (Curseforge or Mcpedl).
+
+You are NOT ALLOWED to:
+
+- Distribute the modified pack to public.
+
+- Redistribute this pack to other sites (9minecraft, modbay and etc.)
+
+- Share links that are not from original sources (Curseforge or Mcpedl).

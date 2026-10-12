@@ -1,0 +1,87 @@
+Easter Eggs Rename A&S
+
+A resource pack that replaces the useless "How to Play" button in the pause menu with a complete guide to named easter eggs in the Actions & Stuff texture pack.
+
+No more guessing what name to give a mob or which item to put on an armor stand! Just open the pause menu and get all the information you need: names, items, versions, and facts.
+
+> Important: This pack does not add any new animations or easter eggs. It only displays what is already included in Actions & Stuff.
+
+---
+
+Features
+
+- Full list of named easter eggs special mobs: snowy, cherry, sulfur, autumn, and baby variants.
+- Named decorations custom decors, toys, gifts, stockings, rugs, flags, and blocks/cubes.
+- Secret blocks, transformations, hats, clothing, and poses.
+- One-click name copying just click on a name and paste it right into the anvil!
+- Flexible customization hide unwanted tabs or entire categories to clean up your UI.
+
+Open Menu
+
+---
+
+Standard Nametags
+
+Props
+
+---
+
+Plushies
+
+---
+
+Couches
+
+Costumes
+
+---
+
+Poses
+
+---
+
+Supported Languages
+
+| Language | Region / Country | Translator |
+|------|--------|------------|
+| | | Milka & Nikita |
+| English | United States | Milka & ChatGPT |
+| Espanol | Espana | ChatGPT |
+| Espanol | Mexico | ChatGPT |
+| Portugues | Brasil | ChatGPT |
+| | / | MIMI_HK98 |
+
+---
+
+Setting
+
+> You can hide unwanted tabs or entire categories in the `ui/_global_variables.json` file. For more details, check the "Tips" tab "How to hide unwanted tabs".
+
+---
+
+Links
+
+- Telegram: https://t.me/Easter_Team
+- Discord: https://discord.gg/N8szypQqTR
+
+---
+
+Credits & Special Thanks
+
+- ItzRiyo157 for permission to use the text copying feature from the Deesse UI Pack.
+- Oreville Studios for providing early updates of Actions & Stuff.
+- Nikita218000 testing.
+- MIMI_HK98 Chinese translation.
+
+---
+
+Usage rules:
+Allowed:
+- Edit textures for personal use only.
+- Create video content for any platform.
+
+Prohibited:
+- Distribute the pack via third-party links. Always use the official pages: MCPEDL or CurseForge.
+- Reupload or publish modified versions of the pack.
+
+Important note: This texture pack does not add the animations or the actual mob textures from Actions&Stuffit is merely a guide. All Easter eggs work only if Actions&Stuff is installed.

@@ -1,0 +1,32 @@
+From A24's BACKROOMS MOVIE
+
+OFFICIAL BEDROCK PORT
+
+not a dweller, but it's similar
+
+when making a video about it, put the link in the description (it is required)
+
+java mod in: https://www.curseforge.com/minecraft/mc-mods/capn-clarks-horror
+
+this addon belongs to https://www.youtube.com/@PKFL_1
+
+TRAP FOR CAPTAIN CLARK RECIPE
+
+Features:
+- Night-only stalking entity
+
+- Christmas Tree event, Red-headed Still Life
+- Stares at the player before chasing
+- Aggressive chase behavior
+- Reappears during the night
+- Random creepy ambient noises
+- Player grab attack
+- Throws grabbed players backward
+- It crawls
+- Wall climbing behavior
+- Gap jumping
+- Trap avoidance
+- Strategic repositioning during chase
+- Multiplayer-compatible in bedrock
+- Configurable spawn and noise timers
+- commands for timer control

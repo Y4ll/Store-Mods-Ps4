@@ -1,0 +1,31 @@
+Are you having trouble reaching hotbar on your screen and losing in PvP? Well, this resource pack is for you!
+
+Want to support my work? Feel free to support me using the link below. <3
+
+https://ko-fi.com/itzriyo157
+
+This resource pack adds new buttons that act like hotbars. Each button changes the held item depending on the button, for example, button 1 will press hotbar 1, and so on. These buttons also support 2-finger mode! This means, for example, if I'm mining and using a pickaxe to mine stone, and then suddenly gravel appears, I don't need to remove my finger on screen to change tools; I can simply press the button to change tools and continue mining.
+
+You can also customize the position and size of the buttons! You need to open Editor panel by pressing gear button at the bottom right of the screen, after the Editor panel appears, you can use the slider to move and resize the buttons.
+
+Warning! Due to JSON UI limitations, you cannot save the position and size of the buttons that you have customized in-game! You need to copy the code from this text box and replace it into the _global_variables.json file to save your configuration.
+
+Showcase
+
+Terms Of Use:
+
+You are ALLOWED to:
+
+- Modify this pack only for personal uses.
+
+- Make a review about this pack, as long as you put original download link in description (Curseforge or Mcpedl).
+
+You are NOT ALLOWED to:
+
+- Use or claim my codes from this pack without my permission.
+
+- Distribute the modified pack to public.
+
+- Redistribute this pack to other sites (9minecraft, modbay and etc.)
+
+- Share links that are not from original sources (Curseforge or Mcpedl).

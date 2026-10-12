@@ -1,0 +1,135 @@
+YGP! Minecraft But Villagers Give OP Items
+
+Turn Minecraft Villagers Into Your OP Trading Network!
+
+What if every villager in Minecraft had the potential to become an OP trader?
+
+YGP! Minecraft But Villagers Give OP Items transforms villager trading in Minecraft Bedrock into a progression-based reward system. Start with simple Novice trades, level your villagers through Apprentice, Journeyman, Expert, and Master, and unlock increasingly powerful rewards based on each villager's profession.
+
+Unlike a system where every villager gives the same OP items, this addon gives each profession its own specialized trade progression.
+
+Your Armorer focuses on armor.
+Your Toolsmith focuses on tools.
+Your Weaponsmith focuses on weapons.
+Your Librarian focuses on books and enchanting.
+And every other profession has its own role.
+
+How It Works
+
+Villagers have five trading levels:
+
+Level 1 Novice
+
+Novice is the universal starting level.
+
+All supported working professions begin with the same starter trades:
+
+1 Dirt 10 Emeralds
+
+10 Emeralds 15 Books
+
+The Book also provides access to the YGP Villager Guide, allowing you to learn about the different villager professions, their roles, job-site blocks, and their custom trade progression.
+
+Level 2 Apprentice
+
+Once a villager reaches Apprentice, its trades become profession-specific.
+
+The Armorer won't suddenly start giving the same rewards as the Farmer.
+
+The Librarian won't receive the Weaponsmith's rewards.
+
+Each profession follows its own trading path based on its Minecraft role.
+
+Level 3 Journeyman
+
+Journeyman continues the profession-specific progression with stronger and more valuable rewards.
+
+As villagers level up, their trades become increasingly useful for survival, exploration, combat, building, and progression.
+
+Level 4 Expert
+
+Expert unlocks advanced profession-specific rewards.
+
+This is where more powerful YGP items and End-related rewards can become part of the trading progression, depending on the profession.
+
+Level 5 Master
+
+Master is the highest villager trading level.
+
+Master villagers provide the strongest rewards available to their profession, creating a powerful end-game trading progression.
+
+13 Villager Professions
+
+The addon supports the major working villager professions and gives each one a distinct purpose.
+
+Armorer
+
+Job Site: Blast Furnace
+Role: Armor
+
+The Armorer specializes in armor-related trades.
+
+Its progression focuses on defensive equipment, armor upgrades, and powerful armor rewards.
+
+Butcher
+
+Job Site: Smoker
+Role: Food & Survival
+
+The Butcher focuses on food and survival supplies.
+
+Its trades are centered around meat, cooked food, stews, and other food-related rewards.
+
+Cartographer
+
+Job Site: Cartography Table
+Role: Exploration & Maps
+
+The Cartographer specializes in exploration.
+
+Its trade progression focuses on maps, exploration-related items, banners, and rewards useful for discovering the world.
+
+Cleric
+
+Job Site: Brewing Stand
+Role: Brewing & Rare Items
+
+The Cleric specializes in unusual and valuable items.
+
+Its progression can include items associated with brewing, Redstone, Lapis Lazuli, Ender Pearls, XP Bottles, and other rare rewards.
+
+Farmer
+
+Job Site: Composter
+Role: Farming & Food
+
+The Farmer focuses on crops and food.
+
+Its progression includes farming-related items, crops, food, Golden Carrots, and stronger survival rewards.
+
+Fisherman
+
+Job Site: Barrel
+Role: Fishing & Water
+
+The Fisherman specializes in fishing and water-related rewards.
+
+Its trades can include fish, fishing supplies, buckets of cod, enchanted fishing rods, and stronger fishing rewards.
+
+Fletcher
+
+Job Site: Fletching Table
+Role: Ranged Combat
+
+The Fletcher focuses on ranged weapons and projectiles.
+
+Its progression includes bows, crossbows, arrows, tipped arrows, and stronger ranged-combat rewards.
+
+Leatherworker
+
+Job Site: Cauldron
+Role: Leather & Mounts
+
+The Leatherworker specializes in leather equipment and mounts.
+
+Its progression focuses on leather armor, horse armor, saddles, 

@@ -1,0 +1,58 @@
+Medieval Weapons Addon (Achievement Friendy For Versions Bellow 1.26.50) v1.0.1
+
+A dark fantasy arsenal for Minecraft Bedrock Edition. 28 unique daggers, spears, swords, and blunt weapons each with its own combat effect, balanced damage tier, and full crafting table support.
+
+Overview
+
+Medieval Weapons Addon expands Minecraft's combat with a curated collection of hand-crafted, lore-driven weapons inspired by medieval Europe, fallen legions, and cursed relics. Every weapon is more than a reskinned sword it carries a unique on-hit effect, a distinct damage tier above Netherite, and flavor text that hints at its origin, so each one feels like a genuine upgrade worth hunting down.
+
+100% Achievement Friendly. Built entirely with vanilla-compatible items, recipes, and the official @minecraft/server scripting API (stable, no Beta APIs required), this addon carries the official product_type: addon flag on both Behavior and Resource Pack meaning achievements stay fully earnable in Survival with Cheats off, no Experimental Toggles needed.
+
+Features
+28 unique weapons across four weapon families: daggers, spears, straight swords, and blunt weapons (hammers/clubs).
+On-hit combat effects every weapon inflicts a status effect or elemental damage when it lands a hit: Poison, Wither, Weakness, Slowness, Blindness, Nausea, Glowing, or Fire, each tuned in potency and duration to match the weapon's tier.
+Balanced, above-Netherite damage every weapon deals more damage than a Netherite Sword, scaled by rarity and effect strength, so they're a meaningful mid-to-late-game progression goal.
+Crafting Table forging each weapon is crafted at a regular Crafting Table using a Netherite Sword, a Blazing Stone (this addon's core forging material), and a themed ingredient unique to each weapon (e.g. Nether Wart Block, Raw Copper, Magma Block) *The Fire Stone (Blazing Stone) is crafted, not dropped by mobs. You can craft it with Glowstone Dust, Blaze Powder, and Stone. It gives 2 Blazing Stones per craft.
+Readable item descriptions each weapon's tooltip shows its special effect right in the item name, visible even before it's picked up (including in the Creative inventory search), so players always know what they're looking at.
+Full durability & repair support every weapon can be repaired at an anvil with the appropriate material.
+Survival & Creative ready all items are tagged and categorized correctly for the Creative inventory and work seamlessly in Survival worlds.
+
+Weapon Roster
+Weapon | Damage | Effect
+Crimson Reaper | 14 | Wither II (5s)
+Godsmith's Warhammer | 14 | Slowness II (5s)
+Thundermark Blade | 13 | Slowness II (5s)
+Vulcan's Blade | 12 | Sets target on fire (6s)
+Kingslayer | 12 | Weakness II (6s)
+Draugr's Curse | 12 | Weakness I (5s)
+Tyrant's Edge | 11 | Slowness II (5s)
+Mistwatch Blade | 11 | Blindness I (4s)
+Lost Legion Spear | 11 | Slowness I (4s)
+Berserker's Hatchet | 11 | Slowness I (4s)
+Nightfall Edge | 10 | Blindness I (4s)
+Oracle's Beacon | 10 | Glowing I (10s)
+Berserker's Cudgel | 10 | Nausea I (5s)
+Legionary Spear | 10 | Slowness I (4s)
+Soldier's Blade | 10 | Weakness I (4s)
+Sirocco Blade | 9 | Weakness I (4s)
+Praetorian Spear | 9 | Weakness I (4s)
+Blightblade | 9 | Poison I (5s)
+Legion Broadsword | 9 | Slowness I (4s)
+Northman's Dagger | 9 | Weakness I (4s)
+Warband Sword | 9 | Weakness I (4s)
+Spider Fang | 9 | Poison II (6s)
+Plague Spear | 8 | Poison I (5s)
+Centurion's Relic | 8 | Weakness I (4s)
+Phantom Needle | 8 | Nausea I (4s)
+Berserker Spear | 8 | Weakness I (4s)
+Shadowthief Dagger | 8 | Blindness I (4s)
+Relic Dagger | 7 | Wither I (4s)
+
+Damage values shown are the bonus applied on top of base unarmed damage, matching the "+X Attack Damage" shown in-game.
+
+Technical Details
+Current version: 1.0.1
+Minecraft Bedrock version: 1.26.0 or higher
+Modules: Behavior Pack (data + @minecraft/server script) and Resource Pack (textures + localization)
+Scripting API: @minecraft/server v2.6.0 (stable no Beta APIs required)
+Achievement status: pro

@@ -1,0 +1,57 @@
+Newb x Dawn is my favorite shader of all time, but like a lot of other players, I can't actually use it because we need alternative tools like materia.bin loader to load it, which not all people can use, just like me.
+
+Since then, I have been trying to make a graphic pack that gives similar visuals of newb x dawn, and after months of work, with helps from my friend, I am happy to introduce to you:
+
+Newb x Dawn Recreate
+
+There are totally 3 skies of different time
+
+- Sunset
+
+- Night
+
+- Day
+
+- Glowing Ores Recreation (Visuals)
+
+- Water Recreation
+
+Featured:
+
+- NO patch/external loader needed for this to work.
+
+- Day, Sunset and Night sky visual of Newb x Dawn
+
+- Glowing Ores & Blocks recreated
+
+- Clean Fog that gives shader atmosphere
+
+- Saturated Blocks (Subpacks)
+
+- Has good performance on low-end devices
+
+- Support iOS, Android and Windows, and any device that can use texture packs
+
+Notes:
+
+- There are 9 subpacks for only sky & fog, sky with saturated blocks (Glowing blocks are included) and sky with glowing blocks
+
+- Glowing Blocks are not actually glowing, it's just illusion trick to make it looks like glowing
+
+- The Day, Sunset and Night sky are not animated, they are fixed cubemap and cannot change time. Day time is recommended to give the best visuals for all sky
+
+- Put this pack on top of all pack is recommended
+
+You are ALLOWED to
+
+- Review or showcase this pack on platforms with the correct download link (MediaFire/YT/Curseforge)
+
+- Modify this pack for personal use
+
+You are NOT ALLOWED to:
+
+- Use the textures or skies in this pack for your own pack and share to public
+
+- Use AD links to share this pack for earnings
+
+- Hide this from your friends :p (JK)

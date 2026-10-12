@@ -1,0 +1,23 @@
+How it works:
+
+This addon gets the chest around the player. Then deposits your items that is in your inventory to that chest if the chest has the that same item. For example, you have an oak plank in your inventory and a chest has also has an oak plank. It would put your oak planks in that chest.
+
+How To Use:
+
+First craft the "Quick Deposit" item. The item has two modes "multiple" and "single". Multiple mode is the default and by looking at a chest it would switch to single mode.
+
+- Multiple Mode - It would deposit your items to the sorrounding chest, within a 5 block radius.
+
+- Single Mode - If the item is set to this mode while sneaking you can deposit your items in a single chest.
+
+You can use the item on vanilla chest (single or double) and shulker boxes.
+
+Crafting:
+
+You can use any types of planks.
+
+Demo Video:
+
+Support:
+
+If you encountered any problem or have any suggestions. Visit my discord: https://discord.gg/DZ7Q2ugEeg

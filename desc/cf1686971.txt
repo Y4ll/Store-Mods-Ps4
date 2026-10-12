@@ -1,0 +1,29 @@
+Credits
+
+All original concepts and assets belong to Cat Fighting - by Chesy
+
+Bedrock Port by PnTMC
+
+(models,animations in this addon by me so it's not accurate but still good xD)
+
+Ever wondered what cats would do if they stopped being so peaceful?
+
+Cat Fighting - Bedrock Edition adds hilarious cat quarrels and fights to Minecraft Bedrock. Cats can argue with each other, hiss, swipe, and occasionally get into full-blown feline brawls. It doesn't change their core behavior too much. It simply makes cats feel more alive, chaotic, and entertaining to watch.
+
+CATS DO NOT TAKE DAMAGE WHILE FIGHTING! ITS JUST A VISUAL EFFECT!
+
+Features
+
+- Cats can argue with one another. (except for Cats that are sitting down)
+
+- Hissing, growling, and aggressive animations.
+
+- Cat fights that happen naturally.
+
+- Works in survival worlds with naturally spawned cats.
+
+- Adds funny and chaotic moments to your gameplay.
+
+- Flatten cats with shovel or running them over with minecart.
+
+Whether you're a cat lover or just enjoy seeing Minecraft mobs act a little more realistically (or dramatically), Cat Fighting brings extra personality to every village and home filled with cats.

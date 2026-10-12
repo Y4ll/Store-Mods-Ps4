@@ -1,0 +1,163 @@
+DLCraft, the DL standing for Dead Life or basically you're going to die...a lot. I selected many addons to fit the RPG play-style i wanted in Minecraft.
+
+As name suggests...
+
+This addonpack makes the game way harder, but also adds some QoL features to make it more balanced at the same time.
+
+Early Game:
+
+Life was easier when we used to get wood directly. Yeah, I said "used to be," since this addon will change the way you get wood. You will get Unlit Torches because Lit Torches are now not craftable and must be manually lit with a Match Box.
+
+Hard-core Mechanics & Healing Items:
+
+A powerful change in healing mechanics. Eating food will no longer restore your health. But don't worry about it! Introducing items like Salves, Plasters, and Bandages that will regenerate your health. To use these items, make sure to right-click or hold your screen.
+
+Night Siege Event, Dungeon & Ruin Structures:
+
+An event that will make Hostile Mobs spawn more often than usual. Add more structures to your game, bringing much more life to the world.
+
+- Various types of Tower Dungeons protected by Tower Golems.
+
+- Massive Dungeons spawning with hostile mob spawners.
+
+Haunted Armor, The Forgotten Legends & Spry Conquest:
+
+Adds medieval & fantasy bosses, mini-bosses & creatures with various types of attacks that can be found in thier unique structures.
+
+Weaponry & Enchantments:
+
+A LOTS of new weapons & enchantments to enhance your combat experience.
+
+Addons that ain't included in this addonpack, but does completes the experience of playing this addonpack
+
+Beacon Mirrors
+
+Guide Book for people who have skill issue...
+
+Here is Link (Keep in mind that wiki is still under development)
+
+This addonpack has 42 Addons! [39 Addons + 2 Textures + 1 Code Lib]
+
+Presence Footsteps by ZhyuRoFee
+
+3D Dripstone by Needyllama
+
+Sweep 'N Slash by Seawhite
+
+Vissom's Backpack by vissom
+
+Oberon Boss by AzozGamer936
+
+Haunted Armor by Willian Sixteen
+
+The Forgotten Legends by Smaug049
+
+Spry Conquest by GrimmWasTaken
+
+Ruins by HungKaioZ
+
+Abandoned & Ruin Structures by NicoTheKid
+
+Nico's More Mineshaft by NicoTheKid
+
+Simple Waystone by Amon28
+
+Happy's Magic Mirrors by HappyCannon
+
+Reforge by yuxialingfeng
+
+Lost Items by ZhyuRoFee
+
+CHAn's by ZhyuRoFee
+
+Creeping Crypts by ElektrikaDev
+
+Cloud Trapdoors by LordCloud
+
+Tartarean Mobs by ZhyuRoFee
+
+Arduous by ZhyuRoFee
+
+True Start by ZhyuRoFee
+
+Knowledge Experience by ZhyuRoFee
+
+Better Weaponry by ZhyuRoFee
+
+Terraria Trinkets BE by ZhyuRoFee
+
+Dungeon Tower by ZhyuRoFee
+
+Tumble Weed by ZhyuRoFee
+
+Trumpet Skeleton by ZhyuRoFee
+
+Lode Eye by ZhyuRoFee
+
+Village Bounty by ZhyuRoFee
+
+Mounte Whistle by ZhyuRoFee
+
+Experience Tome by ZhyuRoFee
+
+Night Siege by ZhyuRoFee
+
+Ender-er by ZhyuRoFee
+
+Eye O' World by ZhyuRoFee
+
+Food Expansion BE, Continued by ZhyuRoFee
+
+Azure Culture by ZhyuRoFee
+
+Advance Fishing BE by ZhyuRoFee
+
+Charm BE by ZhyuRoFee
+
+Inspirations BE by ZhyuRoFee
+
+CCAwCP by ZhyuRoFee
+
+Bunch O' Nature by ZhyuRoFee
+
+Permission proofs from the creators of addons included in this addonpack...
+
+Permission for Nico's More Mineshaft and Abandoned & Ruins addons
+
+Permission for 3D Dripstone texture pack
+
+Permission for Infested Parasites and Haunted Armor addons
+
+Permission for Oberon Boss addon
+
+Permission for The Forgotten Legends addon
+
+Permission for Ruins addon
+
+Permission for Creeping Crypt addon
+
+Permission for Spry conquest addon
+
+Permission from ZhyuroFee to use his addons
+
+Permission for Vissom's backpack addon
+
+Permission for Happy's Magic Mirrors addon
+
+Permission for Simple Waystone addon
+
+Sweep N' Slash & Reforge addons are under MIT licence hence i have permission to use it
+
+Logo was made by @Kosmos, say thanks to kosmos in comments
+
+Player.json
+
+Addonpack uses Player.json file so Addonpack will be not compatible with other addons that uses Player.json file
+
+Required Experiments Features:
+
+Working on 1.21.60
+
+> Discord Server <
+
+For Addonpack Developement, Suggestion and Bug Report

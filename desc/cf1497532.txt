@@ -1,0 +1,39 @@
+AFK CHUNK LOADER BOT
+
+The Ultimate Survival-Friendly Chunk Loader.
+
+The AFK BOT Mod by @Sycure_Gaming is a lightweight, survival-ready solution for keeping your farms active when you aren't even around all while keeping your world Achievement Friendly.
+
+Crafting & Setup
+
+Crafting an AFK Bot Remote is simple and accessible for early-game survival:
+
+Ingredients - Redstone Torch : 2, Compass : 1
+
+How to Use : Stand at your desired location and interact with the remote. An AFK Bot will spawn on your exact position, ensuring the surrounding chunks remain loaded and active.
+
+Important : Farm Compatibility Please note the distinction between chunk loading and player proximity requirements:
+
+- Works : Iron Farms, Crop Farms, Sugar Cane/Bamboo Farms, and most automated machinery.
+
+- Won't Work : Hostile Mob Farms (Creeper, Zombie, Skeleton, etc.). These farms require a physical player within a specific radius to trigger mob spawning mechanics.
+
+Key Features
+
+Achievement Friendly : Enhance your world without disabling trophies or achievements. Permanent Loading : Keeps chunks active even when you are in another dimension or away from the area.
+
+- Easy Removal: To stop loading an area, simply kill the bot.
+
+- Performance Optimized: Designed to run smoothly without causing significant lag.
+
+- Help Me -
+
+Recommendations & Limits
+
+To ensure world stability and optimal performance:
+
+Bot Limit : It is highly recommended to have a maximum of 10 bots active in a single world at one time. Placement : The bot spawns exactly where you are standing; make sure you are in the center of the area you wish to keep loaded.
+
+Terms of Use
+
+Created by : @Sycure_Gaming Redistribution : Strictly Prohibited. This mod may not be re-uploaded, mirrored, or redistributed on any other platform without explicit permission from the creator.

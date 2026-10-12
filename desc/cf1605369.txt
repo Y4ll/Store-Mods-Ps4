@@ -1,0 +1,41 @@
+Take control of your view with Free Cam! Triple-tap the Sneak button to activate a detached camera and freely explore your surroundings within a 100-block radius while your player stays in place. The camera automatically returns if you move beyond the limit or die. Double-tap Sneak to instantly exit Free Cam. Designed to remain achievement-friendly with no experimental features required.
+
+Features:
+
+Triple-tap Sneak to enable Free Cam.
+
+Double-tap Sneak to disable Free Cam.
+
+Maximum 100-block camera radius.
+
+Camera automatically returns when the 100-block limit is reached.
+
+Free Cam automatically disables when you die.
+
+Achievement Friendly works without enabling cheats or experimental gameplay.
+
+Camera cannot move below the world's lower movement limit (prevents underground clipping).
+
+Supports touch controls and works in survival worlds.
+
+Perfect for exploring builds, checking terrain, recording videos, and taking cinematic screenshots while keeping gameplay fair and balanced.
+
+AI Disclaimer:
+
+Some images in this project may be AI-generated or AI-enhanced and are used for showcase/presentation purposes.
+
+Copyright
+
+Free Cam is created by PPYGaming.
+
+You may:
+
+- Use this pack in your worlds and videos.
+
+- Showcase it with proper credit.
+
+You may not:
+
+- Reupload, redistribute, modify, or claim this pack as your own without permission from PPYGaming.
+
+PPYGaming. All rights reserved.

@@ -1,0 +1,40 @@
+Oceanic Delight is an Add-On for Farmer's Delight adding new foods, plants, mechanics and more around the theme of the Ocean like shrimps, sea grapes or fishing net for example.
+
+This mod aims to improve the culinary content that you can get from the Ocean and around, the foods from Oceanic Delight are inspired by Eastern Asia and Mediterranean dishes but also some fully original ones!
+
+Addon License/ Port Permission
+
+License : All Rights Reserved
+
+Permission from DariusZeBaguette :
+
+Special thanks to DariusZeBaguette for creating this excellent mod
+
+Here is the original project link:Oceanic Delight - Minecraft Mods - CurseForge
+
+Addon content
+
+Crop
+
+items
+
+BlockFood
+
+Book
+
+Dependent Mod
+
+Farmer's Delight (made by Moaswies)
+
+FAQ
+
+Q: What order should I put this addon in?
+A: Please place it above "Farmer's Delight" in your addon list.
+
+Q: Why can't I open the cooking pot UI?
+
+A: Same as above
+
+Q: Is there an Oceanic Delight made for Pupy200mine's Farmer's Delight?
+
+A: Not yet, but Maxis-Shellgryphon is currently working on it.

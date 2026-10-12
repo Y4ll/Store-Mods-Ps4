@@ -1,0 +1,159 @@
+Mr Cray Fish Furniture Add-on (Unofficial Port)
+
+Want to play with your friends? Add-ons do not work very well in Realms..., so why not rent a server from Bisect Hosting? Use my code 'Pupy200mine' to get 25% offit also supports me, and I really appreciate it!
+
+(Click Here!)
+
+If you want to know how to create the server with addons I recommend you to see these instructions:
+
+How to include add-ons in your server
+
+Mr Cray Fish Furniture Add-on adds a wide variety of blocks to decorate your home, most of them even work!
+
+This is an unofficial port of the mod "MrCrayfish's Furniture Mod" made by MrCrayfish
+
+Mod License/Port Permission:
+
+The original mod is under the GNU GENERAL PUBLIC LICENSE & contains the following:
+
+"The licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users. We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors. You can apply it to your programs, too."
+
+What allows me to make this port
+
+You can see this fabulous mod on its official page: https://mrcrayfish.com or from curseforge: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
+
+You can see his channel here: https://www.youtube.com/channel/UCSwwxl2lWJcbGOGQ_d04v2Q
+
+What is included?
+
+- Hundreds of pieces of furniture, in different colors and materials
+
+- Each piece of furniture has its own recipe (more than 300).
+
+- Most of them are functional, such as lamps or cabinets.
+
+Crafting Recipes:
+
+Cabinet
+
+<figure class="image image_resized align-center"></figure>
+
+Bedside Cabinet
+
+<figure class="image image_resized align-center"></figure>
+
+Chair
+
+<figure class="image image_resized align-center"></figure>
+
+Lamp
+
+<figure class="image image_resized align-center"></figure>
+
+Bar Stool
+
+<figure class="image image_resized align-center"></figure>
+
+Mail Box
+
+<figure class="image image_resized align-center"></figure>
+
+Table
+
+<figure class="image image_resized align-center"></figure>
+
+Coffee Table
+
+<figure class="image image_resized align-center"></figure>
+
+Blinds
+
+<figure class="image image_resized align-center"></figure>
+
+Cooler
+
+<figure class="image image_resized align-center"></figure>
+
+Kitchen Counter Sink
+
+<figure class="image image_resized align-center"></figure>
+
+Kitchen Counter
+
+<figure class="image image_resized align-center"></figure>
+
+Counter Drawer
+
+<figure class="image image_resized align-center"></figure>
+
+Sofa
+
+<figure class="image image_resized align-center"></figure>
+
+<figure class="image image_resized align-center"></figure>
+
+Curtains
+
+<figure class="image image_resized align-center"></figure>
+
+Toilet
+
+<figure class="image image_resized align-center"></figure>
+
+Modern Couch
+
+<figure class="image image_resized align-center"></figure>
+
+Door Mat
+
+<figure class="image image_resized align-center"></figure>
+
+Basin
+
+<figure class="image image_resized align-center"></figure>
+
+Wall Cabinet
+
+<figure class="image image_resized align-center"></figure>
+
+Bath
+
+<figure class="image image_resized align-center"></figure>
+
+Shower
+
+<figure class="image image_resized align-center"></figure>
+
+Shower Head
+
+<figure class="image image_resized align-center"></figure>
+
+Bin
+
+<figure class="image image_resized align-center"></figure>
+
+Upgraded Fence (all wood variants + nether bricks)
+
+<figure class="image image_resized align-center"></figure>
+
+Upgraded Gate
+
+<figure class="image image_resized align-center"></figure>
+
+Door Bell
+
+<figure class="image image_resized align-center"></figure>
+
+Fridge
+
+<figure class="image image_resized align-center"></figure>
+
+Modern Chair
+
+<figure class="image image_resized align-center"></figure>
+
+Modern Table
+
+<figure class="image image_resized align-center"></figure>
+
+Modern Coff

@@ -1,0 +1,13 @@
+English:
+This addon adds 496 new items to Minecraft creative inventory, including unused and hidden blocks, internal and technical items, double slabs, and unobtainable content. All items are available in Creative Mode.
+
+If anyone would like to help by creating a localization for another language, all help is welcome.
+
+P.S. Thank you guys, 100k downloads in less than a year, i am verry happy, tysm.
+
+Portugues:
+Este addon adiciona 496 novos itens ao menu do criativo do Minecraft, incluindo blocos nao utilizados e ocultos, itens internos e tecnicos, lajes duplas e conteudos inacessiveis. Todos os itens estao disponiveis no Modo Criativo.
+
+Se alguem quiser ajudar criando uma traducao para outro idioma, toda ajuda e bem-vinda.
+
+P.S. Muito obrigado, pessoal! 100 mil downloads em menos de um ano, estou muito feliz, muito obrigado mesmo!

@@ -1,0 +1,41 @@
+SCROLL DOWN TO DOWNLOAD (MCPEDL)
+
+GO TO "FILES" TAB TO DOWNLOAD (CURSEFORGE)
+
+What's New?
+
+5.4 Changelogs :
+
+- Minecraft 26.50 support
+
+- Windows version available (Go to "files" tab if you're in curseforge to choose beetwen Android or Windows)
+
+- Way more brighter tonemap
+
+SUBPACKS :
+
+- Vanilla Clouds (Default)
+
+- Always Reflections
+
+- Volumetric Clouds (Quality Mode)
+
+- Rounded Clouds (Normal)
+
+- No wave (Performance Boosted)
+
+PLATFORM SUPPORTED
+
+- Android (supported)
+
+- Windows (supported)
+
+- IOS (not supported)
+
+MINECRAFT VERSION SUPPORTED
+
+- 26.50+
+
+WATCH (OLD) SHADER TRAILER HERE :
+
+This shaders only support for Minecraft Patched or MB Loader. Here's a clear tutorial to use MB Loader :

@@ -1,0 +1,1 @@
+A mod designed for use in mob battles in Minecraft Bedrock to make the experience more enjoyable. The addon has 4 wands to assist in mob battles; in the future I might add more variety. Each wand has a different function such as targeting the mob, eliminating the mob, eliminating all mobs, or healing the mob.

@@ -1,0 +1,59 @@
+About
+
+Vein Miner lets players mine connected ore veins in Minecraft Bedrock by breaking one supported block.
+
+It is built for survival worlds: each extra block still costs tool durability, respects compatible tools, supports Fortune and Silk Touch drops, and can award ore XP. World operators can tune the behavior from a DDUI settings menu, including whether sneaking is required.
+
+Features
+
+- Chain-mine connected vanilla ore veins
+
+- Optional tree/log mining mode
+
+- Optional Require Sneaking setting, disabled by default
+
+- Configurable max block limit from 8 to 128 blocks
+
+- Uses tool durability for each mined block
+
+- Supports Unbreaking, Fortune, and Silk Touch
+
+- Drops ore experience where appropriate
+
+- Prevents tool breakage by stopping before the tool reaches 0 durability
+
+- Optional sound and particle feedback
+
+- DDUI settings menu with /veinminer or /vm; changes save automatically as you adjust them
+
+How to use
+
+- Import the .mcaddon into Minecraft Bedrock 26.50 or newer.
+
+- Activate the Vein Miner Behavior Pack on the world.
+
+- Start the world and mine a supported ore block with the correct tool.
+
+Game Directors can open the DDUI settings menu with /veinminer or /vm to change limits, enable log mining, require sneaking, toggle tool checks, and adjust effects. Changes are saved to the world automatically.
+
+Notes
+
+- Ore vein mining is enabled by default.
+
+- Sneaking is not required by default, but can be enabled in settings.
+
+- Log/tree mining is available in settings, but disabled by default.
+
+- Creative mode bypasses tool requirements and durability costs.
+
+- When Prevent Tool Breakage is enabled, chain mining stops before the tool breaks.
+
+- Settings save automatically; no confirmation button is needed.
+
+- No experimental toggles are required.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.50 or newer
+
+- No external dependency required

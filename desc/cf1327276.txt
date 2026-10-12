@@ -1,0 +1,136 @@
+Bored of Minecraft's basic user interface? Sick of approaching your enchanting table only to be presented by the same grey menu as the crafting table? Looking to add some colour into your game?
+
+Introducing Colourful Containers! A container GUI replacement mod that hopes to match the menu to every one of Minecraft's colourful intractable blocks
+
+- Chris XENO
+
+And now I'm introducing completely remade, retextured, reimagined version Recolourful Containers with new textures, new features and even more immersion!
+
+All GUIs were changed with inspiration taken from the block its associated with. Java-styled GUIs, fixes for vanilla Minecraft UI textures, HUD changes, even animations and villagers professions and much MUCH MORE!
+
+Thanks to Ashura_Tepes, NOW ON BEDROCK!
+
+Colourful Java-like GUIs!
+Changed textures graphic:
+
+Changed textures list:
+
+- Crafting table
+
+- Anvil
+
+- Enchanting table
+
+- Brewing stand
+
+- Loom
+
+- Cartography table
+
+- Stonecutter
+
+- Grindstone
+
+- Smithing table
+
+- Crafter
+
+- Dropper, Dispenser
+
+- Furnace, Blast furnace, Smoker
+
+- Hopper
+
+- Chest
+
+- Barrel
+
+- Ender chest
+
+- Copper chest
+
+- Boats with chest
+
+- Minecart with chest
+
+- Villagers' GUIs with professions
+
+- Coloured Shulker boxes
+
+- Coloured bundles
+
+- Inventory
+
+- Recipe book
+
+- Book
+
+- Beacon
+
+- Horse
+
+- Camel, Mule, Donkey (with and without chest)
+
+- Llama (with carpet colours)
+
+- HUD
+
+- XP bar
+
+- Rarity toolips
+
+- Some small UI changes and fixes
+
+Built-in dark version!
+How to use:
+
+Click Main Menu Settings Global Resources Recolourful Containers BE, gear icon (), and switch to Resolution: Dark mode
+
+Coloured Shulker Boxes!
+How to use:
+
+To use coloured shulker box feature, you must remove the empty symbol at the end of the shulker box name in the anvil. You can name shulker anything you want, but do not remove colour symbols (*symbol*r) in the beginning!
+
+Coloured bundles tooltips!
+
+Rarity tooltips!
+
+Fast craft button for mobile!
+
+Q&A:
+
+Q: Where can I ask about anything (that is not in this list)?
+
+A: Leave a comment, or join Recolourful Discord server
+
+Q: Coloured shulker boxes dont work!
+
+A: To use coloured shulker box feature, you must remove the empty symbol at the end of the shulker box name in the anvil. You can name shulker anything you want, but do not remove colour symbols (*symbol*r) in the beginning!
+
+Q: Can I modify Recolourful Containers / Can I do X with Recolourful Containers?
+
+A: Check Terms of Use at the bottom of the description
+
+Q: I want to support you! How can I do that?
+
+A: About that...
+
+If you don't want a server but still want to support me, share this pack with your friends or showcase it on YouTube, TikTok, Instagram, anywhere! Just leave a link to this page, I really appreciate it!
+
+- Chris_XENO for his original texture pack
+
+- Ashura_Tepes for porting to Bedrock
+
+Terms of use:
+
+If you think that you cant do something about this pack, please ask beforehand :)
+
+You can:
+
+- Use this pack in any forms of media, including YouTube, Twitch, etc.
+
+You can not:
+
+- Distribute this pack, assets or modified assets of this pack on any sites in any form without consent
+
+- Modify, extract, reuse, or share any part of the UI code

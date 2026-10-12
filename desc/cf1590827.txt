@@ -1,0 +1,9 @@
+"HD Controls" in Minecraft PE refers to custom user interface (UI) texture packs or built-in settings that optimize mobile touch buttons.
+
+Core Features
+
+Cleaner Visuals: Replaces large, bulky default buttons with crisp, transparent, or entirely invisible overlays.
+
+Custom Layouts: Allows resizing and moving individual buttons anywhere on the screen for better comfort.
+
+PvP Advantage: Clears up your screen view, making it easier to track enemies and aim during combat.

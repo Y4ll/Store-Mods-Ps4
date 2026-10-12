@@ -1,0 +1,110 @@
+Welcome to the Faramir's Furniture Addon! Get ready to transform your builds with stylish, vanilla-inspired furniture. This addon brings your spaces to lifenow with support for Vibrant Visuals and RTX.
+
+________________________
+
+FEATURES
+
+- Available in 4 languages!
+- English (default)
+- Espanol
+- Chinese (MUMASaMa2017 Bilibili)
+- Russian (DESI_0_2)
+
+- Over 350+ unique decorations
+
+- Interactive and functional blocks
+
+- Over 700+ variations
+
+- Full PBR compatible
+
+- Compatible with other furniture addons
+
+- Survival compatibility
+
+- Achievement friendly!
+
+Note: This wiki highlights the main features of the addon, but does not cover all available content. Explore in-game to discover everything it has to offer!
+
+CRAFTING FURNITURE
+
+To create any furniture item, you'll first need the Furniture Workbench and a Copper Pan. The Copper Pan is a special block that can only be crafted inside the Furniture Workbench, so make sure to build the workbench before starting your decorating!
+
+WOODEN PLANKS VARIANTS
+
+Discover new plank styles! These new variants can be crafted exclusively using the Stonecutter, offering more design variation while staying true to the vanilla aesthetic.
+
+COPPER HAMMER
+
+The Copper Hammer is a tool that lets you modify certain furniture designs with ease. Before you start decorating, make sure to craft oneits essential for personalizing your builds!
+
+BRAZIERS
+
+Braziers are decorative fire blocks that enhance builds with ambient lighting.
+
+Interact with Soul Sand to switch the flame to Soul Fire Use Charcoal to revert to the default fire
+
+CHANDELIERS & CANDELABRAS
+
+Both chandeliers and candelabras share a unique feature: you can change the color of their candles simply by interacting with them while holding any candle item. Customize your lighting to match your builds ambiance!
+
+ITEM DISPLAY
+
+Put your favorite Music Discs or Armor Trims on full display using the Item Display block! Each item is rendered in full 3D, making it perfect for decorating builds, creating collections, or simply flexing your rare finds to your friends.
+
+PLACEABLE ITEMS
+
+Decorate your house with placeable items to make it feel more alive. You can place almost any item with a 3d model to add personality to your space. You can always decraft them to their original item
+
+PLACEABLE MINERALS
+
+PLACEABLE EQUIPMENT
+
+PLACEABLE ITEMS
+
+PLACEABLE CROPS
+
+PLACEABLE MISELLANIOUS FOOD
+
+EDIBLE FOOD
+
+Some placeable foods like pumpkin pie and stews can be placed and interacted with, just tap to eat!
+
+SINKS
+
+Sinks offer usefull interactions when interacting:
+
+Water Loading:
+If there's a water source a few blocks below, interacting with the sink will fill it.
+
+Water Collection: Once filled, you can:
+
+1. Use an empty bucket to collect water
+2. Use glass bottles to fill them
+
+Material Conversion: Interacting with the sink while holding:
+
+1. Dirt gives you mud
+2. Concrete powder gives you solid concrete
+
+CUPBOARDS & DRAWERS
+
+Cupboards & Drawers Simple, Stylish Storage Decor are decorative blocks that can be opened or closed by interacting with them. While they dont store items, you can customize their top surface by using certain blocks.
+
+Due to Bedrock limitations, using entities for storage can cause item loss and restrict entity spawning across the world. To avoid these issues, Ive chosen not to implement entity-based storage in this addon.
+
+HANGING SIGN
+
+Hanging signs are versatile decorative blocks designed to enhance your builds with style and character.
+
+Customize Designs: Right-click with a Copper Hammer to cycle through available sign designs.
+Add Foliage: Interact with vines to drape natural greenery over the sign.
+Remove Foliage: Use shears to clean up the vines and restore the base look.
+
+WALL TORCH
+
+The Wall Torch is a functional decorative block that lets you hold any type of torch directly onto your builds.
+
+COPPER ADVANCED LAMP
+
+This is a useful block that lets you control its light level by interacting with it. You can also sneak while interacting 

@@ -1,0 +1,63 @@
+MCPEDL: https://mcpedl.com/f-n-a-f-by-dysprosium/
+
+- Entities
+
+Freddy:
+
+Like all further animatronics, it looks harmless, but until night falls...
+
+When the sun sets, he becomes possessed by the souls of crying children.
+
+Now a thirst for revenge has awakened in him, at death, the soul leaves him and only the body remains.
+
+Other animatronics will behave in a similar way.
+
+Bonnie:
+
+Foxy:
+
+Foxy is much faster than all other animatronics.
+
+Chica:
+
+- Blocks
+
+Animatronics Body Blocks:
+
+It is created after the death of any of the animatronics, has no functionality other than decorative.
+
+Plush toys:
+
+When pressed, it makes a squeak:>
+
+Animatronics Blocks:
+
+The animatronics return to these blocks as soon as the day comes.
+
+Doors:
+
+This addon adds 3 new types of doors, 2 by 3 blocks.
+
+Door.
+
+It opens and closes when you click on any of the door blocks.
+
+Restroom Door.
+
+Security Door.
+
+To control this door, you will need a security door switch. By pressing the top button, the door will close and open, and by pressing the bottom button, the lights will turn on and off.
+
+Decorative blocks:
+
+Many decorative blocks in this addon have their own characteristics, some of them can be controlled by holding a stick in your hands and clicking on the block, there are also quite a lot of connectable blocks in this addon, it's just pointless to mention everything here, I think you'll figure it out yourself.
+
+Light:
+
+In total, there are 3 lighting units in this addon, a light bulb, a ceiling light and a hall ceiling light, it can be turned on and off.
+
+Food:
+
+We have two types of food, soda and pizza. If you click on a pizza box, it will open and close, but if you click and sneak, pizza slices that can be eaten will drop from the box. You can drink soda by holding it in your hands or by clicking on the cup.
+
+The addon only works on versions above 1.21.51.01.

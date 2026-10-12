@@ -1,0 +1,25 @@
+NeBux GUI
+
+NeBux GUI is a Minecraft Bedrock resource pack that gives every usable block its own themed interface. Each block has a matching GUI for a clean and consistent look, enhancing the visual experience.
+
+This pack is a standalone version of my NeBux UI.
+
+If you want this GUI along with additional features like Guides, Quick Loot, Drop One Item, Drop All Items, and Quick Move, check:
+
+- Pocket GUI pack on CurseForge
+
+- Pocket GUI on MCPEDL
+
+NeBux GUI Dark Mode
+
+Features
+
+- Themed GUIs for all usable blocks (crafting table, furnace, anvil, etc.)
+
+- Clean and consistent design for immersive gameplay
+
+Support My Work
+
+If you find my packs helpful and would like to support my work, you can do so here:
+
+Support me on Ko-fi

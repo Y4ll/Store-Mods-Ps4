@@ -1,0 +1,53 @@
+Lifesteal
+
+The basic concept of lifesteal is that hearts depend on how many kills or deaths you have gotten. Every time you die, you will lose a heart.
+
+And on every kill, another player will gain a heart.
+
+Crafting
+
+To craft new hearts or the revive beacon, you can use these two recipes.
+
+Additionally, in the settings, you are able to create your own recipe, which can be made by dropping items onto the floor.
+
+If you would like to make your own recipes, visit this Guide.
+
+Revive beacon & soul bottle
+
+Once you die in lifesteal, your out. But that can be a little unfair, so the concept of soul bottles and revive beacons was added. A soul bottle drops once a player loses their last life and serves 2 purposes. The first purpose is to craft the revive beacon; the second purpose is that using the revive beacon requires a soul, which means it's trade; a soul for a soul to bring a player back.
+
+Once crafted, the revive beacon requires a beacon base like a normal beacon; by defult, the beacon requires a max size beacon base with 4 layers of iron, gold, emerald, diamond, or netherite blocks as shown below. Once the beacon is setup and you have an additional soul bottle, when you click on the beacon, a menu will open, allowing you to revive a player.
+
+Lifesteal enchantment
+
+An extra feature that was added to this addon is the lifesteal enchantment, which can be found in ancient cities and trail chambers. To apply this enchantment, drop it on top of an axe.
+
+Then every time you deal damage to a mob with an axe with this enchantment applied, you have a chance to regenerate health.
+
+Hearty apple
+
+This item introduces a way to get the health boost effect in game; by eating one of these apples, you will gain a stacking health boost effect for 5 minutes. This rare item has a 0.3% chance of dropping when you break oak or dark leaves. Note fortune and decaying leaves do not drop this item.
+
+Withdraw command
+
+The /withdraw command can be ran by any user regardless of permissions, allowing players to withdraw hearts. In addition the command can be ran without cheats.
+
+/withdraw <quantity>
+
+Or a gui version of the command is also avalible to use.
+
+/withdraw_gui
+
+If the withdraw command feature is disliked it can always be disabled in settings by an admin.
+
+Settings
+
+This addon is a highly customizable addon with close to 30 different settings that you can change to fit your play style. Most of these settings are self-explanatory, but if you would like an in-depth description and some guides, visit the Wiki, To change the settings get the settings item from creative mode inventory and right click using the item. The settings command can also instead.
+
+/settings
+
+Terms of Use
+
+You are allowed to modify this pack for personal use and use this addon to learn about coding. You can also use this pack wherever, and in videos, without needing to credit me.
+
+However, you are not allowed to distribute modified versions of this pack. If you choose to link to this pack, the link must directly link to this pack's CurseForge, MCPEDL, or GitHub page. You are also not allowed to take this pack's code.

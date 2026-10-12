@@ -1,0 +1,24 @@
+AS OF UPDATE 3.1.0 MODIFYING ANY SETTINGS REQUIRES THE USE OF PimpMyConfig
+
+Edds' VeinCapitator comes with veinminer & treecapitator!
+
+This does support fortune, unbreaking, and silk touch enchantments.
+
+To use veinminer or treecapitator, you have to be sneaking/crouching while breaking a tree/ore while also holding the respective tool.
+
+This works with most custom tools based on their identifier.
+
+There are pack settings to choose certain things like if you just want veinminer, or if you just want tree capitator.
+
+This pack uses no experimental options, which means that it shouldn't break with future versions!
+If this does well enough, i will continue to update it for future ores and logs.
+
+Have fun with veinminer and treecapitator! :D
+
+This now supports all in one tools!
+
+This now supports Core Craft!
+
+Showcase video below.
+
+Join the discord! Discord

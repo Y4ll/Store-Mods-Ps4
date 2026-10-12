@@ -1,0 +1,53 @@
+[Compatible with other addons] [1.21.131]
+
+v1.24.3
+
+- Items now function correctly with the glint.
+- Fixed issues with axes not showing wear.
+- Fixed lang issue.
+
+v1.24.2
+
+-Now it works with achievements
+
+BIG UPDATE v1.24.1
+
+- Added recipes for copper weapons
+- Added recipes for new weapons
+- Fixed an issue that prevented weapons from correctly applying their effects
+- Fixed visual issues with copper weapons, the Boxing Glove, and the Punisher
+- Fixed the sledgehammer
+
+Now weapons have their own category, making it much easier to find the weapons you want.
+
+Now, most weapons with abilities have a description of what they do and mention their weaknesses.
+
+Now you can decide whether to use a katana, machete, or sword. Each weapon has its own specific use.
+
+SPECIAL WEAPON:
+
+New Christmas-themed weapons were added
+
+Fixed a bug when grabbing an item from someone who had requested an arm for sharp weapon damage
+
+----
+
+New categories for weapons in the creative inventory, to quickly find a weapon
+
+The way of holding weapons that are used with 2 hands has been updated.
+
+NEW PARTICLE FOR HEAVY WEAPONS
+
+All the weapons you can hold, this addon adds new weapons of different materials. with different abilities according to the type of weapon. knife, katanas, long swords ,barbed mace , war fan , kama , bearded axes , dane axe and more
+
+COOLDOWN TEST
+
+How to craft weapons?
+
+A single table to craft the weapons of this addon, it is simple to do
+
+Smithing table:
+
+you can now upgrade your weapons from diamond to netherite
+
+DISCORD LINK

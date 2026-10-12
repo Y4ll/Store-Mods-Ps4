@@ -1,0 +1,103 @@
+Mystic Weapons are formidable magical weapons, each endowed with unique elemental attributes that their abilities are based on. Weapons and armors are associated with various elemental types.
+
+There are three types of weaponsscepters, mystic swords, and battleaxesalong with an armor set. Each of them can be crafted using an element stone.
+
+Element Stones
+
+Element Stones are rare and valuable items used in the crafting of various Mystic Weapons and Armors. These stones are considered unique and expensive, and they can be acquired through special means such as purchasing them from wandering traders, discovering them in specific chest loot locations, or drops from certain entities.
+
+There are 8 distinct types of Element Stones: Earth, Fire, Water, Ice, Wind, Lightning, Light, and Dark. Each type of stone can be broken down into 4 different shards using a crafting table, as illustrated below.
+
+Element Stones and Element Stone Shards serve as essential crafting materials for a different Mystic Weapons and Armors. There are three different kinds of weapons: Scepters, Swords, and Battleaxes. Within each of these weapon types, as well as armors, you will find 8 distinct variations, each representing a unique elemental affinity.
+
+Weapon Skills Triggering
+
+All Weapons and Armors possess skills, with most featuring a passive skill, while some have an active skill. The passive skill triggers when a certain condition is met.
+
+An active skill can be manually triggered by the player through:
+
+- Right clicking in computer/laptop
+
+- Pressing left trigger in Console
+
+- Touching and hold in mobile/tablet devices
+
+- Or tapping interact button
+
+Active skills have cooldowns, which means they can only be used during that time intervals.
+
+Scepters
+
+Scepters are potent long-range magical weapons, capable of wielding extraordinary abilities.
+
+Scepters will target all entities within 10 blocks radius, excluding 2 blocks radius from the user. If use while sneaking, it will target monsters only, otherwise it will target all entities. Other players can be targeted too, if Friendly Fire (gamerule pvp) is enabled.
+
+Scepters feature only an active skill, and each successful use of this skill consumes 1 level of xp. Scepters are known to have low durability.
+
+Evocation Staff (Earth)
+
+Attack all targets with evocation fangs twice, dealing damage with each attack. The second attack inflict a weakness effect to the targets.
+
+- Cooldown: 10s
+
+- Damage: 6/hit
+
+Hydroburst Scepter (Water)
+
+Unleash a surging wave of water that slightly pushes away all entities it hits, dealing massive damage to them. If the target is on fire, it deals even greater damage but extinguishes the flames upon impact.
+
+- Cooldown: 12s
+
+- Damage: 12
+
+- On Fire Damage: 15
+
+Tempest Staff (Wind)
+
+Levitate all targets into mid-air, then unleash bursting wind on them, dealing great damage. And upon descent, it causes fall damage.
+
+- Cooldown: 12s
+
+- Damage: 10 + fall damage
+
+Frostveil Scepter (Ice)
+
+Encase all targets in ice, dealing a small amount of damage and applying a slow effect. The ice will eventually destroy after a few seconds, dealing additional damage if targets remain inside.
+
+- Cooldown: 15s
+
+- Initial Damage: 3
+
+- On Break Damage: 6
+
+Lightning Scepter (Lightning)
+
+Strike lightning bolt upon all targets twice, each cause damage and scorching all entities on impact.
+
+- Cooldown: 15s
+
+- Damage: 5/hit + scorching damage
+
+Solarflare Scepter (Light)
+
+Strike solar beam at all targets, dealing damage every 0.5 seconds, with the initial hit being more powerful than the subsequent three hits.
+
+- Cooldown: 10s
+
+- Initial Damage: 5
+
+- Subsequent Damage: 2/hit
+
+Necromancy Staff (Dark)
+
+Summon 4 Undeads that attack nearby entities. After 10 seconds, they will detonate, dealing damage within the blast radius.
+
+- Cooldown: 20s
+
+- Undead's Damage: 4/hit
+
+Undead's Characteristics
+
+- Players who wear full set of shadow armor won't attack by undead, unless player attack them.
+
+- Can inflict blindess ef

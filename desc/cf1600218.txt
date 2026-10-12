@@ -1,0 +1,63 @@
+About
+
+Add clean seamless glass blocks to Minecraft Bedrock.
+
+Seamless Glass adds craftable glass blocks and panes that visually connect to matching seamless glass. It keeps vanilla glass untouched, so players can choose where they want connected borders and where they want normal Minecraft glass.
+
+Features
+
+- Adds seamless versions of regular glass and every vanilla stained glass color
+
+- Adds seamless versions of regular and stained glass panes
+
+- Panes form straight sections, corners, T-junctions, and crosses automatically
+
+- Matching panes attach to full seamless glass blocks
+
+- Matching seamless glass blocks hide shared borders automatically
+
+- Glass borders refresh after piston movement and explosions
+
+- Different colors stay separate and do not connect to each other
+
+- Vanilla glass remains unchanged
+
+- One-to-one crafting keeps conversion simple and reversible
+
+- Works in survival and creative worlds
+
+How to use
+
+Enable both the behavior pack and resource pack in your world. Craft vanilla glass or glass panes into seamless glass at a crafting table, then place matching pieces next to each other.
+
+Existing vanilla glass builds are not converted automatically. Replace vanilla glass with seamless glass where you want connected borders.
+
+Crafting
+
+Convert Glass or Glass Panes into their seamless variants and back with shapeless recipes. The same conversions work for all 16 stained-glass colors; clear glass is shown below.
+
+Glass to Seamless Glass
+
+Glass Pane to Seamless Glass Pane
+
+Seamless Glass to Glass
+
+Seamless Glass Pane to Glass Pane
+
+Notes
+
+- Seamless blocks connect to the same seamless block type.
+
+- Seamless panes connect to matching panes and matching full seamless glass.
+
+- Vanilla glass does not connect with seamless glass.
+
+- Different colors do not connect with each other.
+
+- No external library add-ons are required.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.50 or newer
+
+- Behavior pack and resource pack enabled together

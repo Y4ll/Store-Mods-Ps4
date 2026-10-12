@@ -1,0 +1,21 @@
+Project Description:
+
+Breaking open a lucky block is a chaotic gamble where you never know if you'll be rewarded with legendary loot or shocked by a hostile mob. With bated breath, you smash the glowing golden cube, knowing that the next split second will either grant you a diamond or unleash an angry Creeper.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Vibrant Visuals will need to be activated for some features.
+
+- Mine to find lucky blocks
+
+- Good and bad items from the blocks.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.

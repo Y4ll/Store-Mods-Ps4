@@ -1,0 +1,37 @@
+IT WORKS IN HARDCORE MODE
+
+In this add-on, as soon as you die, you return to the last save point.
+
+Every time you enter the world, a save is created, and without modification, the save is made every 2 minutes.
+
+Upon return, one of five sounds taken from the anime is played.
+
+After death, youll be sent completely back in time, and everything will be exactly as it was at that momenthealth, hunger, mobs, items, inventory, everything.
+
+The return will be instantaneous; everything resets, and youll relive those moments all over again
+
+WORKS IN MULTIPLAYER
+
+TO CHOOSE WHO HAS RETURN BY DEATH, type the following in chat: /tag player name remove/add rbd
+
+If, while in Shifted mode, you double-click a block and arent holding anything, the Satella event will trigger. During this event, Satella will freeze time and approach you with her slightly unsettling aura, repeatedly telling you how much she loves you, accompanied by music from the anime. When shes finished, shell kill anyone who heard what you said. This event can be triggered every 10 minutes. You can disable this event in the add-on settings
+
+You can choose which rbd sounds will play when creating or editing the world
+
+COMMANDS:
+
+/checkpointimewith this command, you can change the time interval between checkpoints.
+
+/checkpointprobabilitythe probability that a checkpoint will occur.
+
+/savemodecheckpointssafe checkpoint mode; when enabled, checkpoints will only be created when you are in a safe area.
+
+/setcheckpointhere creates a checkpoint the moment it is typed
+
+ALL OF THESE COMMANDS HAVE A VERSION PREFIXED WITH rbd: DONT WORRY, THEY DO THE SAME THING; ITS JUST A REQUIREMENT OF MINECRAFT BEDROCK
+
+CREDITS:
+
+Satella event idea: tyzzweird. https://www.curseforge.com/members/tyzzweird/projects
+
+Satella skin by: https://p.novask.in/mqscoeaxtl

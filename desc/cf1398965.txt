@@ -1,0 +1,5 @@
+Warden Expansion adds new Warden variants to your Minecraft world, making the Deep Dark more interesting.
+
+The goal of Warden Expansion is to expand warden mobs and also let players craft items from the loot dropped by each warden.
+
+(the addon is still in development, so please understand if there are bugs)

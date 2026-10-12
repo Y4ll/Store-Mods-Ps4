@@ -1,0 +1,51 @@
+Note: Nether mobs are still in the nether. This data pack change the spawnpoint to Nether instead of the OverWorld.
+
+We replaced Crimson Forest into Savanna Biome.
+
+What will you see in this biome?
+
+Acacia trees, and poppy flower are the things you will see in this biome.
+
+We replaced the Warped Forest into oak tree forest.
+
+What will you see in this biome? You will see oak trees and yellow flower are the things you will see in this biome.
+
+We replaced Soulsand Valley into Desert.
+
+What are the blocks you will see in this biome?
+
+Sandstone and Deepslate are the most common in this biome.
+
+Note: If i put sand instead of sandstone Minecraft will instantly crash.
+
+We turned Nether Wastes into Plains Biome.
+
+What block you will see in this biome?
+
+Grass blocks is the most common block in this biome.
+
+We replaced Basalt Deltas into Deepdark Biome
+
+What will you see in this biome?
+
+You will see deepslate, stone, mushroom, and powder snow in this biome.
+
+We replaced the lava into powder snow to maked the Nether more harmless
+
+Structures:
+
+Basalt Deltas: We replaced Blackstone blocks into Deepslate blocks.
+
+We replaced gold blocks into raw gold blocks
+
+Nether Fortress: We replaced nether bricks into deepslate tiles.
+
+Ores: We replaced Nether gold ore, Ancient Debris, and Quartz ore into Gold ore, Emerald ore, and Iron ore.
+
+Nether Gold Ore= Iron Ore
+
+Quartz Ore= Gold Ore
+
+Ancient Debris= Emerald Ore
+
+Deepslate Diamond ore are only in Bastion

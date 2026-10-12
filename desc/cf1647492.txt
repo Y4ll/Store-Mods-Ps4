@@ -1,0 +1,21 @@
+Project Description:
+
+Transform combat feedback with real-time, dynamic floating numbers directly above affected mobs and players. Every strike is visualized, removing the guesswork from battles and boss fights.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Real time damage indicator.
+
+- Color indicator for damage values.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Having something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Now you will always know precisely how much damage you are dealing to any entityincluding custom mobs from other add-ons and boss fights. Whether you are testing high-tier weapons against vanilla zombies or seeing how your gear holds up against heavily modded custom bosses, every hit is tracked instantly with crystal-clear visual feedback. No more guessing if your custom enchantments or stat tweaks are actually making a difference.

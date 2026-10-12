@@ -1,0 +1,9 @@
+Embark on an epic journey with the Dragon Man addon! Face thrilling challenges all the way to the End and claim the legendary vial of dragon breath. With this mystical item, you can craft a powerful potion that will completely transform your gameplay experience. Get ready to unleash a power that will change everything in your adventure!
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-pink">You can make the transformation potion using a dragon's breath potion!</mark>
+
+<mark class="marker-pink">drinking the potion gives you the characteristics of a dragon</mark>
+
+<mark class="marker-pink">you gain superhuman strength, and the ability to fly</mark>

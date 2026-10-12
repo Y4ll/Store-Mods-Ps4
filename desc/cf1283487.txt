@@ -1,0 +1,95 @@
+Wandering Trader's OP Trades
+
+Upgrade your survival experience with Wandering Trader's Custom Trades V1.1. This addon completely revamps the Wandering Trader by replacing ordinary trades with powerful, rewarding, and game-changing offers that can help you progress much faster.
+
+Instead of receiving basic items, you'll discover valuable resources, rare equipment, powerful tools, end-game gear, and many other exciting rewards whenever you encounter a Wandering Trader.
+
+New Custom Trades
+
+- Emeralds
+
+- Iron Blocks
+
+- Diamond Blocks
+
+- Enchanted Golden Apples
+
+- Firework Rockets
+
+- Experience Bottles
+
+- Golden Carrots
+
+- Ender Pearls
+
+- Eyes of Ender
+
+- End Portal Frames
+
+- Totems of Undying
+
+- Beacon
+
+- Shulker Boxes
+
+OP End-Game Equipment
+
+- Maxed Netherite Sword
+
+- Maxed Netherite Pickaxe
+
+- Maxed Bow
+
+- Maxed Elytra
+
+- Maxed Netherite Helmet
+
+- Maxed Netherite Chestplate
+
+- Maxed Netherite Leggings
+
+- Maxed Netherite Boots
+
+- And many more powerful trades!
+
+Why Use This Addon?
+
+The Wandering Trader often feels underwhelming in vanilla Minecraft. This addon transforms him into a valuable merchant that players will actually want to find. Whether you're preparing for boss battles, exploring distant lands, or building massive projects, the upgraded trade system provides useful rewards throughout your adventure.
+
+From rare survival resources to powerful enchanted equipment, every trader encounter becomes much more exciting and rewarding.
+
+Compatibility
+
+- Achievement Friendly
+
+- No Experimental Features Required
+
+- Multiplayer Friendly
+
+- Survival Friendly
+
+- Minecraft Bedrock Edition Supported
+
+- Lightweight and Optimized
+
+Installation Guide
+
+- Download the addon file.
+
+- Open it using ZArchiver or any file manager app.
+
+- Select "Open With" and choose Minecraft.
+
+- Wait for the addon to import.
+
+- Open your world settings.
+
+- Enable the addon inside the Behavior Packs section.
+
+- No Experimental Features are required.
+
+- Join your world and discover the new Wandering Trader trades.
+
+Created by FleetMc Studio
+
+Images

@@ -1,0 +1,55 @@
+Have you even wanted to play Minecraft Dungeons from a new perspective? Feel the boss fights and the dungeon exploration through the eyes of your own avatar? Well, it's your lucky day, since I present you, the Dungeons Content Add-on. This Minecraft Dungeons Add-on for Minecraft Bedrock Edition aims to recreate all the content from Minecraft Dungeons in the most accurate way possible for you own personal enjoyment, adding enemies, bosses, weapons, blocks and more from the original game.
+
+This addon took me over 4 years to make, and im so proud of it! After 4 years, im finnally ready to officially upload the addon
+
+THIS ADDON NOW WORKS ON REALMS!
+
+If you never played minecraft dungeons, you should probably check the wiki to view how content is meant to work (mobs/gear/ambushes etc..)
+
+The addon currently only features a few dungeons and its not 100% compatible for survival experience, more dungeons will be added soon, and it will compatible for survival experience!
+
+Many artifacts wont work if you dont have hostile mobs nearby. This addon also includes all capes from Minecraft Dungeons, to wear capes you need to hold your finger on the screen with the cape item in your hand, and on windows you need to right click with your mouse, once the cape is worn, a sound will be played, if your cape doesnt display on your skin, you need to remove your cape from the character creator
+
+Soul Bar
+
+This addon adds a new bar to your hotbar, the "Soul Bar", this bar is used to collect souls to activate some specific artifacts.
+
+To find out which artifacts require souls to get activated, you can see it by the item's name.The artifacts who require souls have a soul icon displaying on their names.Please if you didnt played minecraft dungeons and you have no idea how the soulbar is used, please visit the wiki.
+
+The purple bar is the Experience bar, it got updated to match Minecraft Dungeons
+
+Generation Bundle Pack
+
+This behavior pack adds structure/world/biome generation to the Dungeons Content Add-On!
+
+The Dungeons Content Add-on is required to make this bundle work correctly!
+
+Music Bundle Pack
+
+This pack contains Music tracks that can be used by map makers, and also to enjoy with the addon it self, when a boss is summoned with the "boss" event, the mob will automatically play its music track (loop).When the mob is defeated, the music will stopAmbiental music is played by default depending on your current gamemode Survival/Creative and your current biome where you are
+
+Want to follow me?
+
+Here all my links!
+
+Player Customization
+
+This addon changes the player by adding a Face Layer, which includes the Mouth and Eyes. Some of the animations of include facial animation and expressions
+
+This feature also works with custom skins and also with multiple eye sizes!
+
+Experimental features
+
+This addon to work requires some experimental features
+
+- Beta Api
+
+- Custom Biomes
+
+- Upcoming Creator Features
+
+Dungeons Content Addon WIKI
+
+This addon now has an official wiki that has been made! It might not be perfect but can be extremly usefull!
+
+NOTE: The wiki is not finished, and will take a while, you can still check it out!

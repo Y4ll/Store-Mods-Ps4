@@ -1,0 +1,12 @@
+DH Random Loots adds the possibility that breaking any block may drop a random item, spawn a hostile or peaceful entity, or place a random block; you'll never know what awaits you after breaking each block.
+
+___________________________________________________________
+
+Report errors or bugs to Support.dhdev@gmail.com
+
+___________________________________________________________
+
+Note
+The add-on will be updated soon, adding new mechanics and improvements.
+
+By DHdev

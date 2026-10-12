@@ -1,0 +1,21 @@
+Project Description:
+
+Why play a Pokemon game without the tools to look like a real Pokemon Trainer? The Pokemon Backpack add-on will make you look the part whilst running around capturing powerful creatures and exploring untamed biomes.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Actual pokemon style backpack.
+
+- Inventory storage and on back features.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+Sneak and interact to place the Pokemon Backpack on your back then Sneak and Jump to get a prompt to place it back down.

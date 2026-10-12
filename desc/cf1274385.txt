@@ -1,0 +1,45 @@
+Hello. Welcome to Twisted Shadows. This Addon adds Herobrine to the game, among other things. Interactions with Herobrine can range from barely getting a glimpse of him to world ending events. (Note: This Addon will not grief your world and is perfectly safe to put on any world. That being said, and as with any Addon, I do suggest making a backup of your world, just in case.)
+
+Experiments are NOT required for this Addon.
+
+Credits
+
+Music by Furnace
+
+Cover Image by TheEntityNul
+
+A helpful feature of this Addon is the Herobrine menu, accessed by using the command '/herobrine_menu'. The Herobrine menu allows you to trigger Herobrine events, adjust the rates of each activity, and view information regard features of the Addon.
+
+Here is some general information regarding Herobrine's capabilities. (All this information can be viewed in-game, using the 'Explanations of Addon Features' button in the Herobrine menu.)
+
+Herobrine Activity
+
+After the first day of being in your world, Herobrine Activity will begin. All of the features in this Addon fall under the umbrella of Herobrine Activity, with the exception of the Calamity. Changing the Activity rate will effect all other events. As with any rate, changing the rate to 0 will disable that activity, but you could also just use the toggle for Herobrine Activity.
+
+Herobrine Anger
+
+When interacting with Herobrine, a player's Herobrine Anger may increase. The more Herobrine Anger you have, the more likely Herobrine is to target you. Your Herobrine Anger will naturally decrease over time. You can check or reset Herobrine Anger in the 'Trigger Herobrine Event' menu.
+
+Herobrine Glimpse, Stalk, Attack, Don't Turn Around modes
+
+With these events, Herobrine will appear nearby in your world and watch you. For Glimpse mode, he will disappear as soon as he is on-screen. For Stalk mode, he will disappear when you point your crosshair near him. Attack mode is similar to Stalk mode, but instead of disappearing, Herobrine will instead lunge at the player and jumpscare them, doing a little damage in the process. For Don't Turn Around mode, Herobrine will spawn directly behind you and prevent you from moving. Once you turn around and look at Herobrine, he will disappear and you will be able to move again.
+
+Herobrine Signs and Special Signs
+
+Herobrine will occasionally write messages on signs and leave them around your world. These signs may provide clues towards confronting Herobrine. These signs will eventually disappear on their own if left alone. There are 2 main types of signs, the normal Signs and the Special Signs. The normal Signs also have a chance of displaying rare text, written in gray instead of black. Special Signs have questions writtin in italics, and when interacted with, allow the user to answer Herobrine's questions, as well as get a response from him.
+
+Herobrine Nightmares
+
+At the beginning of every day, there is a chance for that day to be marked as a 'Nightmare Day'. If any player attempts to sleep on a Nightmare Day, Herobrine will visit them in a Nightmare and prevent them from sleeping, making it so you cannot skip the night.
+
+Herobrine Altars
+
+Herobrine Altars are small structures made of Gold Blocks and Netherrack with a Sign on top. The Sign holds key information about confronting Herobrine. Herobrine Altars will rarely spawn in your world.
+
+Herobrine Deepslate Torch
+
+When a player is deep underground at the Deepslate level, there is a chance for them to hear the sound of Herobrine mining Deepslate nearby and placing a Redstone Torch. If they decide to investigate and mine near the area where they heard the sound, they will find Herobrine's Redstone Torch. Attempting to trigger this event using the menu will not work unless the target player is near a significant amount of Deepslate.
+
+Herobrine Ambience and Footsteps
+
+Herobrine Ambience are spooky noises that will occasionally be played to players. Herobrine Footsteps is the sound of Herobrine walking nearby on Stone, and will on

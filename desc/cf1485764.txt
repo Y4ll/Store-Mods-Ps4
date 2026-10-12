@@ -1,0 +1,83 @@
+X-Ray With Night Vision
+
+X-ray With Night vision is the second variant of the Advanced X-Ray Mod, created based on community demand for an integrated Night Vision feature. This version enhances the original X-Ray experience by allowing players to clearly see ores and underground structures even in dark environments.
+
+This mod is designed to provide a clean, efficient, and achievement-friendly X-Ray experience while maintaining stable performance in your game.
+
+Features
+
+Integrated Night Vision
+
+- Easily see ores and underground caves even in complete darkness.
+
+Enhanced Ore Visibility
+
+- Blocks surrounding valuable ores are hidden to make mining more efficient.
+
+Optimized Performance
+
+- Lightweight design ensures minimal performance impact.
+
+Clean Visual Experience
+
+- Clear underground view with minimal visual clutter.
+
+Important Settings (Required)
+
+To ensure ores are visible while using the mod:
+
+Turn OFF Smooth Lighting
+
+If Smooth Lighting is enabled, ores may not render correctly and could become invisible.
+
+Important Note - You must use mbLoader/Minecraft Patch/BetterRenderDragon In order to make Night Vision work.
+
+How to Disable Smooth Lighting ?
+
+- Open Settings
+
+- Go to Video / Graphics Settings
+
+- Find Smooth Lighting
+
+- Set it to OFF
+
+After changing the setting, reload the world if necessary.
+
+Usage Instructions -
+
+- This Resource Pack Works In Multiplayer Worlds And Servers But It Isn't Recommended As It May Lead To Your Ban.
+
+- But If You Want To Use this In Servers At Your Own Risk, Apply It From Global Resources.
+
+- This Pack Only Works In Patched Minecraft 26.10+ Versions
+
+- Help Me -
+
+X-Ray With Night Vision
+
+Redistribution Policy -
+
+Redistribution of this mod is strictly prohibited.
+
+You are not allowed to:
+
+- Reupload this mod to other websites
+
+- Share modified versions
+
+- Include this mod in modpacks without permission
+
+Always download the mod from the official source.
+
+Creator
+
+X-Ray With Night Vision is developed and maintained by:
+
+Sycure Gaming
+
+Final Notes
+
+This variant was developed specifically based on user requests for Night Vision support in the original Advanced X-Ray mod. It provides a smoother and more convenient mining experience while keeping gameplay simple and efficient.
+
+Enjoy the enhanced underground exploration experience!

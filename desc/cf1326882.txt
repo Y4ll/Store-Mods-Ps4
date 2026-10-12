@@ -1,0 +1,54 @@
+Hey! Are you looking for a Armor Chroma for Bedrock Edition? Or do you want to use an armor HUD without it taking up your whole screen? Well, this addon is perfect for you!
+
+This addon allows you to see the armor youre wearing directly on the armor bar.
+
+How does it work? You just need to equip any armor you have, and the armor bar will change based on the armor youre wearing, such as leather, diamond, or even the new copper armor.
+
+Available armor bars: leather, turtle, chain, iron, gold, diamond, netherite.
+
+Note: This addon does not support other custom armor addons unless their paths, components, and textures have been added (read below).
+
+So, how do you add custom armor to this addon? Easy, you just need to follow these steps.
+
+Adding the armor bar texture:
+
+First, create a folder in your resource pack: textures/ui/colorful_armor_bar/
+
+Then for example, if you have a custom armor called icikiwir, you need to create two armor bar textures named icikiwir_full and icikiwir_half.
+
+After that, place those textures into the folder above.
+
+Adding the component to the armor item file:
+
+This is needed so the custom armor can be defined. First, copy this code:
+
+"cab:armor_data": {
+"texture": "icikiwir",
+"armor_protection": 6
+}
+
+Change the texture value to match your armor name, taken from icikiwir_full or icikiwir_half, and change the armor_protection value to match your custom armors protection.
+
+Add this code into the components section of your armor item file.
+
+Then you can test it in game.
+
+Or if you dont want to bother using the steps above, you can request me to make this addon compatible with other custom armor addons, just chat me on Discord.
+
+Required Dependencies(important!)
+
+very necessary for the addon to work
+
+UI Neck
+
+Showcase Video
+
+watch if you don't understand or want to know how it works!
+
+Join Our Community
+
+discussions, submit suggestions, report bugs and more
+
+Discord Server | Telegram Group | Whatsapp Group(+62 only)
+
+Reference: Detail Armor Bar

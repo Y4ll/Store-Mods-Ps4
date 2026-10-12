@@ -1,0 +1,15 @@
+My Other Addons:
+
+This is a small library that adds several enchantments at levels that are impossible to obtain normally.
+
+The level limit in this library is (Level 10 or Level X), there are also other enchantments with lower levels but that is because they work the same in higher levels or malfunction at higher levels.
+
+Reference image of the highest level of the library
+
+The enchantments were set to cost a minimum (only 1 experience level) so if it doesn't let you enchant something or merge books try enchanting them individually.
+
+________________________________
+
+My Other Addons:
+
+Compatible with achievements

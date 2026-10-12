@@ -1,0 +1,27 @@
+Twitter: Click here!
+
+YouTube: Click here!
+
+Discord: Click here!
+
+Donations: PayPal or Kofi (clickables)
+
+Introduction
+
+Bunny-hop (or Bhop) is a movement technique used in Counter-Strike where a player jumps repeatedly while moving in a certain way to go faster or maintain speed. It looks like the player is bouncing or hopping like a bunny.. hence the name!
+
+Tutorial
+
+Jump at the correct time to hop, strafe to gain speed and make sure to control it so you don't hit walls or water!
+
+Features
+
+Do you have ADHD? Do you have a computer? great! because you can edit the speeds to your liking;
+
+BhopAddon\scripts\main.js and head over to line 412. Once you're done with editing, type /reload all in chat.
+
+Compatible with any addon!
+
+Introduction Video
+
+Made by JustinRomain.

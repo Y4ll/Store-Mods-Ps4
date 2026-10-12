@@ -1,0 +1,31 @@
+Write in the chat "/emote:item" to obtain the item with which you will play the emotes.
+
+When using this item you will be shown the emote menu
+
+New custom commands:
+
+Alternatively you can play an emote with a command in chat
+
+/emote:play
+
+Example:
+
+Type "/emote:help" in the chat to see a list of all available emotes
+
+Now there are 2 sections of emotes the new section adds the emotes from dark souls 1:
+
+Discord: euforia_sin_h
+
+Discord server comunity: https://discord.gg/YJ5v727bJH
+
+YT: https://www.youtube.com/@Euforia-conr
+
+Note:
+
+Check beta api
+
+Don't forget to download both files for the textures to work (BP - RP).
+
+A new update will be coming soon, feel free to leave comments and suggestions.
+
+Special thanks to @danilerts for helping me with animations.

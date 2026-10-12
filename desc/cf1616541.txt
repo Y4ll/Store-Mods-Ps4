@@ -1,0 +1,37 @@
+Curse?
+
+curse is a lightweight Minecraft Bedrock Resource Pack that enhances the game's interface while keeping the vanilla experience intact. It is designed especially for PvP players who prefer a clean, modern, and distraction-free UI.
+
+Features
+
+Clean and minimal interface.
+
+Custom Crosshair.
+
+Redesigned Hotbar.
+
+Improved Hearts.
+
+Custom Sword Colors.
+
+Better visual clarity during combat.
+
+Lightweight with no FPS impact.
+
+Multiplayer compatible.
+
+Compatibility
+
+Minecraft Bedrock Edition
+
+Installation
+
+Import the .mcpack file into Minecraft and enable it from Global Resources or World Resources.
+
+Credits
+
+Author: XzEnO
+
+follow us in Twitter :]
+
+https://x.com/Voiderz_Team

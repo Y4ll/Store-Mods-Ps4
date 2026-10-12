@@ -1,0 +1,39 @@
+How does it work?
+
+- When you die you will get a key that when placed in your hand will tell you the coordinates and the distance in blocks where you died.
+
+- When you go to the grave you must interact with it while having the key in your hand and you will obtain your entire inventory.
+
+- The keys are unique and only work with the correct gravestone.
+
+- Only the owner of the gravestone can open it, regardless of whether another player has the correct key.
+
+- If for some reason you lose the key you can craft another one.
+
+- If you fall into the void in the end dimension, the gravestone will be placed at height 1 along with some blocks to make it easier for you to obtain.
+
+- If you die in the same position as another player, the gravestone will be placed next to that gravestone.
+
+- Using the `admin` tag administrators will be able to open any grave.
+
+- You can also use the admin key to open any grave.
+
+- There are 8 graves that will appear depending on the player's XP level when they die.
+
+Some inspired by Terraria
+
+How to install:
+
+- Download and install the behavior pack and resource pack
+
+- Activate both the behavior and the resource pack in your world settings
+
+- KeepInventory enabled is required for the addon to function correctly
+
+Screenshots:
+
+Report error to my YouTube Effect99
+
+- Any suggestions to add in the addon are welcome as long as you send them to me on my Discord
+
+By Effect99

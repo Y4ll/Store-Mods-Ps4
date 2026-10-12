@@ -1,0 +1,59 @@
+Images
+
+- Default mode (chest icon)
+
+- Quick loot mode (up and down arrow icon)
+
+- Drop one mode (arrow down icon)
+
+- Drop all mode (multi arrow down icon)
+
+- Jei layout
+
+- Bundle item count
+
+- Item Hover text tooltipsq
+
+-
+
+- Inventory shortcut, grey represents as player inventory, yellow represents as hotbar
+
+-
+
+- Quick craft (also works on crafting table)
+
+-
+
+- Crafting table
+
+-
+
+- Transparent variant of Jei
+
+-
+
+-
+
+- Bundle item count
+
+-
+
+-
+
+- Item Hover text tooltips
+
+-
+
+Configurations (_global_variables.json)
+
+- $use_jei_layout = true is default, change it to false to disable the Jei layout and use default Minecraft layout
+
+- $transparent_jei = true is default, change it to false to use the non transparent variant
+
+- $item_hover_text_position = bottom_right (default), bottom_left, top_left, top_right
+
+Credits
+
+- TheAndromedarius (https://mcpedl.com/user/the-andromedarius) - Quick Loot Template, better villager container bindings template.
+
+- ZackyProYT (https://m.youtube.com/@zackyproyt) - inventory navigation button

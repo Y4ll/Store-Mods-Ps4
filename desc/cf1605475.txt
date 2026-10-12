@@ -1,0 +1,5 @@
+A pack for Vibrant Visuals that aims to give the feeling of late summer into the game.
+
+Featuring PBR maps for various reflective surfaces including ore blocks, as well as colored lighting for the majority of light sources. The sun and moon have been given realistic textures, and the cloud pattern has been updated to a custom texture done by me.
+
+I greatly appreciate any feedback!

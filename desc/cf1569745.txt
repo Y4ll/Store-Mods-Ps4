@@ -1,0 +1,23 @@
+Chunks Are Random
+
+Chunks Are Random completely changes the way Minecraft worlds generate. Instead of generating normally, each chunk can be replaced with a random chunk, creating a unique and chaotic world to explore.
+
+This addon is perfect for players who enjoy:
+
+- Randomized gameplay
+
+- Exploration challenges
+
+- Unique survival worlds
+
+- Playing Minecraft in a completely new way
+
+Whether you're starting a fresh survival world or simply looking for a fun challenge, Chunks Are Random ensures that every adventure is filled with surprises.
+
+Important
+
+- For the best experience, create a new world or explore unexplored areas to generate random chunks.
+
+- Every 2 minutes, all items on the ground will be automatically deleted to help prevent lag and improve performance.
+
+- A warning message will be displayed 10 seconds before the item cleanup occurs, giving players time to pick up anything important.

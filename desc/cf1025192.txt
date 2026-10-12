@@ -1,0 +1,265 @@
+The Texture Update has been officially released for years, while some of us still prefer the old textures. However, the Minecraft Classic Texture Pack from Minecraft's official Marketplace is now delisted, which is exactly what this pack aims to fix. With this pack, you can easily enjoy the classic textures, with Vibrant Visuals support and even more things fixed!
+
+Additional Features
+
+Extra features compared to the original Classic Texture Pack.
+
+Vibrant Visuals Support
+
+- Vibrant Visuals can be enabled with this pack
+
+- Include MERS (PBR) textures for many blocks, items and entities
+
+- Include static colored light support for lighting blocks
+
+Blocks
+
+- Spruce, Birch, Jungle, Acacia, Dark Oak, and Copper Doors/Trapdoors
+
+- Mangrove, Cherry & Pale Oak Log, Leaves, Planks, Signs, and Doors/Trapdoors
+
+- Water
+
+- Dried Kelp Block
+
+- Blast Furnace
+
+- Smoker
+
+- Campfire logs
+
+- Cartography Table
+
+- Grindstone
+
+- Barrel
+
+- Composter
+
+- Stonecutter
+
+- Lectern
+
+- Loom
+
+- Wither Rose
+
+- Beehive
+
+- Smooth Quartz
+
+- Nether Wart Blocks (both, 1.16+)
+
+- Red Nether Bricks
+
+- Chiseled & Cracked Nether Bricks
+
+- All the Overworld wooden Trapdoors, except oak trapdoor
+
+- Crimson Nylium, Planks, Log tops, Sign and Door
+
+- Warped Nylium, Planks, Log tops, Sign and Door
+
+- Nether Gold & Quartz Ore (1.16+)
+
+- Crying Obsidian
+
+- Soul Soil
+
+- Soul Torch
+
+- Quartz Bricks
+
+- Respawn Anchor
+
+- Blackstone, Gilded Blackstone
+
+- Polished Blackstone, Chiseled Polished Blackstone
+
+- Polished Blackstone Bricks, Cracked Polished Blackstone Bricks
+
+- Copper Ores
+
+- Copper: All Copper blocks, Cut Coppers, Chiseled Coppers, Copper Bulbs, Copper Grates
+
+- Tinted Glass
+
+- Powder Snow
+
+- Glow Item Frame
+
+- Moss/Pale Moss Block & Carpet
+
+- Azalea
+
+- Azalea Leaves
+
+- Cave Vines
+
+- Deepslate: Deepslate, Cobbled Deepslate, Deepslate Bricks (normal and cracked), Deepslate Tiles, Chiseled Deepslate, & Reinforced Deepslate
+
+- All Deepslate Ores
+
+- Coal, Iron, Gold and Redstone Ore (can be switched with Classic Ore Patterns add-on)
+
+- Calcite
+
+- Tuff: Tuff, Polished Tuff, Chiseled Tuff, Tuff Bricks, & Chiseled Tuff Bricks
+
+- Mud
+
+- Chiseled Bookshelf
+
+- Suspicious Sand & Gravel
+
+- Crafter
+
+- Trial Spawners, normal & ominous
+
+- Vault & Ominous Vault
+
+- Creaking Heart
+
+- Short & Tall Dry Grass
+
+- Cactus Flower
+
+- Bush
+
+- Firefly Bush
+
+- Leaf Litter
+
+- Dried Ghast
+
+- Copper Torch
+
+- Copper Chests
+
+- Copper Golem Statues
+
+- Golden Dandelion
+
+- Sulfur, Potent Sulfur, Polished Sulfur, Chiseled Sulfur & Sulfur Bricks
+
+- Cinnabar, Polished Cinnabar, Chiseled Cinnabar & Cinnabar Bricks
+
+- Poplar Log, Stripped Log, Leaves, Planks, Sign, Hanging Sign, Door, Trapdoor, and Shelf
+
+- Straw Bed
+
+- Red Shurb
+
+Items
+
+- Shield
+
+- Trapped Chest in inventory (MCPE-48879)
+
+- All the fish & fish buckets
+
+- Kelp
+
+- Dried Kelp
+
+- Phantom Membrane
+
+- Nautilus Shell
+
+- Heart of the Sea
+
+- Turtle Shell
+
+- Turtle Scute
+
+- Campfires
+
+- Crossbow
+
+- Leather Horse Armor (from Bedrock Edition)
+
+- All the Banner Patterns
+
+- All the Signs
+
+- Bell
+
+- Suspicious Stew
+
+- Honey Bottle
+
+- Honeycomb
+
+- New Dyes (black, brown, blue, and white)
+
+- All the Banner Patterns
+
+- All the Signs
+
+- All the Netherite armors
+
+- Netherite Ingot
+
+- All the Netherite tools & Sword
+
+- Warped Fungus on a Stick
+
+- Copper Ingot
+
+- Spyglass
+
+- Raw Metals
+
+- Amethyst Shard
+
+- Candle
+
+- Powder Snow Bucket
+
+- Bucket of Axolotl
+
+- Glow Ink Sac
+
+- Glow Item Frame
+
+- Goat Horn
+
+- Bucket of Tadpole
+
+- All the Boats/Raft with Chest
+
+- Mangrove, Cherry & Pale Oak Boats
+
+- Bamboo Raft
+
+- Music Discs: Pigstep, otherside, 5, Relic, Precipice, Creator, & Creator (Music Box)
+
+- Disc Fragment (5)
+
+- Recovery Compass
+
+- Some of the item shapes and palettes of armor trims
+
+- All the Potions & Tipped Arrows (1.20+)
+
+- Trial Keys
+
+- Trial Chambers Map
+
+- Resin Brick
+
+- Resin Clump
+
+- Brown/Blue Chicken Eggs
+
+- All copper armors
+
+- All copper tools/weapons
+
+- Copper Nugget
+
+- Copper/Netherite Horse Armor
+
+- Spear (all tiers)
+
+- Nautilus Armor (all tiers

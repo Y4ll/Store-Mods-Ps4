@@ -1,0 +1,35 @@
+REMASTERED
+
+This addon comes with 5 naturally occuring events that happen around your world!
+
+This addon is also very configurable via the Guide Book for operator players.
+
+In here, you can find this menu.
+
+You can then find all the events, their names, and descriptors.
+
+For anyone with operator, a settings button will appear.
+
+This hosts different settings depending on the event, as well as duration.
+
+I shouldn't need to list out all the event descriptions, cause they are in the addon. :3
+
+But i will list out their names.
+
+- Tornado
+
+- Acid Rain
+
+- Severe Thunderstorm
+
+- Meteor Shower
+
+- Blood Moon
+
+All of this works on 1.21.100 AND above.
+
+None of this requires experimental features.
+
+If you are looking for my community and for beta releases like being able to play this addon before it was released, you can join my discord here.
+
+Showcase Video

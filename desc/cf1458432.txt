@@ -1,0 +1,19 @@
+The idea for creating this add-on was taken from:
+
+https://www.curseforge.com/minecraft/mc-mods/the-irritator-dweller
+
+Ocelot and I decided to update the addon to IRRITATOR DWELLER. In general, we improved the intelligence for the monster, added more animations and improved the old ones. Removed the fear feature and fixed the spawn bug.
+
+ABOUT THE ADDON IRRITATOR DWELLER is a horror addon for the phone version of Minecraft that was inspired by the PC version of the IRRITATOR mod. We tried to improve the look and mechanics of the original, we hope you like it.
+
+1) Improved thunderstorm: For a better horror atmosphere, we decided to improve the thunderstorm in Minecraft, now it has more diverse sounds that are more reminiscent of real life, also now white flashes will appear in the sky during a thunderstorm
+
+2) IRRITATOR DWELLER: This is the only mob added in this expansion. It has 9999 health and 4 types of attacks, each of which deals a different type of damage.
+
+-Right and left hand attacks deal 5 damage
+
+-Roar knocks the player back and deals 12 damage
+
+-Fear Leap instantly kills the player
+
+When playing in survival mode, you can encounter a monster in caves, where it may appear with some chance. There can only be one monster in the world, which makes it more difficult to encounter it. If there are blocks above the monster, it can hang upside down on them and be more invisible. So when in caves, look carefully up, maybe it's above you (you can only notice it through its eyes that give it away in the dark) This mob is designed to escape from it and catch up with the atmosphere, so it does not leave any unique loot after death. We hope you enjoy this update. In the next versions we plan to add more mob-related mechanics, more cool animations, new unique items. Also, you can leave your suggestions in the comments.

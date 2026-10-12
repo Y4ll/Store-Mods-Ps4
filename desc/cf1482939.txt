@@ -1,0 +1,113 @@
+Effortless Building
+
+Achievements Friendly & Survival Friendly
+Lightweight Performance - Full Custom Block Support - 13 Languages
+Build smarter, not harder.
+
+Effortless Building is a Bedrock addon inspired by the iconic Java mod of the same name by Requioss. Instead of placing blocks one at a time, you pick a build mode, click two or three times, and entire structures appear: lines, walls, floors, spheres, cones, diagonal ramps, and more, all while consuming the correct blocks from your survival inventory. A live Coach teaches you the addon step by step, a Tutorial Book opens right in your world, and all of it speaks 13 languages.
+
+TUTORIAL
+
+PC Gameplay (By Eckosoldier)
+
+Mobile Gameplay (Android/IOS)
+
+New in v5
+
+- Floating Menus: the menu, settings, palette, modifiers, clipboard and help now hang in the air in front of you. Look at a button and click it.
+
+- Quick Switch Wheel: hold right-click with the Building Book, aim at a shape on the wheel and let go. Your shape changes without opening a menu.
+
+- Customize Wheel: choose which shapes sit on the wheel, slot by slot, or go back to the automatic layout.
+
+- Live Coach: 15 short lessons that teach the addon while you play. A card beside you shows one step at a time and waits until you have actually done it.
+
+- Tutorial Book: hold it and it opens in front of you as a real book with pictures of every shape, modifier and tool. Right-click turns the page.
+
+- 13 Languages: English, Espanol, Deutsch, Portugues, Nederlands, Bahasa Indonesia, Shqip, , , , , and , for the menus, the coach, the tutorial book and every message.
+
+- Hold to repeat: hold the click on a number in any menu and it keeps counting, faster the longer you hold.
+
+- Comfort settings: menu size, which side the coach card hangs on, menu sound volume, and an optional aiming cursor for touch screens.
+
+- Your choice of menus: prefer the game's standard menus? Set Menu Style to Plain. Admins can switch everyone to plain menus at once.
+
+14 Build Modes
+
+Every mode works in both Survival and Creative. 2-step modes take two right-clicks (anchor then build). 3-step modes take three (anchor, XZ footprint, then height + build). Each mode has its own options on the right of the menu.
+
+2-Step Modes
+
+- Line - Straight or Bezier curve
+
+- Wall - Filled or Hollow
+
+- Floor - Filled or Hollow
+
+- Circle - Filled/Hollow, Even or Uneven (ellipse)
+
+- Sphere - Filled or Hollow
+
+- Semicircle - Horizontal, Arch, or Dome orientation; Filled or Hollow
+
+- Diagonal Line - Straight or Bezier curve
+
+3-Step Modes
+
+- Cube - Filled, Hollow, or Skeleton
+
+- Cylinder - Filled/Hollow, Even or Uneven (ellipse)
+
+- Cone - Filled or Hollow; set the axis to Diagonal to lean the tip any way you like
+
+- Diagonal Wall - Filled or Hollow
+
+- Slope Floor - Filled or Hollow
+
+- Copy / Paste - 3-click region selection
+
+Special
+
+- Air Build - Single right-click to place one block in midair, no surface needed
+
+Bezier curves (Line & Diagonal Line): right-click to add waypoints one by one, sneak+click to confirm; the addon traces a smooth 3D Catmull-Rom spline through all your points.
+
+Starter Shapes: new players can start with just Line, Wall, Floor and Cube, and open the full list with + More Modes whenever they are ready.
+
+Air Building
+
+Cube Shape
+
+Line Mode
+
+Circle Shape
+
+Destroy Mode
+
+Custom Blocks Support
+
+The Building Book
+
+Everything starts from the Building Book. Hold it and the action bar shows its controls.
+
+- Right-click: open the menu
+
+- Hold right-click: Quick Switch Wheel
+
+- Left-click: Block Palette
+
+- Sneak + Right-click: Settings
+
+- Sneak + Left-click: Build Modifiers
+
+- Sneak twice: turn your build mode off and back on
+
+Prefer the palette on right-click? Turn on Swap Book Clicks in Settings > Controls.
+
+The Menu
+
+Open with right-click on the Building Book or /menu.
+
+- Shapes on the left, with the active one lit in gold. Pin a shape to keep it near the top.
+
+- Options for the chosen shape on the right (Filled/Hollow, Even/Uneven, Bezier and so on), applied 

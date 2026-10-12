@@ -1,0 +1,17 @@
+Bathe your world in golden light. WarmLight transforms Minecraft Bedrock with warm, sun-drenched atmospherics, soft volumetric god rays, and richly colored skies that shift from crisp daylight blues to deep sunset pinks and purples.
+
+Walk through forests where light filters through the canopy in glowing shafts, and dive into water rendered with realistic reflections, caustics, and depth. Custom PBR ore textures add subtle emissive glow and surface detail to underground mining, while enhanced foliage colormaps keep grass, leaves, and biome tinting vibrant and natural.
+
+Built for smooth performance without sacrificing atmosphere, WarmLight is designed to make every biome from misty lakesides to sunset meadows feel warmer, deeper, and more alive.
+
+Features:
+
+- Warm, cinematic sky and lighting with dynamic sunset/sunrise color grading
+
+- Volumetric god rays and atmospheric fog
+
+- Realistic water with reflections, caustics, and wave motion
+
+- Outlined PBR-enhanced ore and block textures
+
+- Optimized for stable performance across devices

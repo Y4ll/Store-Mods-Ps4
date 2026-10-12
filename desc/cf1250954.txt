@@ -1,0 +1,7 @@
+This texture pack enhances glass blocks by removing visual noise like graininess, border artifacts, and uneven transparency. It provides:
+
+Completely smooth glass textures Eliminates pixelation and blur, making panes and blocks appear crystal clear.
+Seamless connectivity Adjacent glass blocks blend without visible seams, creating uninterrupted windows or structures.
+Optimized transparency Reduces distortion when viewing objects or mobs through glass, improving visibility.
+
+These improvements allow builders to create sleek, modern designs without visual distractions, making glass more functional and aesthetically pleasing. Whether for detailed interiors, greenhouses, or underwater builds, the pack ensures clarity and polish in every pane.

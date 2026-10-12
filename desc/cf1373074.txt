@@ -1,0 +1,16 @@
+Explore the skies with the "Air Plane" addon for Minecraft Bedrock! Add planes to the game, allowing for fast and exciting flights. Ideal for exploring maps or traveling long distances, this addon transforms your survival and adventure experience.
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-pink">To make the airplane recipe, you will need the following items</mark>
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-pink">The plane serves two purposes, the first is to fly through the skies, and the second is to transport items</mark>
+
+<figure class="image align-center"></figure>
+<figure class="image align-center"></figure>
+
+<mark class="marker-pink">When crouching and interacting with the plane, it will open an extra cargo compartment</mark>
+
+<figure class="image align-center"></figure>

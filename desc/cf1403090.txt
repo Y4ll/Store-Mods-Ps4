@@ -1,0 +1,12 @@
+An HQ, highly detailed Peugeot 207 (206+ France car) mod for Minecraft, features:
+
+- Animated Spinning Wheels when driving
+
+- The driver sits in the correct position
+
+- Highly Detailed 3D Model exterior and interior
+
+- Steering Wheel Animation Synced with Players Head Rotation
+
+If you are using Vibrant Visuals, the lighting on the vehicles may not update correctly at first.
+To fix this issue, simply exit the world once and re-enter it. The lighting will work properly afterwards.

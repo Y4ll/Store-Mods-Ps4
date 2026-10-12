@@ -1,0 +1,61 @@
+Myths and Magic is a fantasy addon which focuses on adding new Mobs, Blocks and Items into the game alongside a brand new magical system.
+
+The Add-on works alongside the base game in a Vanilla+ style. It contains over 12 new mobs, plenty of new tools and blocks and 8 new musical tracks too!
+
+I cannot go through everything on just this page, but I will go over alot of the major content where I can, and let you discover the rest in game!
+
+Myths and Magic features an in-depth magical system, with 33 Spells as of v1.0.8 !
+
+Spells are split into 3 types, Combat, Status and Mobility. They also have one of 6 elements which effect how they work.
+
+Offensive spells focus on dealing damage to targets, Status spells will inflict a non-damaging effect on you or others and Mobility spells help you move yourself and others around the world.
+
+Spells are naturally found on scrolls inside of structures, and you can also craft scrolls using a special block called a Scroll Crafter, each scroll can cast one spell at the cost of Mana however, scrolls consume durability and will eventually break.
+
+Tired of your scrolls breaking? Use the Spellcrafter to combine them into a Spellbook! Spellbooks can hold 3 Spells Total meaning you can combine different spells for different effects - there is limitless combinations to try!
+
+Spells in Spellbooks will never run out of durability, and will accumulate exp when used, eventually allowing them to be levelled up using a Spellcrafter to increase their power! Spells can reach a maximum level of 3.
+
+Be careful though, as you add more spells into a spellbook, you also increase the amount of Mana required to cast it, as well as the cooldown length after using it.
+
+You can also now add spells into a Staff, they can only hold one spell at a time, and do use durability, but they can be used to launch even regular spells at long distances!
+
+Youtube - Myths and Magic Spells Showcase
+
+Mana will regenerate overtime on its own, and you can use helpful Magic Items to restore it quicker as well as boost your spell power!
+
+Magic Items are a collection of items that can enhance your magical equipment, there is armour which can be equipped to your body, masks which take up your helmet slot and Amulets which give power in your offhand
+
+Azsilva Armour will increase the regeneration speed of your Mana by 25% for each piece, meaning a full set equipped will double the rate that it is restored!
+
+Amulets will provide bonus effects to your spells when in the offhand, but can only be used a certain amount of times before you must recraft them at a crafting bench. There are 4 amulets, listed below
+
+- Sparkling Amulet - +50% mana regeneration, Increases maximum mana capacity by 50%.
+
+- Blazing Amulet - +100% mana regeneration, Decreases the cooldown between using spells.
+
+- Shivering Amulet - Reduces the cost of spells by 33%, Increases the cooldown between using spells.
+
+- Altered Amulet - Boosts spell damage by 30%, reduces your health when casting a spell.
+
+- Resonance Amulet - Boosts Spell Damage slightly per successive use
+
+Elemental Masks can be equipped as helmets, they dont provide much protection but will boost the damage you do with a certain element of spell as well as reduce damage taken from another element.
+
+- Ember Mask - Boosts Fire damage by 1.5x, reduces Ice damage taken by half.
+
+- Frost Mask - Boosts Ice damage by 1.5x, reduces Earth damage taken by half.
+
+- Breeze Mask - Boosts Air damage by 1.5x, reduces Fire damage taken by half.
+
+- Boulder Mask - Boosts Earth damage by 1.5x, reduces Electric damage taken by half.
+
+- Thunder Mask - Boosts Electric damage by 1.5x, reduces Air damage taken by half.
+
+While there is a sixth element, Mana, there is no mask that boosts or reduces the damage of it.
+
+Last thing I will explain in this section are the Magical Management Blocks
+
+The Spell Manager is a block crafted using wood and wool. It can be interacting with using a Spellbook or Spell Scroll to do a few things
+
+- Dye a Sp

@@ -1,0 +1,5 @@
+ACCESSING THE PACK IN-GAME:
+
+To use this pack in your world, be sure that the resource and behavior packs are activated. In the new 1.21 update, experiments are no longer required to access the items. All accessories can be found in the creative inventory, or by using an Oak Log in the stonecutter.
+
+to report bugs: contact@thefayeproject.com

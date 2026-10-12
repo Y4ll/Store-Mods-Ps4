@@ -1,0 +1,40 @@
+Hermes' Mace
+
+Harness the speed of Hermes.
+
+A craftable mace with one new trick: Swift Passage, a forward dash on a cooldown. Everything else about the mace stays vanilla smash attacks, fall damage, enchantments, all of it works exactly like the mace you already know. This just gives it a way to move.
+
+Features
+
+- Swift Passage dash forward on demand, on a configurable cooldown
+- Vanilla mace combat smash attacks and fall-based damage, untouched
+- Custom texture and effects, including a trailing particle effect while dashing
+- Multiplayer and Realms friendly
+- Survival balanced craftable, repairable, and capped at the same enchantments a vanilla mace allows
+
+Recipe
+
+Requirements
+
+- Minecraft Bedrock Edition 1.21.0+
+- Behavior Pack and Resource Pack both enabled
+- No experimental toggles required
+
+---
+
+Changelog
+
+v2
+- Added: an in-game settings menu via a new Hermes' Mace Settings item, or `/hm:menu` to configure dash distance, dash cooldown, dash visual effects, craftability, craft limit, and chat announcements
+- Added: a flowing particle trail behind the player while dashing (previously the dash was momentum-only, with no visual trail)
+- Added: a particle and sound flourish when the mace is crafted
+- Added: an optional craft limit cap how many maces can exist at once, or leave crafting unlimited; the count stays accurate even as maces are lost or destroyed
+- Added: an admin permission system and a set of slash commands `/hm:menu`, `/hm:help`, `/hm:status`, `/hm:give`, `/hm:reset`, `/hm:admin`
+- Added: an optional chat announcement when the mace is crafted
+- **Changed:**
+
+dash distance and cooldown are now configurable (previously fixed at 28 blocks / 15 seconds)
+
+---
+
+Move faster. Strike harder. Become the Messenger of the Gods.

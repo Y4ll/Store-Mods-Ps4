@@ -1,0 +1,173 @@
+Add-on created by Mr. Nido (Youtube).
+
+Note:
+This is the latest update of World Animals released in 2024 works for the most updated versions of Minecraft Bedrock, a new and improved version of this add-on is being created.
+
+How does it work?
+
+All animals can be found in our Minecraft worlds according to their respective biome, some are tamable, others are aggressive and not capable of taming.
+
+Golden bone:
+
+The golden bone can be used to tame animals, to make the golden bone you need eight gold nuggets and a bone using this recipe at the crafting table:
+
+<figure class="image"></figure>
+
+Gold bone meal:
+
+With gold bone powder you can use it to speed up the process so that a species is born in an egg.
+
+<figure class="image"></figure>
+
+<figure class="image"></figure>
+
+Elephants (Asian and African):
+
+We can find them in savannah and jungle biomes, they feed on sugar cubes, we can tame them using the golden bone, at the moment of taming we can equip them with an elephant saddle so that we can ride them, handle them and store our things as if they were a chest.
+
+Features:
+
+- Health: 70
+
+- Damage: 7
+
+Elephant Saddle:
+
+To make the elephant saddle you need to create it from the crafting table using this recipe:
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+Mammoth:
+
+In this new update mammoths were added these will not be generated naturally by the world, to get them you need to make a syringe to inject the elephants and have their dna, with the elephant dna you can make the mammoth dna you inject it to an elephant and it will be transformed into mammoth, the mammoths you can tame them with the gold bone and place the elephant saddle.
+
+<figure class="image"></figure>
+
+Recipes:
+
+<figure class="image"></figure>
+
+Elephant Armor:
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+With the elephant armor it will improve your resistance and damage of the elephants, you can only place the armor with the African elephants and mammoths
+
+Sugar cubes:
+
+<figure class="image"></figure>
+
+These will appear in the snow biomes, they will regularly appear with mammoths attached and you will be able to trade with them.
+
+<figure class="image"></figure>
+
+Bears:
+
+We can find them in forest biomes, there are two types of bears, at the moment they are not possible to tame, if the player attacks a bear he will start attacking it.
+
+Features:
+
+- Health: 30
+
+- Damage: 6
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+Big Cats:
+
+There are only seven different types of big cats, we can find them in our Minecraft worlds according to their respective biome and can feed them any kind of meat.
+
+We can tame them using the golden bone, when we have a big cat tamed we can equip it with a mount for big cats so we can ride them and we can store our things as if it was a chest.
+
+Lions/White Lions
+
+Features:
+
+- Health: 50
+
+- Damage: 7
+
+- They appear in savannah and jungle biomes.
+
+<figure class="image"></figure>
+
+Tigers/White Tigers
+
+Features:
+
+- Health: 40
+
+- Damage: 7
+
+- They appear in biomes of plains
+
+<figure class="image"></figure>
+
+Leopards
+
+Features:
+
+- Health: 40
+
+- Damage: 7
+
+- They appear in savannah and jungle biomes.
+
+Snow leopards
+
+Features:
+
+- Health: 40
+
+- Damage: 7
+
+- They appear in snow biomes.
+
+Panthers
+
+Features:
+
+- Health: 40
+
+- Damage: 7
+
+- They appear in savannah and jungle biomes.
+
+Cougars
+
+Features:
+
+- Health: 40
+
+- Damage: 7
+
+- They appear in mountain biomes.
+
+<figure class="image"></figure>
+
+Big Cat Saddle
+
+To create the big cat saddle you need three reptile skins, an iron ingot, a chest and make it from the work table this way:
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+Crocodile:
+
+Crocodiles can only be found in swamps, they will not be able to tame, they will attack the player, they are very fast when swimming.
+
+Features:
+
+- Health: 20
+
+- Damage: 14
+
+- Loot: 1 - 4 Reptile skin
+
+<figure class="image"></figure>
+
+With the reptile skin you can m

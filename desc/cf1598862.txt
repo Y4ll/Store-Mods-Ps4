@@ -1,0 +1,11 @@
+Ever crafted something by mistake or have an item you no longer need? The Uncrafting Table lets you turn crafted items back into their original materials. Just place an item in the table and get the materials back without having to throw the item away.
+
+- 100+ Supported Items - Uncraft tools, armor, blocks, redstone items, food, utility blocks and many other crafted items.
+
+- Durability Based Return - Damaged tools and equipment return fewer materials depending on how much durability they have left.
+
+- Simple to Use - Place the item in the left slot and collect the returned materials from the right slot.
+
+Achievement Friendly
+
+Yes, the addon is achievement friendly and can be used in survival worlds.

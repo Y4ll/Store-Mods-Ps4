@@ -1,0 +1,59 @@
+Rain destruction from the sky with the ultimate "God Rod"!
+
+This addon transforms the humble Fishing Rod into a devastating Orbital Strike Cannon. Inspired by the technical "Stab Shot" cannons seen in Wembu's videos, this tool uses TNT Minecarts for instant, lag-friendly, and massive terrain destruction.
+
+Features
+
+Instant Detonation: Uses Tnt that explode on impactno waiting for fuses!
+
+2 Destructive Modes:
+
+DRILL MODE: Fires a stream of TNT straight down to bore a hole to bedrock (Wembu Style).
+
+Nuke mode : fires tnt like the wembu does. This may cause lots of lag.
+
+Water Breaker: Automatically clears water at the target zone so explosions actually destroy blocks.
+
+Multi-Name Support: Works with names like "Orbital Canon", "God Rod", "Space Laser", and more.
+
+How to Use
+
+Grab a normal Fishing Rod.
+
+Rename it in an Anvil to "Orbital Canon" (or "OC", "God Rod", "Strike").
+
+Right-Click (Use Item) to fire at a target.
+
+Sneak + Right-Click to switch between Drill and Scatter modes.
+
+Or just rename nuke for nuke
+
+Stab or stabshot for stabshot
+
+Warning
+
+This addon is extremely destructive. Do not use near your base.
+
+Created By: crownbossyt
+
+Check the video
+
+V3
+
+https://youtu.be/_q8Y4NQgmbQ
+
+V6.0.1
+
+https://youtu.be/nFRg61ov-sQ
+
+V11
+
+https://youtu.be/xHWeM3pFQAo?si=asBWGLKoJA7DaQxYyrpw
+
+Power smp application
+
+https://youtu.be/4heH-ODfbGg
+
+For any suggestions join my discord
+
+https://discord.gg/wpagYCN2BZ

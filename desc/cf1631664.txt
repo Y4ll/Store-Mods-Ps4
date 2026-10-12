@@ -1,0 +1,69 @@
+Entities & Encounters
+
+The Dream Player
+
+A simulated survivor with a randomly generated username who joins the world, gathers resources, crafts tools, builds a furnished home, hunts, cooks and occasionally logs off. It remembers trespassing, chest snooping and damage to its property. Its behaviour changes as the story progresses.
+
+The Burglary
+
+If a warning sign appears outside your home at sunset, someone is coming at midnight. The Burglary approaches from the darkness, attacks doors and windows, crawls through tight spaces, mimics players in chat and silently watches anyone it finds inside.
+
+Psst
+
+A quiet whisper comes from directly behind you. Turning around reveals Psst, but continuing to stare causes reality to break down around it. Sometimes ignoring the voice is safer than finding its source.
+
+The Blood Baby and Cot Apocalypse
+
+A cot appears as the world is swallowed by red fog and distant crying. The enormous Blood Baby begins approaching from hundreds of blocks away, tearing a path through anything between it and its chosen victim. Its footsteps, cries and camera tremors grow stronger as it closes in.
+
+The Knocking Doctor
+
+A doctor may arrive outside a detected player-built home and begin knocking. Opening the door transforms the surrounding land into Doctor Valley: red fog, a trail of blood, hundreds of bodies and a lone Mother waiting somewhere in the distance.
+
+The Father
+
+A trail leads from your home to a sealed and boarded house. Breaking inside reveals the Father and begins a confrontation that ends with one instruction: get out before the house and everything inside it is *$&^.
+
+The Puppeteer
+
+The Puppeteer descends from the sky on certain nights, forces you to watch its arrival and then begins its pursuit. Reaching the safety of a house can make it disappear. Letting it catch you results in a far more personal ending.
+
+Chester
+
+Chester disguises itself as an ordinary chest and uses chat messages to promise diamonds and abandoned loot. Opening it drags you into a sealed black chamber containing five scattered clues and a keypad. Solve the changing code within ten minutes to escape with ten diamond blocks, or die inside.
+
+The Colossal Mother
+
+The colossal conclusion to the hospital storyline. Her arrival covers the world in red fog, scatters hundreds of dead doctors and lifts nearby creatures helplessly into the sky. Some never come back down intact.
+
+The Weeping Titan
+
+A blind and deaf, 75-block-tall titan that slowly wanders the landscape. It does not deliberately chase players, but its footsteps shake the ground, its roars can be heard from enormous distances and anything standing too close is instantly consumed.
+
+Glitch
+
+A living RenderDragon error that appears alongside blindness, corrupted audio and raw error text. One player is selected for a 30-second pursuit while anything touching Glitch is erased. If it reaches its target, the victim is thrown 30 million blocks away into Minecrafts broken Stripe Lands.
+
+The Hospital Figures
+
+The Doctor, the Mother and the Saviour appear throughout six connected dream scenes. Their different forms, including corpses, impostors and altered versions, gradually reveal the story behind Sweet Dreams and connect many of the worlds later encounters.
+
+Credits and Usage
+
+- Creator: @NotBonzz
+
+- Discord Community Server: https://discord.gg/TJcqYtBZ5n
+
+- YouTube: https://www.youtube.com/@NotBonzz
+
+If you want to use Sweet Dreams in a custom map, YouTube video, review or showcase, you are free to do so! Please credit @NotBonzz in the description and link back to this CurseForge or MCPEDL page.
+
+Do you truly believe you can survive?
+
+Notes: This addon does not require ANY experiments and works in versions as early as 1.21.120
+
+FLASH WARNING & LOUD SOUNDS
+
+Gameplay
+
+Sweet Dreams transforms ordinary Minecraft survival into slow-burning psychological horror. Events unfold naturally as you explore, sleep, build and survive, with quiet periods keeping every encounter unpredictable. This

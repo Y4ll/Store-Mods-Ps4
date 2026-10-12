@@ -1,0 +1,139 @@
+This Texture Pack/Addon has been inspired from different Minecraft Java Foliage mods and it aims to make the in-game foliage more denser and less repetitive by improving textures, models and adding variants to almost all the in-game foliage. It also adds Falling leaves, Apples, New plants and More Features!
+
+You can use this as a Texture Pack alone or use it with the Behavior Pack for a bunch of more features such as Falling leaves,Apples, New plants and other cool stuff.
+
+Texture Pack:
+
+Leaves
+
+Leaves
+
+- The leaves have an improved model and look bushy
+
+- You can also choose vanilla leaves from the SETTINGS/GEAR icon after applying.
+
+Saplings
+
+Saplings
+
+- The saplings have a new model and they look like miniature versions of the fully grown trees:
+
+- In flower pots:
+
+- Mangrove propagules:
+
+Flowers
+
+Flowers
+
+- Each flower has 4-6 variants:
+
+Mushrooms
+
+Mushrooms
+
+- They have a new 3d model and are more detailed:
+
+- The Mooshroom cows also have better mushrooms on them:
+
+Better Falling Leaves
+
+Better Falling Leaves
+
+This texture pack adds more variety to falling leaf particles and enhances their physicsthey now land on the ground, drift in water, and make your worlds feel more alive.
+
+Grasses and Ferns
+
+Grasses and Ferns
+
+- They have up to 9 variants and the grass block has a new texture as well:
+
+- If you prefer the vanilla/normal grass block, you can download the version of the texture pack with the vanilla/normal grass block.
+
+Lily Pads
+
+Lily pads
+
+- They will have a flower on top with different variations and the lilypads have different variations as well and they can also be without flowers:
+
+- There is a rare chance for a giant lilypad to spawn with a giant flower:
+
+Sugar Canes
+
+Sugar canes
+
+- They have a 3d model:
+
+Kelp/Kelp Forests
+
+Kelp/Kelp Forests:
+
+Kelp has a new bushier model which can be with or without flowers. Kelp forests look more beautiful than ever!
+
+Seagrass-Cattails
+
+Seagrass-Cattails
+
+- The top of seagrass now resembles cattails which have different variants and they will also pop out of water if on a block close to the surface:
+
+Cacti and Deadbush
+
+Cacti and deadbush
+
+- Cacti have variations with flowers and dead bush has a mini cacti variant:
+
+Vines
+
+Vines
+
+- Vines have different variants with flowers:
+
+Crops
+
+Crops
+
+- All crops have 3 variants each:
+
+Nether Foliage
+
+Nether foliage
+
+- Nether sprouts have a denser model and the other nether plants have different variants:
+
+Addon/Behavior Pack:
+
+Apples
+
+Apples
+
+- Fully grown apples and growing apples can be found spawning under oak trees in forests. They have 5 stages of growth (stem,flowered stem,small green apple, big green apple, red apple/golden apple) and you can also use bonemeal to speed up their growth:
+
+- There is also an extremely rare chance that a Green Apple will turn into a Golden Apple:
+
+- Each grown apple when broken or sheared will be replaced by a stem which will eventually grow into a new apple.
+
+- Red apples drop minecraft apples
+
+- Golden apples drop minecraft golden apples
+
+- Big green apples drop a new food item (Green Apple) which restore 1 hunger bar:
+
+- Other stages do not drop anything and only fully grown apples are replaced by a stem. Furthermore, you can use shears to get the Placeable apples which can only be placed under oak leaves.
+
+Shrubs
+
+Shrubs
+
+- Shrubs are a new plant which can be found spawning in forests and dont have any purpose. You can use shears to get the Placeable Shrub:
+
+Nether Roots
+
+Nether roots
+
+- Nether roots are a new type of plant thingy which can only be found spawning in the Nether. They will spawn under Netherrack, in Nether caves and Fortresses. They dont have any purpose aside from being creepy. You can get Placeable Nether roots by using shears.
+
+Important Info!
+
+- Huge Credits to Amman for helping me out with the behavior pack. Check out his content!: https://www.ammanworks.in/
+
+- You can get all the addon blocks by using this command: /function better_foliage or get them from the creative menu u

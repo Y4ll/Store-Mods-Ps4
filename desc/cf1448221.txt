@@ -1,0 +1,88 @@
+Maces Overhaul: Legendary Impacts
+
+Elevate your combat experience with Maces Overhaul, a premium Bedrock Addon that introduces five powerful thematic maces. Each weapon features the "Smash" mechanic, where damage, knockback, and special abilities scale dynamically based on your fall height!
+
+The Legendary Arsenal
+
+Thunder Mace: Summon delayed lightning bolts that strike the ground around your target.
+
+- Blaze Mace: Incinerate enemies with scaling fire duration and explosive fiery blasts.
+
+- Demon Mace: A dark-themed weapon that inflicts Wither II and releases dense, dark-gray smoke.
+
+- Diamond Mace: The ultimate defensive weapon. Grants the wielder Resistance and Absorption based on impact intensity.
+
+- Rascal Mace: Steal the momentum! Inflicts heavy Slowness on enemies while granting you Speed II.
+
+Advanced Mechanics
+
+- Always-On Abilities: Unlike vanilla, unique effects trigger on every hit, but their potency and duration scale massively with your fall distance.
+
+- Cinematic Visuals: Each mace features custom, high-quality geometry particles designed for maximum spectacle.
+
+- Impact Physics: Area-of-effect knockback pushes nearby enemies away from the impact site.
+
+Mace Records System
+
+Craft the Mace Records Book (1 Book + 1 Gold Ingot) to access a custom UI menu.
+
+- Global Records: Track the highest "Power Intensity" ever achieved in your world.
+
+- Detailed Stats: View the player name, exact damage, fall height, and even the target type of the world-record hit.
+
+- Announcements: Breaking a record triggers a global server-wide celebration message!
+
+SHOWCASE v1.8
+
+SHOWCASE v1.7
+
+SHOWCASE v1.6
+
+SHOWCASE v1.5
+
+SHOWCASE v1.4
+
+SHOWCASE
+
+SHOWCASE UPDATES
+
+V1.2 UPDATE
+
+V1.3 UPDATE
+
+V1.4 UPDATE
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+JOIN DISCORD --> Click Here
+
+Permission to use textures from : Torrezx

@@ -1,0 +1,9 @@
+An HQ, highly detailed Mazda 3 (Japanese car) mod for Minecraft, features:
+
+- Animated Spinning Wheels when driving
+
+- The driver sits in the correct position
+
+- Highly Detailed 3D Model exterior and interior
+
+- Steering Wheel Animation Synced with Players Head Rotation

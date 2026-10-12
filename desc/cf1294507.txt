@@ -1,0 +1,144 @@
+Trailer:
+
+Credits:
+
+- Add-on created by Mr. Nido
+
+- Betatester: Zerofatalred, Arcangel0684, Wasa_denya & The Amazing Mondongo.
+
+Full Description:
+
+Throughout the world of Minecraft will appear the boys' van, along with Frenchie, Hughie, Mother's Milk and Kimiko.
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+Frenchie will sell you the temporary Compound V which will give you temporary powers. He will also sell an arsenal of weapons and ammunition.
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+<button class="vB0h2" type="button" data-hook="image-expand-button" aria-label="Expand image"></button>
+
+</figure>
+
+Mother's Milk will sell you items to make the super powers.
+
+You will be able to recruit the boys, for that you will have to give the temporary compound V to Kimiko, Frenchie and Hughie, while with Mother's Milk you recruit with a bucket of Milk.
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+The boys will defend you from enemies using their weapons or powers. They will follow you or you can ask them to stop following you.
+
+You can ask them not to follow you and be in surveillance mode so they can walk around you, for that you must interact with them while crouching, this will also allow you to interact with them to exchange items. To make them follow you again, interact with them while you are crouched.
+
+Temporary Compound V Powers
+
+Temporary Compound V will allow you to obtain temporary super powers that will last for 64 seconds. To use it, interact with the temporary Compound V.
+
+<button class="vB0h2" type="button" data-hook="image-expand-button" aria-label="Expand image"></button>
+
+</figure>
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+The skills will be given to you randomly:
+
+Laser:
+
+You will be able to fire a laser that will inflict enormous damage and produce fire.
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+<button class="vB0h2" type="button" data-hook="image-expand-button" aria-label="Expand image"></button>Wearing Butcher's outfit will change the color of the laser.
+
+</figure>
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+</figure>
+
+Fly:
+
+By having one of the powers that allows you to fly as if you were in creative mode, the controls and movement are the same as playing in creative.
+
+Teletransport:
+
+It will grant you an item that will give you the ability to teleport.
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+<button class="vB0h2" type="button" data-hook="image-expand-button" aria-label="Expand image"></button>
+
+</figure>
+
+When you use the item and point it at a solid object you will be instantly teleported.
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+<button class="vB0h2" type="button" data-hook="image-expand-button" aria-label="Expand image"></button>
+
+</figure>
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+<button class="vB0h2" type="button" data-hook="image-expand-button" aria-label="Expand image"></button>
+
+</figure>
+
+If you use the teleport item and you are crouched down, an interface will open that will allow you to teleport to a specific place.
+Opening the interface will allow you to teleport by typing the coordinates and the dimension where you want to go.
+
+Super Speed:
+
+By using the run button you will be able to run faster which will allow you to inflict huge area damage to the enemies you pass through.
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+</figure>
+
+Guns:
+
+<figure class="Z--PZ" data-hook="figure-IMAGE">
+
+Glock:
+
+- Damage:
+
+- Normal: 9
+
+- Magazine Quantity: 15 rounds
+
+- Magazine: Glock Ammo
+
+- Rate of fire: 0.33 seconds
+
+- Loading time: 3.25 seconds
+
+M4A1
+
+- Damage:
+
+- Normal: 11
+
+- Magazine Quantity: 30 rounds
+
+- Magazine: M4A1 Ammo
+
+- Rate of fire: 0.09 seconds
+
+- Loading time: 1.8 second
+
+Barret M82
+
+- Damage: 26
+
+- Magazine Quantity: 10 rounds
+
+- Magazine: Barret M82 ammunition
+
+- Rate of fire: 1.0 second
+
+- Loading time: 2.25 seconds
+
+Super powers:
+
+To make the powers of the 7 and other characters from The Boys you will need to make the specia

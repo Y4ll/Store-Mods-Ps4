@@ -1,0 +1,15 @@
+This Helicopter Add-on is now modernized to my current coding skills and represents the peak of my creative knowledge. This Add-On is well optimized, using only two lowpoly models making the total cube count in game under 250. Thank you to JannisX11 for entity wizard base vehicle code. The two helicopters are as shown:
+
+The Bell 206 JetRanger seats 4 due to its large size
+
+The MD 500E is a much smaller helicopter and therefore only seats 2
+
+INSTRUCTIONS:
+
+To fly these helicopters, enter one by right-clicking or tapping the 'fly' button. Simply by sitting inside, looking up or down will raise or lower the helicopter, and looking to either direction will steer the helicopter. To fly in any particular direction, use the WASD keys or the touchpad. This addon utilized the new 3rd person radius function so that when viewing the helicopters in 3rd person your camera does not clip through them. Hence, the best way to fly these helicopters is in 3rd person rear.
+
+Notes:
+
+Sounds: My car addons usually use steps to trigger sounds, and as these fly they don't trigger steps. I elected not to add sounds to this addon as every method I tried would only induce lag.
+
+Survival/Crafting: Due to the lack of balance this and my other addons would provide to a regular survival world, I elect not to add crafting functions or the ability to achieve them in survival. If you want them, just use commands.

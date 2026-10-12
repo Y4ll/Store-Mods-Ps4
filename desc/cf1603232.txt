@@ -1,0 +1,105 @@
+Advanced Vein Miner
+
+Make mining faster and more efficient with Advanced Vein Miner by FleetMc Studio. Instead of breaking every ore block one by one, simply mine a single ore and the addon will automatically detect and break the connected ores in the entire vein.
+
+Unlike many basic vein miner addons that only focus on quickly breaking connected blocks, Advanced Vein Miner is designed with survival gameplay and tool mechanics in mind. Pickaxe durability, Fortune, Silk Touch, and Unbreaking are all supported, giving you a more complete and balanced mining experience.
+
+How Does It Work?
+
+Using Advanced Vein Miner is simple. Find an ore vein and break one of its blocks with a pickaxe. The addon will automatically detect the connected ores and mine them together, saving you from having to break every block individually.
+
+This makes large ore veins much faster to collect while still maintaining important survival mechanics such as tool durability and enchantment support.
+
+Pickaxe Durability Support
+
+Advanced Vein Miner doesn't give you unlimited mining for free. When connected ores are broken, your pickaxe durability is consumed accordingly, helping the addon remain useful while still respecting survival progression.
+
+This means you should always keep an eye on your pickaxe durability before mining large veins, especially during long underground adventures.
+
+Fortune, Silk Touch & Unbreaking Support
+
+One of the biggest advantages of Advanced Vein Miner is its support for important Minecraft enchantments. Your enchanted pickaxes continue to provide their intended benefits while using the vein mining system.
+
+- Fortune Support Using a Fortune-enchanted pickaxe gives you the opportunity to receive increased ore drops.
+
+- Silk Touch Support Mine supported ores with Silk Touch to collect the ore blocks themselves instead of their normal drops.
+
+- Unbreaking Support Unbreaking enchantments are supported, helping your pickaxe last longer while mining connected ore veins.
+
+Supported Ores
+
+Advanced Vein Miner supports ores found across the Overworld, Nether, and other areas of Minecraft, making it useful throughout your entire survival journey.
+
+- Coal Ore
+
+- Deepslate Coal Ore
+
+- Iron Ore
+
+- Deepslate Iron Ore
+
+- Copper Ore
+
+- Deepslate Copper Ore
+
+- Gold Ore
+
+- Deepslate Gold Ore
+
+- Redstone Ore
+
+- Deepslate Redstone Ore
+
+- Lapis Lazuli Ore
+
+- Deepslate Lapis Lazuli Ore
+
+- Diamond Ore
+
+- Deepslate Diamond Ore
+
+- Emerald Ore
+
+- Deepslate Emerald Ore
+
+- Nether Gold Ore
+
+- Nether Quartz Ore
+
+- Ancient Debris
+
+Features
+
+- Mine entire connected ore veins by breaking a single ore.
+
+- Supports all major Overworld and Nether ores.
+
+- Pickaxe durability is consumed while vein mining.
+
+- Full Fortune enchantment support.
+
+- Full Silk Touch enchantment support.
+
+- Unbreaking enchantment support.
+
+- Lag-free and optimized for smooth gameplay.
+
+- Designed to maintain survival gameplay balance.
+
+- Makes long mining sessions faster and more convenient.
+
+- Perfect for survival players and large resource-gathering projects.
+
+- Simple to use with no complicated activation process.
+
+- More improvements and additional features are planned for future updates.
+
+Why Choose Advanced Vein Miner?
+
+Many vein miner addons simply destroy connected ores without properly considering Minecraft's existing tool mechanics. Advanced Vein Miner goes further by supporting pickaxe durability and important enchantments such as Fortune, Silk Touch, and Unbreaking.
+
+This gives players the convenience of faster mining without completely removing the survival mechanics that make resource gathering rewarding. Whether you're collecting Coal early in your world or searching for Diamonds and Ancient Debris during late-game progression, Advanced Vein Miner can make the entire process smoother and more enjoyable.
+
+Lag-Free & Optimized Performance
+
+Advanced Vein Miner is designed with smooth performance in mind. The addon provides fast and responsive vein mining while keeping unnecessary p

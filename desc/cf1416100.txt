@@ -1,0 +1,47 @@
+Join our community
+
+Want faster updates? Buy me a coffee!
+
+Welcome to Jurassic Park! This addon brings the iconic movie franchise to life in Minecraft Bedrock Edition, allowing you to build your own theme park with authentic security systems and dangerous dinosaurs.
+
+Content:
+
+Electric Fence System
+
+- Build realistic Jurassic Park security perimeters with a modular fence system
+
+- Place fence posts and connect them with electric cables for a practical and efficient design
+
+- Requires a generator placed below the fence to power the system and deliver electric shocks
+
+- Authentic movie-accurate appearance to recreate iconic scenes from the films.
+
+Future Updates:
+
+This is just the beginning! Planned expansions include:
+
+- More dinosaur species from the Jurassic Park trilogy
+
+- Additional security structures and equipment
+
+- New items, blocks, and gameplay mechanics
+
+- Enhanced dinosaur behaviors and interactions
+
+- And much more prehistoric content!
+
+Requirements:
+
+- Minecraft Bedrock Edition
+
+- Enable "Beta API" in world settings
+
+How to Use:
+
+1. Place fence posts where you want your perimeter
+
+2. Connect the posts using electric cables
+
+3. Place a generator block beneath the fence line to power the system
+
+4. Watch as intruders receive electric shocks when touching the powered fence!

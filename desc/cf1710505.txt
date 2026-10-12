@@ -1,0 +1,188 @@
+Kaleidoscope End (Unoffical)
+
+Requires Minecraft Version 26.3+
+
+Port Permission
+This add-on is an unofficial Bedrock port of Kaleidoscope End, originally developed for Minecraft Java Edition by BmtUltra.
+
+The original Kaleidoscope End project is distributed under the MIT License, which permits modification and redistribution under its terms. Special thanks to the Kaleidoscope End team and the Kaleidoscope Cookery team for creating the original mods!
+
+Kaleidoscope End expands Kaleidoscope Cookery with End-themed foods, crops, ingredients, archaeology, dragon cuisine, Shulker dishes, Endermite foods, teas, placeable meals, and special equipment.
+
+Explore the End to discover and grow Dream Berries and Ender Mint, gather new materials from End creatures, investigate suspicious End blocks, and prepare dishes using ingredients from Chorus Plants, Shulkers, Endermites, and the Ender Dragon.
+
+The original Java mod centers heavily on new End crops, Dragon cuisine, Shulker cuisine, and Chorus-based dishes, and those systems have been adapted for this Bedrock port. CurseForge
+
+For recipes, farming information, archaeology, mob drops, special food effects, preparation instructions, and explanations of the add-ons features, check the End section of the in-game Kaleidoscope Cookery Guidebook.
+
+REQUIRED DEPENDENCY and PACK ORDER
+
+You need Kaleidoscope Cookery for this add-on to work, v1.0.7 or Newer is required!! Download it HERE.
+
+Please put Kaleidoscope End ABOVE Kaleidoscope Cookery for best results!
+
+**YOU MAY HAVE TO CREATE THE WORLD, THEN LEAVE AND GO BACK TO WORLD SETTINGS TO GET THIS ORDER TO WORK CORRECTLY**
+
+Guidebook:
+
+The Kaleidoscope End Guidebook is contained within the Kaleidoscope Cookery Guidebook.
+
+All the new blocks and items:
+
+Click spoiler below to see a list of all foods and blocks added:
+
+All the new blocks and items:
+
+Click spoiler below to see a list of all major foods, ingredients, blocks, and equipment added:
+
+Crops & Farming
+
+- Dream Berry
+
+- Ender Mint
+
+- End Caterpillar
+
+- Chorus Petal
+
+- Chorus Seed
+
+Ingredients & Mob Drops
+
+- Raw Ender Dragon Meat
+
+- Cooked Ender Dragon Meat
+
+- Raw Endermite Meat
+
+- Roasted Endermite Meat
+
+- Shulker Shell Meat
+
+- Optic Nerve
+
+- Void Conch
+
+- Dragon Dust
+
+- Dragon Tooth
+
+- Dragon Egg Liquid
+
+- Dragon Egg Shell
+
+Foods
+
+- Chorus Flower Cake
+
+- Chorus Flower Soup
+
+- Chorus Flower Tea
+
+- Chorus Pasta
+
+- Chorus Seed Cookie
+
+- Dark Dragon Egg Stew
+
+- Dark Dragon Steak
+
+- Dragon Breath Chorus Soup
+
+- Dragon Breath Mixed Stew
+
+- Dragon Breath Popping Candy
+
+- Dragon Egg Custard
+
+- Dragon Egg Ice Cream
+
+- Dragon Head With Sauce
+
+- Dragon Souffle
+
+- End Caterpillar Sashimi
+
+- End Salad
+
+- Ender Dragon Tea
+
+- Ender Mint Candy
+
+- Ender Mint Tea
+
+- Fried Dragon Egg
+
+- Mint Chorus Mousse
+
+- Mint Noodle Soup
+
+- Mint Sauce Shulker Meat
+
+- Mint Sauce Shulker Meat Rice Bowl
+
+- Optic Nerve Sweet and Sour Pork
+
+- Shulker Ice Cream
+
+- Shulker Shell Stew
+
+- Stir-Fried Endermite Meat
+
+- Stir-Fried Endermite Meat Rice Bowl
+
+- Stuffed Shulker
+
+- Stuffed Void Conch
+
+- Void Conch Noodle Soup
+
+- Void Mutton Steak
+
+- Void Tea
+
+Archaeology & Progression
+
+- Suspicious End Stone
+
+- Suspicious Purpur Block
+
+- Suspicious Dragon Egg
+
+- Ender Dragon Smithing Template
+
+- Dragon Dust
+
+- Dragon Tooth
+
+- Void Conch
+
+Tools & Equipment
+
+- Dragon Tooth Knife
+
+- Dragon Breath Bucket
+
+Cooking Stations & Kitchen Equipment
+
+- End Stove
+
+Decorative & Special Blocks
+
+- Dragon Egg Shell
+
+Some Special Features
+
+- Dream Berries grow as custom End vines and can be farmed after obtaining them.
+
+- Ender Mint is a growable End crop with multiple growth stages.
+
+- Custom vine sections break when they lose support rather than remaining suspended in the air.
+
+- New drops are available from Endermites, Shulkers, and the Ender Dragon.
+
+- Endermite meat can be cooked using normal heat sources as well as Cookery equipment.
+
+- Dragon meat has multiple cooking methods.
+
+- Several Dragon Egg, Shulker, and End dishes provide special status eff

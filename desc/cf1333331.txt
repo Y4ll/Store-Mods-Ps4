@@ -1,0 +1,65 @@
+Essence++( working title) is an addon designed to enhance and expand elements of Minecraft Vanilla, while staying true to its original level design. Note: This is my first addon, creating it with limited Minecraft API experience, relying mostl; y on JavaScript knowledge.
+
+Emerald Armor & Tools
+
+View Crafting Recipes
+
+Obsidian Armor & Tools
+
+View Crafting Recipes
+
+Battle Axes & Super Netherite
+
+As upgrades to Obsidian tools, Super Netherite Tools have lower durability than normal tools, but make up for it with powerful effects.
+
+Battle Axes:CANNOT be crafted (except Netherite). They spawn with monsters, and the only way to obtain them is by defeating those monsters.
+
+View Crafting Recipes
+
+View Gameplay Demos
+
+Backpacks
+
+- While sneaking and holding any item, you can put the item in the backpack by attacking it.
+
+- While sneaking and holding dye, you can dye the backpack by attacking it.
+
+View Backpack Crafting & Demo
+
+Food & Miscellaneous
+
+View Other Crafting Recipes
+
+Copper Coil
+
+Copper Coil is a block that, when powered with redstone, generates an electric field that deals damage to any nearby entity.
+
+Water Conductivity:If in contact with water, it energizes the liquid in a radius based on redstone strength.
+
+Conductive Damage:Entities in electrified water wearing metallic armor (Iron, Gold, Netherite) take 50% increased damage.
+
+Overcharge:Can be used to charge Creepers.
+
+View Crafting Recipes & Demo
+
+Vertical Slabs
+
+While sneaking, when placing a slab, it will be positioned vertically.
+
+Resource Packs
+
+Compatible with Action&Stuffs!
+
+View Subpacks
+
+Note: Action&Stuffs Texture Pack is required on top of the load order.
+
+View Action&Stuffs texture style
+
+Notes:
+
+Compatibility:
+This Add-On does not modify player.json.
+
+Achievements Friendly!
+Does not require experimental features.

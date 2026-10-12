@@ -1,0 +1,15 @@
+Cinematic Fog adds thick atmospheric fog, dramatic sunrays, and biome-tinted volumetric depth to Minecraft Bedrock. Simply place the Cinematic Fog pack above any Vibrant Visuals shader to enhance atmosphere and depth without replacing your visuals.
+
+- Recommended settings
+
+For the best experience, configure your Vibrant Visuals as follows: Volumetric Fog Enabled
+
+- Subpacks
+
+MEDIUM (Recommended) Balanced fog with controlled sunrays
+
+HIGH Stronger sunrays for more dramatic lighting
+
+Compatible with any Vibrant Visuals pack:
+
+BSLB DREAMY VISUALS

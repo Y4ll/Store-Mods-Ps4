@@ -1,0 +1,41 @@
+Are you frustrated when managing or looting items is difficult and slow? Well, this resource pack is for you!
+
+This resource pack adds new buttons to the inventory screen and chest screen to make it easier for you to manage items. This resource pack is also server-friendly! You don't have to worry about getting banned when playing Bedwars or PvP, which requires speed when looting items.
+
+Features
+
+1. Quick Items
+
+Added 4 new buttons: Auto Place, to move items from inventory to chest or vice versa with one click, either all items (64x) or just one item (1x). Drop, to drop items, either all items (64x) or just one item (1x). Destroy, to remove items from existence (only available for inventory screen), and Default.
+
+2. Quick Craft
+
+Added new button to crafting screen to craft all items with one click. Quick Craft button on crafting player will only appear if there is item in crafting input slot!
+
+3. Spam Craft
+
+Now you can spam click to CRAFT ITEMS! which you couldn't do before for some reasons, like there is delay after craft an item.
+
+More features are coming soon...
+
+Notes
+
+- The features in this resource pack are taken from Quick Container (another project of mine). I did this because people only wanted specific features.
+
+Terms Of Use:
+
+You are ALLOWED to:
+
+- Modify this pack only for personal uses.
+
+- Make a review about this pack, as long as you put original download link in description (Curseforge or Mcpedl).
+
+You are NOT ALLOWED to:
+
+- Use or claim my codes from this pack without my permission.
+
+- Distribute the modified pack to public.
+
+- Redistribute this pack to other sites (9minecraft, modbay and etc.)
+
+- Share links that are not from original sources (Curseforge or Mcpedl).

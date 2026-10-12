@@ -1,0 +1,10 @@
+Mine an entire vein with a single block and automatically smelt raw materials into ingots!
+
+To use this feature, you have to sneak while mining an ore. If you don't sneak, you can mine ores just like normal!
+
+This add-on keeps achievements enabled!
+
+NEW v1.1: Sneak while breaking stone to get stone instead of cobblestone!
+This feature also works for deepslate!
+
+Works with all ores and pickaxes; enchantments like Fortune or Silk Touch are also applied!

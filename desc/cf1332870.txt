@@ -1,0 +1,121 @@
+Bleach Beyond Bleach Add-On
+Update 5.1 The Complete Overhaul
+
+Created by Onyx8748 on discord
+
+Become a Soul Reaper, Arrancar, Quincy, or Fullbringer in Minecraft Bedrock!
+Four races, ten Zanpakuto, seven Resurreccion, nine Schrift, and a completely rebuilt progression system Bleach Beyond has been rebuilt from the ground up.
+
+SHOWCASE & TUTORIAL WATCH BEFORE REVIEWING
+https://youtu.be/22aCa0NdDnY
+
+JOIN THE OFFICIAL DISCORD CLICK HERE
+
+SUPPORT ON PATREON UNLOCK FULLBRINGER (PAID CONTENT)
+https://www.patreon.com/cw/onyxproductions
+
+VERSION 5.1 FULLY REBUILT
+
+Every system has been reworked. New progression, new race milestones, expanded technique rosters, and a brand new Vizard quest. This is effectively a new addon.
+
+PROGRESSION & LEVELING
+
+Choose your race at the start: Soul Reaper, Hollow (Arrancar), Quincy, or Fullbringer (Patreon exclusive see below).
+
+Level up by earning XP the amount needed scales per level (e.g. Level 1 = 100 XP, Level 2 = 200 XP). General cap is Level 20 (Kenpachi path pushes to Level 40).
+
+Ways to earn XP:
+
+-
+
+Slaying mobs Base: 5 XP | Menos Grande: 45 XP | Adjuchas: 85 XP | Vasto Lorde: 200 XP | Bosses: 300 XP
+
+-
+
+Meditation/Focus (Levels 119 only) Sneak for 3 consecutive seconds with your race's specific item for +20 XP
+
+Spiritual Power is earned separately by killing mobs. Used to meet requirements for heavy weapons and abilities not for leveling.
+
+RACE MILESTONES
+
+Soul Reaper
+Meditate: Crouch with unactivated Zanpakuto / Asauchi (Jinzen)
+
+-
+
+Level 10 Unlock Shikai (or choose the Kenpachi Path see below)
+
+-
+
+Level 15 Unlock Vizard Quest
+
+-
+
+Level 20 Unlock Bankai (Defeat your inner spirit)
+
+-
+
+Level 40 Auto-unlock Yachiru Nozarashi (Kenpachi path only)
+
+Hollow (Arrancar)
+
+Meditate: Crouch with empty hands, bones, or Arrancar sword (Soul Devouring)
+
+-
+
+Level 10 Evolve into Adjuchas + unlock Resurreccion
+
+-
+
+Level 20 Evolve into Vasto Lorde / Arrancar + unlock Segunda Etapa Quest (Slay 10 Vasto Lordes, then deal 60 damage within 60s while transformed)
+
+Quincy
+
+Meditate: Crouch with Quincy Cross, Bow, or Schrift (Reishi Absorption). Hollow kills give 1.5 XP!
+
+-
+
+Level 10 Awaken your Schrift letter
+
+-
+
+Level 20 Unlock Vollstandig Quest (Slay 5 Menos + 5 Adjuchas + 5 Vasto Lordes, then deal 40 damage while transformed)
+
+Fullbringer ( Patreon Exclusive)
+
+The Fullbringer race is paid content available exclusively to Patreon supporters.
+Support here to unlock
+Meditate: Crouch with Substitute Badge or Fullbring object (Object Affinity)
+
+-
+
+Level 10 Select your Fullbring Object
+
+-
+
+Level 20 Unlock Complete Form Quest (Find and slay a Vasto Lorde)
+
+THE KENPACHI PATH (Soul Reaper Secret Route)
+
+The most brutal progression route in the addon. The only path that reaches Level 40.
+
+Level 10 The Refusal
+Instead of choosing a Shikai, select "... (Keep your Asauchi)" in the Progression Manual.
+You'll receive a warning: "Your blade refuses to reveal its name. Walk the path of raw strength your Asauchi will awaken as Nozarashi at Level 20. This choice is permanent."
+Confirm it and you're locked in. You get no Shikai powers. Fight on with your bare Asauchi.
+
+Levels 1020 The Grind
+No powers. No Shikai. Just raw combat and Kido until you hit Level 20.
+At Level 20, instead of a Bankai challenge, you receive: "Your Asauchi trembles with untamed power. It is ready to awaken!"
+
+Level 20 Nozarashi Awakens
+Open your Progression Manual and confirm "Awaken Nozarashi."
+Your Asauchi shatters and is permanently replaced by Nozarashi (The Wild Cleaver).
+Your level cap breaks from 20 40 and you enter a specialized XP tracking system.
+
+Levels 2040 The Real Grind
+While other Soul Reapers are done at Level 20 with Bankai, you grind 20 more levels with only Nozarashi's Shikai. Requires massive amounts of Hollow slaying.
+
+Level 40 Yachiru Nozarashi (Bankai)
+No quest. No spirit battle. The Bankai forces itself out automatically.
+"BANKAI UNLOCKED: YACHIRU NOZARASHI! The savage blade has fully awakened. You now wield Kenpachi's ultimate power!

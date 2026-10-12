@@ -1,0 +1,19 @@
+Features
+
+-
+
+Two-Player Mounting Allows two players to ride together on Donkeys, Horses, Mules, and Zombie Horses.
+
+-
+
+Achievement Friendly The addon does not disable Minecraft achievements.
+
+Notes
+
+-
+
+Do not copy or redistribute this addon in any form.
+
+-
+
+Have fun and enjoy the addon!

@@ -1,0 +1,37 @@
+A PvP Utility pack that adds crosshair indicator when looking entity
+
+Features:
+
+- Adds corners around crosshair when looking on entity, including invisible Players!
+
+- Allowed on all servers!
+
+Showcase
+
+Insipired by:
+
+- Crosshair Addons Public
+
+- Riyo's Crosshair Indicator
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 70% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+Contact
+
+Discord: pandamine5x
+
+Follow for more packs!

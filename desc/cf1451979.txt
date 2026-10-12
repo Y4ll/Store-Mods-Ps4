@@ -1,0 +1,3 @@
+This new texture pack will bring you new tools, sounds, quick buttons, the option to add long hands, a hand model, and a normal mode. It also completely changes the redstone components, increases block saturation, and includes many other new features.
+
+Este nuevo paquete de texturas incluye nuevas herramientas, sonidos, botones de acceso rapido, la opcion de anadir manos largas, un modelo de mano y un modo normal. Tambien modifica por completo los componentes de redstone, aumenta la saturacion de los bloques e incluye muchas otras novedades.

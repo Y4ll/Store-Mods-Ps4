@@ -1,0 +1,37 @@
+DESCRIPTION
+
+Expand your adventure with BackpacksPlus, a handy addon that introduces stylish backpacks in a variety of colors! Whether you're exploring caves, building massive structures, or going on long journeys, these backpacks help you carry more and stay organized.
+
+Each backpack comes with an interesting and unique mechanic that makes inventory management more immersive and fun. Choose your favorite color and take your storage to the next level!
+
+FEATURES
+
+- Multiple backpack colors to match your style
+
+- Regular and Large Backpack variants
+
+- Large Backpacks provide expanded storage
+
+- Simple, clean design that fits Minecraft Bedrock
+
+- You can not have more than 2 backpacks in Survival Mode
+
+- No backpack limit in Creative Mode
+
+- You can wear backpacks using your off-hand slot
+
+- Backpacks keep their stored items when broken and picked up
+
+- Dye system for recoloring backpacks
+
+- Custom crafting recipes and organized creative inventory
+
+CRAFTS
+
+A craft of a medium backpack:
+
+A craft of a large backpack:
+
+A craft of a colorful backpack:
+
+Make sure to leave the feedback, your opinion matters to us!

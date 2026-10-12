@@ -1,0 +1,7 @@
+This addon adds gravity to Minecraft, making any block/structure that isn't supported fall.
+
+Instructions: Put the behavior pack onto a New World during world creation.
+
+Demo Video:
+
+Comparison (Supports removed in second image):

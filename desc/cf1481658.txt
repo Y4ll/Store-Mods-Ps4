@@ -1,0 +1,9 @@
+In this Naruto Craft Addon, youll see Naruto, Sasuke, Sakura, and several other characters.
+
+Naruto Craft is a Minecraft mod inspired by the world of Naruto, bringing ninja adventures and powerful jutsu into Minecraft.
+
+Note: They are mobs, not a player addon.
+
+The addon doesnt contain a player.json file and requires experimental mode.
+
+JOIN DISCORD

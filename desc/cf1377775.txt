@@ -1,0 +1,77 @@
+Want to add more trains to your world? Well now you can with this cargo train pack! With new cargo we added, and 7 different colors!
+
+Basic Information
+
+Train Cargo Pack Basic Specifications
+
+Performance:
+
+- Gibonz System: [NONE]
+
+Miscellaneous:
+
+- Health: 20 Points.
+
+- Seat count: Depends on vehicle.
+
+Damage:
+
+- The Vehicle will get damage animation if under max health condition and if the Vehicle in Critical Health [2 health] will release particles if the car moving. so fix your car using Wrench.
+
+Wrenches:
+
+- Wrench: Fixes 1 point to the vehicle.
+
+Spray:
+
+- Use right-click/hold and tap to spray the vehicle.
+
+Commands, Eggs and Colors available to change:
+
+- /summon hp:tcp_autoracks [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_boxcars [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_centerbeams [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_coilcars [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_coveredhoppers [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_flatcars [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_gondalas [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_intermodalcontainers [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_opentophoppers [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_refrigeratedboxcars [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_tankcars [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_wellcars [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+- /summon hp:tcp_caboose [RED, GRAY, ORANGE, BLACK, PINK, BLUE, HYPEREST]
+
+Special Features:
+
+Train Cargo pack Visual
+
+In-Game
+
+Video
+
+Note
+
+- You Need GRTC - Gibonz Railway Train Controller v1.3.0 or v2.1.5 CLICK HERE to make this train to run, the door had animation, just use items that we provide at controller. We recommended max 9 train to put because Minecraft limitations, you need anvil or nametag to rename the train.
+
+Join our Discord and submit your ideas!
+
+Click here for more!
+
+Visit website for more info about this addon!
+
+If you are content creator, please use MCPEDL, ModBay, Better Bedrock or Planet Minecraft link if you want to share it, do not relink or use direct link to Mediafire! Do not upload to another websites or applications without my permission.
+
+You can modify this pack for yourself only.

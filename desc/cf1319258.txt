@@ -1,0 +1,75 @@
+Looking for modified Cyber Truck? then this is the place to download, change my mind if cyber truck modified its cool enough though.
+
+Basic Information
+
+Cyber Sport Basic Specifications
+
+Performance:
+
+- Speed: 5 Blocks/Second. [0.50 Speed]
+
+- Toys Speed: 2 Blocks/Second. [0.25 Speed]
+
+Miscellaneous:
+
+- Health: 20 Points.
+
+- Seat count: Depends on vehicle.
+
+Damage:
+
+- The Vehicle will get damage animation if under max health condition and if the Vehicle in Critical Health [2 health] will release particles if the car moving. so fix your car using Wrench.
+
+Wrenches:
+
+- Wrench: Fixes 1 point to the vehicle.
+
+- Tweak: Changes the vehicle size.
+
+Spray:
+
+- Use right-click/hold and tap to spray the vehicle.
+
+Nitrox2:
+
+- The blue one is Full Nitrox2. Use it carefully! You can use Nitrox2 only 3 times! So, save it if you really need it. How to use it? Just the same as with a pig!
+
+Commands, Eggs and Colors available to change:
+
+- /summon hp:cs_compact [RED, GRAY, BLUE, BLACK, SYNTHWAVE, SYNTHWAVE MOD, HYPEREST]
+
+- /summon hp:cs_van [RED, GRAY, BLUE, BLACK, SYNTHWAVE, SYNTHWAVE MOD, HYPEREST]
+
+- /summon hp:cs_hoonigan [NONE]
+
+- /summon hp:cs_drift [NONE]
+
+- /summon hp:cs_police [NONE]
+
+- /summon hp:cs_offroad [NONE]
+
+- /summon hp:cs_quad_bike [NONE]
+
+Cyber Sport Visual
+
+Toys Scale vs Real Size
+
+"Use the Invisibility Potion if you want to ride the Toys Version"
+
+Congratulations! Now you just changed to "Hot Wheels: Unleashed!" game in Minecraft!
+
+Video
+
+Note
+
+- This addon support other addons.
+
+Join our Discord and submit your ideas!
+
+Click here for more!
+
+Visit website for more info about this addon!
+
+If you are content creator, please use MCPEDL, ModBay, Better Bedrock or Planet Minecraft link if you want to share it, do not relink or use direct link to Mediafire! Do not upload to another websites or applications without my permission.
+
+You can modify this pack for yourself only.

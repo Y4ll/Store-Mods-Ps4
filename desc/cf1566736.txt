@@ -1,0 +1,47 @@
+Metaanie: Vanilla (FPS+ Optimized)
+
+Welcome to the ultimate and fully modernized version of the legendary Metaanie Resource Pack! This version has been meticulously reworked, fixed, and highly optimized for Minecraft Bedrock Edition 1.26+.
+
+If you are looking for a pack that maintains the beautiful aesthetic of vanilla Minecraft while giving you a massive boost in performance and cool custom weapon variations, this is the perfect pack for you!
+
+Key Features & Enhancements
+
+Pure Vanilla Essence: Retains the core textures and nostalgic feel of official Minecraft, making it perfect for everyday survival, building, and PvP.
+
+Extreme FPS+ Optimization: We have completely cleaned up, rewritten, and streamlined the backend UI files (hud_screen, progress_screen, etc.). This reduces memory lag, stabilizes your frame rate, and ensures butter-smooth gameplay even on low-end mobile devices!
+
+Built-in Selectable Subpacks: No need to download multiple files! You can easily switch between different weapon styles directly inside the global resource settings.
+
+What's Inside the Subpacks?
+
+This pack comes equipped with highly detailed and sleek custom models that replace standard weapons into epic spears:
+
+Meta Spear (Memory Tier 1): The classic, sharp, and aggressive design originally envisioned for the Metaanie community. Perfect for dominant PvP and looking badass in survival.
+
+Kira Spear (Memory Tier 1): A futuristic, clean, and ultra-sleek alternative spear variant with smooth lines and a unique color palette for a refreshing look.
+
+Installation Guide
+
+Download the .mcpack file.
+
+Click or open the file to automatically import it into your Minecraft Bedrock game.
+
+Go to Settings > Global Resources > My Packs.
+
+Click on Metaanie: Vanilla (FPS+ Optimized) and press Activate.
+
+Click on the Gear Icon (Settings) on the pack to slide and choose your preferred Subpack (Meta Spear or Kira Spear).
+
+Restart your world/game and enjoy the smoothness!
+
+Credits & Acknowledgments
+
+This project is brought to you by the dedicated creators of the Bedrock community:
+
+Later Version Developed & Maintained By: VyHongMC
+
+Earlier Version Contributions By: MedinokiMC
+
+Original concept and assets originally created by the talented MetaanieMC
+
+Thank you for downloading and supporting our work! If you love the pack, feel free to leave a comment and let us know your feedback!

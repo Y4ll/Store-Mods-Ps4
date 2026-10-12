@@ -1,0 +1,127 @@
+X-Ray Pro Resource Pack
+
+Creator: UpCraftX
+
+Mine smarter and explore underground like never before with X-Ray Pro! This resource pack is designed for Minecraft Bedrock Edition, making underground exploration faster and more efficient by making most common blocks transparent while keeping valuable resources clearly visible.
+
+Whether you're searching for Diamonds, Ancient Debris, or other precious ores, X-Ray Pro helps you locate them quickly without unnecessary digging.
+
+Features
+
+- Makes most common underground blocks transparent.
+
+- Clearly highlights valuable ores for easy visibility.
+
+- Speeds up mining and resource gathering.
+
+- Supports both Overworld and Nether mining.
+
+- Includes Deepslate ore variants.
+
+- Lightweight and optimized for smooth performance.
+
+- Easy to install and use.
+
+- Compatible with supported Minecraft Bedrock versions.
+
+Supported Ores
+
+Overworld
+
+- Diamond Ore
+
+- Gold Ore
+
+- Iron Ore
+
+- Coal Ore
+
+- Copper Ore
+
+- Emerald Ore
+
+- Lapis Lazuli Ore
+
+- Redstone Ore
+
+Deepslate
+
+- Deepslate Diamond Ore
+
+- Deepslate Gold Ore
+
+- Deepslate Iron Ore
+
+- Deepslate Coal Ore
+
+- Deepslate Copper Ore
+
+- Deepslate Emerald Ore
+
+- Deepslate Lapis Ore
+
+- Deepslate Redstone Ore
+
+Nether
+
+- Ancient Debris
+
+Recommended Settings
+
+For the best X-Ray experience, enable the following video setting:
+
+Video Settings
+
+- Smooth Lighting: ON
+
+Using the recommended settings provides the clearest visibility while mining and exploring underground.
+
+Installation
+
+- Import the .mcpack file into Minecraft Bedrock Edition.
+
+- Activate X-Ray Pro from the Resource Packs menu.
+
+- Enable the recommended video settings.
+
+- Enter your world and start mining with enhanced visibility.
+
+Notes
+
+- This is a resource pack only and does not modify gameplay mechanics.
+
+- No commands or experimental features are required.
+
+- Works by changing block textures to improve underground visibility.
+
+Redistribution Policy
+
+This resource pack is the intellectual property of UpCraftX.
+
+You May
+
+- Use this resource pack in your personal Minecraft worlds.
+
+- Showcase the pack in videos or livestreams with proper credit.
+
+You May Not
+
+- Re-upload this resource pack to any website or file-sharing platform.
+
+- Redistribute edited or modified versions without permission.
+
+- Claim this resource pack as your own creation.
+
+- Remove or alter creator credits.
+
+- Include this pack in another download, compilation, or addon without permission.
+
+If you would like to share this resource pack, please share the official download link instead of re-uploading the files.
+
+Credits
+
+Resource Pack: X-Ray Pro
+
+Creator: UpCraftX
+
+Thank you for downloading and supporting this project. Happy mining, and enjoy discovering valuable ores faster than ever!

@@ -1,0 +1,55 @@
+Drive real machines from the past. Every machine in this pack is a real one that someone built, and you can get in and drive it.
+
+What you can drive
+
+- Old Tractor a farm tractor from 1917, on steel wheels
+
+- Model T the car from 1908 that fifteen million people bought
+
+- La Marquise a steam car from 1884, the oldest car that still runs
+
+- Motor Lorry the first lorry ever built, from 1896
+
+- Steam Traction Engine what pulled a plough before tractors did
+
+- Motorcycle and Sidecar a bike from the 1920s with a seat on the side
+
+- Horse Cart a coach with two horses in front
+
+- Steam Locomotive a train, with a coal car and a passenger car
+
+- Tall Ship three masts and nine sails
+
+- Wright Flyer the first plane that ever flew, from 1903
+
+- Pesse Canoe a boat cut from one log, the oldest boat ever found
+
+- Mark I Tank the first tank anyone ever built, from 1916, with a gun on each side
+
+- Renault FT a small tank from 1917, the first one with a turret that turns all the way round
+
+Work the land
+
+Hook a plough behind the tractor and drive. Every strip of ground you cross turns into wet farmland. There is also a seed drill that plants in rows, a reaper that cuts the crop, and a trailer that carries the load. A scythe cuts a whole patch by hand.
+
+Old guns
+
+Two cannons that you load with round shot and fire, and five old guns you can carry a musket, a blunderbuss, a shotgun, a revolver and a lever rifle. You need bullets in your bag to shoot, and each shot takes time to load again.
+
+Old clothes
+
+Three sets of four pieces each. A farmer in a straw hat and denim. A coachman in a top hat and a long coat. Sunday best, with a flat cap and a waistcoat.
+
+Vehicles/Attachments That Have Their Own Inventory
+
+- trailer Tractor Trailer
+
+- seeder Tractor Seeder
+
+- harvester Tractor Harvester
+
+- truck Motor Lorry
+
+- tender Locomotive Tender
+
+Tractors can be dyed in a variety of colors using regular dyes.

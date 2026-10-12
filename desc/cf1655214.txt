@@ -1,0 +1,25 @@
+The world has changed. An unknown invasion has brought terrifying creatures to the surface, and making even the smallest sound could mean the difference between life and death.
+
+A Quiet Place brings the horror of a silent apocalypse to Minecraft Bedrock Edition. Explore a world where noise is your greatest enemy, survive encounters with the deadly Death Angels, and use new equipment to improve your chances of staying alive.
+
+These creatures are driven by sound and will hunt down and kill any living thing that makes noise. The creatures use everything they kill as biomass to grow and spread their deadly fungus, slowly consuming and terraforming your Minecraft world into something unrecognizable. Survive. Fight back. Adapt. Craft new items and equipment. Discover the secrets behind the creatures and find a way to end the apocalypse.
+
+Remember, stay quiet... But hiding forever isn't an option.
+
+Death Angel
+
+Death Angels are blind creatures that hunt entirely by sound, capable of obliterating almost anything in a single attack.
+
+They arrived during an event known as The Quiet Apocalypse, raining down from the sky alongside a devastating meteor shower. Death Angels are invulnerable to almost every type of damage in the game. However, water is their weakness, they cannot survive underwater and will eventually drown. Their presence can also interfere with Redstone, causing nearby Redstone devices to malfunction and flicker. Staying too close to a Death Angel can trigger Fear, making survival even more difficult. But they can be distracted. Snowballs, Tridents, and Arrows can be used to lure them away from you.
+
+Specialized equipment such as the Hearing Aid can temporarily stun them, while powerful Speakers can also be used to incapacitate them.
+
+Death Angels are more than hunters, they are farmers. They collect the biomass of everything they kill and use it to grow and spread their strange Death Angel Fungus, consuming it while slowly terraforming your world.
+
+Your best chance of survival is to stay quiet. Sneaking and wearing Wool Shoes can help reduce the noise you make, allowing you to move without attracting their attention. If you manage to kill one, Death Angels can drop their Carapace, which can be crafted into powerful armor and weapons. Their Fungus Spores can also be used as a source of foodbut be careful. Eating them may keep you alive, but they will still inflict negative effects. Stay silent. Distract them. Adapt. And never let them hear you.
+
+Queen Death Angel
+
+The Queen Death Angel is a massive variant of the normal Death Angel and the leader of the invasion. She is responsible for spreading Death Angel spores throughout the world and commanding the creatures beneath her. The Queen will begin spawning on Minecraft Day 1, arriving alongside her army as the Quiet Apocalypse begins. Only one Queen Death Angel can naturally spawn in your world, making her a unique boss and the heart of the invasion. The Queen acts like a mother to the smaller Death Angels, protecting them and calling them to her when needed. Her presence makes the invasion far more dangerous as she continues to spread spores and expand their territory. But there is one way to end it all. Kill the Queen. Defeating the Queen Death Angel will end the apocalypse. No more Death Angels will naturally spawn, bringing the invasion to an end. Defeating her is not only a fight for survivalit is your chance to reclaim your world. And as proof that you survived the invasion, the Queen can drop her Head, a rare trophy that can be kept as a reminder of the creature that once ruled the apocalypse. Day 1 is when it begins. One Queen. One army. One chance to end it.
+
+Performance Warning: A Quiet Place add on may cause lag on lower-end devices. For the best experience, it is recommended to play on mid-range or high-end devices. Performance may vary depending on your device and world settings.

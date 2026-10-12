@@ -1,0 +1,21 @@
+Shield Indicator shows the current state of your shield directly on your screen.
+
+It lets you instantly know whether your shield is active, inactive, or on cooldown, so you can react faster during combat.
+
+The indicator changes color depending on the shield state:
+
+Green Shield is active (blocking)
+
+Normal Shield is ready but not being used
+
+Red Shield is on cooldown
+
+Original pack by @jh0nzxx
+
+Original pack :
+
+https://mcpedl.com/visual-shield
+
+For any help or suggestions :
+
+https://discord.gg/qrSM3Vctf

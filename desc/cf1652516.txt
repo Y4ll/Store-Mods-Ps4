@@ -1,0 +1,39 @@
+Baku X Cinematic Golden Realism is a cinematic visual enhancement pack designed for Minecraft Bedrock Edition with Vibrant Visuals. The pack focuses on transforming the overall atmosphere and lighting of the game into a warm, filmic, golden-hour experience while preserving the original Minecraft visual identity.
+
+The pack uses carefully tuned atmospheric, fog, lighting, and color-grading settings to create a richer and more cinematic environment across the Minecraft world. Warm golden light, atmospheric depth, volumetric haze, enhanced sun glare, polished highlights, and deeper cinematic shadows work together to give landscapes a more immersive and realistic appearance.
+
+Key Features
+
+Cinematic Golden-Hour Look Warm, dramatic lighting designed to create a beautiful golden-hour atmosphere.
+
+Volumetric Atmospheric Haze Enhanced atmospheric scattering and fog create greater depth between foreground, midground, and distant terrain.
+
+Cinematic Color Grading Film-inspired color treatment with enhanced contrast, controlled saturation, warm highlights, and ACES-based tone mapping.
+
+Enhanced Sunlight & Glare Stronger atmospheric interaction with sunlight produces cinematic sun glare and a more dramatic horizon.
+
+Immersive Fog Custom fog settings add warm atmospheric depth while maintaining visibility and environmental detail.
+
+Biome-Wide Visual Enhancement Visual settings are applied across a broad range of Minecraft biomes, helping maintain a consistent cinematic presentation throughout the world.
+
+Custom Lighting Carefully balanced ambient, directional, sky, and emissive lighting settings create a more polished overall lighting experience.
+
+Original Textures Preserved The pack is focused on visual settings rather than replacing Minecraft textures, allowing players to retain the familiar vanilla aesthetic.
+
+Designed For
+
+Baku X Cinematic Golden Realism is designed for players who want Minecraft screenshots, cinematic builds, exploration, and gameplay to feel more atmospheric and visually immersive without replacing the game's original textures.
+
+It is particularly suited for cinematic world showcases, adventure environments, landscape photography, building showcases, trailers, and players who prefer a warm and realistic visual presentation.
+
+Technical Information
+
+Platform: Minecraft PE/Bedrock Edition
+Visual System: Vibrant Visuals
+Minimum Engine Version: 1.21.90+, 26.X
+Pack Type: Resource / Visual Enhancement
+Texture Replacement: None
+Author: Baku Studio
+Version: 3.0.0
+
+The goal of Baku X Cinematic Golden Realism is simple: preserve the recognizable Minecraft world while giving it a richer cinematic atmosphere, stronger environmental depth, and a polished golden-realism presentation.

@@ -1,0 +1,144 @@
+What is Just Rubber Duck'es?
+
+Just Rubber duck'es is addon created for the Collecting and Customizing Rubber Ducks.
+
+========================================
+VIBRANT UPDATE
+
+===================================================================================================
+
+DUCK DISPLAYS
+
+The Ducks themselves are just crafted with a single armor stand.
+
+rubber ducke recipe
+
+Duck'e Set
+
+===================================================================================================
+
+BAGS
+
+Like Just Cosmetics(gif) this addon uses a bag drop for obtaining the special Variants and skins.
+There is a 5% chance of the
+
+Duck'e Bag
+
+dropping from any and all mobs including those from other addons.
+When using the bag it will drop a rubber duck'e
+
+Rubber Duck'e
+
+(picture of ice cream variant)
+
+or the
+
+Duck'e Cosmetic Bag
+Which can drop a dyeable skin
+
+(picture of no eye variant)
+
+=================================================
+
+Combine individual ducks to create sets
+
+(Dessert set)
+
+=================================================
+
+All skins are trimmable
+
+(No eye/no bill skin with bolt trim using resin material)
+
+Currently only custom Bolt and Flow Trim Available
+
+=================================================
+
+Fully Equippable
+
+The Ducks are fully Equippable with armor(Both vanilla and other add-ons).
+Skins take up the feet slot.
+
+======================================
+
+Dyeable water and lava
+
+craftable in 3 sizes
+
+7x7
+
+16x16
+
+21x21
+
+Craft with buckets of the appropriate liquid
+
+Dye with a cauldron
+
+Equip duck with the item
+
+======================================
+
+LAYERING WITH VARIOUS TECHNIQUES FOR DIFFERENT EFFECTS
+
+Layering using snow layers
+
+Layering using half slabs
+(both images are using the same dyed water)
+***Both images are using the rock entities from JUST FLOW, duck'es work the same way and will give the same effect***
+
+======================================
+
+CREATE SCENES
+
+The ducke set has some dynamic poses that change the orientations, mixed with dressing them up, you can get creative
+
+=====================================================
+
+SEASONALS
+
+As of right now, there are 4 holidays
+
+-Easter
+-Summer (July 4th)
+-Halloween
+-Festive (Christmas)
+
+THESE EVENTS ARE REAL TIME AND WILL START DROPPING AUTOMATICALLY
+
+-Seasonal ducks will start dropping a week before their corresponding holiday. They run through the holiday and a week after.
+Example =Easter(13-27)
+
+There is also a holiday duck set that requires the skin from each of the holidays
+
+====================================================
+
+=========================================================
+
+Compatibility
+
+JUST COSMETICS
+
+This addon was created for the sake of building upon the display in just cosmetics and was created with it as the main focus for me, so all cosmetics fit the ducks appropriotely. Make sure this pack is above just cosmetics if you use it.
+You can find it here.
+Just Cosmetics - Minecraft Bedrock Addons - CurseForge
+or here
+
+Just Cosmetics | Minecraft PE Addons
+
+==========================================
+
+JUST FLOW
+
+for those of you that don't want collectible rubber duck'es but still want dyeable water and lava. I've made a smaller addon.
+You can find it here.
+JUST FLOW
+
+==========================================
+This Add on will be continously updated with more collectibles and improvements.
+If you'd like to keep up to date or share your ideas or wants for the future of the addon you can join the
+DISCORD
+
+I'd love to see the ducks you create
+
+====================================================

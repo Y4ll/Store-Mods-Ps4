@@ -1,0 +1,21 @@
+For those of you who want to share this, please use this page link: https://www.curseforge.com/minecraft-bedrock/texture-packs/chunk-viewer/download It leads directly to the latest file, so there's no need to use Mediafire, onegaii~
+
+Join our community below!
+
+DIscord Server | Telegram Group | Whatsapp Group(+62 only)
+
+Showcase:
+
+Feature:
+
+added a minimap to the top left of the hud, showing chunk border, slime chunk, and chunk information!!
+
+Info:
+
+Subpacks: -
+
+Settings needed:
+
+- Show Coordinates
+
+Known Issue: -

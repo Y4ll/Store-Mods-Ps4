@@ -1,0 +1,51 @@
+NEW!!
+
+-New Items (Nether Star, XP Bottle, Ender Crystal, etc.)
+-Burning Mobs now give off light (High Tier only)
+-Fixed which mobs can give off light
+
+A device-based performance system has been added, ideal for low-end, mid-range, high-end, and SUPER high-end devices. This configuration is done automatically depending on the device. Additionally, this add-on only uses the "Behavior Pack," so there's no need to download multiple files.
+
+Can't See Underwater? Now items NOT RELATED to fire glow underwater. Don't forget to breathe :)
+
+Do you need to illuminate objects? Do you require it to consume fewer resources and be optimized? This addon adds light to the items it illuminates, but it is not necessary to place it; simply having it on hand will make it take effect.
+
+VIDEO TEST
+
+This is the list of blocks and items that generate dynamic light:
+
+Lights :
+
+Crying Obsidian
+
+Campfire
+
+Soul Campfire
+
+Torch
+
+End Rod
+
+Shroomlight
+
+Soul Torch
+
+Glowstone
+
+Lantern
+
+Soul Lantern
+
+Redstone Block
+
+Glowstone Dust
+
+Jack o Lantern
+
+Sea Lantern
+
+Pearlescent Froglight
+
+Verdand Froglight
+
+Ochre Froglight

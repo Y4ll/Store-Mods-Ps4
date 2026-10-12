@@ -1,0 +1,43 @@
+IMPORTANT:
+
+I introduce to you my Vita Carnis Addon, based on the analog horror series Vita Carnis. This addon adds several creatures from Vita Carnis into Minecraft. These creatures will spawn naturally around your Minecraft world, making survival more challenging and creepy.
+
+The Mobs:
+
+The Crawl
+
+The Crawl is a vine-like mob that spreads and can spawn the creatures from this addon.
+
+The Meat Snake
+
+The Meat Snake is a mob that only attacks if you hit it first and it also attacks dead mobs. It starts as a baby and grows over time. To speed up its growth, you can feed it raw chicken. This mob spawns from the crawl.
+
+The Mimic
+
+The Mimic starts as a baby and spawns from the Crawl. As a baby, it only attacks rabbits, sheep, and cows, and is afraid of villagers and players. When it grows into a juvenile, it starts hunting villagers but still avoids players. At the adult stage, it will also attack players. The Mimic grows every 100 seconds, but you can feed it chicken to speed up the process.
+
+The Host of Influence
+
+The Host of Influence when you're in a 68 radius far from the host, you will get a warning text to get away from the area. but if you are in a 50 radius far from the host, it will start pulling you towards it. The only way to escape it, is to have an ender pearl.
+
+The Harvester
+
+The Harvester can summon tendrils from the ground. Any mob that touches the tendrils takes damage, but it wont attack other members of its Carnis family. The tendrils can reach up to a 20-block radius.
+
+The Monolith
+
+The Monolith is a very tall creature. This creature spawns naturally around the world, but only at a rare chance. This mob will only attack if you hit it first.
+
+Elder Mimic:
+
+The Elder Mimic is an evolved version of the mimic; it is more powerful than the normal mimic and taller. when it is night, it will have a transparent skin, this way, it will be more sneaky during the night.
+
+The Singularity:
+
+The Singularity is a mob that spawns naturally. If you encounter this thing in your world, DO NOT HIT IT. Something catastrophic will occur if you hit this mob.
+
+The singularity spawns with this structure, it has a low change of spawning.
+
+The Merged
+
+If you do happen to hit the singularity, this will spawn. The Merged. This is the largest creature in this addon; every attack can be devastating.

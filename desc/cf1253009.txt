@@ -1,0 +1,70 @@
+Welcome to the world of Plants vs Zombies, I hope you are hungry because in this place EVERYONE is hungry. Explore the world, create your own tools to survive, defend your house from lonely zombies or prepare for the waves of zombies that will hit your home. In each update more plants and zombies will be added.
+
+Starting
+
+When you start a world, Crazy Dave will welcome you and gift you a Phone.
+
+Phone
+
+The phone is the most important tool for your stay in this world of plants vs zombies. Its main functions are:
+
+- Plant Almanac: Allows you to learn information about plants, such as where to find them and their uses.
+- Zombie Almanac: Allows you to learn information about zombies, such as their damage and behavior.
+- Seed Lottery: Once a day, you can use the lottery to get a random plant.
+- Good Neighbor Guide: A guide that lets you learn a little more about this world and gives you some advice on how to survive.
+
+Sun
+
+Suns will be a priority for you. They're used to place your plants, feed them in the Zen garden, and craft certain items. You can obtain them from some plants or find them around the world. You must break them to get the suns.
+
+Plants
+
+Plants will appear all over the world, and you'll have to kill them to get their seeds. Some of them can defend themselves, and others will give you a time limit to collect them before they disappear. To place your plants, you need to have the required amount of sun in your inventory for each one. So make sure you always have sun and seeds in your inventory.
+
+Zombies
+
+Zombies will be your biggest problem in this world. There are many types of zombies, some more agile, others stronger. They will try to reach you in different ways, so you should always have your plants and enough suns.
+
+Zen Garden
+
+The Zen Garden will be your greatest ally in obtaining plants. The plants will always start dormant, and over time they will awaken and begin to release their seeds. If you want to improve your chances, you can give them sun to accelerate production. And if the plants are dormant, you can awaken them with a coffee bean.
+
+Self-defending
+
+The rifle and the lawnmower aren't plants, but they'll be very useful for self-defense. The lawnmower can also be used as a vehicle, and you can cut grass with it.
+
+Equippables:
+
+Some zombies may drop equipment that will help you take less damage, move more easily, or make it easier to obtain seeds. So keep an eye out in case a zombie drops something you might use.
+
+Changelog
+
+- Added the following plants: Cattail, Cactus, Coffee Bean
+
+- Added the following zombies: Digger Zombie, Balloon Zombie
+
+- Added the Zen Garden
+
+- Added the almanacs
+
+- Added the seed lottery
+
+- Added the "Good Neighbor Guide"
+
+- Redesigned all objects
+
+- Changed the way to obtain sun
+
+- Changed the way to obtain plants
+
+- Changed damage calculation
+
+- Improved the use of many tools
+
+- Added new visual effects
+
+- Improved many particles
+
+- Optimization improvements
+
+- Minor bug fixes

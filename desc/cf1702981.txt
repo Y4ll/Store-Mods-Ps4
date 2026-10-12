@@ -1,0 +1,65 @@
+Kaleidoscope Deco (Unoffical)
+
+Requires Minecraft Version 26.3+
+
+Port Permission This add-on is an unofficial Bedrock port of Kaleidoscope Deco, originally developed for Minecraft Java Edition.
+
+Ported to Bedrock under the terms of the original project's GNU General Public License v3.0 and Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which permit adaptation and redistribution under their respective terms, with attribution and applicable derivative works shared under the same licenses. Special thanks to the Kaleidoscope Deco team and the Kaleidoscope Cookery team for creating the original mods!
+
+Kaleidoscope Deco is a decorative furniture and building add-on for Minecraft Bedrock Edition, ported from the original Java mod as part of my growing collection of Kaleidoscope Bedrock ports.
+
+While the add-on is mostly decorative, several blocks include small interactive features. Chairs, stools, sofas, and other seating can be sat on, certain furniture can be customized with carpets, lights can be switched on and off, and some decorative blocks include additional interactions and visual states.
+
+Some highlights include:
+
+- Sofas and Lazy Sofas in a wide range of colors, including connecting sofa variants and manually configurable Lazy Sofas.
+
+- Dining chairs and tables with carpet and tablecloth customization.
+
+- Canvas artwork featuring multiple paintings that can be cycled through, then locked in place with honeycomb.
+
+- Display Boards with multiple selectable designs that can also be waxed to preserve the chosen appearance.
+
+- Canopies and large umbrellas for outdoor dining areas, markets, and cafes.
+
+- String lights and River Lamps with interactive lighting.
+
+- Decorative props such as globes, microscopes, test tubes, wine cabinets, picnic baskets, bells, tankards, stepladders, and much more.
+
+- Fortune Cat decoration with is animated when toggled with a Lever.
+
+- Chinese Lantern which floats when powered with Flint and Steel.
+
+This is primarily a decorative add-on, so most blocks do not provide functional storage, cooking, or utility systems unless specifically noted. Their main purpose is to give builders more detailed and visually interesting ways to decorate their worlds.
+
+NO REQUIRED DEPENDENCIES
+
+Image of blocks and items:
+
+How to obtain all blocks/items
+
+Survival & Crafting Guide
+
+Everything in Kaleidoscope Deco can be obtained in Survival. The pack makes heavy use of both the Crafting Table and Stonecutter, so if you cannot find a normal crafting recipe for something, try placing its base material into a Stonecutter.
+
+Furniture
+
+Dining Chairs, Dining Tables & Cook Stools are made in the Stonecutter. Place the matching log/stem into a Stonecutter and choose the furniture piece you want. Supported wood types are Oak, Spruce, Birch, Jungle, Acacia, Dark Oak, Mangrove, Cherry, Pale Oak, Bamboo, Crimson and Warped.
+
+Dining Chairs and Dining Tables can also be customized after placement. Use any of the 16 vanilla carpets on a Dining Chair to add a seat covering, or on a Dining Table to add a tablecloth. Carpets can be changed or removed later.
+
+Sofas, Lazy Sofas & Counter Stools begin with Leather in a Stonecutter. The basic Sofa, Lazy Sofa or Counter Stool can then be recolored with vanilla dyes.
+
+Any Sofa color can be combined with any dye in a crafting table to immediately change it to that color. The same is true independently for Lazy Sofas and Counter Stoolsyou do not need to return to the original color before recoloring them.
+
+Umbrellas & Canopies
+
+Place Rabbit Hide in a Stonecutter to make any of the six Sunshade Umbrella or Sunshade Canopy colors: Red, Orange, Yellow, Green, Cyan or Blue.
+
+Once crafted, any Umbrella or Canopy can be recolored directly by combining it with one of those six corresponding dyes in a crafting table.
+
+Lighting
+
+Place a Lantern in a Stonecutter to choose from all 17 String Light designs.
+
+River Lamp: craft 1 Paper + 1 Lily Pad to make the Pink River Lamp. 

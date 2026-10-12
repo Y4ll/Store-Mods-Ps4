@@ -1,0 +1,19 @@
+Project Description:
+
+The world you knew is gone, but the fight for survival has just begun. Test your survival skills in a vanilla Zombie Apocalypse featuring more zombies than ever before. Prepare to face relentless hordes, scavenge for scarce resources, and build fortified defenses as you navigate a desolate landscape where every shadow hides a new threat. Whether you choose to brave the wasteland alone or band together with other survivors, teamwork and quick thinking are your only guarantees of seeing another sunrise.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Increased zombie spawn rate.
+
+- Spawn rules not effected.
+
+- Have something to say? Join the Discord.
+
+Zombies will spawn all over your world, day and night completely immune to the sunlight.

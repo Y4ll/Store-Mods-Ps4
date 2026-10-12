@@ -1,0 +1,107 @@
+1.21.+ compatibility but might be laggy on weak devices
+
+Even though vehicles are craftables, this mod is not survival friendly (ender dragon removed for the lod system)
+
+Enable all Experimenals options !
+
+You can use this addon with any gun addon that you want !
+
+Currently 26 vehicles (13 planes and 13 tanks)
+
+V1.4 ChangeLog :
+
+- Added 5 planes and 3 tanks (Supermarine Spitfire, A6M5 Zero, F4U 4B, BF109 K4, BF109 F4 Trop, Jagdpanther G1, Cromwel, Is-2 1944)
+
+- Fixed the tank camera (was glitching through the ground when the tank was tilting and was hard to aim due to the turret rotation inertia)
+
+- More realistic plane controls with working wep and energy system (faster when diving and slower when climbing)
+
+- Changed the machine gun sounds, tank rolling sound, hit sounds, ricochet sounds and the plane moving sound.
+
+- Some planes can now fire rockets
+
+- More realistic vehicle perfomances overall (planes climb and turn rate, tanks turret rotation and movement etc)
+
+- Fixed the too agressive tilt, it is now slower and more realistic
+
+Huge thanks to all of you for 40k downloads !
+
+Older versions :
+
+V1.3.1 ChangeLog :
+
+-Now compatible with every single gun addon that you want to use !
+
+-Optimisation for better performances and less lag
+
+-All of the 3d models have been remade for better accuracy to Warthunder
+
+-Added the Fw190-A1
+
+-New shell system you can shoot aphe, he, ap, apcr, aphebc and heat not every tanks can fire every shells so make sure to use the right shell ! (get the shells by crafting them or just get them in the creative mode if you're too lazy)
+
+-Bombs now do radius damages meaning that you don't have to land it directly on the target, if it lands next to it, it will still destroy it
+
+-New weak spot system for tanks with effective armor thickness calculation vs shell penetration capacity. This is way more advanced and realistic than the other system. The new system allows accurate kills (crew knocked out, ammunition exploded) and logic ricochets
+
+-U can switch between camos using a snow block, a sand block to adapt to the battlefield ! You can get back to the original camo by using a dirt block.
+
+-Add bushes by interacting with oak leaves (use shears to remove them)
+
+-Add additionnal armor on the shermans by using the tank track item (yes it actually Increases the protection isn't it crazy ????)
+
+-Fixed a lot of bugs, like mgs being able to kill tanks, vehicles starting to act weirdly if there was too many of them etc
+
+-New loading screen
+
+V1.3 ChangeLog :
+
+- Increased vehicles render distance (you can see them from as far as your render distance allows it)
+
+- Better Aircraft code with take off process etc
+
+- Whizzing sound effect when bullets flyby you
+
+- Remodeled Sbd Dauntless and Panther Ausf. D for better accuracy
+
+- Changed the loading screen
+
+- Fixed bug where you could'nt drop bombs or use tanks items
+
+- Changed tank sight for the exact same one as in the game "Warthunder"
+
+The most realistic war machine addon you've ever seen. See all features :
+
+- Tanks with realistic damage control (you can litterally one-shot a tank if you shoot at the right spot)
+
+- Diversity for every role (light tank, heavy tank, ground attack aircraft, dogfighter,...)
+
+- Crew Voice line
+
+- Immersive explosion effects
+
+Thanks for 12k downloads on older versions !
+
+See Older Versions
+
+I lost my old Curseforge account so new updates and other mods will be published here.
+
+Join the discord for early access, suggestions, bug report and events !
+
+Join Discord Server
+
+Feel free to make a showcase video but include a direct download link to this page (or MCPEDL one) and credit to Whiteklr (me)
+
+Credits :
+
+- Rhust (showcase photos)
+
+- Tww tank addon (some particles has been imported from this mod)
+
+- Crafterfield Ww2 addon (particles has been imported from this addon too)
+
+- Unxcrafter (helped me with some code parts)
+
+- Bateman (tank control code)
+
+Leave a comment for suggestions or bug report, I'll check it. (or join the discord server)

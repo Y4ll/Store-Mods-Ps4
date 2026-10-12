@@ -1,0 +1,42 @@
+Overview
+
+Age of Dragons is a Minecraft addon featuring powerful elemental dragons. Currently includes Fire, Ice, and Lightning Dragons, each with unique models, animations, abilities, and combat styles.
+
+Get Started
+
+If you're looking for a dragon-themed addon and want to conquer them, this is the addon for you.
+
+Age of Dragons features 3 types of dragons:
+- Fire,
+- Ice,
+- Lightning.
+They can be found in the following biomes:
+- Fire dragons in plains.
+- Ice dragons in cold regions like ice plains.
+- Lightning dragons can be found in the Sanvana region.
+- You will find them in nests, and inside there will be loot.
+- If you're lucky, you'll find a dragon nest underground; it's the nest of an old, elder dragon. When you capture them, you have a chance to get an egg.
+- There are also dragon scales and bones to craft armor and weapons.
+- How to hatch eggs:
+- Fire dragons: inside a flame.
+- Ice dragons: inside a block of water, they will freeze.
+- Lightning dragons: wait for a thunderstorm, the eggs will begin to hatch.
+- The whole process takes 5 minutes. Feed them fish to tame and stimulate growth. Use meals to speed up the growth process. Eat any kind of meat to restore health.
+
+You can craft armor for your dragon and equip chests. Craft a dragon stick to see who owns it and breath in ride. Craft golden horns to store your dragon.
+
+There are still some things you can discover for yourself. XD
+
+Socials
+
+Discord: https://discord.gg/cZkfSSnbxh
+
+Credits
+
+- Mrngda - Owner and Lead Developer
+
+- IceDragonMC - Lead Designer
+
+- Alice Kurao - Pack Icon Designer
+
+- Tomanex - Page Maintainer

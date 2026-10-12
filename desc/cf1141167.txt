@@ -1,0 +1,49 @@
+You do not require any experimental toggles to play this Add-On
+
+This Add-On works for any Minecraft Bedrock version above 1.21.100
+
+With the addition of the amethyst geodes in the caves and cliffs update, I thought the addition of new geodes would be an interesting feature in addition to the amethyst geodes. With this add-on, you can find new geodes, each one from a mineral present in the game.
+
+This add-on adds 12 new diamond, emerald, gold, iron, coal, red stone and other geodes to the game, which are randomly generated throughout the map at the same heights as the original geodes. In addition to these, quartz and netherite geodes have also been added, which can be found in the Nether.
+
+Here are some of the geodes that have been added:
+
+In the geodes, you can find two new blocks for each mineral, as well as buds and clusters. One of the added blocks generates sprouts, called budding. A feature of the add-on is the ability to collect the buddings with the enchanted pickaxe with a gentle touch, so that players can take them back to base and have a way of generating Minecraft ores. See the added blocks below:
+
+The other block added is the crystal block from the ores, which can be inserted into the geodes by breaking them up with a pickaxe. See them below:
+
+In the add-on it is also possible to make buddings and crystal blocks, and there are recipes for all the geodes, even the amethyst ones. See below for examples of crafting.
+
+Budding Echo recipe:
+
+Diamond Crystal Block recipe:
+
+INFO: In addition to this information, it is also possible to obtain the buds, from small to clustered, with the enchantment of a soft touch on the pick. And by breaking the clusters without the soft touch, you get the minerals that the geode provides.
+
+Below you can see images of all the geodes added:
+
+Added Geodes
+
+Emerald Geode
+
+Diamond Geode
+
+Coal Geode
+
+Copper Geode
+
+Iron Geode
+
+Gold Geode
+
+Redstone Geode
+
+Lapis Lazuli Geode
+
+Quartz Geode
+
+Netherite Geode
+
+Rose Quartz Geode
+
+Echo Geode

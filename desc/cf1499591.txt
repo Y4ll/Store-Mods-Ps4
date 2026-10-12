@@ -1,0 +1,13 @@
+Reefys Better Leaves is a simple yet powerful texture pack designed to transform the way foliage looks in your world. It enhances Minecrafts default leaves by making them cleaner, denser, and more visually appealing while staying true to the vanilla style you already love.
+
+This resource pack is inspired by Motshen's Better Leaves and recreates a similar improved leaf structure for Minecraft Bedrock Edition. It enhances the appearance of leaves to look fuller and more natural, while adapting the design to work within Bedrock limitations
+
+New update: Added cubic bushy leaves to make trees look fuller and cleaner.
+
+Enhance your world with denser and more realistic foliage.
+Reefys Better Leaves
+
+For the best experience, use this pack with vibrant visuals enabled.
+Ensures consistent leaf colors with no biome tint issues
+
+The Cubic Leaves has been removed in v1.7. If you want to use Cubic Leaves, please download Better Leaves v1.6.

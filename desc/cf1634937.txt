@@ -1,0 +1,35 @@
+A Historical Baroque Era War Addon
+
+17th Century
+
+Adds equipment from the years 1618-1648
+
+Armour Added
+
+Features:
+
+Dyeable Armour
+
+Guns
+
+( Uses paper cartridges as amo )
+
+Melee Weapons
+
+( Have different stats like range, damage, cooldowns, and area damage )
+
+How to get steel:
+
+How to blacken armour:
+
+(Blackening increases durability, similar to how it does in real life ,through the process of hardening, and protecting the armour from rust)
+
+NOTE:
+
+It may bring attention on how similar this addon is to the mod "Epic Knights"
+
+This addon is part of the "Epic Knights Series" for Bedrock, I am one of the devs of the team in the Bedrock handling Epic Knights content. I am also part of the team who worked on a Java mod in EK's name (Epic Knights: Addon) as an artist, I have been given permission to use assets of the EK mods, and for the addon to be in EK's name. I still made all of the gear outside of recipe items, and coded everything
+
+Although Bearing the EK title, this is more of a 'fan addon', I'm not sure if the Java team is interested in porting this to Java:/
+
+Proof of Permission from my Boss Magistu (Owner of EK)

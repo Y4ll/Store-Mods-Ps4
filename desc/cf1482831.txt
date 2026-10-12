@@ -1,0 +1,7 @@
+A Bedrock port of the mobs from the popular Reimagined texture pack by Reijvi. This pack changes the vanilla mob models by adding extra details. In the end, Reimagined should hopefully make your pixel world feel much more like an actual living breathing world that you can immerse yourself in while still staying true to that cozy familiar Minecraft charm.
+
+For the original Java Version:
+
+Cows Reimagined Chickens Reimagined Pigs Reimagined Sheeps Reimagined | Java Author's Profile
+
+Owner's Permission:

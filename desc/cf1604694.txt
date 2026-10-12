@@ -1,0 +1,18 @@
+Vors Vein Miner
+
+Sneak, break one ore, and watch the whole vein disappear. Vors Vein Miner instantly clears connected ore clusters in a single swing no more tunneling block-by-block through a diamond vein.
+
+- Works with any pickaxe normal, Fortune, or Silk Touch, all handled correctly
+
+- Fortune-aware drops multiplies yields on Fortune-eligible ores just like vanilla mining
+
+- Silk Touch support drops the raw ore blocks instead of resources when equipped
+
+- Smart detection only triggers on veins of 2+ connected ore blocks, so single ores mine
+normally
+
+- Covers every ore coal, copper, iron, gold, redstone, lapis, diamond, emerald, quartz, nether gold, and ancient debris
+
+- Balanced by design mines up to 512 blocks per vein within a 12-block radius.
+
+Just sneak and mine the rest of the vein comes with it.

@@ -1,0 +1,117 @@
+For reminder, this addon isn't fully complete, there are still lots of feature that will be added soon, so let me introduce you about this addon. ACE brings a various fully animated weapon to your survival world, the weapon using a unique mechanic that very diffrent with other 3D gun addons, the gun using attach/detach, change mag reload system which is unique than just ordinary reload system before, Influenced by many Extraction shooter game such like Road to Vostok, Escape from tarkov, Arena Breakout, and Inspired by most popular bedrock shooter map "GET OUT"
+
+Extraction In SURVIVAL?
+
+Yes you can, find a structure with flare, interact then call it, wait for 60sec then a car will come, pay them, ride their car and they will get you to your last spawnpoint (bed) so make sure to get your spawnpoint not blocked first!
+
+Forget about the terrible stamina bar, its now removed
+
+The guns have a lots of features here, such a equip/unequip animations, attach/detach mag, checking mag bullets, hipfire, attachment, no hit immunity delay, and much more
+
+Gun Mechanics
+
+At first, your weapon doesnt have a mag, you need to attach it using your weapon's mag by right click/interact when holding the gun, make sure you have the right mag on your inventory
+
+A mag with highest bullet will be chosed first, but if you want to attach particular mag, you can put em on your offhand slot.
+
+Bullet counter UI is now removed, you can check your mag by sneaking + hit/attack while holding the gun
+
+To detach the mag, just simply press hit/attack button or left click while holding the gun.. you can play the inspect animation when the gun has no mag attached by pressing hit/attach button or left click again since you didn't hit a entity or your gun will swing (gun attack animation) cuz the gun works like sword (has a damage)
+
+Bullet spread (with hipfire animation)
+
+No foregrip + Hipfire:
+
+No foregrip + Aim:
+
+Foregrip + Hipfire
+
+Foregrip + Stock + Aim
+
+Control
+
+Sneak: Aim down sight
+
+Right click/hold: Shoot / attach mag when the gun is empty
+
+Sneak + Left click/hit: Checking bullet on attached mag
+
+Hit air/block: Detach mag / play inspect animation when the gun is empty
+
+Hit entity: Gun swing attack animation
+
+Reloading Magazine
+
+To reload the magazine, hold it then put the right ammo on your offhand slot, then right click/interact rapidly to attach the bullet one by one
+
+This thing will become 3d animated and automaticaly in the future update, so stay tuned
+
+Attachment mode
+
+To enter attachment mode, you need attachment kit items then put it on your 9th slot hotbar while holding the gun, left click/hit to select and right click/hold to install/uninstall. You cannot shoot, aim and attach/detach mag while entering attachment mode, Sneak to go back and remove the attachment kit from your 9th slot hotbar to quit.
+
+You can instal infinite attachment on creative mode, but in survival mode, you'll need the attachment items
+
+Muzzle: Reduce Gun Shoot volume and radius
+
+Laser: Give you crosshair assist
+
+Scope: Zoom in your aim
+
+Stock: Reduce weapon shake
+
+Magazine: Increase bullet capacity but also increase attach/detach mag duration
+
+Foregrip: Reduce bullet spread
+
+All Guns
+
+For now, there are only 8 guns in this version, my plans is added at least 17 guns with various knife skins and explosive equipment on future update.
+
+Each gun has a diffrent attachment and magazine features you can find it by yourself later
+
+Colt M1911
+
+Type: Single Shot
+Damage: 10
+
+Starter weapon, you can get it for free once you start your world with survival mode
+
+Glock-17
+
+Type: Single Shot
+Damage: 7
+
+Mosin Nagant
+
+Type: Bolt Action
+Damage: 38
+
+Barret M82
+
+Type: Semi Auto
+Damage: 50
+
+Tactile T2
+
+Type: Bolt Action
+Damage: 50
+
+HK416C
+
+Type: Auto
+Damage: 12
+
+Honey Badger
+
+Type: Auto
+Damage: 15
+
+SCAR-L
+
+Type: Auto
+Damage: 12
+
+Flashlight Features
+
+There is also flashlight that bright your path by attach it to your gun, to use it.. put the flashlight on the offhand slot while holding your weapon, not 

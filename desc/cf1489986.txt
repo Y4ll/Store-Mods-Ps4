@@ -1,0 +1,69 @@
+Start your survival adventure on a beautiful floating island in the sky!
+
+Furfi Skyblock is a simple and powerful Skyblock addon that lets players instantly generate a Skyblock island using a command. Each island includes a balanced survival setup with trees, water, lava, farmland, and village structures to help you begin your sky survival journey.
+
+Perfect for servers, multiplayer worlds, and custom survival challenges.
+
+Features
+
+Instantly generate a Skyblock island
+
+Beautiful floating island terrain
+
+Includes trees, water, lava, and starter structures
+
+Works in multiplayer worlds
+
+Custom command system
+
+Optional cooldown or one-time use
+
+Command
+
+Generate your Skyblock island with: /skyblock
+
+This will create a new Skyblock island for the player.
+
+Cooldown / Usage Settings
+
+The addon uses a scoreboard to control how often the command can be used.
+
+/scoreboard players set delay skyblock <delay in ticks>
+
+One-time use (Default)
+
+Set the score to -1 to allow the command to be used only once per player.
+
+Delayed use
+
+Set the score to any number greater than 0 to create a cooldown before the command can be used again.
+
+/scoreboard players set delay skyblock 600
+
+This would allow the /skyblock command to be used again after 600 ticks (30 seconds)
+
+Good For
+
+Skyblock survival worlds
+
+Multiplayer servers
+
+Challenge maps
+
+Custom survival gameplay
+
+Adventure maps
+
+Notes
+
+Each player can generate their own island
+
+Great for multiplayer Skyblock servers
+
+Works with most addons and datapacks
+
+Make a flat world with the void preset
+
+Check out my discord for addons and my Minecraft server.
+
+https://discord.gg/SYQqs6aJfB

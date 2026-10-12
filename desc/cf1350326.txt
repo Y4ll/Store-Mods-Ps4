@@ -1,0 +1,11 @@
+This resource pack makes trees in your world look bushy.
+
+This resource pack has different modes.
+
+- Bushy leaves
+
+2. Round leaves
+
+3. Fluffy leaves
+
+Leaves have different styles and you can always choose one you perfer. This resource pack was designed to be used with shaders, ray tracing graphics mode and pvp resource packs. It can be used with vanilla lightning or with vibrant visuals graphics mode, as I tried to make it work with them.

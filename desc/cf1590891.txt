@@ -1,0 +1,9 @@
+Want to make your multiplayer world more challenging and fun? Shared Inventory gives every player in the world the same inventory. When one player picks up, crafts, equips, or uses an item, the changes are instantly shared with everyone.
+
+- Shared Inventory - Every player uses the same inventory instead of having separate storage
+
+- Equipment Sync - Helmets, chestplates, leggings, boots, and offhand items are shared too
+
+- Real Time Sync - Changes made by one player are instantly reflected for everyone
+
+Having any issues with my mods or found a bug? Or maybe you have an idea for a mod that you would like me to make? Join my Discord server and let me know! I'm active there regularly and would love to hear your feedback, suggestions, and ideas.

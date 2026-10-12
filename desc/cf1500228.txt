@@ -1,0 +1,59 @@
+SmoothCraft FPS is a lightweight performance-focused resource pack designed to boost FPS and reduce lag in Minecraft Bedrock Edition.
+
+This pack removes unnecessary particles and animations, simplifies visuals, and optimizes UI elements to deliver a smoother and more responsive gameplay experience especially on low-end devices.
+
+Features:
+
+- Optimized UI for better performance
+
+- Removed unnecessary particles and animations
+
+- Lightweight textures
+
+- Reduced lag and stutter
+
+- Improved overall FPS
+
+- Clean and minimal design
+
+Best for:
+
+- Low-end devices
+
+- PvP players
+
+- Survival gameplay
+
+- Smooth experience lovers
+
+Recommended Settings:
+
+- Render Distance: 48 chunks
+
+- Graphics: Low / Medium
+
+- Smooth Lighting: Off
+
+- Fancy Graphics: Off
+
+Performance Impact:
+
+- Noticeable FPS boost
+
+- Smoother camera movement
+
+Reduced frame drops in heavy biomes (Jungle, Dark Oak, etc.)
+
+Note:
+
+This pack focuses on performance, so some visual effects and details are reduced.
+
+License:
+
+All Rights Reserved.
+
+Do not copy, modify, or redistribute without permission.
+
+Support:
+
+If you enjoy this pack, consider sharing it and giving feedback!

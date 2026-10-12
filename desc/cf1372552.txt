@@ -1,0 +1,47 @@
+Legendary PBR Textures is a PBR-ready resource pack for Minecraft: Bedrock Edition that pairs physically-based materials with the Vibrant Visuals shader pipeline. It also fine-tunes fog, water, and environmental effects to push Bedrock toward a cinematic look.
+
+Why it looks so good
+
+- True PBR workflow: specular, roughness, metallic (and matte) maps tuned for Bedrock.
+
+- Depth & micro-detail: subtle height data for convincing 3D relief without extra geometry.
+
+- Visual polish: adjusted fog, water, and environment for a cohesive scene.
+
+What you get
+
+- Resolutions: Low (free), plus HD and FHD via membership.
+
+- Changelog & updates: ongoing versioned releases with new blocks and tweaks.
+
+Requirements & platforms
+
+- Edition: Minecraft: Bedrock. Works on PC/laptop, mobile, tablet, and consoles, performance/visuals vary by device. (Optimized for Windows.)
+
+- Vibrant Visuals: enable it to get the intended lighting/post-FX with this pack.
+
+Quick install (Bedrock/Windows)
+
+- Download the .mcpack for your chosen tier (Demo/Low/HD/FHD)
+
+- Double-click the .mcpack to import into Minecraft (Bedrock).
+
+- In Settings Global Resources, activate the pack.
+
+- In Settings Video Graphics Mode, enable Vibrant Visuals.
+
+Add-ons to level it up
+
+- Enhanced Visuals Add-on: fog, lighting/shadows, improved PBR tuning, and water effects.
+
+- Mobs & Items Add-on: higher-fidelity entities and gear.
+
+- Modern Paintings Add-on: contemporary art set to modernize interiors.
+
+Performance tips
+
+- Start with LOW or HD; move to FHD if frame rate is stable.
+
+- Reduce render distance
+
+- Keep drivers up to date, close background apps before high-res sessions.

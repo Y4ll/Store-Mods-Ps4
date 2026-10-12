@@ -1,0 +1,69 @@
+Animated Glowing Ores
+
+Squinting at dark cave walls trying to spot a diamond vein is over. Animated Glowing Ores makes every ore block glow with smooth, eye-catching animations visible from a distance, easy to spot, impossible to miss. With over 22 unique animation styles to choose from, you can pick the exact glow effect that fits your style.
+
+Requirements
+
+Vibrant Visuals must be enabled in your world settings for this pack to work correctly.
+
+Features
+
+- 24+ animated glow styles pick the one that fits your style
+
+- Available in both Outlined and Non-Outlined versions same animations, your choice of look
+
+- Each ore glows in its own natural color diamond blue, gold yellow, redstone red
+
+- Adjustable glow strength Glow+ variants available for stronger intensity
+
+Preview of All Animation Styles
+
+- Border Pulse
+
+2. Color Wipe
+
+3. Converge
+
+4. Dual Snake
+
+5. Ember
+
+6. Four Corners
+
+7. Glint
+
+8. Glow Wave
+
+9. Loading Bar
+
+10. Long Snake
+
+11. Marching Dashes
+
+12. Mirror Split
+
+13. Ore Zoom
+
+14. Pendulum
+
+15. Pop
+
+16. Quad Runner
+
+17. Ripple Rings
+
+18. Shine
+
+19. Sparkle
+
+20. Star Shine
+
+21. Twin Pendulum
+
+22. RGB Cycle
+
+23. Spinner
+
+24. Twinke
+
+25. Comet

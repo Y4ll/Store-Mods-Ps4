@@ -1,0 +1,62 @@
+Fast Piglin Barter Addon v1.0.5
+
+Fast Piglin Barter Addon supercharges your bartering experience by drastically reducing the time Piglins take to barterand best of all, it doesnt disable achievements!
+
+Say goodbye to slow, tedious bartering cycles. With this addon, you can trade gold for Piglin loot almost instantly. Its perfect for resource farming, testing, speedruns, or loot-focused gameplay. This pack keeps the drop rates and loot tables completely vanillano scripts, no commands, just faster bartering!
+
+Fully compatible with vanilla Minecraft mechanics
+Works great for ender pearl farming, blackstone collection, and more
+Ideal for technical players, casual survivalists, and addon creators
+
+Customizable Barter Speeds
+
+You can choose from 19 speed options based on your preference:
+
+- Normal
+
+- 1.25x, 1.5x, 1.75x
+
+- 2x 10x (in 0.5 increments)
+
+Each version is a separate filejust choose the one that fits your playstyle!
+
+How to Set It Up
+
+Watch the video below to learn how to enable and use the options:
+
+Server Compatibility Info:
+
+This addon may not work on servers (like Aternos or Realms) because servers often force the default version of the pack or load other conflicting ghast behavior packs.
+
+If you want to use this on a server, please join our Discord and download the separated "Custom Options" version of the addon. These files are manually selectable to ensure they work as intended in server environments.
+
+Recommended Addon
+
+Want even more control over Piglin trades? Try my Custom Barter and Chances Addon to customize loot and chances even further! Why?
+
+- You can customize the Barter Drops while having an ability to trade faster rather than waiting for 8 seconds to drop one (1) loot.
+
+Important Notice
+
+Do NOT reupload or claim this addon as your own.
+If youd like to share it, please link to this page or my profile. Thank you!
+
+Feedback & Community
+
+I love hearing your suggestions and feedback! Feel free to leave a comment or join our Discord server to chat, report bugs, or request features:
+
+Discord: https://discord.gg/R2a6N7kTFb
+
+Follow Me for More Addons!
+
+- CurseForge: itsmexd
+
+- MCPEDL: itsmexd
+
+- YouTube: @itsmexd890
+
+- Instagram: @itsmexd890
+
+- TikTok: @itsmexd949
+
+- X (formerly Twitter): @INoob10500

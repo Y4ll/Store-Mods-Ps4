@@ -1,0 +1,24 @@
+What is AppleSkin - Bedrock Port?
+
+It's a Bedrock Port of the Original AppleSkin on Java.
+
+What it does?
+
+Adds the Saturation Bar to the HUD, it shows the player Saturation Status.
+And it also shows the how much Hunger/Sarutation you will restore from the holding food item:
+
+It shows that for both Vanilla and Custom Food items!
+
+Important Notes*
+
+This addon does not convert the full java mod to bedrock due to Bedrock jsonUi Limitations, It's missing the Exhaustion Bar and the Restored Health.
+
+And because this addon adds a new jsonUi element, we have to use titles in order to make it functional, So this addon is 100% incompatible with addons that use titles!
+
+Curious how its coded?
+
+Youre welcome to check out the addons code and learn from it!
+
+- Just keep in mind, you cant copy or reuse parts of it directly. Please write your own code and use mine as a Learning Reference.
+
+- Enjoy.

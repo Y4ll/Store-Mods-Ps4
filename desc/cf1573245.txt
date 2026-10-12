@@ -1,0 +1,15 @@
+Pushing villagers into boats, building railroads, fencing them off just to move them a few hundred blocks we've all been there. Leashable Villagers fixes all of that. Slap a lead on any villager and walk them straight to your trading hall. Simple as that.
+
+How to Use
+
+- PC: Hold a Lead and right-click on a villager
+
+- Mobile: Hold a Lead and tap the villager
+
+The villager is now leashed and follows you. Walk them to your base, trading hall, or anywhere you want.
+
+Achievement Friendly?
+
+Yes fully achievement friendly. Behavior-only pack, no experimental features, no achievement lock.
+
+Your villagers. Your rules. Take them anywhere.

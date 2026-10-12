@@ -1,0 +1,39 @@
+One addon, nine smart breaking tools in a single clean menu. Dynamic Capacitor gives every tool a superpower mine entire ore veins, fell whole trees, harvest full crop patches, and clear stacked plants all in one break. Toggle each one on or off whenever you want.
+
+Capacitors
+
+- Ore Vein Miner pickaxe mines every connected ore block in the vein at once, Fortune enchant fully supported
+
+- Tree Capacitor axe fells the entire tree in one break, all log types and stripped variants included
+
+- Leaf Shears shears collect every connected leaf block at once, any leaf type
+
+- Crop Harvester hoe harvests every ripe crop in the surrounding patch and auto-replants instantly
+
+- Sugar Cane break the bottom stalk and the entire column harvests at once
+
+- Bamboo break the base and the full bamboo stack harvests in one hit
+
+- Cactus break the bottom and the full cactus column drops at once
+
+- Kelp break the base and the entire kelp strand harvests instantly
+
+- All Blocks break any block and every connected block of the same type breaks with it (use with caution)
+
+Global Settings
+
+- Master Toggle enable or disable all capacitors at once with a single button
+
+- Auto Collect all drops go straight into your inventory instead of scattering on the ground
+
+- Replant Crops harvested crops are automatically replanted in the same spots
+
+- Max Blocks slider set how many blocks each capacitor can break per action, from 16 to 512
+
+Commands
+
+- /voxen:dc open the Dynamic Capacitor menu
+
+Achievement Friendly?
+
+Yes fully achievement friendly. Use it without any worries.

@@ -1,0 +1,21 @@
+FullBright is a lightweight Minecraft Bedrock pack that makes dark areas easier to see without changing your worlds blocks, textures, or gameplay balance. It is designed for players who want clearer visibility while mining, exploring caves, building at night, or navigating the Nether and End.
+
+This pack works by applying a Night Vision effect to players, giving you bright, readable environments while keeping the vanilla Minecraft look intact.
+
+Features
+
+- Bright visibility in caves, night, Nether, and End areas
+
+- Keeps the default Minecraft texture style
+
+- No extra shaders required
+
+- Works with Simple and Fancy graphics modes
+
+- Lightweight and easy to install
+
+- Great for survival, creative building and exploration
+
+How to Use
+
+Import the pack, activate it in your worlds Behavior Packs menu, and start playing. Once enabled, FullBright will automatically keep your view bright while you play.

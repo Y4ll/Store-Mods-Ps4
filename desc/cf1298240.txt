@@ -1,0 +1,55 @@
+X-ray Bedrock all Versions Minecraft PE Resource Pack
+
+Description
+
+A lightweight X-ray resource pack for Minecraft PE (Bedrock Edition) version 1.19.60+. This pack hides all blocks except for ores and gravel, making it perfect for efficient mining and resource hunting.
+
+Built using the default 16x resolution. No gameplay changes just visual improvements for mining. Compatible with mobile and Windows 10/11 Bedrock Edition.
+
+note: this pack works best with a Night Vision Potion or FullBright Pro Resource Pack by Leo Termado
+
+Features
+
+- Only ores and gravel are visible
+
+- Everything else is transparent
+
+- Works on Minecraft Bedrock 1.19.60 - 26.0
+
+- Older versions available too!
+
+- Default 16x resolution
+
+- Lightweight and easy to use
+
+- mcpack
+
+Creator
+
+Leo Termado
+
+Instagram: @leo.tdo
+
+Version Info
+
+- Name: X-ray 1.19.60
+
+- Version: 1.1.0
+
+- Release Date: February 2023
+
+- Game Version: Minecraft Bedrock 1.19.60 and new Bedrock 26.0
+
+- Resolution: 16x
+
+Tags
+
+xray, minecraft pe, bedrock edition, 1.19.60, ores, mining, transparent blocks, texture pack, resource pack, leo termado, mcpack
+
+Disclaimer
+
+This X-ray pack is intended for use in singleplayer or private worlds only.
+
+Using it on public or multiplayer servers may violate their rules and could result in a ban.
+
+Use at your own risk. The creator is not responsible for any consequences resulting from misuse.

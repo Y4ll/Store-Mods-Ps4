@@ -1,0 +1,39 @@
+Versao 1.0.0
+
+Versao 1.0.1
+
+Herobrine Addon: The Legend Comes Alive Bring the most iconic Minecraft creepypasta straight into your Bedrock world. Herobrine isn't just another mobhe is an unyielding, immortal, and relentless stalker designed to turn your survival world into a true horror experience. Key Features:
+
+Classic Summoning Ritual: Build a 3x3 gold block base, place Netherrack in the center, and ignite it with a flint and steel. The legend spawns 5 seconds later.
+
+Truly Immortal: Weapons and /kill commands won't save you. He cannot be permanently destroyed.
+
+5 Skin Variants: Every spawn randomly selects a different look, including a dark red-eyed variant.
+
+Dynamic Movement: He walks, swims, and flies depending on the terrainflying aggressively during chases.
+
+Relentless Combat: Tracks players through walls, counterattacks any entity that hits him, and even attacks players in Creative Mode.
+
+Always Watching: He never gets lost. If he drifts too far from players, he automatically teleports nearby.
+
+100% native Minecraft Bedrock addon (MCPE / Consoles / Windows). Download now and test your survival skills!
+
+Herobrine Addon: A Lenda Ganha Vida no Seu Minecraft
+
+Traga a creepypasta mais iconica da historia do Minecraft direto para o seu mundo Bedrock. O Herobrine nao e apenas mais um mob: ele e um chefe implacavel, imortal e perseguidor que vai transformar sua jogatina em um verdadeiro jogo de terror.
+
+Recursos Principais:
+
+Ritual Classico de Invocacao: Monte uma base 3x3 de blocos de ouro, posicione a Netherrack no centro e acenda com o isqueiro. Em 5 segundos, a lenda ganha vida.
+
+Verdadeiramente Imortal: Esqueca espadas ou comandos. Nem o /kill consegue elimina-lo definitivamente.
+
+5 Variacoes de Skin: Cada invocacao sorteia um visual unico, incluindo a variante sombria de olhos vermelhos.
+
+Movimentacao Dinamica: Ele anda, nada e voa para alcancar voce. Se tentar fugir pelos ceus, ele vai atras.
+
+Combate Implacavel: Ataca mesmo sem linha de visao, revida contra qualquer mob ou jogador e nao respeita nem o Modo Criativo.
+
+Presenca Onipresente: Ele nunca se perde. Se voce se afastar muito, ele se teleporta para perto de um jogador automaticamente.
+
+100% nativo para Minecraft Bedrock (MCPE / Consoles / Windows). Baixe agora e veja se voce consegue sobreviver!

@@ -1,0 +1,80 @@
+Bring Your Minecraft Cities to Life with City Streets+
+
+Turn your Minecraft Bedrock worlds into vibrant, realistic urban landscapes with City Streets+ the ultimate addon for city builders. Packed with over 60+ unique blocks, you can create authentic streetscapes complete with traffic cones, bollards, fire hydrants, trash cans, signs and a huge variety of road tiles featuring arrows, crosswalks, center lines, manhole and more.
+
+Whether you're building a bustling downtown, a suburban neighborhood, or a detailed highway system, this add-on replaces plain concrete with rich, high-detail infrastructure. Your roads won't just connect places they'll feel alive.
+
+More block types will be added in future updates, so your city can keep growing with us.
+
+Start building with details and realism because your Minecraft city deserves more than flat gray streets.
+
+Crafting Guide
+
+You Only need these blocks and items to access all of the blocks in this addon
+
+- Iron Ingot
+
+- Iron Sheet
+
+- Asphault Mix Black
+
+Join the Community
+
+Want to report a bug, suggest a feature, or try beta builds early? Join our Disscord channel
+
+Click Here to Join our Discord
+
+What's New in v1.4 (V1.4 will be release on Moday 14th sep 2026)
+
+In Jist this major update brings a bunch of new street light related blocks, New signs and a Brand new Crash Barrier
+
+New Features
+
+- Iron Sheet - Its a new item that can be crafted from a iron ingot in Stone cutter. This item is now necessary to craft the furniture and sign related blocks.
+
+- Asphault Mix Black - Previously called 'Raod block' is now renamed and a new crafting recipe is added to make future colorful road expansion easy and digestible and the name was somewhat missleading and would have conflicted with other furntiture related items.
+
+- New signs - Sign blocks for [ Roundabout/Square about, U Turn, Dead End and Crossing ] were added.
+
+- Street Light Bocks - [Street light Middle(non interactive), Street light Electric Box/Utility Box, Top Light and Side light]
+
+- Crash Barrier - A new crash barrier block.
+
+- Added 5 new translation files bringing the number to 18 translated languages. ( New languages Portuguese, Dutch, Polish, Ukrainian, Danish, Swedish )
+
+Improvements
+
+Creative Menu Overhaul
+Restructured item categories for better organization. Finding the right block is now faster and more intuitive.
+
+More Generous Crafting
+Increased Asphault Mix Black recipe yields, craft more blocks with the same resources, making large road projects less grindy.
+
+Bug Fixes
+
+fixed - Empty value for tile.pb:road_.name
+fixed - Merged/missing line break corrupting two adjacent keys
+fixed - Character-encoding corruption (mojibake)
+fixed - Dropped meaning in translations
+fixed - Mistranslations accross files
+fixed - Formating and consistancy
+
+Discription From V1.3
+
+Discription v1.3
+
+Ready to transform your Minecraft worlds into bustling urban landscapes? This major update brings a wealth of new city-building tools and significant under-the-hood improvements to make your street scenes more realistic and interactive than ever!
+
+New Features
+
+- Wrench Tool - A brand new utility item that lets you rotate any block with cardinal direction states. No more breaking and replacing blocks just to fix their orientation!
+
+- New Sign Models - New sign models with better geometry and higher detail. These signs are now more realistic and look better in your city scenes.
+
+- Blocks Model Revamp - Added new models and geometries for the blocks to make them look more detailed and also some textures are also revamped.
+
+- Interactive Speed Limit Signs - Place configurable speed limit signs with 6 speed variants (10, 20, 30, 40, 50, 60 km/h). Simply sneak + right-click to cycle through different speeds perfect for creating realistic highways and residential zones.
+
+- Trash Can Revamp Added new models for the trash can block and added new color varient that can be changed by sneak + right clicking on the block.
+
+- Metal Trash Cans New trash can blocks avai

@@ -1,0 +1,59 @@
+Progressive design, cutting-edge technology, and precision performance brought to Minecraft Bedrock.
+
+Experience the innovation and power of Audi vehicles inside Minecraft. This addon introduces a lineup of iconic Audi models, combining sleek design, responsive handling, and advanced engineering inspired by the legendary Quattro heritage perfect for players who want modern performance and refined driving on city streets and highways
+
+ATTENTION!!!
+
+This addon is an independent fan-made project created exclusively for use in Minecraft and intended solely for entertainment purposes.
+
+It has no official connection, partnership, authorization, sponsorship, or endorsement from Audi or any other real-world automotive manufacturer, brand, or company.
+
+All trade names, trademarks, and references mentioned belong to their respective owners and are used strictly for informational and descriptive purposes.
+
+AVAILABLE MODELS:
+
+ENGINES:
+
+MECHANICS:
+
+- SPEED SYSTEM: The addon now features a gradual acceleration system that simulates an automatic transmission, providing smoother and more realistic vehicle behavior.
+
+Start Neutral
+
+Neutral Drive
+
+Drive Neutral (only when stopped)
+
+- IGNITION SYSTEM: Vehicles can only be started from inside the car using a key.
+
+- FUEL SYSTEM:Each vehicle can be powered by different fuel types: Coal (Combustion), Redstone (Electric) and Hybrid: Uses both coal and redstone.
+
+Each fuel type has its own maximum capacity. Players must manage fuel carefully to keep their vehicles running efficiently.
+
+- SPEEDOMETER: A functional speedometer shows your current speed in km/h and the remaining amount of fuel, allowing precise control while driving.
+
+- EMISSIVITY: Simulates the cars headlights.
+
+- COLORS: Paint your car using any Minecraft dye.
+
+- SHOP: Shop system using iron ingots + the required engine.
+
+- LANGUAGES: This addon is available in the following languages:
+
+Brazil (Portugues), Bulgaria (), Canada (English / Francais), China (), Czech Republic (Cestina), Denmark (Dansk), Finland (Suomi), France (Francais), Germany (Deutsch), Greece (), Hungary (Magyar), Indonesia (Bahasa Indonesia), Italy (Italiano), Japan (), Mexico (Espanol), Netherlands (Nederlands), Norway (Norsk), Poland (Polski), Portugal (Portugues), Russia (), Slovakia (Slovencina), South Korea (), Spain (Espanol), Sweden (Svenska), Taiwan (), Turkey (Turkce), Ukraine (), United Kingdom (English), United States (English).
+
+Some translations may not be 100% accurate and can be improved in future updates.
+
+If you find any translation issues, feel free to report them in the comments.
+
+- ANIMATIONS:
+
+Rotating and steering wheels.
+
+Vehicle movement during acceleration, braking, cornering, and terrain changes.
+
+EXTRAS
+
+Perfect for players who love cars, urban roleplay, or simply want to explore Minecraft roads in style!
+
+Turn your Minecraft world into a true Audi garage!.

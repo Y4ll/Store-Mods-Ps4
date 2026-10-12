@@ -1,0 +1,5 @@
+This mod makes the main progression of the game very diffacult. Similar to RLCraft, getting wood requires you to make a flint axe. Stone drops rocks, skeletons, blazes, and ghasts wield machine guns, creepers are now missiles, and more torture.
+
+if you want a tutorial, watch this:
+
+Rembrr to download the resource pack and turn on beta APIs in experiments.

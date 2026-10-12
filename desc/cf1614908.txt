@@ -1,0 +1,95 @@
+Newb X Daydream
+
+A fantasy shader for Android, iOS, and Windows designed to make every Minecraft world feel peaceful, immersive, and comfortable.
+
+This is a variant shader made from Newb Shader by Devendrn
+
+Features
+
+- Soft Cozy lighting
+
+- Reflective ground
+
+- Beautiful sunrise and sunset colors
+
+- Colorful night sky with shooting stars
+
+- Aurora Borealis (Northern Lights)
+
+- Fluffy Clouds
+
+- Glowing Ores
+
+- Enhanced atmospheric fog
+
+- Balanced color grading
+
+- Realistic Moon
+
+- Enhanced End Atmosphere
+
+- Yellow fireflies
+
+Subpacks
+
+Choose the visual quality that best suits your device. Rounded Clouds and Realistic Clouds are available in supported quality levels.
+
+- Lite / Default - Performance-focused experience designed for smoother gameplay, with reduced effects and lighter cloud rendering.
+
+- Medium - A balanced preset offering improved visuals while maintaining good performance. Choose between Rounded Clouds or Realistic Clouds.
+
+- Wisteria Edition - Adds Wisteria Trees for a unique fantasy-inspired look, available with both Rounded and Realistic Clouds.
+
+- High - Enhanced visuals with reflections and improved cloud quality, offering a more cinematic Minecraft experience.
+
+- Ultra - The ultimate visual preset featuring ground reflections, galaxy effects, and high-quality cloud rendering for the most immersive experience.
+
+Compatibility
+
+Newb X Hearth only works with MB Loader (Android) or Wyvern Loader (Windows) or Minecraft with Hynis (iOS).
+
+Feedback
+
+Thank you for using Newb x Daydream Shader! You may send your feedbacks, suggestions, or concerns here https://discord.com/channels/844591537430069279/1527986271073341440
+
+Redistribution Policy
+
+Please do not:
+
+- Reupload this shader.
+
+- Redistribute modified or unmodified versions without permission.
+
+- Claim this project as your own.
+
+If you'd like to share the shader, please link to the official CurseForge page instead.
+
+Licence
+
+This project is based on the Newb Shader by devendrn project and follows the terms of its original license.
+
+Original project: https://github.com/devendrn/newb-x-mcbe
+
+Credits
+
+- credits to devendrn the founder of newb shader
+
+- credits to indeed_itsgab for the leaves culling effect code
+
+- credits to .stellar1779 for the complementary end inspired and sparkling stars code
+
+- credits to Hazelntz for the rainripple json
+
+- credits to Mr.Zan for the glowing armor trim resources
+
+- credits to tryzzzmc for the used survival island map in the shader screenshots
+
+- credits to .minmin_11 for the new cartoonish clouds
+
+- credits to kurinkishi for the shadow effects code
+
+Disclaimer
+
+Newb X Hearth is an unofficial project and is not affiliated with or endorsed by Mojang Studios or Microsoft
+
+Please click here https://discord.gg/newb-community-844591537430069279 to join in our discord server for more updates!

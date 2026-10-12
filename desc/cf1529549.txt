@@ -1,0 +1,133 @@
+Capytator is a feature-rich QoL add-on for Minecraft Bedrock that automates tedious manual tasks from felling a tree to integrated auto-smelting. Spend less time grinding and more time building.
+
+Designed for survival. Built for solo or multiplayer.
+
+What's new in v1.7.0?
+
+Added new features:
+
+Fluid Collector (Empty Buckets)
+
+Collect any fluid source within an 16-blocks radius at once using empty buckets.
+
+Works for Lava, Water, and Powder Snow.
+
+Fluid Collector toggle can be found in Any Tool menu.
+
+Moss Clearer (Hoe)
+
+Basically it works like Snow Clearer but for Moss Block and Moss Carpet, pale variant is supported.
+
+Natural Trees Only (Axe settings)
+
+Toggle it on to restrict Tree Capitator to only breaking logs connected to natural leaves.
+
+Leaf Decay also no longer break other trees' leaves.
+
+Snow Clearer can now clear the cluster of Powder Snow using a shovel.
+
+You can now trigger Snow Clearer for Snow Layer by interacting with the Snow Layer while holding a shovel.
+
+HOW IT WORKS
+
+Most miner features require crouching (sneak) to activate for example, sneak + break an ore block to mine the entire ore vein.
+
+Hammers are the exception they work normally, sneaking switches them to single-block mode instead.
+
+If you don't like sneaking, toggle "Activate by Sneaking" off in Capytator > General to flip this; bulk actions trigger normally, and sneaking becomes the single-block override.
+
+On First Join
+
+If the add-on was activated correctly, you'll receive a message and "Capytator" item when you join the world for the first time.
+
+Interact or use the item to open your personal settings, where you can enable/disable individual features. Sneak and interact to instantly disables everything for yourself.
+
+Craft with one stick (shapeless) if you lose the item.
+
+MAIN FEATURES
+
+Smart Tool-Switch
+
+Automatically swaps to the best matching tool in your inventory for whatever block you're mining. When you hit a mob, it immediately swaps to a sword (or axe as fallback), ensuring you're always ready for combat.
+
+Prefers higher-tier tools and skips tools with fewer than 5 durability remaining.
+
+Works seamlessly while mining and switches your tools instantly when the block type changes without stopping mid-mine.
+
+[!] This only works when you're holding a tool to prevent it from messing up your hotbar.
+
+Axe
+
+Tree Capitator
+
+Chop down an entire tree in one swing. Supports all wood types, including Nether stems and their stripped variants.
+
+[*] Leaves are decayed immediately. No more floating canopies.
+
+Auto-Replant
+
+Chop at the base of the tree to automatically consume a sapling from your inventory and replant it. This is skipped if you don't have any.
+
+[*] Only works if the logs have natural leaves.
+
+Mushroom Capitator
+
+Basically just a Tree Capitator, but for Huge Mushrooms. Silk Touch is supported.
+
+Leaf miner
+
+The manual version of Leaf Decay. Clear connected leaves in one go with an Axe, or Shears.
+
+All leaf or tree types are supported, including the custom ones from other add-ons*
+
+Pickaxe
+
+Vein Miner
+
+Breaking an ore will also break the connected ones the entire vein at once. Compatible with Fortune & Silk Touch enchantments.
+
+[*] Tool tiers are respected Vein Miner won't work if you use an insufficient tool tier.
+
+[*] Works for all ore types and some custom ores.
+
+Auto-Smelt
+
+Automatically smelt raw ores into ingots when broken. Works with Vein Miner and grants XP (from smelting) directly to the miner.
+
+[!] Auto-Smelt (Pickaxe) is OFF by default. You have to enable it in Capytator > Pickaxe.
+
+[!] This won't work if your Pickaxe (or Hammer) has Silk Touch enchantment.
+
+Stone Miner
+
+Mines connected decorative stones, including Magma and Obsidian.
+
+Supported blocks for Stone Miner:
+
+1. Granite
+
+2. Andesite
+
+3. Diorite
+
+4. Blackstone
+
+5. Gilded Blackstone
+
+6. Tuff
+
+7. Calcite
+
+8. Magma
+
+9. Obsidian
+
+10. Crying Obsidian
+
+11. Glowstone (Silk Touch supported)
+
+Ice Miner
+
+Basically a Stone Miner, but for ice blocks. Silk touch is supported.
+
+Shove

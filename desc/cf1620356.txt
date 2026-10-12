@@ -1,0 +1,59 @@
+Ore OP Drops
+
+Ore OP Drops transforms normal mining into a much more rewarding experience. Every time you mine supported ores, you have a chance to receive powerful bonus loot alongside the normal vanilla drops.
+
+Features
+
+- Mine ores to receive extra OP rewards.
+
+- Supports multiple vanilla ores.
+
+- Different ores provide different reward tiers.
+
+- Rare ores can drop extremely powerful items.
+
+- Possible rewards include Golden Apples, Enchanted Golden Apples and other valuable loot.
+
+- Obtain items such as Totems of Undying, Netherite gear and high-tier resources.
+
+- Diamond, Emerald and Ancient Debris provide better reward pools.
+
+- Normal vanilla ore drops are preserved.
+
+- Simple gameplay system with no complicated setup.
+
+- Great for Survival, SMP and challenge worlds.
+
+Reward Progression
+
+Common ores provide useful bonus rewards, while rarer ores offer increasingly powerful loot. Mining valuable blocks such as Diamond Ore, Emerald Ore and Ancient Debris gives you access to the strongest reward pools available in the addon.
+
+How It Works
+
+Simply enter your world and start mining ores normally. When a supported ore is successfully mined, the addon automatically generates an additional reward depending on the ore's rarity.
+
+Your normal Minecraft mining experience remains intact while giving you an extra reason to explore caves, search for rare ores and keep mining.
+
+Perfect For
+
+- Survival Worlds
+
+- SMP Servers
+
+- Mining Challenges
+
+- OP Survival Experiences
+
+- Custom Minecraft Worlds
+
+Important
+
+This addon is designed for Minecraft Bedrock Edition. Always create a backup of important worlds before installing or testing any addon.
+
+Credits & Rights
+
+Created By: Baku
+
+All Rights Reserved Baku
+
+All addon files, systems, branding and associated content belong to Baku. Redistribution, re-uploading, copying or claiming this project as your own without permission is not allowed.

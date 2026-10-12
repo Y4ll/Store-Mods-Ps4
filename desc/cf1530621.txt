@@ -1,0 +1,43 @@
+Sonic's Gang Addon
+
+Ever wished you could bring characters from Sonic the Hedgehog into Minecraft? This addon makes that happen. It adds three iconic characters straight into your world, giving your gameplay a fast and exciting twist.
+
+THE MOBS:
+
+Sonic:
+
+Health: 500
+
+Attack Damage: 10
+
+Sonic is very fast that attacks any monster. If you give Sonic the Chaos Emeralds, Sonic will turn into Super Sonic.
+
+Super Sonic:
+
+Health: 1000
+
+Attack Damage: 25
+
+A more faster version of Sonic, this form can appear if you give Sonic the Chaos Emeralds.
+
+Tails:
+
+Health: 300
+
+Attack Damage: 10
+
+Tails is somewhat fast, he can fly and will have a blaster that will shoot fireballs.
+
+Knuckles:
+
+Health: 500
+
+Attack Damage: 15
+
+Knuckles' speed is comparable to Tails. This guy cannot take fall damage because he will just glide.
+
+ITEMS:
+
+Chaos Emeralds:
+
+If given to Sonic, he will turn into a new form

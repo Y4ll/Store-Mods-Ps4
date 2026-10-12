@@ -1,0 +1,73 @@
+XP Clumper (Bedrock Edition) - v1.1
+
+XP Clumper is a performance-focused addon inspired by the legendary Java mod "Clumps". It is designed to drastically reduce FPS drops and server lag caused by experience orbs in mob farms, boss arenas, or combat zones, now with smooth animations.
+
+How it works:
+
+The addon detects scattered XP orbs and magnetically pulls them together into a single stack. Unlike older versions that just teleported orbs instantly, v1.1 uses vector mathematics to create a smooth "suction" effect, making the gameplay feel polished and satisfying while saving your CPU.
+
+Key Features:
+
+- Visual Satisfaction: Orbs now slide towards the center using smooth interpolation (Lerp) instead of vanishing instanty.
+
+- Lag Prevention: Includes a "safety cap" that limits how many orbs are processed per tick, ensuring your game never freezes even if you break a massive XP bank.
+
+- No player.json: 100% compatible with any other addon. Does not touch player files.
+
+- Achievement Friendly: Works without Experimental Toggles. You can earn achievements/trophies.
+
+- Smart Pickup: The system pauses if a player is within 2.5 blocks, allowing you to collect XP naturally without it running away from you.
+
+Support the Project
+
+XP Clumper is 100% free and achievement-friendly.
+
+If this addon improves your gameplay and you want to support:
+
+- Performance updates
+
+- New features
+
+- Long-term maintenance
+
+You can support me on Ko-fi (one-time or monthly):
+https://ko-fi.com/memoriestudio
+
+Compatibility: Works on version 1.21.300 or higher.
+
+XP Clumper (Bedrock Edition) - v1.1
+
+XP Clumper es un complemento de optimizacion inspirado en el legendario mod de Java "Clumps". Esta disenado para eliminar los bajones de FPS y el lag del servidor causados por la acumulacion de experiencia en granjas de mobs y zonas de combate, ahora con animaciones suaves.
+
+Como funciona?
+
+El addon detecta orbes de experiencia dispersos y los atrae magneticamente hacia un punto central. A diferencia de las versiones anteriores que simplemente teletransportaban los items, la v1.1 utiliza matematicas vectoriales para crear un efecto de "succion" suave, haciendo que el juego se sienta profesional y satisfactorio mientras ahorra recursos de tu CPU.
+
+Caracteristicas Principales:
+
+- Satisfaccion Visual: Los orbes ahora viajan suavemente hacia el centro usando interpolacion (Lerp) en lugar de desaparecer de golpe.
+
+- Prevencion de Lag: Incluye un limite de seguridad por tick. Si rompes una granja masiva, el addon procesara los orbes en grupos pequenos para evitar que el juego se congele.
+
+- Sin player.json: 100% compatible con cualquier otro addon. No toca los archivos del jugador.
+
+- Compatible con Logros: Funciona sin activar opciones experimentales. Puedes seguir ganando logros y trofeos.
+
+- Recoleccion Inteligente: El sistema se pausa si estas a menos de 2.5 bloques, permitiendote recoger la experiencia naturalmente sin que esta "huya" de ti.
+
+Apoya el Proyecto
+
+XP Clumper es 100% gratuito y compatible con logros.
+
+Si este addon mejora tu experiencia y queres apoyar:
+
+- Optimizaciones de rendimiento
+
+- Nuevas funciones
+
+- Mantenimiento a largo plazo
+
+Podes apoyarme en Ko-fi (donacion unica o mensual):
+https://ko-fi.com/memoriestudio
+
+Compatibilidad: Funciona desde la version 1.21.300 en adelante.

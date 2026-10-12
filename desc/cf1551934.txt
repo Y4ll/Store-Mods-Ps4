@@ -1,0 +1,76 @@
+Immersive Melodies
+
+Immersive Melodies is a premium Bedrock Edition addon that brings interactive musical instruments and a vast library of legendary melodies to your Minecraft world.
+
+Choose from 11 custom-modeled instruments, select one of the 34 pre-loaded songs, and start performing!
+Dynamic musical note particles follow your player as you play, and full multiplayer compatibility lets you form your own medieval or modern band with friends.
+
+Inspired by Immersive Melodies from Minecraft Java.
+
+Watch the Showcase Trailer
+
+Features
+
+Authentic Audio Synthesis: Each instrument uses highfidelity, customsynthesized tones that capture its true character.
+
+Curated Song Library: 34 iconic tracks sorted by popularity rock anthems, movie scores, video game themes, folk tunes, and community memes.
+
+Loop & Trim Duration System: All tracks play for at least 30 seconds (looping short songs) and fade out smoothly at 65 seconds to avoid repetition.
+
+Dynamic Visual Effects: Colorful, sizevaried musical note particles drift into the air and follow your character while performing.
+
+Multiplayer Harmonization: Each instrument plays a distinct audio track, allowing multiple players to perform the same song as a rich ensemble.
+
+Playable Instruments
+
+Bagpipe
+
+Didgeridoo
+
+Ender Bass
+
+Flute
+
+Handpan
+
+Lute
+
+Piano
+
+Tiny Drum
+
+Triangle
+
+Trumpet
+
+Vielle
+
+Featured Songs (34 Total)
+
+Some of the legendary tracks you can perform:
+
+Rock & Pop Classics: We Will Rock You, Seven Nation Army, Thunderstruck, All the Small Things
+
+Movie & TV Themes: Hedwigs Theme, Imperial March, Game of Thrones, Indiana Jones, Inspector Gadget
+
+Video Game Hits: Megalovania, Song of Storms, Wet Hands, Sarias Song, Dragonborn Theme
+
+Sea Shanties & Folk: Drunken Sailor, Cooleys Reel, Ally Croker, Chuchirast
+
+Meme & Community Favorites: Among Us Theme, All My Fellas
+
+How to Use
+
+1 Equip your Instrument: Hold any instrument in your main hand.
+
+2 Open the Song Selector: Sneak + Use (RightClick / tapandhold) to open the interactive menu.
+
+3 Select a Song: Choose any of the 34 tracks.
+
+4 Play the Music: Hold Use to perform. Note particles will follow you.
+
+5 Stop the Song: Release Use or swap items.
+
+Bring Your World to Life
+
+Fill your world with music, atmosphere, and unforgettable performances using Immersive Melodies!

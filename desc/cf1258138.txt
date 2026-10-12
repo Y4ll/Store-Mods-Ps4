@@ -1,0 +1,13 @@
+This pack has 13 adjustable options! It includes the new ore textures and the original ore textures, with an option to use borders for both! Choose between red, orange, yellow, green, aqua, blue, pink, purple, RGB, RGB ANIMATED, black, and white!
+
+Easily spot diamonds and Netherite with this enhanced texture pack! All ores are outlined for better visibilityeven when partially obscured by lava or fire. Ancient Debris is clearly distinguishable from netherrack, making it much easier to locate in the Nether.
+
+Whether you're blasting for Netherite or exploring deep caves for diamonds, this pack makes hidden ores stand outeven in tight corners or behind hazards. The outlined borders ensure you wont miss a thing. Good luck, and happy mining!
+
+Texture Variations
+
+This pack offers a variety of color options for ore outlines. You can stick with the default outlineseach tailored to the specific oreor choose from a range of solid colors like red, green, blue, and more. Some variants feature subtle corner-only outlines for a less intrusive look, or options that highlight only Ancient Debris, keeping other textures untouched while still making Netherite easier to spot.
+
+How to Change the texture for Bedrock Edition?
+
+For Bedrock Edition, everything is included in a single all-in-one pack. To customize the texture style, go to your world settings and open the Resource Packs section. Select the Outlined Ores pack, then click the settings icon. This will bring up a slider that lets you choose the outline color for the ores.

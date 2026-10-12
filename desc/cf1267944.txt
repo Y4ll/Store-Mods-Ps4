@@ -1,0 +1,17 @@
+(1) Este sombreador hace que todo el entorno se vea lo mas hermoso posible, agregando sombras, niebla vulnerable, aguas realistas, iluminacion realista, reflejos de lluvia detallados y mas.
+
+(2) Los efectos visuales vibrantes son los nuevos sombreadores de Minecraft Bedrock para dispositivos moviles, consolas y computadoras. Si bien son oficiales, actualmente se encuentran en desarrollo para mejorar su rendimiento y compatibilidad.
+
+(3) Este sombreador esta optimizado. Los requisitos minimos son:
+
+1. Un telefono decente, con al menos 3 GB de RAM y Android 11. Es compatible con GPU Mali y Adreno, por lo que algunos usuarios podrian no poder activar Vibrant Visuals. PERO ESE PROBLEMA PUEDE SER TEMPORAL CON LAS ACTUALIZACIONES DE MINECRAFT.
+
+2 PARA PC SOLO AQUELLOS QUE TENGAN WINDOWS 10 Y 11 DE 64 BITS, 8 GB DE RAM SON SUFICIENTES
+
+(4) Este sombreador esta inspirado en el nombre Ruspe Shaders. Esto no significa que sea la version actualizada, ya que Ruspe Shine Engine Edition es un sombreador diferente.
+
+Hola he vuelto despues de tanto tiempo por ello voy a actualizar Ruspe Shine Engine Edition programado listo para su lanzamiento entre finales de enero a inicios de febrero del 2026 asi que cualquier cosa ideas o dudas en mi servidor de discord
+
+https://youtu.be/Mx7zcRytLWM?si=-3pZ55OCF_tWWg-j
+
+https://youtube.com/@jesusgamez5644-oficial?si=8sNXnSThoa6ASczN

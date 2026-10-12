@@ -1,0 +1,65 @@
+Eclipse Visuals Ultra Realistic Bedrock Experience
+
+Eclipse Visuals is a complete visual overhaul for Minecraft Bedrock Edition, designed to make your world look and feel far more immersive while keeping the vanilla survival experience intact. If you've ever wanted realistic graphics similar to RTX, this pack is made for you.
+
+Important: Eclipse Visuals requires Minecraft Bedrock's Vibrant Visuals feature to work correctly. Make sure Vibrant Visuals is enabled before using this pack.
+
+What Eclipse Visuals Adds
+
+Eclipse Visuals upgrades nearly every part of the game's atmosphere.
+
+RTX-style Visuals
+
+Experience realistic lighting, soft shadows, improved skies, enhanced water, reflections, richer colors, and cinematic fog effects. Daytime feels bright and vibrant, sunsets become dramatic, and nights are darker and more atmospheric.
+
+Immersive Interfaces
+
+The pack includes redesigned interfaces inspired by immersive UI packs. Chests, furnaces, crafting tables, containers, and other menus receive cleaner, more detailed textures that blend naturally with Minecraft's world
+
+Better Trees
+
+Forests become much more beautiful with improved tree models and richer foliage. Trees look larger, fuller, and more natural, making exploration feel fresh without changing vanilla gameplay.
+
+Rain Mist & Splash Effects
+
+Rain is no longer just falling particles. You'll see mist forming during rainfall along with splash effects when rain hits the ground and water, creating a more realistic weather experience.
+
+Immersive Environmental Sounds
+
+Enjoy a richer soundscape with improved ambient audio. Wind, rain, water, nature, and environmental effects make caves, forests, rivers, and storms feel much more alive and immersive.
+
+Features
+
+Realistic RTX-inspired visuals powered by Vibrant Visuals.
+
+Enhanced lighting, shadows, fog, skies, water, and reflections.
+
+Immersive GUI textures for chests, furnaces, and other interfaces.
+
+Improved trees and foliage for a more realistic world.
+
+Rain mist and water splash particle effects.
+
+Immersive environmental sounds for a cinematic experience.
+
+Vanilla-friendly design with no gameplay changes.
+
+Perfect For
+
+Survival adventures.
+
+Realistic worlds.
+
+Roleplay and building.
+
+Cinematic screenshots and videos.
+
+Exploration with a more immersive atmosphere.
+
+Eclipse Visuals is built for players who want Minecraft Bedrock to look stunning without changing its core gameplay. Step into a richer, more atmospheric world and experience Minecraft in a whole new way.
+
+Requires Vibrant Visuals.
+
+Why Eclipse Visuals?
+
+Many visual packs only change textures or lighting. Eclipse Visuals combines realistic visuals, immersive sounds, improved trees, and enhanced block interfaces into one easy-to-install package, giving your world a fresh look without sacrificing performance or vanilla gameplay.

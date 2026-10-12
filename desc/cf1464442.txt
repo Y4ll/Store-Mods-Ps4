@@ -1,0 +1,62 @@
+It is necessary to download and install both packages BP and RP, otherwise it will not work!
+
+This addon requires at least version 1.21.130, it does not work on older versions!
+
+Have you ever felt like the Nether is missing biomes or simply want to explore new ones? If so, you'll love this add-on!
+
+It adds up to 5 completely unique biomes with a vanilla-like style.
+
+If you want more biomes in the Overworld, download: Simple Biomes Expansion
+
+Added Biomes:
+
+Flesh Combs: A biome composed of Living Flesh and Blood Lakes, a hostile biome primarily inhabited by Zombie Piglins and occasionally Zoglins!
+
+Rotten Bogs: Composed of Rotten Flesh blocks and Rotten Lakes, this is a dangerous biome inhabited by Zombies, Skeletons, Slimes, Fleshys, Parasites and Boggeds!
+
+Burning Forest: Composed of Burning Nylium blocks, this biome features many fire patches and is inhabited by Blazes and Magma Cubes!
+
+Toxic Swamp: A biome composed of Toxic Nylium blocks, this biome features highly dangerous toxic lakes and is inhabited by Blights and Glowslimes!
+
+Shady Mangrove Swamp: it is a mangrove with purple/pink tones that generates at the level of Nether lava, it cannot be generated in high places, which makes it a unique biome! Endermites spawn naturally here!
+You can find Shady Sugar Cane, to create Shady Sugar and make new potions!
+
+Added Items:
+
+Potion of Degeneration: You can make this recipe using Glow Slime Balls. This Potion causes the affected entity to accumulate damage while the effect is active and when the effect ends all accumulated damage will be dealt instantly as total damage.
+
+Potion of Lethality: You can make this recipe using Blight Rods. Causes the affected entity to automatically kill entities with low health (for example, you hit a zombie and it has 2 health points left, then it will receive additional damage and die)
+
+Potion of Pestilence: You can make this recipe using Stinky Bone. Causes the affected entity to deal magical damage to nearby entities while the effect is active.
+
+Potion of Necrosis: You can make this recipe using Putrid Heart. Makes the affected entity unable to be cured in any way!
+
+Potion of Mucus: You can make this recipe using Mucus. Makes the affected entity attract nearby mobs and stick to it, also if you hit a mob it will be attracted and stick to you until the effect ends!
+
+Potion of Plague: You can make this recipe using Infested Sac. Causes the affected entity to hit its attacks to cause poison!
+
+Potion of Vulnerability: You can make this recipe using Shady Sugar. Causes the affected entity to take additional damage for a time.
+
+Potions of True Vision: You can make this recipe using Blood Eye or Big Blood Eye. You must place it in a Brewing Stand, the potion removes blindness and darkness, and grants night vision!
+
+Blight Armor: armor made with Blight Rods and Glow Slime Balls, each piece makes you immune to a certain potion effect!
+
+Blight Tools: Causes fatal poison on impact!
+
+Bligth Mace: A powerful mace that causes fatal poison when making its mace slam!
+
+Putrid Amulet: When used, it poisons and weakens all entities within a 10-block radius!
+
+Added Mobs:
+
+Blight: It's a toxic blaze that shoots toxic balls, which burn and inflict poison. When it dies, it drops Toxic Rods, which can be used to craft Blight armor pieces!
+
+Glowslime: It's a toxic slime that poisons when it attacks. When it dies, it drops Glowslime balls, which can be used to craft Potions of Attraction and Blight armor pieces!
+
+Flesh Golem: You can summon it by building 3 rotten flesh blocks vertically and placing an eye block on top!
+This entity deals 1 damage and can withstand 3 hits regardless of the amount of damage it has received!
+
+Fleshy: it's like a zombie that when hit causes the Necrosis effect on its target, when it dies it will spawn Parasites! These can Drop Putrid Heart and Stinky Bone, materials used to create new potions!
+
+Parasite: It is like a silverfish, it causes poison on hit and sticks to the target entity!
+Thes

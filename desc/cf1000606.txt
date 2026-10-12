@@ -1,0 +1,169 @@
+StoneTombs V2.0 Never Lose Your Items Again
+
+Realms Multiplayer Addon Friendly
+
+Achievements Friendly No Experimental Toggles No player.json
+
+Official StvAddons Page Discord Server
+
+StoneTombs V2.0
+
+Dying far from home should not mean losing hours of progress.
+
+StoneTombs protects your inventory inside a personal grave when you die and gives you the tools to find it, track it, teleport back, recover your equipment intelligently and manage every active grave from one interface.
+
+V2.0 is a major rework focused on making death recovery safer, easier to understand and much better for survival worlds, multiplayer servers and Realms.
+
+Why StoneTombs?
+
+- Stores your inventory safely inside a grave when you die
+
+- Creates a unique Grave Key linked to that specific grave
+
+- Live grave tracking with distance + direction
+
+- Optional enchanted-key teleportation
+
+- New Grave Manager for all your active graves
+
+- 3 different recovery modes
+
+- Restore equipment only when you need it
+
+- Automatic armor and offhand re-equipping
+
+- Configurable XP recovery from 0% to 100%
+
+- Permanent Smart Safe Grave Placement
+
+- Automatic 44 emergency platform if no safe ground exists
+
+- Safer graves around lava, dangerous terrain and the void
+
+- Owner-only, timed-public or fully public graves
+
+- Configurable grave expiration and cleanup
+
+- Public/expiration notifications with sounds
+
+- 17 grave models
+
+- 15 grave-name colors
+
+- Separate Admin Config and Personal Config
+
+- Complete in-game Help & Guide
+
+- Overworld, Nether and End support
+
+- Multiplayer & Realms friendly
+
+- Designed to work alongside other addons
+
+- Does not use player.json
+
+- No experimental gameplay toggles required
+
+What's New in V2.0?
+
+StoneTombs V2.0 is much more than a visual update.
+
+The entire recovery system has been expanded so players have more control while server owners can configure how graves behave across the world.
+
+V2.0 Highlights
+
+- Added a complete Grave Manager
+
+- Added live grave tracking
+
+- Added nearby grave preview
+
+- Added Original Slots, Fill Inventory and Drop Remaining Items recovery modes
+
+- Added automatic armor/offhand restoration
+
+- Added Equipment Only recovery
+
+- Added configurable XP storage
+
+- Added configurable teleport XP costs
+
+- Added Owner Only / Owner Then Public / Everyone access modes
+
+- Added public-grave timers from 30 seconds to 60 minutes
+
+- Added public-grave notifications
+
+- Added grave expiration and cleanup controls
+
+- Added expiration warnings and notifications
+
+- Added configurable maximum active graves
+
+- Added permanent Smart Safe Grave Placement
+
+- Added automatic 44 emergency platforms
+
+- Added separate Admin Config and Personal Config
+
+- Added a complete in-game Help & Guide
+
+- Expanded visual customization to 17 tomb models
+
+- Added 15 grave-name colors
+
+- Improved Grave Key behavior and tracking
+
+- Improved XP handling
+
+- Improved item restoration and full-inventory handling
+
+- Improved compatibility for worlds, Realms and dedicated servers
+
+Video Short Review
+
+How StoneTombs Works
+
+When you die, StoneTombs creates a grave containing your stored inventory and gives you a Grave Key connected to that exact grave.
+
+Your grave stores information such as:
+
+- Grave number
+
+- Owner
+
+- Dimension
+
+- Coordinates
+
+- Death time
+
+- Death cause
+
+- Stored XP
+
+- Stored items
+
+By default, only the owner can recover their grave.
+
+Your key can also display the grave's location so you always know where your items were left.
+
+Coordinates can also be shown in chat when the grave is created.
+
+Both coordinate displays can be enabled or disabled by the server administrator.
+
+Smart Safe Grave Placement
+
+One of the most important V2.0 improvements is the new Smart Safe Grave Placement system.
+
+This safety system is always enabled.
+
+When you die, StoneTombs does not blindly place the grave exactly where you died.
+
+Instead:
+
+- It searches around your death location for safe natural ground.
+
+- It checks nearby positions and different heights.
+
+- It avoids unsaf

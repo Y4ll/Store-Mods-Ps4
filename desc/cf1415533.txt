@@ -1,0 +1,87 @@
+RR Java Combat PRO v2.0.0 - Sweeping Edge for Bedrock Edition
+
+If you have ever played Java Edition Minecraft, you know that combat feels completely different. One of the most satisfying mechanics in Java is the Sweeping Edge enchantment, where a single sword swing can damage multiple enemies standing close together. Bedrock Edition has never had this feature, and that always felt like a missing piece of the combat experience.
+
+That is exactly why I created RR Java Combat PRO. This addon brings authentic Java-style sweeping attacks directly into Bedrock Edition. When you hit a mob with any sword, nearby enemies will also take damage and get knocked back. You will see blood particles, damage indicators showing target health, and critical hit effects when you land a falling strike. This completely transforms melee combat into something far more satisfying and strategic.
+
+Sweeping Edge Combat System
+
+The core mechanic of this addon is the Sweeping Edge system. Every time you strike an enemy with a sword, the addon scans for nearby mobs within your sweep range. All detected enemies will receive a percentage of your attack damage and get pushed away from you with realistic knockback physics.
+
+The sweep range and damage scale with your sword tier. A basic wooden sword has a smaller sweep radius, while a netherite sword can hit enemies from much further away with increased damage. This creates meaningful progression as you upgrade your gear throughout your survival world.
+
+Visual Feedback and Damage Indicators
+
+Combat should feel impactful, and this addon delivers that through multiple visual systems. Every hit generates blood particles at the point of impact. When you land a critical hit by attacking while falling, you will see a burst of critical hit particles and hear a satisfying sound effect.
+
+The damage indicator system displays your target health directly on your action bar. You can see the mob type, current health, and maximum health in real time. The health display changes color based on how wounded the target is, shifting from green to yellow to red as you deal more damage.
+
+Kill Streaks and Combat Statistics
+
+To reward skilled combat, the addon tracks your hit streaks in real time. Landing consecutive hits within a short window will trigger streak announcements. Hit three enemies quickly for a Triple streak, five for a Penta, and ten or more for the ultimate Godlike announcement. Each streak tier plays a unique sound effect to celebrate your combat skills.
+
+All your combat data is tracked and saved permanently. You can view your total hits, mob kills, sweep attacks, critical hits, and your hit to kill ratio. These statistics persist across sessions, letting you track your improvement over time.
+
+Fully Customizable Settings
+
+Every combat parameter can be adjusted through an intuitive settings panel. You can modify the sweep range from two to six blocks depending on how powerful you want the effect to be. The sweep damage percentage can be adjusted from twenty to sixty percent of your base damage.
+
+Additional toggles let you enable or disable critical hit particles, control whether sweeping attacks affect other players in PvP scenarios, and toggle kill celebration particles. All settings are saved globally, so your preferences persist every time you load your world.
+
+Sword Tier Statistics
+
+Sword Type
+Base Damage
+Sweep Range
+Knockback
+
+Wooden Sword
+2
+2.2 blocks
+0.4
+
+Stone Sword
+2
+2.5 blocks
+0.4
+
+Iron Sword
+3
+2.8 blocks
+0.5
+
+Golden Sword
+2
+2.5 blocks
+0.5
+
+Diamond Sword
+4
+3.2 blocks
+0.6
+
+Netherite Sword
+5
+3.5 blocks
+0.7
+
+Controls
+
+Action
+How To Use
+
+Open Settings Panel
+Hold Name Tag + Sneak
+
+View Combat Stats
+Hold Book + Sneak
+
+Perform Sweep Attack
+Hit any mob with a sword
+
+Critical Hit
+Attack while falling
+
+Disclaimer: Some promotional images and thumbnails used on this page may have been created or enhanced using AI generation tools for better visual presentation.
+
+Important: This addon requires Beta APIs to function. Go to W

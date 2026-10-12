@@ -1,0 +1,37 @@
+Colored Lighting brings stunning RGB colored light to Minecraft Bedrock. Simply place the Colored Lighting pack above any Vibrant Visuals shader to add immersive colored glow from over 100 light sources, without replacing your visuals.
+
+Compatible with any Vibrant Visuals pack:
+
+BSLB Dreamy Visuals
+
+What Gets Colored:
+
+112 light sources, each given its own colour.
+
+- Torches regular, redstone, soul, copper, underwater and all four colored torches
+
+- Lanterns regular, soul, and every copper lantern across all oxidation and waxed states
+
+- Candles all 16 dyed colours, plus all 16 candle cakes
+
+- Copper bulbs all eight oxidation and waxed states, each dimmer and warmer as it ages
+
+- Fire & flame fire, soul fire, campfires, lava and flowing lava, magma
+
+- Froglights ochre, verdant and pearlescent
+
+- Amethyst buds, clusters and budding amethyst
+
+- Sculk catalyst, sensor, calibrated sensor and shrieker
+
+- Portals & the End nether portal, end portal, end gateway, respawn anchor, crying obsidian, ender chest, dragon egg
+
+- And more glowstone, shroomlight, sea lantern, sea pickle, glow lichen, cave vines, jack o'lantern, beacon, conduit, brewing stand, enchanting table, firefly bush, vault, trial spawner, redstone ore, furnaces
+
+Light sources use point lights where the glow should follow the block and static lights where it should sit still, so a candle flickers where a lava pool doesn't.
+
+Installation:
+
+1.Download the .mcpack 2.Open to import 3.Turn on Vibrant Visuals in Video Settings 4.In your world's resource packs, place Colored Lighting above your shader pack 5.Choose Ores Glow ON or OFF
+
+Order matters. Colored Lighting only replaces lighting data, so it must sit on top for your shader to keep its fog, sky and water.

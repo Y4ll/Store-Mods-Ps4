@@ -1,0 +1,71 @@
+Achievements stay enabled in your worlds Addon is fully compatible!
+
+Mine smarter, not harder!
+
+Revolutionary mining experience with shape-based tools!
+
+ShapeMiner introduces advanced hammers with variable-shape mining capabilities, allowing you to break blocks in different patterns like 3x3, 5x5, 7x7 areas or create deep tunnels instantly! Perfect for large excavation projects, mining operations, and anyone who wants to speed up their digging experience.
+
+See it in Action!
+
+Mining Sizes Available:
+
+Tunnel Mining Mode
+
+Before & After:
+
+Before
+After
+
+Advanced Mining Tools
+
+Each hammer is available in all vanilla material tiers, from basic stone to powerful netherite. However, the most advanced mining modes are unlocked only when you reach diamond tier and above - rewarding players who invest in better materials!
+
+Smart Mode System:
+
+- Shift + Right Click to cycle through different mining patterns
+
+- HUD Display shows current mode and tool durability above your hotbar
+
+- Full Compatibility with all vanilla enchantments (Efficiency, Fortune, Silk Touch, etc.)
+
+Mining Modes Available:
+
+Area Mining:
+
+- 3x3 Mode - Perfect for small-scale excavation
+
+- 5x5 Mode - Medium area clearing
+
+- 7x7 Mode - Large-scale mining operations
+
+Tunnel Mining:
+
+- Deep Tunnel Mode - Creates long straight tunnels
+
+- Branch Mining - Efficient ore hunting patterns
+
+Features
+
+Multiple mining patterns - Choose the right tool for each job
+Tier-based progression - Better materials unlock more modes
+Vanilla enchantment support - Works with Fortune, Efficiency, and more
+Real-time HUD - Always know your current mode and durability
+Achievement friendly - Won't disable your world's achievements
+Intuitive controls - Easy mode switching with Shift + Right Click
+
+Perfect for:
+
+- Large excavation projects - Clear huge areas in seconds
+
+- Mining operations - Efficient ore collection and processing
+
+- Base construction - Quickly prepare building foundations
+
+- Resource gathering - Maximize your mining efficiency
+
+Join Our Community
+
+If you want to leave feedback, feel free to use the comment space below or the dedicated channel in the WanMine Discord server.
+
+Transform your mining experience from tedious block-by-block digging to efficient, large-scale excavation!

@@ -1,0 +1,9 @@
+Transform your Minecraft world with this shader pack that breathes life into every detail. From the gentle sway of grass in the morning breeze to the realistic flow of water and the subtle movements of vines, leaves, and cropsevery element feels alive. This resource pack not only enhances visual charm but also maintains smooth performance, offering a perfect balance between beauty and playability. Whether you're exploring lush forests or farming vibrant fields, this pack adds a dynamic, immersive atmosphere to your experience.
+
+SYSTEM REQUIREMENTS:
+
+- 4GB+ RAM / Octa-core Processor
+
+- Minecraft Bedrock Edition
+
+Works perfectly for versions 1.16-1.19

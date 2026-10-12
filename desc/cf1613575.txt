@@ -1,0 +1,19 @@
+Scape and Run Parasite is a high-intensity survival horror add-on that brings an invasive, adaptive parasite ecosystem straight into Minecraft Bedrock. Inspired by the original Java mod, it transforms your world into a living infestation where parasites don't just spawnthey evolve, learn, spread, and overwhelm everything in their path. No safe zones. No chill. Just pure escalating dread.
+
+Core Mechanics:
+
+Evolution Phases System: Parasites progress through multiple phases (starting from basic Infected, moving to Primitive, Adapted, and beyond) based on points gained from killing mobs, assimilating hosts, infesting blocks, merging, and more. Early phases bring nighttime Infected spawns; later ones flood the world with daytime threats, stronger variants, and aggressive behaviors. Killing parasites can slow the progression (losing points), but spawns push it forward. Automatic phase shiftsno commands needed in most setups.5a9f9e
+
+Parasite Types & Adaptation:
+
+Infected/Assimilated: Start as corrupted vanilla mobs (like Infected Creepers, Endermen, etc.) that spread infection via attacks, explosions, or clouds (Call of the Hive effect). They disguise themselves sometimes and turn aggressive.
+
+Primitive Parasites: Tougher crawlers, rupters, manglers, etc., with abilities like block destruction (wood in higher phases).
+
+Adapted Parasites: Elite forms that smash through 3x3 areas of wood/stone, have boosted stats, special attacks, and evolve from merges or high-phase spawns.
+
+Other horrors include larvae that mutate, beckons that spread contamination, worms, and more grotesque forms. Many have unique abilities like leaping, teleporting aggression, explosions, or summoning reinforcements.3b4a19
+
+Spread & Infestation: Beckons and other structures contaminate terrain, turning areas into parasite biomes with custom blocks, reduced resources, and hostile environments. Mobs get assimilated, players can get contaminated on death (turning into threats), and the infestation builds momentum over time.9433c7
+
+Gameplay Impact: Designed for tension. Parasites attack vanilla mobs too, despawn food/sources in late phases, destroy builds, and force you into smart base-building, fire/lava tactics, and constant vigilance. Optimized for performance but still chaotic in big fightsperfect for low-to-mid devices with that "one wrong move and you're screwed" feel. Survival mode supported with natural spawns.b1712c

@@ -1,0 +1,71 @@
+Stop wasting time checking if your crops are ready! This resource pack adds a subtle, professional animated glint to all crops only when they have reached their final growth stage. Perfect for massive survival farms and technical players.
+
+Compatibility & Technical Info
+
+Compatible with any Addons & Realms Optimized for Action and Stuff
+
+[] ACHIEVEMENTS FRIENDLY [] NO EXPERIMENTS [] NO PLAYER.JSON
+
+Key Features:
+
+- Visual Clarity: No more guessing between stage 7 or 8. If it shines, its ready!.
+
+- 100% Achievement Compatible: As a pure Resource Pack, you can keep earning trophies in your survival world.
+
+- Performance Optimized: Uses efficient flipbook animations. Designed to run smoothly even in fields with thousands of crops without dropping FPS.
+
+- Vanilla Friendly: It uses original game textures, making it compatible with almost any other Add-on or texture pack.
+
+Supported Crops:
+
+This pack currently highlights the following crops in their final stage:
+
+- Wheat (Stage 7)
+
+- Carrots (Stage 3)
+
+- Potatoes (Stage 3)
+
+- Beetroots (Stage 3)
+
+- Nether Wart (Stage 2)
+
+- Sweet Berries (Stage 3)
+
+- Amethyst Clusters (New)
+
+New! Animated Fully Grown Highlighter
+
+ESPANOL
+
+Cansado de cosechar antes de tiempo? Este tweak visual anade un brillo animado sutil que te indica exactamente cuando tus cultivos estan listos para cosechar. Ideal para granjas masivas y jugadores tecnicos!
+
+Cultivos Soportados:
+
+Este pack resalta los siguientes cultivos en su etapa final:
+
+- Trigo (Etapa 7)
+
+- Zanahorias (Etapa 3)
+
+- Papas (Etapa 3)
+
+- Remolachas (Etapa 3)
+
+- Verruga del Nether (Etapa 2)
+
+- Bayas Dulces (Etapa 3)
+
+- Amatista (New)
+
+Credits
+
+This project is a Java Edition Port/Fork inspired by the original Bedrock Tweaks.
+
+Inspired by: bedrocktweaks.
+
+SUPPORT THE CREATOR
+
+If you'd like to support my work, you can complete a quick ad step through Linkvertise. It takes just a few seconds and directly supports future project updates!
+
+This is completely optional no downloads are required here, just a simple way to show your support if you appreciate the content.

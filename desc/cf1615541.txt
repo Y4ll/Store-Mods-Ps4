@@ -1,0 +1,17 @@
+Do you want to transform the standard Minecraft PE world into an authentic Jurassic Park where colossal prehistoric creatures rule the wild? The "Dinosaurs for MCPE" resource pack is a massive update that completely revolutionizes the game's ecosystem. Breaking free from familiar forests populated by the usual mobs, players can embark on a journey to explore a magnificent yet unforgiving ancient world.
+
+Breakthrough Features of the MCPE Dinosaurs Addon Pack
+
+This mod completely overhauls the wild ecosystem and brings a massive dinosaur collection thanks to meticulous investment in both 3D graphics and AI systems:
+
+Diverse Dinosaur Ecosystem: The resource pack adds a variety of famous dinosaur species to the blocky world, designed with sharp 3D models and incredibly vivid animations. You'll encounter gentle herbivores like the giant Brachiosaurus, the powerful Triceratops, to fearsome bloodthirsty predators like the agile Velociraptor or the tyrannical T-Rex with its roar that echoes across the sky.
+
+Realistic Interaction and Hunting Mechanics: The AI of the dinosaurs is programmed in great detail. Carnivores will actively hunt smaller creatures or attack players if you enter their territory. Conversely, herbivores will move in herds and defend themselves when threatened.
+
+Tame, Ride, and Fight: In Survival mode, players can find ways to gather suitable food to approach and tame certain dinosaur species. After successfully taming them, you can craft saddles to turn them into super-fast ground vehicles or transform these predators into powerful protectors in battles.
+
+Excellent Performance Optimization for Mobile Phones: Despite adding a large amount of complex animation models and detailed textures, the .mcaddon file is very well optimized, weighing less than 18MB. The addon runs extremely smoothly on the Minecraft PE Bedrock system, minimizing code conflicts or frame rate drops when large groups of dinosaurs gather.
+
+Note:
+
+Enable experimental options: You must activate all features in the Experiments section of the world settings so that the system can fully load the dinosaur breeding algorithms and related crafting recipes without texture display errors.

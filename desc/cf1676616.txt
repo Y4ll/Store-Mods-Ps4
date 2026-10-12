@@ -1,0 +1,182 @@
+YGP! Immortal Dog
+
+Your loyal companion never truly leaves.
+
+YGP! Immortal Dog is a Minecraft Bedrock addon that turns your tamed wolf into an extremely powerful and protected companion.
+
+Your Immortal Dog can have 240 HP, 50 attack damage, fall-damage protection, powerful defensive effects, automatic revival, emergency teleport, healing potions, owner binding, multiplayer-safe ownership, and special YGP control items.
+
+The latest v3.1.0 update makes the dog stronger and adds life-saving rescue: if your health drops below 3, the dog comes to you from any distance and uses Healing and Regeneration until you are full.
+
+Created by Yojitgamingpro / YGP Studio / YGP Minecraft.
+
+UPDATE 3.1.0 EMERGENCY RESCUE & HEALING
+
+The Immortal Dog is no longer only a fighter. It is now a guardian that answers when you are about to fall.
+
+Stronger Bite
+
+The Immortal Dog now hits harder.
+
+50 damage per hit
+
+Strength and Speed make the dog faster and more dangerous in combat.
+
+Emergency Rescue
+
+If the owners health drops below 3, the dog moves instantly.
+
+It teleports to the owner from any distance.
+It still comes from 100,000 blocks away.
+It still comes across dimensions.
+If the dog is too far to stay loaded, the same owned dog is summoned beside the owner.
+
+Healing Potions
+
+The dog uses Healing and Regeneration on its owner.
+
+It keeps healing until the owner is back to full health.
+
+The dog does not wait for a command. It sees the danger and comes.
+
+UPDATE 3.0.3 BLESSED BONE ICON UPDATE
+
+The latest update improves the visual identity of the Blessed Bone.
+
+Blessed Bone
+
+The Blessed Bone now has a custom YGP item icon.
+
+The new design features:
+
+Gold bone
+
+Purple center
+
+Custom YGP styling
+
+The Blessed Bone icon is now properly registered and displayed in Creative.
+
+Blessed Bone = Dog Recovery
+
+YGP DOG CONTROL BONE
+
+The YGP Dog Control Bone is the special owner-control item introduced in v3.0.0.
+
+The Control Bone allows the owner to stop their Immortal Dog's defensive mode.
+
+Owner Only
+
+Only the correct owner can use the control system.
+
+Other players cannot use their own Control Bone to control another player's dog.
+
+Control
+
+Use the supported:
+
+Crouch + tap ground
+
+interaction to stop defensive mode.
+
+You can also use the supported interaction with your own dog.
+
+First Tame
+
+The first successful tame provides the owner with a YGP Dog Control Bone.
+
+240 HP IMMORTAL DOG
+
+Your protected dog now has:
+
+240 maximum health
+
+The Immortal Dog is designed to survive dangerous situations while continuing to adventure with you.
+
+50 ATTACK DAMAGE
+
+The Immortal Dog deals:
+
+50 damage per hit
+
+Your companion can help you during combat and defend itself when attacked.
+
+FALL-DAMAGE PROTECTION
+
+The Immortal Dog is protected from fatal fall damage.
+
+If your dog falls from a large height, including from high in the sky, fall damage is prevented from killing the dog.
+
+The protection works independently of whether the owner is nearby.
+
+POWERFUL PROTECTION
+
+The Immortal Dog continues to have powerful protection systems including:
+
+240 HP
+
+Regeneration
+
+Health Boost
+
+Resistance
+
+Strength
+
+Speed
+
+Lava protection
+
+Fall-damage protection
+
+The addon is designed to keep your loyal companion protected during dangerous adventures.
+
+PRIVATE DOG ID SYSTEM
+
+Every protected Immortal Dog has its own internal identity.
+
+The system tracks information such as:
+
+Dog number
+
+Dog internal UID
+
+Dog name
+
+Owner player ID
+
+Owner player name
+
+These IDs are private internal addon data.
+
+They are not displayed to normal players through:
+
+Chat
+
+Action bars
+
+Dog names
+
+Public UI
+
+Scoreboards
+
+Public messages
+
+The system helps the addon correctly distinguish between different dogs and owners.
+
+OWNER BINDING
+
+Each Immortal Dog is associated with its correct owner.
+
+This allows the addon to separate dogs in multiplayer worlds.
+
+For example:
+
+Player A Dog A
+
+Player B Dog B
+
+One player's dog should not be confused with another player's dog.
+
+The ownership relationship can continue to work even when t

@@ -1,0 +1,83 @@
+Real Player CCTV A Simple Live Monitoring Tablet
+
+Tired of complicated CCTV setups just to keep an eye on players? We made it simple.
+
+Real Player CCTV is built on one rule: Keep It Simple. Just hold your CCTV tablet, select a player from the menu, and watch them live in real-time. When you're done, just sneak to close the screen. Simple, functional, and zero hassle.
+
+Why It's So Simple
+
+- No Commands: Save your fingers! No /camera typing.
+
+- Simple UI: Dropdown menu. Pick a player. Hit submit. Done.
+
+- Smart Tracking: The camera automatically tracks the player.
+
+- Dual Camera: Press Forward (W / Analog Up) to toggle views instantly!
+
+- Night Vision: Just Jump to toggle Night Vision on/off instantly!
+
+- Cross-Dimension: Tracks targets anywhereOverworld, Nether, or The End!
+
+- Instant Exit: Just Sneak to stop watching instantly.
+
+- Custom 3D Item: Sleek custom model for first-person and third-person views.
+
+- Admin Only: Locked strictly for Operators.
+
+- Plug & Play: No Experimental Toggles required. Just activate and play!
+
+- Survival Ready: Fully craftable in Survival Mode.
+
+How to Use
+
+No complicated setups. Just pick a target and watch.
+
+- Open It: Hold the Real Player CCTV Tablet and use it (Right-click/Long press).
+
+- Select Target: Pick a player from the simple dropdown list.
+
+- Submit: Hit submit to start watching them in real-time!
+
+- Stop: Press Sneak to stop monitoring.
+
+How to Get It
+
+Craft it easily in Survival Mode or grab it in the Equipment Tab in your Creative Inventory.
+
+Fully craftable using vanilla materials.
+
+The Perfect Combo: Real Speedrun Minigame
+
+Be the host! Pair it with the Real Speedrun Minigame Addon! Set a target item, let your friends speedrun, and watch them via CCTV!
+
+Get the Real Speedrun Minigame Addon Here!
+
+Technical Details
+
+- Plug & Play: No "Experimental Toggles" required!
+
+- Universal: Works on Singleplayer, Realms, and Dedicated Servers.
+
+- Admin Protected: Operators only!
+
+Quick Install
+
+- Grab the .mcaddon file.
+
+- Open it with Minecraft.
+
+- Enable Behavior + Resource Packs in your world.
+
+- Start monitoring!
+
+License & Credits
+
+Creator:
+
+- Papa Alsa | YouTube: @alsahonggo
+
+Licensed under CC BY-NC-ND 4.0.
+
+Permission: Modifications, commercial use (including monetized link shorteners), and reuploads on other websites are strictly prohibited. Don't be that guy who steals other people's work.
+
+"Monitoring players should be easy. One click, one tablet, total control."

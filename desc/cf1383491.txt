@@ -1,0 +1,142 @@
+Seasonala - Dynamic Seasons Add-On for Bedrock Edition
+
+Lore: The world breathes in slow, ancient cycles. Leaves turn with the cooling air, snow falls in winter, and life adapts to the eternal rhythm of the sun.
+
+(This addon will continue to work even after game updates, as it doesn't use experiments.)
+
+It is be compatible with Vibrant Visuals.
+
+If you want a cheap and extremely good server, check out gravelhost, use my link or the code for 25% off for your purchase.
+
+Dynamic Seasons
+
+Experience a world that changes around you. This addon introduces 4 distinct seasons Summer, Winter, Autumn, and Spring, each lasting for 28 in-game days.
+
+As time passes, the world transforms with immersive features:
+
+- Realistic Snow System: Watch snow accumulate in layers during winter storms. It piles up on roofs and terrain with custom snowfall, and automatically melts away when the spring thaw arrives. Leaves turn dull and desaturated.
+
+- Immersive Spring: Flowers bloom everywhere in spring, and naturally gets removed when spring ends. (Doesn't effect player placed flowers). With particle effects aswell. Leaves Turn vibrant green.
+
+- Immersive Atmospherics: Every biome features distinct fog and sky colors that shift with the seasons, creating unique moods for each time of year.
+
+- Seasonal Crops: Crop growth rates fluctuate based on temperature and season, plan your harvests carefully!
+
+- Dynamic Weather: Experience heavily varied weather patterns, from tropical monsoons to arctic blizzards.
+
+- You can now enable or disable the fog and lot of other things using in-game commands.
+
+Dynamic Effects:
+
+Truly Unique Years (v3.0+)
+
+No two years are ever the same.
+
+The world is unpredictable. Just because it snowed heavily last winter doesn't mean it will next year!
+
+- Weather patterns, temperature shifts, and storm probabilities have Variations every single in-game year.
+
+- A harsh winter might be followed by a mild one. A dry summer could be followed by a monsoon season.
+
+- You'll check your Almanac forecasts not just for fun, but to survive.
+
+Looks Best on 10 chunks render distance.
+
+BIOME EFFECTS GUIDE
+
+TROPICAL BIOMES
+
+(Jungles, Bamboo Forests, Mangrove Swamps)
+
+- Spring: Monsoon season with heavy rains. Best for crops.
+
+- Summer: Humid tropical heat.
+
+- Autumn: Tropical dry season.
+
+- Winter: Mild rains, no snow.
+
+- Effects: Heavy rain, humidity, no snow ever.
+
+TEMPERATE BIOMES
+
+(Plains, Forests, Birch, Dark Forest, Meadow, Taiga, Cherry Grove)
+
+- Spring: Fresh green fog, spring showers. Best growing season.
+
+- Summer: Bright clear days.
+
+- Autumn: Orange haze, light rain. Harvest time.
+
+- Winter: Icy blue fog, heavy snowfall.
+
+- Effects: Snow accumulation in winter!
+
+HOT BIOMES
+
+(Desert, Badlands, Savanna)
+
+- Spring: Desert bloom season.
+
+- Summer: Scorching heat haze.
+
+- Autumn: Dust storms.
+
+- Winter: Cool clear nights. Best usage for crops!
+
+- Effects: No snow, winter is the best growing season.
+
+COLD BIOMES
+
+(Snowy Plains, Snowy Taiga, Ice Spikes, Frozen Ocean, Frozen Peaks, Grove)
+
+- Spring: Thaw mist, melting ice.
+
+- Summer: Clear arctic skies. Best growing season (short window).
+
+- Autumn: Frost fog, early snow.
+
+- Winter: Blizzards! 70% snow chance.
+
+- Effects: Snow year-round, zero crop growth in winter.
+
+OCEAN BIOMES
+
+- Spring: Calm misty seas.
+
+- Summer: Clear blue waters.
+
+- Autumn: Stormy gray waves.
+
+- Winter: Icy winds and snow.
+
+WET BIOMES
+
+(Swamp, River, Beach, Mushroom Fields, Lush Caves)
+
+- Spring: Wetlands bloom.
+
+- Summer: Swampy heat haze.
+
+- Autumn: Misty fog.
+
+- Winter: Frozen mist.
+
+- Effects: Heavy fog year-round.
+
+MOUNTAIN BIOMES
+
+- Spring: Thaw fog.
+
+- Summer: Cool mountain air.
+
+- Autumn: First snows.
+
+- Winter: Heavy snowstorms.
+
+- Effects: Snow possible even in spring/summer.
+
+Dynamic Trees and Leaves Tint:
+
+The Addon has Dynamic Colored leaves. whenever the seasons change, the leaves slowly change into different tint adn color depending on the season.
+Most of the trees have this except the ever green biome tre

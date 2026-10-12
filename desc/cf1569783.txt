@@ -1,0 +1,9 @@
+Lower Shield reduces the height of the shield in first-person perspective, lowering its position to clear your vision so you can see your enemies and the environment perfectly.
+
+It modifies both hands, making the shield practically disappear from the left side when placed in the off-hand to grant the maximum field of view possible. Essential for intense PvP combat, cross-play battles, or standard survival gameplay.
+
+SUPPORT THE CREATOR
+
+If you'd like to support my work, you can complete a quick ad step through Linkvertise. It takes just a few seconds and directly supports future project updates!
+
+This is completely optional no downloads are required here, just a simple way to show your support if you appreciate the content.

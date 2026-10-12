@@ -1,0 +1,143 @@
+Total War Infantry Controller
+
+Update 1.2.0
+
+Overview
+
+Total War Infantry Controller is a Minecraft Bedrock Edition add-on that lets you organize and command tagged NPC soldiers as independent battlefield battalions. Use the Commander Baton to assign soldiers, form them into dynamic two-rank formations, move them to a selected ground location, order a fallback, halt the unit, and play command signals.
+
+The add-on uses the Bedrock Script API and is designed to work alongside the existing behavior or combat AI of the NPCs. It controls formation movement and command state; it does not replace the NPCs' own combat system.
+
+Main Features
+
+Total War-style point-and-move controls.
+
+Move a battalion to the ground block you are looking at.
+
+Fall back to a selected ground location.
+
+Halt a battalion and keep soldiers from drifting away.
+
+Dynamic two-rank formations that resize automatically.
+
+No fixed 20-soldier formation limit; every matching tagged NPC in search range can be recruited.
+
+Twenty built-in Infinity battalion slots: infinity_1 through infinity_20.
+
+Independent control for multiple battalions.
+
+Stable member ordering to reduce soldiers changing places.
+
+Terrain and obstruction checks for safer movement.
+
+Foliage-aware ground detection that skips leaves, flowers, grass, vines, moss carpets, and similar decorative blocks.
+
+Recruit, movement, halt, alarm, and attack command sounds.
+
+Commander Baton battalion selection stored using item data and visible lore fallback.
+
+Requirements
+
+Minecraft Bedrock Edition.
+
+A world with the add-on's Behavior Pack and Resource Pack enabled.
+
+NPCs or infantry entities that can receive entity tags.
+
+Script-enabled gameplay supported by the installed Bedrock version.
+
+Installation
+
+Import the .mcaddon file into Minecraft Bedrock Edition.
+
+Create a new world or edit an existing world.
+
+Enable both Total War Infantry Controller - Behavior and Total War Infantry Controller - Resources.
+
+Enable any required scripting or experimental settings requested by your Minecraft version.
+
+Enter the world and obtain the Commander Baton.
+
+Use only one version of this add-on in the same world. Remove older copies to prevent duplicate scripts from running.
+
+Quick Start
+
+Hold the Commander Baton.
+
+Open the baton menu by using the baton.
+
+Select Select Infinity Battalion.
+
+Choose an Infinity battalion, for example Infinity 1.
+
+Hit nearby NPCs with the baton to add or remove them from that battalion.
+
+Open the menu and select Recruit.
+
+The add-on gathers all matching NPCs within the search range and arranges them into two ranks.
+
+Point at a ground block and choose a movement command.
+
+Commander Baton Menu
+
+The menu displays the active battalion tag, its current order, and the number of recruited soldiers.
+
+Menu option
+
+Function
+
+Select Infinity Battalion
+
+Opens the list of 20 built-in Infinity battalions.
+
+Rename Battalion
+
+Assigns a custom tag to the current baton.
+
+Recruit
+
+Finds all nearby NPCs with the active tag and forms them into a battalion.
+
+Move Here (point at ground)
+
+Sends the battalion once to the ground location being looked at.
+
+Halt
+
+Stops the battalion and holds the soldiers near their current positions.
+
+Fall Back Here (point at ground)
+
+Sends the battalion to the selected ground location as a fallback position.
+
+Sound Alarm
+
+Plays the alarm signal for the active battalion.
+
+Attack Signal
+
+Plays the attack signal for the active battalion.
+
+Disband Battalion
+
+Clears the active battalion's current formation and command state.
+
+Short Command Reference
+
+BATON USE = Open the Commander Baton menu
+
+SELECT INFINITY = Choose Infinity 1 through Infinity 20
+
+HIT NPC = Add or remove the NPC from the active battalion
+
+SNEAK + HIT NPC = Add or remove the NPC as the battalion's flag bearer
+
+RECRUIT = Gather all matching tagged NPCs
+
+MOVE HERE = Move once to the ground point being looked at
+
+HALT = Stop and hold the battalion
+
+FALL BACK HERE = Move once to the selected fallback point
+
+SOUND ALARM = Play the alarm 

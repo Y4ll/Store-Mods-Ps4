@@ -1,0 +1,109 @@
+Get into your robot, choose your favorite weapon, and destroy your enemies with this addon. In this addon you can build a robot! With him, you will be unstoppable!
+
+https://www.youtube.com/watch?v=8bCNNJMW2TU
+
+This addon contains a mech to which you can equip powerful and lethal weapons.
+
+First, you have to find the mechanic to exchange robots and weapons. He will appear anywhere in the world. You will need "components" to trade, these items will be dropped by the enemies of this addon.
+
+You will see that there are 2 bars inside, on the left is the ammo indicator, and on the right is the life indicator. To be able to shoot, you must use the ammunition item to load, to change weapons, you simply have to have the weapon in your hand, you no longer have to equip it like the previous version, to be able to shoot you have to use the weapon item, and now all that remains is to have fun!
+
+----------- MECH -----------
+
+Spartan "PROTOTYPE"
+
+Spartan 01 "SHOOTER"
+
+Spartan 02 "DEFENDER"
+
+Special Ability: causes falling after jumping.
+
+Spartan 03 "SPEEDER"
+
+Special Ability: nitro, causes a speed boost for an instant.
+
+Spartan 04 "ENFORCER"
+
+Special Ability: creates an energy shield that reduces 80% of the damage received.
+
+Spartan 05 "STRIKER"
+
+Special Ability: FLY!
+
+----------- WEAPONS -----------
+
+Double Cannon
+
+Gatling
+
+Firegun
+
+Voltgun
+
+Rocket Launcher
+
+Carronade
+
+Railgun
+
+Sniper
+
+Stungun
+
+Multimissile
+
+Laser Gun
+
+Grenade Launcher
+
+----------- Mech Table -----------
+
+This table will give information about the weapons and robots that can be obtained, it can be obtained from the mechanic.
+
+-----------ENEMIES-----------
+
+- They attack villagers and players.
+
+- Robot soldier: 30 HP.
+
+- Drone: 20 HP.
+
+- Deals 2-5 damage per shot.
+
+- Drop item: "component". It will be used to trade with the mechanic in exchange for robots and weapons
+
+Robot Soldier
+
+War Drone
+
+Radar
+
+This entity will summon waves of enemy robots while downloading data, and when it finishes downloading, it will release the full USB item that will be used to trade with the mechanic.
+
+----------- TURRETS -----------
+
+Turrets can only be controlled by villagers.
+
+Common Turret
+
+----------- ITEMS -----------
+
+Component: Dropped by enemy robots, use it to trade with the mechanic.
+
+Munition: reload your robot's ammunition.
+
+USB: You can buy it from the merchant to interact with the radar. When it finishes downloading data, the radar will release the blue USB that will be used to exchange data with the mechanic for robots.
+
+STRUCTURES
+
+RADAR TOWER - Plains Biome
+
+BUNKER - Plains Biome
+
+EXPERIMENTS
+
+>>>>>> THIS ADDON REQUIRES ENABLING "CUSTOM BIOMES" <<<<<<
+
+If you have any questions or there are any errors, you can contact me:
+
+- Discord: spartan1175208

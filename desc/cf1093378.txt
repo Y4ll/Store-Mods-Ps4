@@ -1,0 +1,23 @@
+If you find any bugs, please contact me via my Discord Server.
+
+No need to enable experimental gameplay
+
+This addon is achievement friendly
+
+With this addon, mobs, when they die, will drop the arrows that hit them, as long as the arrow was shot by a player
+
+The arrows dropped will be the base, even if the mob was hit by an arrow with effect
+
+You can:
+
+Use the addon in addonpacks or maps (Give credit with link to this page)
+
+Record videos of the addon (put download link to this page with shortener or not)
+
+Use codes to learn
+
+You can't:
+
+Redistribute the addon on other sites without my permission
+
+Redistribute the addon as your own

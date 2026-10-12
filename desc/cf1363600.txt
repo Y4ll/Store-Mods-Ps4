@@ -1,0 +1,23 @@
+Eclipse Reflective Grasses is a PBR-based visual enhancement pack that brings realistic mirror-like reflections to Minecraft. It applies physically based rendering (PBR) materials to over 20 different blocks, including all grass variants, foliage, and even Nether blocks.
+
+With full Ray Tracing compatibility, this pack delivers stunning reflections and lighting behavior, transforming your world into a more immersive and detailed environment without losing Minecrafts original aesthetic.
+
+Features:
+
+Realistic mirror reflections powered by PBR materials
+
+Supports all grass and vegetation blocks
+
+Includes custom reflections for Nether surfaces
+
+Fully compatible with Minecrafts Ray Tracing mode
+
+Optimized for visual quality and performance
+
+Designed and created by AztralMC64
+
+Version: 1.0.0
+
+Type: Resource Pack (PBR / Ray Tracing Compatible)
+
+Requirements: Minecraft Bedrock Edition with Ray Tracing enabled

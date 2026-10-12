@@ -1,0 +1,38 @@
+Vitality - Java-style regen and saturation for bedrock
+
+Lore: The body possesses a deep reserve of energy. When fully nourished, this metabolic reserve is consumed rapidly to knit flesh and bone together in seconds.
+
+(This pack is incompatible with a few resource packs, mainly the java UI pack)
+
+This Addons adds exact java edition's saturation and regeneration mechanisms, and it does so while using bedrock's built-in saturation values, so it should also work with 3rd party foods (theoretically).
+
+If you want a cheap and extremely good server, check out gravelhost, use my link or the code for 25% off for your purchase.
+
+Usage:
+
+It is pretty simple to use, just apply the pack and when you eat food, you health will regenerate quickly just like java edition.
+
+each food has different regeneration based on its value in vanilla minecraft.
+
+For more details on how saturation works in java (which is exactly copied in this mod), visit: https://minecraft.fandom.com/wiki/Saturation
+
+But it is as simple as i wrote above.
+
+Animations:
+
+And the best part is that this addon not only mimics the java's behavior, but also its visuals, when you regenerate, hearts will not have same white flashing animations like java edition:
+
+Installation:
+
+just import the .mcaddon and apply both behavior and resource packs.
+
+This Addon Doesn't Disable Achievements :)
+
+If you want to support me and donate a small amount, please consider this one time patreon donation (no subscription or membership)
+Join My Patreon
+
+Join the discord for help and chat:
+
+Areed's Discord Server
+
+Part of the Survival Essentials collection by Areed.

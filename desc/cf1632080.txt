@@ -1,0 +1,29 @@
+Builder transforms the way you build in Minecraft Bedrock by introducing a complete blueprint and construction system designed for Survival gameplay.
+
+Plan your creations using temporary blocks that match vanilla block shapes and textures without consuming real resources. Once your design is complete, Builder tracks every required material, helping you gather exactly what you need before construction begins.
+
+Save your builds as reusable blueprints, move them anywhere in your world, or share them with friends. When you're ready, Builder can replace temporary blocks with real blocks using materials from your inventory or linked storage, making large projects easier while keeping the survival experience balanced.
+
+Features
+
+- Build with temporary blueprint blocks.
+
+- Hundreds of vanilla block variants, including full blocks, stairs, slabs, walls, fences, doors, trapdoors, and more.
+
+- Material tracking for every blueprint.
+
+- Save and load blueprints.
+
+- Move and rotate saved builds.
+
+- Share blueprints with other players.
+
+- Construct builds automatically using carried or linked materials.
+
+- Blueprint Table for managing projects.
+
+- Fully Survival-friendly with no Creative Mode required.
+
+- Multiplayer compatible.
+
+Perfect for builders, survival servers, SMPs, and mega-build projects where planning and organization matter.

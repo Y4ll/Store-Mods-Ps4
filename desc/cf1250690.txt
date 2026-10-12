@@ -1,0 +1,25 @@
+This addon gives your main hand item a random enchantment every time you attack any entity simple, fun.
+
+|| Free To Use Just Give Me Credit||
+
+Check This tutorial, it will help you to understand
+
+https://youtu.be/23x4ZJYn6fY
+
+How it works:
+
+- Hit any mob or player
+
+- The item youre holding gets a random enchantment instantly!
+
+Works with everything:
+
+- Swords
+
+- Axes & Pickaxes
+
+- Books
+
+- Main Hand Holding armor!
+
+No commands, no setup just play and enjoy the thrill of unpredictable power. Perfect for PvP, survival challenges, or just some crazy fun with friends

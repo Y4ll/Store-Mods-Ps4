@@ -1,0 +1,37 @@
+The Auto Miner is a machine that will dig for you. It can also place planks, rails, powered rails, and red-stone torches as it mines.
+
+- The miner will pick up items as it mines. It won't pick up anything that doesn't stack to 64.
+
+- It will use planks to bridge so that it doesn't fall. It can use any kind of planks, including planks from other add-ons.
+
+- If it has rails, it will place them as it goes.
+
+- If it has powered rails, it will place one every 16 blocks.
+
+- If it has red-stone torches, it will place them next to the powered rails.
+
+- To power it, use Coal, Charcoal, Blaze Rods, or a Lava bucket.
+
+- It can also be powered with Ender Plasma and Nether Coal from my other add-on MineRe.
+
+- The drill breaks after 6000 blocks are broken. It can be repaired with another diamond drill or by using diamonds on the miner.
+
+- Durability and fuel are remembered when the miner is broken into item form.
+
+- The miner can be started and stopped by hitting it. It will start when given fuel.
+
+This add-on also includes the Enchanted Minecart.
+
+A Minecart upgraded with Amethyst that can go up to 10x the speed of a vanilla minecart.
+
+It's recommended to add guardrails to your tracks so that it doesn't fly off.
+
+It has to be placed on rails like vanilla minecarts.
+
+Crafting Recipes
+
+Diamond Drill
+
+Auto Miner
+
+Enchanted Minecart

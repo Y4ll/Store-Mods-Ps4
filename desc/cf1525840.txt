@@ -1,0 +1,11 @@
+Forgotten_multiplayer.json
+
+You're not alone.. Your multiplayer is broken..
+
+Minecraft 1.21.120-1.26+
+
+Don't forget to enable experiments when playing with this mod
+
+This mod adds fake players who will progress over 5 days to destroy you.
+
+By gitroid

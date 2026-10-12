@@ -1,0 +1,13 @@
+Hey y'all, in this addon I tried to capture the experience of a ninja..... Well according to my limited knowledge and abilities. This add-on introduces new items,weapons and the likes that turns you into a real ninja in Minecraft..... at least an imitation of one.
+
+Melee Weapons
+Two new melee weapons are introduced; the Katana and the Sai. the katana is a new melee weapon that although deals the same amount of damage as there same material counterparts version (Minecraft swords) they have a bit more durability meaning you'll probably get more value using a diamond katana than a normal diamond sword. The diamond katana can also be upgraded to netherite tier in a smithing table by using a netherite smiting upgrade and a netherite ingot just like the normal diamond sword can. The Sai on the other hand only comes in 3 tiers iron, diamond and netherite (I didn't think it's realistic to make wooden and stone tier sai's though I know it's just Minecraft). This weapon can be said to be a bit lacking in an aspect as it does lower damage than their same material counterparts (Minecraft swords) and have lower durability, they grant the resistance I effect for 5 seconds to the player every time he hits a mob (I did this because I found out that a Sai is actually supposed to be a defensive weapon).
+
+.
+
+Ranged Weapons
+The new ranged weapons added are; Shurikens and The ender Kunai. Shurikens are a new weapon added and they come in 2 tiers (iron and diamond) which deals 3/4 damage respectively per shuriken nothing fancy. The ender Kunai on the other hand is a weapon crafted with some iron and an ender pearl. It basically functions as an ender pearl with a cooldown period (you still take damage from it's use though). I got the idea of it from a certain Ninja in a certain anime (Minato ).
+
+Special items The special items this addon introduces are called Jutsu Scrolls, when uses they give different effects centered on what they're based on. They all have 60 second cooldown after each use and stack only to 16 each so you know to be strategic about the Jutsu(scrolls) you have available in your hotbar because they all have different strong pionts. The scrolls aren't overly difficult to Craft and there are 5 scrolls added to the game.
+
+I'll love to continue working on this mod, maybe add mobs, bosses or more special items in the next update. It may not reach the levels of top anime mods out there but this isn't meant to be one, I love and appreciate the Minecraft style and fashion of things and I'll like to keep it that way if possible. Remember do not create or share a direct link to the addon itself, share the curseforge link instead, if you're using this in any video please remember to give me credit, Stay drippy , bye.

@@ -1,0 +1,44 @@
+For Touch Users (Mobile/Tablet): Click and Hold the Temperature Box to view your Temperature Information.
+
+For PC Players: Hold the Tab key to view your Temperature Information.
+
+How it works?
+
+Your body temperature changes based on the biome and time of day. Staying in cold biomes like snowy tundras or frozen peaks will gradually make you colder during the day and much colder at night. If you swim in water within these biomes, Your temperature will drop extremely fast, Making it a deadly choice without proper gear.
+
+In contrast, Hot Biomes such as deserts and badlands are Far more Dangerous. During the Day, the scorching sun will rapidly Overheat you, While at Night, the sudden drop in temperature can Freeze you to Death. Surviving in these environments requires careful planning! The only way to cool down in hot biomes is by Swimming in Water, But beware of how quickly things can turn deadly.
+
+Different biomes, times of day, and even your actions (like swimming or standing still) all affect your temperature! forcing you to Adapt, Prepare, and Survive against the harsh elements of nature.
+
+How to get Warm in Cold Biomes?
+
+To Stay Warm in Cold Biomes, Youll need a Heat Source. During harsh conditions, Especially at Night Without Any Armor! a single Campfire wont be enough. You may need Multiple Campfires or other strong heat sources just to survive.
+
+You can also Equip Heavy Armor (such as Copper, Iron, Gold, Diamond, or Netherite) to retain body heat and stay warmer in cold biomes. However, this comes at a cost! Wearing those same heavy armors in Hot Biomes will make the heat Far More Deadly!
+
+How to get Cool in Hot Biomes?
+
+In Hot Biomes During the Daytime, The best option is to wear Leather or Chainmail Armor. These lighter materials will Keep You Slightly Cooler, but dont rely on them too much! The Desert Heat is Unforgiving!
+
+How to Survive in The Nether or The End?
+
+The Nether: Well... You Cant. The Nether is now Far More Deadly than ever before! you Cannot Get Cooler while inside it. The only way to survive there is by obtaining a Fire Resistance Potion from trading with a Piglin.
+
+Fire Resistance is your Only Chance to endure the extreme heat of The Nether or other hot biomes.
+However, it comes with a Major Downside! having Fire Resistance in Cold Biomes will drastically Lower Your Body Temperature, making you Freeze Much Faster!
+
+The End: It's also dangerous, though Not as Deadly as The Nether. It counts as a Freezing Biome, meaning youll slowly Freeze to Death if you dont stay prepared and monitor your temperature carefully.
+
+Goatfur & Armor
+
+To obtain Goatfur, youll need to Hunt Goats, similar to how you get Leather from Cows. The fur can then be crafted into Goatfur Armor, which can also be Dyed Using Cauldrons, just like Vanilla Leather Armor!
+
+Goatfur Armor is designed to Keep You Warm in Cold Biomes, helping you survive freezing conditions. Its the perfect choice for explorers venturing into snowy regions or icy mountains.
+
+Leaf Armor
+
+Leaf Armor is a new lightweight armor set crafted from Leaf Litters. Its made to Cool You Down in Hot Biomes, giving you a small temperature advantage in deserts.
+
+However, it comes with a trade-off, Very Low Durability and No Protection, Its a fragile but useful survival option when the heat becomes unbearable.
+
+- Enjoy.

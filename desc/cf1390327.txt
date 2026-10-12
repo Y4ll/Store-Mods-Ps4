@@ -1,0 +1,5 @@
+One shot, one kill.
+With the One Shot Man Add-on, your special one-shot gun can defeat any mob instantly. Just aim, shoot once, and your target disappears. Fast, easy, and super powerful.
+
+recipes to craft one shot gun = iron_ingot, netherstar, g*npowder, redstone
+download boths of files BP and RP

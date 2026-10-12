@@ -1,0 +1,3 @@
+With this addon, players can quickly traverse the world using a fast travel mechanic similar to the one in Dark Souls.
+
+Bonfires can be easily crafted during the post-Nether phase of gameplay. To create a bonfire, you'll need soul sand, bones, and an iron sword. Once placed on the ground, a window will appear allowing you to name the travel point. Interacting with any bonfire will then display a list of all discovered locations, and you can choose one to teleport to.

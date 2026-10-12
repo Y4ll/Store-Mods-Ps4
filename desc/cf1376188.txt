@@ -1,0 +1,68 @@
+DoubleHands - True Universal Offhand for Bedrock
+
+Lore: True mastery of survival requires the use of both hands. A torch or tool is just as effective in the left hand as it is in the right.
+
+WARNING: MCPEDL AND CURSEFORGE are the only official platforms for this addon, all others are stolen uploads. Do not download them.
+
+DoubleHands: Universal and Functional Java-Style Offhand for Minecraft Bedrock
+
+DoubleHands is a revolutionary :) Minecraft Bedrock addon designed to bring Java Edition offhand parity to your world. If you've ever wondered how to use a torch in your offhand on Bedrock or wanted to place blocks while holding a tool, this is the solution. Unlike basic cosmetic mods, this functional offhand addon allows you to hold and use items in your left hand exactly like the Java Edition. (This paragraph was mostly just for google search visibility, don't worry bout that lol)
+
+This addon is compatible with Minecraft Bedrock 1.21+ (currently updated for latest 26.45), it works without any issues on Realms, Dedicated Servers (BDS), and single-player worlds and all of them have proper activation methods. Whether you need a amod for combat or offhand for mining, DoubleHands provides a almost-java for all bugrock, i mean bedrock players.
+
+This addon has built-in dynamic lighting, hold any emmisive item and it will give off light (Thanks to flicker, my other addon: Download Flicker - Dynamic Lights Separately
+
+by Areed Elahi
+
+If you want a cheap and extremely good server, check out gravelhost, use my link or the code for 25% off for your purchase.
+
+This addon allows you to put all items and blocks in off-hand, and also makes it possible to place blocks AND USE MOST ITEMS (just a few exceptions) from off-hand if main hand is empty or has a tool. (Just like java edition). It also allows for use of projectiles like wind charges, eggs from offhand (with some exceptions) and moreeee. basically in one line:
+
+"THIS IS THE TRUE UNIVERSAL OFFHAND ADDON FOR BEDROCK."
+
+Features:
+
+- Place any blocks in the game with offhand
+
+- Liquid & Bucket placement
+
+- Main Hand Priority: Using tools for actions like stripping logs, tilling dirt, or using bows prevents offhand placement like java.
+
+- Farming: Seeds and crops can be planted efficiently with crops in offhand and hoe/harvesting in/with main hand.
+
+- Expanded Item Support: Full offhand support for Flint and Steel (placing fire), Buckets, technical items like Tripwire Hooks and almost all other usable items including projectiles.
+
+- Immersive Feedback: All offhand actions play the correct sound effects (mostly :)
+
+- Fireworks support: Fireworks can be used while flying from offhand, doesn't matter what you're holding in main hand. supports all types
+
+- Projectile Support: throw things like eggs, wind charges and snowballs (with some exceptions)
+
+- NOTE: projectiles and fireworks requires a tool or weapon in main hand, but all other things work with both tool or empty hand like java edition.
+
+AUTHENTIC VISUALS along with all the mechanics:
+
+This addon not only has feature parity with java edition, IT ALSO HAS EXACT VISUAL SLOT ASWELL. Proper block use counts, sizes, all items visible in proper java slot: (Only Available after v5.0.0)
+
+Mini Usage Guide:
+
+To swap items to offhand, you have 4 different ways:
+
+- Use the emote "overthere" and it will move your current item to offhand (Works for All devices)
+
+- Double Sneak Quickly (only possible on new phone controls, PC, and Consoles)
+
+- You can use the command /swap to move item to offhand:
+
+- And the best one for keyboard users, in mc version 26.0, there is an option to set custom key maps, so you can press a key on keyboard to move item to offhand easily. set it up like in image (Only works If you have a keyboard)**:
+**
+
+Then if you have a tool in your hand (or nothing), blocks in your off-hand will be used instead (just like java edition).
+
+Settings and Enable/Disable the Swapping methods:
+
+You can use the command
+
+/settings
+
+to open settings m

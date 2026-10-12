@@ -1,0 +1,25 @@
+MineText Block introduces 3D block letters, numbers, and symbols to Minecraft, allowing you to design and decorate your structures with these blocks. Use them to create words, label buildings, or add unique decorative elements to your creations.
+
+Obtaining
+
+Obtaining character blocks is simple. Just craft the corresponding crates, place them wherever you'd like, and interact with them to drop the items.
+
+Here's how to craft Crate of Letters
+
+Here's how to craft Crate of Numbers
+
+Here's how to craft Crate of Symbols
+
+Dyeing Characters
+
+The crates drop white character blocks. To create different colors, simply combine the items with dye in a crafting table. The recipe is shapeless, so you can place the items anywhere in the crafting grid.
+
+Glowing Characters
+
+By default, these characters do not emit light. To make them glow, use a glow ink sac and interact with the characters. This will make them emit light, similar to how you can make text on signs glow.
+
+Function Command
+
+You can also use /function command to obtain your desired characters faster.
+
+For future updates or feedback for my addon and to connect with us join in my Discord Server here

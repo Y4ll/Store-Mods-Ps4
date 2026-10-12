@@ -1,0 +1,83 @@
+Above each dropped item is shown text-hologram, which displays the name of the item and the amount! Compatible with all other addons! Now you can clearly identify the item from afar without looking at its texture!
+
+LIST OF FEATURES:
+
+Raycasting! Holograms are only displayed on items you can see! For example, items that are behind a block, in the grass, etc. do not display holograms until you see them.
+
+2 modes of operation! Display holograms only on the closest items in a certain radius, or only on items that are pointed by your crosshair.
+
+Editable hologram text pattern! You can change the colors, add a prefix/postfix, add your own text, and even make the text multi-line!
+
+Fine-tuning! You can adjust the maximum distance to the item to display the hologram, limit the number of nearest items with holograms, change the font size, and many other settings!
+
+Supports multiplayer and is compatible with all other addons! (without player.json)
+
+Translated into many languages! You can even translate it into your own language!
+
+Download BP and RP and put these 2 packs into your Minecraft world!
+
+- Enable these experiments: "Beta APIs"
+
+- Only stable Minecraft versions are supported. (not beta or preview)
+
+HOW TO USE:
+
+Apply the addon to your world and that's it! After entering the world, the addon will start working immediately.
+
+Note: after applying the addon, only new dropped items will have holograms. Items that were dropped before the addon was applied will not get holograms.
+
+Raycasting! The hologram is displayed on the item only if there are no obstacles between the player and the item in a straight line:
+
+Multiplayer is supported:
+
+ADDON CONFIGURATION:
+
+Just enter this command: /function itemsHolograms_config
+
+And you will open the settings window for this addon:
+
+Here you can configure:
+
+Enable addon. Allows you to turn the addon on and off without leaving the world.
+
+Reduce hologram font size. If enabled, the font size in the holograms will be smaller.
+
+Raycasting. If disabled, holograms will be displayed even on items that you cannot see (behind the block, in the grass, etc.)
+
+On which items the hologram will be displayed. You can choose "Nearest items" or "Items the crosshair is aimed at"
+
+In "nearest" mode, holograms are displayed only on items within a certain radius. If raycasting is enabled, the visibility of items is checked before displaying holograms:
+
+Available options in "nearest" mode:
+
+Limit the number of closest items with holograms to. You can enter any integer. The default is 10. Enter 0 for unlimited (not recommended)
+
+Maximum distance to the item to display the hologram. You can enter any integer. The default is 12. A maximum of 50 is recommended.
+
+In "crosshair" mode, holograms are displayed only on items that your crosshair is aimed at. Raycasting doesn't affect anything in this mode:
+
+Available options in "crosshair" mode:
+
+Display a hologram for the first few seconds after item drop, even if you didn't aim at it. If enabled, each item after being dropped will have a hologram for a few seconds. After that, the hologram will disappear until you aim at the item.
+
+CHANGING THE HOLOGRAM PATTERN:
+
+Enter the command /function itemsHolograms_config and scroll to the bottom:
+
+And here you can change the pattern to your liking!
+
+[...9999 more unique combinations]
+
+The pattern is limited only by the number of characters (max 100) and your imagination!
+
+FAQ
+
+Does this addon work on realms? Download the world from your realm, enable the necessary experiments, add this addon to it, and upload it back to the realm. If it still doesn't work, then it's a realms bug
+
+In multiplayer, holograms are visible to all players, even in "crosshair" mode! This is a bug and it can't be fixed yet
+
+Your addon doesn't work! Please perform all actions listed below:
+
+- Make sure that the type of your Minecraft version is "release" (not beta or preview), and that the version matches the one indicated in the checklist above.
+
+- Make sure th

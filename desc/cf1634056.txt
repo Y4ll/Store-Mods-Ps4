@@ -1,0 +1,9 @@
+OFFICIAL BEDROCK PORT
+
+Inspired by analog horror, and Trevor Henderson-style creatures horror. This mod features scary events, stalking entities, loud sounds and real 3D models into your world.
+
+-
+
+- Every few minutes, a random horror event. Sometimes you may hear strange noises nearby. Other times, a creature may appear for only a few seconds, forcing you to look at it before vanishing. Some encounters are harmless sightings, while others can turn into a chase. Longclaw can appear behind you or at a distance, watching silently before disappearing. In rarer hostile events, it forces your view toward it, then begins chasing you. Sootling and Mawhorse are short stalker encounters. They appear in front of the player, make you look at them, scream, and vanish after a few seconds. Spongebob Balloon works differently. It floats nearby, plays music, giggles over time, and after a delay it causes Paleskin to appear.
+
+ENTITIES: PALESKIN, LONGCLAW, SOOTLING, MAWHORSE, SPONGEBOB BALLOON

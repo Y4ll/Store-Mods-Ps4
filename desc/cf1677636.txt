@@ -1,0 +1,30 @@
+About
+
+This pack adds fully modeled 3D handheld models for pickaxes, shovels, swords, axes, and hoes, plus a few specials (like bow and mace) in a style similar to other fresh stuff. This pack was originally created by Zvezdov for Java Edition and was ported by me, Parzival_ to Bedrock Edition.
+
+Features
+
+- Added handheld models for pickaxes, shovels, swords, axes and hoes
+
+- Added handheld models for bow and crossbow
+
+- Added handheld model for a mace
+
+- Added shield item texture
+
+- Changed item textures for pickaxes, shovels, swords, axes, and hoes
+
+- Changed item textures for bow, crossbow, and arrow
+
+- Changed arrow entity texture
+
+My Ooga Booga pack is a finalist in the CurseForge ModJam 2026 Community Vote. If you enjoy the pack, please consider supporting it with a vote!
+
+VOTE HERE
+
+https://overwolfdevs.typeform.com/to/Wuuqwf3U
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

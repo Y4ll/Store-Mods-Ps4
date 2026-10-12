@@ -1,0 +1,17 @@
+No particles + Mini tools
+
+Author: BamCoca211
+
+This mod combines two lightweight but useful features for Minecraft Bedrock Edition:
+
+No particles Removes unnecessary particles such as fire, smoke, or potion effects to improve performance and provide a cleaner visual experience. Perfect for PvP or low-end devices.
+
+Mini tools Adds compact and simplified tool models (pickaxe, sword, axe, etc.), giving a minimalistic look while keeping full functionality.
+
+Features
+
+Better FPS and smoother gameplay with no distracting particles.
+
+Clean and modern mini-style tool models.
+
+Simple, lightweight, and compatible with most other packs.

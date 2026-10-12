@@ -1,0 +1,77 @@
+Easy Accessories!
+
+*Current number of Accessories: 248 (Aug 31 - 2026)
+
+This is Easy Accessories, an Addon that adds a new simple accessory system. Accessories can be crafted with items from the game itself and have unique and interesting functions.
+
+The new accessory mechanic was revamped starting from version 13.5, where an accessory inventory was added that can be accessed through the "Accessories Menu" item. Each type of accessory now has its own unique slot where it must be equipped:
+
+Using the accessory upgrade table, you will be able to create accessories better than those made on the crafting table. The table can be easily made on the crafting table itself.
+
+_______________________________
+
+>>> Accessories Manual <<< (Important)
+
+Starting from version 12, a manual explaining all the accessories was added. So in this brief description you will find only some of the many that exist in the mod. You can craft the manual just by placing a dirt block in the inventory.
+
+Accessories!
+
+1 Forest Ring -
+
+*The Forest Ring*: when equipped in one of the slots, it will cause grass, flowers, and other types of vegetation to gradually form around the player.
+
+2 Life Necklace -
+
+*Life Necklace* is a necklace that will heal one heart of the player while health is below 20. That is, the necklace heals +2 health every certain amount of time.
+
+3 Bracelet of Repulsion.
+
+*Bracelet Of Repulsion* will cause, when you are hit or take damage from anything, a shield to push all mobs around you away to a safe distance. It will push not only the mob that hit you, but also all mobs within a 2-block radius of you.
+
+4 Fire Bracelet -
+
+*Fire Bracelet* will let you set fire to anything you hit, but it doesn't make you immune to the fire you cause yourself.
+
+5 Mystic Eye -
+
+*Mystic Eye* will let you know what the closest mob to you is and the distance between you and the mob. Everything will be shown in chat at set intervals.
+
+6 Zap ring -
+
+*Zap Ring* will let you shoot up to three bolts of energy after a certain amount of time. You can fire the zaps by crouching twice and looking at where you want to shoot them. The bolts only deal 1 damage to the affected mob and have a cooldown to recharge them.
+
+7 Umbrella -
+
+*Umbrella* will let you jump from very high places, or from above three blocks, without taking damage.
+
+8 Copper Shield -
+
+*Copper Shield* will give you a chance to negate damage taken from a hostile mob whenever you are attacked. The chance is low depending on the shield's level.
+
+9 Wind Bottle -
+
+*Wind Bottle*. By quickly crouching twice you can equip a high jump, which will be applied the next time you jump after performing that action. You can do a high jump right after crouching twice and you can only do it again after a cooldown of a few seconds.
+
+10 Cleric's Ring
+
+*Cleric's Ring*. By crouching twice in a row while looking at a mob, you can cast a healing beam that will heal +4 hearts of the closest mob within a 10-block radius.
+
+11 Magical Shield Necklace -
+
+*Magical Shield Necklace* will give you a shield that adds a chance to absorb ranged attacks like arrows, witch potions, fireballs, or shulker projectiles. There's still a chance you can get hit depending on the projectile's speed or the distance, but the chance to negate the attack is higher.
+
+12 Crown of The Forest -
+
+*Crown Of The Forest*. It's a crown that will clear the vegetation blocks in front of you while you walk, but without destroying anything in the forest. All the blocks are rebuilt as soon as you move away. You can walk straight through a tree without destroying it.
+
+13 Ring Of Purification -
+
+*Ring Of Purification* will give you immunity to Wither, hunger, and poison effects. It constantly heals you and lets you, for example, eat zombie flesh or raw chicken.
+
+14 Glacial Bracelet -
+
+*Glacial Bracelet* will let you freeze the water wherever you walk, making it impossible for you to actually touch the water. It will also leave a trail of snow behind you.
+
+15 Fire Rune -
+
+*

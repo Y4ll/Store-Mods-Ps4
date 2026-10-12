@@ -1,0 +1,11 @@
+Disclaimer: the image was created by AI
+
+Essential Utilities is an all-in-one utility addon that combines multiple quality-of-life features into a single package, eliminating the need to install them separately. It includes Dynamic Light, Tree Capitator, RPG Health Bar, Vein Mining, and many more useful features to enhance your Minecraft gameplay.
+
+Dynamic Light allows light-emitting items, such as torches, to illuminate your surroundings while held in your hand. Explore caves and dark areas without placing torches everywhere.
+
+Tree Capitator lets you chop down an entire tree by breaking a single log, making wood collection much faster and more convenient.
+
+RPG Health Bar displays the health of nearby mobs and other entities above their heads, making it easier to monitor enemies during combat.
+
+Vein Mining allows you to mine an entire vein of connected ores by breaking just one ore block, greatly speeding up resource gathering.

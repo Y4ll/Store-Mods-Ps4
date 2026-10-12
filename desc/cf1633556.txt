@@ -1,0 +1,24 @@
+Bring a little companion along on every Minecraft adventure with Animated HUD Pets.
+
+DISCORD:https://discord.gg/K5j5Y95tfn
+
+This lightweight Bedrock resource pack adds a small animated pet to the corner of your HUD. Each pet has its own looping animation and reacts when the interaction button appears, making your interface feel more lively without changing gameplay.
+
+Available pets:
+Dog
+Cat
+Duck
+Chicken
+Pike
+Adaptive Carousel, which switches pets every 30 seconds
+
+Features:
+Fully animated HUD companions
+Five individual pet options
+Automatic rotating-pet mode
+Special interaction reactions
+Support for desktop and mobile layouts
+Purely visual and safe for normal gameplay
+No behavior pack, commands, or experimental features required
+
+Choose your preferred pet from the pack settings, activate the resource pack, and your new companion will appear directly on your HUD.

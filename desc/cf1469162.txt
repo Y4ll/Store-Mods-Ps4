@@ -1,0 +1,43 @@
+Better Cats!
+Over 130 New Variations and 69,000 Trait Combinations of Cats!
+
+Remodeled cats to better match their breeds, with tons of new features like random eye colors and tail lengths, also includes the ocelot. This pack was originally made by CanineGray for Java Edition and was ported by me to Bedrock Edition
+
+Breeds:
+
+- Black: Solid Colour
+
+- British Shorthair: Scottish Fold mixes
+
+- Jellie: Exotic Shorthair
+
+- Tuxedo: Bi-Colour
+
+- White: Sphinx
+
+Randomized Traits:
+
+- Hair Length: Short, Fluffy, and none
+
+- Tail Length: Normal and Bobtail
+
+- Whiskers: Short, Medium, and Long
+
+- Snout: Normal and Short nose
+
+Eye Shapes and colors:
+
+- Eye Shapes: Narrow, Round, and Almond
+
+- Colors: Green, Yellow, Orange, Brown, Blue, Teal, Gray, and Heterochromia mixes
+
+Subpack Settings:
+
+- Vanilla Spawning: remodeled better cats and ocelts but with vanilla variants only
+
+- Random Spawning: includes all 130+ cat and ocelot variants
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

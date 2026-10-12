@@ -1,0 +1,37 @@
+Adds fullbright effect to your world using highly optimized built-in effects, without using behavior packs or shaders. Works on servers, Vibrant Visuals.
+
+Doesn't require MBLoader or Patched MCPE.
+
+Required:
+
+- PandaMine's Mip Mapper
+
+Try out:
+
+- Vibrant Visuals Unlocker
+
+- White + 3D Block Outline
+
+Feel free to review this pack but, please only use CurseForge link!
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 70% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+Contact
+
+Discord: pandamine5x
+
+Follow for more packs!

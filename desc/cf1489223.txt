@@ -1,0 +1,31 @@
+Project Description:
+
+Breeding your animals one at a timewhile constantly double-checking for the correct food itemscan quickly become a tedious chore. Animal Troughs completely streamline your agricultural workflow by removing the need for manual breeding. Simply fill the trough with the appropriate feed, and watch as your livestock automatically breed and multiply on their own. Whether you are running a massive food production facility or a cozy homestead, Animal Troughs let you build and manage a thriving farm the way it was always meant to be played.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Dynamic & unique breeding system.
+
+- Automatic food refill with hoppers.
+
+- Cheap crafting recipe.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Crafting a Trough is simple: arrange Slabs in a U-shape across your crafting grid to assemble your first feeding station
+
+Place your Trough wherever you want your farm to be centered, and stock it with a supply of fruits or vegetables. Once filled, the trough will automatically handle the feeding and breeding process for all nearby livestock within range.
+
+Farm animals will be attracted to Troughs, when there are two of the same adult animal near a trough they will start to breed and birth a baby, the same cooldown applies meaning two animals will not just keep breeding just because they are near a trough.
+
+When two animals start to breed the troughs contents will deplete by one, so keep an eye on your troughs, animals will not breed if a trough is empty.
+
+Want ultimate automation? You can easily connect a hopper system to your Trough to keep it constantly stocked with food. Simply feed your chests and hoppers into the Trough to create a hands-free supply chain. This ensures your animals stay fed around the clock without requiring you to manually refill the trough, allowing you to focus entirely on running your farm.

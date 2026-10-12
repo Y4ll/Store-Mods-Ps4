@@ -1,0 +1,39 @@
+Orbital TNT Cannon
+
+Call in an orbital TNT strike from the sky and unleash a spiral of TNT on your target!
+
+With the updated targeting system, simply look toward the location you want to strike and activate the cannon. The orbital TNT spiral will appear above the targeted area and rain down from the sky.
+
+How to Use
+
+-
+
+Get a nearly broken fishing rod.
+
+-
+
+Look directly at the solid block you want to strike.
+
+-
+
+Cast the fishing rod while looking at your target block.
+
+Important Targeting Rules
+
+- The cannon targets the solid block you are looking at, not the player themselves.
+
+- Do NOT look at the sky or empty air. The cannon needs a solid block to determine your target location.
+
+- Do NOT look directly at a player UNLESS there is a solid block behind them that the targeting system can detect.
+
+- If you look directly at a player with no solid block behind them, the cannon cannot determine a valid target location. Because there is no block to target, the cast may be treated as out of range.
+
+- The target block must be within 100 blocks of you.If the target is more than 100 blocks away, the cast will fail and you will receive : Out of range. Cast failed The orbital TNT spiral will appear above the detected target location and fall downward toward it.
+
+For the most reliable cast, always look directly at the block you want to strike. If targeting a player, make sure there is a solid block behind them and aim at that block rather than the player.
+
+Requires Beta APIs / Script API to be enabled.
+
+Inspired by Wembus' Unstable SMP Orbital Canon Strike using a fishing rod.
+
+Made by: CyanXCodes

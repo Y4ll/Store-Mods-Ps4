@@ -1,0 +1,15 @@
+Make eating and drinking feel more natural in Minecraft Bedrock. Eating Animation adds smooth animations when you eat food or drink something, so items no longer just disappear instantly from your hand.
+
+Features
+
+- Food Animations - Eat bread, steak, apples, carrots, melon, porkchop, chicken and other food with a proper eating animation
+
+- Drinking Animations - Potions, milk and other drinkable items now have smooth drinking animations
+
+- First Person Support - See the animations directly in first person while eating or drinking
+
+Credits
+
+- shizotoaster1
+
+- theoness1

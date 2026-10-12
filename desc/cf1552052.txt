@@ -1,0 +1,7 @@
+Feature Description
+
+- How it works: When you sneak near plants within a short range, each crop gets a chance to jump to the next growth stage naturally. Only grows until fully mature no over-growing.
+
+- Simple & Friendly: Easy control, no cheats or commands, fully works with normal survival rules. You see clear particles so you know its working.
+
+Achievements Friendly

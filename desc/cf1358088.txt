@@ -1,0 +1,63 @@
+Vanilla Optimizer combines the best features of Sodium and FPS Optimizer into one ultra-lightweight FPS boost texture pack. Built to deliver smooth, lag-free gameplay on all devices, from low-end to mid-range.
+
+By merging two of the most popular FPS packs, Vanilla Optimizer cuts out heavy effects, reduces particle load, trims animations, and simplifies textures, all while keeping the original Minecraft feel intact.
+
+Requires Minecraft Bedrock 1.26.40 or newer.
+
+In-Game Settings
+
+Tap the gear icon next to the pack in your pack list to tune it without reinstalling:
+
+- Potion & Spell Particles turn off the swirls around potion effects, witches, evokers and cauldrons
+
+- Geyser & Gas Particles turn off geyser poofs and noxious gas
+
+- XP Orb Render stop experience orbs drawing entirely. They still work and still get collected, so this is a big gain at grinders
+
+Vibrant Visuals Support
+
+Vibrant Visuals works with the pack enabled. Shadows are set to blocky and snapped to a 16px grid, matching vanilla's pixel size instead of soft-filtering every edge cheaper to draw and truer to the vanilla look.
+
+Two Modes
+
+Tap the pack name in your pack list to switch:
+
+- Optimized Fog + Vanilla UI short fog draw, highest FPS
+
+- Clear Fog + Clean UI long, clear view in every biome, plus the lightweight Clean UI
+
+Features:
+
+- Combined optimizations from Sodium + FPS Optimizer
+
+- Clean & simplified 16x textures
+
+- Full grass all faces show biome-tinted green top texture
+
+- 176 particles disabled, animations trimmed
+
+- Shorter fog distance & optimized sky settings
+
+- Blocky Vibrant Visuals shadows
+
+- Fixed visual bugs (water splash & snowed grass error textures)
+
+- Smaller, repositioned shield for a cleaner HUD
+
+- Fully optimized for the Render Dragon engine
+
+- Boosts FPS on low-end and mid-range devices
+
+- Works perfectly for survival & everyday gameplay
+
+- Only glass, ores and animated block textures are changed, so it layers over most other packs
+
+Best For:
+
+- Maximum FPS boost
+
+- Low-end devices
+
+- Smooth & simple gameplay
+
+- Players who want the best of both Sodium + Optimizer in one pack

@@ -1,0 +1,207 @@
+Kaleidoscope Chinese Food (Unoffical)
+
+Requires Minecraft Version 26.3+
+
+Port Permission This add-on is an unofficial Bedrock port of Kaleidoscope Chinese Food, originally developed for Minecraft Java Edition.
+
+Ported to Bedrock under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which permits adaptation and redistribution with attribution for non-commercial use, provided derivative works are shared under the same license. Special thanks to the Kaleidoscope Chinese Food team and the Kaleidoscope Cookery team for creating the original mods!
+
+Kaleidoscope Chinese Food expands Kaleidoscope Cookery with additional Chinese-inspired foods, ingredients, cooking methods, kitchen equipment, drinks, placeable dishes, and decorative content.
+
+It adds new recipes and preparation methods using equipment such as the Wok, Stockpot, Steamer, Teapot, Pickle Jar, and Mooncake Mold, along with new crops, preserved foods, specialty dishes, and decorations.
+
+For recipes, preparation instructions, farming information, equipment usage, and explanations of the add-ons features, check the Chinese Food section of the in-game Guidebook.
+
+REQUIRED DEPENDENCY and PACK ORDER
+
+You need Kaleidoscope Cookery for this add-on to work, v1.0.3 or Newer is required!! Download it HERE.
+
+Please put Kaleidoscope Chinese Food ABOVE Kaleidoscope Cookery for best results!
+
+**YOU MAY HAVE TO CREATE THE WORLD, THEN LEAVE AND GO BACK TO WORLD SETTINGS TO GET THIS ORDER TO WORK CORRECTLY**
+
+Image of New Features
+
+Guidebook:
+
+The Kaleidoscope Chinese Guidebook is contained within the Kaleidoscope Cookery Guidebook.
+
+All the new blocks and items:
+
+Click spoiler below to see a list of all foods and blocks added:
+
+Crops & Farming
+
+- Eggplant
+
+- Eggplant Seed
+
+- Corn Ristra
+
+- Yellow Croaker
+
+Ingredients
+
+- Salt
+
+- Salt Bucket
+
+- Raw Mooncake
+
+Foods
+
+- Beef with Scrambled Eggs
+
+- Beef with Scrambled Eggs and Rice
+
+- Big Plate Chicken
+
+- Big Plate Chicken Noodles
+
+- Century Egg
+
+- Century Egg Congee
+
+- Chinese Sauerkraut
+
+- Douzhi
+
+- Dry Pot Chicken
+
+- Dry Pot Potatoes
+
+- Dry Pot Spare Ribs
+
+- Four Joy Meatballs
+
+- Lamb Pilaf
+
+- Maocai
+
+- Pork Chili Noodles
+
+- Pumpkin Porridge
+
+- Raw Steamed Rice Rolls
+
+- Salted Egg
+
+- Sauerkraut Beef Noodles
+
+- Seaweed Egg Drop Soup
+
+- Sichuan Wonton
+
+- Steamed Rice Rolls
+
+- Stir-Fried Three Fresh Vegetables
+
+- Stir-Fried Three Fresh Vegetables with Rice
+
+- Stir-Fried Yellow Beef
+
+- Stir-Fried Yellow Beef with Rice
+
+- Stuffed Eggplant
+
+- Tomato Egg Drop Soup
+
+- Tomato Egg Noodles
+
+- Twice-Cooked Pork
+
+- Twice-Cooked Pork with Rice
+
+- Wonton Noodles
+
+- Yangrou Paomo
+
+- Yangzhou Fried Rice
+
+Placeable Foods
+
+- Golden Apple Platter
+
+- Mooncake
+
+- Red Rice Roll
+
+- Sichuan Boiled Fish
+
+- Sichuan Boiled Pork Slices
+
+- Yellow Croaker Soup
+
+- Yellow Croaker Tofu Soup
+
+Tea & Drinks
+
+- HK Milk Tea
+
+- Lapsang
+
+Kitchen Tools
+
+- Mooncake Mold
+
+Cooking Stations & Kitchen Equipment
+
+- Pickle Jar
+
+Storage & Utility
+
+- Bowl Stack
+
+- Freezer
+
+- Green Freezer
+
+- Light Blue Freezer
+
+- Orange Freezer
+
+- Pink Freezer
+
+- Yellow Freezer
+
+Decorative & Miscellaneous Blocks
+
+- Corn Ristra
+
+- Couplet Block
+
+- Firecracker
+
+- Fu Character
+
+- Horizontal Banner
+
+- Kongming Lantern
+
+Dolls
+
+- Doll 1
+
+- Doll 2
+
+- Doll 3
+
+- Doll 4
+
+- Doll 5
+
+- Doll 6
+
+Additional Thanks to:
+
+- Pineapple (bilibilimr.pineapple on Discord) for providing the improved Simplified Chinese translation
+
+[if you translate the mod more accurately than has been done your name will go here!]
+
+No Player.json - Achievement Friendly - Realm Friendly
+
+DISCORD SERVER: Loyallay's Discord Server
+
+Please delete the old version from your device before installing any update version
+
+Check out my profile for other Add-ons, Texture Packs, Worlds, and Skin Packs!

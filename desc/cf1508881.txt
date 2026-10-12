@@ -1,0 +1,89 @@
+The WWII Gun Addon by TWW team brings a wide variety of historical weapons from different countries in World War II into Minecraft. Each weapon is based on real-life firearms, giving players a more realistic and immersive combat experience. The addon includes guns from major nations such as the United States, Germany, the Soviet Union, Japan, and others.
+
+United States:
+
+Bazooka a portable rocket launcher used against tanks.
+
+M3A1 Grease Gun a simple submachine gun with a slow fire rate.
+
+M1 Garand a powerful semi-automatic rifle used by infantry.
+
+M1A1 Thompson a fast-firing submachine gun for close combat.
+
+AN/M2 Stinger a modified aircraft machine gun with a very high fire rate.
+
+Colt M1911 a standard semi-automatic pistol.
+
+Springfield M1903 a bolt-action rifle, often used by snipers.
+
+BAR an automatic rifle providing suppressive fire.
+
+Model 1912 Shotgun effective at close range.
+
+United Kingdom:
+
+Lewis Gun a light machine gun with a top-mounted magazine.
+
+France:
+
+MAS-35S a semi-automatic pistol used by French forces.
+
+Germany:
+
+MP28 an early submachine gun.
+
+MP40 a compact and widely used SMG.
+
+Kar98k the standard German bolt-action rifle.
+
+Gewehr 43 a semi-automatic rifle.
+
+MG34 a versatile machine gun.
+
+MG42 a high fire rate machine gun.
+
+PzB 39 an anti-tank rifle.
+
+M712 (C96 variant) a fully automatic pistol.
+
+Walther P38 a service pistol.
+
+Luger P08 a well-known German pistol.
+
+FG42 an automatic rifle for paratroopers.
+
+Italy:
+
+MAB 38 a reliable and accurate submachine gun.
+
+Japan:
+
+Type 99 Rifle a bolt-action rifle.
+
+Type 96 MG a light machine gun.
+
+Type 11 MG an older hopper-fed machine gun.
+
+Type 100 SMG a submachine gun.
+
+Type 2A SMG a simplified late-war SMG.
+
+Lunge Mine a close-range anti-tank explosive.
+
+Soviet Union (USSR):
+
+PPS-43 a compact SMG.
+
+PPSh-41 a high fire rate SMG with drum magazine.
+
+PPD-40 an earlier SMG design.
+
+DP-28 a light machine gun with a pan magazine.
+
+TT-33 a semi-automatic pistol.
+
+Mosin-Nagant a durable bolt-action rifle.
+
+SVT-38 a semi-automatic rifle.
+
+Overall, this addon offers a diverse and realistic collection of WWII weapons, allowing players to experience different combat styles from various nations.

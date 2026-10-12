@@ -1,0 +1,123 @@
+My phone broke, so I can't test the addon pack myselflet me know how your experience with it goes to help me out! :) P.S. In the meantime.
+I've been gathering permissions from creators to include their addons here for everyone who's been complaining about the hassle of downloading each one individually. :D
+
+Thaumaturge is an Addonpack that aims to bring a large amount of content focused on progression, exploration, magic, and technology.
+
+Main Features
+Currently contains 23 add-ons (Not including mine, of course).
+RPG progression with relics, classes, and powerful equipment.
+Magic, technology, automation, and so much crops.
+Hundreds of new weapons, tools, armor, and accessories.
+Massive exploration with dungeons, foods, bosses, and new dimensions.
+
+Required Add-ons:
+
+- Drop 1:
+
+Heartbound Essence
+UC: Heavy Machinery
+BioScape V3
+Mythological Craft
+UC: Tiered Machinery
+UC / UtilityCraft
+Archaism Trinkets (& Expansion)
+Cataclysmical
+Villages Plus
+Foods Expansion
+
+- Drop 2:
+
+AppleSkin (Port)
+Cloud Commands
+Ender's Addon Pack
+Evil Worst
+DarkAge Bizarre Remake
+Dorios' Excavate
+Vs Iron Furnaces
+Dungeon Enhanced - Unofficial
+Better Containers
+Useless Sword
+
+- Drop 3:
+
+Euforia's Items
+Raiyon's More Shields
+Dorios Insight
+
+Don't forget the order:
+Thaumaturge at number 1, archaism trinkets in number 2, BioScape in 3 and the Recycle Recipes at number 99 (In the last).
+
+Commands And Configs
+
+Others Configs:
+
+Cloud Commands:
+
+Teleportation between players
+
+/tpa (steve) request to teleport to a player
+/tpahere (steve) request a player to teleport to you
+/tpaccept accept a teleport request
+/tpdeny decline a teleport request
+/tpas (steve) teleport to a player without asking for permission (admin)
+/tpashere (steve) teleport a player to you without asking for permission (admin)
+
+Chunk Configuration
+
+/claimchunk claim a chunk
+/claimchunk_expand expand a chunk
+/unclaimchunk unclaim/refund a chunk
+/claimlist list claimed chunks
+
+PvP
+
+/claim_pvp (on/off) enable/disable PvP
+/claim_damage_status show current status of these rules
+
+Spawn points
+
+/sethome set your home point
+/home teleport to your home point
+/delhome delete your home point
+/homes list your home points
+
+Warp points
+
+/warp (warp name) teleport to a set warp (has a cooldown)
+/setwarp (warp name) set a warp point
+/delwarp (warp name) delete a set warp point
+/warps list all set warp points
+
+Teams
+
+/maketeam (team name) create a team
+/invteam (steve) invite someone to your team
+/accteam accept a team invitation
+/leaveteam leave your current team
+/listteam list all teams
+/delteam delete your team
+/teamchat (hello world) send a message only to your team
+/tkp teleport to the team
+/vcaptain vote to change the team captain
+/nchange (other team name) change the team name
+
+Miscellaneous utilities
+
+/back return to the last place you died
+/banish (steve) kick/ban someone temporarily
+/thru pass through walls (admin)
+/pulloot pull nearby items/loot to you
+/chestsort sort a chest
+/playerinvsort sort your own inventory
+/moveinv move items from chests to your inventory
+/rtp teleport to a safe location
+
+If you encounter bugs, balance issues, or compatibility problems, please report them in the comments section.
+
+Recommended Requirements
+A device with at least 6 GB of RAM is recommended unless playing on a server
+Enable all Experimental Features
+
+Credits & Disclaimer
+Above are all addons required to play the addonpack all of them must be downloaded individually through the links provided by their respective authors.
+Please support the original creators whenever possible, The add-on pack is not yet finished, do not use it on a serious survival map.

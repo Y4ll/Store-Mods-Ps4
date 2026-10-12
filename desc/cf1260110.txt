@@ -1,0 +1,21 @@
+For Mobile Devices and Consoles use Solace Lite
+-- Introducing Solace V --
+
+Solace is a Vibrant Visuals pack made to transform your Minecraft experience with multiple lighting options, and a stunning stylized aesthetic.
+
+-- What to Expect in Solace --
+
+Beautiful Visuals: Fine-tuned configs for atmospherics, lighting, fogs, color-grading, and water for an unmatched visual experience.
+
+Three Distinct Presets: Whether youre feeling cozy, warm lighting, Gloomy, eerie lighting, or a natural, realistic experience, Solace has it.
+
+Per-Dimension Lighting: Customized lighting, fog, and color grading tailored to each Dimension.
+High-Resolution Details: Beautiful 128x normal maps, making every block satisfying to look at.
+
+Hand-Crafted Texture AO: 128x Texture AO allows for unparalleled depth even in shaded areas.
+
+Photorealistic Caustics: Lifelike water caustics rendered with path tracing through a simulated ocean in Blender.
+
+If you need support join the Discord!
+
+https://dsc.gg/legacy-nexus

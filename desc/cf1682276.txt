@@ -1,0 +1,23 @@
+Duskwalker Horror is a Herobrine-inspired horror entity add-on for Minecraft Bedrock. It adds a single, original mob the Duskwalker that lives in your world and behaves like a true "watcher" legend, growing more dangerous the longer your world survives.
+
+Features and how they affect gameplay:
+
+Stalking: The Duskwalker occasionally appears near or far from the player, standing completely still and staring at you. If you keep looking at it for a few seconds, it vanishes into smoke creating genuine tension without ever attacking.
+
+Jumpscares: Rarely, it appears suddenly right in front of the player with a loud sound and a camera shake effect, then disappears instantly. This adds unpredictable shock moments during normal gameplay.
+
+Hunting: Sometimes the Duskwalker actively chases the player using real AI pathfinding and attacks. It cannot be damaged by the player. If it successfully kills the player, it vanishes in its signature smoke effect, ending the encounter.
+
+Day-based difficulty scaling: The mob's behavior is tied to the world's in-game day counter. On day 1, it is nearly silent and rarely seen. As days pass, sightings and events become more frequent and intense. By day 50, the Duskwalker reaches full dominance over the world, with near-constant activity and a special scripted "takeover" sequence (forced thunderstorm + story messages). This gives players a long-term survival goal: the longer you live, the more dangerous the world becomes.
+
+Environmental horror events: Doors can open on their own, torches can be extinguished, unsettling signs with short messages appear where the player will notice them, and whisper/footstep sounds play randomly behind the player all without requiring the mob to be visible, reinforcing the feeling of being watched.
+
+Possession: Nearby living mobs (everything except blocks) can become "possessed" they glow and are surrounded by soul particles for a short time, signaling that the Duskwalker's influence is spreading through the world.
+
+Unique wolf-vengeance event: If a player tames a wolf and leaves it alone for a few minutes, the Duskwalker may emerge from smoke, kill the wolf in an animated sequence, and taunt the player in chat before vanishing. This is an original mechanic, not found in similar horror add-ons.
+
+Original character: The Duskwalker uses a custom model, texture, and attack animation it is not a reskinned vanilla mob.
+
+Why download this: Unlike static horror mobs that simply spawn and attack, Duskwalker Horror is built around long-term unpredictability and progression every session feels different, and the threat genuinely escalates the longer you play the same world, giving players a reason to keep surviving and see what day 50 brings.
+
+Requirements: Minecraft Bedrock 1.21.0 or higher. Uses the stable @minecraft/server Script API (no experimental toggles required beyond scripting being enabled, which is default).

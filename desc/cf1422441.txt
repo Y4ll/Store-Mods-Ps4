@@ -1,0 +1,51 @@
+Bring Fords power to your Minecraft world!
+
+This addon adds an amazing collection of Ford cars, each with realistic animations and unique mechanics, transforming your adventures across Minecraft roads and cities.
+
+AVAILABLE MODELS:
+
+ENGINES:
+
+MECHANISMS:
+
+- SPEED SYSTEM: The addon now features a gradual acceleration system that simulates an automatic transmission, providing smoother and more realistic vehicle behavior.
+
+Start Neutral
+
+Neutral Drive
+
+Drive Neutral (only when stopped)
+
+- IGNITION SYSTEM: Vehicles can only be started from inside the car using a key.
+
+- FUEL SYSTEM: Each vehicle can be powered by different fuel types: Coal (Combustion), Redstone (Electric) and Hybrid: Uses both coal and redstone.
+
+Each fuel type has its own maximum capacity. Players must manage fuel carefully to keep their vehicles running efficiently.
+
+- SPEEDOMETER: A functional speedometer shows your current speed in km/h and the remaining amount of fuel, allowing precise control while driving.
+
+- Customizable Colors: Paint your car using any Minecraft dye.
+
+- Car Dealership: Buy your favorite car using emeralds + the corresponding engine.
+
+- Animations:
+
+Wheels spinning and turning
+
+Car movements during acceleration, deceleration, cornering, and when going up/down blocks.
+
+- Languages: This addon is available in the following languages:
+
+Brazil (Portugues), Bulgaria (), Canada (English / Francais), China (), Czech Republic (Cestina), Denmark (Dansk), Finland (Suomi), France (Francais), Germany (Deutsch), Greece (), Hungary (Magyar), Indonesia (Bahasa Indonesia), Italy (Italiano), Japan (), Mexico (Espanol), Netherlands (Nederlands), Norway (Norsk), Poland (Polski), Portugal (Portugues), Russia (), Slovakia (Slovencina), South Korea (), Spain (Espanol), Sweden (Svenska), Taiwan (), Turkey (Turkce), Ukraine (), United Kingdom (English), United States (English).
+
+Some translations may not be 100% accurate and can be improved in future updates.
+
+If you find any translation issues, feel free to report them in the comments.
+
+EXTRAS
+
+New mechanics and models will be added in future updates.
+
+Perfect for players who love cars, urban roleplay, or simply want to explore Minecraft roads in style!
+
+Turn your Minecraft world into a true Ford garage!

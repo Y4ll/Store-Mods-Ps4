@@ -1,0 +1,7 @@
+Take a Seat Addon lets players sit naturally on stairs and slabs in Minecraft, perfect for immersive roleplay, creative builds, or simply relaxing in your world. It works with any addon.
+
+This addon allows you to sit on slabs, stairs and logs, simply by right clicking them. It works using stable script apis, so no experimental features are required.
+
+What interactions will let me sit on a block? Simple, just avoid a vanilla block interaction if you intend to sit down on a block, such as an axe on copper or wood, or placing down a block on another block.
+
+Changelogs:

@@ -1,0 +1,36 @@
+Villagers Name
+
+Villagers Name is a lightweight Minecraft Bedrock behavior pack that automatically assigns villagers random names inspired by cultures from all around the world.
+A simple, cosmetic enhancement that makes your villages feel alive, diverse, and full of personality.
+
+Features
+
+Diverse Name Pool: Over 300 unique names from English, Spanish, Arabic, French, German, Italian, Chinese, Japanese, Russian, Indian, Portuguese, Korean, Turkish, Greek, Swedish, Dutch, Polish, Czech, Hungarian, Finnish, Danish, Norwegian, and Icelandic cultures.
+
+Automatic Naming: Villagers receive a random name tag instantly upon spawning.
+
+NonIntrusive: Zero performance impact purely cosmetic.
+
+Tagged Entities: Named villagers receive a special tag for easy identification.
+
+Installation
+
+1 Download the behavior pack files.
+
+2 Place the BP Villagers Name folder inside:
+
+com.mojang/minecraftWorlds/[world_name]/behavior_packs/
+
+3 Enable the pack in your world settings.
+
+4 Enjoy your newly named villagers!
+
+Compatibility
+
+Compatible with Minecraft Bedrock Edition 1.21.80+.
+Works alongside all resource packs, addons, and world types.
+
+Bring Your Villages to Life
+
+This addon adds charm, realism, and personality to your Minecraft worlds by giving villagers unique identities from cultures across the globe.
+Perfect for survival, roleplay, storytelling, and worldbuilding.

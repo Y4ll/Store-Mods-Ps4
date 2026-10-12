@@ -1,0 +1,162 @@
+Description:
+
+Superhero costumes will be crafted at a new workbench; when interacted with, the workbench will have its own crafting interface dedicated solely to crafting superhero costumes and the materials youll need to make them.
+
+Recipe:
+
+List of heroes/villains:
+
+- Iron Man
+
+- Thor
+
+- Hulk
+
+- Captain America
+
+- Black Panther
+
+- White Tiger
+
+- Ant-Man & Wasp
+
+- Gwenpool
+
+- Doctor Strange
+
+- Ghost Rider
+
+- Jeff the land Shark
+
+- Wolverine
+
+- Deadpool
+
+- Rogue
+
+- Cyclops
+
+- Fantastic 4
+
+- Hawkeye
+
+- Moon Knight
+
+- Doctor Doom
+
+- Daredevil
+
+- Spider-Man
+
+- Venom
+
+- Sentry
+
+- Thanos and the Infinity Gauntlet.
+
+- Iron Fist
+
+- Luke Cage
+
+- Squirrel Girl
+
+- Star Lord
+
+- Mantis
+
+- Rocket Raccoon
+
+- Groot
+
+- Vision
+
+- Scarlet Witch
+
+- Black Widow
+
+- Ghost
+
+- Red Guardian
+
+Visit my website to learn more about the add-on: nido-de-addons.com
+
+Basic skills:
+
+Fly:
+
+You'll have two flight systems available for all entities capable of flying.
+
+With Education Edition:
+If you have Minecraft Education Edition enabled, you can use Creative flight with any entity that can fly. To gain momentum, press the sprint button or start running while in the air.
+
+Without Education Edition:
+You can fly without Minecraft Education Edition. To activate it, press the crouch button while youre not touching the ground. To gain momentum, press the jump button or use the sprint button. To simply rise, hold down the crouch button and look up. To stop flying, press the crouch button without holding it down.
+
+Skills Menu:
+
+If an item has a + icon, it means it has additional options and you can switch abilities. To switch abilities, press the crouch button and use the item; a menu will open where you can select a different ability.
+
+Structures:
+Throughout the world of Minecraft, new structures related to the Marvel universe will be generated.
+
+- Fantastic 4 Baxter Building
+
+- Latveria
+
+- Stark Tower
+
+- Hells Kitchen
+
+- Sanctum Sanctorum
+
+- Temple of Khonshu
+
+- Pym Kitchen
+
+- Squirrel Girl's House
+
+- Temple of the Orb.
+
+- Gamma World
+
+Enemies & Bosses:
+
+- Doom's henchmen
+
+- DOOMBOT
+
+- Galactus
+
+- Loki
+
+- Zemo
+
+- Muse
+
+- Bulleye
+
+- Gamma Dog
+
+NPC:
+
+In the world of Minecraft, you'll encounter Marvel heroes; several of them can be recruited using the Avengers card. When you recruit a hero, they'll follow you, and you can interact with them to perform certain actions.
+
+When you interact with the recruited NPC, a menu will open where you can chat with them, interact to perform an action, customize their outfit or accessories, or ask them to stop following you.
+
+If the NPC stops following you, you can only interact with them to trade; you can ask them to follow you again by opening the menu and selecting the Follow option.
+
+Interaction controls after recruiting them:
+
+-
+
+Interact with NPC: Trade or ask them to sit down/follow you.
+
+-
+
+Crouch and interact with the NPC: Interaction menu.
+
+Important:
+
+If you are going to play in a normal world it is important to increase the simulation distance so that they can load the structures well.
+
+You need to activate the Education Edition to use the flight system.

@@ -1,0 +1,13 @@
+Over-Enchantments Addon
+
+Allows you to easily obtain enchantments up to level 25 directly from the Creative inventory.
+
+Version 1.3 is now available!
+
+Added a preset items section.
+
+Terms of Use
+
+- Redistribution: Prohibited.
+
+- Modification: Allowed.

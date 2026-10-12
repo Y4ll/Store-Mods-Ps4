@@ -1,0 +1,58 @@
+The Ty-el's UI Pack is an UI treatment pack for Vanilla UI, which add some features, tweaks and, also new clicking sounds(!), to make your experience somehow better but still keep the original Vanilla feelings. Compatible with most texture packs from internet or from marketplace, or some resource packs that can improve your gameplay.
+
+Creator: @tlgm2308 (X/Twitter), full credits below
+
+Showcase Video
+
+(Some features may be changed in the future)
+
+Notices
+
+- Although the pack is very stable for Pocket UI, I still recommend you to use Classic UI Profile for full pack experiences.
+- Do not activate this pack in World Resource Packs if you're already activated it in Global Resources, except, if that world has "Require players to accept resource packs to join" enabled in World Resource Packs Settings, to avoid duplicated controls bugs and unexpected errors.
+- This pack may not be compatible if you use this pack with other packs that modify UI.
+- Currently supported languages: English (United States), English (United Kingdom), Deutsch (Deutschland), Espanol (Espana), Espanol (Mexico), Francais (France), Francais (Canada), Indonesia (Indonesia), Italiano (Italia), Polski (Polska), Portugues (Brasil), Portugues (Portugal), Svenska (Sverige), Turkce (Turkiye), (), (), (), (), (), () and Vietnamese, (only some vanilla languages left, I will try to translate them all soon!). If you want to contribute your language, feel free to contact me on my X/Twitter @tlgm2308.
+
+Features
+
+Pregame Screen Features
+
+- Start Screen
+
+- Redesigned Start Screen, and added Marketplace-styled sidebar menu!
+- Here is some supported buttons in sidebar menu:
+
+- Settings Screen
+
+- Completely changed screen design to match Ore UI design concepts.
+- Now most dropdowns use button mode instead of the original dropdowns!
+- Added Search functionality to Resource Packs Screen and Storage Management Screen.
+
+Quick Settings screen: Go to Settings, and press button at the top right of the screen. Here you can change Camera Perspective, Brightness, FOV, and more... with a fully clean live background!
+
+- Play Screen
+
+(Vanilla Default subpack)
+
+- Completely redesigned Play Screen (again) to make it full screen, or a full screen dialog if you use Default Vanilla subpack.
+- You can see world folder name right in Play Screen/Worlds.
+- Added Recently Played World Suggestion feature to Play Screen. The last played/opened world will show up at the top of Play/Worlds list.
+- You can search for any worlds you want, like on Java, but case sensitive!
+
+In-game Screen Features
+
+- HUD Screen
+
+Features added to HUD Screen include:
+
+- Chunk Coordinates and Chunk Borders, will let you know your current chunk position, and current block position in your chunk.
+- Accurate XP Progress, will let you know how many XP is required to ascend to the next level, without percentage trickiness.
+- Item Durability viewer, to allow you to see exact durability of selected item in your hotbar.
+- Total Similar Items in Inventory, for which items you are holding in hotbar.
+- Inventory Free Slots Counter, will let you know if your inventory is currently full or not.
+- Utility Artifacts - Compass, Lodestone Compass, Clock, Recovery Compass item renderers on HUD. To make it shows on HUD, you need to have actual items in inventory (for example, to show Clock item renderer on HUD, you need to have a Clock item in Inventory Screen). Up to 3 Lodestone Compasses can be shown simultaneously, with tracking IDs to identify which one is correct to you.
+
+- HUD Tab Menu
+
+- TAB Menu/HUD Menu for toggling certain features on HUD. To show TAB Menu (for Keyboard and Mouse control), hold the TAB key, and press a number key to toggle a specific feature. To show HUD Menu (for Touch control), press the designated button at the top of the screen.
+- Player List, will help you check for players in your current multiplayer session, or "Scoreboard List" scores if enabled. Hold TAB to peek Player List on Keyboard and Mouse, or press Show

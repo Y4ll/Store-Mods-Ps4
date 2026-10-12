@@ -1,0 +1,57 @@
+Credits to the original creator: The original mod Chest Cavity is by TigerOfTroy https://www.curseforge.com/minecraft/mc-mods/chest-cavity . This work is just an unofficial port to bring the experience to your mobile devices.
+
+Welcome everyone! Today, I am bringing you an unofficial port of the Chest Cavity mod so you can experience it on Minecraft PE.
+
+The mod introduces a complete internal organ system for creatures in the game. You can open your own body or a mob's body to see the organs inside. But its not just for showit features fun gameplay mechanics that completely change the way you play.
+
+How to Use and Play:
+
+To open your own body, simply look down and long-press. This will open your internal body interface, allowing you to manage and replace your organs.
+
+Mob Abilities:
+
+You can take the hearts of animals or monsters and place them in your own chest. Once you do, you will gain the abilities of that creature! Imagine gaining the strength of a monster or the special ability of an animal just by swapping hearts.
+
+Ability Activation:
+
+Abilities don't activate on their own. To trigger your equipped organ ability, sneak three times in a row, and the ability will be ready to use
+
+What's New in the V2 Update:
+
+- New Organs Added: Allay organs, Spider organs, and Evoker (Cursed) organs are now fully integrated!
+
+- Spider Heart: Climb walls and shoot webs just like a spider
+
+- Allay Soul: attract items you are holding towards you
+
+- Evoker Heart: Summon evoker fangs to attack your enemies
+
+- Dragon Heart: A deadly transplantif you put it in your body, you will die instantly and the heart will drop on the ground. Handle with extreme care!
+
+- Cat Heart: Creepers will now run away from you!
+
+- Guardian Laser: Hold shift to fire a continuous, deadly laser beam at your enemies
+
+- Ender Heart: Automatically teleport away to safety when you are attacked, hit by a projectile, or drowning
+
+- Creeper Appendix: Trigger a massive explosion that damages nearby enemies without destroying blocks
+
+- Volatile Stomach: Shoot fireballs at your enemies, just like a Ghast
+
+- Llama Lung: Spit at your enemies to deal damage and knock them back
+
+- Gills & Rotten Organs: Breathe underwater with gills, but beware of rotten muscles giving you slowness and hunger. Small animal organs will also make you weak and slow
+
+- Fish & Saltwater Organs: Added for aquatic life support
+
+- Bug Fixes & UI: Fixed all known syntax errors and improved the inventory container shape for a better experience
+
+Here is a look at the new organ sets added in this update:
+
+Allay Organs:
+
+Evoker Organs:
+
+Finally, all credits and respect go to the original creator TigerOfTroy for this amazing mod. This is an unofficial port for Minecraft PE only. Please support the original developer! :)
+
+Thanks for the advice! :) zhaiji

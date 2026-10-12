@@ -1,0 +1,21 @@
+This is a Resource Pack for Crackers Wither Storm Bedrock Port that changes its textures to match with their Classic Textures Counterparts.
+
+Note: This pack dosent change the textures to resemble the 1.16 CWSM textures or porting Story mode's textures to CWSM, it is instead meant to adapt CWSM's current artstyle into the original pre-1.14 artstyle.
+
+Java Version
+
+Requirements:
+
+Credits:
+
+THGABS: Fixed Classic Textures Resource Pack
+
+Mojang: Classic Textures
+
+Nazaru: CWSM's Textures
+
+nonamecrackers2: Cracker's Wither Storm Mod
+
+TazolaTaza: Cracker's Wither Storm Bedrock Port
+
+ChickenCrafty: Original Bedrock Port

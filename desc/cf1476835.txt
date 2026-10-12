@@ -1,0 +1,63 @@
+Immersive Ambient Sounds
+
+Bring your Minecraft world to life with a fully dynamic, biomeaware soundscape.
+
+Immersive Ambient Sounds enhances your gameplay with rich environmental audio that adapts to your biome, elevation, and time of day.
+Forests feel alive with birds and deer, deserts echo with distant coyotes, jungles vibrate with exotic wildlife, and caves surround you with deep, echoing ambience.
+Every biome becomes a unique auditory experience.
+
+Showcase Video
+
+Key Features
+
+Day & Night Soundscapes Distinct ambience for daytime and nighttime, creating natural atmospheric shifts.
+
+BiomeSpecific Ambience Forests, deserts, jungles, swamps, oceans, snowy regions, mountains, and more.
+
+Cave Ambience Below Y=40, ambience transitions to echoing drips, rumbling stone, and underground resonance.
+
+Smart Detection System Automatically identifies your biome and environment to play the correct ambience seamlessly.
+
+Included Sound Themes
+
+Forest (Day): birds, eagles, light wildlife
+
+Forest (Night): owls, crickets, nocturnal creatures
+
+Desert (Night): coyotes and aridregion fauna
+
+Caves: echoes, drips, deep underground ambience
+
+Ocean: waves, wind, distant water movement
+
+Swamp: frogs, insects, marshland life
+
+Jungle: tropical birds and dense wildlife
+
+And more with ongoing expansion
+
+Technical Highlights
+
+Optimized for smooth performance
+
+Seamless transitions between sound zones
+
+Balanced volume (fixed at 50%)
+
+No extra resources required
+
+Fully compatible with most addons and texture packs
+
+Supported Biomes
+
+Plains, Forest, Desert, Savanna, Jungle, Swamp, Beach, Ocean, Taiga, Snowy biomes, Mountains, Mesa, Nether, End, and related variants.
+
+Installation
+
+Install both the Behavior Pack and Resource Pack.
+Once you enter your world, the addon automatically begins playing ambient sounds based on your biome and the time of day.
+
+Compatibility
+
+Compatible with Minecraft Bedrock Edition 1.21.60+.
+Works alongside most addons, resource packs, and sound packs.

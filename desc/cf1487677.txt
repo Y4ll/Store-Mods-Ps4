@@ -1,0 +1,101 @@
+Trevor Henderson's Creatures Addon By ZombieMC
+
+This addon adds some of the iconic creatures from Trevor Hendersons creations into Minecraft, each with its own unique abilities that make the addon more interesting. Most of these abilities are not canon, as Ive added my own twist to the creatures.
+
+The Mobs:
+
+Cartoon Cat:
+
+A very hostile mob that kills anything that it sees, it is immortal. But you can get rid of him using an item called "Remove Cartoon Cat" that can be found on the equipments category.
+
+Siren Head:
+
+A tall, hostile creature that stalks its surroundings with deadly intent. With each strike capable of hitting multiple mobs at once. Occasionally, it unleashes a powerful siren roar that damages all mobs within its range, making it a dangerous threat in any encounter.
+
+Long Horse:
+
+A neutral creature that protects players by attacking hostile mobs. It can summon multiple bones from the ground to damage its targets. Long Horse will attack creatures like Siren Head, Cartoon Cat, Bridge Worm, and Cartoon Dog.
+
+Cartoon Dog:
+
+Cartoon Dog has a similar abilities like Cartoon Cat, except cartoon dog is not immortal
+
+Bridge Worm:
+
+The weakest mob in this addon. It doesnt have any special abilities and attacks players, moving slightly faster than normal mobs.
+
+Bellringer:
+
+This mob is a strange creature that only targets baby mobs, and every time a player gets close, they get a nausea effect.
+
+Big Charlie:
+
+This is a large mob that summons a mob called Lil Nugget every 20 seconds. Also, a passive mob; it only attacks if you hit it first.
+
+Lil Nugget:
+
+A tiny, kinda cute creature that spawns from Big Charlie. It is tameable using any meat.
+
+The Lamb:
+
+An evolved version of Lil Nugget, this creature floats around, and every time you get close, you will be affected by something.
+
+Country Road Creature:
+
+A tall, lanky creature that is very hostile towards players, and villagers. It has great speed making it difficult to escape this creature.
+
+Breaking News:
+
+A Giant Creature that has the ability to grab anything with its arms and can do extreme amounts of damage. It very hostile, attacking anything that it sees.
+
+The Wandering Faith:
+
+A passive mob, but if provoked, it will attack with tremendous strength.
+
+Sky Tentacle:
+
+A giant tentacle that resemble a spider legs, this creature will appear in the sky with purple clouds. The ability it has is summoning a very powerful purple thunder that can cause destruction.
+
+Behemoth:
+
+The Largest Mob in this addon, it is the strongest giant, it attacks by roaring, the sound so loud, it can damage anything in 30 radius. Though very powerful, it is a passive mob, only attacks when it is provoked.
+
+The Clatter:
+
+Attacks Players and villagers, if he sees any targets he will run towards them.
+
+The God Of Roadkill:
+
+A fast mob, that attacks any villlagers and players. It has the same speed as the Clatter
+
+Cartoon Ghost:
+
+Cartoon Ghost is a strange mob, it is 2d and slow. it has the ability to summon 2d stickman, if you get near the stickman, it will explode.
+
+MilkWalker:
+
+A tall creature that attacks players and villagers, it is slow so you can easily run away from this creature.
+
+The Angel:
+
+The Angel is a very hostile mob, and it is fast. It has a glowing circle in the back of its head.
+
+Hole Man:
+
+Hole Man is very powerful creature that attacks anything. It has the ability to summon black holes, but i've made a twist on its ability. I've added 2 unique abilities, 2 of the abilities is inpired by gojo from jjk. Hole man is immortal but you can get rid of him using an item called "Remove Hole Man"
+
+The Wandering Doom:
+
+This is similar to The Wandering Faith, but it is more powerful.
+
+The Hexapod:
+
+The hexapod is another giant, it has the ability to summon fire and everything around will get damaged.
+
+Root Head:
+
+A giant that kinda looks like a tree, and it has the ability to summon roots from the ground, and it has the ability summon fire, damaging anything around it.
+
+Bird Watcher:
+
+It is a p

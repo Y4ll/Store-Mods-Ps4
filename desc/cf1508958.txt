@@ -1,0 +1,62 @@
+fayekplayz - feedback on gameplay and bug reports.
+
+MY DISCORD
+
+(disclaimer the image is made by ai)
+
+Hacking addon lets you take full control of your world without needing to use commands or switch to creative mode. You can access powerful abilities and features that are normally restricted, making gameplay more flexible and fun while still staying in survival. Best of all, it is fully achievement-friendly, so you can continue earning achievements without any restrictions.
+
+Important note: To obtain the hacking items, you need an iron ingot, a nether star, and a crafting table.
+
+Skills:
+
+- Active Skill 01: Switch to Creative Mode (hold the hacking item)
+
+- Active Skill 02: Switch to Survival Mode (hold the hacking item)
+
+- Active Skill 03: Force other players into Survival Mode
+
+- Active Skill 04: Permanently force other players into Survival Mode
+
+- Active Skill 05: Remove Forced Survival for Self.
+
+- Active Skill 06: Remove Forced Survival for Players Within 5 Blocks.
+
+- Active Skill 07: Remove Forced Survival for All Players.
+
+- Active Skill 08: Change the weather to Rain (hold the hacking item)
+
+- Active Skill 09: Change the weather to Thunderstorm (hold the hacking item)
+
+- Active Skill 10: Set the time to Sunrise (hold the hacking item)
+
+- Active Skill 10: Set the time to Day (hold the hacking item)
+
+- Active Skill 10: Set the time to Noon (hold the hacking item)
+
+- Active Skill 10: Set the time to Sunset (hold the hacking item)
+
+- Active Skill 10: Set the time to Night (hold the hacking item)
+
+- Active Skill 11: Set the time to Noon (hold the hacking item)
+
+- Active Skill 12: Enable Night Vision (hold the hacking item)
+
+- Active Skill 13: Enable Super Strength (hold the hacking item)
+
+- Active Skill 14: Enable Invisibility (hold the hacking item)
+
+- Active Skill 15: Locked
+
+- Active Skill 16: Locked
+
+There are 2 versions available for version 1.8+:
+Host Version: The hacking item cannot be crafted.
+Normal Version: The hacking item can be crafted in Survival Mode.
+
+This add-on is achievements friendly.
+This add-on does not include player.json.
+This add-on does not require experimental features.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

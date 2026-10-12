@@ -1,0 +1,83 @@
+undefined
+
+Port Permission
+
+The Farmer's Delight mod on Java edition is under the MIT License. This license allows me to port it to bedrock edition. Here is the license link: FarmersDelight: A lightweight farming expansion for Minecraft. (github.com)
+
+Special thanks to Vectorwing for creating this excellent mod!
+
+NOTE
+
+This version is not compatible with other deight mod which version is below V4.0.0
+
+Extension Mods
+
+Bedrock Delight Addons Page | BedrockDelights
+
+Compatibility Mods
+
+Crunch | Minecraft PE Addons
+
+Crossover Mods
+
+Realistic Food - Minecraft Bedrock Addons - CurseForge need FD V 4.1.1+
+
+Foods and Drinks
+
+Lots of foods and drinks that have been added:
+
+<
+
+Cutting Board
+
+The Cutting Board is a functional block without a GUI that can hold certain blocks and items and can be processed using tools.
+
+Stove
+
+The Stove is a functional block without a GUI that provides heat for the Skillet and Cooking Pot when active, and can also smelt certain items on its own. When smelting items, it can simultaneously smelt up to 6 different items of the same or different types. While active, the Stove can be extinguished using a shovel or water bucket. When extinguished, it can be reignited using flint and steel.
+
+Cooking Pot
+
+The Cooking Pot is a functional block with a GUI that can be used for cooking and storing food.
+
+To prepare food, the Cooking Pot must have a heat source below it. You can determine the presence of a heat source by observing bubbles or smoke rising above the Cooking Pot or flames in the GUI. Heat sources can be fire (including soul fire), lava, campfires (including soul campfires), lit stoves, or any block with the tag farmersdelight:heat_source.
+
+- The Cooking Pot has six input slots, one display slot, one container slot, and one output slot.
+
+- The Cooking Pot has a recipe display UI, accessible by opening the Cooking Pot.
+
+- The Cooking Pot recipes are all shapeless recipes; once the ingredients are placed, and it is heated, the food will automatically start synthesizing.
+
+- Items in the display slot cannot be taken directly; you need to put a suitable container in the container slot to transfer them to the output slot before they can be taken out.
+
+Skillet
+
+The Skillet is a functional block without a GUI. Its role differs in item and block forms.
+
+In block state, the Skillet can cook food when there is a heat source below it. Right-click to place food on the Skillet, and it can hold a maximum of one set of ingredients.
+
+In item state, the Skillet has additional attack damage.
+
+Crops
+
+This mod adds four new crops: Tomatoes, Onions, Cabbages, and Rice. These crops, along with vanilla crops, can generate as wild crops around the world.
+
+Tomatoes can be obtained by breaking tomato crops, breaking wild tomato shrubs, or cutting wild tomato shrubs on the cutting board. Tomato shrubs generate in hot biomes. When tomato crops have no linked rope above them, tomatoes will grow along the rope, reaching a maximum height of two blocks.
+
+Cabbages can be obtained by breaking cabbage crops, breaking wild cabbages, or cutting wild cabbages on the cutting board. Wild cabbages generate in beach biomes.
+
+Onions can be obtained by breaking onion crops, breaking wild onions, or cutting wild onions on the cutting board. Wild onions generate in temperate biomes.
+
+Rice can be obtained by breaking rice crops, breaking wild rice, cutting rice panicles on the cutting board, or cutting wild rice on the cutting board. Wild rice generates in river biomes.
+
+Knife
+
+- When you use a knife to destroy grass or tall grass, you will drop extra straw.
+
+- Knives speed up digging: cakes and pies; all wool blocks; leaves (but will not drop leaves); web; wheat related blocks.
+
+- Killing a chicken with a knife will increase the upper and lower limit of the number of feathers dropped by 1.
+
+- Killing a hoglin that is not on fire with a knife will definitely drop 1 ham.
+
+- Kill a pig that is not on fire with a knife, and there is a 50% chance of droppin

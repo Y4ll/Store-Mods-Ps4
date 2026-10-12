@@ -1,0 +1,43 @@
+Are you tired looking at default minecraft falling leaves?
+
+This resource pack is made for you! Falling leaves will be much better!
+
+Features
+
+Falling pentals and leaves now can say on the ground
+
+They can also floating on water
+
+This texture changed the pale garden too!
+
+Installation
+
+- Download the resource pack
+
+- Move it into the 'resource packs' folder
+
+- Open Minecraft Settings Global Resources
+
+- Activate Mace mas effect
+
+Credit
+
+Special thanks to:
+
+- snowstorm (JannisX11)
+
+- Newb shader (devendrn) for the shader that I used in the texture showcase.
+
+Installation
+
+- Download the resource pack
+
+- Move it into the 'resource packs' folder
+
+- Open Minecraft Settings Global Resources
+
+- Activate Vannila Better Falling Leaves
+
+Feedback & Support
+
+If you have suggestions, feedback, or encounter any issues, feel free to leave a comment. Your feedback helps improve the pack even further

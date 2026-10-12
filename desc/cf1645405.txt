@@ -1,0 +1,59 @@
+LYNX SIMPLE VEIN MINER
+
+Short Description
+
+A simple and efficient Vein Miner addon for Minecraft Bedrock! Sneak and break ore or logs to automatically mine entire veins with realistic tool durability drain.
+
+Features
+
+Automatic Vein Mining
+
+Sneak and break ore/log to chain-mine all connected blocks
+
+Compatible with all ore types and wood varieties
+
+Advanced flood-fill technology for accurate vein detection
+
+Realistic Durability System
+
+Tool damage scales with the number of blocks mined
+
+Tool breaks completely when durability is depleted
+
+Maximum 64 blocks per activation for optimal performance
+
+High Performance
+
+Lightweight and efficient script-based code
+
+No lag even with massive ore veins
+
+Seamlessly integrated with vanilla Minecraft mechanics
+
+Technical Information
+
+Version: 1.1.0
+
+Minimum Bedrock: 1.26+
+
+Format: Script-based addon (.mcaddon)
+
+Compatibility: All Bedrock platforms (PC, Mobile, Console)
+
+How to Use
+
+Install the addon to your Minecraft Bedrock world
+
+Enable the addon in world settings
+
+Sneak (SHIFT/Crouch) while mining
+
+All connected ore/log blocks will break automatically
+
+Tips
+
+Use with durable pickaxes for maximum efficiency
+
+Perfect for exploration and material grinding
+
+Save time mining while maintaining vanilla-like gameplay

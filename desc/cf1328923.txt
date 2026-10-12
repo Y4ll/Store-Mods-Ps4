@@ -1,0 +1,33 @@
+Pack Description: This resource pack turns normal vanilla mobs into player models with female and male variants, you get the point.
+
+Some of the designs of the mobs might not look like what you'd expect for packs like these, cuz unlike most of these "girl packs", the ones here are more integrated to nature, they dont have names, they are blank slates, they are humanoid animals basically, creatures made to live in the world than sticking out, unless to go to my Patreon or Deviantart and look at my renders. The rest of the platforms i'm in covers different things, so i wont mention them here.
+
+Another thing, to make this pack more immersive than the 2nd paragraph, both the original mobs and the player model mob spawn each other instead of one replacing each other.
+
+If you enjoy this pack and wanna see more mobs, you can purchase the Full Version here for 4$:
+
+If you wanna see 3d render art from me, or just want to leave a monthly tip as support, you can join in for 2$ monthly subscription
+
+What the full version has: pet mobs, panda, aquatic mobs, skeleton dryad, rabbit, sheep
+
+Instructions:
+
+- To make a variant of a mob stick instead of changing for everytime to log in your minecraft world, craft a Name Tag using 1 paper and 1 iron ingot. Then go to the Anvil and rename them the following: male, female, mob, cold/warm male, cold/warm female, cold/warm mob. No captial letters. More Name Tag lists on here: https://bit.ly/47d5kbb
+
+-
+
+- To have the extra female part on the female models, go to Global Resources, tap on Human Player Mobs, the Setting icon should appear, tap on the Setting icon, and there should be a slider option that appear.
+
+-
+
+- To have the new humanoid model from Waifu Husbando Mobs, go to Global Resources, tap on Human Player Mobs, the Setting icon should appear, tap on the Setting icon, and there should be a slider option that appear. Please note that it's still on Beta phase, so you'll see both humanoid and player model spawning as some mobs havent been remodeled yet.
+
+Remaining Plans for this pack:
+
+- Compatability with Origin Animations - MCPEDL. I cannot make an Actions & Stuff compatability due to obfuscation of files, but Origin Animations is similar to Actions & Stuff.
+
+- If 2nd plan fails, I'll be making a heavily modified Actions & Stuff v1.0.1, texture pack will be named "Better Legacy Actions", and that will be done before an Actions & Stuff update for Human Player Mobs. It will be 100% free. Downside is that i wont start until next year, too many plans.
+
+- Add more mobs.
+
+I'm supposed to move on from these, ive been doing this for 4 years, but i gotta finish developing my resource packs along while i work on other things such as art, animations, and other things. I'm a one-man studio

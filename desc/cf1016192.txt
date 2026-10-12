@@ -1,0 +1,89 @@
+FOLLOW THE CORRECT RESOURCES ACTIVATION ORDER
+
+You can see the changelog and other explainations with officer Jenny
+
+Getting Started
+
+To start a new game, enter in your world, choose your favorite region and your favorite starter Pokemon. Then you will receive your starter a beginner kit and 2 charges for your Pokevial. You can use the command "/pokereset @s" to reset your data if you want to start again or if you want to update or fix important bugs.
+
+Pokemon Villages
+
+The Pokemon center will be the most important structure of your adventure. It appear in the plains and the desert, there you will find everything you need to improve your gaming experience
+
+Battle System
+
+The battle system has many improvements, it is the same as the original games. It has mega evolutions, Dynamax and its own mechanic called "boost" that consumes experience to raise all stats by 3 turns!
+
+Make your own Monotype Master!
+
+In SERP Pokedrock, instead of searching the world for gyms, you can turn a Nitwit Villager into a Monotype Master. Interact with him to find out which master he will become. Then, complete his quest and face him in battle to get a badge!
+
+Totem Pokemon are back! Defeat them to earn special rewards.
+
+You can start a battle throwing your Pokemon (crouching and opening your menu) to a wild Pokemon or approaching a trainer
+
+Basic interactions with your Pokemon
+
+You can use your Pokedex to test your Pokemon's mount and evolutions. Some Pokemon evolve by item interaction or trading. ALL evolution methods are in the Pokedex, so check it regularly.
+
+Grazing Functions
+
+The PC now has a new button that lets you send your Pokemon out to roam around. With this function, your Pokemon will heal a little HP, increase their friendship, and attack nearby monsters! Look for the new "pasture" PC box and choose an action between returning it to the party or the PC.
+
+Pokemon Eggs
+Each egg offers different odds of obtaining better Pokemon, but the incubation is more likely to fail if the egg is rarer. The The types of eggs are: Common, Unusual, Peculiar, Exceptional and Extraordinary.
+
+Type Emblems are items you will find in villages or after defeating Totem Pokemon. Use them to craft boosting items and TMs.
+
+Pokeradar & Biome Detector
+
+The Pokeradar is a new feature that lets you search for Pokemon near you. In addition, the Pokedex now includes a biome detector to help you find specific Pokemon.
+
+Team Management
+
+-Toggle selection mode on and off by crouching and looking at the ground.
+
+-While crouching in selection mode, walk forward or backward to switch the selected Pokemon.
+
+-Stand up while in selection mode to summon or save the Pokemon you chose.
+
+Pokescanner
+
+Crouch down and aim your Pokedex at a Pokemon to scan it and view some of its stats. When you scan a Pokemon you have already caught, you will be able to see new information.
+
+Berry & Apricorn Plants
+
+Berry plants will appear in Pokevillages. You can plant new berries with their seeds, there are some recipes you can make with them!
+
+Apricorn plants will appear over the world. With its fruit you can create some Pokeballs!
+
+Ores & Mining
+
+When mining you will find some ores that will contain evo stones, mega stones, key stones or wishing stars. It will help you progress in your adventure and get improvements
+
+Transportation
+
+Now the Bike and the Ride pager can be obtained in the Game corner. It will serve as transport to reach more difficult or high places, also to explore more easily.
+
+Backpacks & Customization
+
+Now you can use backpacks! They function as a Bundle, but you can wear them in the chestplate slot and it give you armor.
+
+You can also paint your Pokedex and Backpack!
+
+Join the official Discord to receive news and development updates
+https://discord.com/invite/3txdQHt7TY
+
+Changelog v1.34.12
+
+-Added the Larvesta evolutionary line
+
+-Added Falinks
+
+-Added a new interaction system for your Pokemon
+
+-Added a new overworld biome: Volcanic Wasteland
+
+-Fixed some moves
+
+-Improved the P

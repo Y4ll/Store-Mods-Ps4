@@ -1,0 +1,149 @@
+Snail:
+
+This Mob May Seem Small But Has Some Incredible Uses
+
+Health: 4
+
+Spawn Location: Plains Biome
+
+Info: The snail will spend its day looking for grass to eat, when it turns to night the snail crawls back into its shell to sleep.
+
+Uses: When the snail eats grass, it occasionally drops a slime ball!
+
+Koi Fish:
+
+The Koi Fish Is An Amazing Animal To Have As A Pet
+
+Health: 6
+
+Spawn Location: Jungle Waters
+
+Info: The Koi Fish has three different variants; orange and black spots, orange spots only, and gold (the rarest).
+
+Uses: The Koi Fish can be eaten as food, currently it only drops cod but in the future, it will have its own food.
+
+Caterpillar:
+
+The Caterpillar Is A Hungry Creature
+
+Health: 4
+
+Spawn Location: Forest Biome
+
+Info: The Caterpillar will eat grass when it feels hungry, after the caterpillar eats two pieces of grass it will turn into a cocoon and eventually metamorphize into a beautiful butterfly.
+
+Uses: The Caterpillar can easily get large amounts of butterflies.
+
+Butterfly:
+
+After A Caterpillar Metamorphizes
+
+Health: 10
+
+Spawn Location: Flower Forest Biome
+
+Info: The Butterfly still has an appetite since turning from a Caterpillar which means it still eats grass. The butterfly comes in four variants; orange, yellow, blue, and purple. The Butterfly loves flowers.
+
+Uses: The Butterfly will help crops grow after eating grass!
+
+Cane Toad:
+
+The Frogs Grumpy Relative
+
+Health: 15
+
+Spawn Location: Spawns At Night In Swamps
+
+Info: The Cane Toad will massively breed when feed sugar cane. It can give birth it up to 8 children at once which makes the Cane Toad an invasive species. Unlike the frog, the Cane Toad does not hop around, thought it can eat larger slimes than the frog.
+
+Uses: The Cane Toad will help kill slimes.
+
+Cockroach:
+
+The Cockroach Is An Annoying Mob
+
+Health: 4
+
+Spawn Location: Spawns At Night In Wooden Houses
+
+Info: The Cockroach is a pest and will eat crops if it is hungry, when a player gets in close contact with the roach it will quickly burrow underground and reappear when it is safe.
+
+Uses: The Cockroach can be used to prank friends.
+
+Chimpanzee:
+
+The Chimpanzee The King Of The Jungle!
+
+Health: 15
+
+Spawn Location: Jungle Biomes
+
+Info: The Chimpanzee has a schedule it follows. During the day the Chimp will climb trees and grab apples from leaves, it will then eat the apple. When the Chimp is full for the day it will wonder the surroundings. Before night the Chimpanzee gets tired and sits down for a bit. Finally, the Chimpanzee goes to sleep.
+
+Uses: The Chimpanzee can be used as an alert for when it is about to turn night.
+
+Variants Update
+
+Skink:
+
+The Skink Is A Relative Of The Axolotl
+
+Health: 15
+
+Spawn Location: Spawns In Savanna and Dark Oak Biomes
+
+Info: The Skink is a small and cute reptile. It will run away from players and the dangerous fox and fennec fox.
+
+Uses: The Skink can be a pet for players.
+
+Duck:
+
+The Duck Is A Relative Of The Chicken
+
+Health: 4
+
+Spawn Location: Beach Biomes
+
+Info: The Duck is a simplistic mob and will spend most of its day swimming in water.
+
+Uses: Can be used to farm eggs.
+
+Fennec Fox:
+
+The Fennec Fox Is A Relative Of The Fox
+
+Health: 15
+
+Spawn Location: Desert Biomes
+
+Info: The Fennec Fox is a smaller version of the regular red fox. It will hunt rabbits and skinks. Instead of Sweet Berries, the Fennec Fox loves to eat chicken and turtle eggs.
+
+Uses: Can be used to kill rabbits and skinks.
+
+Critters Update
+
+Mole:
+
+<figure class="image"></figure>
+
+The Mole Is A Blind Critter
+
+Health: 15
+
+Spawn Location: Rarely Spawns In Dark Oak And Swamp Biomes
+
+Info: The Mole is a rare blind mob. It uses hearing to locate and eat prey, it loves to eat skinks. The mole is almost invisible when moving because it burrows underground, prey will not be able to see moles. Design inspired by Minecraft Dungeons.
+
+Uses: Can be used to hunt small creatures.
+
+Locust:
+
+<figure class="image"></figure>
+
+The Locust Is A Spring loaded Critter
+
+Health: 4
+
+Spawn Location: Most Biomes
+
+Info: The Locust

@@ -1,0 +1,35 @@
+Miracle Storis Addon
+
+Number of talismans: 13 (Rabbit, Snake, Dragon, Butterfly, Bee, Ox, Ladybug, Cat, Peacock, Horse, Turtle, Fox) plus their kwamis.
+
+Unique mechanics and details:
+
+-
+
+Animations and interface: Custom transformation animation, opening yoyo menu.
+
+-
+
+Interaction with kwamis: You can mute a kwami, force it to use its power, or prevent it from flying beyond a certain radius.
+
+-
+
+Miraculous boxes and obtaining: Boxes for talismans are present, along with a mechanic to obtain a talisman from a box.
+
+-
+
+Customization: Change costumes for Ladybug, Cat, Hawkmoth, Turtle, Fox.
+
+-
+
+Communication: Ability to message another player through a weapon (e.g., Cat's staff).
+
+-
+
+Weapon modes: Implemented so far for Cat's staff can switch between tossing and throwing.
+
+-
+
+Decorations: Marinette's and Adrien's bags, Guardian's staff, rings.
+
+By LZR Studios Team

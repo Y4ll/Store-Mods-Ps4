@@ -1,0 +1,115 @@
+Fallen-Warrior addon is a dark fantasy and history-inspired adventure addon for Minecraft Bedrock Edition.
+
+The Lore
+
+Long ago, the kingdom of Aurelian Valorblade stood as a powerful civilization ruled by warriors and knights. But something went terribly wrong. The kingdom fell, its warriors disappeared, and a mysterious curse remained behind.
+
+Now, the remnants of Aurelian can still be found throughout the Overworld.
+
+The ancient kingdom was sealed away for a reason.
+
+And after defeating the Ender Dragon, you may have just become strong enough to break that seal.
+
+Structures
+
+Abandoned Training Ground
+
+Abandoned Blacksmith
+
+Abandoned Watchtower
+
+Abandoned Inn
+
+Bandit Camp
+
+Aurelian Monument
+
+Progression
+
+1. Defeat the Ender Dragon
+
+Your journey begins after defeating the Ender Dragon.
+
+Once the dragon falls, an ancient seal can finally be disturbed.
+
+Break the seal and begin the search for Aurelian.
+
+2. Find Aurelian Castle
+
+Somewhere within the Overworld lies the forgotten Aurelian Castle.
+
+Search the world and find its entrance.
+
+Explore the castle carefully. The remains of Aurelian Valorblade hide more than just its history.
+
+Deep within the castle, you will discover an ancient altar.
+
+3. Awaken the Aurelian Valorblade
+
+Find the Aurelian Valorblade Altar.
+
+The altar is dormant, but it can still be awakened.
+
+Use Flint and Steel on the altar to ignite it.
+
+Something from Aurelian's past will answer the call.
+
+Defeat the Aurelian Valorblade.
+
+But defeating him does not end the curse.
+
+Instead, it breaks another seal.
+
+4. The Final Seal
+
+With the Aurelian Valorblade defeated, the final seal is released.
+
+The curse begins to spread throughout the Overworld.
+
+Now, Wraiths can be found wandering the world.
+
+Hunt them down.
+
+But do not simply kill them.
+
+You need what remains inside them.
+
+5. Collect the Souls
+
+Defeat the wandering Wraiths and collect their souls.
+
+Use an Empty Bottle to capture them and create a Bottle O'Soul.
+
+You will need to collect enough souls for what comes next.
+
+6. Prepare the Soul Cauldron
+
+Craft a Cauldron and prepare it for the ritual.
+
+Place your collected Bottle O'Soul into the Cauldron.
+
+The souls are not just trophies.
+
+They are the key to awakening what lies beyond the final seal.
+
+7. Face the Final Boss
+
+Once the ritual is complete, the curse will reach its final stage.
+
+Something far more powerful is waiting on the other side.
+
+Prepare your strongest equipment.
+
+Gather your supplies.
+
+And finish what began with the fall of the Ender Dragon.
+
+The final boss awaits.
+
+What changes after defeating the Ender Dragon?
+
+After defeating the Ender Dragon, Villages will gain Aurelian Knights who help protect the villagers.
+
+Additionally, due to the distortion caused by the Ender Dragon's defeat, Peasant Zombies will begin spawning naturally throughout the world.
+
+NB: This addon is currently unfinished and still in development. Some features, mechanics, structures, entities, and progression may be incomplete, experimental, or subject to change. More content and improvements will be added in future updates. (I hope)

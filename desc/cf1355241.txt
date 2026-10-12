@@ -1,0 +1,229 @@
+Nearly every plant from the original game has been added, as well as most zombies. This addon transforms survival into a true tower defense challenge, blending Minecrafts sandbox mechanics with the fun strategy of PvZ.
+
+**List of Plants**
+
+Day Plants
+
+Peashooter
+
+Sunflower
+
+Cherry Bomb
+
+Wall-Nut
+
+Potato Mine
+
+Snow Pea
+
+Chomper
+
+Repeater
+
+Night Plants
+
+The mushrooms sleeps during the day. You can wake them up using Coffee Bean.
+
+Puff-Shroom
+
+Sun-Shroom
+
+Fume-Shroom
+
+Gravebuster
+
+Hypno-Shroom
+
+Scaredy-Shroom
+
+Ice-Shroom
+
+Doom-Shroom
+
+Pool Plants
+
+Lily-Pad
+
+Squash
+
+Threepeater
+
+Tangle-Kelp
+
+Jalapeno
+
+Spikeweed
+
+Torchwood
+
+Tall-Nut
+
+Fog Plants
+
+Sea-Shroom
+
+Plantern
+
+Cactus
+
+Blover
+
+Split-Pea
+
+Starfruit
+
+Pumpkin
+
+Magnet-Shroom
+
+Roof Plants
+
+Cabbage-Pult
+
+Flower Pot
+
+Kernel-Pult
+
+Coffee Bean
+
+Garlic
+
+Umbrella Leaf
+
+Marigold
+
+Melon-Pult
+
+Premium Plants
+
+Gatling-Pea
+
+Twin Sunflower
+
+Gloom-Shroom
+
+Cattail
+
+Winter-Melon
+
+Gold Magnet
+
+Spikerock
+
+Cob Cannon
+
+Icy Fume-Shroom
+
+Imitater
+
+The Imitater replicates any plant except the Gravebuster and Coffee Bean by recording the last plant you used, even if it is on cooldown, and transforming into it. You can check which plant will be replicated in the Imitater's Packet Lore
+
+The zombies in this Plants vs Zombies addon come in various types, each with unique abilities. From slow, basic zombies to powerful ones like Buckethead and Gargantuar, each wave brings a greater challenge. Some zombies even come with armor or special powers, making them even harder to defeat.
+
+**List of Zombies**
+
+Basic Zombie
+
+Flag Zombie
+
+Conehead Zombie
+
+Pole Vaulting Zombie
+
+Buckethead Zombie
+
+Newspaper Zombie
+
+Screendoor Zombie
+
+Football Zombie
+
+Dancing Zombie
+
+Backup Dancer Zombie
+
+Ducky Tube Zombie
+
+Flag Ducky Tube Zombie
+
+Conehead Ducky Tube Zombie
+
+Buckethead Ducky Tube Zombie
+
+Snorkel Zombie
+
+Zomboni
+
+Zombie Bobsled Team
+
+Dolphin Rider Zombie
+
+JackInTheBox Zombie
+
+Balloon Zombie
+
+Digger Zombie
+
+Pogo Zombie
+
+Yeti Zombie
+
+Bungee Zombie
+
+Ladder Zombie
+
+Catapult Zombie
+
+Gargantuar
+
+Imp Zombie
+
+Brickhead Zombie
+
+Trashcan Zombie
+
+Zombotany variants
+
+**All Items**
+
+Flag Plain
+
+This item deals 3+ damage and is obtained as a drop from the Flag Zombie. It is a key component that can be crafted into the Flag of Sun, which is required to unlock the next category in the Almanac.
+
+Almanac
+
+This item is the main currency used to purchase plants from the Almanac. Initially, only the Day Plants category is available, but you can unlock other plant categories using the Flag of Sun.
+
+Sun Blessing
+
+This special item significantly accelerates your resource production: it reduces the cooldown of sun-producing plants by 30 seconds, increases the chance of suns dropping from the sky more frequently than usual, and instantly grants +150 sun per item used.
+
+Flag of Sun
+
+The Flag of Sun is an item used to unlock more categories in the Almanac and buy more plants. It is activated simply by using it.
+
+Fog Machine
+
+The Fog Machine is an environmental object that can be turned on or off via interaction. Its fog effect persists until the machine disappears when countered by the Blover.
+
+Mallet
+
+This single-use item deals 20 damage with unavoidable knockback. It breaks after use and is dropped by zombies.
+
+Basic Shovel
+
+This tool is used to permanently remove planted plants from the field of play without returning them to packet form. It has the potential to be upgraded into the Trans Shovel.
+
+Trans Shovel
+
+This item or ability serves as an efficient unplanter, removing already planted plants from the field of play and converting them back into their packet form, allowing for their reuse elsewhere.
+
+Watering Can
+
+The Watering Can is used to water flower pot blocks so that the plants inside can grow or function optimally.
+
+Wall-nut Bowling
+
+This item instantly spawns a Wall-nut that rolls in the direction of the player, dealing 25 damage upon impact. This item comes in three main variants: the Normal, the Explosive, and the Giant type.
+
+Flower P

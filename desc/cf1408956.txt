@@ -1,0 +1,126 @@
+Armors Overhaul - Enhanced Armor System
+
+Transform Your Armor into Powerful Tools of War
+
+Armors Overhaul reimagines armor sets in Minecraft Bedrock Edition. Each set includes unique passive effects, full-set bonuses, and active abilities with particle effects.
+
+Key Features
+
+Feature
+Description
+
+7 Unique Armor Sets
+Each with its own identity, visual effects, and mechanics
+
+Active Abilities
+Hold Shift + Right Click to charge and unleash devastating powers
+
+Passive Effects
+Continuous bonuses while wearing armor pieces
+
+Full Set Bonuses
+Powerful enhancements when wearing complete sets
+
+Custom Particles
+Unique textures and geometric patterns for each ability
+
+Armor Sets
+
+Armor
+Passive
+Full Set
+Active Ability
+
+Armadillo
+Resistance
+Super Resistance
+Earth Shield - Geodesic dome that reflects projectiles
+
+Bone
+Fears undead
+Necromancer
+Dark Invocation - Summons altars that spawn skeletons
+
+Prismarine
+Water breathing
+Ocean Master
+Tsunami - Massive water waves that push enemies
+
+Shulker
+Levitation control
+Telekinesis
+Dimensional Portal - Levitates and groups enemies
+
+Slime
+Bounce effect
+Super Bounce
+Bounce Field - Slime pool with expanding particles
+
+Turtle
+Shell protection
+Ancient Turtle
+Massive Healing - Heals you and allies with shields
+
+Wither
+Wither immunity
+Wither Lord
+Devastating Waves - Expanding darkness that destroys blocks
+
+V1.9 UPDATE !
+
+V1.8 UPDATE !
+
+V1.7 UPDATE !
+
+V1.6 UPDATE !
+
+V1.5 UPDATE !
+
+V1.4 UPDATE !
+
+V1.3 UPDATE !
+
+V1.2 UPDATE !
+
+SHOWCASE
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Best Addon
+
+Toggle Capitators : Activate/deactivate by crouching while using the items .
+
+Smart Notifications: Grab any item to receive instant toggle instructions
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+JOIN DISCORD --> Click Here
+
+Permission to use textures from : Torrezx

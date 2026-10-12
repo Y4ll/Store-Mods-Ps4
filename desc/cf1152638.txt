@@ -1,0 +1,41 @@
+So yeah, this is DAV(I shortened it because the name is too long lol). With this addon, it allows you to see your armor and offhand on the HUD along with other info like durability or stack count. You can also customize it however you like, for example if you want offhand slot only, or armor only.
+
+How do you use it? Yeah, its easy. You just install it and adjust the layout using subpacks. There are several types, like the default one, beside the hotbar, or the same style as the hotbar.
+
+Note: this addon uses images instead of a renderer, so there is no enchant glint, no armor trim. Yeah, shikatanai, JSON UI is really limited. It also does not support custom armor unless it is added manually(read the tutorial below).
+
+So, how do you add custom armor to this addon? Easy, you just need to follow these steps.
+
+check identifier and texture path:
+
+First, check your custom armor. If you are the addon creator, you probably already remember the identifier, so you can skip straight to the adding step. If not, just go in game, wear the armor, then type the command /setting, press the armor button, and write down the identifier.
+
+add identifier and texture path:
+
+You already know the identifier, right? Now lets add it. Open the resource pack folder
+dav/ui/dimz_modules/durability_armor_viewer/item_id.json
+
+Then just add code like this inside the list:
+"#example:dimz_helmet": "textures/items/example_helmet"
+
+Then you can test it in game.
+
+Or if you dont want to bother using the steps above, you can request me to make this addon compatible with other custom armor addons, just chat me on Discord.
+
+Required Dependencies(important!)
+
+very necessary for the addon to work
+
+UI Neck
+
+Showcase Video
+
+watch if you don't understand or want to know how it works!
+
+Join Our Community
+
+discussions, submit suggestions, report bugs and more
+
+Discord Server | Telegram Group | Whatsapp Group(+62 only)
+
+Reference: control panel | minecraft java settings ui, sodium

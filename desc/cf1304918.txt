@@ -1,0 +1,29 @@
+Added 8 more blocks, the unfortunate block that breaking it most of the time bad things will happen, the Good Luck block that almost always good things will happen and five more blocks like :
+
+Lucky Mobs, a block that only generates mobs
+
+Lucky Structures, a block that only generates structures.
+
+Lucky Drops, a block that only generates drops.
+
+Lucky PvP, a block that only generates items for PvP...
+
+Withered lucky block, This block is very special and generates unique weapons.
+
+In addition, the fountain is fully functional, to make it work you only have to throw an object into the water.
+
+Crafting
+
+To get a good luck block, you must throw an experience bottle at a lucky block.
+
+To get an unlucky block, lightning must hit a lucky block or you must kill a witch very close to a lucky block.
+
+The lucky block withered is obtained by killing wither skeletons with a 20% chance
+
+The lucky block works in all dimensions and worlds while experimental mode is active.
+
+Now you can find the armor and sword of luck.
+
+Report error to my Discord Effect99 Community
+
+It can be played in multiplayer without problems.

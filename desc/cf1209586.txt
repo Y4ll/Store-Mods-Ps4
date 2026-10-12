@@ -1,0 +1,81 @@
+Discover breathtaking biomes, fight off new foes, build with new blocks, craft new items, plus more with Biomes & Beyond!
+
+Biomes & Beyond is the successor of Expansive Biomes that improves the game by adding a ton of new content, while aiming to keep a semi-vanilla feel.
+
+Do not distribute this add-on in any way other than for personal use, unless given permission.
+
+Here's what you will find within Biomes & Beyond:
+
+Biomes:
+
+Aspen Forest
+
+Lavender Fields
+
+Autumn Woods
+
+Badlands
+
+Prairie
+
+Savanna
+
+Deciduous Forest
+
+Pendula Birch Forest
+
+Boggy Swamplands
+
+Forsaken Depths
+
+Chorus Forest
+
+Velvium Expanse
+
+Depraved Wetlands
+
+Twilight Grove
+
+Clover Field
+
++ more to find!
+
+Mobs:
+
+Deer
+
+Passive mobs that will avoid players, villagers, and pillagers. They will drop venison, deer antlers, leather and a rare chance to drop a deer trophy when killed. They can be fed carrots to breed.
+
+You can also find the rare white deer and have an even rarer chance to obtain the SUPER rare white deer trophy...phew, so many rares!
+
+Grizzly Bear
+
+Neutral mob that will attack players if provoked or if a player comes too close. Can be bred using honeycomb, but it's dangerous. Drops grizzly pelt when killed.
+
+Raccoon
+
+Adorable neutral mobs that will attack players if angered. They will avoid players, and are nocturnal and will sleep during the day similar to foxes. They will eat crops, and pickup most food items and eat them. They are afraid of carved pumpkins, so they are a good way to prevent raccoons from eating crops. To tame raccoons, sneak and feed them bread.
+
+Crocodile
+
+Spawns primarily in water, where it is fastest, and will attack most mobs. Drops Crocodile meat when killed. Cannot be bred.
+
+Mummy
+
+An ancient corpse from a past civilization wrapped in dirty cloth. Drops paper, gold and rotten flesh when killed.
+
+Warthog
+
+Warthogs are passive creatures found in the Savanna biome, attacking players only when provoked. Players can saddle up a Warthog and ride it using a carrot on a stick, much like riding pigs. Warthogs occasionally dig through nearby blocks in search of food, sometimes unearthing other items in the process. When they find food, they will eat it. These creatures closely resemble the Nether's Hoglins and will transform into Hoglins if they stay in the Nether too long.
+
+Dweller
+
+Dwellers are mysterious cave-dwelling monsters found within the Forsaken Depths. They inhabit deep caves, spawning between levels -63 and 8. Although their eyesight is poor, they compensate with a keen sense of smell and acute hearing. Periodically, they will seek out players within a 24-block radius and attack once within 6 blocks. If the player runs outside this range without being hit, the Dwellers temporarily lose sight of them. Dwellers have a strong hatred to fire, making torches, standing torches, campfires, and lanterns effective repellents. While they can destroy torches, they are unable to break standing torches, campfires, and lanterns. Their origin is unknown, but they are believed to be long-lost adventurers who couldn't find their way out of the deep cave systems. Over time, they were slowly overcome by the darkness, leading to mutation and a loss of all sense of who they once were.
+
+Lurker
+
+Lurkers are a newly introduced hostile mob found deep within the Forsaken Depths. They're known for their haunting cries, which can be heard from far away. Generally, they try to avoid conflict but become hostile if a player gets too close. When attacked, they blind the player and then flee, continuing to cry. Similar to Dwellers, the darkness has severely impaired their vision, so they rely heavily on sound and smell. It's believed that they cry because they have faint memories of their former selves and dislike having players nearby.
+
+Spectre
+
+Spectres are hostile mobs in the Forsaken Depths. They are surrounded by a thick black mist and have bright white eyes that shine through the darkness. They will vanish and sometimes even attack if looked at or if a p

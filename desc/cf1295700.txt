@@ -1,0 +1,47 @@
+Socials
+
+Discord: Click here!
+
+Twitter: Click here!
+
+YouTube: Click here!
+
+Matt's Seal Knife
+
+Matt's Butterfly Knife
+
+Matt's Kukri Knife
+
+Seal Knife
+
+Nata Knife
+
+Flip Knife
+
+Karambit
+
+M9 Bayonet
+
+Kukri
+
+Seal Cleaver
+
+Butterfly Knife
+
+Installation & Information
+
+1. Knives can be found in the swords section:
+
+2. Health and damage is based on Minecraft's default hearts.
+
+3. Skins are not available yet, but I plan to add them in future updates based on feedback!
+
+4. Some knives can inspect! to inspect, simply crouch / shift.
+
+5. 3D drops!
+
+Important Information
+
+Unfortunately, even with the latest bedrock capabilities, the knives require a player.json in order to register when the player is hitting. It will be removed once we're able to register hits without it!
+
+Do not enable this addon with Actual Guns 2, you already have the knives there, silly!

@@ -1,0 +1,71 @@
+In order to remain unique, Thermonuclear Expansion, requires that you undergo a process very similar to what is used in real life to craft Nuclear weapons. This includes extracting both fissile, and inert uranium, refining it, and then building a nuclear reactor to bombard the uranium with neutrons to transmute it into plutonium, which can then be used to craft nuclear weapons.
+
+This addon does NOT require any experiments to be turned on in order to function. It is, however, still missing a lot of features that I hope to add sometime in the future.
+
+Guide
+
+Craft Refiner.
+
+Smelt redstone blocks to create Uranium Dust (Uranium-238).
+
+Smelt redstone dust to create Fissile Uranium (Uranium-235)
+
+Using a crafting table, craft 9 Fissile Uranium into a Uranium Fuel Rod block.
+
+Craft the uranium dust in a Refiner to create a Uranium Block.
+
+Place the Uranium Fuel Rods down and waterlog them. If they are not waterlogged, they
+
+will meltdown, and explode. Once that is done, place a Uranium Block on top of the fuel
+
+rods, and it will begin to transmute into Neptunium.
+
+Once the Uranium has transmuted in Neptunium, it will need to be removed from the
+
+reactor, and placed elsewhere. Do this carefully, as both the reactor and Neptunium are
+
+extremely radioactive. After a period of time has elapsed, the Neptunium (left) will
+
+transmute into Plutonium (right).
+
+Using 4 iron blocks, 4 tnt, and one Plutonium block, you can craft a basic atomic bomb. This device is activated via a timer, and will explode after 10 seconds.
+
+Hydrolysis is the process of separating the hydrogen and oxygen from water using electricity.
+
+Using 8 glass blocks, you can craft a casing for the deuterium (hydrogen).
+
+Placing the casing in water over a redstone block will begin the process of hydrolysis. This will only take a couple of seconds.
+
+Coal blocks can be smelted in a furnace to turn them into graphite.
+
+Using a Refiner, you can craft 2 graphite, and 2 Deuterium to create 16 blocks of Polystyrene Foam,
+
+also known as Styrofoam.
+
+The Polysterene Foam can be smelted in a furnace to create a melted polymer. (Don't do this IRL, it's
+
+really bad for you and smells terrible).
+
+Smelting charcoal in a furnace produces activated carbon.
+
+Using Melted Polymers, and Activated Carbon, you can craft a hazmat suit. The suit will not work unless every part is worn, and even then it will only provide protection against the some of the radiation damage from radioactive materials. Below are the crafting recipies.
+
+Mask:
+
+Top:
+
+Bottom:
+
+Boots:
+
+Full armor set:
+
+Thermonuclear Missile. This missile can be launched in the overworld, and can reach anywhere that is loaded. If you target coordinates that are unloaded, then nothing will happen.
+
+Using 3 iron blocks, 4 Polystyrene Foam, 1 Plutonium Block, and 1 Fissile Uranium, you can craft a warhead for a Thermonuclear Missile.
+
+To create the fuselage, craft 6 iron blocks, 2 gunpowder, and 1 netherite scrap.
+
+Once the Warhead and Fuselage are crafted, you can combine them together to make a Thermonuclear Missile.
+
+Thermonuclear Missile.

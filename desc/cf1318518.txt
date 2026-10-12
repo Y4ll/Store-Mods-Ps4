@@ -1,0 +1,29 @@
+Introduction to the Jigsaw Structures City Mod Pack
+
+This is a Minecraft BE module pack based on the jigsaw puzzle structure, bringing naturally generated random cityscapes to the game. Its core mechanism was inspired by the introduction of jigsaw puzzles in the Minecraft creator's documentation.
+
+When you install this expansion pack, your rural village will transform into a modern metropolis spanning over 200200 meters.
+
+The city features interconnected roads and pedestrian walkways, diverse apartment complexes with complete interior designs, and specialized infrastructure.
+
+It also refreshes some reward chests and eliminates monsters that previously hindered your urban development.
+
+How to Experience
+
+To experience the latest version, download BR'sRandamCity2.5.addons
+
+Randam_City.mcpack It's an early beta, so I'm keeping it there as a memento.
+
+When creating the world, after installing the behavior pack and resource pack, make sure to open all experimental content
+
+Then look around the world for plains, and you'll have a chance to encounter city structures, or command bar input/locate structure Minecraft: Village (note that you need to find a plain village)
+
+You will see its huge outline at the edge of the city.
+
+Current Status
+
+The module remains actively updated, with plans to introduce a new version featuring a decaying urban environment. You can add other modules to the base of this module, such as car zombies, to enrich your game experience.
+
+The massive city structure may cause block generation delays during gameplay keep an eye out for this potential issue.
+
+Feel free to share your feedback in the comments section! I'll be monitoring it regularly and making improvements as needed.

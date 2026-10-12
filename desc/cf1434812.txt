@@ -1,0 +1,60 @@
+PocialJ Frosty 16x - Bedwars & Skywars PvP
+
+Enhance your competitive experience with PocialJ Frosty 16x, a texture pack specifically designed for high-stakes Bedwars and Skywars gameplay. This pack focuses on maximizing visibility, improving frame rates, and providing a clean aesthetic that removes distractions during combat.
+
+Main Features:
+
+- Optimized Combat: Includes short swords and slimmed-down tool models to increase your screen real estate.
+
+Swords:
+
+Pickaxe:
+
+- Clear Visibility: Low-fire textures, allows you to see clearly even if you are on fire.
+
+- Performance Boost: Lightweight 16x16 textures designed to maintain high FPS during intense bridge fights.
+
+- Clean Visuals: Outlined ores and wools for better visual look.
+
+Ores:
+
+Wools:
+
+- Custom Sky: A beautiful custom skybox.
+
+Why Choose This Pack?
+
+Unlike standard packs, this was built with the competitive player in mind. Every texture has been tweaked to ensure that you can spot enemies faster and react more quickly without the clutter of vanilla Minecraft.
+
+DOs
+
+Do use this pack for your personal gameplay.
+Do share the CurseForge link if you want to recommend it to others.
+Do report bugs, feedback, or feature requests in the comments.
+Do credit this pack by name if you feature it in videos or streams.
+Do include my CurseForge page link when showcasing or reviewing.
+
+DONTs
+
+Dont redistribute this texture pack anywhere outside CurseForge (e.g., other websites, Patreon, direct downloads).
+Dont reupload my pack under your own name.
+Dont change the pack name and claim it as your own.
+Dont modify and share a copy without clearly stating its a derivative and linking back to the original.
+Dont include this pack in modpacks/resource pack collections without permission.
+Dont remove credit or skip attribution if you showcase it publicly.
+
+Installation:
+
+-
+
+Download the .mcpack file.
+
+-
+
+Double-click the file to automatically import it into Minecraft Bedrock.
+
+-
+
+Go to Settings > Global Resources and activate the pack.
+
+THIS PACK IS NOT FINAL

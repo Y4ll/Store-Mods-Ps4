@@ -1,0 +1,75 @@
+Refined Dogs is a resource pack that aims to expand upon the wolf, adding 50+ breeds and 60+ textures to the game.This pack was originally created by sulep for Java Edition and was ported by me, Parzival to Bedrock Edition.
+
+Note: This pack is in early version for both Java and Bedrock, Things such as puppy models, variants, and animation will be added in the future!
+
+In case you want a specific breed, that can be done using nametags!
+
+Using the names on the right (which are linked to the breeds on the left) you can rename the nametag in an anvil to the same name. When you right click a tamed wolf with it, it will change the texture
+
+NAMETAGS (COPY):
+
+tibetan
+dane
+bernard
+wolfhound
+pyrenees
+gs
+bernese
+borzoi
+dogo
+boxer
+gsd
+doberman
+husky
+rottweiler
+poodle
+golden
+lab
+cane
+rhodesian
+staffordshire
+pitbull
+silken
+australian
+dalmation
+bc
+malinois
+samoyed
+cattle
+bull
+gsp
+toller
+xoloitzcuintli
+chihuahua
+cavalier
+xolo
+pug
+jrt
+pomeranian
+beagle
+schnauzer
+yorkie
+boston
+frenchie
+dachsund
+basset
+ebd
+bt
+mas
+maltese
+mpood
+corgi
+
+gabba
+colorful
+spotted
+naturalcc
+brwnccnatural
+ccblack
+blacklbr
+brownlbr
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

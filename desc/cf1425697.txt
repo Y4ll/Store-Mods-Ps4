@@ -1,0 +1,19 @@
+True Connected Textures
+
+This behavior pack and resource pack work together to make the glass borders in Minecraft connect!
+
+No special crafting, no hassle, just make some glass and place it down! This doesn't update existing windows in your Minecraft worlds, but all you have to do is rebuild your windows. You can use silk touch to get the item and put it back to update the window.
+
+Does NOT require Beta APIs! NO CHEATS!
+
+The glass panes and colored glass also don't connect, so if you still want a blocky window, you can use them!
+
+Thank you so much for checking out this pack!
+
+Please report any issues in the comments.
+
+Also, if you remove the resource pack and behavior pack, you'll need to replace your glass blocks.
+
+Special credit to Yuuuugo for creating the code that makes this pack possible!
+
+BTW I built the house in the pic myself so I hope you like it (=

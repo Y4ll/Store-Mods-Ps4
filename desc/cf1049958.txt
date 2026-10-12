@@ -1,0 +1,41 @@
+How to get the recipes for emerald armor and emerald tools?
+
+Emerald armor and tools are made like vanilla Minecraft armor, but to see them on the crafting table as a quick recipe you have to have obtained at least one emerald.
+
+Emerald Armor:
+
+Protection: 16
+
+Durability: Medium
+
+TOOLS:
+
+Sword
+
+-Damage: 6
+
+-Durability: 240
+
+Axe
+
+-Damage: 5
+
+-Durability: 240
+
+Pickaxe
+
+-Damage: 4
+
+-Durability: 240
+
+Hoe
+
+-Damage: 4
+
+-Durability: 240
+
+Shovel
+
+-Damage: 3
+
+-Durability: 240

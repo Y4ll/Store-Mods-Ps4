@@ -1,0 +1,71 @@
+English
+
+Imagine having a personal assistant that not only cleans up your world but teaches you exactly what's consuming your resources. This Bedrock add-on is your real-time performance analyst: it identifies lag sources, shows you where the bottlenecks are, and gives you the tools to fix them without destroying what you've built. It's like having X-ray vision for your world's performance, combined with a butler that keeps everything running at peak efficiency while you focus on playing.
+
+Intelligent Entity Management System
+
+The optimizer incorporates a dynamic tagging system that allows you to classify mobs and dropped items in real-time, offering complete control over what stays and what gets removed.
+
+Valuable Entity Protection Important entitiespets, villagers, named mobs, and mountscan be marked as protected, guaranteeing their permanent preservation during any cleanup process.
+
+Automatic and Manual Cleanup Disposable elements, overflowing items, and non-essential spawns can be tagged for automatic or manual removal as needed, keeping your world free of unnecessary clutter.
+
+Configurable Limits For environments with high entity density (mob farms, massive builds, crowded servers), the system allows you to set configurable limits that prevent world saturation.
+
+Intelligent Auto-Optimizer Automatically activates when defined thresholds are exceeded, removing only permitted entities while respecting all established protections. Starts with a conservative approach that can be progressively adjusted based on gameplay experience.
+
+Safety Reset System Allows you to revert deletion lists without affecting protected entities, offering complete control and peace of mind over the optimization process.
+
+Visual and Performance Optimizations (FPS)
+
+Low-impact visual adjustments calibrated to increase FPS without significantly altering the game's aesthetics, preserving critical milliseconds in combat and movement fluidity.
+
+V-Sync Deactivation Releases additional frames on compatible devices, especially beneficial on low-end hardware. May generate screen tearing in some cases, but on older or low-performance devices, the FPS increase amply compensates for this visual effect.
+
+Particle Reduction
+
+- Campfires: Significant decrease in smoke particles
+
+- Fire: Reduction of effects both on burning blocks and burning entities
+
+- Weather effects: Minimization of snow particles and water effects during rain
+
+Visibility Improvements
+
+- Spyglass: Enhanced visibility when using this item
+
+- Pumpkin: Greater transparency and visibility when worn
+
+- Villager interface: Unlocked trades
+
+Licensing and Compatibility
+
+Multilanguage Support The add-on includes full English support, with expansion capability to other languages.
+
+Launch offer: $9.34 USD (In Version Premium)
+
+Discord: KenZX5558
+
+Compatible Modes
+
+- Survival
+
+- PvP (Player vs Player)
+
+- Cooperative multiplayer
+
+- Compatible with MCPE (Minecraft Pocket Edition)
+
+Donations
+
+https://paypal.me/KennethRaudales?locale.x=es_XC&country.x=HN
+
+Spanish:
+
+Imagina tener un asistente personal que no solo limpia tu mundo, sino que te ensena exactamente que esta consumiendo tus recursos. Este complemento para Bedrock es tu analista de rendimiento en tiempo real: identifica las fuentes de lag, te muestra donde estan los cuellos de botella y te da las herramientas para solucionarlos sin destruir lo que has construido. Es como tener rayos X para ver el rendimiento de tu mundo, combinado con un mayordomo que mantiene todo funcionando al maximo mientras tu te concentras en jugar.
+
+Sistema de Gestion Inteligente de Entidades
+
+El optimizador incorpora un sistema de etiquetado dinamico que permite clasificar mobs y objetos caidos en tiempo real, ofreciendo control total sobre que permanece y que se elimina.
+
+Proteccion de Mobs Especiales Tienes un zombie con armadura completa de diamante como pieza de coleccion? Un creeper cargado que conseguiste despues de horas? Protege mobs unicos individualmente con un item e

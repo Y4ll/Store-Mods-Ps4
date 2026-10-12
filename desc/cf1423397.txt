@@ -1,0 +1,84 @@
+More Crops / More Food / New Crops / New Foods
+
+This is a Minecraft Bedrock Edition addon ported from the Java Edition project Crops Overhaul Texture Pack. While the original project was a texture pack, this version has been converted into a Bedrock addon that adds new crops and food items to the game as additional content, without removing or replacing existing vanilla crops.
+
+The addon introduces Corn, Tomatoes, Avocados, and Broccoli as fully functional crops, along with multiple related food items. Vanilla crops such as Wheat, Potatoes, Carrots, and Beetroot remain unchanged and continue to function normally.
+
+Most textures used in this addon come from the original texture pack created by JerryJace.
+
+Features
+
+New Crops:
+
+- Corn crop + Corn Seeds
+
+- Tomato crop + Tomato Seeds
+
+- Avocado crop (Grow by planting Avocado)
+
+- Broccoli crop (Grow by planting Broccoli)
+
+Tips on New Crops
+
+- Find seeds/plantable crops from breaking leaf litter (1/6 chance of seed drop).
+
+- Plant the crops on tilled soil near water with a high light level.
+
+- Currently crops connect to fences and have some other quirky behaviors. This will be fixed with a future update.
+
+New Items and Foods:
+
+- Corn
+
+- Corn Seeds
+
+- Cornbread
+
+- Corn Cookie
+
+- Corn Cake (Works like Vanilla Cake but w/o Candle Functionality)
+
+- Corn Bale
+
+- Tomato
+
+- Tomato Seeds
+
+- Tomato Soup
+
+- Avocado
+
+- Golden Avocado
+
+- Broccoli
+
+- Baked Broccoli
+
+- Poisonous Broccoli
+
+Image of the new foods:
+
+Image of the new crops and blocks:
+
+All crafting recipes are available through the in-game recipe book.
+
+This add-on is compatible with my own custom (non-ported) food add-onsplace my packs above this one in the load order.
+
+Permissions and Credits:
+
+Original Java Edition texture pack by JerryJace:
+https://www.planetminecraft.com/texture-pack/crops-overhaul-texture-pack/
+
+The original creator, JerryJace, states on the original project page:
+
+I GIVE YOU THE RIGHT TO DO WHATEVER YOU WANT WITH THIS CONTENT, AS LONG AS YOU DON'T CLAIM IT AS YOUR OWN.
+
+This addon is a Bedrock Edition port and adaptation of that original work. Full credit goes to JerryJace for the original textures and concept.
+
+No Player.json - Achievement Friendly - Realm Friendly
+
+DISCORD SERVER: Loyallay's Discord Server
+
+Please delete the old version from your device before installing any update version
+
+Check out my profile for other Add-ons, Texture Packs, Worlds, and Skin Packs!

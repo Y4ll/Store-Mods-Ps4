@@ -1,0 +1,7 @@
+This is Glacier V6, a premium yet completely free texture pack for Minecraft Bedrock Edition, built to enhance both visuals and performance Designed to run smoothly on any device, it delivers optimized graphics, cleaner visuals, and deep HUD customization so you can tailor every detail to your playstyle. Perfect for players who value precision, performance, and personalization, and trusted by a growing global community. Download V6 now and enjoy the ultimate Christmas gift from Glacier
+
+V6 is here with a massive mod menu and UI overhaul, bringing a complete redesign with brand new module icons, clean information hover toggles, and a fully unified editor where Hotbar, Crosshair, and Display customization now live in one place The new Paperdoll replaces ArmorHUD and is visible across multiple containers, giving you better awareness without clutter.
+
+Navigation on mobile is faster and smoother than ever with new movable and resizable F1 Hide HUD and F8 Paperdoll shortcuts plus the Easy Hotbar feature introduces a Hotbar Swapper that makes switching and navigating significantly quicker and more intuitive.
+
+Customization gets a huge boost with reworked Waypoints featuring a new beacon style sound and improved activation The EXP Bar now includes 8 new colors along with a full RGB option The Music Player lets you access all music discs directly in game Shiny Potions are back with improved stability and Containers have been fully overhauled with clearer guides and a new Creative-only Trash button

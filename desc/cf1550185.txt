@@ -1,0 +1,27 @@
+Welcome to the Ultimate X-Ray Pack for Minecraft Bedrock Edition. This pack is designed to help players easily find ores with improved visibility, outlined textures, and clean visuals while maintaining smooth performance.
+
+Features
+- Water and lava fog removed
+- Easily spot ores underground
+- Outlined ore textures for better visibility
+- Works in the Overworld, Nether, and other dimensions
+- Achievement friendly
+- Works on multiplayer servers
+- Lightweight and lag free
+- Smooth and clean visual experience
+- Optimized for Minecraft Bedrock Edition
+
+Recommended Settings
+Turn OFF Smooth Lighting in Minecraft video settings to make ores easier to see.
+
+Original Pack Notice
+This resource pack is independently created and is not copied or reuploaded from another creator.
+
+Additional Information
+- Compatible with Minecraft Bedrock 26.0+
+- Easy to activate through Global Resources
+- Performance friendly for low-end devices
+
+Copyright Notice
+Do not reupload this pack on any platform.
+You may share the official download page instead.

@@ -1,0 +1,9 @@
+Crafting:
+
+3 iron blocks and a dispenser
+
+Controls:
+
+Modify the objectives in the menu
+
+Types of turrets:

@@ -1,0 +1,14 @@
+Skibidi Toilet Cold War: Elite Combat Edition
+
+Total war between the Alliance (Cameramen, Speakermen and upgraded variants) and the Astros, with Toilets acting as a third hostile force.
+
+Key features:
+JavaScript combat system with unique elite abilities (ultimates, combos and elemental effects)
+Dynamic battles that move across the map NPCs create distance, knock each other back and the fight spreads through the terrain (not just standing still punching)
+Bosses with phases and mid-fight transformations
+Progressive wave invasion mode (/function game/start)
+Recruitment system: use gold to recruit allies and fight alongside your own army
+
+Optimized and tested on low-end devices (including Motorola G04) with no lag even during large battles.
+
+Unofficial fan project based on the Skibidi Toilet universe.

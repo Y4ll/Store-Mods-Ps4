@@ -1,0 +1,113 @@
+Day Zov Core is a comprehensive addon that completely overhauls Minecraft Bedrock, introducing post-apocalyptic survival mechanics, weapons, vehicles, and immersive content.
+
+The World:
+
+Dead cities, scorched wastelands, swamps, and dense taiga
+
+New mutants and radiation hazards
+
+Realistic survival demands the right tools find or craft an axe to chop down trees
+
+---
+
+EARLY ACCESS VERSION ACTIVE DEVELOPMENT
+
+This addon is in early development. Approximately 30-35% of planned features are still in progress. You may encounter bugs, missing mechanics, or unfinished content.
+
+I am constantly working on updates. Your feedback and bug reports are greatly appreciated!
+
+---
+
+Lore & Backstory
+
+The story places you in a world after a nuclear war, triggered by an outbreak of an unknown disease in the 2000s. The devastating effects of radiation and bacteria gave rise to horrifying monsters that now roam the wastelands and city ruins. The war didn't end even after nuclear warheads destroyed the world, and the last survivors remain hostile toward you.
+
+Your journey begins as you emerge from the house where you weathered the apocalypse until supplies ran out, forcing you to finally step outside.
+
+General view of the modified generation
+
+Version 1.0 Features
+
+Not everything listed below is fully implemented; many features are still under development.
+
+Weapons & Combat:
+
+Realistic 3D firearms and 2D melee weapons
+
+Weapon customization: attach suppressors, scopes, and under-barrel grenade launchers
+
+Vehicles:
+
+Military and civilian vehicles
+
+Survival Mechanics:
+
+Updated damage system (tracking specific body parts and overall health)
+
+Bleeding
+
+Bone fractures based on player weight (carry items in a backpack, not in your main inventory)
+
+Food spoilage
+
+Wounds
+
+Concussions
+
+Armor penetration
+
+Thirst and body temperature (you can drink directly from water sources with your hands no bottle needed)
+
+Hunting requires sneaking up on animals so they don't flee
+
+Player may cough at night and when diving
+
+Environment & Tools:
+
+Wood and stone can only be gathered with tools (axe, pickaxe)
+
+Multiple zombie types
+
+New structures
+
+New iron tool forging system
+
+Immersion & Realism:
+
+Sanity level affecting disease susceptibility
+
+Realistic lighting (torches emit light when held in hand)
+
+Night blindness due to vitamin deficiency (find and consume vitamins to see beyond 4 blocks at night)
+
+Coordinates removed from the HUD (use the compass it now shows coordinates)
+
+Torches are not eternal (burn out within 1060 minutes)
+
+Water in this world is contaminated drinking a little from a river won't kill you, but consuming too much can lead to fatal poisoning
+
+And much, much more!
+
+new wound treatment system (currently being refined)
+
+You can fill bottles and flasks with water. (The custom interface is currently being refined.)
+
+In winter, the temperature drops very low; you will need warm clothing.
+
+Inspired by DayZ, S.T.A.L.K.E.R., and Wasteland.
+
+Day Zov Survive the apocalypse. Rebuild the world
+
+Arsenal--
+
+Discord- https://discordapp.com/users/1093243546837995650
+
+RLC v1.3.4.1
+
+Discord https://discord.gg/p2QrVD5C8W
+
+Legendary Survival--
+
+YouTube- https://youtube.com/@keckmc290?si=i9wxCnnwJU5TrBPn
+
+Follow the development progress on my Discord: https://discord.gg/C66FZxEzGK

@@ -1,0 +1,55 @@
+Herobrine Mode
+
+Become the legendary Herobrine and unleash supernatural powers upon your Minecraft world!
+
+This addon transforms you into an unstoppable force, granting abilities far beyond those of an ordinary player. Whether you want to dominate survival, experiment with powerful abilities, or simply experience Minecraft as its most famous myth, Herobrine Mode delivers a thrilling new way to play.
+
+Features
+
+Herobrine Strength
+
+- Deal 500 damage with every attack.
+
+- Defeat most mobs instantly.
+
+Complete Invincibility
+
+- Immune to mob attacks, fall damage, fire, lava, explosions, and more.
+
+- Nothing can stand in your way.
+
+Enhanced Movement
+
+- Run faster than normal players.
+
+- Jump significantly higher to traverse the world with ease.
+
+Shadow Speed
+
+- Sneaking awakens Herobrine's hidden power.
+
+- Gain an additional speed boost while sneaking.
+
+Shadow Leap
+
+- Jump even higher while sneaking.
+
+- Cross large gaps and reach high places effortlessly.
+
+Lightning Wrath
+
+- Every creature defeated by Herobrine is struck by lightning.
+
+- Leave destruction in your wake wherever you go.
+
+Dark Impact
+
+- While sneaking, landing from heights of 5 blocks or more creates a powerful explosion.
+
+- Smash into the ground with supernatural force.
+
+Step beyond the realm of myths and legends. Herobrine is no longer watching from the shadows...
+
+You are Herobrine.
+
+All abilities are active by default. No commands, items, or setup required.

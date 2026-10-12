@@ -1,0 +1,147 @@
+WEAPON++
+
+Adds 3 weapons with independent skill systems to Minecraft Bedrock. Each weapon works standalone and does not conflict with the others. Requires Beta APIs enabled in world settings.
+
+Requirements
+
+- Minecraft Bedrock 1.21.60 or higher
+
+- **Beta APIs** enabled (Experiments Beta APIs)
+
+- Compatible with Java PVP CORE
+
+Weapon
+
+4.0
+
+https://www.curseforge.com/minecraft-bedrock/addons/weapons-true-yamato
+
+Skill
+How to activate
+Skill Button
+
+Yamato Combo
+Attack. Every 3rd hit unleashes Rapid Cuts
+-
+
+Aerial Rave
+Attack while in the air
+-
+
+Upper Slash
+Sneak, then Attack
+-
+
+Rapid Slash
+Sprint, then Attack
+-
+
+Judgment Cut
+Hold Use, then release (tap = 1 cut, charge = 2, full = 3)
+-
+
+Judgment Cut End
+Full charge during Devil Trigger
+Button 1 during Majin Trigger
+
+Summoned Swords
+Sneak + Use (Storm Swords during Devil Trigger)
+Button 1
+
+Trick
+Sprint + Use (look at an enemy, up, or down)
+Button 4
+
+Devil Trigger
+Sneak + Jump
+Button 5
+
+Majin Trigger
+Sneak + Jump again during Devil Trigger
+Button 5 again
+
+Void Slash
+Crouch 3s, then release
+Button 2
+
+Starfall
+Crouch 3s, then Jump
+Button 3
+
+Judgment Cut Barrage
+Keep the Yamato in hand for 20s
+-
+
+Dimension Rift
+Keep the Yamato in hand for 20s, then Jump within 3s
+-
+
+Yamato Barrier
+Passive: heals back 60% of a hit (15s cooldown)
+-
+
+3.0
+
+Void Scythe
+
+https://www.curseforge.com/minecraft-bedrock/addons/weapons-void-scythe
+
+The Dragon Sword
+
+https://www.curseforge.com/minecraft-bedrock/addons/weapons-the-dragon-sword
+
+Demonic Sword
+
+https://www.curseforge.com/minecraft-bedrock/addons/swords-demonic-sword
+
+2.0
+
+Lumina Blade
+
+https://www.curseforge.com/minecraft-bedrock/addons/sword-lumina-blade
+
+Damage:10 | Durability: 1200 | Enchant slot: sword (value 10) | Use cooldown:0.5s
+
+A radiant light blade with 4 skills triggered by how you hold/use it:
+
+- Radiant Nova(hold continuously for 20s while standing still): Explodes with light around you, dealing 8 dmg + blindness/weakness/slowness to enemies within 6 blocks, with camera shake.
+
+- Lumina Ward(crouch continuously for 3s): An 8s protective aura absorption, resistance, regeneration, glowing, with a rotating particle ring around the player.
+
+- Solar Requiem (right-click, 8s cooldown) ultimate skill in 4 phases: charge-up piercing light beam across 22 blocks (18 dmg + ignite) 5 falling light meteor pillars (9 dmg each) central detonation (12 dmg + knockback), self-buffs speed/strength afterward.
+
+- Ascension Strike (hold for 20s + jumping): Launches you upward in a light spiral, then slams down, dealing 10 dmg + knockback within 5 blocks.
+
+Yamato Katana
+
+https://www.curseforge.com/minecraft-bedrock/addons/weapons-yamato-katana
+
+Damage:9 | Durability: 3600 | | Has JavaPvP tags (`jpvp:dm:9`, `jpvp:cd:12`) | Repaired with Netherite Ingot (+1000) or itself.
+
+A Vergil-style (DMC) katana with a live cooldown HUD on the actionbar:
+
+- Yamato Barrier(passive, 15s cooldown): Automatically absorbs 60% of incoming damage as healing.
+
+- Judgment Cut(crouch next attack, 5s cooldown): Cuts through 8 blocks in your facing direction, 18 dmg to all targets in the line.
+
+- Doppelganger (Sneak + Use, 10s cooldown): Summons a shadow clone for 5s Speed III, glowing, +50% bonus damage on hits.
+
+- Devil Trigger (Sneak + Jump, 30s cooldown): Demon transformation for 10s Strength IV, Resistance II, Speed II, Regen II, +8 flat damage per hit.
+
+- Majin Trigger (Sneak + Jump while DT is active, 45s cooldown replaces DT): Ultimate demon form for 6s Strength VI, Resistance IV, Absorption IV, +18 flat damage, pulses a wither aura around you every 15 ticks.
+
+- Summoned Swords(Sprint + Use, 8s cooldown): Launches 6 phantom swords that lock onto the nearest targets, 10 dmg each.
+
+- Sin Stinger (Sprint next attack, 4s cooldown): A forward lunge that pierces the nearest target ahead, 32 dmg.
+
+1.0
+
+Candy Scythe
+
+https://www.curseforge.com/minecraft-bedrock/addons/weapon-candy-scythe
+
+Damage: 5 | Durability: 800
+
+Crafted using Candy, a custom ingredient included in the addon.
+
+Cand

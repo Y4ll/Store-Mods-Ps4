@@ -1,0 +1,99 @@
+Please read before scrolling!
+
+This is a public beta of the addon and it's only 14% complete. Everything you see (except the emoji) is nowhere near finished. Even then, they're still missing some effects that need to be added later.
+
+This is not my main addon and I work on 8 other projects, therefore it's not a priority. Thank you for your patience and I hope you understand.
+
+Examples of upcoming guns and models:
+
+Introduction
+
+Absolute Guns 3 3D is a sequel to a dead add-on with the same name. The add-on focuses on being able to use simple 3D weapons in any add-on! Supports realms, multiplayer worlds, and dedicated servers. Fully made with scripts, allowing easy modification!
+
+Content
+
+The add-on adds 26 weapons in total (22 guns, 1 melee, 3 grenades)
+
+AK-47
+
+M4
+
+M16
+
+AK-47U
+
+Gold AK-47
+
+PKM
+
+MP5
+
+MP5-K
+
+Flamethrower
+
+Tactical Knife
+
+Scoped Tactical Knife
+
+MGL
+
+Glock
+
+Tactical Glock
+
+M3
+
+M1014
+
+SPAS-12
+
+RPK
+
+UMP-45
+
+Bizon
+
+RPG-7
+
+MP-40
+
+MG-42
+
+Frag Grenade
+
+Flash Grenade
+
+Smoke Grenade
+
+Reloading your weapons
+
+The addon only supports full reloads (ammo must be 0). Ensure you have the correct ammo in your inventory, then 'Eat' or use the weapon to reload as shown below:
+
+Note: special weapons such as Flamethrower & MGL take the ammo component is inside their crafting recipe, that being the TNT and Blaze Powder.
+
+Crafting your weapons
+
+Toggle the uncraftable icon in the crafting table and you'll see all weapons that can be crafted.
+
+Damage System
+
+From the get-go, your weapons use Actual Guns damage system; bypassing Minecrafts 10-tick immunity frames and supporting customizable features like damage drop-off, armor penetration, and knockback.
+
+Customization
+
+Speaking of customization, the system also uses Keyyard's Gun System which allows you to customize the fireRate, ammo count, velocity, reload time, shooting modes, animations, recoil, and so on.
+
+Credits
+
+- AzozGamer936 (Creator) | Keyyard (Co-creator) | Beyond64 (UI & Legacy renders) | mtty (Legacy developer & Legacy models) | TheOdds (Legacy models) | Puggo (Legacy models) | Desno (Legacy icons) | JustRomain (Scripts) | Tem4ik (New models) | DaffaTheOne (New renders & New models)
+
+Need Assistance?
+
+Click on the icons to be transferred over to our Github repo or Discord server
+
+Twitter: Click here!
+
+YouTube: Click here!
+
+Donations: PayPal or Kofi (clickables)

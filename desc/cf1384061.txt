@@ -1,0 +1,15 @@
+Glow Trims
+
+Glow Trims enhances every armor trim with a bright, glow-in-the-dark effect, making your gear stand out in any environment.
+
+Features
+
+- Glow-in-the-dark armor trims for all armor types
+
+- Does not affect or weaken enchantment glint
+
+- Keeps all trimmed armor item textures fully vanilla
+
+- Vibrant, clean visuals that remain faithful to Minecrafts style
+
+Perfect for players who want their armor to shineliterallywithout losing the original aesthetic.

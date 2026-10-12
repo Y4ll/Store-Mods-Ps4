@@ -1,0 +1,5 @@
+You can break ore veins if you break a block while sneaking.
+
+This addon supports fortune and silk touch enchantments
+
+This addon does not require experimental addons nor use player.json

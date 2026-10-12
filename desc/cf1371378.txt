@@ -1,0 +1,241 @@
+Are you ready to test your true Minecraft skills?
+
+Welcome to Classic Sky Block - the timeless survival experience.
+
+Spawn on a tiny island floating in the endless void, armed with only a tree, a chest of essentials, and your quick thinking.
+
+Sky-high excitement: Start from scratch, gather resources, and expand your island block by block.
+
+Survival mastery: Conquer hunger, battle mobs, and master the iconic cobblestone generator.
+
+Classic feel, fresh balance: Carefully chosen starter chest ensures renewable farming, unique building, and access to all classic Skyblock challenges.
+
+Perfect for content creators & multiplayer: Play solo or with friends, stream your progress, or challenge your community.
+
+Whether youre a seasoned Skyblock veteran or new to the challenge, this map brings old-school vibes and endless replayability. How far can you go? The sky is truly the limit!
+
+Start your adventure now. Good luck, survivor.
+
+About the Map
+
+If youre the kind of player who loves a real Skyblock challenge, this map is for you. I hunted for the perfect seed (3838058575941151168) and set the world spawn exactly at -400 65 -400 to kick off the adventure.
+
+Theres just one island in this map and no hidden starter packs. You start with the basics and thats it. The Nether and End both have regular terrain, so you can actually progress and explore when youre ready.
+
+The best part? All the major biomes are pretty close by within 900 blocks from spawn. That means youll have plenty of room to expand, gather new resources, and build whatever wild designs you dream up.
+
+So, if you want classic Skyblock but with easy access to biomes and a pure survival vibe, give this map a try.
+
+Good luck and dont fall.
+
+Here is a link you can use to chek out the seed on chunkbase - Link
+
+And here is a biome map screenshot taken from chunkbase.
+
+Classic Sky Block Companion Pack
+
+The essential companion for your sky block adventure
+
+Features
+
+Custom Mob Drops
+
+Mobs now drop bonus items when killed - giving you new ways to obtain blocks and resources
+
+Zombie Family
+
+Zombie
+
+Item
+Drop Chance
+
+Dirt
+55.6%
+
+Pointed Dripstone
+22.2%
+
+Grass Block
+11.1%
+
+Podzol
+5.6%
+
+Mycelium
+5.6%
+
+Zombie Villager
+
+Item
+Drop Chance
+
+Ominous Bottle
+100%
+
+Drowned
+
+Item
+Drop Chance
+
+Gravel
+30.3%
+
+Suspicious Gravel
+15.2%
+
+Seagrass
+15.2%
+
+Kelp
+15.2%
+
+Tube Coral Block
+3.0%
+
+Brain Coral Block
+3.0%
+
+Bubble Coral Block
+3.0%
+
+Fire Coral Block
+3.0%
+
+Horn Coral Block
+3.0%
+
+Sniffer Egg
+3.0%
+
+Turtle Egg
+3.0%
+
+Husk
+
+Item
+Drop Chance
+
+Sand
+66.7%
+
+Suspicious Sand
+33.3%
+
+Skeleton Family
+
+Skeleton
+
+Item
+Drop Chance
+
+Bone Block
+100%
+
+Stray
+
+Item
+Drop Chance
+
+Bone Block
+75%
+
+Powder Snow Bucket
+25%
+
+Spider
+
+Item
+Drop Chance
+
+Sculk
+75%
+
+Sculk Catalyst
+25%
+
+End Dimension
+
+Enderman
+
+Item
+Drop Chance
+
+Obsidian
+40%
+
+End Stone
+40%
+
+Chorus Plant
+20%
+
+Endermite
+
+Item
+Drop Chance
+
+End Portal Frame
+100%
+
+Ender Dragon
+
+Item
+Drop Chance
+
+Elytra
+100%
+
+Pillager
+
+Item
+Drop Chance
+
+Ominous Bottle
+100%
+
+Drops only occur when you kill the mob traps and environmental kills won't count
+
+Achievements System (Work In Progress)
+
+Earn custom achievements as you progress through your sky block journey:
+
+Achievement
+Title
+
+Island Pioneer
+Build your first island
+
+Arborist
+Grow your first tree
+
+Stone Age
+Create your first cobblestone
+
+Into the Nether
+Enter the Nether dimension
+
+The End?
+Discover the End dimension
+
+Achievement announcements are broadcast to all players on the server
+
+Warning - (Due to an unknown bug the biomes are broken)
+
+Until we find and fix the bug we recomend you download this addon instead
+Bedrock Skyblock with biomes by Lurchfresser
+We are short on hands and time so this might take a while please bare with us.
+We sincerely thank you for playing.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.21.100 or higher
+
+- Must be applied as a Behavior Pack to your world
+
+Installation
+
+- Download the companion pack
+
+- Apply it to your Classic Sky Block world as a behavior pack
+
+- Start playing

@@ -1,0 +1,25 @@
+This addon adds two types of spikes, available in many materials( in new version v1.0.3), along with Camouflage Grass to Minecraft Bedrock Edition.
+
+Entities killed by spikes count as player kills. Entities killed by spikes will drop experience orbs. If the player is holding a weapon with the Looting enchantment, the Looting effect will also apply to entities killed by spikes.
+
+Here are their recipes:
+
+Two Types:
+
+There are two types: Normal Spikes and Spring Spikes.
+
+Normal Spikes continuously damage mobs standing on them. The damage value is the same for swords of the same material.
+
+Add two Slime Balls to normal spikes' recipes to craft spring spikes or use a normal spike and a Slime Ball to craft.
+
+Spring Spikes not only damage mobs but also launch them upward when triggered. If a mob falls onto either type of spike, it takes extra damage based on the fall distance. The formula is: (fallDistance - 1) base damage.
+
+Many Materials:
+
+The spikes are available in many materials: netherite, diamond, iron, golden, copper, stone, and wooden (contain bamboo and nether woods).
+
+Copper Spikes share the same oxidation mechanics as vanilla copper blocks. Oxidized Copper Spikes have a lower base damage, but they apply an extra effect to mobs standing on them (a poison effect). The higher the oxidation level, the stronger the effect.
+
+You can craft Camouflage Grass with any leaves and string.
+
+Camouflage Grass disappears when a mob steps on it. When one piece disappears, nearby pieces also disappear. (Note: you can place Leaf Litter, Carpet, or other blocks with similar collision boxes on top of Camouflage Grass the trap can still be triggered.)

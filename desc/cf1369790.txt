@@ -1,0 +1,15 @@
+ENGLISH:
+
+Shows your fps in real time, works on realms, servers, local worlds, you can also activate it as a local texture and use it in realms or servers
+
+This allows you to use capes without removing them like other fps addons
+
+*Report any bugs in the comments box
+
+SPANISH:
+
+Muestra tus fps en tiempo real, funciona en realms, servidores, mundos locales, tambien puedes activarlo como textura local y usarlo en realms o servidores
+
+Este te permite usar capas sin quitarla como otros addons de fps
+
+*Reportar cualquier bug en caja de comentarios

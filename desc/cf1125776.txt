@@ -1,0 +1,55 @@
+Please read before scrolling!
+
+This add-on DOES NOT require experimental options. Please DO NOT use it together with "Action & Stuff" or any other pack that modifies the player.json file on BP or RP. This includes animation packs and other add-ons that replace or modify the same player files. Because Minecraft Bedrock add-ons with conflicting files cannot be combined reliably, these packs are NOT COMPATIBLE with Aplok Guns. If you use conflicting packs together with Aplok Guns, please do not report issues caused by those compatibility conflicts as bugs in Aplok Guns.
+
+Do you like low-poly military-themed addons and have the best features? If yes, youre in the right place.
+
+Aplok Guns is an add-on for Minecraft Bedrock that adds vanilla styled military-themed content, the models are something close to something Minecraft would make.
+
+Developer
+
+- Gabriel Aplok (Main Developer)
+
+- HardSK (Contributor)
+
+Features
+
+- Vanilla-styled military weapons.
+
+- Modular attachments with weapon-specific compatibility.
+
+- Each gun has its own bullet counting system.
+
+- Multiple firing and reload styles, including full-auto, semi-auto, burst, pump-action, and per-round reloads.
+
+- Satisfying audio and animation feedback with muzzle flash, indoor gunshots, and silenced sound variants.
+
+- Craftable ammo, weapon parts, materials, and dedicated workbenches for weapons, ammo, and attachments.
+
+- Tactical gear and props, including helmets, NVG gear, gas masks, armor vests, sandbags, barbed wire, hedgehogs, and landmines.
+
+- Configurable gameplay options with /ag:settings.
+
+- Optimized scripting and visuals designed to stay lightweight on lower-end devices.
+
+Installation
+
+Installing the addon is easy! First download the latest version that can run on your version of Minecraft. Extract the downloaded zip files, and you should have a file called "Aplok-Guns-BP.mcpack" and "Aplok-Guns-RP.mcpack". The next step depends on your device.
+
+- On Windows just open the file with Minecraft.
+
+- Android users need to use a third-party file explorer such as File Manager to open the file.
+
+- iOS users should use Documents to open the file.
+
+License
+
+This addon is licensed under the CC BY-NC-ND 4.0 license. Heres what you need to know:
+
+- You CAN share the addon as long as you give proper credit.
+
+- You CAN use it for personal, non-commercial purposes.
+
+- You CAN'T modify the addon or use it commercially, only for personal use.
+
+Videos of the addon are also allowed, but you must link to either this page or the one in MCPEDL for downloading. And remember. Plagiarism is still plagiarism. Have common sense and fun! :)

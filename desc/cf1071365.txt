@@ -1,0 +1,3 @@
+This addon revolutionizes your wood gathering experience by breaking all connected logs when you break a single tree log. It's perfect for simplifying tree chopping and saving time. The feature activates only when the player is sneaking, providing precise control and preventing accidental tree felling. It is also compatible with custom logs, making it versatile for any modded gameplay. Enjoy a more efficient and controlled woodcutting adventure with this addon. Created by Geokiller.
+
+Discord: https://discord.gg/3MNMR4STYc

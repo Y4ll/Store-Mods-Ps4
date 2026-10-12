@@ -1,0 +1,51 @@
+Ore Finder Addon is a powerful Minecraft Bedrock Edition ore detection addon that introduces a smart and upgradeable Ore Scanner device. It helps players locate valuable resources faster while remaining fully balanced for survival gameplay.
+
+If you are searching for a Bedrock ore finder addon, an ore scanner mod, or a fair X ray alternative for Minecraft Bedrock, this addon is designed exactly for that purpose without breaking immersion or server balance.
+
+What This Ore Finder Addon Does
+This addon adds a high tech Ore Finder item that scans nearby blocks and detects the closest ore vein within a configurable radius.
+It relies on sound signals, clear UI feedback, and optional particle markers instead of wall hacks which makes it server friendly and fair for all players.
+
+Supported Ores
+The Ore Finder supports all major Minecraft ores including Coal Ore, Iron Ore, Gold Ore in both Overworld and Nether, Diamond Ore, Emerald Ore, Lapis Lazuli Ore, Redstone Ore, Copper Ore, Nether Quartz, and Ancient Debris.
+It is suitable for early game, mid game, and late game mining.
+
+Custom OS Style Interface UI
+The addon includes a clean interactive menu interface with an ore target selection system, an upgrade store powered by XP progression, a live battery status display, and full support for survival mode gameplay.
+
+Upgrade System XP Powered
+The Ore Finder can be upgraded using Minecraft XP Levels.
+The Range Booster expands the scan radius up to 16 blocks which is ideal for large cave systems.
+The Visualizer Module spawns particles directly on detected ores to help pinpoint the exact block location underground.
+Eco Mode provides a 50 percent chance to save durability per scan which significantly increases the lifespan of the device.
+Hands Free Mode allows the scanner to work directly from your inventory without needing to hold it.
+
+Battery and Durability System
+The device uses item durability as battery power with a clear color coded battery percentage display.
+It automatically shuts down before full depletion and includes a smart auto repair system when inactive.
+There is no item loss and no frustration.
+
+Performance Optimized and Server Safe
+Only one active scan is allowed per player.
+The scanning system uses optimized spherical logic to avoid lag.
+There is no chunk corruption, no lag spam, and it is safe for creative mode and SMP servers.
+
+How to Use
+Hold the Ore Finder in your hand.
+Sneak and use to open the menu.
+Select the ore you want to locate.
+Follow the sound cues and UI signals.
+Upgrade modules using XP for improved results.
+
+Best For
+This addon is ideal for survival worlds, SMP servers, Vanilla plus gameplay, tech style progression, and balanced ore detection without cheats.
+
+SEO Keywords Hidden but Effective
+Minecraft Bedrock ore finder, ore scanner addon, Minecraft Bedrock mining addon, find diamonds bedrock, ancient debris finder, survival ore locator, Bedrock Edition mods, Minecraft 1.21 addon, ore detection addon, non xray mining mod
+
+Why Choose This Ore Finder
+Balanced alternative to X Ray
+Survival friendly progression
+Server safe performance
+Clean UI and upgrade system
+Works in real gameplay and not as a cheat

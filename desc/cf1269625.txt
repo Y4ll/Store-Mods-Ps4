@@ -1,0 +1,47 @@
+SHOWCASE
+
+FUNCTIONALITY
+
+Excavators will break up dirt/gravel/sand in a 3x3 block area, making your digging experience even faster and more efficient!
+
+CUSTOMIZABLE
+
+Configure the excavators however you like! Choose from how they'll activate to the pattern of dirt/gravel/sand they'll break! (Default: 3x3x1)
+
+COMPATIBILITY
+
+This addon is completely compatible with other addons and does NOT use experimental features!
+
+- Compatible with achievements.
+
+- No experimental features required.
+
+- Works in survival and creative modes.
+
+- Multiplayer compatible (server mode included).
+
+ALL MY LINKS
+
+Join my Discord community, subscribe to my YouTube channel, and Buy me a coffee to continue supporting my projects!
+
+You won't regret it!!!
+
+INSTALLATION PROCESS & SUPPORT
+
+Correct installation process:
+
+- Download both files, the behavior pack [BP] and the resource pack [RP] (If you only download one of the two .mcpack files, the add-on may not work properly).
+
+- Import both files into Minecraft Bedrock. One at a time.
+
+- Activate the add-on in an old or new world. When you activate one of the two, the other will automatically activate. For example: if you activate [RP] -> [BP] will automatically activate.
+
+- Enjoy :)
+
+If you encounter any issues or have questions:
+
+- Join the Discord server for quick support.
+
+- Report bugs in the section intended with detailed information.
+
+- Share your suggestions for future updates.

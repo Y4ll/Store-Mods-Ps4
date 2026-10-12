@@ -1,0 +1,15 @@
+Support me: https://coff.ee/ponky
+
+This pack lowers the shield in forst person, without affecting the model in third person, allowing you to see better, and stopping the shield from blocking your view.
+
+Before
+
+After
+
+There is now also Actions & Stuff compatibility in V1.4!
+
+There's also a smooth animation subpack, which smooths out the low shield animation. It is now controlled by a simple pack settings toggle, allowing you to switch your animation preferences in game!
+
+With this pack, you'll be able to see way more clearly.
+
+I also have a Transparent Shield Pack!

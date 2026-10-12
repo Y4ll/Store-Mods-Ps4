@@ -1,0 +1,19 @@
+All the information you need to use this Add-On is listed below!
+
+Requirements
+
+- The Education Edition slider (found in settings under cheats) must be turned on in order for this Add-On to work!
+
+How to use this Add-On
+
+- Look in the recipe book to find what you need to craft the Arc Reactor! It can be worn like a vanilla chestplate. When you equip it, you are given another item. Right-click that item to "suit up".
+
+- All of the other items can be activated by right-click.
+
+- Right-click the helmet item to put your helmet on and off.
+
+- Right-click the Repulsor item to fire a repulsor blast.
+
+- Right-click the nano-tech item to "shuffle" through your abilities. It gives you another item which, when selected, forms out of the armor (for example a "hammer" or a sword forms from the armor). Some of these items, like the infinity gauntlet and flight stabilizer, can be triggered or toggled by right-clicking as well. Other items just give you passive boosts. Right-clicking the nano-tech item switches out one item for the next.
+
+- Double jump to fly, just like in creative mode. You can sprint while flying to play the other flying animation seen in one of the images above.

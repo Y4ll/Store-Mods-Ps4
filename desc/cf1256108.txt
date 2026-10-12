@@ -1,0 +1,79 @@
+What is Helden?
+
+There was a YouTuber project called "Minecraft Heroes." When it ended, only a download for the Minecraft Java Edition was available, as the developers had not created an official add-on for the Bedrock Edition. For those unfamiliar with "Heroes": the concept involves players starting with a total of three hearts plus a so-called "link heart"; if a player loses a life, they forfeit one heart. If a player logs out during combat, they do not immediately lose a heart, but a dummy carrying their equipment appears; if this dummy is killed, the player still loses their heart and their loot. If a player is reduced to their link heart, they share it with a random other player on the server; if this heart is lost, the partner loses a heart as well. Losing all hearts results in the player either being switched to spectator mode or kicked from the server.
+
+languages
+
+This add-on supports German and English in-game.
+
+Activation
+
+1. activate cheats in the world
+
+2. activate the addon in the world
+
+3. You are now ready and can now go into the world
+
+heards
+
+Custom death messages
+
+If you die and lose a heart in the process, this message will appear in the chat. If you renamed an item that was used to defeat the player, this name will also be displayed in the chat.
+
+crown
+
+The crown has the same durability as a diamond helmet, doesn't lose durability and spins around. And if you want to discover a big secret about the crown, click here.
+
+Soul Stealer
+
+The Soul Stealer has the ability to steal a heart when attacking. This item can only steal a heart if you have a maximum of two hearts. If you have three hearts, you cannot steal hearts.
+
+Soul Amulet / Broken Soul Amulet
+
+The Soul Amulet gives 1 heart when used. Once used, it becomes a Broken Soul Amulet and can no longer be used.
+
+death animation
+
+If you die during a battle, you lose a heart and this animation plays.
+
+settings
+
+With /settings you can open the settings. The settings must be saved below to be adopted.
+
+Slash Command
+
+/settings
+
+opens the settings
+
+/heard <name> <0 - 4>
+
+With the command you can adjust the current hearts
+
+/banbydeath <name> <true/false>
+
+Prevents a player from being banned after the 4th death
+
+/duel
+
+checks how many duels you still have
+
+/duel <name>
+
+challenges the specified player to a duel
+
+/duel <name> <accept/deny>
+
+accepts or rejects a duel
+
+/linkheard list <name>
+
+checks who is linked
+
+/linkheard <enabled/disanabled> <name>
+
+with false you prevent the person from being linked to another
+
+/linkheard <add/remove> <name1> <name2>
+
+With the command the linkheads can be customized

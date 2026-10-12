@@ -1,0 +1,27 @@
+Connected Glass
+
+Glass in Minecraft has always had that ugly grid problem place multiple glass blocks together and you see every single border line between them. Connected Glass fixes that completely. Your glass walls, windows, and skylights now look like one seamless, clean sheet of glass.
+
+How It Works
+
+No crafting required. No special glass to make. Just place your normal glass blocks as you always do the pack automatically makes them connect and removes the grid lines between them.
+
+Features
+
+- All glass types supported regular glass, stained glass, glass panes, and all colors
+
+- No crafting table needed normal glass works automatically
+
+- Seamless connection on all sides top, bottom, left, right
+
+- Zero gameplay changes purely visual upgrade
+
+Important Note
+
+Glass placed before installing this pack will not connect automatically. Simply break and replace those blocks and they will connect like normal.
+
+Achievement Friendly?
+
+Yes fully achievement friendly.
+
+Clean windows. No grid. Just glass.

@@ -1,0 +1,189 @@
+Inspired by apace100, creator of the Java Origins mod, but this version is built from scratch for Bedrock. Each origin has unique strengths and weaknesses, keeping the experience balanced. Remember: not all advantages are about combat - consider every aspect when choosing.
+
+Origin abilities grow stronger as you gain XP levels
+
+Each origin has active abilities triggered using the item
+
+Your Mana is shown in the bottom-right as a bar and counter
+
+You get 3 free origin resets. After that, craft an Origin Eraser to reset again(Admins can change this)
+
+If you lose this item, craft one using a dirt and 4 sticks
+
+As admins, to create or edit custom origins, give yourself the z-operator tag
+
+*Created by ZAZACKE and Halfpotato
+Suggest origin ideas or report bugs at YouTube/@zazack6260 or Discord/zazacke
+
+Translations made by Google Translator, Some text may be inaccurate
+
+Origin Selection menu:
+
+Admin Settings
+
+This form lets admins to Allow or disallow specific origins , disable or change origin reset count,
+
+do :
+
+/zop add @sor /tag @s add z-operator
+
+to access this menu
+
+Custom Origin Creator (Ingame)
+
+This menu Allows admins to create custom origins and abilities, with diffrent stats and abilities with no limits, Try not go beyond limits as it may cause crashes, Only z-operators can access this settings
+
+Additional Modules
+
+You can add optional modules to the main origins list by stacking specific packs as modules , make sure that the main module stays on top
+
+BLAZE
+
+ATK :
+
+DEF :
+
+AGL :
+
+11
+
+almost a firebender, hates cold and water
+
+: Fireball (Hold )
+
+: Fire breath (Sneak + )
+
+: mana regen according to level : 3 2 1 (x5 in nether)
+
+PROS
+
+- Passive towards blazes, ghasts, and magma cubes
+
+- Clear vision under lava
+
+- Immune to fire damage
+
+- Bare handed attacks set enemies on fire
+
+- Lava can clear wither effect
+
+- Jump in lava to summon lava rods
+
+- lava rods: while active, you regenerate health and burn nearby mobs
+
+- Break through ice or snow blocks while walking
+
+- Drinking lava bucket gives mana and regeneration
+
+- Auto cooks food and ores in main hand
+
+CONS
+
+- Takes freezing damage from water
+
+- Withers on contact with water blocks
+
+- Takes twice the damage from freezing
+
+- Snow golems hate you
+
+- Snowballs deal 4 damage
+
+- Gets slowness and takes freezing damage in cold biomes
+
+- Breaking ice blocks causes freezing damage
+
+UNLOCKABLES
+I FireWall : Gives fire resistance to nearby mobs and players (to unlock: find a blaze)
+
+GOLEM
+
+ATK :
+
+DEF :
+
+AGL :
+
+15
+
+Tanky, protector of village, great for close combat, terrible at everything else
+
+: Forward Punch ()
+
+: Groundbreaker (lookdown + )
+
+: Body Slam (falling + lookdown + )
+
+PROS
+
+- Your defence increases as you take damage : 20% 40% 60%
+
+- Immune to knockback
+
+- Deal +3 melee damage
+
+- Can carry 2 players on shoulders
+
+- Gets tired less frequently for healing and attacking
+
+- You shake the ground every time you take fall damage
+
+- Can break all stone types with barehands
+
+- Killing monsters gives half of their health as Mana, killing illagers gives twice their health as Mana (zombie: 10, pillager: 40)
+
+- Mining iron ore gives extra zp
+
+- Other golems won't target you
+
+CONS
+
+- Your speed reduces as you take damage : 80% 70% 60%
+
+- Take 50% more fall damage
+
+- 3 blocks tall
+
+- Natural Mana regen only in villages : 30
+
+- Gets tired easily for movement
+
+- Cannot ride other mobs
+
+- Cannot use projectile weapons
+
+ENDER
+
+ATK :
+
+DEF :
+
+AGL :
+
+12
+
+Can teleport using multiple methodes
+
+: Pearl teleport ()
+
+: Blink teleport (Sneak + )
+
+PROS
+
+- Infinte mana in the end dimension
+
+- can walk on void ( use wall tp to teleport below void floor to get back up )
+
+- Arrows will teleport you ( can be disabled in customize menu )
+
+- Blocks you break will instantly teleport into your inventory
+
+- other endermen wont target u for looking into eyes
+
+- eating chorus fruit gives mana
+
+- thinner hitbox
+
+- End crysals gives you regeneration, mana, water/fire resistance
+
+- Your barehands have silk touch wh

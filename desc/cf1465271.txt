@@ -1,0 +1,380 @@
+It is necessary to download and install both packages BP and RP, otherwise it will not work!
+
+Armors & Tools Expansion adds a wide variety of new armor sets and tools to Minecraft, ranging from basic materials like Dirt and Wood to powerful Netherite-tier sets with unique abilities. Each set has its own characteristics, enchantability, durability, and special effects that enhance gameplay.
+
+Whether you're looking for early-game survival gear, mid-game utility sets, or end-game powerhouses, this addon has something for every playstyle. Many sets offer unique mechanics such as item attraction, lifesteal, teleportation, fire immunity, area damage, and more. The addon is designed to be balanced while still providing exciting new options for players.
+
+All sets are fully compatible with Minecraft's vanilla enchanting system, and each tool type (Pickaxe, Axe, Shovel, Hoe, and Sword) is available for every material. Some sets also grant fire immunity or other status effects, making them particularly useful in specific dimensions like the Nether.
+
+Tools
+
+Tools are available for every set (Pickaxe, Axe, Shovel, Hoe, and Sword). Their performance varies by material:
+
+Set
+Tier
+Damage
+Durability
+Enchantability
+Efficiency
+Fire Immune
+Main Effect
+
+Dirt
+Wood
+Wooden -1
+20
+0
+1
+No
+None
+
+Bone
+Stone
+Iron
+78
+2
+6
+No
+None
+
+Cactus
+Stone
+Stone
+150
+7
+4
+No
+Thorns Damage in 2 Radius
+
+Coal
+Stone
+Stone
+150
+8
+5
+No
+None
+
+Redstone
+Stone
+Stone
+150
+10
+5
+No
+Attracts Items/XP
+
+Lapis Lazuli
+Stone
+Stone
+132
+20
+5
+No
+Extra Monster XP
+
+Cobweb
+Stone
+Stone
+191
+12
+4
+No
+Weaving + Chance of Cobweb
+
+Quartz
+Stone
+Stone
+191
+16
+5
+No
+None
+
+Honey
+Stone
+Stone
+198
+12
+5
+No
+Slowness + Attraction
+
+Ice
+Stone
+Stone
+231
+12
+4
+No
+Slowness Effect
+
+Amethyst
+Stone
+Stone
+238
+30
+5
+No
+Absorption when Health <20%
+
+Emerald
+Iron
+Iron
+375
+15
+7
+No
+None
+
+Ender Eye
+Iron
+Iron
+437
+20
+7
+No
+Teleports Target Upwards
+
+Magma
+Iron
+Iron
+452
+20
+7
+Yes
+Fire Damage + Attraction
+
+Obsidian
+Iron
+Iron
+500
+7
+7
+Yes
+None
+
+Crying Obsidian
+Iron
+Iron
+500
+14
+8
+No
+Lifesteal Chance
+
+End Crystal
+Diamond
+Iron
+502
+24
+7
+No
+Explosion in Area
+
+Blaze
+Iron
+Iron
+781
+18
+7
+Yes
+Sets enemies on Fire
+
+Breeze
+Iron
+Iron
+781
+24
+7
+No
+Wind Knockback
+
+Wither Skull
+Netherite
+Netherite +1
+2032
+20
+10
+Yes
+Wither Effect
+
+Nether Star
+Netherite
+Netherite +2
+2540
+32
+11
+Yes
+Explosion + Levitation + Slowness
+
+Bedrock
+Netherite
+Netherite +3
+4064
+30
+12
+Yes
+None
+
+Armors
+
+Armor sets offer different levels of protection and unique effects. Ordered from worst to best by total armor, then total durability:
+
+Set
+Total Armor
+Total Durability
+Enchantability
+Main Effect (per piece)
+
+Dirt
+5
+45
+0
+None
+
+Wood
+5
+92
+1
+None
+
+Stone
+6
+201
+5
+None
+
+Coal
+6
+239
+8
+None
+
+Cactus
+8
+308
+7
++1-2 Thorns Damage per piece
+
+Redstone
+9
+422
+10
++3-4.5 Item/XP Attraction Range per piece
+
+Lapis Lazuli
+9
+385
+20
++0-3 Monster XP per piece
+
+Amethyst
+9
+731
+30
+Absorption +2 per piece when Health <20%
+
+Cobweb
+10
+609
+12
++8-18s Weaving, +1.5 Radius, +15-30% Cobweb chance per piece
+
+Honey
+10
+334
+12
++1s Slowness per piece, Attraction in 4 Radius
+
+Quartz
+10
+609
+16
+Helmet: Absorption II / Chestplate: Fire Immunity 5s / Leggings: Wither Removal / Boots: Speed I
+
+Ice
+11
+279
+12
++2 Slowness Radius per piece
+
+Bone
+14
+346
+2
+None
+
+Breeze
+16
+1658
+24
++0.4-0.8 Wind Knockback per piece
+
+Emerald
+16
+1034
+15
+None
+
+Obsidian
+17
+1238
+7
+None
+
+Crying Obsidian
+17
+1238
+14
++7.5-15% Lifesteal chance per piece
+
+Ender Eye
+17
+1451
+15
+Helmet: Speed II / Chestplate: Dodge Arrows / Leggings: Teleport / Boots: Fall Teleport
+
+Blaze
+18
+1658
+18
++2 Fire Radius, +3-6s Fire duration per piece
+
+Magma
+18
+1492
+20
++1-3 Fire Damage per piece
+
+End Crystal
+19
+1658
+24
++3-6% Explosion chance per piece, 20 Damage, 5 Radius
+
+Bedrock
+20
+4070
+30
+None
+
+Nether Star
+20
+2549
+32
++2 Explosion Radius, +2s Slowness & Levitation per piece, 20% chance
+
+Wither Skull
+20
+2035
+20
++1 Wither Level per piece
+
+Featured Sets
+
+- Cactus: Great for melee combat with thorns damage and area damage tools
+
+- Redstone: Perfect for automatically collecting items and experience orbs
+
+-

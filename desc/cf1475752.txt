@@ -1,0 +1,12 @@
+In Custom Water, you can customize your water however you want.
+If you want the default water, set it to default.
+If you want your water to be dynamic, change the setting to dynamic.
+If you want your water to become sea waves, just change the setting to that option.
+
+how to use?
+turn on vibrant visual before install the addon
+
+subpack list:
+default
+dynamic
+wave

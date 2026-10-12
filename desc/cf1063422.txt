@@ -1,0 +1,115 @@
+Join my Discord server
+There you can request custom commissions, get VIP access, see exclusive addon progress, and stay updated with everything new before anyone else. Dont miss out!
+
+Compatible with any Addons and Realms !!!
+
+-This add-on does not disable achievements.-
+
+--Installation Guide--
+
+You must download the System Shield BP file for the addon's behavior, and then the System Shield RP file for the addon's textures. These two files are required for the addon to work properly.
+
+Support This Project with a Donation!
+
+Your support helps us keep creating quality content. Every donation, no matter how small, helps cover development costs, improve resources, and keep things moving forward.
+If you enjoy what we do and want to help us grow, consider making a donation. Thank you for your support!
+
+Donate
+
+Official Page
+
+If you want to explore my addons and get early access to the latest updates, I invite you to visit my official website. All my addons are uploaded there first, so you'll always have access to the most up-to-date versions before anyone else!
+
+Click Here!!
+
+-Compatibility
+
+- ou can use it with almost any plugin as this plugin DOES NOT USE PLAYER.JSON so it will be compatible with almost any plugin and you can easily put it at the end if you want.
+
+Update V1.7.6
+
+The Shield Configuration Book lets you customize how the custom shields work in your world. From this menu, you can enable or disable all shield abilities, change general settings, or configure each shield separately.
+
+All Shield Abilities
+Turns all custom shield abilities ON or OFF.
+If this option is OFF, no shield ability will activate, even if each individual shield is enabled.
+
+Individual Shields
+Lets you enable or disable each shield ability one by one.
+This is useful if you only want some shields to have special powers.
+
+General Options
+Lets you configure the general behavior of the addon, such as durability, sounds, particles, and shield hit durability.
+
+Introduction / Help
+Shows basic information about how the configuration menu works.
+
+Close
+Closes the configuration menu.
+
+General Options
+
+Durability
+Controls whether shields and other durability items lose durability when blocking, breaking blocks, or using durability-based actions.
+
+Shield Hit Durability
+Controls whether custom shields lose durability when they are used to hit entities.
+
+Sounds
+Enables or disables shield sounds, block sounds, and break sounds.
+
+Particles
+Enables or disables visual particles created by shield abilities.
+
+Reset All Settings
+Restores all shield settings back to their default values.
+
+Individual Shield Options
+
+Magma Shield
+Burns enemies that hit your shield.
+
+Dripstone Shield
+Deals extra spike damage to enemies that attack you while blocking.
+
+Lapis Shield
+Drops XP when you block an attack. This shield is useful if you want to get extra experience while defending yourself.
+
+Slime Shield
+Adds stronger knockback while blocking, pushing enemies farther away.
+
+TnT Shield
+Damages enemies and creates an explosion particle when blocking attacks.
+
+Mushroom Shield
+Poisons enemies that hit your shield.
+
+Glowstone Shield
+Creates light around the player while the shield ability is active.
+
+Wither Shield
+Applies the wither effect to enemies that attack you.
+
+Ender Shield
+Teleports attackers upward after they hit your shield.
+
+Shulker Shield
+Makes attackers levitate when they hit your shield.
+
+Recipe Book
+
+If you lose the Configuration Book, you can easily craft it again in a crafting table or directly from your inventory using the following recipe
+
+Lapis Shield
+
+The Lapis Shield is a special shield focused on experience. When a player blocks an attack with this shield, it summons XP, allowing the player to gain extra experience while fighting or defending.
+
+Update V1.7.5
+
+A TNT shield has been added, with the ability to trigger small explosions that deal damage to mobs that hit your shield.
+
+Update V1.6.8
+
+- Compatibility with irompability enchantment was added
+
+- The operation 

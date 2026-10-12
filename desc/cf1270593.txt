@@ -1,0 +1,155 @@
+Credits:
+
+Created by Mr. Nido's (Youtube)
+
+Hulk Add-on full description:
+
+Gamma Block:
+
+In your Minecraft world, gamma blocks will be generated in the mesa/badlands biomes.
+
+<figure class="image"></figure>
+
+The blocks are compatible with any RTX pack.
+
+<figure class="image"></figure>
+
+You can obtain the gamma sphere by heating the gamma block from the blast furnace.
+
+<figure class="image"></figure>
+
+Using this recipe you will be able to make the Gamma Orb.
+
+<figure class="image"></figure>
+
+Transform into the Hulk:
+
+With the Gamma Orb you can use it to create Hulk transformations.
+
+Hulk transformations are made from the stone cutter:
+
+<figure class="image"></figure>
+
+To transform into the Hulk you must place the item in the head slot.
+
+<figure class="image"></figure>
+
+When you transform into the Hulk you will be given an item with a red bordered icon, as you crouch down and interact with the item an interface will open allowing you to select an ability for the Hulk or change the game camera.
+
+<figure class="image"></figure>
+
+Controls:
+
+Combat:
+
+When you transform into the Hulk you will be given an item with a fist icon, while you have it in your main hand interact with the item or use the attack button to attack.
+
+You can also place the combat item in the second hand and you can be in combat mode and attack using the attack button in any slot.
+
+<figure class="image"></figure>
+
+When you perform 2 hits in a row, the third hit will push your enemies in the area.
+
+Jumping and Attack
+
+While in the air use the attack button to perform an attack on the ground.
+
+<figure class="image"></figure>
+
+Super Jump
+
+Hold down the crouch button, while looking up press the jump button to perform a super jump.
+
+<figure class="image"></figure>
+
+Clap:
+
+In your inventory you will be given an item called smash, keep pressing the crouch button and use the item to perform a super clap attack that will deal damage to your enemies.
+
+<figure class="image"></figure>
+
+Hulk Smash:
+
+By using the smash item you will be able to perform an attack that will produce huge area damage.
+
+<figure class="image"></figure>
+
+Super Smash
+
+The second item called Super Smash will perform a super attack that will produce a huge damage to enemies in an area of 16 blocks.
+
+<figure class="image"></figure>
+
+Rock throwing
+
+In the skills item you can select the rock throwing skill.
+
+<figure class="image"></figure>
+
+While you have it selected use the item while you are on the ground to grab a rock. To throw it interact with the item, use the attack button or switch slots.
+
+<figure class="image"></figure>
+
+While touching the ground on gamma rocks you can throw gamma rocks which will increase the damage on impact.
+
+<figure class="image"></figure>
+
+<figure class="image"></figure>
+
+Grab:
+
+While using the skill item you can select the ability to grab entities, to grab an entity use the grab item while you have an entity nearby.
+
+<figure class="image"></figure>
+
+Hulk's hammer:
+
+<figure class="image"></figure>
+
+Hulk fists:
+
+With the Hulk Fists you will be able to perform some Hulk attacks without the need to transform into the Hulk.
+
+<figure class="image"></figure>
+
+Clap:
+
+Smash:
+
+<figure class="image"></figure>
+
+Jump & Attack:
+
+<figure class="image"></figure>
+
+Enemies:
+
+Gamma Dogs:
+
+Gamma dogs will spawn in tabletop biomes in places where gamma stone blocks are generated and are completely aggressive creatures and will attack anyone in their path.
+
+<figure class="image"></figure>
+
+During the night they will fall asleep and are completely harmless as long as you do not attack them.
+
+<figure class="image"></figure>
+
+Features:
+
+- Health: 120
+
+- Damage: 16
+
+- Mobility: 0.35
+
+Abomination:
+
+Will appear in tabletop biomes in places where gamma stone blocks are generated. It will be a completely difficult boss to defeat only if you face it in your Hulk form.
+
+<figure class="image"></figure>
+
+Perform different special attacks and when you defeat him, he will release a great loot.
+
+Features:
+
+- Healt

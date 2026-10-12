@@ -1,0 +1,134 @@
+This is the classic v4 version of one of the biggest SCP add-ons of 2020/21!
+
+It adds many SCP related aspects to your Minecraft world.
+
+- SCPs/Entities- Structures/Biomes - Weapons - Armour/Morphs- Bosses
+
+Attention!
+
+This is a really old add-on! Some features may not work properly, but most features should still be fine. I've fixed up the blocks to show up in the creative menu.
+
+We are also working on a remake, building SCP: Collab again from the ground up, you can check out the teaser here:
+
+Instructions:
+
+- This add-on is based on the SCP Foundation and copyrighted under the Creative Commons Attribution ShareAlike 3.0 (CC BY-SA 3.0) license
+
+- If you are using this add-on for ANY of your content, you MUST credit me by linking to my YouTube channel, or by linking to this page, your content must be also under CC-BY-SA 3.0
+
+Credits:
+
+- Big Thx to Bendy the Demon18, Dany Fox, DyDyOOF, MechaManiac, Angious2004, LuciousKneez & DGCrafter. They have helped with numerous textures, models and sounds in this add-on.
+- Thx to justAsh from PixelPoly for teaching me how to make 3D items.
+- Some sound effects from BATIM
+- Some music taken from MakaiSymphony
+- Scarlet King Boss Music from Aliaksei Yukhnevich (Deliverance & End of the Abyss)
+- SCP Raid muic from Vitalii Suzdin - Beyond the Mind
+- SCP-096-JS sounds from SCP: SL
+- Some assets were taken/adapted from the SCP-Containment Breach Game
+- Credits to MACHINE_BUILDER for feature rule generator.
+
+SCP Credits
+
+(I tried my best to find the original authors/uploaders/writers of each SCP article)
+
+SCP-001: Gate Guardian By: Dr Clef
+
+SCP-035 & SCP-076 By: Kain Pathos Crow
+
+SCP-049 By: Gabriel Jade
+
+SCP-066 By: Scantron
+
+SCP-079 By: Joonas Rikkonen
+
+SCP-096 By: Dr Dan
+
+SCP-106, SCP-409, SCP-682, SCP-280 & SCP-914 By: Dr Gears
+
+SCP-113 By: Lt Masipag
+
+SCP-173 By: Moto42
+
+SCP-294, SCP-280 By: far2
+
+SCP-303 By: AJAlkaline
+
+SCP-427 By: Dr Ouros
+
+SCP-457 By: agatharights
+
+SCP-553 By: Patku
+
+SCP-610 By: NekoChris
+
+SCP-650 By: Dr Talson / Ekzentric Lohner
+
+SCP-714 By: Arcalane
+
+SCP-939 By: Adam Smascher
+
+SCP-966 By: Enma Ai
+
+SCP-1025 By: Lasergoose
+SCP-1074 By: Smapti
+SCP-1499 By: Trasknari
+SCP-1507 By: Roget
+SCP-2950 By: weizhong
+
+SCP-3000 By: djkaktus
+SCP-3057 By: The Great Hippo
+SCP-4335 By: Westrin
+SCP-871 by Seibai
+
+Recipes
+
+- You can see a document with all the recipes here
+
+SCPs/Entities
+
+Some SCPs can spawn naturally around your world. Some can be found in facilities. You can also get SCP spawn eggs from mining SCP Essence Ore to get SCP Essence, which you can trade for SCP Spawn Eggs using the Serpent's Hand Anomalous Generator (SHAG)
+
+(SCP Essence Ore - Spawns like diamonds but abit more common)
+
+<figure class="image"></figure>
+
+S.H.A.G (Obtained from defeating Serpent's Hand Boss)
+
+<figure class="image"></figure>
+
+All Spawn Eggs:
+
+<figure class="image"></figure>
+
+Structures
+
+There are also custom structures that spawn naturally in your world! Remember to turn on experimental gameplay for this to work.
+
+Here is a facility beside the new "Forgotten Lands" Biome:
+
+<figure class="image"></figure>
+
+All 3 facilities in the add-on.
+
+Uppermost one partially by DyDyOOF, completed by me
+Middle one by me with some help from others
+Bottom one by MechaManiac
+
+<figure class="image"></figure>
+
+The facilities have quite good loot in them! All structures tell some kind of a story, one way or another.
+
+You want to summon scarlet king? Search through all the facilities to find the Ritual Document, which will teach you how to summon the scarlet king. I ask you not to directly teach others, as it will ruin the fun of finding it yourself.
+
+Maybe this rather rare structure has something to do with it?
+
+<figure class="image"></figure>
+
+Chaos Base (by MechaManiac)
+Guarded by the chaos insurgency members, this base has quite cool loot in it. But beware of what lurks in it's dark corridors...
+
+<figure class="image"></figure>
+
+Chaos Base Ruins (by MechaManiac)
+Some bases dont go as planned, and have been abandone

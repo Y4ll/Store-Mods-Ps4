@@ -1,0 +1,43 @@
+Wings Rings brings a new sense of freedom to your Minecraft travels! Designed for explorers who value speed and style, this addon introduces 4 unique wing types to make your journey much faster and more exciting. Turn long distances into effortless flights, gliding over landscapes with ease while giving your character a stunning new look. The perfect choice for players who want to explore their worlds with agility and a touch of elegance!
+
+++ Warning ++
+
+To be able to fly in Survival mode, you need to activate Minecraft Education.
+
+++ Appearance ++
+
+Bat Wing Ring:
+
+Butterfly Wing Ring:
+
+Demon Wing Ring:
+
+Feather Wing Ring:
+
+++ Animation ++
+
+All the wings have that animation of them flapping.
+
+++ Systems ++
+
+Feather Wing Ring: Despite being easy to manufacture, this wing is unique in having a limited flight range. In real-life flight, it lasts approximately 2 minutes.
+
+To make up for lost time, simply stop flying and time will start loading again.
+
+++ Craft ++
+
+Ring:
+
+Bat Wing Ring:
+
+Butterfly Wing Ring:
+
+Demon Wing Ring:
+
+Feather Wing Ring:
+
+++ additional information ++
+
+- This addon don't use Player.json.
+
+- This add-on is compatible with other Add-ons.

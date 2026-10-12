@@ -1,0 +1,12 @@
+UI Stacker is a behavior and a resource pack that combines all UI elements from the Beyond64 addons into a single package. This will allow all my addons UI to work together without any compatibility issue.
+
+It is required for any Beyond64 addon that includes a custom UI. Make sure this behavior pack is enabled alongside those addons.
+Make sure you enable both behaviour and resuorce pack
+
+TRY TO KEEP THIS ADDON ALWAYS UP TO DATE
+
+Credits:
+
+- Beyond64: Programmer and Creator
+
+For more updates or any additional questions reach us on Discord.

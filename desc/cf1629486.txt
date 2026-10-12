@@ -1,0 +1,91 @@
+The VCMC companion app is required. Minecraft Bedrock does not allow an addon to access the microphone natively. The addon synchronizes player positions and voice states, while the VCMC app captures and plays voice audio. Download VCMC for Android, iOS, Windows, or use the web app.
+
+Is the latest version not available here yet? CurseForge may take some time to process an update. You can also find published versions in the official GitHub repository.
+
+VCMC Proximity Voice Chat for Minecraft Bedrock
+
+VCMC adds proximity voice chat to Bedrock worlds and dedicated servers without trying to access the microphone from Minecraft. Only the world owner or server administrator installs the addon; every player uses the VCMC companion app and links their own account.
+
+Main setup
+
+Bedrock Dedicated Server: /vcmc:verify
+
+- The administrator installs the Server behavior pack and the resource pack.
+
+- The server automatically creates or restores its secure VCMC room.
+
+- Each player opens VCMC, selects Server mode, and adds a room using any name. This name is only a local label inside their app.
+
+- The app displays a personal command such as /vcmc:verify "code". The player pastes it exactly into Minecraft chat while using the same Gamertag.
+
+- After verification, VCMC links the app to that player and automatically adjusts voice connections according to distance, dimension, groups, and server settings.
+
+Verification is individual. A player may need to verify again after switching devices or browsers, or after reinstalling the app.
+
+A friends world
+
+The host installs the World behavior pack and the resource pack, enables WebSockets, and pastes the /wsserver command displayed by VCMC. Each guest joins the hosts room in the app and pastes their own /vcmc:verify command inside the world. Guests do not need to install the addon.
+
+Main features
+
+- Distance-based proximity voice and spatial audio.
+
+- Private groups, global groups, and individual player volume.
+
+- Voice effects, custom SFX, and environmental audio effects.
+
+- Global megaphone, moderation, and administrator controls.
+
+- Voice states for scoreboards, maps, and command blocks.
+
+- Native and web apps with recording and a recording library.
+
+Player commands
+
+- /vcmc:verify "<code>" links Minecraft to the personal code displayed by the app.
+
+- /vcmc:menu opens voice settings, groups, and individual player volume.
+
+- /vcmc:m [true|false] mutes or enables your own microphone; without an argument it toggles the current state.
+
+- /vcmc:groups opens the group menu.
+
+- /vcmc:groups create "<name>" ["<password>"] creates a voice group.
+
+- /vcmc:groups join <#|name> ["<password>"] joins a group.
+
+- /vcmc:groups leave leaves the current group.
+
+- /vcmc:groups list lists public groups.
+
+- /vcmc:groups delete [#|name] deletes a group you own.
+
+- /vcmc:groups-settings <group> <global|external|environmental> <true|false> changes group behavior.
+
+Administrator commands
+
+- /vcmc:admin opens the administrator panel; requires operator status.
+
+- /vcmc:mute <player|selector> <true|false> applies an administrative mute with true and removes it with false.
+
+- /vcmc:groups-admin create <1-255> creates a hidden administrative group.
+
+- /vcmc:groups-admin move <group> <player|selector> moves players into a group.
+
+- /vcmc:groups-admin leave <player|selector> removes players from their group.
+
+- /vcmc:groups-admin list and /vcmc:groups-admin delete <group> lists or deletes administrative groups.
+
+- /vcmc:megaphone <player|selector> <true|false> enables or disables global voice.
+
+- /vcmc:sfx add <name> "<escaped json>", /vcmc:sfx delete <name>, and /vcmc:sfx list manage custom SFX.
+
+- /vcmc:sfx-player set <target> <normal|cave|water|echo|radio|nether|custom> [effect] and /vcmc:sfx-player clear <target> assign or remove voice effects.
+
+Server pack requirements
+
+-
+Enable the Experimental APIs so VCMC Server can load and register its commands.
+
+-
+If you are not using Aternos, allow @minecraft/server-net in config/defau

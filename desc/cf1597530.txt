@@ -1,0 +1,170 @@
+Security Laser
+
+Protect your Minecraft Bedrock world with a fully configurable Security Laser System! This addon adds realistic security lasers that detect players, trigger a loud alarm, and deal continuous damage while someone remains inside the laser beam.
+
+Perfect for bases, laboratories, banks, prisons, secret bunkers, adventure maps, escape rooms, and roleplay worlds.
+
+Unlike decorative laser packs, this addon includes a fully working security system that can be configured directly in-game using the Laser Configuration Wrench.
+
+Features
+
+- Realistic glowing Security Laser Beam
+
+- Alarm activates when a player crosses the laser
+
+- Continuous damage while inside the beam
+
+- Fully configurable with the Laser Configuration Wrench
+
+- Adjustable Beam Length
+
+- Alarm ON/OFF
+
+- Damage ON/OFF
+
+- Custom Damage Amount
+
+- Multiple placement directions
+
+- Multiplayer Compatible
+
+- Optimized Performance
+
+Crafting Recipes
+
+Security Laser Emitter
+
+Laser Wrench
+
+How to Use
+
+Step 1
+
+Craft or obtain the Security Laser Emitter.
+
+Place it on a wall, floor, or ceiling.
+
+The laser will automatically project a glowing red security beam.
+
+Step 2
+
+Craft the Laser Wrench.
+
+Use it on any Security Laser to configure:
+
+- Alarm ON/OFF
+
+- Damage ON/OFF
+
+- Damage Amount
+
+- Beam Length
+
+Each laser stores its own settings individually.
+
+Mobile Players
+
+Hold the Laser Configuration Wrench and Tap & Hold on the Security Laser.
+
+The configuration menu will open automatically.
+
+PC Players
+
+Hold the Laser Configuration Wrench and Right Click on the Security Laser.
+
+The configuration menu will appear instantly.
+
+Console Players
+
+Equip the Laser Configuration Wrench.
+
+Look at the Security Laser and press the Use / Interact Button (LT/L2 by default).
+
+The configuration menu will open.
+
+Security System
+
+Whenever a player touches the laser beam:
+
+- Alarm starts immediately.
+
+- Continuous damage is applied.
+
+- Leaving the beam instantly stops the damage.
+
+- Alarm automatically stops a few moments later.
+
+Perfect For
+
+- Banks
+
+- Laboratories
+
+- Survival Bases
+
+- Secret Bunkers
+
+- Escape Rooms
+
+- Adventure Maps
+
+- Roleplay Servers
+
+Performance
+
+The addon is optimized for Minecraft Bedrock Edition and works smoothly on:
+
+- Mobile
+
+- Windows
+
+- Console
+
+Even with multiple active lasers.
+
+Installation
+
+-
+Download the addon.
+
+-
+Open the .mcaddon file.
+
+-
+Minecraft will automatically import both packs.
+
+-
+Create or edit your world.
+
+-
+Enable both:
+
+- Behavior Pack
+
+- Resource Pack
+
+-
+Open Experiments and enable:
+
+- Beta APIs
+
+-
+Enter your world and enjoy!
+
+Creator
+
+Created by Kareo Gamerz
+
+If you enjoy this addon, please consider supporting my work by sharing it with your friends and leaving feedback. Your support helps me create even more high-quality Minecraft Bedrock addons!
+
+Thank you for downloading
+
+IMPORTANT
+
+License
+
+All Rights Reserved This addon was created by Kareo Gamerz.
+
+You are not allowed to redistribute, modify, or reupload this addon on any other platform without the creators permission. You may, however, make videos or showcase this addon on YouTube or social media please provide credit and a link to the original CurseForge or MCPEDL page.
+
+2025-2026Kareo Gamerz All Rights Reserved.

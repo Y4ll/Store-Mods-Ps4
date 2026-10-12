@@ -1,0 +1,7 @@
+TEST
+
+To deactivate the Veinminer, you can be in sneaking mode so that it removes block by block.
+
+Remember! To ensure that the addon is working, check if this small text with an icon appears, saying 'Veinminer.' The addon is compatible with other addons.
+
+It works with other addons too!

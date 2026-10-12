@@ -1,0 +1,69 @@
+Verity Pocket Edition (BE)
+
+Adds an AI companion to Minecraft Bedrock Edition called VerityTM.
+
+VerityTM is an intelligent AI companion that can chat with you, answer questions, accompany you on your adventures, and bring your Minecraft world to life. With expressive facial animations, interactive behaviors, and online AI, Verity is much more than a normal companion.
+
+Features
+
+- AI-powered conversations
+
+- Natural language responses
+
+- Expressive animated facial expressions
+
+- Dynamic talking animations
+
+- Companion follows and stays with the player
+
+- Multiple facial expression variants
+
+- Welcome and introduction events
+
+- Unique easter eggs
+
+- Jukebox interactions
+
+- Custom particles and visual effects
+
+- Interactive AI behaviors
+
+- Automatic spawning systems
+
+- Verity Chest
+
+- Multiplayer support
+
+- Regular updates with new features and improvements
+
+Setup
+
+After creating or joining your world, run the following command to enable Verity's online AI connection:
+
+/script debugger connect traye.ddns.net
+
+An internet connection is required for AI conversations!
+
+Join the discord l!
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.3# Drop
+
+- Beta APIs Turned on
+
+- Internet connection for AI functionality
+
+Known Information
+
+- Verity's AI features require an active connection to the Verity server.
+
+- Some features may not function if the debugger connection is unavailable.
+
+Feedback
+
+Found a bug or have a feature request? Leave a comment on the project page. Community feedback helps improve Verity with every update.
+
+Known Problems
+
+- AI sometimes doesn't respond (Cloudflare workers daily limit) and will not be available until a few hours later

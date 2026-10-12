@@ -1,0 +1,39 @@
+LEVELING
+
+Fight. Gain Experience. Level Up. Become Stronger.
+
+Leveling adds a simple RPG progression system to Minecraft Bedrock. Fight mobs, gain experience, level up, and use your points to improve your character.
+
+How Leveling Works
+
+Every player has a level and gains experience by playing and fighting.
+
+Gain enough experience Level Up
+Every level gives you 3 points
+Use those points to upgrade your stats
+
+It's that simple! The more you play, the more you can improve your character.
+
+Upgrade Your Stats
+
+Spend your points in the Status menu to make your character stronger.
+
+Vitality Increase your maximum health.
+Fortitude Take less damage from attacks.
+Might Deal more damage to enemies.
+Precision Increase your chance to land a critical hit.
+Lethality Make your critical hits deal more damage.
+
+Settings
+
+Level Up With Your Enemies
+
+Mobs can have levels too, making combat more challenging as you progress. Prepare yourself, improve your stats, and take on stronger enemies!
+
+Your Progression. Your Power.
+
+Start as a beginner and work your way up. Earn experience, gain levels, collect upgrade points, and create a stronger character with every level.
+
+Fight More. Level Up. Upgrade. Conquer.
+
+If you find a bug join my discord and report it -> https://discord.gg/D6pEZpWrH

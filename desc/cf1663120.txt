@@ -1,0 +1,31 @@
+Focus on simplicity, using only clear pixel outlines in a minimalist style that doesn't distract the eye or consume excessive system resources.
+
+In this mod, a total of 11 ore types feature custom colored outlines as follows:
+
+Overworld Ores:
+
+1. Coal Ore
+
+2. Iron Ore
+
+3. Copper Ore
+
+4. Gold Ore
+
+5. Redstone Ore
+
+6. Lapis Lazuli Ore
+
+7. Diamond Ore
+
+8. Emerald Ore
+
+(Includes both standard Stone and Deepslate variants)
+
+Nether Ores:
+
+9. Nether Quartz Ore
+
+10. Nether Gold Ore
+
+11. Ancient Debris

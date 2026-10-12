@@ -1,0 +1,30 @@
+IterationT End Skybox
+
+Only works with MB Loader
+
+This texture pack provides a beautiful End Sky just like the Java Shader IterationT.
+This pack has been tested with many MB Loader Shaders including:
+
+Newb X Complementary Reimagined
+
+Newb X Unwind
+
+Newb X Trailer
+
+Newb X Nebula
+
+Newb X Stars
+
+Newb X Blissful HDR Rewrite
+
+Newb Vibrance
+
+Newb Supplementary
+
+Newb Explementary
+
+NOTE: THIS PACK ONLY WORKS WITH MB LOADER
+
+If you guys are facing any problems or would like to have a talk:
+
+Join my discord for sneak peaks & early access.

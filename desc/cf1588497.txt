@@ -1,0 +1,25 @@
+Better Connected Glass
+
+Tired of glass blocks looking like a grid of segmented panes? Better Connected Glass merges adjacent glass blocks into smooth, seamless surfaces giving your builds clean glass walls, greenhouses, and windows without the ugly grid lines.
+
+Two Modes, Your Choice
+
+- Borderless Glass removes the connecting borders for a sleek, seamless look while keeping the glass's natural texture detail.
+
+- Clear & Borderless Glass goes a step further with fully clear, crystal-like glass plus the seamless borderless connection, for maximum transparency and visibility.
+
+Switch between the two anytime from the pack's subpack selector in-game no need to download separate packs.
+
+Achievement Friendly
+This is a pure resource pack with no behavior pack, Script API, or experimental toggles so it won't disable achievements. Drop it in and keep earning your trophies.
+
+Includes
+
+- All standard glass blocks and glass panes
+
+- Full color variant support (all 16 dyed glass/pane colors)
+
+- Tinted glass support
+
+Compatibility
+Minecraft Bedrock Edition 1.21.80+

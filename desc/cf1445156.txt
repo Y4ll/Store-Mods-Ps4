@@ -1,0 +1,57 @@
+X-ray plus+ by Aizhu
+
+This resource pack makes underground ores easy to find by turning most underground blocks transparent while keeping all ores clearly visible with outlines.
+
+Without night vision (Smooth Lighting OFF + Brightness 100%)
+
+With night vision
+
+With block outlines
+
+Features
+
+- Transparent stone, deepslate, and underground blocks
+
+- All ores remain visible and easy to identify with outlines
+
+- Supports overworld and underground mining
+
+- Optimized for mobile devices
+
+- Safe to use with achievements enabled
+
+Performance
+
+Optimized for MCPE and low-end devices. No heavy shaders or scripts, ensuring smooth gameplay without significant FPS drops.
+
+Notes
+
+- Resource pack only (no behavior pack required)
+
+- Best used for mining and exploration
+
+- Use responsibly on multiplayer servers
+
+Supported Versions
+
+- Minecraft Bedrock Edition (MCPE/BE)
+
+- Version 1.21+
+
+Support
+
+YouTube: @siaizhu
+
+TikTok: @siiaizhu
+
+Donate:
+
+- Sociabuzz
+
+- Ko-fi
+
+Discord Community: Aizhu comunity
+
+More addons and texture packs: https://legacy.curseforge.com/members/aizhu/projects
+
+If you enjoy this addon, consider following me on CurseForge so you don't miss future updates and new projects.

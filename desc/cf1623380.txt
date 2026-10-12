@@ -1,0 +1,53 @@
+Japanese Historical Weapons & Armors
+
+This addon adds 35 historical Japanese weapons and a full samurai armor set to Minecraft Bedrock. Every weapon has its own unique 3D model no flat sprites, no recolored vanilla items. Made for the Echoes of Past Modjam 2026 contest.
+
+Weapons
+
+Swords:
+
+- Katana, Tachi, Chokuto, Wakizashi, Osuriagi, Tanto
+
+Polearms:
+
+- Naginata, Sasumata
+
+Chain Weapons:
+
+- Kusarigama, Chigiriki, Kusari-Fundo, Kyoketsu-Shoge
+
+Clubs & Staves:
+
+- Kanabo, Otsuchi, Bo Staff, Jo Staff, Tonfa, Nunchaku
+
+Axes & Field Tools:
+
+- Ono, Tobiguchi, Kuwa, Kama
+
+Thrown:
+
+- Shuriken, Kunai, Makibishi, Bo-Hiya
+
+Close Quarters:
+
+- Shuko, Ashiko, Tekko-Kagi, Tessen
+
+Sidearms:
+
+- Jutte, Sai, Kabutowari, Fukiya, Kiseru
+
+Samurai Armor
+
+A full 4-piece armor set inspired by real samurai armor. It gives the same protection as diamond armor and can be repaired with iron.
+
+- Kabuto: Helmet
+
+- Do-Maru: Chestplate
+
+- Kusazuri: Leggings
+
+- Suneate: Boots
+
+Dyeable Armor
+
+You can dye any armor piece using any of the 16 dyes on the crafting table.

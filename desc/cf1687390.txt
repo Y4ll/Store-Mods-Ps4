@@ -1,0 +1,35 @@
+Compatible with A&S JA HMI X-NOVA
+Uncover the forgotten power hidden beneath the world and elevate your Minecraft adventure with animated tools forged from the depths of the abyss.
+Abyssal Remnant+ is a premium animated tools resource pack for Minecraft Bedrock Edition, designed to bring life, motion, and atmosphere to every tool you use. Featuring smooth animations, detailed custom textures, and a dark fantasy aesthetic, this pack transforms ordinary equipment into powerful relics inspired by ancient remnants and mysterious abyssal energy.
+Built with broad compatibility in mind, Abyssal Remnant+ supports multiple popular animation systems, allowing players to enjoy a seamless experience regardless of their preferred animation framework.
+
+Features
+Smooth Animated Tools
+Premium Custom Textures
+Dark Fantasy & Abyssal Theme
+Enhanced First-Person Visuals
+Survival & Creative Friendly
+Lightweight & Performance Optimized
+Multiplayer Friendly
+Designed for Minecraft Bedrock Edition
+
+Supported Equipment
+Sword
+Pickaxe
+Axe
+Shovel
+Hoe
+Spear
+
+Animation Compatibility
+Actions & Stuff (A&S)
+Just Animations (JA)
+HMI Enhanced
+X-NOVA
+Designed to integrate smoothly with supported animation frameworks while maintaining a polished and immersive gameplay experience.
+
+Enter The Abyss
+Whether you're exploring vast cave systems, gathering resources, battling dangerous enemies, or creating ambitious builds, Abyssal Remnant+ adds motion and personality to every action.
+Inspired by forgotten civilizations and ancient powers hidden beneath the surface, this pack delivers a darker and more immersive atmosphere without straying too far from Minecraft's familiar style.
+Every animation and texture has been carefully crafted to provide a clean, refined, and enjoyable experience for players who appreciate high-quality visual enhancements.
+Forge your path through darkness. Wield the remnants of the abyss. Create your own legend.

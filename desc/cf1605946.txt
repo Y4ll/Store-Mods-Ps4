@@ -1,0 +1,14 @@
+Chop smarter, not slower. Sneak + break one log and the ENTIRE tree comes down instantly trunk, branches, and all with leaves auto-cleared around every log for a clean, natural-looking result. No more clicking block-by-block up a jungle tree.
+
+Built-in CROP CAPITATOR: sneak + break any crop to harvest the whole patch in one hit. Wheat, carrots, potatoes, beetroot clear an entire field without moving your feet.
+
+FEATURES
+- Instant tree felling break 1 log, drop the whole tree
+- Smart 3D log detection catches diagonal branches and irregular tree shapes
+- Auto leaf clearing around every chopped log
+- One-hit crop harvesting for same-type crop clusters
+- Sneak-to-activate normal breaking still works exactly like vanilla
+- Lightweight and fast no lag, no clutter, no unnecessary extras
+- Fully configurable range and limits
+
+Just sneak, break, and watch it work. No axe or hoe required by default pure convenience, zero setup.

@@ -1,0 +1,5 @@
+Official Bedrock port of the original DontCry mod.
+
+This is a stalker mod thats add a lots of creatures , I was inspired by somes youtubers that does scripted videos , so i wanted to make a mod about the fake scripted videos of the youtuber .
+
+Here is the java edition : https://www.curseforge.com/minecraft/mc-mods/dontcry

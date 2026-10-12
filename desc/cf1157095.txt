@@ -1,0 +1,70 @@
+Winter Wonderland
+
+Winter Wonderland is here to bring festive cheer and thrilling adventures! Explore a magical world filled with new mobs, holiday-themed food, powerful weapons, and vibrant decorations. Craft Christmas clothing with mistletoe, open gifts for random surprises, and summon the Good Elf to trade unique items. Watch out for Evil Elves lurking in the darkness, ready to challenge your bravery. Whether you're building a glowing tree or hunting for the elusive Icicle Dagger, there's something for everyone. Dive into this special event and embrace the spirit of the season!
+
+Note.
+
+Available in Spanish and English!
+Tambien disponible en Espanol!
+
+Compatible with almost all addons!
+
+No Experimental Features Required
+
+Content
+
+Mistletoe:
+Dropped by holiday enemies like Evil Elves or purchased from the Good Elf.
+Used to craft most holiday items and decorations.
+
+Clothing
+
+Christmas clothing is nearly indestructible and offers excellent protection, though it doesnt grant a full-set bonus like other armor.
+You can craft it using mistletoe dropped by defeated Evil Elves.
+
+Food
+
+Christmas food provides stat-boosting effectstry them all! You can purchase them from the Good Elf or collect them by defeating holiday-themed mobs.
+
+Reduces your fear when consumed. The higher the rarity, the greater the reduction.
+
+Weapons
+
+Icicle Dagger:
+You can find it by opening gifts scattered across the world!
+
+Candy cane
+Deals 7 damage and can also be eaten!
+
+Gifts:
+Opening them gives you random items! The higher the rarity, the better the item.
+
+Star:
+You can summon the Good Elf, from whom you can buy Christmas items and food.
+Summon him in your house or a safe place, as the Good Elf will always return to this spot when night falls.
+
+North Pole Staff:
+Coming in future updates!
+
+Decoration
+
+Large Gifts:
+They appear around the world, and when opened, you'll receive random items or the Icicle Dagger.
+
+Small Gift:
+You can buy them from the Good Villager using mistletoe. You can place and open them, or use them as decoration. Plus, the green gift is a lamp!
+
+Christmas Tree:
+You can craft it with mistletoe, and when placed, it may generate in one of the available colors!
+
+Mobs
+
+Evil Elves:
+4 variants, each with different stats.
+They drop mistletoe and Christmas items when defeated. They spawn anywhere in the dark.
+They attack villagers, good elves, and zombies.
+
+Good Elf:
+You can summon him using the Star, which is crafted with mistletoe and gold ingots.
+Summon him in a safe spot or your house, as he will always return to the place where he appeared at night.
+He sells Christmas items!

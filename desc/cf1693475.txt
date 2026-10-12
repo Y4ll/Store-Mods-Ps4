@@ -1,0 +1,26 @@
+THIS ADDON IS ACHIEVEMENT FRIENDLY
+
+Items Ragdoll replaces dropped items with versions that feature physics-based movement and rotation. These items can fall, roll, collide, be pushed by entities and pistons, float in liquids, and react to lava just like vanilla items.
+
+Features
+- Movement and collisions.
+- Smooth, dynamic rotation when items are thrown.
+- Support for both items and blocks.
+- Items can be pushed by players, entities, and pistons.
+- Compatibility with water, lava, and hoppers.
+- Fire-resistant items survive in lava.
+- Item pickup, stacking, and automatic despawning.
+- Players in spectator mode cannot pick up items.
+- Simple configuration to adjust physics behavior.
+
+This addon is designed to enhance the visual appeal of items without altering their in-game utility.
+
+Note:
+
+DOWNLOAD BOTH PACKS BP AND RP
+
+Discord: euforiaconr
+
+Discord server comunity: https://discord.gg/YJ5v727bJH
+
+YT: https://www.youtube.com/@Euforia-conr

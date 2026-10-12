@@ -1,0 +1,25 @@
+After version 1.5.0, this addon now requires an API to work!
+
+Dynamic Lighting API: MCPEDL | CurseForge Page
+
+Simple Dynamic Lighting is an optimized addon that adds light sources when the player holds an item that normally emits light.
+
+Items that don't break when underwater, will emit light underwater as well.
+
+You can swap dynamic lighting items between your offhand/mainhand.
+
+You do this by crouching twice within half of a second.
+
+Enchanted items will give off light.
+
+Entities that are on fire, will give off light.
+
+Some entities will give off light by default.
+
+Achievements do not get disabled with this addon enabled.
+
+Have fun with your new dynamic lighting!
+
+Showcase Video
+
+Join the discord! Discord

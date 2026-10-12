@@ -1,0 +1,44 @@
+SPEEDSTER MULTIVERSE NEW UPDATE
+
+The Speed Force is now faster and more powerful than ever.
+
+Check out everything added in this new addon update:
+
+New Tornado System
+Tornado now follows the player correctly
+Pulls nearby mobs with stronger force
+Improved area damage
+More effects and better speed immersion
+
+Speedster Power Improvements
+Faster and smoother running
+Improved water running
+Enhanced Wall Run system
+More stable Phasing/Vibration through blocks
+
+Reworked Slow Motion
+Entities and projectiles now actually slow down
+More cinematic gameplay
+Better optimization
+
+New Speedster Bosses
+Reverse Flash
+Zoom
+Servitar
+
+New Visual Effects
+New Speed Force lightning effects
+Improved particles
+More immersion at high speeds
+
+Balancing Changes
+Adjusted armors
+Better resistance and combat balance
+More fun and balanced gameplay
+
+General Fixes
+Bug fixes
+Improved stability
+Better Minecraft Bedrock compatibility
+
+MORE UPDATES COMING SOON.

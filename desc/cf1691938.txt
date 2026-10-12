@@ -1,0 +1,63 @@
+Lynx Simple Dynamic Light
+
+More Light. More Adventure.
+
+Lynx Simple Dynamic Light brings true dynamic lighting to Minecraft Bedrock no more standing in the dark just because you're holding a torch instead of placing it! Any supported light source held in your main hand or off-hand will now actually light up the world around you, in real time, with zero setup required.
+
+Features
+
+- 71 light-emitting items supported from torches and lanterns to candles, froglights, and rare drops like Nether Stars and Totems of Undying.
+
+- Off-hand ready hold a light source in your off-hand while wielding a weapon or tool in your main hand, and still get full illumination. Craft the off-hand versions of your favorite light items directly at a crafting table.
+
+- Smart light switching the addon automatically uses whichever hand is holding the brighter light source, so you're never in the dark.
+
+- Stable performance built entirely on the official @minecraft/server Script API, with lightweight per-tick checks and no unnecessary lag.
+
+- Vibrant Visuals compatible the resource pack uses vanilla item textures only, so it stays compatible with Bedrock's Vibrant Visuals rendering.
+
+- Simple, clean crafting recipes every off-hand light item has an intuitive 1:1 (or close) crafting recipe using its vanilla counterpart, so there's nothing new to learn.
+
+Supported Light Sources
+
+Torches & Lanterns Torch, Soul Torch, Redstone Torch, Copper Torch, Lantern, Soul Lantern, Copper Lantern (+ Exposed / Weathered / Oxidized, waxed & unwaxed)
+
+Candles Candle + all 16 dyed candle colors
+
+Natural & Ore Light Glowstone, Glowstone Dust, Amethyst Cluster, Glow Lichen, Glow Berries, Glow Ink Sac, Sea Pickle, Crying Obsidian, Magma Block, Redstone, Firefly Bush
+
+Froglights Ochre, Verdant, Pearlescent Froglight
+
+Utility & Redstone Blocks Redstone Lamp, Redstone Torch, Repeater, Comparator, Enchanting Table, Ender Chest, Brewing Stand, Sculk Catalyst
+
+Rare & Special Items Beacon, Conduit, End Rod, Sea Lantern, Shroomlight, Jack o'Lantern, Campfire, Soul Campfire, Respawn Anchor, Nether Star, Totem of Undying, Dragon's Breath, Enchanted Book, Ender Eye, Experience Bottle, Blaze Rod, Blaze Powder, Fire Charge, Lava Bucket
+
+Installation
+
+- Download the .mcaddon file.
+
+- Open it with Minecraft Bedrock installed both packs will import automatically.
+
+- Create or edit a world, then enable both:
+
+- Lynx Simple Dynamic Light (Behavior Pack)
+
+- Lynx Simple Dynamic Light Resources (Resource Pack)
+
+- Load in and start crafting off-hand light sources at any crafting table!
+
+How It Works
+
+Simply hold a supported light source in either hand. The addon checks your main hand and off-hand every tick and automatically emits light at the correct level based on whichever item you're holding matching vanilla light levels as closely as possible. No commands, no configuration, just pick up a torch and go.
+
+Compatibility
+
+- Minecraft Bedrock: 1.26.40 and above
+
+- Works in Survival, Adventure, and Creative
+
+- Safe to add to existing worlds
+
+- Compatible with other addons that don't modify the same vanilla item/recipe definitions
+
+Created by Lynx. Bring the light with you, wherever you go.

@@ -1,0 +1,1 @@
+These wandering guards will spawn in, in search of villages to defend. will attack any monsters in the village. They spawn in with a sword of varying types and enchantments

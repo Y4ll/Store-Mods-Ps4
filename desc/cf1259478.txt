@@ -1,0 +1,95 @@
+Timer V - Timer, Stopwatch, Real time and more
+
+About
+
+When you think of a timer in Minecraft Bedrock, what comes to mind? Maybe a point in the future that you want to reach or something as banal as a stopwatch to keep you grounded. My idea of it is the Timer V, you could say it redefines what a timer should do do in Minecraft Bedrock. Stay tuned and let me know what you think about it!
+
+Github
+
+I highly recommend to check out my Github repositorie for the best experience as Forge does not support tables or links in the description page to explain features, for example.
+
+Update?
+
+If you are actively looking for the Timer Ultimate (v.4.2.2 or older), please use this guide instead! When you are using such a version, it can simply be updated by follow these steps.
+
+Language barrier?
+
+This is no problem. The timer is now available in more than 30 languages[^4] , so your friends can also understand how to use the timer. This features is relatively new so please give me feedback about your experience!
+
+Usual main menu
+
+Let's break this down into pieces. What do these buttons and how do I access it?
+
+Control
+
+Every player can open the menu of the timer using these methots (can be activated or deactivated in settings):
+
+- jumping and sneaking at the same time (jump gesture)
+
+- by interacting using a stick (right click)
+
+- by nodding (only in specator mode)
+
+- by emoting (is not enabled by default)
+
+- entering /scriptevent timerv:menu
+
+Condition
+
+This is as far as possible always available. It lets you pause or resume your stopwatch or if set up the timer. If it's not available, you shouldn't have a reason to.
+
+Reset <stopwatch or timer>
+
+Should be pretty self-explanatory, just reset your timer or stopwatch to 0 and is therefore only available if the timer is not already at 0
+
+Change time
+
+Remember how I said at the beginning that a timer is a point in the future that you want to reach? This point can be set here and increased or decreased at any time later. In fact, it can also be combined with the shared timer function.
+
+Special ones:
+
+Read more here
+
+Settings
+
+Settings are really always available and individual for each player so let's take a closer look what these buttons do!
+
+Type (sometimes called mode)
+
+As the name suggests, you can set the counter type here, e.g. change from timer to stopwatch. If no timer is shared and the challenge mode is not used you can also select: World-time
+
+Permission (admins)
+
+So what the hell does that even mean "admins"? Well, admins are players who have special rights. Using the permission feature, these player can now also appoint other players to be an admin. There is also some general information available, e.g. when a player last played in the world.
+
+Operators (players who can, among other things, execute commands) or members do not necessarily have to be admins! I know it's a little confusing
+
+Time zone (admins)
+
+For example, in order to clone your realtime, Minecraft needs to know which time zone you are in. Normally you only setup that ones and leave it as it is.
+
+Fullbright
+
+Gives you permanent night vision. What can I say about it? That it always works...
+
+Custom Sounds
+
+Replaces all sounds from the timer with the ones you specify. It requires a compatible resource pack more on that here
+
+Actionbar
+
+Long story short, it lets you change your entire actionbar:
+
+Use actionbar
+
+If this is switched off, the timer will continue to run normally, but will no longer be displayed in your actionbar
+
+Show day time (& Time Source)
+
+As you can see in the picture, a time (17:23 o'clock) is displayed after the splash screen, this is described as "daytime". Optionaly would you change that to your real time with Time Source.
+
+Change the look!
+
+I'm really serious. This allows you to change how the timer displays time. For example, you could add a text like "Yay" to the actionbar when the timer runs over an hour.
+
+Note: This function is only partially available, e.g. you cannot yet create your own designs bu

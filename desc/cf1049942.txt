@@ -1,0 +1,27 @@
+Tired of replanting trees and crops in your world and want to find a faster way to get wood and leaves material? This add-on is the right for you! Hope you enjoy.
+
+This add-on adds new blocks in your world that can help you get more wood, leaves and other things. Introducing the Easy Bonsai!
+
+The new and improved bonsai addon! These are no longer entities but blocks. I have also changed the texture and model to fit its plant counterpart.
+
+Every 30 seconds it will drop logs and leaves.
+
+Using Enriched Bone Meal on the bonsais will speed up the drops from 30 seconds to 15 seconds.
+
+Recipes:
+
+Enriched Bonemeal
+
+Bonsai Pots
+
+Bonsai Crops
+
+Sheared Bonsai Crops.
+Sheared Bonsais won't produce anything, it would just be for decorations.
+
+Credits:
+@NQHung2004 - For the Improved Bonsai Tree Textures.
+
+Report Bugs:
+
+Discord: https://discord.gg/DZ7Q2ugEeg

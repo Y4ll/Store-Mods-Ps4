@@ -1,0 +1,23 @@
+Block light sources work for any player (or mob) carrying them. They also work if thrown on the ground (as of 1.7).
+
+Basically it's a form of dynamic lighting.
+
+Lighting Options
+
+Strictly speaking they just need to be in the inventory to work. There are 2 ways you can change this:
+
+(As of 1.6) You can disable the inventory light sources by having a thick potion in your inventory as well. Items in the hotbar and held items always produce light. A thick potion in your hotbar has no effect.
+
+(As of 1.8) You can make it work only in the main hand. To do this switch to creative mode, hold an awkward potion for a while (takes up to 15 seconds). You will receive a message about being in hard lighting mode. To switch back to the default hold a mundane potion in the same manner. You can leave creative mode once the switch is made and the change will stay.
+
+If you don't want any options and only want the light sources to work from your main hand, you might consider this https://www.curseforge.com/minecraft-bedrock/addons/simple-dynamic-lighting addon instead. it is identical to this one except that out of the box it only works with main hand items. no options with potions or toggling in creative mode.
+
+Notes
+
+The light produced by the block when placed will be the same when held. So a torch is a light level of 14 and a lantern would be 15 (the max). Blocks like a furnace where they need to be lit do not produce light. the conduit and beacon also do not produce light when held. The only odd exceptions to this are the plain white candle which I let work unlit for the novelty. As well as amethyst shard which i elected to work as a light source instead of making the amethyst bud blocks work, which you normally don't carry.
+
+Blocks that can't be placed underwater don't work underwater. So a torch will not light while underwater, nor will a lantern, but something like a glowstone or sea lantern will.
+
+if you are holding multiple items that produce light. the best possible effect will be used. for example if you are holding a sea pickle, a torch and a lantern. the lantern will work as its the brightest until you go underwater then the sea pickle will. BTW multiple sea pickles in inventory is still just count as 1. The same goes with white candles. Colored candles do not produce light.
+
+Demo

@@ -1,0 +1,177 @@
+Welcome to:
+
+Minecraft has a lot of potential with the ingredients already in the game. However, it doesn't seem like they're interested in using that potential, since they barely add any new food items. I decided to take things into my own hands and make a mod that shows what Minecraft could or should do with their food. Over 100 new dishes, 8 new cakes, a placeable pancake stack, and a placeable brownie tray.
+Milk Bottles, Cheese, Stuffed Seapickles, and Cheesecake all clear potion effects like milk does
+
+Addon License/ Port Permission
+
+License : All Rights Reserved
+
+Permission from Moralle :
+
+Special thanks to Moralle for creating this excellent mod
+
+Here is the original project link:Vanilla Cookbook - Minecraft Mods - CurseForge
+
+Addon content
+
+New Food
+
+BlockFood
+
+Compatibility with Other addons
+
+Farmer's Cookbook adds compatibility between Farmer's Delight and Vanilla Cookbook , providing more foods and recipes.
+
+_
+
+Items that can be thrown into the Composter:
+
+-Trail Mix (30%)
+-Cooked Bamboo (85%)
+-Cooked Beetroot (85%)
+-Cooked Egg (85%)
+-Cooked Turtle Egg (85%)
+-Grilled Melon (85%)
+-Baked Apple (85%)
+-Cheese (85%)
+-Cactus Slice (50%)
+-Cooked Cactus Slice (85%)
+-Berry Cookie (85%)
+-Honey Cookie (85%)
+-Potato Cookie (85%)
+-Pumpkin Cookie (85%)
+-Sunflower Seed Cookie (85%)
+-Potato Chips (85%)
+-Hot Potato Chips (85%)
+-Beet Chips (85%)
+-Apple Chips (85%)
+-Stuffed Sea Pickle (85%)
+-Miner's Salad (85%)
+-Apple Pie (100%)
+-Beetroot Pie (100%)
+-Berry Pie (100%)
+-Wart Pie (100%)
+-Poisonous Pie (100%)
+-Pancake (100%)
+-Berry Pancake (100%)
+-Honey Pancake (100%)
+-Bacon Pancake (100%)
+-Creepe (100%)
+-Brownie (100%)
+-Berry Brownie (100%)
+-French Toast (100%)
+-Potato Pancake (100%)
+-Berry Cake (100%)
+-Carrot Cake (100%)
+-Cheesecake (100%)
+-Chocolate Cake (100%)
+-Mohnkuchen (100%)
+-Ice Cream Cake (100%)
+-Rose Cake (100%)
+-Chorus Cake (100%)
+-Book Cake (100%)
+-Pancake Stack (100%)
+-Brownie Tray (100%)
+
+Villager Trades:
+
+(Buy/Sell)
+
+-Level 2 Farmer:
+1 Emerald for 4 Cheese
+1 Emerald for 4 Apple Pies
+1 Emerald for 4 Beetroot Pies
+1 Emerald for 4 Berry Pies
+
+-Level 3 Farmer:
+3 Emeralds for 18 Berry Cookies
+
+-Level 4 Farmer:
+1 Emerald for 1 Berry Cake
+1 Emerald for 1 Carrot Cake
+1 Emerald for 1 Chocolate Cake
+1 Emerald for 4 Pancakes
+
+-Level 5 Fisherman:
+3 Fish and Chips for 1 Emerald
+
+-Level 5 Librarian:
+1 Book Cake for 2 Emeralds
+
+-Level 4 Butcher:
+1 Emerald for 6 Meatloafs
+1 Emerald for 8 Meatballs
+1 Emerald for 12 Hot Chicken Wings
+
+_
+
+List of food and their crafting recipes (a slightly more extensive list can also be found Here):
+
+Cooked Bamboo | 3 Hunger 1.8 Saturation
+
+Cooked Beetroot | 4 Hunger 3.2 Saturation
+
+Cooked Egg | 4 Hunger 3.6 Saturation
+
+Grilled Melon | 4 Hunger 3.6 Saturation
+
+Baked Apple | 6 Hunger 4.8 Saturation
+
+Cooked Turtle Egg | 8 Hunger 12.8 Saturation
+
+Cooked Sniffer Egg | 9 Hunger 9 Saturation
+
+Cactus Slice | 3 Hunger 3.6 Saturation | 50% to do 1 heart of damage
+
+Cooked Cactus Slice | 8 Hunger 12 Saturation | 25% to do 0.5 hearts of damage
+
+Cheese | 3 Hunger 1.8 Saturation | Clears potion effects
+
+Garden Soup | 6 Hunger 7.2 Saturation
+
+Pumpkin Soup | 4 Hunger 6 Saturation
+
+Fish Stew | 6 Hunger 2.4 Saturation
+
+(Any raw fish)
+
+Vegetable Stew | 8 Hunger 12.8 Saturation
+
+(Any mushroom. Potato and Beetroot are interchangeable for each other)
+
+Meaty Stew | 7 Hunger 14 Saturation
+
+(Any meat)
+
+Chicken Soup | 6 Hunger 9.6 Saturation
+
+Ink Soup | 3 Hunger 0.6 Saturation
+
+Glow Ink Soup | 4 Hunger 1.2 Saturation
+
+Fungus Stew | 6 Hunger 7.2 Saturation
+
+(Any 2 Fungus)
+
+Smoldering Stew | 3 Hunger 3.6 Saturation | 10 seconds of Fire Resistance
+
+Plain Salad | 4 Hunger 2.4 Saturation
+
+Kelp Salad | 5 Hunger 6 Saturation
+
+(Any raw fish)
+
+Fruit Salad | 6 Hunger 7.2 Saturation
+
+Golden Fruit Salad | 8 Hunger 12 Saturation | Grants Instant Health 1
+
+Root Salad | 3 Hunger 0.6 Saturation
+
+(Each Root is required)
+
+Mashed Potatoes | 6 Hunger 7.8 Saturation
+
+Apple Sauce | 5 Hunger 6 Saturation
+
+Mushroom Scrambled Eggs | 6 Hunger 7.2 Saturation

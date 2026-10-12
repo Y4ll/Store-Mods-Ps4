@@ -1,0 +1,25 @@
+Project Description:
+
+Actual Fishing enhances the vanilla Minecraft fishing experience by introducing immersive mechanics. Catch live fish, skin them to collect raw meat, and leave item icons behind. Step into the shoes of a real fisherman and experience survival fishing like never before!
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project..
+
+- Catch live fish instead of icons.
+
+- Realistic fishing experience.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Gone are the days of simply reeling in static item icons. When you cast your line, you will now hook dynamic, live fish that bring a whole new level of immersion to your fishing adventures.
+
+Bring your catch to the shore and watch them flop realistically on land. To harvest your reward, ready your weapon and use a sword to interact with the flopping fish, cleanly collecting the raw meat you need for survival.
+
+Take your freshly harvested raw fish over to a campfire, furnace, or smoker. Once heated to perfection, you will be rewarded with delicious cooked fishthe ideal meal to keep your hunger bar full while exploring the seas and shores of Minecraft.

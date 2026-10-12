@@ -1,0 +1,85 @@
+"Made by MissGhoul"
+
+What is Ghoulcraft BE?
+
+The new Ghoulcraft BE is the continued ported version of Kao from MissGhouls Ghoulcraft CIT for Java. Before, Ghoulcraft BE is a Data-Driven Block Add-On Pack, or also known as a CIM pack. But now it is a combined with term I called 'ITM' stands for item dependent model. The new version fixes all of the blocks from the previous version and included new items to use into your world as decorations!
+
+On this update, Most blocks are now can be interacted with stick but the sit option is not included (on blocks but on chairs and barstool you can now) but dont worry because on the next update it will be implemented. This is primarily intended for Creative players, but i am planning to make it available to be obtained in survival but at the moment, you can get the furnitures in creative menu or using commands at the moment.
+
+Some of the models in the image are from the Mizuno's 16 CIT addon. It is used for aesthetic purposes only. Also, the models are been optimized for low end devices to avoid crashing and lags.
+
+Other Add-ons I used: Connected Walls and Glass
+
+Playing with Ghoulcraft BE
+
+For more info, visit Ghoulcraft BE's Item Catalog to see the list of all currently included items in the pack(s).
+
+The site shows the permission and terms of use from the creator, how the new ghoulcraft furniture in be works, and credentials of all the people who significantly make the bedrock version of Ghoulcraft Furniture in bedrock possible.
+
+Ghoulcraft BE only works on Windows 10, Android, & Apple Devices Running Minecraft Bedrock/Pocket Edition 1.21.70+ and above (Advisable to use 1.21.70+). I dont know if it works on consoles or playstation!
+
+Ghoulcraft Terms Of Use
+
+All Models created by Ghoulcraft are the intellectual property of MissGhouls, unless otherwise noted (ie: Contest models created by other artists, and several other models/textures owned by Mizuno).
+
+- Do not redistribute the pack as your own, or claim it as your own creation. (This includes re-porting the pack to BE/PE)
+
+- Do not modify the pack without express written permission from MissGhouls.
+
+- Do not upload the packs to any websites.
+
+- Do not claim the models or textures as your own.
+
+- Do not modify the models or textures without express permission from MissGhouls.
+
+- Do not steal the models & make "remix" packs.
+
+Failure to abide by this TOU can be met with legal action by both MissGhouls, and Mizuno. Please contact MissGhouls via email for any inquiries regarding translating the pack into other languages, remixing it, recoloring it, etc.
+
+Notes
+
+The original models belongs to MissGhouls, who have given me permission to port the pack into Bedrock!
+
+MissGhouls does not give permission to use her models in mods, to upload Ghoulcraft to any other websites, or to use the name "Ghoulcraft Resource Pack" without asking her privately first. Ghoulcraft is found only on Ghoulcraft.com, PMC, Curseforge and MCPEDL!</mark>
+
+*Do not download Ghoulcraft from any other website or applications from playstore, as we cannot guarantee the safety of the link or app!
+
+Helpful Links
+
+Catalog list of of all items:
+
+- List of all the items in Ghoulcraft BE Furniture (Only Applicable on version 3.0 and 3.1)
+
+https://www.canva.com/design/DAGb5RPtKxo/tF_BGsQ7mxhL3PZ_JtBiCQ/view?utm_content=DAGb5RPtKxo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h34d540d371
+
+Current Ghoulcraft BE Discord For Help & Discussions:
+
+https://discord.gg/EZMSzeXZX4
+
+Credits
+
+Original Creator: MissGhouls
+
+- https://www.ghoulcraft.com/contact-us
+
+2025 Bedrock Updater (Fixer): Gooblicraft
+
+- https://www.youtube.com/@gooblicraft7217/videos
+
+2021 Bedrock Porter: Kaomc
+
+- https://beacons.page/kaomc
+
+Nox's Better Carpets Textures By: NoxcturnalMC
+
+- https://noxcturnalmc.wordpress.com
+
+Importing
+
+- Download the pack from any of this website PMC, MCPEDL, or Curseforge.
+
+- Click on the file and open it to Minecraft.
+
+- Create a New World.
+
+- In the Game Tab, 

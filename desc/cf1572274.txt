@@ -1,0 +1,71 @@
+NEW CHANGES & ADDON UPDATES
+
+New Weapon Function: Added osc_look_strike
+
+SkyGen Upgrades: Added a brand new Pet Shop & AFK Area! [+]
+
+New Kit Function: Added custom_kit
+
+Renamed & Upgraded: op_block has been completely upgraded to admin_block!
+
+PvP & Toggle Systems: Added 4 new functions for PvP & Immortal ON/OFF toggles!
+
+Automation: New Auto-Totem ON/OFF system is now fully loaded!
+
+PLAYER TIP: To see every single available function inside the game, simply type the command:
+
+/function all_function_list
+
+FULL FUNCTIONS LIST
+
+ENCHANTS:
+
+all_enchant_book diamond_all_enchant netherite_all_enchant negative_enchant thorns non_thorns lvl10 lvl20 lvl30 lvl50 lvl100 lvl150 lvl200 lvl5000 lvlmax all_function_list
+
+ARMOR & KITS:
+
+legitarmor_diamond legitarmor_iron legitarmor_netherite maxarmor_diamond maxarmor_iron maxarmor_netherite custom_kit NINJAYT_KIT
+
+ITEMS & BLOCKS:
+
+broken_item ghost_block invis_item loot_chest stakebel_item tools potions admin_block
+
+WORLD & STRUCTURES:
+
+illegal_room illegal_room.2 op_base op_villagers skygen
+
+PVP & BOTS:
+
+pvp_arena pvp_bot_easy pvp_bot_normal pvp_bot_hard
+
+ORBITAL STRIKE CANNONS:
+
+all_orbital_strike osc_arrow osc_BIG osc_look_strike osc_MINI osc_stab_shot_crystal osc_stab_shot_tnt osc_wither osc_wolf_cannon op_crossbow
+
+TOGGLES & EFFECTS:
+
+effect_pvp_on effect_pvp_off effect_immortal_on effect_immortal_off autototem_on autototem_off
+
+SPAWNERS:
+
+spawn_all spawn_in_inven
+
+TAGS CONTROLLER GUIDE (For Operators/OP)
+
+Manage players easily using custom automated tags:
+
+To Give Effect / Totem: /tag <PlayerName> add <TagName>
+
+To Remove Effect / Totem: /tag <PlayerName> remove <TagName>
+
+Available Tags:
+
+a_t (Auto-Totem)
+
+e_p (Effect PvP)
+
+e_i (Effect Immortal)
+
+IMPORTANT ANNOUNCEMENT ( FUTURE UPDATES)
+
+Final Version: There will be NO MORE UPDATES for this specific addon now. V-10 is the final chapter!

@@ -1,0 +1,231 @@
+YGP! X-RAY
+
+See What Others Can't!
+
+YGP! X-RAY is a Minecraft Bedrock resource pack designed to make underground exploration easier by improving the visibility of valuable ores and resources.
+
+The updated version focuses on clearer ore identification, stronger underground visibility, improved Nether resource visibility, and a lightweight resource-pack-only design.
+
+Created by YGP Studio / YGP Minecraft.
+
+WHAT DOES YGP! X-RAY DO?
+
+YGP! X-RAY reduces visual obstruction around underground resources so important ores are easier to locate and identify.
+
+The goal is simple:
+
+Find ores faster. Identify them clearly. Explore underground more easily.
+
+The pack focuses on resource-pack rendering rather than gameplay scripts.
+
+ORE SUPPORT
+
+YGP! X-RAY provides visibility support for major Minecraft ores and valuable resources.
+
+Overworld Ores
+
+Diamond Ore
+
+Emerald Ore
+
+Gold Ore
+
+Iron Ore
+
+Copper Ore
+
+Coal Ore
+
+Redstone Ore
+
+Lapis Lazuli Ore
+
+Deepslate Ores
+
+Deepslate Diamond Ore
+
+Deepslate Emerald Ore
+
+Deepslate Gold Ore
+
+Deepslate Iron Ore
+
+Deepslate Copper Ore
+
+Deepslate Coal Ore
+
+Deepslate Redstone Ore
+
+Deepslate Lapis Lazuli Ore
+
+Nether Resources
+
+Ancient Debris
+
+Nether Quartz Ore
+
+Nether Gold Ore
+
+NETHER SUPPORT
+
+YGP! X-RAY also supports important Nether resources.
+
+The pack improves the visibility of:
+
+Ancient Debris
+
+Nether Quartz Ore
+
+Nether Gold Ore
+
+This is particularly useful when exploring darker Nether environments.
+
+FEATURES
+
+Advanced underground X-Ray visibility
+
+Improved ore visibility
+
+Clearer resource identification
+
+Overworld ore support
+
+Deepslate ore support
+
+Nether resource support
+
+Ancient Debris visibility
+
+Nether Quartz visibility
+
+Nether Gold visibility
+
+Improved underground transparency
+
+Improved cave visibility
+
+Improved Nether visibility
+
+Improved ore contrast
+
+Water visibility support
+
+Lava visibility support
+
+Lightweight resource-pack design
+
+No JavaScript required
+
+No behavior pack required
+
+No gameplay scripts
+
+No custom shader required
+
+Mobile-friendly design
+
+PC-friendly design
+
+CLEAR ORE IDENTIFICATION
+
+YGP! X-RAY is designed to keep resources visually recognizable.
+
+The visual system focuses on making ores stand out from surrounding terrain without removing their recognizable Minecraft-style appearance.
+
+Examples include:
+
+Diamond Blue/Cyan
+Emerald Green
+Gold Gold/Yellow
+Iron Light/Metallic
+Copper Orange/Copper
+Coal Dark
+Redstone Red
+Lapis Blue
+Ancient Debris Dark Netherite-style appearance
+
+See the ore recognize the ore.
+
+UNDERGROUND VISIBILITY
+
+The resource pack improves visibility through underground terrain such as:
+
+Stone
+
+Deepslate
+
+Underground terrain
+
+Cave environments
+
+Nether terrain
+
+The purpose is to reduce unnecessary visual obstruction while keeping valuable resources recognizable.
+
+NIGHT VISION
+
+YGP! X-RAY can be used together with Minecraft's Night Vision effect.
+
+Recommended combination:
+
+YGP! X-RAY + Night Vision
+
+Night Vision can be useful when exploring dark caves and other low-light environments.
+
+VIBRANT VISUALS
+
+If your Minecraft version and device support Vibrant Visuals, you can try using it together with YGP! X-RAY.
+
+Vibrant Visuals can require additional GPU performance.
+
+If you experience:
+
+FPS drops
+
+Stuttering
+
+Heating
+
+Lag
+
+consider turning Vibrant Visuals off.
+
+Performance varies depending on your device, Minecraft version, render distance, world complexity, and other active resource packs.
+
+MOBILE & PC
+
+YGP! X-RAY is designed for both mobile and PC Bedrock players.
+
+The pack does not require:
+
+JavaScript
+
+Behavior-pack scripting
+
+Gameplay scripts
+
+Heavy particle systems
+
+Custom shaders
+
+External software
+
+Because performance depends on the device and Minecraft configuration, results may vary between systems.
+
+PERFORMANCE-FOCUSED DESIGN
+
+YGP! X-RAY uses a resource-pack-focused approach.
+
+It does not require:
+
+Tick-based gameplay scripts
+
+Entity scanning
+
+Custom gameplay logic
+
+External applications
+
+This keeps the pack focused on visual resource visibility.
+
+HOW TO INSTAL

@@ -1,0 +1,25 @@
+Free Cam
+
+This Add-On is a smooth, lightweight, and configurable Free Cam experience
+
+What's The Feature?
+
+We got Configurable Settings
+
+Move through blocks
+
+Important Information
+
+This pack only works in single player worlds, because only the world owner can change the world pack configuration
+
+Minimum Minecraft version 26.30 and above
+
+Click W 2x or the forward button for 2x camera speed
+
+Without Experimental nor Beta APIs
+
+Also Achievement free
+
+Join My Discord Server
+
+If you want to contact me, or request an update for an old addon (I'm a bit forgetful)

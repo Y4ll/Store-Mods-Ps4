@@ -1,0 +1,39 @@
+### Utility Chunks Performance Optimization Addon
+
+**Utility Chunks** is a performance-focused Minecraft addon designed to **optimize chunk loading** and **reduce lag caused by chunk generation**, especially in **multiplayer environments**.
+
+This addon improves how chunks are handled and synchronized between players, helping to minimize stuttering, delayed loading, and performance drops when players move across the world or gather in the same area.
+
+### Key Features
+
+* Optimizes **chunk loading performance**
+
+* Reduces lag when **multiple players load chunks simultaneously**
+
+* Improves **server-side stability**
+
+* Works efficiently on **multiplayer servers**
+
+* Script-based system for better control and optimization
+
+### Advantages
+
+* Smooth gameplay when exploring new areas
+
+* Better performance during player movement and teleportation
+
+* Designed to work reliably on servers with many players
+
+> **Utility Chunks** is ideal for servers that prioritize **performance, stability, and smooth world loading**.
+
+**Author:** FEBERNAISYSTUDIOS
+
+**Category:** Utility / Performance
+
+**Requires:** Allow Beta API
+
+Subscribe to our YouTube channel to see how it works and download the update.
+
+https://www.youtube.com/@Nova_Sky_004
+
+Give me feedback on Discord or YouTube: https://discord.gg/CdjYgGN85d

@@ -1,0 +1,5 @@
+Recycle Everything Mod
+
+Recycle almost any craftable item by interacting with on a recycler.
+
+Simply craft a recycler with a crafting table and 8 planks

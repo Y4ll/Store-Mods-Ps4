@@ -1,0 +1,17 @@
+Farmer's Pizzeria is an addon mod for Farmer's Delight and Brewin' And Chewin'.
+
+With this mod you can now make different kinds of pizzas. While most of the ingredients are taken from either mods or Minecraft, this mod also adds some of it's own new ingredients like Dorblu Cheese, Salami, and Basil.
+
+Dependencies
+
+Farmer's Delight (made by Moaswies)
+
+Brewin' And Chewin' (made by Moaswies)
+
+Note: Please place this addon above Farmer's Delight and Brewin' And Chewin' in your resource/behavior pack stack to ensure it loads correctly.
+
+Port Permission
+
+Here is the original project link:Farmer's Pizzeria - Minecraft Mods - CurseForge
+
+Special thanks to dmn_alex for creating this excellent mod!

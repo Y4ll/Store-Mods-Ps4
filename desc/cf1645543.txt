@@ -1,0 +1,13 @@
+Welcome to Alexas Mobs Addon, the ultimate wildlife overhaul for Minecraft Bedrock Edition! This expansion breathes fresh life into your worlds by introducing over 40 meticulously designed new animals and environmental elements. Whether you are exploring dense forests, deep oceans, or arid savannas, your Minecraft journeys will feel more vibrant, immersive, and unpredictable than ever before.
+
+Key Features
+
+40+ Unique Animals: Encounter a diverse range of creatures, from majestic predators and gentle herbivores to curious ambient wildlife.
+
+Dynamic Ecosystems: New wildlife seamlessly integrates into existing biomes, making every environment feel active and alive.
+
+Custom Behaviors: Each mob features unique AI routines, including realistic wandering, foraging, and defensive or aggressive reactions.
+
+Drops & Items: Discover new materials and items obtained through interacting with the addon's wildlife.
+
+Bedrock Optimized: Built specifically for Minecraft Bedrock Edition, ensuring smooth performance and full compatibility with standard worlds and multiplayer servers.

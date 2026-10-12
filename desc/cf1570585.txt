@@ -1,0 +1,103 @@
+CRAFT, IMPROVE AND REPAIR PLANES WITH THEIR OWN FUEL SYSTEM, MILITARY FEATURES AS FIGHTER PLANES, AMMO, BOMBS AND STRUCTURES!
+
+On this page, the addon is explained in 6 sections: Creations, Improvements, Repairs, Military Features, Structures, and Functioning.
+
+1. Creations
+
+-Block: Aviation Crafting Table:
+
+This is the most important block, useful for crafting each necessary part of airplanes, the pilot suit, and equipment (fuel, propellant key, and the repair kit).
+
+*Armor:
+
+-Pilot suit: (helmet, chestplate, leggings, boots) This suit has the same protection as an iron armor, but half the resistance. The pilot helmet gives night vision for 25 and the pilot chestplate gives slow falling for 6 seconds (functioning as a parachute) every time you wear it from the main bar.
+
+*Equipment:
+
+-Fuel: It's necessary to refuel the plane. It's drinkable but has strange side effects. It has only one use.
+-Plane Key: This new item is useful to ignite and turn off the plane engine.
+-Propellant Key: Give x2 speed propulsion for a couple of seconds. It has 15 uses.
+-Repair Kit: Heals 30 plane health. It has only one use.
+-Wrench: This new item is useful to Pick Up the airplane when you want to dismount a mob. It has only one use.
+
+*Items:
+
+-Propeller
+-Connected Propellers
+-Wing
+-Tail
+-Engine
+-Wheel
+-Undercarriage
+-Seat
+-Airplane Cockpit
+
+*Airplanes:
+
+-1.Wood Biplane:Speed:0.24 Seat:1 Inventory:6 Health:20
+
+-2.Gold Biplane:Speed:0.28 Seat:1 Inventory:8 Health:25
+
+-3.Lapis Biplane:Speed:0.24 Seat:1 Inventory:12 Health:30
+
+-4.Redstone Biplane: Speed:0.26 Seat:1 Inventory:10 Health:35
+
+-5.Iron Biplane: Speed:0.26 Seat:1 Inventory:14 Health:40
+
+-6.Copper Biplane: Speed:0.26 Seat:1 Inventory:16 Health:45
+
+-7.Diamond Airplane: Speed:0.30 Seat:1 Inventory:18 Health:50
+
+-8.Emerald Airplane: Speed:0.32 Seat:1 Inventory:25 Health:55
+
+-9.Netherite Airplane: Speed:0.30 Seat:1 Inventory:20 Health:60. Resistence to fire, lava and projectiles.
+
+-10.Iron Airliner: Speed:0.26 Seat:10 Inventory:15 Health:45
+
+2. Improvements
+
+-Block: Aviation Smithing Table:
+
+Useful for crafting each necessary part to improve airplanes.
+
+*Items:
+
+-Float
+-Floats
+-Extense
+
+*Airplanes:
+-Extended Airplane (Wood, Gold, Lapis, Redstone, Copper, Iron, Diamond, Emerald, Netherite): Add an extra seat for players, villagers, monsters and some animals. There are 2 ways to dismount a mob, the first one is using the wrench item to pick up the plane, and the second one is getting very close to the mob to kill it.
+
+-Amphibious Airplane (Wood, Gold, Lapis, Redstone, Copper, Iron, Diamond, Emerald,Netherite): Allows the plane to land on water.
+
+-Amphibious Extended Airplane (Wood, Gold, Lapis, Redstone, Copper, Iron, Diamond, Emerald, Netherite): Has the 2 previous improvements.
+
+3. Repairs
+
+-Block: Aviation Anvil
+
+Useful to repair all airplanes mentioned above.
+
+4. Military Features
+
+-Block: Aviation Armament Table
+
+It is use to craft fighter airplanes, ammo and bombs.
+
+*Equipment:
+
+*Ammo:
+-7MM Bullet: Useful for dealing damage to players, planes and mobs. Deals 5 damage. Nearby blocks hit by these bullets will break apart and kick up dust particles. Gives you 6 bullets when you craft it.
+-Incendiary 7MM Bullet: Useful for dealing damage to players, planes, and monsters. Deals 7 damage. These bullets break the nearby blocks hit and cause fire. Gives you 6 bullets when you craft it.
+
+How to shoot: To shoot press right click. Only the pilot can shoot the ammo. All planes can only shoot 1 type of bullet, the respetive list is more down below.
+
+*Bombs:
+-TSAR TNT: This is a powerful bomb that has a radius of 20 explosion blocks. It does not cause fire.
+
+-Napalm TNT This is a lethal incendiary bomb that has a radius of 10 explosion blocks.
+
+How to drop bombs: To drop the bombs, press the key or button assigned to throw objects. Important. Not all the planes can drop all the bombs; the respective list is down below.
+
+Planes can only fire 1 type of bullet and some drop certain bombs, here is the respect

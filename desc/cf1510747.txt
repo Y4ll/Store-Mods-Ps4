@@ -1,0 +1,59 @@
+BETA WARNING
+
+This addon is currently in Beta. It only works on Minecraft Preview with Beta APIs enabled in the worlds experimental settings.
+
+Expect bugs, glitches, incomplete features, and possible instability.
+
+Trailer:
+
+Content and Crafting:
+
+Overview
+
+Leave Earth behind.
+
+Wan's Moon Dimension brings a fully procedural Moon to Minecraft Bedrock, combined with cinematic space travel and immersive gameplay systems.
+
+Build, explore, and survive in a completely new environment designed to feel alien, desolate, and real.
+
+Gameplay Systems
+
+Low Gravity
+
+- Enhanced jump and slow falling for players and entities
+
+Footprints
+
+- Dynamic footprints based on movement and direction
+
+Lunar Mobs
+
+- Astronaut variants (Zombie & Creeper)
+
+Commands
+
+Emergency Return
+
+/moodim:return
+Teleport back to your original dimension if something breaks.
+
+Spawn Lunar Mobs
+
+/moodim:spawnmobs
+Spawn astronaut mobs around you (Moon only).
+
+To Do:
+
+- Adding a new flag type
+
+- Fixing the cinematic bug
+
+- Adding a new structure
+
+- Adding block derivatives of Regolite and Compressed Regolite
+
+Join Our Community
+
+If you want to leave feedback, feel free to use the comment section or join our Discord.
+
+https://discord.gg/yEM85Y7BRr

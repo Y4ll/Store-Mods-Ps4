@@ -1,0 +1,53 @@
+Hello everyone. It's me InSaRe again. I have redesigned my old addon - Crossbattle for newer versions of minecraft. I hope you enjoy it!
+
+And before we start, I would like to say that this addon is a port of the PC mod created by YouTuber Nazzy for his map, which is called Crossbattle. Here is his channel: https://www.youtube.com/c/NazzyChannel
+
+Attention! THE MOST IMPORTANT THING IS THAT BASED ON CROSSBATTLE, YOU CAN CREATE YOUR OWN PROJECTS, TEXTURE PACKS, RESOURCE PACKS, ADDONS, MAPS, AND MORE...
+
+And of course I have permission to post addon to mcpedl.com site.
+
+Translate:
+Me: "Hello, I ported the Crossbattle map mod to bedrock minecraft for a very long time and recently remastered it, and ran into a problem. I wanted to put an addon on the site mcpedl.com , I need your permission to put it on the site mcpedl.com".
+Nazzy: "Good morning, yes, why not".
+Me: "Thanks".
+
+Let's not hesitate and consider everything that is in the addon:
+
+FNX45 pistol.
+
+Automatic rifle HK416.
+
+L115A3 rifle.
+
+MP9 submachine gun.
+
+An icepick that can mine ore.
+
+A knife that can be thrown.
+
+A first aid kit that gives a regeneration effect when used.
+
+And here are the 2 3d blocks present in the addon: claymore and barricade.
+
+And here are the new blocks that appear in the game when installing the add-on to the Crossbattle addon. You can use these blocks to recreate the Crossbattle mode, as in the Nazzy videos, or create your own modes. But there is one "but", these blocks do not have functionality, so you will have to finish it yourself. In the future, if I can figure out how to add original functionality to these blocks, then I will definitely implement it!
+
+Changelog:
+1. The animation system from the 3rd person has been improved.
+2. The weapon damage system has been redesigned (the delay between taking damage has been removed, but armor is not registered yet).
+3. Bullet hole particles have been added.
+4. Improved the display of shooting particles.
+5. Added a description of the characteristics in the item of each weapon.
+6. Fixed the 3rd person shooting animation bug.
+7. Changed the claymore explosion system.
+8. The code of weapons items and first-aid kits has been fixed.
+9. The syntax of weapon animations has been slightly changed - the .item particle has been removed.
+10. A new script-based system has been created that is responsible for updating the addon's internal data. Now the data is checked not every tick, but every 10 ticks (half a second) to ensure project optimization.
+11. We have created our own animation controller from the 3rd person for each weapon
+
+Installation guide:
+Step 1:
+Install the addon from this server
+Step 2:
+Then go to your file manager app
+Step 3:
+Tap / click the Addon you installed and it will automatically imported to your MCPE. Make sure access the Addon file first, next tap and hold a file, when its selected, theres alot of tools would appear a i would recommend you to use "Cut tool", then go to Android > data > com.mojang.minecraftpe > files > games > com.mojang and select a file, also theres two files in the addon: The behavior pack file and the resources pack file, when you select a behaviour pack file, make sure to go to "Behavior_packs" on "com.mojang" file, and also when you select a resources pack file, then go to "resources_packs" and tap the "move" button to place a file to a file that you want to move.

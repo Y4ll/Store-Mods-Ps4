@@ -1,0 +1,23 @@
+Project Description:
+
+Enhance your survival experience by boosting the frequency and abundance of valuable ores throughout your world. This adjustment makes mining more rewarding, reduces tedious grinding, and ensures you always have the resources you need for crafting high-tier gear and building ambitious projects.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Real-time ore boost generator.
+
+- Multiple percentages to choose through subpacks
+
+- 100% lag free.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Ores generate naturally throughout the world, blending seamlessly into every biome and subterranean layer as if they were always part of the core game. Every vein is carefully balanced to fit the surrounding geology, maintaining the aesthetic and atmospheric integrity of your world without feeling intrusive or artificially placed.
+
+Once the pack is successfully activated in your world, you can easily tailor the ore generation rates to match your preferred playstyle. Simply navigate to the pack's settings menu to select your desired percentage boost, giving you total control over how rare or abundant resources are during your survival playthrough.

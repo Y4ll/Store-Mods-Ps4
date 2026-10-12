@@ -1,0 +1,29 @@
+Hey guys, Racing Raftaar back again. Today I am bringing you something totally different from my usual uploads. We all know that playing Minecraft survival mode can get pretty lonely sometimes, especially if you do not have an active server or friends to play with every single day.
+
+You are just building houses and mining in the caves completely by yourself. I wanted to fix that feeling by creating a custom companion for your world. This is the Aria Girlfriend add-on. I spent the last few weeks working on her model, custom animations, and behavioral scripts so she actually feels like a helpful partner in your game instead of just a standard mindless mob.
+
+Design and Concept
+
+I put a lot of effort into making her look unique. When I was designing her skin and painting the textures, I actually took a lot of visual inspiration from the K-pop artist Nancy Jewel McDonie from Momoland. I wanted Aria to have that kind of elegant, realistic, and stylish look, so her outfit, hair, and overall design strongly reflect that vibe. I created a custom resource pack just to make sure her animations for walking, running, and attacking look incredibly smooth and natural when she is following you around.
+
+How to Tame and Interact
+
+Finding Aria in your world is pretty straightforward. She will occasionally spawn in flower forest biomes and plains biomes during the day. When you find her, she will just be wandering around neutrally. To tame her and make her your companion, you need to give her a red rose or a diamond. I figured a diamond makes the most sense if you want to give her a ring. Once you tame her, heart particles will show up, and she will stop wandering and start following you everywhere you go.
+
+Companion Features
+
+Having Aria with you is actually super helpful for your survival adventures. She is not just there to look good. I coded her behavior pack so that she will actively protect you. If a zombie, skeleton, creeper, or any other hostile mob tries to hit you, Aria will immediately fight back to defend you.
+
+She has her own custom attack damage and a solid health pool. But that is not all. I also gave her a custom inventory system. If your own inventory is full of cobblestone and dirt while you are mining, you can interact with her to open her backpack and store your extra items. It is basically like having a walking chest that also fights monsters for you.
+
+Installation Guide
+
+This download is an mcaddon file, which means it contains both the behavior pack and the resource pack in a single file. When you import it into your game, make sure you activate both the aria behavior pack and the aria resource pack in your world settings. If you forget the resource pack, her model will look like a glitchy mess, and if you forget the behavior pack, she will not do anything at all.
+
+Beta APIs Setup
+
+Just like my other advanced add-ons, this pack uses custom scripting to handle the inventory and taming mechanics. You absolutely need to go into your world settings before you play, scroll down to the experiments section, and turn on the Beta APIs option. If you do not turn this on, her custom features will just break and the add-on will not function correctly.
+
+AI Disclaimer
+
+I want to be completely transparent with you guys about the presentation of this page. The gallery images and the main thumbnail you see here were enhanced using AI image generators. I wanted the cover art to look super professional and cinematic for the CurseForge page layout. However, the add-on itself, the code, the not custom skin, and all the text you are reading right now were entirely made by me.

@@ -1,0 +1,74 @@
+The add-on How Many Maids adds maids to your world, missions, and utility items. You can ask her to cook for you, defend you from monsters, or simply hang out and receive head pats. However, the way you treat her will influence how she treats you, and you can even unlock skins as a reward for being a good master.
+
+I recomend a lot see the Tutorial Video:
+
+Discord server to answer questions and see the development of this or other projects:
+https://discord.gg/GKZmqPjeYG
+
+Quick Start Guide
+
+1. Finding Your Companion
+
+- Kaia Chronos: She is the heart of the addon. Wander through Taiga forests to find her. She acts as your main merchanttalk to her to buy essential items like the Raideney Euthymia book (to summon your maid) or other Utilitary Items
+
+2. Building the Bond: Affinity Level
+
+- Your maids performance depends on her Affinity Level.
+
+- Boost it: Give her gifts, feed her, and fight alongside her.
+
+- Avoid: Don't attack her, neglect her sleep, or feed her foods she dislikes, as this will lower your affinity.
+
+- Rewards: Higher affinity unlocks new skins, and better cooking skills!
+
+3. The Mechanics of Daily Life
+
+- Disposition (Energy): After performing tasks, your maid will lose energy. If her energy is empty, she becomes slow and weak. Simply let her Sleep (in a bed registered via the Task Book) to recover.
+
+-
+
+Task Book: This is your primary automation tool. Sneak + Click to select your maid, then hold the book and look at a Plate, Furnace, or Bed to register it.
+
+- Furnace: She will cook for you and put in the plate.
+
+- Plate: She will serve the cooked food.
+
+- Bed: Her designated resting spot.
+
+- Attacking: In Attack Mode, your maid will protect you from monsters. You can equip her with swords to boost her effectiveness.
+
+- Using Spells (Requires Ken Maho ADDON): In Magic Mode, your maid will protect you from monsters using spells distant, the Mastery are the same as the Owner
+
+4. Progression & Customization
+
+- Upgrades: Use Sketchbook Pages in the maid's upgrade menu to boost her damage, defense, or life.
+
+- Preferences: Every maid has unique tastes. Pay attention to their descriptions to know exactly what food or activities earn you double the affinity points.
+
+5. Photography & Inspirations
+
+- Retro Camera: Use this to capture specific photos requested by Kaia Chronos.
+
+- Inspirations: Kaia will give you challenges (like taking photos in a Deep Sea Monument, Lush Caves, or during a lightning storm). Documenting these "Inspirations" and give to her to earn significant amounts of Emeralds.
+
+6. Other Items List
+
+- Tiny Bell: Teleports your maid instantly to your location.
+
+- Selfie Camera: Use it to take photos of your maid or your world adventures.
+
+- Noodles & Dangos: Special foods to heal your companion.
+
+The addon is in the v1, so, if you find some bug or have some sugestion, please comment to help the development of the addon.
+
+KEN MAHO DLC:
+
+https://www.curseforge.com/minecraft-bedrock/addons/ken-maho
+
+Take your companion experience to the next level! With native How Many Maids support, your maids can wield legendary Magic Swords and unleash high-tier spells during battle. Pair both addons to build your Ultimate Magical Experience!
+
+Please read:
+
+If you're going to record a video about this addon, please include the tutorial video as the download link; it helps my channel grow and allows my content to reach more people.
+
+All rights reserved. This add-on is exclusive to CurseForge. Re-uploading this project to other websites without my explicit permission is prohibited. Please support the development by downloading only from the official page.

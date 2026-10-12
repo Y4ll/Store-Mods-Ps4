@@ -1,0 +1,14 @@
+Orbital Railgun Addon
+(Achievements Friendly)
+
+This addon aims to recreate the experience of the Java Orbital Railgun mod in Bedrock Edition.
+
+This addon features custom sound effects (SFX) and visual effects (VFX).
+
+Crafting Recipe
+
+Configurable
+
+( Sneak + Rightclick )
+
+Join My Discord

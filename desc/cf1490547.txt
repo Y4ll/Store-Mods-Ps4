@@ -1,0 +1,53 @@
+The Furniture Expansion - Vanilla Styled Addon brings furniture and decorations to Minecraft Bedrock without interfering with the original experience. Built to be lightweight and survival-friendly, it works perfectly in singleplayer or multiplayer worlds with no lag or changes to world generation.
+
+Lightweight & Performance Focused: Extremely lightweight, no crashes, and doesn't alter core game mechanics. A true vanilla-friendly expansion.
+
+Supported Languages: pt-BR, en-US, de-DE, ru-RU, fr-FR, it-IT, es-MX, es-ES, pt-PT, zh-CN, ja-JP. Report errors on Discord.
+
+- ACHIEVEMENTS FRIENDLY
+
+- Compatible with Vibrant Visuals!
+
+- Extremely optimized.
+
+- Fast loading!
+
+- Does not use experimental features!
+
+JOIN IN TOO!
+
+You can participate in this project by voting on the next update, suggesting new blocks or items, reporting bugs, and checking out other add-ons I've created! Join the Discord server and submit your suggestion.
+
+Discord Server: Click here
+
+VERSION 1.2 (DROP 2)
+
+Drop 2 focused more on creating garden elements (specifically flowers) and implementing the new wood variant (poplar).
+
+New Blocks
+
+- Medium-sized pots with all flowers/plants
+
+- Medium hanging pots, complete with flowers/plants
+
+- Wooden glass doors
+
+- Complete set of the Poplar variant (cabinets, sinks, shelves...)
+
+- Stone paths (props)
+
+- Pebbles (props)
+
+- New plants: Snake plant and Rubber plant
+
+Improvements
+
+- Optimized scripts processing engine update
+
+- Cherry wood chair texture editing
+
+- Improvement of the framed glass window texture
+
+- The Iris Flower has been updated to a 3D version in a pot
+
+- Fixed the textures for the stack of books

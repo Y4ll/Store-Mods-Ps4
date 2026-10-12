@@ -1,0 +1,42 @@
+PURE AMBIANCE Realistic Sound Overhaul
+868 sounds. Every biome. Every footstep. Every splash. Bedrock finally sounds alive.
+
+BIOME SOUNDS
+Every biome has its own day & night sounds. Jungle feels tropical. Desert feels empty. Ocean feels vast. Pale Garden feels haunted. The world around you speaks you just need to listen.
+
+TIME-BASED WILDLIFE
+Crows call at sunrise & sunset. Owls hoot through the night. Wolves howl deep into the dark. Eagles cry over the desert dawn. Rare enough to feel real, frequent enough to notice.
+
+DYNAMIC WEATHER
+Light rain brings soft ambience. Thunderstorms hit hard layered thunder, impacts, the whole experience.
+
+UNDERGROUND ATMOSPHERE
+Normal caves drip and echo. Deep caves grow darker. Lush Caves breathe softly. The Deep Dark? Genuinely terrifying.
+
+NETHER & END
+Soul Sand Valley whispers. Crimson Forest hums. Warped Forest breathes. Basalt Deltas rumble. The End plays one haunting loop vast, empty, endless.
+
+FIRE & LAVA AWARENESS
+Walk near fire, campfires, or lava the crackle and heat rise as you get closer, fade as you step away.
+
+SURFACE-AWARE FOOTSTEPS
+Grass, gravel, sand, snow, stone, wood every surface has its own footstep sound as you walk.
+
+REBUILT WATER & LIQUID AUDIO
+Waterfalls, rivers, underwater ambience, swimming, splashes, and lava bubbling a complete overhaul of how liquids sound and feel.
+
+FULL BLOCK & ITEM SOUND PASS
+Furnaces, chests, anvils, doors, brewing stands, campfires, and dozens more everyday interactions now sound real.
+
+HEARTBEAT SYSTEM
+Low HP slow heartbeat starts. Near death it races with an intense secondary sound. Surviving feels real.
+
+CUSTOM EXPLOSIONS
+Powerful explosion variants, randomly picked every time. Every blast hits different.
+
+VOLUME CONTROLLER
+Auto-given on first join. Right-click pick Mute / Low / Med / High / Max or set a custom 0100 slider. Full control, always.
+
+Pure Ambiance doesn't add sounds. It rebuilds the world you hear from the ground beneath your feet to the sky above your head.
+
+868 files. Zero silence. One addon.

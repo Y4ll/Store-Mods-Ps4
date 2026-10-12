@@ -1,0 +1,43 @@
+Showcase Video
+
+https://youtu.be/k8K_zeSgCMY
+
+Heart Levels:
+
+There are 5 upgradeable heart types, each stronger than the last:
+
+Starter Heart Basic Heart Advanced Heart Prime Heart Superior Heart
+
+Each new tier boosts your maximum health, making you tougher and more resistant to
+
+damage.
+
+How It Works:
+
+- When you kill any entity, theres a chance to drop a Heart Shard.
+
+- Collect 6 Heart Shards to craft a Starter Heart.
+
+- Then, combine 9 Starter Hearts to craft a Basic Heart.
+
+- Keep upgrading:
+
+- 6 Basic Hearts 1 Advanced Heart
+
+- 6 Advanced Hearts 1 Prime Heart
+
+- 6 Prime Hearts 1 Superior Heart
+
+- Each crafted heart gives you more total health, depending on its level
+
+Heart Shard Ores Added found deep between Y -1 to -60
+Very rare, but extremely useful for progression & crafting
+
+Empty Heart :
+
+Use to remove current heart, 6 coal required to craft this heart.
+
+Become the Ultimate Survivor:
+
+Keep collecting and upgrading to reach Superior Heart Level, granting the maximum possible health boost.
+With this addon, every mob fight and boss battle becomes a chance to grow stronger

@@ -1,0 +1,31 @@
+Project Description:
+
+From Coal to Ruby, all vanilla ores feature stunning 3D models that add a rich sense of depth and immersion to your mining expeditions. Unearth valuable resources like never before with intricately detailed veins jutting from the stone walls, casting realistic shadows and making every subterranean journey feel like a true archaeological discovery.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Vibrant Visuals will need to be activated for some features.
+
+- 3D stone models for all ores.
+
+- Glowing ores included.
+
+- Realistic mining experience.
+
+- Custom ores.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+Each Ore will have three stages before becoming just their base block.
+
+Ruby Ore:
+
+Emerald Ore:

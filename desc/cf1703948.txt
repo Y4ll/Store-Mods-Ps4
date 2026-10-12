@@ -1,0 +1,17 @@
+fish eye lens shader
+
+RD shader that applies fish eye lens effect to your world just like an old camera / body camera
+
+since some of you guys want this to be a standalone version, here you go lol
+
+recommended settings:
+
+fov: 80-100
+
+this is RD shaders, so you need to use the correct tools to use this ( e.g. MaterialBinLoader, Minecraft patch, or any shaderloader ).
+
+supported platforms:
+
+Android, Windows, Ios
+
+preview:

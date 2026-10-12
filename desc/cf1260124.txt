@@ -1,0 +1,21 @@
+This pack is not actively being developed
+
+Make sure to join my discord!! https://dsc.gg/legacy-nexus
+
+-- Introducing Solace RTX --
+
+Get ready to see Minecraft in a whole new lightliterally! Were thrilled to announce the launch of Solace RTX, a beautifully crafted PBR (Physically Based Rendering) pack designed for Minecraft RTX. Solace RTX will transform your experience with stunning visuals, textures, and immersive lighting effects powered by RTX!
+
+-- What to Expect in Solace RTX --
+
+Legacy-Like Textures Reimagining Minecraft with beautiful visuals while preserving its classic aesthetic.
+
+High-Resolution Details: Beautiful 96x normal maps, making every block satisfying to look at.
+
+True-to-Life Lighting GI, real-time shadows, and reflections bring depth and atmosphere to your world.
+
+Even better with Solace Better RTX Get a beautiful warm atmosphere by using Solace BRTX!
+
+Built in dynamic lights Torches and lanterns when held will light your way
+
+This requires an RX 6000+, ARC A+ or RTX 2000+ GPU to function.

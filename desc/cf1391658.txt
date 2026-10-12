@@ -1,0 +1,13 @@
+Vibrant Depth 3D is a Bedrock Editon Resource Pack that adds depth to vanilla items, blocks and entites using Vibrant Visuals. This pack is still a Work In Progress so expect changes and updates weekly :)
+
+ABOUT THE PACK
+
+Vibrant Depth 3D makes Minecraft look more detailed by adding real depth to blocks, items, and mobs using Vibrant Visuals. The textures stay true to the original vanilla style but now have clearer shapes, bumps, and shadows that react to light. This makes the world feel more real while still looking like classic Minecraft. Whether youre exploring, building, or taking screenshots, Vanilla Depth 3D gives your game a cleaner and more noticeable upgrade without changing the original look.
+
+PACK PROGRESS
+
+- Entites - 97% Finished
+
+- Items - 5% Finished
+
+- Blocks - 14% Finished

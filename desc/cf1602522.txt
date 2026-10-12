@@ -1,0 +1,39 @@
+| Smaller tools OG |
+
+this is a texture pack that makes some tools and items smaller to cover less of the screen. Compatible with vibrant visuals.
+
+This pack makes the tools smaller without any other changes to the textures
+
+- Can be overlapped with other packs
+
+- Smaller sheild (lowered sheild) also added
+
+here are the tools that have been made small:
+
+- All sword variants
+
+- All axe variants
+
+- All pickaxe variants
+
+- All shovel variants
+
+- All hoe variants
+
+- All spear variants
+
+- Bow
+
+- Cross-Bow
+
+- Totem of undying
+
+- Mace
+
+- Trident
+
+- Fishing rod
+
+- Flint and steel
+
+- All potion bottles slightly smaller (Optional download)

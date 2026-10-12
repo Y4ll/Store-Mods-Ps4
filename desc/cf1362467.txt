@@ -1,0 +1,9 @@
+This Addon simply lets you Jump & Dash across the sky. Its Achievement Compatible and its stable. Its my first code to ever create, so yeah hope you had fun with it.
+
+My mod does not use Player.json
+
+Expect for more mods, feel free to donate just for coffee
+
+Please refrain from posting and using my codes without my permission.
+
+DO NOT REPOST OR RE-UPLOAD MY MOD!

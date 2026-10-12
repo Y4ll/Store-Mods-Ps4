@@ -1,0 +1,37 @@
+Ores Dimension adds 10 unique dimensions to Minecraft Bedrock one for every major ore. Each dimension has its own portal, custom trees with ore-themed logs, planks and leaves, and a completely unique environment to explore.
+
+Dimensions
+
+- Coal Dimension
+
+- Copper Dimension
+
+- Iron Dimension
+
+- Gold Dimension
+
+- Redstone Dimension
+
+- Lapis Dimension
+
+- Quartz Dimension
+
+- Emerald Dimension
+
+- Diamond Dimension
+
+- Netherite Dimension
+
+How to Build Portal
+
+Use any block and build a portal frame then which ever dimension you're willing to open portal for, use that ore to activate that dimension portal
+
+Each Dimension Includes
+
+- Unique portal to enter the dimension
+
+- Custom ore-themed trees, logs, stripped logs, wood, planks and leaves
+
+Important
+
+This addon requires Beta APIs to be enabled in your world settings. Go to World Settings > Experiments and turn on Beta APIs. The addon will not work without it.

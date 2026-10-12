@@ -1,0 +1,13 @@
+After the last Minecraft PE update, mods for exporting worlds became obsolete. The only viable method was to use the Deesse UI Pack mod, which allowed you to export the template and change its name from .mctemplate to .mcworld. With this mod, which introduces two scripts, this method can be used again. How to do it? Steps:
+
+- Download this mod and the Deesse UI Pack (available on MCPEDL).
+
+- Activate both add-ons in Global Resources.
+
+- Enter the world you want to export, as if you were going to play a game.
+
+- Once in the game, go to the settings. In the left panel, scroll down until you see the Global Resources option. This will load the menu with the mods you activated in step 2. Here, select the small arrow that appears in the upper right corner (next to the magnifying glass). A menu will appear on the left; scroll up, and under the Game option, scroll down to where it says "Export template." Simply select it, and when your File Explorer opens, change the .mctemplate file to .mcworld.
+
+- This plugin is for those whose worlds are locked in the app's internal memory.
+
+Please, rate the Deesse Mod

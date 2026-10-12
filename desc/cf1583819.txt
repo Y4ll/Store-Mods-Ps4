@@ -1,0 +1,29 @@
+Bring Java Combat to Bedrock!
+
+Ever miss the sleek combat cooldown indicator from Minecraft Java Edition while playing on Bedrock? The oSkullo Java Attack Indicator bridges that gap! This clever resource pack adds a fully functional, real-time attack cooldown indicator to your screen, helping you time your strikes perfectly.
+
+Features
+
+Two Custom Modes: Choose your preferred playstyle using the built-in subpack slider!
+
+Crosshair Indicator: Places the dynamic cooldown animation directly under your crosshair, keeping your eyes on the action.
+
+Sword Indicator: Places the indicator down by your hotbar, giving you that classic vanilla Java feel.
+
+Smooth Animations: Accurately tracks your attack time with a clean, multi-frame animation that syncs perfectly with your swings.
+
+Lightweight & Optimized: Built specifically for Bedrock engine limits to ensure zero lag and seamless UI integration.
+
+Terms of Use
+
+DO NOT use, rip, or modify my codes without direct permission.
+
+PACK BY: @oSkullo
+
+Support & Socials
+
+If you enjoy the pack, drop a follow and join the community to stay updated on future releases!
+
+YouTube: https://youtube.com/@oskullo?si=ysYvsxZucCeJgZk_
+
+Discord: https://discord.gg/GCjpMvyUA9

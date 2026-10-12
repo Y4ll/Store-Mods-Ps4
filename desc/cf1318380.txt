@@ -1,0 +1,62 @@
+AllStacker Addon Smart stacking for smoother Minecraft Bedrock.
+
+AllStacker is a lightweight addon that stacks items and mobs to reduce lag and improve performance. Stable, vanilla-friendly, and achievement-safe.
+
+Features
+
+- Smart item & mob stacking
+
+- Noticeable lag reduction
+
+- In-game GUI configuration
+
+- No beta APIs
+
+- Achievements enabled
+
+- English / Thai language support
+
+Item Stacking
+Mob Stacking
+
+- Automatically stack dropped items
+
+- Clean and readable stack labels
+
+- Toggleable with item filters
+
+- Stack nearby mobs to reduce entity count
+
+- Adjustable stacking radius
+
+- Configurable death behavior
+
+Configuration Open the settings GUI in-game:
+
+/give @s kisu:ac_setting
+
+- ItemStacker settings
+
+- MobStacker settings
+
+- Language switch
+
+- Performance tuning
+
+Changes apply instantly. No restart required.
+
+Requirements
+
+- Minecraft Bedrock Edition 26.0+
+
+Installation
+
+- Download All-Stacker@x.x.x.mcaddon
+
+- Open with Minecraft
+
+- Enable Behavior Pack and Resource Pack
+
+License MIT License Credit required: PUKAN223 (Discord: kisux3)
+
+AllStacker Addon 2026 Made with by PUKAN223

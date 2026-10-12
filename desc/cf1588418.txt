@@ -1,0 +1,122 @@
+AI MANHUNT The Ultimate Bedrock Manhunt Experience
+
+Ever wanted to play Manhunt but had no friends online? AI Manhunt brings fully autonomous AI Hunters to Minecraft Bedrock smart enough to track you across the entire world, through dimensions, over mountains, and up towers you build to escape.
+
+No server needed. No friends required. Just you and the hunt.
+
+SMART AI PATHFINDING
+
+The hunter uses a custom A* pathfinding engine the same algorithm used by the famous Baritone bot in Java Edition. It doesn't just run straight at you. It THINKS.
+
+- Walks around obstacles automatically
+
+- Jumps over 1-block walls
+
+- Falls safely off ledges (1-2 blocks)
+
+- Bridges over gaps with cobblestone only when necessary
+
+- Chooses the SHORTEST path goes around if cheaper, bridges if faster
+
+- Never gets permanently stuck automatic recovery system
+
+INFINITE TRACKING
+
+The hunter will NEVER stop chasing you. No matter how far you run.
+
+- Tracks you across infinite world distance
+
+- Follows you into the Nether automatically
+
+- Follows you into the End automatically
+
+- Teleports to your dimension within 3 seconds of you entering a portal
+
+- Rescue teleport activates if somehow too far announced in chat
+
+TOWER COUNTER
+
+Think pillar jumping saves you? Think again.
+
+If you stack blocks to escape upward, the AI hunter will BUILD ITS OWN PILLAR underneath itself and climb up to reach you. No cheap escapes.
+
+HOW TO PLAY
+
+- Hold a STICK and SNEAK to open the setup menu
+
+- Choose how many AI Hunters you want (110)
+
+- A 10-second colored countdown begins for everyone
+
+- Hunters spawn around you RUN!
+
+- Beat the Ender Dragon to win, or survive the hunt
+
+HUNTER FEATURES
+
+- Mirrors your exact armor fights at YOUR gear level
+
+- Always wields a Diamond Sword
+
+- Respawns near you 2 seconds after being killed
+
+- Can open and break doors
+
+- Looks at you at all times when nearby
+
+- Up to 10 hunters simultaneously
+
+FULL-SCREEN ANNOUNCEMENTS
+
+- Countdown timer with changing colors (red green)
+
+- Big "GO!" screen when the hunt begins
+
+- Full-screen " HUNTERS WIN!" in red when you die
+
+- Full-screen " SPEEDRUNNER WINS!" in green when Dragon dies
+
+- Sound effects on every event
+
+TECHNICAL DETAILS
+
+- Platform: Minecraft Bedrock Edition
+
+- API: @minecraft/server 2.8.0
+
+- Tested on: Android (MCPE), Windows
+
+- Min version: 1.21.114
+
+- Install: Double-click .mcaddon auto imports
+
+INSTALLATION
+
+- Download the .mcaddon file
+
+- Open it Minecraft launches automatically and imports both packs
+
+- Create or open a world
+
+- Enable both "Manhunt BP" and "Manhunt RP" in world settings
+
+- Enable "Holiday Creator Features" if prompted
+
+- Done sneak + hold stick to start!
+
+FAQ
+
+Q: Does this work in multiplayer?
+A: Yes! One player is the speedrunner, others can spectate or play normally.
+
+Q: Can the hunter go to the Nether/End?
+A: Yes it teleports through portals automatically within a few seconds.
+
+Q: What if the hunter gets stuck?
+A: The A* pathfinder recalculates every 1.25 seconds. If still stuck after multiple attempts, it teleports near you automatically.
+
+Q: Does it work on console?
+A: Should work on any platform running Bedrock 1.21.114 or higher.
+
+If you enjoy the mod, leave a and share it with your friends!
+Bug reports and suggestions are welcome in the comments.

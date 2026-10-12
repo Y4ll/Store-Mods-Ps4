@@ -1,0 +1,77 @@
+BEDROCK EDITION
+you are not alone in your world anymore.
+
+7 DAYS TO LIVE turns Minecraft into a psychological survival horror experience built around stalking entities, sanity loss, day-based progression, disturbing sounds, sudden dencounters.
+
+The world does not simply become harder. It starts watching you.
+
+NO RECOMMENDED FOR LOW-END DEVICES
+when making a video about it, put the link in the description (it is required)
+
+Warning: this mod may not work properly in multiplayer.
+
+This addon contains loud sounds, jumpscares, unsettling ambience, visual effects, and psychological horror elements.
+
+java mod: https://www.curseforge.com/minecraft/mc-mods/in-7-days-to-live
+
+CORE EXPERIENCE
+
+- Survival horror progression: the mod is based around days, pressure, and escalation.
+
+- atmosphere: cryptic messages, strange behavior, hidden encounters, and world changes make the experience feel like something is communicating with you.
+
+- Stalking entities: some creatures do not attack immediately. They watch, follow, wait, disappear, and return later.
+
+- Unpredictable jumpscares: not constant, but when they happen they are invasive and sudden.
+
+- Psychological pressure: the mod uses whispers, silence, distorted sounds, fake presences, and visual changes to make the player question what is happening.
+
+- Configurable gameplay: several features can be adjusted through commands and config.
+
+SANITY SYSTEM
+
+Your sanity changes how dangerous the world feels.
+
+- Low sanity makes the player weaker.
+
+- You may hear voices, whispers, and unnatural sounds.
+
+- You may see strange figures, fake players, shadows, or hostile hallucinations.
+
+- Some effects are only visible to the affected player.
+
+- Sanity can be affected by attacks, night survival, food, items, and special interactions.
+
+ENTITIES
+
+The entities are not just enemies. Each one changes how the world feels, how you move, and how safe you think you are. Some stalk, some chase, some punish eye contact, and others exist only to make you question what is real.
+
+- Smiling Freak: the main face of the horror. It stalks from far away, appears when you least expect it, and can turn a normal night into a chase without warning.
+
+- Forest Troll: the protector of the forest. Massive, loud, and dangerous, it feels less like a random monster and more like a force guarding something ancient.
+
+- The Minions: smaller hostile entities that pressure the player through numbers, sight, and sudden attacks. If they notice you, hiding becomes important.
+
+- Wraith Cat: a tall, dark humanoid figure with cat-like features. It is fast, aggressive, and built around unsettling sounds and sudden appearances.
+
+- Devil Hand / Grasping Hand: a floating hand with one eye. It is based around observation, grabbing, forced perspective, and the feeling that looking at it is a mistake.
+
+- Hovering Gazer: a rare night entity that moves through the sky, lurking above the player and creating pressure from places you normally ignore.
+
+- Acid Dissolver: a fast hostile entity that attacks with acid and punishes players who let it get too close.
+
+- Wendigo: a constant chaser focused on pressure, speed, and disturbing audio. It is meant to make running feel desperate.
+
+- Arachnoseeker: a spider-like entity built around pursuit, sudden movement, and close-range fear.
+
+- Human Spider: a more unnatural spider form, mixing humanoid horror with fast movement and close encounters.
+
+- Floating Eye: a watching entity. Its role is to make the player feel observed, even before direct danger arrives.
+
+- Scrofa: an aggressive hostile entity with explosive or violent encounter potential, adding chaos to survival moments.
+
+- Mammoth: a heavy entity with loud steps and strong presence, gives +5 hearts on defeat.
+
+- Wraiths / Phantoms: sanity-linked hallucination threats. They may appear when your mind starts breaking, making it harder to know what is real.
+
+- Fake Players: sanity-based apparitions that imitate the feeling of another person being in your wor

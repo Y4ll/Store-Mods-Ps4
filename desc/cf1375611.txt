@@ -1,0 +1,27 @@
+There's not much to describe, the name is self-explanatory: This add-on adds glass with support for texture packs (but not all textures work well).
+
+When you place a Glass block, it automatically transforms into Connected Glass with seamless textures.
+
+Supported Blocks
+
+Settings Menu:
+
+While sneaking and holding any Glass Block, interact with the Air to open the Settings Menu fast.
+
+You can also open the menu using the /kwz:glass_config command.
+
+Only player with Host perm. can open it.
+
+Features
+
+- Does not replace Vanilla Glass, only intercepts placement
+
+- Uses Vanilla textures - compatible with any texture pack (but there's no guarantee it will work smoothly)
+
+- Works in existing worlds (break and replace glass to update)
+
+- Do NOT modify "player.json"
+
+- No experimental features required
+
+- Achievement Friendly

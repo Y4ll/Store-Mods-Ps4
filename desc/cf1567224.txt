@@ -1,0 +1,21 @@
+Want to have that classic flow of bedrock? Well stop here since this pack adds most of the old animations from 1.12 or 1.1.5 with subpacks to modern day bedrock! You may ask why is this one different in particular, and which in fact this is the pack that quite mimicks old bedrock, no java bow, trident, crossbow or any of that, insead to match past bedrock and other things like that so you can truly relive old bedrock.
+
+Fixed player first person Hitting, walking and map animations, and riding first person animation
+
+Mimicked all PAST attachable animations
+
+Redder hurt color
+
+Old sneaking, Java capes, Old 3rd person bob, and more thanks to @BombtheGamesIndustry on curseforge
+
+3rd person punch animation, and attachable animations
+
+static head in 3rd person like in 1.2-1.16
+
+Alongside a 1.1.5 subpack to make it so your offhand in 3rd person always seems to hold something, 2D first person glass, a higher bow charge position, 1.1.5 leg movement, 3rd person head movement, slim skin arm offset in 1st person, and more!
+
+And a 1.13 beta subpack that is vanilla but with different 1st person animations and static head in 3rd person
+
+Heres a cool sheet i made if you have any ideas for subpacks
+
+Note: For this pack to function you need to use my fixed items (found on my other projects) pack under THIS one, as follows

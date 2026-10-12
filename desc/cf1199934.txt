@@ -1,0 +1,9 @@
+This simple resource pack upgrades critical hit and death particles, making them much bloodier!
+
+Critical Hit:
+
+Each critical hit will cause a blood splatter effect that will leave stains on the ground.
+
+Death particle:
+
+Once an entity dies, depending on the surface it will leave a pool of blood (when on the ground) or a mist of blood (when in water).

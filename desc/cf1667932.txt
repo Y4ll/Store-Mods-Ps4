@@ -1,0 +1,19 @@
+Achievements Compatible
+
+Addon Developed by @PnTMC
+
+Addon Inspired by BadMobs - Java Edition | by DarkhaxDev
+
+Master your game environment by seamlessly disabling natural mob spawns. Simply install the mod and use config command to suit your exact playstyle.
+
+HOW TO USE THIS ADDON?
+
+Use command /badmobsconfig . Then, configure it according to your preferences or needs.
+
+Clarification: This is a Bedrock add-on built entirely from scratch, without using any Java code.
+
+NOTES
+
+Do NOT reupload, redistribute, or publicly modify this addon without explicit permission.
+
+*Please give feedback if you encounter any errors. Feedback on my YouTube channel is easier for me to read because I'm quite lazy about checking CursedForge comments XD*

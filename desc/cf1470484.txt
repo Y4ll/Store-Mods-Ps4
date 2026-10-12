@@ -1,0 +1,9 @@
+Overview:
+
+A cute and cozy resource pack that redesigns the hotbar with a brown teddy bear theme.
+
+- Hotbar selector becomes a teddy bear.
+
+- The armor icons are replaced with small teddies, the hunger bar is turned into cookies
+
+- Hearts are recolored with a cozy new tone.

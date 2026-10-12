@@ -1,0 +1,25 @@
+lIs your village frequently attacked by aggressive monsters that a Golem cannot handle on its own?
+
+Do you want villagers to be able to defend their homes without your intervention?
+
+"Dan's Guard Villagers" introduces brave village guards with intelligent combat behavior, helping villagers fight back and survive the dangers of the Minecraft world.
+
+Features:
+
+- Guard Villagers spawn in villages in groups.
+
+- Guard Villagers can be tamed using Emeralds.
+
+- Hold a weapon, then hold the sneak key and right-click on a Nitwit or an unemployed villager to turn them into a Guard Villager.
+
+- Use Badges to recruit Guardians.
+
+Guard Villagers:
+
+They appear in villages in small groupscomprising archers and guardsscaled to the village's population; they are ready to fight at the first sign of danger, or even attack you (so don't go kidnapping the villagers !).
+
+Community:
+
+Dan Craft:Dan Craft Community
+
+If there are any errors or issues, please send the details via Discord so I can easily handle them.

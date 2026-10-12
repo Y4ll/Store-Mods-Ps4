@@ -1,0 +1,355 @@
+About
+
+Welcome to Happy's Magic Mirrors, an Add-On that adds Magic Mirrors from the legendary game Terraria, but with a minecrafty twist!
+
+This Add-On adds 10 items.
+
+More Info
+
+Settings
+
+This pack uses subpacks to customize your play experience.
+
+The available subpacks are:
+
+- Weakest
+
+- Weaker
+
+- Weak
+
+- Normal
+
+- Strong
+
+- Stronger
+
+- Strongest
+
+- Experience Easy
+
+- Experience Normal
+
+- Experience Hard
+
+Items
+
+Golden Magic Mirror
+
+The Golden Magic Mirror is the lowest tier of the Magic Mirror.
+
+It can be crafted using this recipe:
+
+Weakest
+
+Durability: 2
+
+Weaker
+
+Durability: 4
+
+Weak
+
+Durability: 6
+
+Normal
+
+Durability: 10
+
+Strong
+
+Durability: 12
+
+Stronger
+
+Durability: 15
+
+Strongest
+
+Durability: 18
+
+Experience Easy
+
+Experience Usage: 15
+
+Experience Normal
+
+Experience Usage: 30
+
+Experience Hard
+
+Experience Usage: 40
+
+Iron Magic Mirror
+
+The Iron Magic Mirror is an upgrade to the Golden Magic Mirror, but it is still not the best.
+
+It can be crafted using this recipe:
+
+Weakest
+
+Durability: 5
+
+Weaker
+
+Durability: 9
+
+Weak
+
+Durability: 12
+
+Normal
+
+Durability: 20
+
+Strong
+
+Durability: 26
+
+Stronger
+
+Durability: 30
+
+Strongest
+
+Durability: 37
+
+Experience Easy
+
+Experience Usage: 7
+
+Experience Normal
+
+Experience Usage: 15
+
+Experience Hard
+
+Experience Usage: 30
+
+Diamond Magic Mirror
+
+The Iron Magic Mirror is an upgrade to the Golden Magic Mirror, but it is still not the best.
+
+It can be crafted using this recipe:
+
+Weakest
+
+Durability: 10
+
+Weaker
+
+Durability: 20
+
+Weak
+
+Durability: 28
+
+Normal
+
+Durability: 35
+
+Strong
+
+Durability: 40
+
+Stronger
+
+Durability: 46
+
+Strongest
+
+Durability: 55
+
+Experience Easy
+
+Experience Usage: 5
+
+Experience Normal
+
+Experience Usage: 10
+
+Experience Hard
+
+Experience Usage: 20
+
+Netherite Magic Mirror
+
+The Netherite Magic Mirror is one of the best Magic Mirrors in the Add-On!
+
+It can be crafted by upgrading a Diamond Magic Mirror in the smithing table.
+
+Weakest
+
+Durability: 25
+
+Weaker
+
+Durability: 35
+
+Weak
+
+Durability: 42
+
+Normal
+
+Durability: 56
+
+Strong
+
+Durability: 74
+
+Stronger
+
+Durability: 85
+
+Strongest
+
+Durability: 95
+
+Experience Easy
+
+Experience Usage: 2
+
+Experience Normal
+
+Experience Usage: 5
+
+Experience Hard
+
+Experience Usage: 10
+
+Ice Mirror
+
+The Ice Mirror is the ice version of the Magic Mirror.
+
+It is an extremely rare drop by the Sray.
+
+Weakest
+
+Experience Usage: 12
+
+Weaker
+
+Experience Usage: 9
+
+Weak
+
+Experience Usage: 7
+
+Normal
+
+Experience Usage: 5
+
+Strong
+
+Experience Usage: 4
+
+Stronger
+
+Experience Usage: 3
+
+Strongest
+
+Experience Usage: 2
+
+Experience Easy
+
+Experience Usage: 3
+
+Experience Normal
+
+Experience Usage: 6
+
+Experience Hard
+
+Experience Usage: 12
+
+Magic Mirror
+
+The Magic Mirror is the best Magic Mirror in the Add-On.
+
+It can be crafted using this recipe:
+
+Weakest
+
+Experience Usage: 5
+
+Weaker
+
+Experience Usage: 4
+
+Weak
+
+Experience Usage: 3
+
+Normal
+
+Experience Usage: 2
+
+Strong
+
+Experience Usage: 1
+
+Stronger
+
+Experience Usage: 1
+
+Strongest
+
+Experience Usage: 1
+
+Experience Easy
+
+Experience Usage: 1
+
+Experience Normal
+
+Experience Usage: 1
+
+Experience Hard
+
+Experience Usage: 1
+
+Recall Potion
+
+The Recall Potion is a single-use item that teleports the user to their spawn.
+
+It can be brewed in a brewing stand using a Dandelion Potion as the input and Specular Fish as the reagent.
+
+Dandelion Potion
+
+The Dandelion Potion is an item used to brew Recall Potions.
+
+It can be brewed in a brewing stand using a Bottle of Water as the input and a Dandelion as the reagent.
+
+Specular Fish
+
+The Specular Fish is an item used to craft Recall Potions. It can also be cooked.
+
+It is rarely obtained through fishing.
+
+It replenishes 1 hunger.
+
+Cooked Specular Fish
+
+Cooked Specular Fish is a food item.
+
+It is obtained through cooking Specular Fish.
+
+It replenishes 6 hunger.
+
+Required Toggle(s)
+
+- None
+
+Support
+
+To support this Add-On, consider becoming a Patron here!
+
+My Patrons
+
+Cheesers:
+
+Free Tier:
+
+Maks Keler Christian Rodrigues Benjie Jr Fuentes Andy Florest Rafael RANDY JADIEL Mega-Bean Gaming Moubarak Sama

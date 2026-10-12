@@ -1,0 +1,18 @@
+Sword Add-on is a simple add-on for Minecraft Bedrock, which adds the Minecraft Dungeons sword to the game.
+
+This sword behaves like an iron sword in every way: same damage, durability, and crafting method. However, it has one key difference:
+
+It performs a sweeping attack similar to Minecraft Java!
+
+With each hit, you not only damage the main enemy, but also all nearby mobs. There are no cooldowns or waiting times:
+You can attack as much as you want, whenever you want!
+
+Installation:
+
+1. Download the .mcaddon file
+
+2. Open it directly in Minecraft
+
+3. Activate the behavior and resource pack
+
+4. Make sure to enable experiments

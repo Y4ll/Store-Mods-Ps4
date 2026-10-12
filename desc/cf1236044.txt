@@ -1,0 +1,116 @@
+Beautiful Beds Texture Pack
+
+Give your Minecraft beds a more detailed, colorful and cozy look!
+
+Beautiful Beds redesigns the vanilla beds with a custom model and 16 unique themed designs, inspired by Minecraft mobs, biomes and environments.
+
+Each bed features its own visual identity, with themed blankets, improved wool textures and wood styles designed to better match its biome or theme.
+
+Features
+
+- 16 unique bed designs
+
+- Custom 3D bed geometry
+
+- Unique mob and biome-inspired blankets
+
+- Different wood styles depending on each bed's theme
+
+- Improved wool textures
+
+- Different design for every vanilla bed color
+
+- Lightweight resource pack
+
+- No scripts or behavior pack required
+
+- Designed for Minecraft Bedrock Edition
+
+16 Beds, 16 Unique Themes
+
+Every vanilla bed color has its own custom appearance. The designs combine different mobs, biomes, colors and wood types to make each bed feel unique while still fitting naturally into Minecraft.
+
+Simply craft or dye your beds normally and the corresponding custom design will automatically be used.
+
+Themes
+
+Beautiful Beds includes designs inspired by different Minecraft environments, mobs and themes, including:
+
+- Ocean
+
+- Jungle
+
+- Desert
+
+- Nether-inspired designs
+
+- Axolotl
+
+- Panda
+
+- Armadillo
+
+- Sheep
+
+- And many more!
+
+The latest visual update also improves the materials used throughout the pack, giving the beds cleaner wool textures and more appropriate wood styles for their respective themes.
+
+All Bed Designs
+
+**Take a closer look at all 16 Beautiful Beds variants.**
+
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+_Click any image to view it in full size._
+
+Showcase
+
+Want to see Beautiful Beds in action?
+
+Watch Beautiful Beds on YouTube
+
+Installation
+
+- Download the .mcpack file from CurseForge.
+
+- Open the downloaded file.
+
+- Minecraft should automatically import the resource pack.
+
+- Open your world settings.
+
+- Go to Resource Packs.
+
+- Activate Beautiful Beds.
+
+- Enter your world and enjoy!
+
+Compatibility
+
+Beautiful Beds is made for Minecraft Bedrock Edition.
+
+Check the Files section for the latest supported Minecraft versions and available releases.
+
+Credits
+
+Texture Pack: Spike Studios
+
+Bed model: @Fleecks
+
+Original model credit:
+
+Better Beds [Resource Pack]
+
+Please respect the original creators and do not redistribute the pack or its assets without permission.
+
+Support the Project
+
+If you enjoy Beautiful Beds, consider leaving a rating, following the project and checking out my other Minecraft Bedrock creations.
+
+Every download helps support future projects!
+
+Thanks for playing!

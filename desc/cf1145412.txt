@@ -1,0 +1,84 @@
+Better Biomes Add-On
+
+Welcome to Better Biomes, an expansive add-on that completely reimagines your Minecraft world!
+This add-on introduces brand-new biomes and overhauls existing vanilla biomes and caves, filling them with vibrant life, new natural decorations, and unique mechanics.
+
+Whether you're exploring frozen depths or relaxing under a palm tree, the world will feel more alive than ever!
+
+Brand New Biomes
+
+Azalea Forest
+
+A lush forest filled with azalea bushes, towering azalea trees, mossy meadows, and abundant rivers. Underground, massive Lush Caves thrive beneath the surface.
+
+Coralrest Cove
+
+A breathtaking aquatic biome overflowing with marine life. Discover new aquatic blocks, colorful corals, and vibrant underwater vegetation.
+
+Jacaranda Grove
+
+One of the most gorgeous biomes in the game. Wander through purple-leafed trees, lavender fields, and patches of podzol that enrich the terrain.
+
+Lushy Desert
+
+A fresh twist on the classic desert! Green vegetation, hidden lush caves, algae, and a surprisingly lively ecosystem thrive in the heat.
+
+Sulfur Wastes
+
+Inspired by sulfur caves, this biome brings toxic beauty to the surface. Beware bubbling sulfur pools and jagged sulfur spikes made with the newest Minecraft blocks.
+
+Vanilla Biome Overhauls
+
+We havent just added new biomesweve breathed new life into the old ones!
+
+Beaches
+
+Completely redesigned with dry grass, new blocks, and beautiful Palm Trees. Harvest coconuts and crack them open with an axe for a tropical snack!
+
+Deserts & Mesas
+
+Discover new cacti, scattered ancient bones, and fresh vegetation. Mesa caves now feature unique eroded terrain, colorful terracotta layers, and new underground dangers.
+
+Ice & Snow Biomes
+
+Surface: New winter plants and small leaf-hanging stalactites.
+
+Caves: Massive icicles and solid ice structures.
+
+Frozen Ores: Break the ice layer before mining the ore inside!
+
+Savanna
+
+New dry grass, improved terrain layers, revamped acacia trees, and towering Giant Baobabs dominating the horizon.
+
+Swamps & Swamp Caves
+
+Dense lilypads, cattails, rich vegetation, and underground swamp caves filled with vines, exotic mushrooms, and new natural materials.
+
+Natural Decorations & Features
+
+The world is now packed with tiny details that make a huge difference:
+
+Crystals growing naturally in caves
+
+Small rocks & pebbles across terrain
+
+Sandwaves & realistic terrain details
+
+Hundreds of new natural decorative blocks
+
+Unique Interactive Mechanics
+
+Better Biomes is fully interactive thanks to custom scripting!
+
+Pearl-bearing Clams: Crack them open for a chance to find a White Pearl.
+
+Harvestable Coconuts: Knock them down, chop them open, and enjoy a Split Coconut.
+
+Frozen Solid Ores: Break the ice layer before mining the ore.
+
+Realistic Leaf Decay: Custom leaves decay naturally when trunks are chopped.
+
+Lost Treasure Boxes: Found in shipwrecks and ruinscrack them open for loot!
+
+Explore, survive, and get lost in the beauty of Better Biomes!

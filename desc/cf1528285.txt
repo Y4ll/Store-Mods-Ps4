@@ -1,0 +1,17 @@
+Pack of mini 3D totem replicas fully customizable with your Minecraft skin. This pack is designed to give your gameplay a unique style, allowing you to replace the classic totem with detailed versions adapted to your character. It includes support for different skins, optimized design for good performance, and easy implementation. It is also fully compatible with Xnova Model, ensuring seamless integration with your other resources.
+
+IMPORTANT!
+
+The sections labeled "Steve" are only for wide skins in the Steve format. The same applies to "Alex" skins. If you're going to customize your skin, please read the .txt files within the texture pack to avoid any problems.
+
+MODES:
+
+CLASSIC (NORMAL):
+
+CLASSIC (SMALL):
+
+COMPATIBLE WITH XNOVA MODEL
+
+MODE NORMAL:
+
+MODE SMALL:

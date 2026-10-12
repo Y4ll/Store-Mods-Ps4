@@ -1,0 +1,179 @@
+Mobs Overview
+
+Summary:
+
+This plugin introduces a thrilling variety of new mobs from brave soldiers and powerful guardians to mischievous goblins, magical villagers, and even quirky, cute companions . Whether youre seeking allies in battle or unpredictable enemies to challenge your adventure, these unique creatures will make every encounter exciting and memorable!
+
+Soldier Villager
+
+- Health: 40
+
+- Damage: 5
+
+- Attack Mode: Melee
+
+- Attack Description: Very fast attack time, only 0.1s
+
+- Weapon: Iron Sword
+
+- Behavior: When mobs spawn near a village, they will automatically move towards the village to protect it.
+
+Bow Soldier Villager
+
+- Health: 35
+
+- Damage: Same as arrow damage
+
+- Attack Mode: Ranged
+
+- Attack Description: Shoots arrows every 1 ~ 1.5s
+
+- Weapon: Bow
+
+- Behavior: When mobs spawn near a village, they will automatically move towards the village to protect it.
+
+Axe Soldier
+
+- Health: 40
+
+- Damage: 5
+
+- Attack Mode: Melee
+
+- Attack Description: Half-second attack time
+
+- Weapon: Iron Axe
+
+- Behavior: When mobs spawn near a village, they will automatically move towards the village to protect it.
+
+Mage Villager
+
+- Health: 35
+
+- Damage: Same as small fireball
+
+- Attack Mode: Ranged
+
+- Attack Description: Casts 5 small fireballs with 1 ~ 3s cooldown
+
+- Weapon: None
+
+- Behavior: When mobs spawn near a village, they will automatically move towards the village to protect it.
+
+Chain Golem
+
+- Health: 125
+
+- Damage: 12
+
+- Attack Mode: Melee + Shockwave
+
+- Attack Description:
+
+- Attack cooldown: 0.3s
+
+- Attacks within 3.8 blocks (x & y)
+
+- Shockwave Damage: 6
+
+- Shockwave Range: 4 blocks
+
+- Weapon: None
+
+Stone Guardian
+
+- Health: 100
+
+- Damage: 7 ~ 25
+
+- Attack Mode: Melee
+
+- Attack Description: Attacks only after locating a target
+
+- Weapon: None
+
+- Behavior: When mobs spawn near a village, they will automatically move towards the village to protect it.
+
+Goblin
+
+- Health: 30
+
+- Damage: 1
+
+- Attack Mode: Melee
+
+- Attack Description: Seeks the most recent attacker (player, snow golem, iron golem, villager). After being hit, it looks for a hiding spot or flees if none are available.
+
+- Weapon: Goblin Short Sword
+
+Dungeon Watcher
+
+- Health: 40
+
+- Damage: 5
+
+- Attack Mode: Ranged (Laser Beam, similar to Warden)
+
+- Attack Description:
+
+- Attack cooldown: 0.5s
+
+- Beam Damage: 1
+
+- Beam Range: 20 blocks
+
+- Duration: 3s
+
+- Knockback: 0.5 blocks
+
+- Height: 2.8 blocks
+
+- Weapon: None
+
+Minecart Shooter
+
+- Health: 20
+
+- Damage: Same as arrow damage
+
+- Attack Mode: Ranged
+
+- Attack Description: Shoots with 0.8 ~ 1.5s cooldown
+
+- Weapon: None
+
+Shadow Hound
+
+- Health: 24
+
+- Damage: 3 (effect damage)
+
+- Attack Mode: Melee
+
+- Attack Description: Inflicts poison when attacking
+
+- Weapon: None
+
+Pallet Truck
+
+- Health: 40
+
+- Damage: None
+
+- Attack Mode: None
+
+- Attack Description: None
+
+- Weapon: None
+
+Rubble Sprite
+
+- Health: 20
+
+- Damage: None
+
+- Attack Mode: None
+
+- Attack Description: None
+
+- Weapon: None

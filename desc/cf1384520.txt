@@ -1,0 +1,63 @@
+Bedrock Advancements
+
+Java Edition gets a beautiful advancement system with custom UIs, toast notifications, and progression tracking. Bedrock Edition gets... a screen that says "achievements disabled" the moment you add any addon. This fixes that.
+
+If you've ever played Java Edition, you know that satisfying pop-up when you unlock an advancement. The little toast notification, the progression tree, the sense of actually achieving something. Then you go back to Bedrock and get absolutely nothing unless you count the achievements screen that locks itself the moment you enable any addon. Cool. Thanks, Mojang.
+
+BedrockAdvancements brings that entire system to Bedrock over 100 Java-style advancements across five categories (Minecraft, Nether, The End, Adventure, Husbandry), plus all 132 official Bedrock Edition achievements organised into 16 subcategories. Toast notifications pop up when you unlock something, challenge advancements award XP (40 to 1000, depending on difficulty), and everything tracks across sessions.
+
+Craft a Book of Advancements by surrounding a book with amethyst shards, then flex on your friends by placing it on a lectern for them to browse your progress. Nothing says "I've been productive" like a public advancement display that shows you've killed every mob type in the game.
+
+Want to see exactly how close you are to finishing "A Balanced Diet" or "Monsters Hunted"? The progress detail view (/ba:progress or sneak + use your book) shows you a formatted checklist of what you've done and what's left no guessing, no wiki cross-referencing, just a clean list with icons.
+
+Server admins get an admin panel with player management tools, the ability to grant advancements to players, disable Bedrock achievements if you want pure Java-style progression, and a creative mode toggle so people can't cheat their way to "Monsters Hunted." Progress persists, multiplayer works, it supports 29 languages out of the box, and it even sends notifications to Discord if you've got BedrockBridge running.
+
+Features
+
+- 100+ Java-style advancements across multiple categories
+
+- 132 Bedrock Edition achievements organized across 16 subcategories
+
+- Advancement Lectern with floating text display and wall occlusion
+
+- Custom UI inspired by Java Edition with dedicated Achievements tab
+
+- Toast notifications for unlocked advancements and achievements
+
+- Persistent progress tracking across sessions
+
+- Book of Advancements craftable item
+
+- Admin panel with player management tools
+
+- Achievements toggle to disable Bedrock achievements system
+
+- Creative Mode protection to block earning in Creative
+
+- Challenge advancements with XP rewards (401000 XP)
+
+- Multiple categories Minecraft, Nether, The End, Adventure, Husbandry, Achievements
+
+- Progress notifications for multi-step advancements and achievements
+
+- Progress detail view with formatted checklists of completed and remaining items
+
+- Multilingual support 29 languages included, ready to translate
+
+- Compatible with other addons no UI conflicts
+
+- Debug mode for testing and development
+
+- Multiplayer ready for realms and servers
+
+Installation
+
+- Download the .mcaddon file
+
+- Open it with Minecraft to import automatically
+
+- Create or edit a world and add both the BedrockAdvancements Resource Pack and Behavior Pack
+
+- In the world settings, enable the Beta APIs experiment toggle this is required for the addon to function
+
+- Enter the world and type /ba:advancements or craft the Book of Advancements (Book surrounded by 4 Amethyst Shards) to start tracking your progress!

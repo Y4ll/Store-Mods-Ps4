@@ -1,0 +1,155 @@
+A part of AurorianCraft: Insane Survival complement that excludes the realistic survival features, only keeping the animals. This addition is perfect for those who liked the AurorianCraft fauna and didn't want the survival part - just the animals.
+
+With this add-on, exploring is more unique. Expect finding the most interesting species. All mobs have realistic behaviors with unique features such as Natural Breeding, sleeping cycle and much more.
+
+Curseforge
+
+MCPEDL
+
+No experimental features needed
+
+- Join our community
+
+Discord
+
+- Credits
+
+VictaoSigma (project owner)
+
+Animals
+
+Animals have realistic behavior:
+
+Passive animals flee away.
+
+Defensive animals will attack or warn if they feel endangered.
+
+Agressive animals attack if the prey is too close.
+
+Sleeping cycle.
+
+Natural breeding.
+
+Genders.
+
+When dead, the animal becomes a corpse:
+
+The corpse can be skinned by interacting with a sharp object. Skinning is needed for the full loot, otherwise it'll just become a pile of bones, wich only drops bone.
+
+The corpse can be stuffed if interacted with planks.
+
+Players now can carry small animals (just the custom ones). Just shift and get close.
+
+Animal list:
+
+~ Wild Duck
+
+- Health: 5-8 ( 2.5 - 4 hearts)
+
+- Behavior: Passive
+
+- Attack Damage: 0
+
+- Tameable: Yes (only baby)
+
+- Feed Items: bread; seeds
+
+- Found: Plains, forests, rivers
+
+- Subespescies (variants): Mallard
+
+~ turkey
+
+- Health: 13-16 ( 6.5 - 8 hearts)
+
+- Behavior: Semidefensive ( Males have a small chance of attack back )
+
+- Attack Damage: 1-3 ( 0.5 - 1.5 hearts )
+
+- Tameable: Yes (only baby)
+
+- Feed Items: fruits; seeds
+
+- Found: Plains, oak forests, birch forests, dark oak forests
+
+- Subespescies (variants): Rio-Grande; Albino
+
+~ Pheasant
+
+- Health: 9-12 ( 4.5 - 6 hearts)
+
+- Behavior: Passive
+
+- Attack Damage: 0
+
+- Tameable: Yes (only baby)
+
+- Feed Items: fruits; seeds
+
+- Found: Taigas, meadows
+
+- Subespescies (variants): Ring-necked
+
+~ Peacock
+
+- Health: 7-10 ( 3.5 - 5 hearts)
+
+- Behavior: Passive
+
+- Attack Damage: 0
+
+- Tameable: Yes (only baby)
+
+- Feed Items: fruits; seeds
+
+- Found: Jungles
+
+- Subespescies (variants): Blue
+
+~ Guineafowl
+
+- Health: 5-8 ( 2.5 - 4 hearts)
+
+- Behavior: Passive
+
+- Attack Damage: 0
+
+- Tameable: Yes (only baby)
+
+- Feed Items: fruits; seeds
+
+- Found: Plains, savannas
+
+- Subespescies (variants): Helmeted; Crested; Plumed
+
+~ Junglefowl
+
+- Health: 5-8 ( 2.5 - 4 hearts)
+
+- Behavior: Passive
+
+- Attack Damage: 0
+
+- Tameable: Yes (only baby)
+
+- Feed Items: seeds
+
+- Found: Jungles
+
+- Subespescies (variants): Red
+
+- Can be domesticated into: chicken
+
+~ Chicken
+
+- Health: 5-8 ( 2.5 - 4 hearts)
+
+- Behavior: Passive
+
+- Attack Damage: 0
+
+- Tameable: Yes (only baby)
+
+- Feed Items: seeds
+
+- Faster breeding cooldown

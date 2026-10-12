@@ -1,0 +1,83 @@
+AI MULTIPLAYER
+
+AI Multiplayer brings your single-player Minecraft world to life by adding AI players that act, work, and survive just like real people. Instead of following you around mindlessly, these bots have their own inventories, personalities, and goals.
+
+Here is what they can do:
+
+Work & Mine: Give a bot a job, like chopping a specific amount of wood or mining ores. They use smart tacticslike felling entire trees or digging clean 45^\circ staircasesand deliver the exact items to a chest when done.
+
+Survive & Travel: Bots follow real player physics, eat when hungry, sleep through the night, and build quick dirt shelters to stay safe. They can swim, ride animals (horses, camels, donkeys), and dig through blocks if their path is blocked.
+
+Smart Combat: They fight dynamically using swords, bows, tridents, shields, and mace slams. They dodge attacks, flee from creepers, avoid lava, and retreat to heal when low on health.
+
+Social Connections: Bots talk in chat, offer quests, trade, and request friendships. Help them out to build trust, or hit them to start a feud. You can easily adjust their behavior, chat frequency, and pranks through an in-game settings menu.
+
+eds Beta Api -
+
+They Spawn Automaticaly
+
+They Can Craft Weapons Armours
+
+They Can Escape Traps
+
+They Chat Like Real Players
+
+They Can Swim
+
+They Make Friends And do group fights :
+
+They Have Fighting Iq
+
+Behaviour Changes Due to Weather
+
+You Can Make Them Friends By-
+
+i) Talk to them friendly
+
+ii) Help theme in fights
+
+iii) Give them foods
+
+By This Way It increases the sympathy Level Between Ai And Player
+
+The lower the sympathy level the harder to make them friends
+
+After making them friends
+
+You can Do A Lot Things
+
+Like tp , request help in fights.
+
+You are given two items for friends list and request .
+
+A Remake Version Of Echoes of multiplayer With More Advance Ai System and more features . As the developer of the addon left development of it , I have taken full permission.
+
+If You want to summon them use /summon rg:bot
+
+Or wait when they spawn.
+
+Requirements
+Minecraft Bedrock 1.26.50+ (Android, iOS, Windows)
+Import the .mcaddon (contains both Behavior + Resource packs)
+Apply both packs to a world and enable Beta APIs this addon uses @minecraft/server 2.11.0-beta
+Works best in Survival with cheats enabled
+
+Socials:
+
+Join our discord :
+
+Support On Kofi:
+
+You Are Allowed To:
+
+- Showcase my work in videos/streams if you give proper credit (e.g., link to the official download).
+
+- Edit file for personal use only
+
+You Are Not Allowed To:
+
+- Distribute through monetized links (AdFly, Linkvertise, etc.).
+
+- Edit and re-share my projects
+
+If You Give Low Rating ,You Should Comment the reason

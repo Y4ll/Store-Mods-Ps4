@@ -1,0 +1,49 @@
+Netherite Armor Fix (v1.5.0+)
+
+A lightweight Minecraft Bedrock script that fixes wind charge interactions with Netherite armor.
+
+Feature List
+
+- Wind Charge Fix: Wind charges affect Netherite armor normally instead of being blocked by knockback resistance.
+
+- Vanilla Logic: Tuned to stay close to Bedrock Edition's core mechanics and physics.
+
+- Enchantment Support: Compatible with Elytra flight and the Wind Burst enchantment.
+
+- Universal Support: Works on mobs and non-mob entities, including armor stands, boats, and minecarts.
+
+- Achievement Friendly: No experimental toggles required.
+
+- PvP & Survival: Designed for PvP, survival, and multiplayer worlds.
+
+Technical Overview
+
+- Modern API Support: Updated for modern Minecraft Bedrock script APIs.
+
+- Optimized Detection: Entity checks are optimized to reduce unnecessary performance impact.
+
+- Plug and Play: Install the behavior pack and play normally without extra commands.
+
+Compatibility
+
+Supported: Netherite armor, Elytra, Wind Burst, mobs, armor stands, boats, and minecarts.
+
+Best for: Survival, PvP, multiplayer, and achievement-friendly worlds.
+
+Changelog
+
+v1.5
+
+- Added Launch Multiplier subpacks: Normal (1x), 1.25x, 1.5x, 2x, and 3x.
+
+- Fixed sprinting players being pushed in the wrong direction by another player's wind charge.
+
+- Fixed Wind Burst smash attacks still launching players when diving into water on impact.
+
+- Optimized boat, minecart, and armor stand detection for fewer lookups and less lag.
+
+Bugs or Questions?
+
+- Make sure you are using the latest version before reporting an issue.
+
+- If you find a bug, leave a comment and I will try to help as soon as possible.

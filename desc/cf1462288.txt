@@ -1,0 +1,59 @@
+Types of weapons
+
+Assault rifle
+
+Akm (1960)
+
+Akms (1965)
+
+M16a1 (1965)
+
+Car-15 (1967)
+
+Fn-Fal (1960))
+
+Light Machines Gun
+
+Rpd
+
+M60
+
+Grenade launcher
+
+M79
+
+Anti tank Weapons
+
+M72 Law
+
+Rpg-7 (B-41)
+
+https://youtu.be/FzOQIUbpsgg?si=lP20rXUDSRTtee-2
+
+It will have AK bayonet and M16, but I've currently disassembled them and am testing them.
+
+There would be a fire control system calling in artillery fire from the Viet Cong, the South Vietnamese Liberation Army, and B-52 bombing raids from the US Army.
+
+Pick up the item, click on the location where you want to summon the cannon, just like clicking to fire a gun.
+
+There will be armor from both sides. The communist South Vietnamese Liberation Army will use AK rifle pouches, straw hats, and bucket hats, while the US Army will have M1967 bulletproof vests and M1 helmets.
+
+Reload empty Mag
+
+You must store your magazine in this main inventory slot, as that location is modeled after the ammunition pouch.
+
+Tactical Reload
+
+When firing, you must fire one shot at a time. Make sure the magazine has 29 rounds. If you have one round left in your gun, tap the ground to reload. For mobile, tap the ground.
+
+Inspect Gun
+
+If you have 30 rounds left and haven't fired a single shot, and you land on the ground, your weapon will be inspected.
+
+Vehicle
+
+Brdm2
+
+Boat River
+
+and a team selector, allowing you to side with either the South Vietnamese Liberation Army or the US Army.

@@ -1,0 +1,63 @@
+PokeSnacks: PokeDrock Expansion
+
+PokeSnacks is a functional expansion designed to integrate seamlessly with the SERP ecosystem. This addon introduces a specialized consumption system that allows players to actively influence entity spawning through a tiered, resource-based mechanic.
+
+Two Versions Available
+
+To give players more freedom, this addon is now available in two different versions. Choose the one that best fits your playstyle:
+
+- Vanilla Crafting Table Edition: Uses the standard Minecraft Crafting Table. Perfect for players who want a more vanilla-friendly crafting experience without extra dependencies.
+
+- SERP Additions Edition (Cooking Pot): The intended, immersive experience. Requires the SERP Additions addon to craft the snacks using the custom Cooking Pot station.
+
+Technical Dependencies
+
+- SERP Pokedrock (Required): The primary framework for entity management. It ensures compatibility and provides the base data for the entities being influenced by the snacks.
+
+- SERP Additions (Optional): Only required if you download the Cooking Pot Edition of this addon.
+
+Core Features
+
+24 Unique Snacks & Tiered Evolution: The system has been expanded to feature 24 specialized snacks divided into 8 main flavor categories (including the new Tart and Mint flavors). Each flavor features a progression system with three distinct levels of efficiency:
+
+- Standard Tier: The fundamental entry point for entity tracking.
+
+- Gold Tier: A boosted variant that unlocks stronger Pokemon and increases the Shiny encounter rate (8x).
+
+- Ultra Tier: The definitive level, specifically designed for the rarest encounters, maximizing Shiny probabilities (28x).
+
+Targeted Spawning by Flavor & Biome: Outcomes are tied to environmental data and the specific flavor of the snack used. The current flavor-to-type chart includes:
+
+- Normal: Attracts varied types (Heavily influenced by the current biome).
+
+- Salty (Salino): Attracts Water, Rock, and Ground types.
+
+- Spicy (Picante): Attracts Fire, Fighting, and Dragon types.
+
+- Bitter (Amargo): Attracts Poison and Dark types.
+
+- Sweet (Dulce): Attracts Normal, Fairy, and Grass types.
+
+- Sour (Acido): Attracts Steel and Bug types.
+
+- Tart (Agrio) [NEW]: Attracts Electric types.
+
+- Mint (Menta) [NEW]: Attracts Ice, Flying, Psychic, and Ghost types.
+
+Utility Items [NEWLY DOCUMENTED]:
+
+- Aroma Powder (Polvo Aroma): A highly useful utility item. Applying this powder to an active snack block drastically accelerates the consumption time, causing Pokemon to spawn much faster. Perfect for impatient hunters!
+
+- Repel Snack: Use it on an active snack to immediately stop the spawning process without breaking the block, turning it into a decorative piece.
+
+Extended Durability Logic: Each snack item is configured with 9 individual uses (bites). This multi-use implementation ensures balanced resource management and sustained gameplay utility per crafted unit.
+
+Gameplay Impact and User Experience
+
+This project transforms the exploration loop by replacing passive waiting with an active, strategic hunting mechanic. By utilizing the crafting stations to create and upgrade snacks, players gain agency over the game's RNG, allowing for targeted entity encounters. The durability system and new utility items encourage tactical planning, designed specifically for users who prioritize efficiency in collection and shiny hunting.
+
+PokeSnack
+
+PokeSnackGold
+
+PokeSnackUltra

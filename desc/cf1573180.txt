@@ -1,0 +1,59 @@
+True Shades Realism is a vanilla-faithful shader that transforms Minecraft's atmosphere through realistic lighting, immersive fog, dynamic reflections, and biome-based ambience while preserving the game's iconic visual style.
+
+Designed for players who love Minecraft's original look but want a more cinematic and realistic experience, True Shades Realism enhances the world around you without changing the identity of the game itself.
+
+Features
+
+Realistic lighting and shadows
+
+Biome-based fog for increased immersion
+
+Biome-based color tinting
+
+- Warm biomes feel warmer
+
+- Cold biomes feel colder
+
+- Each environment has its own atmosphere
+
+Realistic water rendering
+
+Realistic reflections
+
+Colored block lighting
+
+- Torches emit warm orange light
+
+- Redstone torches emit bright red light
+
+- End Rods emit soft cyan light
+
+- Lava emits glowing orange light
+
+- Crying Obsidian emits purple light
+
+Enhanced cave ambience
+
+Improved sky and environmental atmosphere
+
+PBR support for compatible texture packs
+
+Designed to remain faithful to vanilla Minecraft
+
+True Shades Realism is intended for medium-end devices and above.
+
+With optimized settings, many good low-end devices may still achieve playable performance, but this shader is more demanding than the original True Shades shader.
+
+This shader requires a device capable of running Vibrant Visuals.
+
+Please ensure your device supports Vibrant Visuals before downloading.
+
+If you enjoy True Shades Realism and would like to support future updates, donations are greatly appreciated.
+
+If you want news about updates and more, why not check out my YouTube and insta
+
+Looking for Better Performance?
+
+If you're looking for a lighter shader designed specifically for low-end devices, check out the original True Shades.
+
+Thank you for supporting the project and helping True Shades continue to grow .

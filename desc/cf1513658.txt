@@ -1,0 +1,55 @@
+ENGLISH
+
+APOCALIPTYC ILLAGERS - Survive the Apocalypse in Style
+Take your Minecraft world to the next level with a dark, technical, and unique aesthetic! This texture pack has been specifically designed for fans of extreme survival and apocalyptic environments, focusing on enhancing the atmosphere without sacrificing performance.
+
+What makes this pack different?
+
+This project isn't just a texture swap; it's a complete visual overhaul that utilizes a high-contrast design style with defined lines (Sticker Style). This allows objects and characters to stand out even in the darkest nights of the apocalypse, giving them a depth you won't find in the base game.
+
+Key Features:
+Unique Illager Designs: The Illagers have been completely redesigned to fit into a devastated world. Prepare to face enemies that truly command respect.
+
+High Contrast Aesthetics: Inspired by the style of high-quality stickers, each texture features defined edges that enhance visibility in fast-paced combat.
+
+Optimized for Realms: Tested and tuned to run smoothly on servers and Realms, reducing unnecessary visual load to maintain stable FPS on consoles and mobile devices.
+
+Immersive Atmosphere: Ideal for content series like The Walking Craft Zero or zombie adventure maps.
+
+Gallery & Community
+If you want to see this pack in action before downloading, you can follow the development and watch exclusive cinematics on our official platforms:
+YouTube: [https://www.youtube.com/@donyutumondragon4516] (See the pack in the official series here!)
+
+Installation Instructions
+Download the .mcpack file from the "Download" button here on CurseForge.
+
+Run the file to automatically import it into Minecraft Bedrock.
+
+In your world or Realm settings, go to Resource Packs and enable APOCALIPTYC ILLAGERS.
+
+(Optional) For a superior visual experience, it is recommended to use it with dynamic lighting shaders.
+
+Developer Note
+This pack is constantly being updated. If you find any bugs or have a suggestion for a new mob design, please leave it in the comments! Your feedback helps this project continue to grow.
+
+Download it now and prepare for the end of the world!
+
+And best of all, this texture pack is compatible with any animation pack.
+
+ESPANOL
+
+APOCALIPTYC ILLAGERS - Sobrevive al Apocalipsis con Estilo
+Lleva tu mundo de Minecraft al siguiente nivel con una estetica oscura, tecnica y unica! Este pack de texturas ha sido disenado especificamente para amantes de la supervivencia extrema y entornos apocalipticos, centrandose en mejorar la atmosfera sin sacrificar el rendimiento.
+Que hace a este pack diferente?
+Este proyecto no es solo un cambio de texturas; es una renovacion visual completa que utiliza un estilo de diseno de alto contraste y trazos definidos (Sticker Style). Esto permite que los objetos y personajes resalten incluso en las noches mas oscuras del apocalipsis, dandoles una profundidad que no encontraras en el juego base.
+Caracteristicas Principales:
+Disenos Unicos de Illagers: Los saqueadores han sido completamente redisenados para encajar en un mundo devastado. Preparate para enfrentarte a enemigos que realmente imponen respeto.
+Estetica de Alto Contraste: Inspirado en el estilo de pegatinas de alta calidad, cada textura cuenta con bordes definidos que mejoran la visibilidad en combates rapidos.
+Optimizacion para Realms: Probado y ajustado para funcionar con fluidez en servidores y Realms, reduciendo la carga visual innecesaria para mantener los FPS estables en consolas y moviles.
+Atmosfera Inmersiva: Ideal para series de contenido tipo The Walking Craft Zero o mapas de aventura de zombies.
+Galeria y Comunidad
+Si quieres ver este pack en accion antes de descargarlo, puedes seguir el desarrollo y ver cinematicas exclusivas en nuestras plataformas oficiales:
+YouTube: [https://www.youtube.com/@donyutumondragon4516] (Aqui puedes ver el pack en la serie oficial!)
+Instrucciones de Instalacion
+Descarga el archivo .mcpack desde el boton de "Download" aqui en CurseForge.
+Ejecuta

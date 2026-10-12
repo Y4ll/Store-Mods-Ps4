@@ -1,0 +1,15 @@
+Colorful World
+
+Colorful World is a simple Minecraft Bedrock resource pack that makes every texture in the game more colorful. Blocks, items, mobs, paintings and particles all keep the same look you already know the colors are just much stronger, so the world feels bright and fun instead of dull.
+
+Pick how colorful you want it
+
+There are four levels inside the pack. Tap the pack in your settings to choose one:
+
+- Soft
+
+- Colorful
+
+- Vivid
+
+- Extreme

@@ -1,0 +1,50 @@
+Villager Trade Preview
+
+View locked and future villager trades before leveling them up!
+
+About the Pack
+
+Villager Trade Preview is a lightweight Minecraft Bedrock resource pack that displays every locked and future villager trade from the beginning. You can preview upcoming items, enchanted books and other offers before spending resources to level up a villager.
+
+The pack only reveals hidden trade information. Locked trades will remain locked until the villager reaches the required level, keeping normal survival progression balanced.
+
+Features
+
+- Displays locked and future villager trades early
+
+- Shows trade items, names and available enchantment details
+
+- Works with every villager profession
+
+- Supports Pocket UI and Classic UI
+
+- Does not unlock trades or change villager mechanics
+
+- Lightweight and performance-friendly
+
+- Does not disable achievements
+
+- Compatible with Minecraft Bedrock 1.26.40
+
+Installation
+
+- Download the .mcpack file.
+
+- Open the file using Minecraft.
+
+- Wait for the resource pack to import successfully.
+
+- Activate it from Global Resources or your world's Resource Packs menu.
+
+- Place it above other UI packs to prevent compatibility issues.
+
+Important Information
+
+This resource pack previews future trades but does not remove their level requirements. Other packs that modify the villager trading interface may conflict with it.
+
+Credits
+
+Created, designed and maintained by Baku.
+All pack branding and distribution credits belong to Baku.
+
+This is an unofficial Minecraft resource pack and is not affiliated with Mojang Studios or Microsoft.

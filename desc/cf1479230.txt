@@ -1,0 +1,23 @@
+Ethereal Mystic Lite
+
+A trimmed-down, performance-friendly version of Ethereal Mystic Shader same cinematic core, built to run smoother on lower-end devices.
+
+Features:
+
+- Dynamic sky & sun glow smooth sky color transitions with a soft sun halo that shifts naturally through the day/night cycle
+
+- Volumetric fog with god rays light shafts scatter through trees and terrain for a moody, atmospheric look
+
+- ACES color grading cinematic tone mapping with tuned highlights, midtones, and shadows for richer contrast
+
+- Soft shadows smoother, more natural shadow edges across the world
+
+- Enhanced water realistic wave motion, caustics, and depth-based tinting
+
+- PBR-ready materials subtle metalness, roughness, and emissive detail on ores and blocks
+
+- Optimized for performance a lighter build of the full Ethereal Mystic experience, ideal for mid-range and lower-end devices
+
+This is a lighter version with reduced fog and shading intensity for better performance. If you want the full Ethereal Mystic experience with maximum atmospheric depth, download the original Ethereal Mystic Shader instead both versions will stay available.
+
+- by the Ethereal Mystic Shaders team

@@ -1,0 +1,123 @@
+OverStack: Ultimate Stack Size & Inventory Manager :
+
+Tired of your inventory filling up after 5 minutes of mining?
+
+OverStack is a revolutionary Bedrock Edition Add-on that shatters the vanilla stack limit! Using advanced Scripting APIs, this add-on allows you to compress items into massive virtual stacks up to 1,000 items per slot keeping your inventory clean and organized.
+
+- what is new in the v3 version?
+
+- **Magnetic Aura:** Automatically pulls nearby items within an **8-block radius** toward the player.
+- **Smart Deposit:** Quickly stack items into chests by **sneaking and interacting**.
+- **Inventory Sorting:** Instantly organizes inventory items by **type and quantity**.
+- **Material Compactor:** Converts bulk resources (e.g., ingots) into **blocks directly from the menu**, replacing the XP Bank concept.
+
+- **Void Filter:** Automatically deletes selected items, now featuring a **UI to choose items directly from your inventory**.
+
+** Progression & Economy**
+- **Emerald Economy:** Advanced features must now be **unlocked using emeralds**, adding structured progression.
+
+** UI & Visuals**
+- **Dashboard Overhaul:** Introduced **new icons**, cleaner layout, and **improved text formatting** for better readability.
+
+------------------------------------------------------------------------------------------
+
+- what is new in the v2 version?
+
+Container Compression (Left-Click)
+Hit a chest with the Wand to instantly compress and organize it
+Includes smart overflow protection that handles stacks up to 1000 properly
+
+Sound Design Overhaul
+Dynamic sound pitch makes small stacks sound light and high-pitched while big stacks sound heavy and deep
+
+Smart Drop System
+Detects when you drop a compressed stack
+Opens a menu letting you choose the exact amount to drop and whether they remain compressed
+Includes physics "throw" logic so items are not picked up instantly
+
+Visual Particle Effects
+Green Sparkles indicate success in Compression, Unpacking, or Upgrading
+Red Smoke signals failure or full stacks
+White Puff appears when dropping items
+
+Key Features
+
+Break the 64 Limit
+
+Store up to 1,000 items in a single inventory slot.
+
+The Stack Regulator
+
+A specialized tool that manages your compression system.
+
+Progression System
+
+Upgrade your stack limits using XP and Chests.
+
+Auto-Stacking
+
+Items automatically compress as you pick them up.
+
+Safety Mode
+
+Easily pause the system to craft or trade without issues.
+
+Visual Indicators
+
+Items show their real count in the name tag (e.g., Deepslate x1000).
+
+How It Works
+
+1. The Stack Regulator
+
+When you load the world, the Stack Regulator item will appear in your inventory automatically.
+
+Right-Click (Use) the Regulator to open the Upgrade Menu.
+
+Sneak + Right-Click the Regulator to Pause/Resume the mod.
+
+2. Upgrade Tiers
+
+You start with a limit of 64. To hold more, you must upgrade your Regulator using Experience Levels and Chests.
+
+Tier Level
+Stack Limit
+Cost to Upgrade
+
+Tier 1
+64 Items
+(Default)
+
+Tier 2
+128 Items
+5 XP + 2 Chests
+
+Tier 3
+256 Items
+10 XP + 4 Chests
+
+Tier 4
+512 Items
+15 XP + 8 Chests
+
+Tier 5
+1,000 Items
+20 XP + 16 Chests
+
+3. Unpacking Items
+
+Need to use your items? Sneak + Right Click while holding a stacked item to unpack it back into vanilla stacks.
+
+Technical Info & Installation
+
+Supported Version:
+
+Minecraft Bedrock 1.21.120+
+
+Requirements:
+
+You must enable Beta APIs in your world settings for the scripts to function correctly.
+
+Compatibility:
+
+This add-on uses the Script API. It is generally compatible with other addons, but items with custom durability or enchantments will not be stacked to prevent data loss.

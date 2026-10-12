@@ -1,0 +1,129 @@
+Villager Soldier 2 Version 3: The Rise
+
+If you want to experience try-hard gameplay and love armies and Minecraft-style battles with Villagers and Illagers, then try this addon. It will bring many new experiences in gameplay and new weapons, armour, and golems.
+
+The addon will not lock achievements when installed in the world.
+
+Since the addon is based on Villager Soldier Vanilla V6, most of the villagers are similar to the Villager Soldier Vanilla V6 addon.
+
+Black Empire:
+
+Some images of the Black Empire.
+
+Weapons:
+
+Normal weapons:
+
+The addon has added a variety of weapons to provide players with more choices. These common weapons will have multiple versions based on metal materials.
+
+Guns:
+
+Flintlock Musket:
+
+Can buy from Villager Clan Leader Vanilla.
+
+Percussion Cap Musket:
+
+Can loot in an illager structure and drop loot from killing a pillager gunner.
+
+Flintlock Pistol:
+
+Can loot from the killed Illager savanna cowboy
+
+Golden Reaper:
+
+Can loot from the killed Illager Evil Cowboy near mode.
+
+Deadlight Rifle:
+
+Can loot from the killed Illager Evil Cowboy far mode.
+
+Handle Cannon:
+
+Can loot from the killed Dwarf Pillager.
+
+Handle Cannon version 2:
+
+Can loot from the killed Dwarf General Pillager.
+
+Boss Weapons:
+
+Giant Gemheart Broadsword:
+
+This is a greatsword that can only drop from the Illager Generalissimo.
+
+Velocithief Blade:
+
+This weapon only drops when you kill an Illager Desert General.
+
+Withering Spear:
+
+This weapon only drops when you kill an Illager Plains General.
+
+Armors:
+
+All armour can be crafted using either a crafting table or a smithing table.
+
+Illager Armours:
+
+Villager Armours:
+
+League Army Villager:
+
+League Generals:
+
+Villager Generals are units subordinate to the alliance of villager armies. Units subordinate to the alliance cannot be bought (tamed) by the player; they can only be summoned using command flags.
+
+How to have League Units, please watch my tutorial videos.
+
+Clan Units:
+
+Clan units are typically lower-level units within the alliance. Clan Leaders, however, are key figures in the League. You need to meet all Clan Leaders to exchange Clan medals to obtain the General's badge.
+
+Tanker and Champion:
+
+In this new version, the Villager Melee unit has been split into two: Vanguard and Tanker. Vanguard remains the same, only they can no longer carry shields and cannot level up. Tankers will be the only unit that can level up to Champion. Tankers have 4 levels; reaching level 4 and accumulating enough XP will allow them to become a Champion. Champions will serve as a transitional unit between the militia and the general.
+
+They can be tamed by the player.
+
+Note: Once your tanker has been tamed and identified, when it levels up to Champion, you should re-identify it to continue using the team system's functions. Since the code only transfers name data and not tag data, please re-identify it immediately after your tanker levels up to Champion.
+
+For more details, please watch the tutorial video.
+
+Fixed Weapon:
+
+Catapult:
+
+- Can shoot some blocks: brick block, TNT, melon block, pumpkin, magma block, obsidian, cobblestone.
+
+Potato cannon:
+
+- Can shoot potatoes and exploding potatoes, manual reloading.
+
+- Put gun powder, then put a potato or Explosive potatoes
+
+Big Potato cannon:
+
+- Same as a potato cannon, but auto reloading.
+
+- It has 2 2-slot inventory to store gunpowder and potato or Explosive potatoes
+
+Note: all of fixed Weapon can take back by get back hammer
+
+Tools
+
+For Team:
+
+Team book:
+
+- This book helps players and their troops join the team.
+
+- The prerequisite is that their soldiers must be tamed and identified.
+
+- To fight with other teams, soldiers must be in kill player mode.
+
+Identification soldier card:
+
+- This identification card helps players identify their tamed soldiers and golems.
+
+- Once identified, their soldiers and golems will deal 0 damage to their master if they accidentally shoot at their master. And they will actively cancel their target if their master is standing in front of th

@@ -1,0 +1,4 @@
+In this One Piece Addon, youll see Luffy, Nami, Zoro, and several other characters.
+Which One Piece character do you like the most?
+
+The addon doesnt contain a player.json file and requires experimental mode.

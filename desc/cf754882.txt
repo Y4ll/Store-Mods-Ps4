@@ -1,0 +1,9 @@
+Health Bar MOBS
+
+This mod allows you to have, in real time, the remaining life of a mob or a player. Especially in PVP, it can be practical... Well, that's pretty useful though! It's for 1.18 but if it doesn't work, you need 1.18.2.
+
+0 lag guarantee!
+
+(Finally, it is above all that it can even be installed on the old computer in the attic...)
+
+Translate ENGLISH > FRENCH

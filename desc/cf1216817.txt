@@ -1,0 +1,9 @@
+Low Fire
+
+Lowers the fire texture for better visibility. Compatible with vibrant visuals.
+
+Customize the fire height
+
+You can customize the fire height as you see fit by clicking the settings icon next to the resource pack.
+
+Over here you can set the desired fire height using the slider.

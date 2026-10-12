@@ -1,0 +1,6 @@
+This addon includes over 50 dinosaurs and creatures from the Jurassic saga, from both the movies and the animated series, this time with chubbier and cuter designs that will work as your pets.
+You can create them at the crafting table, or you can find them roaming around the world in different biomes.
+To tame them, you must craft a specific type of cookie depending on each dinosaurs diet, which is indicated by a color in the top-right corner:
+RED CARNIVORES
+GREEN HERBIVORES
+BLUE PISCIVORES

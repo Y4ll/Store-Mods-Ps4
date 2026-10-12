@@ -1,0 +1,27 @@
+SimCore
+
+Keep progress of your farms while traveling across the world!
+
+This mod maintains simulation on chunks which are out of your range
+
+Support for:
+
+Crops
+
+Smelters
+
+Automatic farms
+
+Commands
+
+Also works across dimensions and after returning to the world!
+
+Simulation maintain range: 40 blocks to the sides
+
+(presentation)
+
+Recipe:
+
+No experimental mode and achievements friendly!
+
+You can support me here:

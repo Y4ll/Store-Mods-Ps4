@@ -1,0 +1,11 @@
+The Simple Vehicles Addon - Karts is a minecraft addon that offers five unique karts with stylish designs and smooth functionality. These karts are craftable in survival mode, allowing players to integrate them seamlessly into their gameplay without needing creative mode. They are also fully respawnable, ensuring a consistent and enjoyable experience. This add-on is perfect for players who love fast-paced action and unique transportation options.
+
+Features:
+
+- Add 5 Karts
+
+- Can be cratbale for survival gameplay
+
+- Can be repairable with wrench
+
+- Custom cinematic if you ride on vehicle

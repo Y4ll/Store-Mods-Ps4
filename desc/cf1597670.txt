@@ -1,0 +1,27 @@
+Experience a serene, golden-hour world with Mellow Shaders. Designed for smooth, lag-free gameplay, this lightweight shader transforms your Minecraft Bedrock experience with warm, cinematic lighting without the performance hit.
+
+Perfect golden-hour sunsets and sunrises paint the sky in soft amber and cream tones. Dynamic cloud rendering creates depth and atmosphere. Water reflects the glowing sun while maintaining clarity. Volumetric fog glows gently around the light source, creating immersive depth. Forests shimmer with dappled light filtering through canopies. Caves and buildings gain warm, natural shadows that bring out detail without crushing contrast.
+
+Features:
+
+- Warm, cohesive golden-hour aesthetic
+
+- Lightweight performance optimization
+
+- Volumetric fog and atmospheric depth
+
+- Enhanced water rendering
+
+- Natural shadow definition
+
+- Cloud atmosphere and sky gradients
+
+- Fantasy-style aurora effects
+
+- Works across all Bedrock biomes
+
+- Device-friendlyoptimized for stability
+
+Turn on Mellow Shaders and discover how stunning Bedrock can look without sacrifice.
+
+Mellow Shaders Team

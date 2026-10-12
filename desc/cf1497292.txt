@@ -1,0 +1,65 @@
+Glowing Ores (Emissive)
+
+Fully compatible with VV Vibrant Visuals
+
+About This Pack
+
+The Glowing Ores texture pack enhances all Minecraft ore textures by adding subtle emissive properties, making them glow faintly in darkness.
+This applies to every vanilla ore:
+
+Coal
+
+Iron
+
+Gold
+
+Diamond
+
+Emerald
+
+Lapis Lazuli
+
+Redstone
+
+Copper
+
+Quartz
+
+Nether Gold
+
+Ancient Debris
+
+All Deepslate Variants
+
+How It Works
+
+This pack uses Minecrafts texture set system to add:
+
+Metalness maps
+
+Emissive roughness maps
+
+These maps create a realistic glowing effect while preserving the original vanilla texture style.
+The glow is intentionally subtle bright enough to improve visibility, but gentle enough to maintain Minecrafts natural atmosphere.
+
+Why Youll Love It
+
+Easier ore spotting during mining
+
+Beautiful glow in caves and dark areas
+
+Preserves the original vanilla aesthetic
+
+Works seamlessly with emissive/PBR packs
+
+Perfect For
+
+Players who want improved mining visibility
+
+Underground explorers
+
+Builders who enjoy emissive visual styles
+
+Anyone using Vibrant Visuals or PBR packs
+
+Enhance your caves and make every ore shine with Glowing Ores!

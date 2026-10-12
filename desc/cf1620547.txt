@@ -1,0 +1,167 @@
+Baku Lucky Blocks: Trinity Edition
+
+Three Lucky Blocks. Three completely different outcomes.
+
+Baku Lucky Blocks: Trinity Edition is a polished Minecraft Bedrock addon that expands the classic Lucky Block concept into a complete three-block system. Instead of putting every reward into one block, each Lucky Block now has its own purpose, rarity and gameplay style.
+
+Main Features
+
+- 3 Unique Lucky Blocks
+
+- Custom professional textures
+
+- Random rewards and events
+
+- Direct structure generation
+
+- OP loot and rare jackpots
+
+- Positive and negative effects
+
+- Progression between Lucky Block types
+
+- Quiet reward delivery without unnecessary chat spam
+
+- Custom pack icon and polished pack structure
+
+Yellow Lucky Block OP Items
+
+The Yellow Lucky Block is the main progression block of the addon. Breaking it gives powerful survival rewards, rare equipment and valuable resources.
+
+Possible rewards include:
+
+- Diamonds and Emeralds
+
+- Golden Apples and Enchanted Golden Apples
+
+- Totems of Undying
+
+- Diamond tools and armor
+
+- Netherite-related items
+
+- Elytra and Firework Rockets
+
+- Tridents and ocean loot
+
+- Beacon materials
+
+- Mace and Trial Chamber items
+
+- Treasure blocks
+
+- Rare Ultimate Jackpot rewards
+
+The Yellow Lucky Block can also rarely reward you with another Lucky Block.
+
+- Rare chance to receive a Blue Lucky Block
+
+- Even rarer chance to receive a Red Lucky Block
+
+Blue Lucky Block Effects
+
+The Blue Lucky Block focuses completely on random player effects. The result can either make you extremely powerful or put you in serious trouble.
+
+Possible effects include:
+
+- Regeneration
+
+- Strength
+
+- Speed
+
+- Resistance
+
+- Absorption
+
+- Haste
+
+- Night Vision
+
+- Fire Resistance
+
+- Invisibility
+
+- Poison
+
+- Slowness
+
+- Weakness
+
+- Darkness
+
+- Mining Fatigue
+
+- Wither
+
+- Levitation
+
+- Rare Ultimate Blessing and Luck Flip events
+
+Red Lucky Block Structures
+
+The Red Lucky Block is dedicated to structure generation. Breaking one in an open area can instantly generate a random useful or rare structure.
+
+Possible structures include:
+
+- Crafting Workshop
+
+- Smithing Station
+
+- Enchanting Library
+
+- Brewing Lab
+
+- Villager Market
+
+- Survival Loot House
+
+- Treasure Vault
+
+- Lucky Castle
+
+- Mythic Temple
+
+If there is not enough space for the selected structure, the Red Lucky Block is refunded so you can place it somewhere more open.
+
+Gameplay Progression
+
+The addon is designed around progression rather than giving every Lucky Block directly through crafting. The Yellow Lucky Block acts as the main entry point, while Blue and Red Lucky Blocks can be obtained as rare rewards.
+
+This makes every Yellow Lucky Block more exciting because it may unlock an entirely different type of Lucky Block experience.
+
+Quality Improvements
+
+- Separate reward pools for every Lucky Block type
+
+- Improved compatibility with older addon versions
+
+- Professional resource and behavior pack structure
+
+- Improved naming and presentation
+
+- Reduced unnecessary chat messages
+
+- Custom visual identity for every Lucky Block
+
+- Safer Red Lucky Block structure placement system
+
+Important Notes
+
+- Red Lucky Blocks should be opened in a reasonably clear area.
+
+- Blue Lucky Block effects can be helpful or dangerous.
+
+- Yellow Lucky Blocks are focused mainly on powerful item rewards.
+
+- Some rewards are intentionally much rarer than others.
+
+Credits
+
+Addon Creator: Baku
+
+Concept, Pack Design, Lucky Block System, Structures, Rewards, Textures, Balancing and Overall Project: Baku
+
+All credits for this addon belong to Baku. Please do not re-upload, redistribute or claim this addon as your own without permission from the creator.
+
+Break the block. Test your luck. Discover what waits inside.

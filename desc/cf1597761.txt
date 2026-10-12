@@ -1,0 +1,58 @@
+Every single vanilla block becomes a complete set of tools and armor. 994 blocks and 10,934 craftable items a sword, pickaxe, axe, shovel, hoe and spear plus a helmet, chestplate, leggings and boots for each block, all textured to look like the block they're made of (even on your body). On top of that, gear made from special materials gets its own built-in power no enchantments and no potion effects needed, the abilities live inside the tools and armor themselves.
+
+Please Note First Load May Take Time
+
+This is a massive add-on. To cover every block in the game, the two packs together contain roughly 42,000 files the Behavior Pack has about 21,500 files and the Resource Pack has about 20,900 files. Because of this huge amount of content, the game may take a little longer than usual to open, to apply the packs, and to load into a world for the first time. This is completely normal and not a bug please be patient and give it a moment. Once everything has finished loading, the add-on runs smoothly.
+
+Features
+
+- Every vanilla block a full 11-piece gear set sword, pickaxe, axe, shovel, hoe, spear, helmet, chestplate, leggings, boots and shield
+
+- 994 blocks, 10,934 items a gear set for practically every block in the game
+
+- Block-textured gear each tool and armor piece is skinned with its own block texture, worn on your body too
+
+- Custom Spear a throwable, long-reach weapon for every block, alongside the classic tools
+
+- Realistic material tiers stats scale with the material (dirt is weak, diamond is strong, netherite is stronger, bedrock is unstoppable)
+
+- Full crafting recipes craft every item at a crafting table using the block + sticks, standard tool and armor patterns
+
+Special Abilities
+
+These powers are baked straight into the gear just craft, equip and play. No enchantments, no status effects.
+
+- Bedrock the ultimate Bedrock armor makes you take zero damage (fire, lava, fall, drowning, mobs, explosions... nothing hurts you), and Bedrock tools one-shot any mob and instantly mine any block
+
+- Enchanting Table living enchants this gear rolls random enchantments on its own every few seconds, anywhere from level 1 up to the max level
+
+- Glowing blocks dynamic light Torch, Lantern, Glowstone, Sea Lantern, Shroomlight, Froglight, Beacon, End Rod and more give off moving torch-light when worn or held, and even glow on the ground when dropped
+
+- Slime bouncy a real jump boost and bounce on landing, plus extra knockback when you hit mobs
+
+- Fireproof Netherite, Obsidian, Magma, Netherrack, Blackstone total immunity to fire and lava
+
+- Lifesteal Netherite & Ancient Debris weapons heal yourself with every hit
+
+- Ignite Magma, Netherrack, Blackstone weapons set enemies on fire on hit
+
+- Aqua Prismarine, Sea Lantern, Kelp, Sponge, Coral, Conduit never drown and swim faster underwater
+
+- Frost Ice, Snow, Packed Ice, Blue Ice, Powder Snow immune to freezing, and frost weapons stagger enemies
+
+- No Fall Damage Honey, Slime, Wool, Carpet, Hay, Leaves, Moss, Sponge land from any height and take no fall damage
+
+- Animal Care Wheat, Hay Bale, Carrot, Potato, Beetroot, Pumpkin, Melon heal and feed nearby animals (full heal on hit)
+
+- Thorns Cactus, Sweet Berry, Dripstone reflect damage back at anything that attacks you
+
+How to Use
+
+PC: Open a crafting table and craft any block's tools or armor using the block plus sticks (the same shapes as vanilla tools and armor). Equip the armor or hold the tool the material's special ability turns on automatically. No commands, no cheats.
+Mobile / Console: Same steps craft at a crafting table, then wear or hold the gear. Abilities activate on their own based on the block the gear is made from.
+
+Achievement Friendly?
+
+Yes, the add-on uses stable game features with no experimental toggles switched on, so you can keep playing with achievements enabled.
+
+Turn the whole world into your armory mine a block, wear a block, become a block.

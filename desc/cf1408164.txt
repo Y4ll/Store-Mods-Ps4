@@ -1,0 +1,89 @@
+Minecraft, But There Are Custom OP Pickaxes!
+
+This mod adds custom super pickaxes into Minecraft.
+
+There are total 5 overpowered (OP) pickaxes, and each pickaxe has its own unique ability.
+
+These pickaxes are not normal tools they give OP powers, make mining easier, survival faster, and gameplay more fun.
+
+1. Dirt Pickaxe
+
+Ability :
+
+Gives 8 bread when mining or even while holding it.
+
+Converts stone, deepslate, and other underground hard materials into haybales.
+
+Recipe :
+
+3 Dirt at the top
+
+2 Sticks in the center
+
+2. Emerald Pickaxe
+
+Ability :
+
+All villager trades become extremely cheap.
+
+For 15 emeralds, you can trade for anything the villager offers.
+
+You also get emeralds while holding or mining with this pickaxe.
+
+Recipe :
+
+3 Emeralds at the top
+
+2 Sticks in the center
+
+3. Sword Pickaxe (Most Deadliest Pickaxe)
+
+Ability :
+
+Deals 75 damage.
+
+Mines stone and deepslate easily.
+
+Gives Water Breathing and Regeneration while holding it.
+
+Recipe :
+
+3 Iron Swords at the top
+
+2 Sticks in the cente
+
+r
+
+4. X-Ray Pickaxe
+
+Ability :
+
+Turns stone, deepslate, and all underground hard materials into glass.
+
+Makes all ores clearly visible.
+
+Recipe :
+
+Diamond on the left
+
+Redstone in the middle
+
+Diamond on the right
+
+2 Sticks in the center
+
+5. Flying Pickaxe
+
+Ability :
+
+Allows the player to fly.
+
+Works in Education / experimental gameplay.
+
+Recipe :
+
+3 Feathers at the top
+
+2 Sticks in the center
+
+These custom super pickaxes are extremely overpowered and designed to make gameplay faster, easier, and more fun. Each pickaxe has a unique ability that completely changes how you play.Enjoy!

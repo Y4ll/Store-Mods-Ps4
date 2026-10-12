@@ -1,0 +1,61 @@
+X-Ray Outline is a Minecraft Bedrock texture pack designed to make ores easier to find through blocks with a clean and visible outline.
+
+Instead of making everything completely transparent, X-Ray Outline keeps the X-Ray effect clean while giving ores a distinct border that makes them easier to spot.
+
+Features
+
+- X-Ray vision
+
+- Visible outlines around ores
+
+- Easier ore detection
+
+- Clean and simple X-Ray appearance
+
+- Achievement friendly
+
+- Designed for Minecraft Bedrock
+
+Instructions
+
+For the best experience, use these settings:
+
+- Disable Smooth Lighting in Minecraft.
+
+- Set Minecraft Brightness to 100%.
+
+- Set your device display brightness to 100%.
+
+- For better visibility, use Night Vision Plus.
+
+Recommended: Night Vision Plus
+
+Want better visibility while using X-Ray? Try my Night Vision Plus addon, designed to provide night vision while keeping achievements enabled.
+
+Night Vision Plus
+
+Preview
+
+Ore Outline
+
+Ores are highlighted with a distinct border, making them easier to identify through surrounding blocks.
+
+Support
+
+YouTube: @siaizhu
+
+TikTok: @siiaizhu
+
+Instagram: @endviii
+
+Donate:
+
+- Sociabuzz
+
+- Ko-fi
+
+Discord Community: Aizhu comunity
+
+More addons and texture packs: Aizhu Projects
+
+If you enjoy this texture pack, consider following me on CurseForge so you don't miss future updates and new projects.

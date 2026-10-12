@@ -1,0 +1,93 @@
+OVERVIEW:
+
+If you've ever wanted to see a 3D totem of undying or totems shaped like Minecraft mobs, this add-on might interest you.
+
+Some 3D Mob Totems is an add-on that replaces the "totem of undying" item with a 3D geometry and also adds new 3D totem models of some Minecraft mobs.
+
+FEATURES:
+
+IMPROVED TOTEM: Adds 25 new 3D totem-style models and item icons representing some Minecraft mobs. The list of mobs is:
+
+- Villager (Vanilla Totem)
+
+- Pillager
+
+- Witch
+
+- Zombie Villager
+
+- Zombie
+
+- Skeleton
+
+- Creeper
+
+- Enderman
+
+- Allay
+
+- Vex
+
+- Piglin
+
+- Slime
+
+- Sulfur Cube (New)
+
+- Warden
+
+- Creaking
+
+- Iron Golem
+
+- Copper Golem
+
+- Snow Golem
+
+- Wither Skeleton
+
+- Zombified Piglin
+
+- Stray
+
+- Steve
+
+- Alex
+
+- Wither
+
+- Herobrine
+
+GLOWING EMERALD!: The piece of emerald that each totem possesses (like the eyes) glows in the dark.
+
+DETECTS YOUR HEALTH: The totem detects your health points all the time and begins to shake gradually when you have less than 10 health points (5 hearts), that means the less health the player has, the more it will shake.
+
+SWITCHABLE: You can select the totem you want to be visible in the game in the add-on settings (Villager Totem selected as default).
+
+- It includes all the totems named above.
+
+HOW TO INSTALL:
+
+- Download the .mcaddon file.
+
+- Open "Some 3D Mob Totems.mcaddon" file.
+
+- Open Minecraft and go to "Settings" > "Global Resources" and click on Some 3D Mob Totems add-on.
+
+- If you want to add the add-on within a world, go to "Create a new world" or edit an existing world, and then go to "Resource Packs" and activate the add-on.
+
+4. Go to "Some 3D Mob Totems" add-on settings (click on the gear located below the add-on description or click on "Edit" button if you are in world menu) and change the totem you want with the slider bar.
+
+And THATS ALL! Enjoy the add-on.
+
+NOTES:
+
+- This add-on only adds visual content and does not affect game behavior or gameplay.
+
+- This add-on does not add other types of totem of undying, does not replace the Minecraft totem of undying with another item and does not change its behavior; this add-on only changes the 3D model and textures of totem of undying.
+
+SUPPORT THE CREATOR:
+
+Support me on Ko-fi: ko-fi.com/TheLxstAngxl
+
+Don't forget follow me on my CurseForge page!: www.curseforge.com/members/thelxstangxl/projects

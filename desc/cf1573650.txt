@@ -1,0 +1,144 @@
+Better Beaches Addon
+
+Welcome to Better Beaches Addon, the ultimate coastal enhancement!
+This addon transforms your shores into vibrant tropical paradises filled with wildlife, structures, custom blocks, and immersive mechanics.
+
+New Coastal Wildlife
+
+The Crab
+
+Smart, amphibious creatures that roam beaches and gravel areas. Skittish but interactive and fully tamable with their favorite treats.
+
+Variants: Red (40%), Blue (35%), Orange (25%)
+
+Dynamic Scaling: 4 sizes (Tiny Large), affecting HP (815) and attack power
+
+Smart AI
+
+Attracted to Cod, Salmon, and Tropical Fish
+
+Can pick up and hold fish items
+
+Peaceful unless attacked
+
+Drops
+
+Raw Crab Claws, Raw Crab Sticks, XP
+(Cooked Crab Claws if defeated by fire!)
+
+Tropical Blocks & Building Materials
+
+Palm Wood Collection
+
+A full tropical wood set perfect for beach houses, docks, and coastal villages.
+
+Logs Stripped Logs Wood Stripped Wood Planks Slabs
+
+Aesthetic Landscaping
+
+Sandwaves: Realistic sand textures blending into vanilla beaches
+
+Small Sandstone Rocks: Natural decorative clusters
+
+Beach Collections
+
+Shells: Blue, Green, Pink, Purple, Nautilus, Nautilus Coral
+
+Starfish: Blue, Pink, Purple, Yellow
+
+Coconuts
+
+Grow on palm trees and drop naturally
+
+Must be broken with an Axe to obtain edible Coconut Halves
+
+Advanced Food & Preservation System
+
+Seafood Variety
+
+Raw & Cooked Crab
+
+Shrimp
+
+Crab Claws & Crab Sticks
+
+Dried variants for long-term preservation
+
+The Food Dryer Block
+
+Must be placed on a vertical wall
+
+Shows the item visually as it dries
+
+Right-click with raw seafood to place
+
+Right-click empty-handed to retrieve dried food
+
+Furnace = instant high hunger.
+Food Dryer = higher long-term restoration.
+
+Exploration & Utility Mechanics
+
+Bottle with Note
+
+Decorative directional placement
+
+Breaking yields loot:
+
+Common: Paper
+
+Rare: Explorer Maps to Buried Treasure, Mansions, Monuments, Trial Chambers, Jungle Pyramids, Witch Huts, and biome-specific Villages
+
+Seabound Trap
+
+Must be fully underwater
+
+Custom UI with 9 slots
+
+Bait: Cod, Salmon, Tropical Fish, Pufferfish
+
+90% success rate per attempt
+
+Rewards: Shrimp, Crab, extra fish
+
+World Generation & Structures
+
+Natural Beach Generation
+
+Palm trees
+
+Sandwave variations
+
+Small rocks
+
+Shells & starfish
+
+Tropical Structures
+
+Beach Houses
+
+Palm Tree Houses
+
+Lighthouses
+
+Sea Houses
+
+Custom Palm Trees
+
+7 procedural designs
+
+Custom leaf physics with falling particles
+
+Expanded Fisherman Economy
+
+The Fisherman villager trade tree is fully expanded across 5 progression tiers to include your coastal discoveries.
+
+Technical Features
+
+Performance Optimized: Zero tick lag during worldgen and rendering
+
+Vanilla Friendly: Seamlessly integrates with survival worlds
+
+Multiplayer Ready: Fully compatible with servers
+
+Active Support: Frequent updates and improvements

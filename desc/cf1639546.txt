@@ -1,0 +1,41 @@
+Tonalli - Minecraft Bedrock Add-On
+
+Important Notice
+
+The current version of Tonalli is still under development and is not yet 100% playable. Some features, mechanics, and content may be incomplete or require further improvements.
+
+The next updates will focus on improving the gameplay experience, fixing issues, balancing mechanics, and expanding the content available for players.
+
+About Tonalli
+
+Tonalli is a Minecraft Bedrock Add-On developed for the Minecraft ModJam 2026, inspired by the mythology, traditions, and beliefs of the Mexica civilization.
+
+Explore a world filled with ancient temples, forgotten ruins, sacred places, powerful relics, and legendary creatures. Discover new equipment, traditional foods, mysterious artifacts, and face dangerous enemies based on the rich mythology of the Mexica people.
+
+Tonalli brings a new adventure where players will uncover the secrets of ancient civilizations, challenge powerful beings, and experience a world where gods and mortals are connected through destiny.
+
+This project is currently under active development. The ModJam version represents only the beginning of a much larger vision, with future updates planned to expand the world with new creatures, structures, bosses, items, mechanics, and story content.
+
+During the development period, Tonalli will receive weekly updates, adding new content, improvements, balancing changes, and bug fixes as the project continues to grow.
+
+Lore
+
+Long ago, the world existed in harmony under the watch of the gods. The forces of the Sun, guided by Huitzilopochtli, and the mysteries of the Night, led by Tezcatlipoca, remained in balance, allowing life to flourish.
+
+However, this balance was brokennot by the gods themselves, but by their followers. Through rituals, offerings, and sacrifices, both factions sought to increase the power of their chosen deity above the other. Their devotion became a conflict that spread throughout the land, corrupting sacred places and awakening forgotten creatures from ancient times.
+
+As chaos began to consume the world, Quetzalcoatl, the Feathered Serpent, emerged as the guardian of balance. Rather than choosing a side, he searched for someone capable of restoring harmony and facing the trials left behind by the ancient gods.
+
+Your journey will take you through sacred temples, forgotten lands, and dangerous challenges where you will uncover the truth behind the conflict between the Sun and the Night.
+
+To restore balance, you must prove yourself worthy and discover your role in the destiny of this world.
+
+The journey of Tonalli has only just begun.
+
+Development
+
+Tonalli is a passion project created for the Minecraft ModJam 2026. Every update brings the project closer to its complete vision, expanding its world, mythology, and gameplay experience.
+
+Thank you for supporting the development of Tonalli and joining this journey.
+
+Link to GitHub

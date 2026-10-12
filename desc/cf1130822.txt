@@ -1,0 +1,66 @@
+How does it work?
+
+To start using a drone you must first place a packed drone block and interact with it, after that a small drone will appear.
+When you interact with the drone, a menu will open with several options where you can configure the tasks you want the drone to execute, order it to follow you, change the movement mode, open the camera, open the settings or dismantle it.
+
+Drone Options:
+
+Current task:
+Here you can see the name and settings of the current drone task to reconfigure or cancel it.
+
+Tasks:
+Here you can see a list of all the tasks that can be executed by the drone.
+
+Simple tasks:
+In this option you can configure small tasks such as sending the drone to a specific location, ordering it to take items from a chest, dropping its inventory, and others.
+
+Follow player:
+In this option you can order it to follow you or not. (The drone will teleport to you when it gets too far away: configurable in the drone settings)
+
+Fly Mode and Walk Mode:
+In this option you can change the drones movement mode between flying and walking.
+
+Drone camera:
+By clicking this option you will activate the drones camera so you can see yourself from its perspective.
+
+Settings:
+Here you can configure various settings for the drone such as its name and visibility, its resting zone, its owner, automatic flight and others.
+(In the drone settings you can configure the owner of the drone, this serves to prevent other players from accessing its menu)
+
+Self Destruct:
+Here you can dismantle the drone. (You dont have to worry about clicking it by accident as confirmation is required)
+
+Antenna Options:
+
+The antenna is a block that can be configured to charge the drones battery and set new tasks for nearby drones.
+
+The antenna options serve the same functions as the drones, but after configuring a task, youll be asked to set the drone search radius for the antenna and how often it should resend a signal.
+
+In simple tasks some tasks that were blocked on the drone such as charging the battery and others will be unlocked.
+
+In the antenna settings you can configure the owner of the antenna, this serves to prevent other players from accessing its menu.
+Antennas without an owner can only issue commands to drones without an owner, while antennas with an owner can issue commands to both unowned drones and drones owned by the same owner as the antenna.
+
+One of the most important tasks of the antenna is to charge the drones battery. To do this, you must enter the Simple tasks option, select the Charge battery task and select the charging radius in blocks.
+After that, you must place a chest or another container next to the antenna and place redstone or lapis which will be consumed by the antenna, converting them into 3% charge.
+
+Drone Remote Control:
+
+An item that allows you to control a large group of drones at the same time.
+
+To create a group of drones just select the first option, put the name you want and then select the option with the given name.
+Then select the add drone option where you will see a list of nearby drones that do not belong to any swarm and that do not have any owner or are owned by you.
+
+After that select the drone options option and the same menu that all drones have will open, only this time you can give orders to an entire swarm.
+
+Other functions:
+
+Selection mode:
+Selection mode is a feature that can be activated by using the Select coordinates in the world option in the fill a location and mine a location tasks.
+This is to make it easier for players to select blocks and avoid using coordinates.
+You can also use the new button on the right of the UI that will have the same function.
+(When activating this option all other settings of the task will not be saved)
+
+After enabling the option and saving the settings, a message will appear in the players actionbar indicating that they must break a block to select the first position followed by another to select the second. (The blocks wont really break)
+
+To select a rectangular or square area

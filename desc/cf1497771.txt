@@ -1,0 +1,35 @@
+Block & Entity Details is a Minecraft Bedrock addon that shows a detailed tooltip when you look at any block or entity. Just point your crosshair at anything in the world and get instant info no commands, no menus, just look and learn.
+
+What It Shows
+
+Entities: Name, health (shown as hearts), baby status, tamed status, tame chance, sitting, charged creeper, sheared sheep, llama strength, rideable mob speed, active potion effects
+
+Blocks: Name, correct tool (Pickaxe, Axe, Shovel, Hoe, Shears), farmable status, crop growth percentage, honey level, composter fill, cauldron fill, candle count, redstone power, door open/closed, repeater delay, note block note, slab placement, farmland moisture, turtle egg state, end portal frame eye, respawn anchor charge
+
+Dropped Items: Name, stack count, display name, enchantments
+
+Features
+
+Works with ANY addon, crop growth detection is universal, not hardcoded
+
+Hearts display using custom pixel art, just like vanilla Minecraft
+
+High-HP mobs (Warden, Ender Dragon) show numeric HP instead
+
+Shows which addon a block or entity comes from (namespace)
+
+No Beta APIs, uses stable Script API, works on 1.21.80+
+
+Lightweight, single script, runs every tick with zero lag
+
+-Important Note
+
+This pack will not appear in the main Settings Packs menu. To activate it, edit or create a world, go to the Behavior Packs section, and enable the addon there. The Resource Pack will activate automatically.
+
+-How To Use
+
+Look at any block, mob, or dropped item
+
+The tooltip appears automatically at the top of your screen
+
+No commands, no settings, just look and learn!

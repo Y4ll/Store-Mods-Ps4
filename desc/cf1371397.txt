@@ -1,0 +1,69 @@
+BSL Vibrent Resource Pack [1.21.80+]
+
+About This Pack
+
+Finally BSL Vibrant Shader It's Fir 1.26.50+. Update Here
+
+BSL Vibrent Resource Pack ek high-quality visual enhancement pack hai jo BSL Shader ke jaisa vibrant look aur realistic lighting feel Minecraft PE (Bedrock Edition) me lataa hai bina kisi external shader ke!
+
+Ye pack un players ke liye perfect hai jo shader-like experience chahte hain par low-end devices pe bhi smooth gameplay maintain karna chahte hain.
+
+Screenshot
+
+Most important
+
+Some of the materials, textures, clouds etc. in this pack are from Ale Graphics and full credit goes to Ale Graphics.
+
+Credits
+
+@itzmikey
+
+https://www.curseforge.com/members/itzmikey/projects
+
+https://www.curseforge.com/members/aleeee/projects
+
+Features
+
+Realistic Lighting & Shadows Natural brightness aur balanced contrast.
+
+Vibrant Colors BSL shader jaisa warm aur soft color tone.
+
+Enhanced Water & Sky Deep blue water aur smooth cloud visuals.
+
+Improved Textures Subtle HD detailing bina lag ke.
+
+Optimized for MCPE 1.21.80+ Latest Bedrock update ke sath fully compatible.
+
+Shader-Free Performance Shader jaisa look bina heavy performance impact ke.
+
+Compatibility
+
+Minecraft Bedrock / MCPE 1.21.80+
+
+Works only in vibrant worlds (as intended by design).
+
+Not a shader no need for RenderDragon support or GPU tweaks.
+
+Installation
+
+Download the .mcpack file.
+
+Tap to import it directly into Minecraft.
+
+Apply from Settings Global Resources.
+
+Enjoy your new vibrant world!
+
+Feedback & Support
+
+Agar tumhe pack pasand aaya ho ya koi bug dikhe, to comment section me feedback dena na bhulo!
+
+Updates regularly aate rahenge har new Minecraft version ke sath compatibility ensure karne ke liye.
+
+Credits
+
+Created by: [NARESH]
+
+Inspired by: BSL Shader (Java Edition)
+
+Optimized for: MCPE / Bedrock Players

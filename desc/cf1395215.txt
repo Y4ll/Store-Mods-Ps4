@@ -1,0 +1,8 @@
+Welcome to another Bedrock port that I made! "Astraliyte's Animated Textures" is a resource pack that adds animation to some items in Minecraft. This pack was originally created by Astraliyte for Java Edition and was ported by me to Bedrock Edition.
+
+Total Number of Changes: 39
+
+For the original Java Version:
+Astraliyte's Animated Textures | Astraliyte's Profile
+
+Owner's Permission:

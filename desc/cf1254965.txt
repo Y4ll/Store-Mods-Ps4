@@ -1,0 +1,37 @@
+Challenge your stealth, strategy, and survival skills like never before with this MCPE Addon for Minecraft! Inspired by the iconic YouTube challenge made famous by Dream, this Bedrock Edition addon equips you with everything you need to track down the Speedrunner and battle for victory.
+
+Survive the Manhunt!
+
+This Minecraft Manhunt Addon introduces custom player trackers to your game! Use special commands to designate yourself as a speedrunner, or take on the role of the hunter. Track your targets with a custom compass that points to their last known locationand prepare for an epic showdown!
+
+Hunt Includes
+
+- Fully compatible with all Addons and Texture Packs
+
+- Supports unlimited Speedrunners (Tracked Players)
+
+- Easily switch between tracked players by clicking the Tracker Compass
+
+- Cross-dimension trackingfollows last known location
+
+- Remembers player locations even after leaving and rejoining the world
+
+- No impact on player respawning
+
+- Custom commands for quickly starting a game of Manhunt
+
+Quick Start Commands
+
+Use these commands to start the Hunt!
+
+- /add Become a Speedrunner. You can now be tracked!
+
+- /remove Remove yourself as a Tracked Player. You can no longer be Tracked.
+
+- /track Give yourself a Tracking Compass. Click the item to track down players!
+
+Creator: Gilded Bedrock
+Website: gildedbedrock.com
+Addon Information: gildedbedrock.com/hunt/
+
+Support us and join our Patreon to get fast, ad-free downloads!

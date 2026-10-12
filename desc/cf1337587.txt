@@ -1,0 +1,72 @@
+Make sure to check out my other mods & Addons! All high quality.
+
+Are you looking for a performance addon that actually optimizes your game on Bedrock? You have found it, install and enjoy! If you wish to adjust how the addon works, simply do /scriptevent perf:cfg
+
+If changes dont seem to work, do /reload. It is suggested to do /reload after changes as options with sliders will always require a reload
+
+No experimental settings needed
+
+To be notified about updates or report issues, join my Discord here: https://discord.gg/fHWabgrbKc
+
+Donations: PurpleKelix MC | https://legacy.curseforge.com/members/purplekelix/projects | Patreon
+
+What the addon does:
+
+(Having issues with mobs despawning right next to you? Turn up your World Simulation distance, it is NOT the addon doing it)
+
+Vanilla Mobs Last Longer (Optional)
+A optional BP called Fixed Vanilla Mob Despawning
+
+This prevents vanilla mobs that just spawned from vanishing immediately once you look away. Basically in Bedrock vanilla, animal or hostile mobs usually disappear immediately once your a few blocks away.
+
+With this optional addon, now vanilla mobs will last longer and you can customize the despawn distance with the ingame config!
+
+Optimized Game Logic
+
+Falling blocks such as Gravel will disappear after a few seconds!
+
+The rest of the game logic is done through the EDGE Subpack! This subpack is enabled by default but can be disabled if you run into issues.
+
+This subpack saves on memory bandwidth, RAM, GPU, and overall resources by
+
+1. Texture filtering
+
+This is the main feature. Before: the gane used Billinear (blends texels) and Texel AA (even heavier)
+
+Now it will use just Point, resulting in 4x less calculations on many pixels where Point is used. Game quality stays intact and might even look better close up because its sharper while things afar may seem slightly off but its not really noticeable.
+
+2. Low Precision
+
+Before some things were FP32, now its FP16. The result is much better performance. This saves memory bandwidth and GPU!
+
+3. Fog clean up
+
+Minor, but reduces fog.
+
+Stricter Entity Despawn
+
+Mobs too far away or off screen will now despawn quicker! (It will despawn mobs in loaded chunks after 3 mins and 20 seconds, to ensure mobs aren't disappearing right next to you. Only mobs too far away or in unloaded chunks will despawn right away!)
+
+Entities like arrows will despawn after 10 seconds.
+
+Mobs that WONT despawn are Bosses like the Ender Dragon, nametagged mobs or ANY tamed mobs.
+
+(Mobs with more then 130 hearts won't be despawned by the addon because it will assume its a type of boss. Furthermore animals won't despawn if close together so mob farms still work)
+
+If you need specific Entities to not despawn, such as addon mobs, then there is a config file you can find by opening up the pack folders! You change stuff such as adding mobs to the Do Not Despawn Blacklist.
+
+This system already supports addons like Better On Bedrock, Darkage Bizarre, Billey Mobs, Mythological Craft, The Forgotten Legends, Nico Dungeons, RPG addon by Kubo and Alyica Dungeons so no important mobs are lost.
+
+Item Merging
+
+Dropped items will now group up, offering a slight increase in performance. (XP Orbs won't be clumped as there is no performance benefits to that)
+
+Optimized Particles
+
+You won't notice much of a visual difference as particles are reduced. For example, when you land a crit hit, instead of scattering 20 particles, it only scatters 10. It is not noticeable potato, but minor fps gain.
+
+Want a POWERFUL & AFFORDABLE server host?
+
+Get 25% with my code "lowspot" on your first server purchase here: Lagless.gg
+
+Then you will be able to run even the heaviest of mods/addons smoothly, here is proof below because words are words, but images are proof

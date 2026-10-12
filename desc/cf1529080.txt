@@ -1,0 +1,49 @@
+Projects Description:
+
+Security Cameras, as they should be. Keep a constant eye on your favorite builds, monitor valuable storage rooms, or covertly place a camera near an opponent's base to track their movements and anticipate incoming raids. Featuring crystal-clear feeds, easy-to-use control monitors, and seamless switching between angles, you will never be caught off guard again. Take total control of your worlds security and stay three steps ahead of your rivals.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Vibrant Visuals will need to be activated for some features.
+
+- Real-time live camera viewing.
+
+- All 16 minecraft colors available for custom builds.
+
+- Live realistic PC viewing.
+
+- Cheap crafting recipes.
+
+- Custom UI for cameras and PC.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Cameras come in a full range of colors to blend seamlessly into any base design. Just change the dye the change the color.
+
+Use planks to give your Cameras a wooden casing to blend in better with some surroundings.
+
+Place a Security Camera wherever you wantno restrictions attached. Mount them high on base perimeters, hide them inside secret redstone vaults, or position them in high-risk zones to watch over critical paths. Total placement freedom allows you to secure every single block of your territory exactly how you vision it.
+
+Take full control of your surveillance with dynamic pan controls. Once connected to a feed, you can look around up to 45 degrees in each direction, allowing you to sweep room perimeters, scan horizons, and check corners in real time. Never miss a single movement within your lens's field of view.
+
+Stay organized by giving each camera a custom location namelike "Main Gate," "Vault," or "Enemy Base." Easily manage your surveillance network by setting individual feeds to Private for your eyes only, or Public so your anyone can take a look.
+
+Choose a from a new flat screen monitor or a old school bulky monitor to fit your build.
+
+Keep an eye on all your cameras from one central hub. View live security feeds, toggle between different room locations, and monitor your entire territory in real time without ever leaving the safety of your base. Total situational awareness is right at your fingertips.
+
+Navigating your camera network is seamless and intuitive. While using the Monitor, simply Jump to cycle to the next active camera feed, or Sneak to instantly disconnect and exit the viewing screen. Switch between camera angles in seconds to keep your entire perimeter covered.
+
+Cameras come in a full range of colors to blend seamlessly into any base design. Whether you want your security system to match sleek modern concrete, integrate discreetly into natural wood, or stay completely camouflaged inside underground vaults, there is a color variant to fit your style. Safeguard your territory without compromising your build aesthetics.
+
+Using the hot bar slots you can scroll or tap them to zoom in and out when viewing a Camera feed.
+
+Cameras function interdimensionally, allowing you to place a camera in the Nether or the End and view its live feed from the Overworld, and vice versa. Your monitor interface automatically displays the exact dimension of each active camera, ensuring you can keep a close eye on distant automated farms, portal networks, or base defenses without needing to constantly travel across dimensions.

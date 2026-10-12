@@ -1,0 +1,27 @@
+Project Description:
+
+Say goodbye to tedious, block-by-block logging. The Actual Tree Capitator add-on streamlines resource gathering in survival mode by instantly felling whole trees when you break the bottom log. It handles massive oak canopies, towering mega-spruces, and jungle trees in a single swing, saving valuable tool durability and hours of manual chopping.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Simple sneak on & off system.
+
+- Realistic above only breaking.
+
+- Capitator guide for leaf decay.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+To prevent unwanted timber falls during building, Tree Capitator is toggleable. Simply sneak (crouch) while chopping the base log to trigger the automated tree-felling system.
+
+Craft a comprehensive Tree Capitator Settings book to effortlessly navigate and customize your wood-harvesting options.
+
+Using the Tree Capitator Settings book, you can easily toggle leaf-decay, leaf drops and Beehive breaking on and off to customize how you want to play the add-on.

@@ -1,0 +1,77 @@
+The purpose of this Newb Variant is to mimic the look of Vibrant Visuals without requiring a powerful device, I created it primarily for those who want to play with these graphics but lack the necessary processing power
+
+Screenshots
+
+- Day Sky
+
+- Day Shadow
+
+- Sunset
+
+- Sunrise
+
+- Dusk
+
+- Night Sky
+
+- Water Reflective Night
+
+- Cave ilumination
+
+- Rain
+
+Featured
+
+- Clouds inspired by those in Vibrant Visuals (flat for better performance)
+
+- Vivid colors
+
+- Cloud reflections in the water
+
+- Stars reflections in the water
+
+- Sun reflections in the water
+
+- Soft shadows
+
+- Static lighting superior to that of Vibrant Visuals
+
+- Plant movement
+
+- Color adjustments to improve upon the somewhat bland colors of Vibrant Visuals
+
+Notes
+
+- This is not a Vibrant Visual Pack; it is simply based on them, so there is no need to activate the VV packs
+
+- Need v26.30+ and MBLoader.
+
+- Need Hynis in iOS.
+
+- You need Wyvern for Windows, in case it does not work, use the method of replacing material.bin files with Maject.
+
+- I recommend that you the old version of this shader if you have it installed to avoid errors.
+
+- This shader is only compatible with Android,Windows and iOS
+
+- Use this mcpedl link if you want to share this shader.
+
+- Please do not create another link for this shader.
+
+- This shader may not be supported on some devices, if so tell me about the error on my Discord.
+
+- Credits: Ale
+
+Copyrighted
+
+- Distribution of this pack, especially for personal gain or profit, is prohibited.
+
+- Contact me; I am open to any commissions and suggestions:
+
+- Discord User: alexander_gabriel
+
+- Gmail: alexanderguerrero.171718@gmail.com
+
+I hope you like it; I haven't slept well these past few days working on this :D
+
+If you want to have better quality content, I invite you to donate your grain of sand.

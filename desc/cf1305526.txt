@@ -1,0 +1,73 @@
+Simple shader that gives you full bright, making all caves and mobs are visible.
+
+Supports: Simple, Fancy, Vibrant Visuals.
+
+Gives upto 35% better FPS compared to other night vision packs & supports: 1.21.100 - 26.50+
+
+Required:
+
+- PandaMine's Mip Mapper
+
+- Read "Shader Installation Guide" at the bottom
+
+Try out:
+
+- Vibrant Visuals Optimizer
+
+- Black Hole Cubemaps
+
+Want Night Vision (Fullbright) without Shaders? Try:
+
+- FullBright Lite
+
+If you're reviewing or sharing this mod, please only use CurseForge link!
+
+Installation Guide
+
+Android:
+
+- Use MBLoader (Draco) or Patched APK
+
+- Activate Fullbright in Global Packs
+
+Windows:
+
+- Use Wyvern or Matject or manually replace ".material.bin"
+
+- Activate Fullbright in Global Packs
+
+- Have DirectX 10+
+
+IOS:
+
+- Use Hynis RD Loader or custom Patched IPA that supports shaders
+
+- Activate Fullbright in Global Packs
+
+Read the instructions carefully, I can't respond to comments "It does not work"
+
+Or contact me on discord: pandamine5x
+
+Terms of Use (Read to avoid DMCA)
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 70% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+Contact
+
+Discord: pandamine5x
+
+Follow for more packs!

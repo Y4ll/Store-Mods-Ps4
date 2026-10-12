@@ -1,0 +1,37 @@
+Displays the player model in first person.
+
+Inspired by the First Person Model mod for Java edition here.
+
+This isn't perfect, but i did my best to not show any visual issues.
+
+If you find any bugs, please report them in my discord: here.
+
+An FOV of 70 is recommended for the best experience.
+
+For addon creators, there's a function to check if this pack is loaded: here
+
+Creator tags
+
+------------------------------
+
+"ae_fpm.is_first_person" Allows you to see if the player is in the dynamic first person mode.
+
+"ae_fpm.disable_animation" Disables the first person animation that removes the player's head and such.
+
+"ae_fpm.disable_first_person" Sets the player to default first person if they're in the dynamic first person.
+
+------------------------------
+
+Commands
+
+------------------------------
+
+"ae_fpm:toggle_model" Toggles the first person model.
+
+"ae_fpm:camera_settings" Opens the camera settings menu.
+
+------------------------------
+
+Original project that utilized the custom camera and head hiding mechanic idea: here by OGcrafter
+
+Video showcase below.

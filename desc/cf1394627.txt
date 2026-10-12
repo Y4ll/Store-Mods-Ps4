@@ -1,0 +1,59 @@
+Craftable Secret Items v1.12
+
+For MCBE 1.20+
+
+By Sidga420
+
+This addon allows you to craft many hidden vanilla items and blocks from Minecraft Bedrock.
+
+- 251 illegal items in Survival (crafting recipes)
+
+- 368+ illegal items in Creative
+
+Achievement Friendly!
+
+All items in this mod already exist in the game, but they can only be obtained using commands (and not always).
+
+With the Craftable Secret Items addon, you can craft any secret blocks and items in Survival Mode using a crafting table.
+
+The only hidden blocks and items you won't be able to craft are those that can't be used in Survival. For example, command blocks, which can't even be placed as a block in Survival.
+
+You can find all the crafting recipes by going in crafting table in survival mode. The camera can be purchased from a blacksmith for 10 emeralds.To summon an NPC, name any villager "NPC" using the name tag.
+
+The addon also adds all secret blocks, items, and mobs to the creative inventory.
+
+Secret items and blocks in creative inventory:
+
+The addon also adds all secret blocks, items, and mobs to the creative inventory.
+
+Craftable Secret Items v1.11 Addon Review:
+
+Craftable Secret Items v1.3 Addon Review:
+
+A list of all secret items that can be crafted at the moment:
+
+Jigsaw, barrier, end gateway, end portal, structure void, unknown, nether reactor, unlit redstone torch, stonecutter, portal, fire, command block minecart, lit deepslate redstone ore, lit redstone ore, lit redstone lamp, lit blast furnace, lit furnace, lit smoker, glowing obsidian, lava, water, light block (0-15 lvl), camera, NPC, spawn egg, wither spawn egg, dragon spawn egg, frosted ice, double slabs (all), camera block, wall signs (all), standing signs (all), invisible bedrock, daylight detector inverted, board (all), soul fire, activated end portal frame, bubble column, activated respawn anchor, hydrated farmland, petrified oak slab, sticky piston arm collision, piston arm collision, open barrel. Farmland, reinforced deepslate, chorus plant, budding amethyst, infested blocks (all), secret arrows (all), half bed, cocoa block, enchanted book, written book, secret corals (all), secret mushroom blocks (all), cave vines blocks, torchflower crop, pitcher crop, secret locked map, chainmail armor, spawner, vault, trial spawner, bedrock, end portal frame, player head, suspicious sand and gravel, frog spawn, enchanted gold apple.
+
+Other information:
+
+No experimental switches required.
+
+The addon is highly optimized.
+
+Achievement Friendly.
+
+Addon for Minecraft Bedrock 1.20 - 1.21+
+
+Addon Subtypes:
+
+1. Craftable Secret Items Full version of the addon
+
+2. Craftable Secret Items Lite Without cheating blocks, indestructible blocks:
+
+Activated end portal frame, end portal frame, nether/end portal, end gateway, invisible bedrock, bedrock, structure void, barrier, budding amethyst, ender dragon spawn egg, static lava/water
+
+Recommended Addons:
+
+1. EDU-Fix - Addon for craftable lab tables (from Minecraft Education Edition)
+
+The list will be expanded in future updates

@@ -1,0 +1,48 @@
+MY DISCORD
+
+(disclaimer the image is made by ai)
+
+sword list:
+
+- dragon fang
+
+- black dragon fang
+
+- black diablo sword (can cast Demon Aura, granting you magical power)
+
+- pirate blade
+
+- crimson sword
+
+- aladin blade
+
+- gold aladin blade
+
+- bone blade
+
+- elite diamond sword
+
+- netherite diamond sword
+
+- royal katana
+
+- blood royal katana
+
+magic list:
+Energy = the core of all magic, allowing it to be converted into various forms
+Fireball = crafted from Blaze Powder, allowing you to shoot fireballs
+Lightning = a conversion of Fire Magic, allowing you to shoot fast projectiles
+Meteor = a fireball enhanced with Energy Magic, creating powerful and dangerous explosions
+Love Magic = applies regeneration to the target
+Bedrock Magic = creates an explosion on the target
+Darkness Magic = applies the Darkness effect to the target
+
+Magic+ does not require mana or stamina. However, your magic items are limited. As long as you still have magic items, you can cast spells as much as you want.
+In other words, your magic supplies act as your mana source.
+
+This add-on is achievements friendly.
+This add-on does not include player.json.
+This add-on does not require experimental features.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

@@ -1,0 +1,44 @@
+Ash Blast 10K Special Texture Pack
+
+A clean all-in-one Minecraft Bedrock PvP & FPS resource pack designed for better visibility, smoother gameplay, and improved combat.
+
+Features -
+
+FPS Friendly
+No Lava Fog, Water Fog & World Fog
+Better Tools, Small Mace & Spear
+Advanced Crosshair
+Better Graphics & Custom Sky
+Custom Crit Sound & Crit Particle
+Short Fire & No Fire Texture
+Clear View
+TNT Lag Fixed
+Pumpkin Overlay Removed
+Grass Removed For Better FPS
+PvP & Survival Optimized
+
+Perfect For -
+
+BedWars
+SkyWars
+Lifesteal SMP
+Survival SMP
+Crystal PvP
+Multiplayer Servers
+
+|| Best Texture Ever ||
+
+Credits -
+
+Created by Ash Blast &
+
+Special Thanks:
+Vempie Warden
+Kush
+
+Version: V1
+Platform: Minecraft Bedrock Edition
+
+Copyright Notice:
+
+This resource pack was created specifically for the Minecraft Bedrock community based on player feedback and popular feature requests. The pack has been developed as a unique combination of custom configurations, optimizations, and visual improvements. No resource pack has been intentionally copied or reuploaded as-is. Any similarities to existing packs are purely coincidental or based on common community-requested features.

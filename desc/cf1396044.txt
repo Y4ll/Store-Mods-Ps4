@@ -1,0 +1,90 @@
+BedrockChunkVisualizer
+
+Chunk boundaries are the invisible rulers of Minecraft. Mob farms, iron farms, slime chunks, hopper chunk loading if you're doing anything technical, you need to know where chunks start and end. But Bedrock Edition just... doesn't show you. You're supposed to guess, apparently. Or count blocks out from your coordinates like some kind of human calculator.
+
+BedrockChunkVisualizer draws the grid for you.
+
+Right-click a compass. That's the setup.
+
+Any compass. No anvil, no renaming, no commands to memorise. A vanilla compass does nothing when you use it anyway, so we gave it a job.
+
+Up comes a menu with four toggles. Flick the first one and particle borders appear around you: your current chunk outlined in yellow, the eight neighbouring chunks in red, so you can see not just where you are but exactly where the next chunk over begins.
+
+And then you can put the compass away. This is the bit that matters. Older versions made you hold the compass the entire time, which was fine right up until you wanted to actually build something and then you were swapping items back and forth like a lunatic, watching the borders vanish every time you picked up a block. Now the borders stay up until you turn them off. Build with them on. That's the whole point.
+
+Four toggles, no menus-within-menus
+
+Show chunk borders the borders themselves, on or off.
+
+Animated borders the borders scroll by default, using a smooth 16-frame animation that makes edges easy to pick out at distance. Prefer a still grid? One toggle. Quieter to look at, and a touch lighter to render.
+
+Show N/E/S/W markers floating compass letters at eye level on each wall of your chunk, each in its own colour, so you always know your orientation. Turn them off if you just want the grid.
+
+Show info bar see below.
+
+Every setting is per-player and saved to your world, so it remembers you between sessions. Set it once and forget it.
+
+The info bar
+
+A live readout above your hotbar:
+
+Overworld Sunflower Plains Chunk -12, 34 Facing NW
+
+Dimension, the biome you're actually standing in, your chunk coordinates, and which way you're pointing refreshed several times a second, so the facing direction keeps up as you turn on the spot. Handy for biome-dependent farms, and for anyone who has ever had to alt-tab to a seed map to answer "wait, what biome is this?"
+
+Don't want it? Toggle it off and your action bar is left alone for other addons.
+
+Multiplayer-friendly by default
+
+Your visualisation is yours. Nobody else on the server sees your borders, and everyone gets their own independent settings so you can geek out over chunk alignment in peace without cluttering up anyone else's screen. Works on realms and servers.
+
+No experimental toggles required. Runs on the stable Script API, so your achievements stay intact.
+
+Installation
+
+- Download the .mcaddon file
+
+- Open it Minecraft imports both packs automatically
+
+- When creating or editing a world, activate the BedrockChunkVisualizer behaviour pack (the resource pack comes with it)
+
+- Enter the world, use a compass, tick a box
+
+Features
+
+- Particle chunk borders current chunk in yellow, surrounding 8 in red
+
+- In-game settings menu on any compass, no renaming required
+
+- Borders stay on while you build no need to hold anything
+
+- Animated (16-frame) or still borders, your choice
+
+- N/E/S/W direction markers with per-direction colour coding
+
+- Live info bar: dimension, biome, chunk coordinates and facing direction
+
+- Per-player settings, saved between sessions
+
+- Tuned to stay visible under Vibrant Visuals
+
+- Instant redraw when you cross a chunk boundary
+
+- Player-specific display your borders are invisible to everyone else
+
+- Works in the Overworld, the Nether and the End
+
+- No experimental features achievement friendly
+
+- Multiplayer ready for realms and servers
+
+Requirements
+
+Minecraft Bedrock Edition 1.21.130 or higher.
+
+Credits
+
+Developed by: Rob 'myGen' Hall
+Website: mygen.co.uk
+
+Licensed under GPL-3.0-or-later. Special thanks

@@ -1,0 +1,35 @@
+R&M (Beta) is a Minecraft Bedrock addon inspired by chaotic sci-fi adventures, portal technology, cloning systems, futuristic weapons, strange devices, and experimental machinery.
+
+This project is currently in an early Beta stage. At the moment, the playable content included in this release is focused on the Phoenix Capsule and its related cloning/survival mechanics.
+
+Current Beta Features
+
+Phoenix Capsule
+
+Cloning-related mechanics
+
+Survival backup mechanics
+
+Capsule interactions and systems
+
+Planned Content
+
+Future versions are planned to expand the addon with:
+
+Portal technology
+
+Futuristic weapons and gadgets
+
+Omega-inspired experimental technology
+
+Vehicles and advanced devices
+
+Additional sci-fi tools and mechanics
+
+Beta Status
+
+This addon is currently in Beta. Features may be improved, adjusted, expanded, or added in future versions.
+
+Compatibility
+
+Designed for Minecraft Bedrock Edition.

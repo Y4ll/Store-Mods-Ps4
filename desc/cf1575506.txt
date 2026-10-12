@@ -1,0 +1,48 @@
+Biomes Particles
+
+Bring your worlds to life with unique particle effects for every biome!
+From rainy swamps with glowing lantern motes to dusty deserts, warm mesas, snowy sunrise landscapes, and now Nether lights and butterflies, each environment becomes more immersive and magical.
+
+Features
+
+Custom particles for every biome
+
+Realistic rain, sand, dust, snow, mist, and more
+
+Nether Lights: floating embers, crimson spores, soul sparks, and glowing ash
+
+Butterflies: gentle biomespecific butterflies in forests, plains, jungles, and flower biomes
+
+Wind Particles: subtle drifting motes in mountains and highaltitude biomes
+
+Swamp Glow: soft green fireflies and lanternlike motes
+
+Snowy Sunrise: shimmering cold particles during dawn
+
+Optimized for performance lightweight and smooth
+
+Perfect for creators, builders, and survival explorers
+
+Expanded Particle Biomes
+
+Forests butterflies, pollen motes, soft leaf dust
+
+Flower Fields colorful butterflies and drifting petals
+
+Deserts warm dust, sand motes, heat shimmer
+
+Mesas orange dust and warm canyon particles
+
+Swamps fireflies, glowing spores, mist
+
+Snowy Biomes drifting snowflakes and cold sparkle
+
+Mountains wind particles and altitude dust
+
+Oceans water mist and salt spray
+
+Nether crimson spores, glowing ash, soul sparks
+
+End void dust and floating starlike particles
+
+Enhance your worlds atmosphere and make every biome feel alive with Biomes Particles!

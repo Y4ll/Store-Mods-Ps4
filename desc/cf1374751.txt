@@ -1,0 +1,53 @@
+This pack gives you a cape that actually moves not that stiff, static junk. You can throw your own design on it if you want, just follow these steps and dont screw it up:
+
+How to Add Your Custom Cape
+
+1.Go into the pack folder and find this path:
+
+textures/MD Capes/custom/guide.png
+
+2.Open guide.png in your image editor (Photoshop, Paint.NET, GIMP, Pixlr whatever you can use without breaking it).
+
+3.Youll see a yellow box thats where your cape design goes.
+
+4.Drop your custom design inside the yellow box, and make sure it fits nicely.
+
+5.Keep your image the same size as the guide (1920x960 px) dont resize it, or things will look busted in-game.
+
+6.Try not to add an outline unless you really want that look itll stand out and most probably misaligned.
+
+7.When youre done, export your design as custom.png and replace the old custom.png in this same folder:
+
+textures/MD Capes/custom/custom.png
+
+8.Save everything, load up Minecraft Bedrock, and check out your cape itll actually move with physics.
+
+Notes:
+
+Dont mess with the rest of the files unless you actually know what youre doing.
+
+Do not redistribute this pack anywhere else if someone wants it, send them here.
+
+If something breaks, thats on you. I said keep it 1920x960.
+
+What's New
+
+Fixed the cape physics implementation.
+
+Improved compatibility and overall stability.
+
+Cleaned up and updated the addon for a more reliable experience.
+
+Credits
+
+Huge thanks to StoneByte for helping diagnose and fix the issue. The problem turned out to be with the original repository the addon was based on, and they helped get everything working again.
+
+Check out StoneByte's CurseForge projects:
+
+https://www.curseforge.com/members/stonebyte/projects
+
+Want an Animated Version?
+
+Check out CapeForge!
+
+Now go strut around with your custom cape like the cool kid you are.

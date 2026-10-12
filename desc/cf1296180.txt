@@ -1,0 +1,13 @@
+X-Ray Resource Pack for Minecraft Bedrock Edition
+
+Compatibility
+
+- Minecraft Bedrock (1.16+)
+
+- Compatible with mobile
+
+Installation:
+
+Just import the .mcpack file into Minecraft. Activate the resource pack from the settings.
+
+Note: This pack is intended for testing, creative exploration, and accessibility purposes. Do Not Use in multiplayer servers.

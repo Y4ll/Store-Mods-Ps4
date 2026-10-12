@@ -1,0 +1,66 @@
+This adds 54 new Pokemon Battle Badge items that can be used as a reward system. These are inspired by the original Pokemon games as items you would receive from battling gym leaders.
+
+These new items can be broken down at the Stonecutter into 20 emeralds or 2 diamonds. This also works with SERP Pokedrock add on to break down into 36 battle badges.
+
+These badges are only obtainable in Creative mode or with commands. There is no crafting recipe to create them and they are not assigned to any loot tables. These are designed to be programmed into NPC as rewards. You can customize the item names at an Anvil.
+
+/give @s teebz:<badge name>
+
+teebz:balance_badge
+teebz:basic_badge
+teebz:beacon_badge
+teebz:bolt_badge
+teebz:boulder_badge
+teebz:bug_badge
+teebz:cascade_badge
+teebz:cliff_badge
+teebz:coal_badge
+teebz:cobble_badge
+teebz:coral_eye_badge
+teebz:dynamo_badge
+teebz:earth_badge
+teebz:fairy_badge
+teebz:feather_badge
+teebz:fen_badge
+teebz:fog_badge
+teebz:forest_badge
+teebz:freeze_badge
+teebz:glacier_badge
+teebz:heat_badge
+teebz:hive_badge
+teebz:iceberg_badge
+teebz:icicle_badge
+teebz:insect_badge
+teebz:jade_star_badge
+teebz:jet_badge
+teebz:knuckle_badge
+teebz:legend_badge
+teebz:marsh_badge
+teebz:mind_badge
+teebz:mine_badge
+teebz:mineral_badge
+teebz:plain_badge
+teebz:plant_badge
+teebz:psychic_badge
+teebz:quake_badge
+teebz:rain_badge
+teebz:rainbow_badge
+teebz:relic_badge
+teebz:rising_badge
+teebz:rumble_badge
+teebz:sea_ruby_badge
+teebz:soul_badge
+teebz:spike_shell_badge
+teebz:stone_badge
+teebz:storm_badge
+teebz:thunder_badge
+teebz:toxic_badge
+teebz:trio_badge
+teebz:volcano_badge
+teebz:voltage_badge
+teebz:wave_badge
+teebz:zephyr_badge
+
+Join my Discord! I host public servers in a growing community!
+
+https://discord.gg/cn7Jj6Jz7A

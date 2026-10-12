@@ -1,0 +1,110 @@
+A powerful and highly configurable addon that helps you keep your server clean by automatically removing ground items and prohibited items from player inventories!
+
+FUNCTIONALITY
+
+To use the addon, you just need to obtain the special item:
+
+Advanced Clear Lag Book
+
+This item allows you to:
+
+- Access all addon configurations.
+
+- Configure ground items clearing settings.
+
+- Configure inventory items clearing settings.
+
+- Manage excluded and prohibited items lists.
+
+- Configure server mode and operator permissions.
+
+FEATURES
+
+- Automatic ground clearing: Removes dropped items at configurable intervals.
+
+- Inventory cleaner: Removes prohibited items from player inventories.
+
+- Customizable timing: Set your own time intervals (supports "5m 30s" format).
+
+- Warning system: Sends warnings before clearing ground items.
+
+- Countdown feature: Visual countdown before clearing (3, 2, 1...).
+
+- Category exclusions: Exclude tools, armors, and minerals from being cleared.
+
+- Custom item lists:Add specific items to exclude or clear lists.
+
+- Multi-dimension support: Works in Overworld, Nether, and The End.
+
+- Server name prefix: Add your server name to messages.
+
+- Customizable messages: Configure warning and clear messages.
+
+- Server mode: Permission system for administrators in multiplayer.
+
+- Operator management: Grant and revoke operator permissions.
+
+- Intuitive interface: Easy-to-use form menus.
+
+- Optimized performance: Designed to not affect game performance.
+
+- Compatible with achievements: Works without disabling achievements!
+
+HOW TO GET THE ITEM
+
+Use the command:
+
+/give @s dl_aclag:book
+
+You can also find it in the inventory in creative mode!
+(Found in the "Items" category)
+
+PERMISSIONS SYSTEM
+
+The first player to join the world automatically becomes the Original Operator.
+
+- Operators can access all settings and configure the addon.
+
+- Original Operator can grant/revoke operator permissions to other players.
+
+- Server Mode can be enabled/disabled to require operator permissions.
+
+Recognized operator tags: operator, op, admin, administrator, moderator
+
+COMPATIBILITY
+
+This addon is completely compatible with other addons and does NOT use experimental features!
+
+- Compatible with achievements.
+
+- No experimental features required.
+
+- Works in survival and creative modes.
+
+- Multiplayer compatible (server mode included).
+
+ALL MY LINKS
+
+Join my Discord community, subscribe to my YouTube channel, and Buy me a coffee to continue supporting my projects!
+
+You won't regret it!!!
+
+INSTALLATION PROCESS & SUPPORT
+
+Correct installation process:
+
+- Download both files, the behavior pack [BP] and the resource pack [RP] (If you only download one of the two .mcpack files, the add-on may not work properly).
+
+- Import both files into Minecraft Bedrock. One at a time.
+
+- Activate the add-on in an old or new world. When you activate one of the two, the other will automatically activate. For example: if you activate [RP] -> [BP] will automatically activate.
+
+- Enjoy :)
+
+If you encounter any issues or have questions:
+
+- Join the Discord server for quick support.
+
+- Report bugs in the section intended with detailed information.
+
+- Share your suggestions for future updates.

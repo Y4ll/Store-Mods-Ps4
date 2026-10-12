@@ -1,0 +1,81 @@
+More Add-ons by shadowGamer100k
+If you enjoy this utility, you might find my other survival tools helpful:
+Magnet Add-on: Effortlessly collect items from a distance.
+Teleporters System: Setup advanced travel networks across your world.
+Spawner Mover: Relocate mob spawners to build the ultimate farm.
+Lock & Key: Secure your chests and doors from other players.
+Ore Finder: Locate valuable ores quickly and easily.
+
+Mob Capture Egg Addon Catch and Release System for Minecraft Bedrock 1.21+
+
+Mob Capture Egg Addon is a survival focused Minecraft Bedrock utility addon that lets players capture mobs inside special eggs and release them later wherever they want. Inspired by creature capture mechanics, this addon introduces a fun and immersive way to transport animals and mobs without leads, boats, or commands, while remaining fully balanced for survival gameplay and SMP servers.
+
+If you are looking for a Minecraft Bedrock mob capture addon, mob storage mod, creature transport system, or Pokemon style capture mechanic, this addon is built to provide a smooth and immersive experience without breaking vanilla balance.
+
+What This Mob Capture Egg Addon Does
+Players can use an empty Capture Egg on a mob to store it inside the egg.
+The mob is saved safely using structure storage and removed from the world.
+The egg becomes a filled egg that remembers the captured mob.
+Players can place or throw the filled egg to release the mob back into the world.
+
+Real Catch and Release System
+Captured mobs keep their original type and name.
+The egg stores the mob data internally and updates its lore to show what is inside.
+Only one mob can be stored per egg.
+After releasing a mob, the egg returns to its empty state.
+
+Blocked Boss and Player Safety
+Players cannot capture other players.
+Boss mobs like the Ender Dragon, Wither, and Warden are blocked.
+Prevents abuse, griefing, and world breaking behavior.
+Keeps survival gameplay fair and immersive.
+
+Two Release Methods
+Place Mode allows players to right click a block to release the mob safely.
+Throw Mode lets players throw the egg like a projectile to release the mob on impact.
+Thrown eggs use real physics and inherit player movement for natural motion.
+Landing creates visual effects and sound feedback.
+
+Visual and Audio Effects
+Capturing a mob plays magical pickup sounds.
+Releasing a mob triggers explosion style and sparkle particles.
+Spiral and flame particles appear during spawn for strong visual feedback.
+Action bar messages confirm capture and release events.
+
+Smart Item Logic
+Eggs dynamically change between empty and filled states.
+Lore text shows the name of the captured mob.
+Items are safely returned to the player after use.
+Prevents duplication and item loss glitches.
+
+Performance Optimized and Server Safe
+Uses structure saving and loading instead of block copying.
+Automatic cleanup prevents memory leaks.
+No chunk corruption or heavy entity scanning.
+Safe for SMP servers and Realms.
+Script based addon with no resource pack dependency.
+
+How to Use
+Obtain a Capture Egg item.
+Right click a mob to capture it.
+The egg now contains that mob.
+Right click a block to release it or throw the egg to launch and release.
+Reuse the egg to capture another mob.
+
+Best For
+Survival worlds
+Mob farms and breeders
+SMP and Realm servers
+Adventure and RPG servers
+Zoo and collection bases
+Vanilla plus gameplay
+
+Compatibility
+Minecraft Bedrock Edition
+Tested on version 1.21 and above
+Script based addon
+No resource pack required
+Works in singleplayer and multiplayer
+
+SEO Keywords Hidden but Ultra Powerful
+Minecraft Bedrock mob capture addon, mob catching mod Bedrock, Pokemon style addon Minecraft, capture mobs in eggs Minecraft Bedrock, mob storage system, creature transport addon, survival mob capture mod, throw mob egg addon, mob relocation system Bedrock, SMP mob transport addon, realm compatible mob mod, Bedrock Edition script addon, Minecraft 1.21 capture system, no command mob catcher, animal capture addon Minecraft, far

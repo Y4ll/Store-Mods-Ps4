@@ -1,0 +1,81 @@
+SV-Zero Edition
+
+A simple, aesthetic & lightweight shader by Newb CraftEdge
+
+Join our Discord
+
+Overview
+
+SV-Zero is a simple, lightweight shader that delivers the best possible visuals at minimal performance cost perfect for both low-end and high-end PCs.
+
+Features
+
+- Waving Water Smooth, natural ocean-like waving water animation
+
+- Cloud Reflections Realistic cloud reflections on the water surface
+
+- Warm Sunrise & Sunset Warm, golden lighting that enhances the atmosphere
+
+- Night Aurora Beautiful, cool aurora effects in the night sky
+
+- Lightweight & High Performance Best visuals with minimal FPS drop
+
+Compatibility
+
+This shader pack requires a material/render binary loader to function it will not work on official, unmodified Minecraft. Follow the setup guide below for your platform.
+
+Installation Guide
+
+Android
+
+- Download the .mcpack file from the release page
+
+- Open it with MB Loader it will automatically import the pack
+
+- Open Minecraft and go to Settings Global Resources
+
+- Find Newb SV-Zero in the list and activate it
+
+- Restart Minecraft for all effects to fully apply
+
+Windows
+
+- Download BetterRenderDragon
+
+- Follow the installation guide included with BetterRenderDragon
+
+- Import the Newb SV-Zero resource pack
+
+- Enable it in Settings Global Resources
+
+- Restart Minecraft
+
+Linux (x86_64)
+
+For mcpelauncher-manifest users only.
+
+- Download mcpelauncher-manifest
+
+- Download mcpelauncher-materialbinloader
+
+- Import the Newb SV-Zero resource pack
+
+- Enable it in Settings Global Resources
+
+- Restart Minecraft if necessary
+
+Tip: Applying it under Global Resources (not just a single world) ensures effects like water, sky, and lighting apply everywhere.
+
+Credits & License
+
+SV-Zero is a modified variant of Newb Shader by devendrn, used and redistributed under the terms of the MIT License.
+
+Original project: github.com/devendrn/newb-x-mcbe
+
+Official Website: devendrn.github.io/newb-shader
+
+Made with by Newb CraftEdge
+
+Community
+
+Join our Discord for support with MB Loader or anything else.

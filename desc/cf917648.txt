@@ -1,0 +1,87 @@
+This Add-On adds Origins and Classes to your game which you can pick at the start of your adventure. Originally created by Apace100, now ported into Bedrock.
+
+Origins
+
+Each Origin has their own unique advantages and disadvantages, changing how you play the game entirely. Choose one and embody it. There are up to Twenty-three (23) Origins to choose from, these are as follows:
+
+Human
+
+A regular human. Your ordinary Minecraft experience awaits.
+
+Avian
+
+The Avian race has lost their ability to fly a long time ago. Now these peaceful creatures can be seen gliding from one place to another.
+
+- Tailwind: You are a little bit quicker on foot than others, while also being able to sprint more efficiently.
+
+- Featherweight: You fall as gently to the ground as a feather would.
+
+- Vegetarian: Your diet is restricted to vegetables, and you won't be able to eat nor interact with meat consumables.
+
+- Fresh Air: When sleeping, your bed needs to be at an altitude of at least 151 blocks, so you can breathe fresh air.
+
+Arachnid
+
+Their climbing abilities and the ability to trap their foes in spiderweb make the Arachnid perfect hunters.
+
+- Webbing: When you hit an enemy in melee, they get temporarily stuck in a cobweb. Has a 13-second cooldown.
+
+- Master of Webs: You are able to traverse cobwebs without being slowed down.
+
+- Climbing: You are able to climb up any solid block you look at quickly by holding the jump button. Falling off while climbing mitigates fall damage received.
+
+- Carnivore: Your diet is restricted to meat, and you won't be able to eat nor interact with vegetable consumables.
+
+- Fragile: You have 3 less hearts of health than humans.
+
+Elytrian
+
+Often flying around in the winds, Elytrians are uncomfortable when they don't have enough space above their head.
+
+- Gift of the Winds: Propel yourself high up into the air. Has a 30-second cooldown before each use.
+
+- Winged: You have Elytra wings without needing to equip any, and is never lost nor can be removed.
+
+- Need for Mobility: You become heavy when wearing armor made out of iron, diamond or netherite pieces.
+
+- Claustrophobia: Being somewhere with a low ceiling for too long will weaken you and make you slower.
+
+- Brittle Bones: You take more damage from falling and flying into blocks.
+
+- Aerial Combatant: You deal more damage as you glide with an Elytra.
+
+Shulk
+
+Related to Shulkers, the bodies of the Shulk are outfitted with a protective shell-like skin.
+
+- Hoarder: Trigger the ability to switch to a different inventory space. Allowing you to store more items with 9 additional slots which are kept even upon death.
+
+- Sturdy Skin: Even without wearing armor, your skin provides natural protection thus receiving 20% less damage from any source.
+
+- Large Appetite: You easily get exhausted, depleting more hunger than normal.
+
+- Unwieldy: The way your hands are formed provide no way of holding a shield upright. Attempting to block with a shield will immediately break it regardless of enchantments applied to it.
+
+- Strong Arms: You are stronger and can break stone blocks without requiring any pickaxe.
+
+Feline
+
+With their cat-like appearance, the Feline scare creepers away. With the dexterity of cats, they always land safely on their feet.
+
+- Strong Ankles: You never take fall damage, no matter from which height you fall.
+
+- Acrobatics: You are able to jump higher by jumping while sprinting.
+
+- Nine Lives: You have 1 less heart of health than humans.
+
+- Nocturnal: At places where the light level is low, you automatically get the strength and night vision status effects.
+
+- Weak Arms: When not under the effect of strength, you mine blocks slower and attack weaker.
+
+- Catlike Appearance: Creepers are scared of you and will only explode if you attack them first.
+
+Enderian
+
+Born as sons and daughters of the Ender Dragon, Enderians are capable of teleporting but are vulnerable to water.
+
+- Teleportation: Allows you to teleport directly at the block you are looking at. Has a short cooldown befo

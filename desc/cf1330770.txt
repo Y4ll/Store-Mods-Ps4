@@ -1,0 +1,5 @@
+This pack adds a better animation to the shield, smoothing it out:
+
+It also has a low shield subpack, improving your visibility:
+
+There is also a Java side shield subpack!

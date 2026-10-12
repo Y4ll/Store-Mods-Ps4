@@ -1,0 +1,49 @@
+Alpha's Optimizer (currently named as OptiMax) is a resource pack that remove or optimize unnecessary stuffs for better performance. You also can disable some optimization feature that can affect your gameplay like low render distance, no sun and moon and some important particles using subpack. This pack also has no custom UI so it doesn't take much storage, reduce your performance and it also makes this pack compatible with other packs.
+
+Since my birthday is in February, I've decided on reviving some of my old packs. This pack is separated from current OptiMax.
+
+FEATURES
+
+-Low Render Distance (with On/Off subpack)
+
+-No Block Flipbook
+
+-Optimized Liquid (with On/Off subpack)
+
+-Full Grass Block
+
+-Optimized End Portal
+
+-Optimized End Sky
+
+-No Particle
+
+-Optimized Sky/Better Sky (New)
+
+-Solid/Opaque Honey and Slime
+
+-Optimized Glint
+
+-Clear Glass
+
+-Important Particles (with On/Off subpack)
+
+-No Spyglass Overlay
+
+-No Pumpkin Overlay
+
+-Extension Packs (remove the readded particles for Important Particles Only subpack)
+
+-Low Fire
+
+-V-Sync Setting
+
+SPECIAL FEATURES:
+
+- Low Shield
+
+- Shorter Sword
+
+- Outlined Ores
+
+Watch This Video Too

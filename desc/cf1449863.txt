@@ -1,0 +1,28 @@
+True Visuals enhances Minecraft Bedrocks Vibrant Visuals mode with cinematic lighting, rich colors, soft fog, and immersive atmosphere. Designed to stay vanilla-friendly while making every biome feel alive, bright, and beautifully detailed, without heavy performance loss.
+
+Every environment is carefully tuned, from clear blue daytime skies and golden sunsets to glowing caves and soft biome fog. The shader adds depth, warmth, and clarity without turning Minecraft into something unrecognizable. Its designed to feel like Minecraft+
+
+Features
+
+- Cinematic lighting with golden god rays through soft blue haze
+- Volumetric fog tuned for all 89 biomes
+- Clear blue skies, golden sunsets & violet dusk
+- Rich, natural color grading
+- 109 colored light sources, tuned to glow against the night sky
+- Glowing PBR ores, from coal to ancient debris
+- Bright turquoise water with caustics & gentle waves
+- Soft shadows
+- Dedicated Nether & End atmospheres
+- Two sky options: Default Sky & True Sky (custom skybox, sun & moon)
+- Vanilla-friendly visuals
+- Optimized for smooth performance
+
+Installation:
+
+- Download the .mcpack
+
+- Open it to import
+
+- Enable True Visuals in your resource packs
+
+- Turn on Vibrant Visuals

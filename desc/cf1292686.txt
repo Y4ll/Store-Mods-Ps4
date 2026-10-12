@@ -1,0 +1,83 @@
+Copper for Iron
+
+Ever feel like copper is useless? Well I found a solution! With this addon you can replace any iron ingots in crafting recipes with copper blocks!
+
+Currently this addon features all the recipes including iron from 1.21. I decided to make the recipes use copper blocks to not make it too op, but still useful!
+
+You can even craft iron armor and tools, which I saw a lot of similar addons not feature. Items added include: Anvil, Iron armor/tools, Crafter, Dropper, Blast furnace, ... Basically all the items featuring iron in their recipes (Full list of modified items below)! I also made a couple of recipes better like rails and powered rails now use copper ingots instead of copper blocks which would have been following the principle of this addon. Or chains that now cost 3 copper ingots which is the equivalent to 3 iron nuggets (instead of the usual 1 ingot and 2 nuggets!).
+
+Of course you can still use the old recipes if you prefer.
+
+List of items and blocks (A-Z):
+
+- Activator Rail (6 Copper ingots)
+
+- Anvil (7 Copper blocks)
+
+- Blast Furnace
+
+- Cauldron
+
+- Chains
+
+- Auto Crafter
+
+- Detector Rail (6 Copper ingots)
+
+- Hopper
+
+- Lantern
+
+- Minecart
+
+- Piston
+
+- Powered Rail (6 copper ingots instead of gold)
+
+- Rail
+
+- Smithing Table
+
+- Soul Lantern
+
+- Stonecutter
+
+- Tripwire Hook
+
+Tools:
+
+- Sword
+
+- Pickaxe
+
+- Axe
+
+- Shovel
+
+- Hoe
+
+- Flint and Steel
+
+- Bucket
+
+- Compass
+
+- Shears
+
+Armor:
+
+- Helmet
+
+- Chestplate
+
+- Leggings
+
+- Boots
+
+- Shield
+
+You can also find this mod on MCPEDL
+
+This took me a lot of time to make and I will try to update it as the versions progress to keep all the recipes up to date.
+
+So please leave a comment on what I should add or change!

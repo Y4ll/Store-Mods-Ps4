@@ -1,0 +1,32 @@
+Waypoints Add-On
+
+Brings waypoints to Minecraft: Bedrock Edition.
+
+Features
+
+- 16 Colours!
+
+- 31 Icons!
+
+- Works in all dimensions!
+
+- Share waypoints with your friends!
+
+- See waypoints from thousands of blocks away!
+
+How to use
+
+To use it, first craft a waypoint tool by putting a wool block above a stick in a crafting grid.
+
+Now open the tool menu and click "Add Waypoint".
+The waypoint will by default be placed at your position and you can edit it through the popup menu.
+
+Waypoints appear in the world unless you turn them off in "Waypoint Settings" (found in the waypoint tool)
+
+Also in the waypoint tool you will find a waypoint list that allows you to view and edit your waypoints.
+
+Requirements
+
+- Minecraft 1.21.40 or any newer version.
+
+- No experimental toggles required

@@ -1,0 +1,193 @@
+This Addon adds +101 new foods, one more ore, 3 new useful blocks and more that you can get in your survival world, this addon bring us food such as more crops, cakes, candies, donuts, ice creams, jams, juices, sandwiches, tacos and more, this addon also add more trees which we can get fruits of them.
+
+Next the blocks, items and food will be divided by their kind.
+
+Blocks
+
+Below you'll find a video showing how to use the oven, juice dispenser, toaster, and jar.
+
+Oven
+
+With the oven you can cook any food that can be cooked (meatball, beef, chicken, bacon, fish, salmon, egg, mutton, porkchop and rabbit), you can make yellow cheese and caramel with a milk bucket and sugar respectively.
+
+Juice dispenser
+
+With the juice dispenser, as its name indicates, you can make a lot of diferent juices with it, you can make (each of them gives 3 of nutrition):
+
+- Apple juice
+
+- Banana juice
+
+- Berry juice
+
+- Cherry juice
+
+- Chocomilk
+
+- Glass of milk
+
+- Grape juice
+
+- Kiwi juice
+
+- Mango juice
+
+- Melon juice
+
+- Orange juice
+
+- Pineapple juice
+
+- Strawberry juice
+
+Toaster
+
+The toaster only works for toasted bread (1 of nutrition), but with it you can make more food (Later it's shown that).
+
+Jar
+
+With the jar you can use it to store candies or simply as a decoration.
+
+Ice Cream Machine
+
+Crafting this block helps you making ice creams (you can see more in ice cream section).
+
+you'll need snowballs to fill the machin so you can make any ice cream.
+
+How to use these blocks:
+
+Salt ore
+
+With the salt ore you can get salt mining it as well as burning it in a furnace, salt works to make some food that you can look later.
+
+Juices
+
+Each of the juices gives you a effect for a short time that you could take advantage in specific circumstances, here below you can see every effect with its duration for any juice (for the recipes, watch the Blocks section up)
+
+Juice - Effect - Duration
+
+Apple Juice - Regeneration - 5 seconds
+
+Banana Juice - Jump Boost - 15 seconds
+
+Berry Juice - Speed - 15 seconds
+
+Cherry Juice - Absorption - 15 seconds
+
+Chocomilk - Haste - 20 seconds
+
+Glass of Milk - Resistance - 15 seconds
+
+Grape Juice - Water Breathing - 15 seconds
+
+Kiwi Juice - Slow Falling - 10 seconds
+
+Mango Juice - Fire Resistance - 15 seconds
+
+Melon Juice - Instant Health - Instant
+
+Orange Juice - Saturation - Instant
+
+Pineapple Juice - Strength - 10 seconds
+
+Strawberry Juice - Health Boost - 15 seconds
+
+Items
+
+Chocomilk powder
+
+Chocomilk powder works to make chocomilk in the juice dispenser.
+
+Knife
+
+The knife could work as a sword but its main function is to cut bread and cheese.
+
+Dough
+
+Dough works to make several food
+
+Glass
+
+The glass works to make all juices that you saw before.
+
+Crops and trees
+
+This addon add 4 new crops to your world:
+
+- Corn (3 of nutrition)
+
+- Grapes (2 of nutrition)
+
+- Pineapple (2 of nutrition)
+
+- Strawberry (2 of nutrition)
+
+The crops of grapes and strawberry works like a sweet berries bush, you can touch it to drop its crop.
+
+There is another crop, but you can get it with the next craft (cactus fruit: 2 of nutrition)
+
+We also have 6 new trees in the game which we can find over the world and cut them to get the next fruits:
+
+- Banana (1 of nutrition)
+
+- Cherries (1 of nutrition)
+
+- Kiwi (2 of nutrition)
+
+- Lemon (1 of nutrition)
+
+- Mango (1 of nutrition)
+
+- Orange (1 of nutrition)
+
+Now, under each tree image there is a list of the biomes where you can find it.
+
+- Desert
+
+- Beach
+
+- Forest
+
+- Savanna
+
+- Birch
+
+- Savanna
+
+- Birch
+
+- Plains
+
+- Savanna
+
+- Birch
+
+- Plains
+
+- Savanna
+
+- Birch
+
+- Plains
+
+- Forest
+
+- Plains
+
+- Jungle
+
+Breads
+
+In this section we can see this addon adds toasted breads with jam and cornbread, it's not much but adds variety to the game.
+
+- Cornbread (5 of nutrition)
+
+- Slice bread (1 of nutrition)
+
+- Toasted bread with any jam (4 of nutrition)
+
+To make the bread with jam is ONLY WITH TOASTED BREAD and use the jam that you like.
+
+Cakes
+
+There are 4 new cakes with this addon, unfortunately these dont't work like the ca

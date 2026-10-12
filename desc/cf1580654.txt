@@ -1,0 +1,56 @@
+How to enable admin features:
+do first /scoreboard objectives add Money dummy
+Use /tag @s add admin or /tag @s add op for extra customization and admin-only commands.
+
+I WILL BE UPDATING THIS ADDON ON MY DISCORD
+
+REQUIRED: Enable this first in Experiments
+Upcoming Creator Features
+Beta APIs
+
+Auction House + Shop V4.4 Features
+Balance Increased to Quadrillion
+My Balance in Shop and Auction House
+My Balance Viewer Updated Full Amount
+
+Auction House + Shop V4.4 Features
+Duplication Bug Fix Fixed the duplication issue in the Auction House.
+Lock/Unlock Removal Removed the lock and unlock mechanics for a smoother experience.
+Enhanced Security Improved security for Auction House buy and reclaim actions to prevent exploits.
+Quick Sell Command Added a new command: /ahsell 500 lets you instantly place the item youre holding into the Auction House in a quick session.
+New Icon Registry Introduced a registry for items without dedicated icons, expanding from 75 unique icons to 102.
+Shop Item Icon Improvement If an item youre trying to put in the shop has no icon, you can now manually choose one from the preset icons.
+
+Auction House + Shop V4.3 Features
+Auto Storage Entity Automatically spawns a storage entity, no need to manually add it.
+Auto Currency Setup Automatically adds the default currency scoreboard (Money) without typing /scoreboard objectives add money dummy.
+Currency Viewer Viewer is off by default, but operators can enable it in /ahmenu.
+Bug Fix Fixed the Auction House issue present in V4.2.
+
+Auction House + Shop V4.2 Features
+Auction House Chest Grid UI Added(Chest UI by Herobrine643928) you can switch back in /ahmenu.
+Auction House Timer Items placed in the Auction House are no longer permanent. A timer is now applied (default: 10 minutes per item). This can be configured in /ahmenu Auction Settings.
+Auction House Settings New settings menu inside /ahmenu for managing timers, reputation, and statistics.
+Listing Slot Customization Configure how many items a player can list by default. You can also set a base price if you want extra slots to be buyable.
+Search & Sort System Auction House now supports sorting by Newest, Oldest, Lowest Price, Highest Price, Reputation, and Most Popular.
+Reputation Mechanic Reputation is used only for sorting, but the more players buy from you, the higher you rank when Reputation sort is active.
+Reputation Leaderboard You can view which player has the highest reputation in /ahmenu Auction Settings.
+Most Bought Item Tracker Auction Settings also shows the most purchased item in the Auction House.
+
+Auction House + Shop V4.1 Features:
+Test Mode for Secret Settings Added a new test mode in the ZYD Item Shops secret settings, allowing you to test your own shop setup.
+Enchanted Book Fix Enchantments on enchanted books now properly show up in the ZYD Item Shop.
+
+Auction House + Shop V4 Features:
+Custom Shop Category Create your own category for NBT items (enchanted books, shulker boxes, enchanted tools, spawners, etc.).
+NBT Item Support Full NBT data is saved, including enchantments and item details.
+Lore Requirement Add lore to spawners using /lore while holding the item, so the shop can recognize them properly.
+Shulker Box Limitation Shulker boxes placed in the custom category cannot be sold (may be added later if requested).
+Stack Purchases Buy more than 64 items at once (works only on stackable items).
+Operator Full Access Operators can access shops as if they were the owner, with full control.
+Operator Rotation Control Operators can change the rotation/facing of shops.
+Secret Settings Unlock Spam crouch to open hidden shop settings.
+Operator Teleport Operators can teleport to any shop in the world.
+Currency Customization Change shop currency to Diamonds, Emeralds, or any item you want. Affects both Item Shop and Auction.
+NPC Spawner Spawn or summon NPCs linked to the shop/auction house, even if those systems are disabled. NPCs can also be used for decoration or roleplay.
+Bug Fixes & Improvements Gene

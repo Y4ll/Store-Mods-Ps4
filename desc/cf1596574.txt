@@ -1,0 +1,21 @@
+200+ unique crosshair styles for Minecraft Bedrock all packed into a single resource pack with subpacks. Dots, circles, diamonds, scopes, hearts, skulls, arrows, reticles, and dozens of combo styles. Pick your style and get the exact crosshair you want on your screen.
+
+Features
+
+- 200+ crosshair styles dots, circles, diamonds, crosses, scopes, reticles, hearts, skulls, stars, arrows, chevrons, and many more
+
+- Combo crosshairs mix and match styles like Cross + Circle, Diamond + Double Ring, Chevron + Box, and dozens of other combinations
+
+- PvP-ready styles classic PvP, sniper scope, gunsight, target, and dot-only crosshairs for precise aiming
+
+- Unique shapes flower, lightning, sparkle, skull, spade, club, heart outline, filled pentagon, filled hexagon and more
+
+- No Crosshair option remove the crosshair entirely for a clean immersive look
+
+- Subpack system select your style directly from Global Resources in Settings, no extra tools needed
+
+- Zero gameplay impact purely visual, no performance hit
+
+How to Use
+
+Apply the pack in Settings Global Resources. Tap the pack and use the subpack selector to choose your preferred crosshair style. Change it anytime without restarting.

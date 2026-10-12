@@ -1,0 +1,34 @@
+Join Elys PBR Discord Server
+
+Download Elys PBR
+
+Minecraft Bedrock RTX System Requirements
+NVIDIA GeForce RTX 20 Series and higher, and AMD Radeon RX 6000 Series and higher.
+
+Installation
+
+Load Elys PBR into the game after downloading it that's all!
+
+If you prefer manual installation,
+
+After downloading, rename the .mcpack file to .zip and unzip it.
+Go to the following address:
+AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs
+replace the unzipped Elys PBR file
+Launch Minecraft go to settings and select Elys PBR and activate it
+
+Note: For spectacular visuals, use the Better RTX Graphics mod.
+
+How to install better RTX to your Windows P1
+
+1. Visit the Minecraft RTX Discord server at https://discord.gg/4qWX7h3b.
+
+2. Join and navigate to #brtx-install-info to get the file (Note: If you have any questions, please ask community members who can assist you or ping me @0x4A4B).
+3. Simply go to https://www.iobit.com/en/iobit-unlocker.php and download and install IObit Unlocker.
+4. BetterRTX_Installer is a PowerShell script that you may BetterRTX_Installer.ps1.ps1
+5. If your window crashes or closes automatically when you execute the BetterRTX_Installer.ps1.
+
+6. Please follow the procedures below to avoid this problem.
+7. Set-ExecutionPolicy -Scope CurrentUser PowerShell admin should perform this command. Reread the script. Install your preferred setup and go into Elys PBR Rta tracing universe.
+
+Note: do not use other PBR texture packs while using Elys PBR

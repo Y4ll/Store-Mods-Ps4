@@ -1,0 +1,8 @@
+This pack adds remodeled and retextured wolf variants, including three alternative takes on the vanilla Spotted, Rusty, and Striped wolves. Each wolf is larger, uniquely textured, and features biome-based colors and coats. Custom puppy models are also included. This pack was originally created by acidul for Java Edition and was ported by me(Parzival_) to Bedrock Edition.
+
+Actions and Stuff Compatibility Pack
+
+For the original Java Version:
+Acidul's Wolves | acidul's Profile
+
+Owner's Permission:

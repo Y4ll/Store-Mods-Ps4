@@ -1,0 +1,38 @@
+Zombies are really bland, only one texture... this pack adds way more and I mean WAY more, they are biome dependent there's Swamp Zombies, Jungle Zombies, Outlaw Zombies, Snowy Zombies, Mummified Husks & Pirate Drowned
+
+Variants
+75 Naturally spawning Variants
+15 Naturally spawning Rare Variants
+13 Name Specific Variants
+1 Secret Variant
+
+All Named Variants
+"Drip Steve"
+"Drip Alex"
+"Drip Sunny"
+"Drip Zuri"
+"Drip Noor"
+"Drip Ari"
+"Drip Makena"
+"Drip Kai"
+"Drip Efe"
+"Santa"
+"Giftbox"
+"De-Frost"
+
+Full Version:
+
+- Includes all Husk and Drowned Variants
+
+- Normal, Cold, Swamp, Outlaw, Jungle Zombies are all part of the random spawning variants
+
+Lite Version:
+
+- Includes all Husk and Drowned Variants
+
+- Only Normal Zombies are included in spawn variants
+
+For the original Java Version:
+Better Zombies | creepermax123's Profile
+
+Owner's Permission:

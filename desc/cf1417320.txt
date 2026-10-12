@@ -1,0 +1,29 @@
+* Features:*
+
+- Hides enchantment lines in item tooltips
+
+- Works on all enchanted tools, weapons, and armor
+
+- No gameplay changes purely visual
+
+* Compatibility:*
+
+- Minecraft Bedrock Edition 1.21+
+
+- Works in both survival and creative
+
+- Compatible with other UI packs (may vary)
+
+* Note:*
+
+Does not affect functionality of enchantments only hides them visually in the UI.
+
+Don't Claim My pack..
+
+Don't Edit my file code ..
+
+Share official curseforge link..
+
+---
+
+Discord server

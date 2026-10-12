@@ -1,0 +1,24 @@
+RR Lucky Blocks+ PRO v2.0.0 - The Ultimate Risk and Reward Expansion
+
+Hey everyone. If you have been playing survival Minecraft for a long time, you know that the late game can sometimes get a little repetitive. Once you have a full set of enchanted netherite armor, an elytra, and a few automatic farms running, the thrill of survival kind of fades away. Mining becomes a chore, and looting standard dungeon chests just is not exciting anymore because you already have everything you need. I wanted to bring that feeling of pure, unpredictable excitement back into the game. I wanted an item that could either make you incredibly rich in a single second or completely destroy you if you are not careful.
+
+That is exactly why I created the RR Lucky Blocks+ PRO addon. This expansion introduces the classic, high-stakes gambling mechanic directly into your Bedrock Edition survival world. It gives you a brand new block to craft, and breaking it triggers a completely random event based on strict percentage chances. Version 2.0.0 is a massive rewrite of the entire system. I have completely unlocked every single feature for you. There are no locked tiers, no premium keys required, and absolutely no hidden paywalls. It is a complete, fully accessible survival mini-game right from the moment you update your world.
+
+Crafting and The Five Loot Tiers
+
+I wanted the Lucky Block to feel like a premium, valuable item, so the crafting recipe is intentionally a bit expensive. To craft a single Lucky Block, you need to surround one Diamond with eight Gold Ingots in a regular crafting table. It requires some grinding, but the potential rewards make it completely worth it.
+
+Once you place the block and break it, the game randomly selects an outcome from five completely different tiers. The most frequent drops come from the Common tier, which gives you useful everyday survival items like iron ingots, food, arrows, and basic tools. If you get a little luckier, you hit the Uncommon tier, dropping diamonds, enchanted golden apples, and ender pearls. In this brand new update, I added the highly requested Rare tier. This seven percent chance drop gives you incredibly hard-to-find items like Tridents, Maces, and huge stacks of Experience Bottles.
+
+If you have insane luck, you will hit the Legendary tier. This five percent drop is absolutely game-changing. It can give you a full set of Netherite armor, an Elytra, a Totem of Undying, or even trigger a massive Superpower effect that buffs your character with Strength, Speed, and Resistance for a full minute.
+
+But you must always be prepared for the worst. There is a fifteen percent chance you will hit the Bad Luck tier. If this happens, you need to react instantly. The block might spawn a primed TNT explosive, a swarm of charged creepers, strike you with lightning, or hit you with severe blindness and slowness effects. It is a massive risk every single time you break one.
+
+Advanced Tracking and Lucky Streaks
+
+I did not want this to just be a random block you break and forget about. I wanted it to feel like a fully integrated casino game. So, I built a deep statistical tracking engine that runs silently in the background. Every time you break a block, the game records the result.
+
+In this update, I introduced the brand new Lucky Streak system. The addon now tracks how many good drops you get in a row. Your streak builds up with every Common, Uncommon, Rare, or Legendary drop. But the exact second you hit a Bad Luck block, your entire streak instantly resets back to zero. It adds an incredible layer of tension when you are on a high streak and trying to decide whether you should risk breaking just one more block.
+
+If you want to see exactly how lucky you really are, you can open the detailed Statistics Panel. This tool calculates your exact Luck Rate percentage. It compares the total number of good drops you have received against your bad drops over your entire playthrough, and records your highest-ever Lucky Streak.
+

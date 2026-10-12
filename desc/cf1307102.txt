@@ -1,0 +1,41 @@
+NINJAGO!! Update/Release 1.4.5 MARTIAL ARTS UPDATE 2.0
+
+this update adds the martial arts from Ninjago, such as spinjitsu, airjitsu, shatterspin, and more. This addon also adds many different colors and types for each martial art, so you can be more like your favorite character from Ninjago or your own hero. This update will be the second to last update before the main Ninjago update including armors, elemental powers, mobs like dragons, slot based moves, races, and more.
+
+RUNDOWN
+
+The moves function the same way they do in ninjago, spinjitsu spinning targets around you, rising dragon counters shatterspin, and airjitsu let's you fly. Scrolls can be crafted and used to make other scrolls and give you the ability to use moves. Moves can be activated by double shifting, and some moves like shatterspin requires the player to constantly shift.There is a timer so moves can't be used forever.The player can only have one move active at once, and some elements gain more moves upon using the mastery scroll. Shatterspin gains a slice ability when the player jumps, and all moves loose their timer constraints when the player masters all martial arts.
+
+Armors
+
+As a treat i decided to add the armors that i fixed over the course of this summer.
+
+You get
+
+-elemental kimnonos
+
+-temple robes
+
+-tournament gi
+
+-dragon xtreme gi
+
+-trainee gi
+
+it also adds new martial arts
+new weapons and abilities and more
+also note that the things added in this update will be changed in the next upcoming updates, for expansion purposes.
+
+-
+edit the code of this addon
+
+-
+post this addon on any other website
+
+-
+claim this addon as your own
+
+-
+steal code from this addon
+
+-if you must venture into this addon, ask me about it so I can give the go ahead

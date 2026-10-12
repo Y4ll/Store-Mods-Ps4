@@ -1,0 +1,140 @@
+Smuttie's Mob Girls is an add-on that transforms many hostile and neutral mobs into human girls with custom models while preserving most animal mobs. Female models were designed to offer a less intimidating and more delightful gameplay experience. These models were also re-animated to reflect the character of each mob.
+
+Compatibility
+
+This add-on includes a resource pack and a behavior pack, both can be loaded in Minecraft Bedrock Edition. Both packs are highly recommended for a full game experience. Currently, you need to enable the "Beta APIs" feature under Experiments settings of your world to perfectly load Creaking. This add-on is likely incompatible with other add-ons.
+
+Add-On List
+
+Files from the first two add-ons are available for easy access on CurseForge. For the most relevant changelog, please refer to the CurseForge rather than MCPEDL.
+
+Smuttie's Plushies add-on can be used alongside one of other add-ons. Its files are available on its dedicated page.
+
+Features
+
+Supported Mobs
+
+Mob List (A-Z):
+
+- Allay
+- Blaze
+- Bogged
+- Breeze
+- Cave Spider
+- Creaking
+- Creeper
+- Drowned
+- Elder Guardian
+- Ender Dragon
+- Enderman
+- Endermite
+- Evoker (*)
+- Ghast
+- Guardian
+- Husk
+- Illusioner (**)
+- Iron Golem
+- Magma Cube
+- Morpher (**)
+- Phantom
+- Piglin
+- Piglin Brute
+- Pillager (*)
+- Ravager
+- Shulker
+- Silverfish
+- Skeleton
+- Slime
+- Smuttie (**)
+- Snow Golem
+- Spider
+- Stray
+- Strider
+- Vex
+- Villager (*)
+- Vindicator (*)
+- Wandering Trader (*)
+- Warden
+- Witch (*)
+- Wither
+- Wither Skeleton
+- Zombie
+- Zombie Villager (*)
+- Zombified Piglin
+
+* these mobs are also included in Smuttie's Villager Girls sub add-on
+** these mobs are added in Smuttie's Mob Girls add-on
+
+Mob Model View (A-Z):
+
+Supported Animations
+
+Animation List:
+
+- Walking (e.g. Zombie)
+- Bobbing (e.g. Endermite)
+- Blinking (e.g. Wandering Trader)
+- Looking (e.g. Zombified Piglin)
+- Riding / Ridden (e.g. Skeleton and Strider)
+- Panicking (e.g. Stray)
+- Afraid (e.g. Piglin)
+- Attacking (e.g. Vindicator, Bogged, Drowned, Blaze, Wither and Ender Dragon)
+- Hurt (e.g. Husk)
+- Holding (e.g. Wither Skeleton, Iron Golem, Snow Golem and Enderman)
+- Swimming / Diving (e.g. Cave Spider and Guardian)
+- Floating / Flying (e.g. Ghast and Phantom)
+- Sleeping (e.g. Villager)
+- Climbing (e.g. Spider)
+- Jumping (e.g. Slime and Breeze)
+- Exploding (e.g. Creeper)
+- Dancing (e.g. Allay)
+- Celebrating (e.g. Pillager)
+- Casting (e.g. Evoker)
+- Drinking (e.g. Witch)
+- Roaring (e.g. Warden)
+- Stunned (e.g. Ravager)
+- Twitching (e.g. Creaking)
+- Eating (e.g. Smuttie)
+- And More!
+
+Animation Pose View:
+
+Mob Variants
+
+Villager Variants:
+
+Rarity Variants:
+
+Size Variants:
+
+Other Mob Variants:
+
+Mob Armor Models:
+
+Custom Mobs
+
+Smuttie:
+
+Smuttie is a new mob that can naturally be found inside its home (Smutties House), which has a rare chance to generate in meadows and cherry groves. Smuttie features a rich and evolving behavior system, with interactions influenced by both mood and trust.
+
+This mob only naturally spawns as of 1.21.70.
+
+Smutties trust level is visually represented by friendship bracelets:
+
+- The more bracelets it wears, the higher its trust a bracelet is added for every 100 trust points.
+
+- At max trust (500 trust points), green diamond particles appear. At this point, a player can right-click with a diamond ring to engage with Smuttie.
+
+- The diamond ring creates a permanent bond with that player and is visibly equipped as a symbol of the connection.
+- Once bonded, Smutties trust stays permanently maxed and it will never attack that player again under any circumstance.
+- It can also follow the bonded player and leave its house.
+
+- Diamond Ring -
+
+Smuttie's trust level can be changed by certain factors:
+
+- Smuttie can be petted via right-click when in the mood. This slightly raises its trust (+1 trust point).
+
+- Feeding Smuttie when it is injured increases trust after it heals (+10 trust points).
+
+- Hurting Smuttie causes it to retaliate against player, lowers its trust, and appli

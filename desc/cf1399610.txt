@@ -1,0 +1,55 @@
+Discord
+
+Advanced Zoom Mod (Achivement Friendly)
+
+Created by BUDGETGAMER1503
+
+Tired of carrying a Spyglass everywhere? Want a zoom feature that works seamlessly on Touch screens, Controllers, and Keyboards without complex key mapping?
+
+The Advanced Zoom Mod uses the latest Bedrock Script API to give you a tactical zoom feature that feels native to the game.
+
+How to Use
+
+- PLEASE TURN ON THIS
+
+It is designed to be intuitive and prevents accidental zooming while bridging.
+
+- Sneak (Hold Shift / Sneak Button).
+
+- Move Backward (Press 'S' / Pull Joystick Down).
+
+- Zoom Active! Your camera zooms in, and Night Vision is automatically applied for clear visibility.
+
+- Release to instantly reset your view.
+
+Features
+
+- Smart Detection: Only triggers when you intentionally Sneak + Move Back.
+
+- Auto Night Vision: Seeing far away is useless if it's dark. This mod applies Night Vision while zooming and removes it instantly when you stop.
+
+Cross-Platform: Works perfectly on:
+
+-
+
+-
+
+-
+
+Windows 10/11 (Keyboard)
+
+-
+
+Mobile (Touch Controls)
+
+-
+
+Console (Controller)
+
+- Performance Friendly: Optimized scripts ensure 0 lag.
+
+Credits
+
+- Script & Logic: BUDGETGAMER1503
+
+- Icon Design: NANO BANANA(gemini)

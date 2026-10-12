@@ -1,0 +1,81 @@
+ACT LEGACY
+
+A Minecraft: Bedrock Edition gun mod with four fully custom weapons, deep attachment systems, real-world-calibrated ballistics, and full Survival crafting.
+
+Watch the showcase video
+
+https://youtu.be/6Uwvlk4f9BA?si=ZgR0Kx_1iu5IpL7x
+
+Join the Discord
+
+https://discord.gg/yfdW8uQGqT
+
+Overview
+
+ACT LEGACY adds four hand-built weapons to Minecraft Bedrock, each with its own attachment roster, magazine lineup, reload behavior, and personality. This isn't a reskin pack every gun has bullet velocity tuned to its real-world caliber, a tactical reload that's genuinely faster than a full reload, a proper weapon-inspection animation, and stats that shift depending on what you've got attached and loaded. Everything every gun, every magazine, every round of ammo is craftable in Survival.
+
+The Guns
+
+M17 Glock 17 (9x19mm)
+
+The sidearm. Reflex sight, suppressor, and laser, plus three magazine types. Reliable, cheap to craft, and always in your back pocket.
+
+SS2 Pindad SS2 (5.56x45mm)
+
+A full-size assault rifle with 5 optics, 3 suppressors, 3 lasers, an extra slot, and 4 magazines (Straight Magazine equipped by default no more pulling a fresh SS2 with nothing loaded). Each suppressor tier has its own distinct suppressed-fire sound instead of one generic hush.
+
+CR56 AK-pattern rifle (7.62x39mm)
+
+The most customizable gun in the mod: 4 optics, 4 suppressors, 2 lasers, a stock, an extra slot, and 7 magazines ranging from a compact 25-rounder up to a 150-round Extended drum. True tactical-vs-full reload swap a partial mag quickly, or rack a fresh one from empty.
+
+M82 Barrett-style .50 BMG heavy sniper
+
+The showpiece. This gun alone carries:
+
+7 optics with a real tradeoff higher magnification means more accuracy but more movement slowness while aiming, not just a stat sticker
+
+4 suppressors, each doing something different on hit: one sets targets on fire, one adds flat bonus damage, one causes nausea, one slows the target down
+
+5 magazines, including an Explosive Magazine round detonates on impact with a player, mob, or block
+
+4 cosmetic camo skins Gold, Parrot, Snow, and Magma that reskin the gun body while attachments keep their own look
+
+Muzzle velocity that actually feels like a .50 cal, not a machine gun
+
+Systems
+
+Real ballistics every gun's bullet speed is scaled to its actual caliber, not a flat generic number
+
+Tactical vs. full reload a genuinely different, faster animation when you're topping off instead of running dry
+
+Weapon inspection sneak + punch to check out your gun up close, with its own animation and sound
+
+Suppressed fire visually and audibly distinct from unsuppressed shots
+
+Attachment-driven stats optics and lasers shift your hipfire/ADS accuracy, suppressors trade accuracy for stealth (and on the M82, for a status effect), stocks and extras round things out
+
+Mag-driven ammo & damage swap magazines and your capacity and damage scale with what's loaded, not a fixed number regardless of the mag in the gun
+
+Full Survival Crafting
+
+Nothing in ACT LEGACY is creative-only.
+
+Gun parts Body, Barrel, Stock, and Magazine Housing are craftable from plain vanilla materials, and every gun uses the same four parts
+
+Assembling a gun the four parts plus one tier material distinguishes which weapon you build: iron for the M17, gold for the SS2, diamond for the CR56, netherite for the M82
+
+Magazines craftable straight from vanilla metals, scaled to match each gun's power
+
+Bullets built the way a real cartridge is: copper ingot for the casing, flint for the primer, gunpowder for the propellant (the M82's .50 BMG swaps in iron for a heavier projectile)
+
+Bulk ammo packs craft loose rounds into a pack for less inventory clutter
+
+Credits
+
+Gun code adapted from SCP: Dystopia, used with permission from Lucked Coronet (luckedcoronet45).
+
+ACT LEGACY is created and maintained by ACT_27Jack.
+
+Official Download
+
+The only official source for ACT LEGACY is this CurseForge page and my official profile. Copies from any other site or app aren't affili

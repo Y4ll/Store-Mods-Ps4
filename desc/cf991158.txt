@@ -1,0 +1,11 @@
+[ES]
+
+Este paquete de texturas anade 5 texturas de las ballestas del videojuego Dead Cells, ademas de cambiar los nombres y los sonidos de disparo por los que poseen en el videojuego, dependiendo del diseno que hayas elegido. Algunas texturas de las ballestas de Dead Cells fueron modificadas ligeramente para que se vean mejor mientras las llevas en la mano, dichas texturas poseen una resolucion de 24x24 pixeles, pues esta es la resolucion que tienen en su videojuego de origen. Cabe resaltar que las texturas no son mias, lo unico que hice fue retocarlas y anadirlas a un paquete de texturas. Ire actualizando este paquete de texturas, pues aun no son todas las armas del juego, como tambien estare publicando en las proximas semanas un paquete de texturas para el arco y las espadas.
+
+Por ultimo pero no menos importante, el renombrado de los items solo esta disponible en los siguientes idiomas: Ingles del Reino Unido y de EE.UU., asimismo esta disponible en Espanol de Espana y de Mexico.
+
+[EN]
+
+This texture pack adds 5 textures of the crossbows from the Dead Cells video game, in addition to changing the names and shooting sounds for the ones they have in the video game, depending on the design you have chosen. Some textures of the Dead Cells crossbows were slightly modified to make them look better while you carry them in your hand, these textures have a resolution of 24x24 pixels, since this is the resolution they have in their original video game. It should be noted that the textures are not mine, all I did was touch them up and add them to a texture pack. I will be updating this pack of textures, because they are not yet all the weapons in the game, as I will also be publishing a pack of textures for the bow and swords in the coming weeks.
+
+Last but not least, item renaming is only available in the following languages: UK and US English, as well as Spanish for Spain and Mexico.

@@ -1,0 +1,16 @@
+ABANDONED
+
+becouse of lazy developer
+
+Core Mechanic: Structural Gravity
+Blocks cannot hover in the air without support. If a block loses its foundation (below) or horizontal connection (side wall), it falls. Falling blocks crush fragile decorations (grass, flowers, moss, carpets) but safely stop on solid grass blocks.
+Block Stability (Max Horizontal Reach)
+Obsidian 12 blocks
+Netherrack 10 blocks
+Wood / Planks 5 blocks (Plus, they float in water!)
+Stone / Cobblestone 3 blocks
+Dirt / Grass Blocks 1 block
+Sand / Gravel 0 blocks (Collapses instantly)
+Required Settings
+You must enable this toggle in your world settings:
+Beta APIs

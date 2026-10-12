@@ -1,0 +1,79 @@
+Support on 26.33 (Or Higher Only)
+
+Azify Glow Em All is a cool shader for Minecraft Bedrock! It makes the game look better, with glowing ores, More fun, more adventure!
+
+This shader will not work without using required patches! Please read the installation guide before downloading.
+
+Download:
+
+- afgea-3.8.0-merged.mcpack
+
+- afgea-3.7.1-merged.mcpack
+
+- afgea-3.7.0-merged.mcpack
+
+Features
+
+- Glow Ores
+
+- More texture support
+
+- Bloom Effect Ores
+
+- Bloom Effect Torches
+
+- Brighter Cave (optional)
+
+Options For cave Brighter:
+
+Default Minimum Brightness: Just a minimum brightness
+
+Common Brightness: More visible cave 50% brighter
+
+Insane Brightness: Much more visible cave 80% brighter
+
+Installation
+
+Disclaimer: Minecraft Bedrock does not officially support loading custom shaders. The following are unofficial ways to load shaders.
+
+Android
+
+1. Install MB Loader APK.
+2. Import the resource pack to Minecraft and activate it in global resources.
+3. Launch Minecraft through MB Loader APK.
+
+Windows
+
+- Use BetterRenderDragon to enable MaterialBinLoader.
+
+- Import the resource pack and activate it in the global resources.
+
+If BetterRenderDragon does not support your Minecraft version, use this Matject tool instead to install shaders.
+
+Linux (x86_64 arch)
+
+This method is for mcpelauncher-manifest.
+1. Install mcpelauncher-materialbinloader-mod.
+2. Import the resource pack and activate it in global resources.
+
+*iOS
+
+Sorry. There isn't an easy method to install shaders on iOS devices. You either require jailbreak or would have to install an untrusted IPA.
+
+NOTE:
+
+This shader only works on 1.21.100+ since Mojang changed the lighting there. If you try it on older versions like 1.21.94, itll just bug out because of the old lighting system.
+
+MERGED - means it contains ios, android and windows in one file.
+
+Anyways thank you very much for 338.2K downloads in curseforge! ;)
+
+Download:
+
+- afgea-3.8.0-merged.mcpack
+
+- afgea-3.7.1-merged.mcpack
+
+- afgea-3.7.0-merged.mcpack
+
+.

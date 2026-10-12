@@ -1,0 +1,17 @@
+WHAT IS THIS?
+
+This is a shader pack that will enhance your Vibrant Visuals or any Vibrant Visuals packs like Prizma, Definitive, and more!! This brings a more saturated and actual vibrant and brighter than you could have imagined!
+
+HOW TO DOWNLOAD AND USE?
+
+Android:
+
+There are many things to choose from, which loader would you like. There is Ambient MCBE, MB Loader, Levi Launcher for Android, and more. Just make sure to turn on load render dragon shaders on each of them! Most of these launchers can be found on the Play Store!
+
+Windows:
+
+You can use betterRenderDragon or Levi launcher. Levi launcher has a feature called load render dragon shaders on the instance settings!
+
+IOS:
+
+There isn't an easy way to load shaders... You need to jailbreak it, unfortunately...

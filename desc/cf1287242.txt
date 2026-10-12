@@ -1,0 +1,13 @@
+LazShaders is a vibrant visuals shader pack made for bedrock/pocket edition
+
+This pack doesn't need patch and works for versions 1.21.90 and above
+
+This pack offers a beautiful viewing experience while keeping the original texture and feel of Minecraft bedrock and gives it a Special touch
+
+In order for this pack to work "vibrant visuals" must be turned on when creating a world and your device must have support for vibrant visuals.
+
+-----------------
+
+I would also like to thank XradicalD for allowing me to use his texture pack PastelCraft for this shader
+
+You should check them out and their texure pack Pastelcraft on modrinth.

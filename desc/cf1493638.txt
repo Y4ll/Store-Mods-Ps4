@@ -1,0 +1,26 @@
+MY DISCORD
+
+(disclaimer the image is made by ai)
+
+With the Vampire Reincarnation addon, you can life steal, regenerate, gain night vision, and unlock a range of other vampire abilities that grow stronger as you embrace the darkness. Move through the night with heightened senses, watching the world in silence while your power slowly consumes everything around you.
+
+Despite its eerie nature, the experience feels strangely comfortinglike becoming one with the shadows, where danger turns into control and fear fades into strength. Whether youre hunting in the darkness or simply surviving under the moonlight, this addon invites you into a haunting yet mesmerizing world of immortality.
+
+Skills:
+Active skill 1: Life Steal (attack mobs to activate)
+Active skill 2: Fast Regeneration (sneak to activate)
+Active skill 3: Night Vision (sneak to activate)
+Active skill 4: Inflict Poison on the Target (attack mobs to activate)
+Active skill 5: Critical Hit Effect: Every 3-hit combo gives you a chance to apply a critical effect to your opponent.
+Active skill 6: locked
+Active skill 7: locked
+Active skill 8: locked
+
+Passive skill 1: Regeneration
+
+This add-on is achievements friendly.
+This add-on does not include player.json.
+This add-on does not require experimental features.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

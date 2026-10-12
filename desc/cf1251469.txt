@@ -1,0 +1,97 @@
+Pick up the player, mob, or chest with items and carry it to the right place! All mobs, players and blocks with items are carryable! Even mobs or blocks from other addons!
+
+LIST OF FEATURES:
+
+First-person body rendering! While carrying, you can see your body and arms even from 1st person!
+
+Supports characters from Character Creator! You can use your character created in the Character Creator! Even animated items and capes are supported!
+
+You can launch the mob, player, or block you're carrying far ahead!
+
+Any blocks that can store items (such as a chest) are carryable! When you are carrying a block with items:
+
+- You can open it and transfer items while carrying it!
+
+- Other players can also open it and steal items while you are carrying it!
+
+- Other players can break the block while you are carrying it! It has 10 stages of damage, with a different cracking texture for each stage!
+
+- If you drop the block from a high height, it will break upon landing, and all the items will scatter on the ground!
+
+Great collision checking algorithm that prevents mobs from being pushed into blocks!
+
+The player who is being carried can see the carrier's health!
+
+If you fall from a height of more than 3 blocks while carrying, the mob, player or block will fall out of your hands!
+
+You can only carry if both your hands are free of items!
+
+If you go underwater while carrying, a mob, player or block will fall out of your hands!
+
+Supports multiplayer! This addon works great on Realms, BDS, and other servers, and can handle hundreds of online players!
+
+Fully customizable! You can individually disable the ability to pick up mobs, players, or blocks, enable a slowness effect while carrying, adjust the launching force, and quickly enable/disable the addon without world reload!
+
+To start carrying, you don't need to enter any commands or use a special item!
+
+Doesn't break any vanilla animations! (using spyglass, holding map, charging crossbow, etc.)
+
+Reliable stuff! Each version is thoroughly tested, and any bugs are eliminated with a 95% probability before publication! However, if you still manage to find a bug, feel free to report it in the comments!
+
+Download BP and RP and put these 2 packs into your Minecraft world!
+
+- Enable these experiments: "Beta APIs"
+
+- Only stable Minecraft versions are supported. (not beta or preview)
+
+- This addon uses "player.json" and is not compatible with other addons that also use it
+
+HOW TO USE:
+
+How to pick up a mob or player:
+
+- Make sure you are not holding any items in your hands (mainhand & offhand)
+
+- Get as close to a mob or player as possible, look at it, then sneak and jump:
+
+First person view:
+
+The 1-person view also supports sneaking while carrying:
+
+How to pick up a block with items:
+
+- Make sure you are in "survival" mode
+
+- Make sure you are not holding any items in your hands (mainhand & offhand)
+
+- Approach the block as closely as possible (but do not stand on it)
+
+- Begin sneaking and jumping while simultaneously start breaking the block you want to pick up
+
+You can pick up any block that can store items (chest, dispenser, furnace, etc.). Pickup is only possible if there is at least 0.5 blocks of free space above the block you want to pick up. If the block is at head level, you can still pick it up even if there is no free space above it.
+
+Player picks up the block:
+
+First person view:
+
+You can break a block that someone is carrying:
+
+You can steal items from a block that someone is carrying:
+
+Any blocks that can store items are carryable:
+
+To stop carrying, sneak and jump:
+
+Or just take any item in your mainhand / offhand:
+
+Also, you can swing your arm to stop carrying:
+
+To launch the mob, block or player, sneak then go forward and jump:
+
+You can launch even the players:
+
+While carrying, collision checking is performed, so you can't push mobs into blocks:
+
+If you go into the water more than 1 block deep, the mob or player will fall out of your hands:
+
+But blocks you can pick up and carry even underwater

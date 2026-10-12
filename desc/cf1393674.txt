@@ -1,0 +1,7 @@
+Saturation
+
+This pack boosts the saturation of Minecrafts textures, making the world look more vibrant, colorful, and lively. It enhances blocks, items, and environments with richer tones while keeping the original style intact.
+
+The saturation in the preview images was increased externally to make them look better. In-game textures will not appear that strong.
+
+I will also release additional versions soon with different saturation levels, allowing you to choose how much saturation you prefer. This feature is still in development, so it may take some time, but updates will continue. If you have any feedback or want to report something, the comments section is open for you.

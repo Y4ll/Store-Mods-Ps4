@@ -1,0 +1,32 @@
+Mine an entire ore vein with a single block break. Advance Vein Miner automatically finds and mines every connected ore block the moment you break one up to 256 blocks at once. Fortune works, Unbreaking works, and all 11 ore types are fully supported including deepslate variants.
+
+Features
+
+- 256-block vein limit mines up to 256 connected ore blocks in a single break
+
+- All 11 ore types supported Coal, Iron, Copper, Gold, Nether Gold, Redstone, Lapis, Diamond, Emerald, Quartz, and Ancient Debris all with deepslate variants
+
+- Fortune enchant support Fortune multiplier correctly applies to every ore in the vein
+
+- Unbreaking enchant support durability is correctly reduced accounting for your Unbreaking level
+
+- Auto Collect toggle mined ores go straight into your inventory instead of dropping on the ground
+
+- Per-pickaxe tier toggles choose exactly which pickaxe tiers (Wooden to Netherite) trigger vein mining
+
+- Sneak to mine normally hold sneak and your pickaxe mines single blocks as usual
+
+- No cheats required works fully in survival mode
+
+Commands
+
+- /voxen:vm open the Advance Vein Miner settings menu
+
+How to Use
+
+PC: Type /voxen:vm in chat to open settings. Hold any pickaxe and mine any ore the entire vein breaks automatically. Hold Sneak to mine single blocks normally.
+Mobile: Type /voxen:vm in chat to open settings. Mine any ore as usual the vein breaks automatically. Hold Sneak to mine single blocks normally.
+
+Achievement Friendly?
+
+Yes fully achievement friendly. Use it without any worries.

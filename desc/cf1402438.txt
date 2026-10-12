@@ -1,0 +1,39 @@
+Carbon+ Maximize Your Minecraft Bedrock Performance!
+
+Tired of low FPS while exploring massive maps or using high-resolution resource packs? Want smooth, lag-free gameplay even with high Render Distance and heavy visual packs? Carbon+ is your ultimate solution!
+
+Carbon+ is an innovative, all-in-one performance add-on for Minecraft Bedrock Edition, designed by StoimRX to deliver a smooth and enjoyable experience on all devices, from mid-range smartphones to high-end PCs. Using advanced Scripts and Behavior Packs, Carbon+ reduces the load on CPU, GPU, and RAM while preserving the games visual quality.
+
+Features of Carbon+:
+
+Boost FPS dramatically: Tested to increase FPS by up to +28% on massive maps and heavy resource packs.
+
+Dynamic LOD: Reduces details on distant entities and blocks without affecting nearby visuals.
+
+Particles Optimization: Minimizes or removes heavy particles to reduce GPU strain.
+
+Adaptive Mode: Automatically switches between Minimal / Balanced / Aggressive modes based on current FPS.
+
+Emergency Cleanup: Instantly removes unnecessary entities during map congestion to keep gameplay stable.
+
+Batch Entity Processing: Processes entities in batches to lower CPU load and improve overall performance.
+
+Status Report: Get detailed stats about FPS, entity counts, current mode, and other key performance metrics.
+
+Easy to Use: One add-on installation, works automatically across all your favorite worlds.
+
+Compatible with most Resource Packs and heavy visual packs, even high-resolution 128128 textures.
+
+Carbon+ is not just a performance add-onits a smart, comprehensive system that keeps your game stable and enjoyable. No matter how large your map or how heavy your visual packs are, Carbon+ handles the load, maintaining consistent FPS and smooth gameplay.
+
+Who is Carbon+ for?
+
+Players exploring massive maps and detailed cities.
+
+Fans of high-resolution or visually intensive Resource Packs.
+
+Gamers seeking smooth, stable FPS even on mid-range devices.
+
+Anyone who wants the best Minecraft Bedrock experience without lag or stutter.
+
+Download Carbon+ today and experience the ultimate performance boost for Minecraft Bedrock Edition!

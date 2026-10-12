@@ -1,0 +1,71 @@
+Are you tired of manually collecting farm drops and running back and forth to fill your chests?
+
+Storage Transfer lets you vacuum nearby item drops and send them directly into any storage with a single click.
+
+This add-on is a reworked version of Storage Copier.
+
+HOW IT WORKS
+
+Interact with any container block (chest, barrel, etc.) while holding the Storage Transfer item to link it. Sneak + interact with the same container to unlink. Status feedback appears on the action bar.
+
+Started from V1.1.0, you can also link an entity with inventory (horse, donkey, minecart with chest, etc,.) to a Storage Transfer stick.
+
+Once the container is linked, you can use (or interact with) the item every item drop within a 6-block range will be sent straight to the linked container block.
+
+Players can safely link to the same container block without interfering with each other.
+
+Double chests are supported it's automatically detected and handled as a single 54-slot unit, while the Ender chest is not supported.
+
+CRAFTING:
+
+Durability: 250 (Repairable with Obsidian)
+
+Costs 1 durability for each action.
+
+Can be enchanted with Unbreaking and Mending.
+
+Item lore will be updated every time you hold the item.
+
+It shows the current status of the linked container:
+
+- Block Name: the name of the linked container block.
+
+- Block Status: the status of the linked container block.
+
+- Loaded = the block is in a loaded chunk.
+
+- Unloaded = the block is in an unloaded chunk.
+
+- Unavailable = the block is broken or not accessible.
+
+- Coordinate: the coordinate of the linked container block.
+
+- Dimension: the dimension of the linked container block.
+
+- Available Slot: the current number of free slots remaining in the linked container.
+
+TECHNICAL DEEP-DIVE
+
+For transparency, this add-on has a built-in chunk loader (radius 2) entity that spawns at the block's position when you link a container.
+
+This means the target storage stays loaded even when you're far away.
+
+If the container's chunk becomes unloaded or temporarily unavailable, collected items will be serialized and stored in the Storage Transfer's dynamicProperty (buffer). You can't transfer Shulker Boxes or Bundles at this point, otherwise the stored items will be gone.
+
+The buffer flushes automatically once the container is accessible again, or when you link to a new one. And the capacity dynamically matches the slot count of whatever you link to (e.g. 54 for a double chest, 5 for a hopper).
+
+LOCALIZATION
+
+Action bar and status words adapt to your in-game language:
+
+English, French, Spanish (MX), Thai, Chinese (Simplified), German, Russian, Portuguese (BR), Vietnamese, Indonesian, and Japanese.
+
+INSTALLATION
+
+1. Download the .mcaddon file
+
+2. Open it Minecraft imports it automatically
+
+3. Activate both the Behavior Pack and Resource Pack in your world settings
+
+Requires Minecraft Bedrock v1.26.20 and above. No experiments required. Achievement-friendly.

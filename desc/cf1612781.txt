@@ -1,0 +1,29 @@
+RGB XP Bar [bare bones]
+
+Love the iconic animated RGB XP bar but want it to match Bare Bones style? Then This pack is for you. Its a complete texture remake, redesigned to match Bare Bones aesthetic!
+
+Before and After
+
+See the difference between the standard vanilla RGB bar and the redesigned Bare Bones style:
+
+Required Pack & Load Order
+
+This pack contains textures only to respect the creator guidelines. To make it work, you MUST download the animated rgb xp bar by CrisXolt and place this pack directly on top of it in your Resource Pack settings!
+
+Active Packs Order (Top to Bottom):
+1. RGB XP Bar [bare bones] (This Pack)
+2. Animated-RGB-XP-BAR (by CrisXolt)
+3. Bare Bones (pochi barely drops)
+4. Bare Bones
+
+Special Thanks & Credits
+
+Huge shout-out and full credit to CrisXolt for creating the original Animated RGB XP Bar and its awesome code mechanics!
+
+CRISXOLT (PROFILE)
+
+Terms & Policy
+
+You are strictly prohibited from modifying, stealing, or reusing any assets from this pack. If you are making a review, you must link to the original CurseForge or MCPEDL download page in your description. Any violations will result in an immediate copyright strike.
+
+For full details, please read the TERMS & POLICY (LINK).

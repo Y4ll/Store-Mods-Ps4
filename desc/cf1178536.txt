@@ -1,0 +1,28 @@
+Items:
+
+Strength in a Bottle: Consumable item which gives you +1 strength.
+
+Revive Beacon: Revive a banned player.
+
+Config: Edit the mod's settings.
+
+Commands:
+
+- /strength withdraw: Withdraws your Strength level into a usable item
+
+- /strength help: Shows help text
+
+How it works:
+
+This is S1 Strength.
+
+When you die you lose 1 strength. When you kill someone you get 1 strength. Getting very low strength will get you banned
+
+For items that deal 1 damage (sticks, blocks, fist) it will deal 1 * strength level damage, so if you are on strength level 0 or lower, you will not deal any damage.
+
+For items with damage (swords, axe, pickaxe) it will deal item damage + strength level
+
+Thanks for downloading :D|
+Check out my discord server! https://discord.gg/RMp3Wvfn4M
+
+Donate to me on https://ko-fi.com/cennac

@@ -1,0 +1,37 @@
+Venom by MeBesm
+
+You can support me with money on PayPal. I will be very grateful.
+
+*Support Me* - https://paypal.me/MeBesm
+
+Venom is an alien creature from the planet Klentar. There are 3 symbiotes in the addon.The addon even gives you the ability to turn into symbiotes with cool abilities.
+
+The addon contains 3 symbiotes: Venom, Riot, and Carnage.
+
+And 3 carriers: Eddie Brock, Carlton Drake, Clessedus Cassidy.
+
+You can interact with each of the symbiotes.
+
+When each character is killed, he will turn into a symbiotic version, after defeating it, a symbiote will crawl out of him, which must be destroyed in order to gain the abilities of the symbiote.
+
+Feedback & Future Updates
+
+Please leave comments with feedback, bug reports or suggestions!
+
+Socials
+
+Discord: https://discord.gg/f5SHj32uAj
+
+YouTube: https://www.youtube.com/@MeBesm
+
+Telegram: https://t.me/tMeBesm Download & Installation
+
+Designed for Minecraft Bedrock 1.21+.
+
+Download the file from this page.
+
+Import both the Behavior Pack and the Resource Pack into your game.
+
+Activate both packs in your World Settings.
+
+Enable all Experimental Gameplay Features for the addon to work correctly.

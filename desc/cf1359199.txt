@@ -1,0 +1,43 @@
+If you would like to make a server using fly me to the moon, consider hosting with GodLike! https://godlike.host/Jerryeatsbeans
+
+If you like this addon, consider joining my DISCORD server, we have lots of fun and you can get early access and sneak peaks into all my projects!!!
+
+Starting out:
+
+Upon joining, you'll be given a guidebook that fully explains the addon and how it works, alongside a little note from yours truly. You can ignore the guidebook because this page explains the same concepts that it does.
+
+Launch Pad:
+
+Craft the launch bad with 3 iron ingots, 3 obsidian, and 3 copper blocks and place it on the ground.
+
+!\[\](https://media.forgecdn.net/attachments/description/null/description\_1e5d35c0-009b-41da-bceb-b0d0b01267c9.png)
+
+Space Suits:
+
+Space suits are required on the moon or else you will die. Take any chestplate and helmet (minus leather + chainmail), and upgrade by surrounding them with their specific ore type in a crafting table. You only need a space chestplate and helmet, normal leggings and boots work just fine.
+
+Rocket:
+
+Crafted with a redstone block, 3 iron blocks, and 3 dispensers. Place it in the middle of your launch pad, then hop in and use the UI to go to the moon.
+
+The Moon:
+
+New dimension, iron and amethyst are abundant here, low gravity and low visibility. Collect moon rock and craft it into the new Moon Stone Bricks
+
+Music Disc
+
+**This music disc is a secret, but I'll give you one hint at the name of the song, "Fly me to the ____"
+
+**
+
+**
+
+UPDATE 1.0.1:**
+
+-Enhanced moon randomization
+
+-Added Peridot, a moon-uniqe gemstone that can be used to create new low gravity potions
+
+-Added Lunar Phantoms and Necronauts, two hostile moon mobs
+
+-Added Meteorite Fragments, a collectible, and blast resistant moon block

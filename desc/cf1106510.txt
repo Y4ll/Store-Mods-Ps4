@@ -1,0 +1,45 @@
+Description
+
+This pack brings back the Classic Minecraft panorama but with shader applied making it look more beautiful. The time of day is adjusted to resemble the original panorama, with subtle improvements to the sunrise appearance. Currently, it uses the new textures, but I'll add old textures too as an option soon. I'll also add some other variations, like night mode!
+
+Versions
+
+There are three versions of this pack, each with different image sizes:
+
+- 1024x1024 pixels: This, or the 1440x resolution (if it's working for you) version is recommended.
+
+- 1440x1440 pixels: For higher quality, though it may be slower to load on some devices due to its larger size.
+
+- 720x720 pixels: Only needed if you have very low storage, if the higher resolution versions aren't working for you, or you just want it to be lighter.
+
+If youre on Curseforge, go to the Files tab to download the version you want.
+
+Note
+
+This is not a shader and does not include one; this is a resource pack to just change the panorama/background to those shown in the screenshots.
+
+It should work on almost any version of Minecraft; you can ignore warnings. If your Minecraft version is too old, you might have to edit the manifest.json file of this pack.
+
+i Credits & Info
+
+Credits
+
+Complementary Reimagined - Shader used to take this panorama
+
+Website Github Curseforge
+
+MinecraftAtHome - found the panorama seed
+
+Website YouTube Panorama seed
+
+Reupload Warning
+
+My packs are only available on Curseforge and MCPEDL. A lot of people are stealing my packs, so don't download from any other websites. Here is a list of websites that you should avoid, I even found malware once while testing on them. If you see someone coping this texture pack or giving direct download link to the file instead of MCPEDL, please report them at giptala6@gmail.com
+
+Help
+
+Heres a guide if you need help installing: https://adib3700.notion.site/ThreeSeven0Zero-Minecraft-Resource-Pack-Installation-tutorial-1ac9ff516372807ca61cf8ad8afd5339
+
+giptala6@gmail.com - If you need any help, you can email me (say that you need help with Classic Panorama with Shaders for Bedrock)
+
+Also known as the Classic shader panorama, Classic Panorama with shaders, Original beta panorama shader or Classical panorama with shaders

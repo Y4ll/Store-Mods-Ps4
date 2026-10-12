@@ -1,0 +1,30 @@
+Want to host a powerful and reliable Minecraft or Hytale server?
+Get started with Godlike click here
+
+The texture pack changes the texture of blocks, the top texture of the block will applied to the 4 sides of the block making it full grass texture block. this resource pack doesn't just stop at grass. It's been meticulously crafted to breathe new life into dirt podzol, mycelium, grass paths, and more. Each block's side textures have been meticulously designed to deliver an authentic and visually appealing look.
+
+v2.0 (new)
+
+The texture pack now contains 2 textures which can be switched under subpacks settings
+
+All Sides: Every side including the bottom one has same texture.
+
+5 Sides: All sides except the bottom one has the same grass texture.
+
+Video Showcase:
+
+Compatibility: It doesn't require any additional resources or power from your computer to run. Your game will work just as how it used to work by default. Works On every device like android, ios and windows as long as you have minecraft bedrock installed. It will work with every texture pack but make sure to keep it on top. Also make sure You are installing this texture pack in "Global resource packs" to work in servers and all worlds.
+
+1. You are allowed to make video on the addon but give credits in video description.
+2. You are allowed to use it in your project, but only with my permission. Discord username: grumm7613
+3. You are not allowed to publish the texture on any other website and claim it as yours.
+
+Join My Discord Server: https://discord.gg/Wvst4znsgk
+
+Download the New Bedrock Manager application to easily install and manage your minecraft addons, worlds and more!
+Download Now! (Windows only, android in future)
+
+Enjoy!
+
+Click the banner or [start here] to get going. Use code MODMCPE40 for 40% off!
+Curious what players think? Check out the community discussion on [Best Minecraft Server Hosting].

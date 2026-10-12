@@ -1,0 +1,77 @@
+Removes Minecraft's fog - water, air, weather, lava and powder snow - in every biome.
+
+Four levels
+
+Pick one from the dropdown in the pack settings. They are listed in this order, and the last one is selected automatically, so most players never need to open the dropdown at all.
+
+Water only.
+
+All, Nether keeps fog.
+
+All except lava.
+
+All. This is the recommended one and the default.
+
+What changes
+
+Water. Vanilla fog ends at 60 blocks. Removed, so you can see across the sea floor.
+
+Lava. Vanilla fog ends at 0.64 blocks. Removed, so you can look at a distant wall while swimming in a lava sea.
+
+Weather. Vanilla fog runs from 23 to 70 percent of your render distance. Removed, so rain no longer closes in your view.
+
+Air. The distance haze is removed.
+
+Powder snow. Vanilla fog ends 2 blocks ahead. Removed.
+
+Nether. Vanilla air fog there is only 15 to 20 blocks, so this is the biggest change of all. Choose "All, Nether keeps fog" if you want to keep that closed-in atmosphere.
+
+Vibrant Visuals
+
+Tested with Vibrant Visuals enabled. Water, lava and the Nether are cleared exactly the same as without it.
+
+One thing this pack cannot touch: Vibrant Visuals has its own volumetric fog, the hazy light shafts around light sources. That is a separate system from biome fog, so no resource pack can change it. It has its own toggle in the video settings if you don't want it.
+
+Vibrant Visuals also uses its own render distance slider, so how far you can see is capped by that rather than by this pack.
+
+About the comparison screenshots
+
+Vanilla water fog is not constant. Right after you dive it sits at about 15 blocks, then it opens up over roughly 30 seconds and settles at 60. The before shots on this page were taken after it had fully settled. That is the fairest comparison, not the murkiest possible frame.
+
+Important: put this pack at the top of your active list
+
+This pack replaces the biome fog definitions, and only the topmost pack that does so is used. If another pack sits above this one, this one does nothing.
+
+Notes
+
+Resource pack only. No behaviour pack, no scripts, no commands. Achievements are unaffected.
+
+Fog is not render distance. You still only see as far as your render distance setting allows. On a server, that server's render distance still applies.
+
+Servers that use the /fog command will override this pack, because the command layer takes priority.
+
+Removing weather fog is a real visibility advantage in PvP. Check your server or tournament rules.
+
+This is not an X-ray. Block rendering is untouched, so hidden blocks stay hidden. Lava looks completely normal from the outside and only turns clear once the camera is inside it.
+
+Per-biome water colours are preserved. All 94 vanilla biome entries are kept as they are and only the fog reference is changed, so swamp water is still swamp water.
+
+All four levels work the same on every device, including phones and tablets.
+
+The pack name and description are translated into all 29 languages Minecraft offers, so it shows in your own language in game.
+
+67 files, 31 KB. No textures, just fog definitions.
+
+Installation
+
+Download the .mcpack and open it. Enable it under Global Resources in settings. Move it to the top of the list and pick a level from the dropdown.
+
+Development notes
+
+Four things that took the longest to get right, in case they help other pack makers.
+
+Your own namespace. Fog definitions in the minecraft: namespace cannot be overridden from a resource pack. A file that reuses a vanilla fog identifier is simply ignored. This pack defines its own fog, kentotukun:no_fog, points every biome's fog_identifier at it, and sets remove_all_prior_fog to true.
+
+Two biome formats. Biomes are now defined in two places: the older biomes_client.json and newer per-biome files in the biomes folder. Some biomes, including the deep dark, lush caves, the pale garden and every mutated variant, exist only in the newer format. Replacing only the older file leaves fog in those biomes.
+
+fog_start. Fog density 

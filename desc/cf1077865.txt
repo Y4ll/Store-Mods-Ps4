@@ -1,0 +1,15 @@
+This add-on adds 6 hammers that mine in 3x3
+
+Support for the unbreaking and Fortune enchantments has been added.
+
+Hammers!
+
+Recipe
+
+items to unlock recipes: Log, cobblestone, iron ingot, gold ingot, diamond, netherite ingot.
+
+Durability and Speed:
+
+Hammers now have 50% more durability than vanilla pickaxes and the same speed as vanilla pickaxes
+
+No experimental functions are necessary

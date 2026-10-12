@@ -1,0 +1,34 @@
+Mystical Armor and Swords is an addon for Minecraft Bedrock that brings powerful new swords and mystical armor to the game. Each item is carefully designed to offer unique abilities, making battles more exciting and strategic. Mystical armor grants enhanced protection and special effects, while swords deliver devastating attacks. With this addon, you can face enemies in style, using enchanted equipment that glows with mystical energy. Get ready to explore the world of Minecraft in an epic way, equipped with weapons and armor that go beyond the ordinary!
+
+<figure class="image image_resized"></figure>
+
+<mark class="marker-blue">the deep blade, can be acquired by defeating the guardian boss</mark>
+
+<mark class="marker-pink">the combustion blade, can be acquired by defeating the whiter boss</mark>
+
+<mark class="marker-green">the protection blade, can be acquired by defeating the warden</mark>
+
+<mark class="marker-yellow">The End Blade can be acquired by defeating the Ender Dragon</mark>
+
+<mark class="marker-pink">amethyst sword</mark>
+
+<mark class="marker-green">emerald sword</mark>
+
+<mark class="marker-blue">quartz sword</mark>
+
+<mark class="marker-yellow">copper sword</mark>
+
+<mark class="marker-yellow">celestial blade</mark>
+
+<mark class="marker-pink">To get the scythe and mask, you need to go to the bastion and look for the chests</mark>
+<mark class="marker-pink">skull reaper</mark>
+
+<mark class="marker-pink">reaper mask</mark>
+
+<mark class="marker-yellow">To get the fancy sword, you need to go to the bastion and look for the chests</mark>
+
+<mark class="pen-red">You can get mineral swords by crafting them with the following recipes</mark>
+
+<mark class="marker-yellow">The luxurious dagger can be found in the lost treasure chests!</mark>
+
+<mark class="marker-green">All blades can be repaired and enchanted with all basic minecraft sword enchantments</mark>

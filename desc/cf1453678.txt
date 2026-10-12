@@ -1,0 +1,23 @@
+Improved Boss Bars
+
+Upgrade your gameplay experience with Improved Boss Bars, designed to make every boss fight feel more intense, clear, and visually powerful. This texture pack replaces the default boss bars for the Ender Dragon, Wither, and Pillager Raid with high-detail fantasy styled designs, glowing energy effects, and smoother color gradients that match dark, epic boss battles.
+
+Features
+
+- High-quality fantasy styled boss bar designs
+
+- Custom boss bars for the Ender Dragon, Wither, and Raid events
+
+- Smooth glowing health fill visuals
+
+- Better visibility during combat
+
+- Clean UI alignment for Minecraft Bedrock
+
+- Bosses from other add-ons keep the normal vanilla bar, so nothing breaks
+
+- No lag, lightweight, performance friendly textures
+
+Credits
+
+Improved Boss Bars is inspired by Enhanced Boss Bars

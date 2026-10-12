@@ -1,0 +1,25 @@
+About the pack:
+
+This PvP texture pack was designed specifically for Minecraft Bedrock Edition players who enjoy competitive modes like BedWars, SkyWars, and The Bridge. It offers cleaner visuals and improved item textures to help you focus during fights.
+
+Main features:
+
+Short swords for better screen visibility
+
+Simplified block textures (wool, ores, etc.)
+
+Vibrant item colors for easier identification
+
+Highlighted hotbar and clean UI elements
+
+Optimized for better FPS on low-end devices
+
+Compatibility:
+
+Minecraft Bedrock 1.20+
+
+Works on popular PvP servers
+
+Best for:
+
+BedWars, SkyWars, Duels, The Bridge, and other PvP modes

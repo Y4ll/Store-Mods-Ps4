@@ -1,0 +1,53 @@
+About the Addon
+
+Practical Tools upgrades your Minecraft Bedrock gameplay with smart, powerful tools built to save you time and effort. Mine faster with 33 hammers and chop entire trees in one go with mighty axes. Less grinding, more building, more fun.
+
+Addon Showcase
+
+Spanish Video:
+
+https://www.youtube.com/shorts/fWowyl7Lsms
+
+English Video:
+
+Vietnamese Video:
+
+Quick Overview & Features
+
+Hammer
+
+Heavy, efficient, and straight to the point.
+
+- Breaks blocks in a 33 area
+
+- Sneak (Shift) to activate
+
+- Simple and intuitive to use
+
+- Cannot break bedrock or unbreakable blocks
+
+- Available in Gold, Diamond, and Netherite
+
+Great Axe
+
+Cut trees like a legend one swing is all it takes.
+
+- Chops down the entire tree instantly
+
+- Fast and satisfying
+
+- No sneaking required
+
+- Anti-house destroyer (wont ruin your builds )
+
+Crafting Recipes
+
+Hammers:
+
+Great Axes:
+
+Great Sword
+
+Important
+
+Dont forget to activate "Beta APIs" in your world like that!

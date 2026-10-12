@@ -1,0 +1,17 @@
+What is Fishing For The Antiques?
+
+This pack overhauls the complete vanilla fishing mechanic with custom rods and custom attachments for these. Rods can be modified with Hooks, Reels and Lines, modifying rods changes its stats which helps to catch faster or rarer items.
+
+Fishing
+
+No more boring fishing! Youve got to earn it! Cast your rod and wait for a fish to bite like normal. But once you hook one, the real challenge begins. The fish will move around unpredictably from left to right at different speeds, and you have to keep your indicator on it to reel it in. Rarer fish are harder to catch, but you can make things easier by upgrading the attachments on your fishing rod.
+
+Attachments
+
+The new Custom Fishing Rod is divided into 3 Segments. The Reel, the Line and the Hook. Each of the Attachments can be ugraded via finding better ones. For now you have to explore and search in shipwrecks to get new upgrades for your rod!
+
+Fishing Table
+
+The Fishing Table is a custom workbench where you can interchange the fishing rod to your liking and your playstyle! Some Attachments might boost certain attributes while debuffing others, so set your priorities straight!
+
+Stay tuned for future Updates!

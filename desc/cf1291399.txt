@@ -1,0 +1,27 @@
+A QOL and performance pack that adjusts mip-map levels for Performance & Quality.
+
+- Lower Mip levels (0 - 2) improve performance on some GPUs
+
+- Higher Mip levels (3 - 4) improve quality on distant blocks
+
+Essential for Vibrant Visuals & RTX to make far blocks look sharper & remove Z-Fighting on some packs.
+
+Always place it above other packs to work.
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 80% revenue share if it was monetized.
+
+Contact
+
+Discord: pandamine5x

@@ -1,0 +1,81 @@
+Introducing New X Blissful rewrite v1.0
+
+Newb X Blissful is one of the best minecraft bedrock edition shader available.
+
+That offers realistic lighting,beautiful colors,realistic sky colors and makes your minecraft world more breathtaking.This visuals upgrade your Minecraft world to looking extra ordinary to make it more immersive and atmospheric.
+
+This shader focus on making your Minecraft world more realistic while still remaining simple .
+
+Features
+
+- Realistic sunlight and moonlight
+
+- Improved ambient lighting
+
+- Enhanced shadows and side block shading
+
+- Cinematic colour grading
+
+- Warm sunsets and vibrant sunrises
+
+- Natural daytime colours
+
+- Realistic and soft atmospheric fog
+
+- Improved soft cloud
+
+- Enhanced and realistic water
+
+- Beautiful night skies
+
+- Stars and galaxy
+
+- Redesigned End sky
+
+- Better Nether atmosphere
+
+- Improved bloom and lighting balance
+
+- Refined colour correction
+
+REQUIRES MB LOADER
+
+Supports 26.30+
+
+CHANGELOG
+
+- Enhanced Day and Night colors
+
+- Enhanced Day and Night Sky
+
+- Side block shadows
+
+- Added side block shadow
+
+- Improved the shadows
+
+- Also improved direct lighting
+
+- Improved the torch colors
+
+- Added spiral galaxy to the end
+
+- Also added shooting stars to the end
+
+- Changed the colors of the end sky
+
+- Added dense stars to the end
+
+- VIbrant and bright world
+
+- Glowing textures
+
+- Round Fluffy clouds
+
+- And so much more
+
+Download link to support me
+
+-If you enjoy Newb X Blissful, consider supporting the project by downloading through the support link below.
+
+[Support Newb X Blissful](https://lootdest.org/s?PazM19sH)

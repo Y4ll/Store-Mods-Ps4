@@ -1,0 +1,13 @@
+What is this Addon?
+
+This addon just modifies the lore of items you pick up and basically credits the first player who held the item by saying who obtained it. This addon was a sub project I made when I was developing another addon which modifies the lore of an item.
+
+Addon compatibility
+
+Although this addon modifies lore, I tried making it so it does no overwrite existing lore and enchantment on an item and just inserts itself under any existing lore. there might be possible issues in addons that add custom enchanment which triggers from item lore, but as long as their code only need a certain line in the lore it probably will not break.
+
+Addon Version
+
+There is the default version which adds an "Obtsined by" Lore to all items in the player inventory, and there is the Unstackable Item only, where unstackable items such as Tools, Weapon, and Armor are the only ones that get their lore modified. This help in inventory management since if a stackable item is obtained by another player, and you also have one they will not stack with each other, which could be annoying for most people.
+
+Video Demonstration:

@@ -1,0 +1,108 @@
+ChainBreaker: Ultimate Vein Miner & Tree Capitator
+
+A modern, lightweight, and highly optimized Minecraft Bedrock addon that brings seamless Vein Mining and Tree Capitator mechanics to your world, without disabling Xbox Achievements or Trophies.
+
+Mine entire ore veins, chop down massive trees, harvest crops, and clear webs in a single strike, powered by a custom lag-free queue engine designed for peak performance.
+
+Achievement Friendly: does not require any experimental toggles. Keep earning Xbox Achievements and PlayStation Trophies in your survival worlds.
+
+Key Features
+
+- 100% Achievement Friendly: no experimental toggles needed, works out of the box in survival worlds.
+
+- Vein Mining: mine entire connected ore veins instantly with any pickaxe.
+
+- Tree Capitator: fell whole trees, including leaves, roots, and mushroom stems, with a single axe chop.
+
+- Per-Player In-Game Config: each player can toggle features and customize block limits individually.
+
+- Interactive GUI Settings Menu: accessible anytime through the custom Settings Stick.
+
+- Multi-Tool Support: works with pickaxes, axes, swords, hoes, shovels, and shears.
+
+- Enchantment Compatible: fully supports Fortune and Silk Touch, with drops and XP teleported straight to you.
+
+- Tag-Based Auto Detection: native vanilla support plus generic support for custom modded trees/ores via block tags.
+
+- Zero Lag Architecture: built on a Breadth-First Search queue engine that processes blocks smoothly per tick without crashing or lagging servers.
+
+How to Use
+
+Activate Chain Mining
+
+- Hold any supported tool (pickaxe, axe, etc).
+
+- Sneak (crouch) and break a block.
+
+- All connected matching blocks break automatically, with loot and XP teleported straight to your location.
+
+Open the Settings GUI Menu
+
+- New players automatically receive a ChainBreaker Settings stick on first join.
+
+- Right-click/long-press/use the stick to open the interactive UI menu.
+
+Creating or Renaming the Settings Stick
+
+Lost your stick, or playing on a dedicated server? You can make a new one anytime:
+
+- Place a regular Stick into an Anvil.
+
+- Rename it to ChainBreaker Settings (or any name containing "ChainBreaker").
+
+- Cost: 1 XP level.
+
+- Right-click/use the renamed stick to open the menu.
+
+In-Game Configuration Options
+
+In the Settings Menu, each player can independently customize:
+
+- Vein Mining Toggle: enable or disable pickaxe vein mining.
+
+- Tree Capitator Toggle: enable or disable axe tree cutting.
+
+- Block Limit Slider: set the max blocks broken per chain (16 to 512 blocks).
+
+- Tool Toggles: enable/disable secondary tool support (sword, hoe, shovel, shears).
+
+- Reset Defaults: restore all settings to default values.
+
+Supported Blocks & Tools
+
+Tool
+Supported Blocks & Features
+
+Pickaxe
+Coal, Copper, Iron, Gold, Lapis, Redstone, Emerald, Diamond, Quartz, Nether Gold, Ancient Debris
+
+Axe
+Oak, Spruce, Birch, Jungle, Acacia, Dark Oak, Mangrove (with roots), Cherry, Pale Oak, Crimson, Warped stems and leaves
+
+Sword
+Web blocks
+
+Hoe
+Crop blocks (@tag:is_hoe_item_destructible)
+
+Shovel
+Gravel (with Fortune to Flint chance), Clay
+
+Shears
+Web, all leaf types (with automatic Silk Touch)
+
+Installation
+
+- Download ChainBreaker_v1.0.0.mcaddon and open/double-click it to import into Minecraft Bedrock.
+
+- Go to World Settings, then Behavior Packs, and activate ChainBreaker.
+
+- No experimental toggles required. Uses the Bedrock Stable Script API 1.11.0+, keeping your world achievement friendly.
+
+Compatibility
+
+- No experimental toggles needed, safe for achievement-enabled worlds.
+
+- Works with vanilla ores/trees natively, plus custom modded trees/ores through block tags.
+
+- BFS-based queue engine processes chains per tick to avoid server lag, even on large veins or forests.

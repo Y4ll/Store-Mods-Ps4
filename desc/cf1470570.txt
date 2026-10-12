@@ -1,0 +1,98 @@
+Ghost Vision X-ray Resource Pack
+
+Creator: @NeqGamerz
+
+Edition: Minecraft Bedrock Edition
+
+Distribution: Redistribution is strictly prohibited
+
+Overview
+
+Ghost Vision X-ray is a high-visibility resource pack designed to enhance underground exploration and resource detection while preserving Minecrafts original aesthetic. By subtly ghosting non-essential blocks and highlighting valuable resources, this pack provides a clean, immersive X-ray-style experience without overwhelming the player with harsh visuals.
+
+Whether you're mining, exploring caves, planning builds, or creating content, Ghost Vision X-ray helps you see what matters most.
+
+Features
+
+-
+Selective X-ray Highlighting
+
+Important blocks such as ores, spawners, and rare materials are clearly visible with enhanced contrast and glow.
+
+-
+Ghosted Block Effect
+
+Non-essential blocks appear transparent, allowing valuable resources to stand out while maintaining world readability.
+
+-
+Vanilla-Friendly Visuals
+
+Carefully balanced colors and transparency preserve Minecrafts original look and feel.
+
+-
+Optimized for Performance
+
+Lightweight textures ensure smooth performance on mobile devices and low-end systems.
+
+-
+Clean UI Compatibility
+
+No changes to HUD, menus, or fonts fully compatible with other UI packs and overlays.
+
+Best Use Cases
+
+- Resource gathering and mining efficiency
+
+- Base planning and underground building
+
+- Tutorial recording and content creation
+
+Installation Guide (Bedrock Edition)
+
+- Download the .mcpack file from the official source.
+
+- Open the file to import it into Minecraft.
+
+- Go to Settings Global Resources.
+
+- Activate Ghost Vision X-ray.
+
+- Ensure it is placed above other packs that modify ores.
+
+Recommended Settings
+
+- Graphics: Fancy (if supported)
+
+- Render Distance: 812 chunks
+
+- Brightness: Adjust to preference
+
+Compatibility Notes
+
+- Designed for modern Bedrock versions.
+
+- May conflict with packs that replace ore textures.
+
+- Glow effects may vary depending on device and game version.
+
+Permissions
+
+- Do NOT redistribute, reupload, or share modified versions.
+
+- Share only the official download link provided by the creator.
+
+Changelog
+
+v1.0.0
+
+- Initial release
+
+- Selective ore highlighting
+
+- Ghost block transparency
+
+- Performance optimization
+
+Credits
+
+Resource Pack created by @NeqGamerz

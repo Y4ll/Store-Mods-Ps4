@@ -1,0 +1,76 @@
+More Add-ons by shadowGamer100k
+If you enjoy this utility, you might find my other survival tools helpful:
+Magnet Add-on: Effortlessly collect items from a distance.
+Teleporters System: Setup advanced travel networks across your world.
+Spawner Mover: Relocate mob spawners to build the ultimate farm.
+Lock & Key: Secure your chests and doors from other players.
+Ore Finder: Locate valuable ores quickly and easily.
+
+Smart Lag Clear Addon Automatic Entity Cleanup System for Minecraft Bedrock 1.21+
+
+Smart Lag Clear Addon is a performance focused Minecraft Bedrock utility addon that automatically removes lag causing entities from the world at timed intervals. It is designed to keep survival worlds, SMP servers, and Realms running smoothly by clearing unnecessary dropped items, XP orbs, projectiles, and other heavy entities without breaking gameplay balance.
+
+If you are searching for a Minecraft Bedrock lag remover addon, clear lag mod, performance booster, or entity cleanup system, this addon is built to provide a safe and automated solution while remaining fully compatible with survival gameplay.
+
+What This Smart Lag Clear Addon Does
+The addon scans all loaded dimensions including the Overworld, Nether, and End.
+It removes ground items, XP orbs, projectiles, primed TNT, and falling blocks based on configurable settings.
+Optional logic can remove hostile mobs for emergency cleanup.
+Renamed items are protected and never deleted for safety.
+Boss mobs and named mobs are ignored to prevent griefing or world damage.
+
+Automatic Timed Clearing System
+The addon runs on a fixed timer and starts a warning countdown before clearing.
+Players receive chat messages and action bar alerts showing when cleanup will occur.
+Sound effects play during the countdown for clear feedback.
+Once the timer ends, all selected lag entities are removed instantly.
+
+Manual Admin Commands
+Players can type a chat command to force an instant cleanup.
+A warning mode can also be triggered manually with countdown enabled.
+Commands work without complex permissions or external plugins.
+
+Smart Safety Logic
+Fishing hooks are excluded from projectile cleanup.
+Named mobs are protected from deletion.
+Wither, Ender Dragon, and Warden are never removed.
+Totally safe for survival progression and boss fights.
+
+Visual and Audio Feedback
+Action bar messages show live countdown timers.
+Chat messages announce successful cleanup.
+A level up sound plays after cleanup for satisfying feedback.
+Clear success messages show how many entities were removed.
+
+Performance Optimized and Server Safe
+Uses lightweight dimension scanning logic.
+No chunk edits or block replacement.
+No heavy entity spam or unsafe loops.
+Reduces FPS drops and tick lag caused by item clutter.
+Fully safe for SMP servers and Realms.
+
+How to Use
+Install the addon in your world or server.
+Let the automatic timer run in the background.
+Watch countdown warnings appear before cleanup.
+Use the chat command to manually clear lag if needed.
+Enjoy smoother gameplay with less entity clutter.
+
+Best For
+Survival worlds
+SMP and Realm servers
+Mob farms and grinders
+Minigame servers
+Large multiplayer bases
+Vanilla plus gameplay
+
+Compatibility
+Minecraft Bedrock Edition
+Tested on version 1.21 and above
+Script based addon
+No resource pack required
+Works in singleplayer and multiplayer
+
+SEO Keywords Hidden but Ultra Powerful
+
+Minecraft Bedrock lag clear addon, clear lag Bedrock mod, lag remover Minecraft Bedrock, performance optimization addon, Bedrock performance booster, entity cleanup addon, automatic lag cleaner Minecraft, item despawn addon Bedrock, dropped item remover Minecraft Bedrock, XP orb cleaner mod, projectile remover addon, TNT cleanup mod Bedrock, falling block remover Minecraft, server lag fix addon, Bedrock server optimization mod, SMP lag clear system, Realm lag remover addon, multiplayer lag cleaner Minecraft, survival performance mod Bedrock, anti lag utility addon, tick lag reducer Minecraft Bedrock, FPS boost addon Bedro

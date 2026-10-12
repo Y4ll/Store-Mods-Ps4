@@ -1,0 +1,25 @@
+Farmer's Delight: Plus is a mod that will expand the original cooking presented by the Farmer's Delight addon.
+
+The mod adds a lot of new food, a new type of noodles and dough. You can try assorted pufferfish, rice with honey and berries, or pancakes with a variety of fillings! New feasts are also introduced by this mod.
+
+Port Permission
+
+The Farmer's Delight: Plus mod on Java edition is under the MIT License.
+
+This license allows me to port it to bedrock edition.
+
+Special thanks to Johnyele for creating this excellent mod
+
+Here is the original project link: Farmer's Delight: Plus - Modrinth
+
+About
+
+The mod adds the ability to compress some items in a similar way to the Farmer's Delight mod. From 9 items, you can get a block that can be used for compact storage or decoration.
+
+A lot of vanilla-styled meals are brought in by this mod. You can prepare meals on a crafting table or in a cooking pot from Farmer's Delight. The mod also adds new drinks and snacks that will serve as a great addition to your daily meals.
+
+Requirement
+
+This mod is an addon for the Farmer's Delight. You need to install the required addon before you are able to use this mod!
+
+- Farmer's Delight (made by Moaswies)

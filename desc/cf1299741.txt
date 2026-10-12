@@ -1,0 +1,91 @@
+As always, we start from the beginning, this addon is based on a new item dropped by the most common monsters in the game, the zombie, the skeleton and the creeper.
+
+When they die, they will drop 1 heart fragment, which will serve as a base to create all the Heart Bits
+
+Well, the first heart that you will seek to create will be the Heart Bit, with this you can create most other more powerful Heart bits.
+
+This item can be ingested to heal wounds and obviously to craft other Heart Bits.
+
+This is the list of the 8 different hearts that you can get, they all have abilities and side effects that I am sure will help you in your adventure.
+
+It is a fairly light addon, so I leave it up to you to describe the effects of each heart and the use you will give them.
+
+NEW VERSION V2
+
+In the second version of this addon, 3 new types of Heart Bits were added
+
+In addition to that, now the spiders will also drop heart fragment.
+
+Also some of the crafting was changed and balanced.
+
+NEW VERSION V3
+
+In this new version of the addon, 3 different types of Heart Bit were added that add all the beneficial effects that are in the game.
+
+New Version V4
+
+I have updated the mod for the most recent versions of Minecraft, resuming this small project, in addition to updating it, I have added a new Heart Bit that will help you a lot when farming totems: Introducing
+
+the Bad Heart Bit
+
+As a second addition, I revalued the recipes, a bit, nothing important enough to worry about, also expanding the horizons of this addon I have added a new crafting table (unused for now) with the purpose of adding more powerful hearts in the future.
+
+Altar Of Hearts
+
+And as you may have noticed, some items were added for the sole temporary purpose of creating this new altar.
+
+Heart Tool
+
+Scalpel
+
+Reinforced Heart
+
+With the support of you players, with your suggestions and constant support in this project, I will continue updating it and adding fun, interesting and useful things
+
+NEW VERSION 5
+
+As an addition to the addon, we added utility to the "Altar of Hearts" where it is now used to create more powerful versions of the heart bits.
+
+So we decided to add a new item to expand the addon's horizons, which will be used to forge the altar. Here's the "Soul Dust."
+
+Which will be obtained from mobs that are a little harder to kill, these will drop Soul Dust upon death at a rate of 0-3 per mob.
+
+New Heart Altar Recipe
+
+In addition, a new item was added to the crop family, which is coffee, which will help create the new heart bits (in the future it may have more uses and its own crop).
+
+And well, without further ado, I present to you the new and more powerful variants of the Heart Bits, the SOUL HEARTS
+
+These soul-essence enhanced hearts will give you increasingly stronger powers, this time skipping the side effects of their previous versions, such as blindness or nausea.
+
+NEW VERSION 6
+
+Okay, in this installment of the second version of the "Soul Update" I've added 4 different evolutions for the heart bits.
+
+Sight Soul Heart
+
+Detest Soul Heart
+
+Vanishing Soul Heart
+
+Hydro Soul Heart
+
+With this, the first collection of heart bits would be almost complete; the following evolutions and an armor system will be added shortly.
+
+New version 7
+
+I'm back here with another batch of Soul Hearts after a short break due to a flu that almost sent me to heaven, well, let's get on with the updates.
+
+Steal Heart Soul
+
+VillageHero Soul Heart
+
+Rush Soul Heart
+
+Satiation Soul Heart
+
+Purging HeartBit
+
+On this occasion I added one more item to the range of Heart Bits, this does not grant any power but it is essential since it removes negative effects from the player leaving the beneficial effects
+
+With this we finish the batch of Hearts of this update, let's move on to future things, this time I have added the crafting of blocks called cores, hearts and souls respectively which in addition to being perfect for decorating also have the usefulness of being ingredients to craft the new table of the mod the "F

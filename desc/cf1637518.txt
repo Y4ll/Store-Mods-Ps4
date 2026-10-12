@@ -1,0 +1,49 @@
+Chain Harvest: Achievement Friendly TreeCapitator & VeinMiner (1.21+) [MAJOR UPDATE]
+
+Looking for a TreeCapitator and VeinMiner addon for Minecraft Bedrock that does NOT disable Xbox Achievements, fully supports Silk Touch & Fortune enchantments, and heavily prioritizes your build safety? You've found it!
+
+Chain Harvest brings the ultimate quality-of-life utility to your Pure Survival worlds. Crouch and break a single log or ore block to trigger a smooth chain-reaction that harvests entire trees and ore veins instantly. With our brand-new Next-Gen Smart Build Protection, we have heavily optimized the system to prevent accidental damage to your wooden builds! All while keeping your World Achievements 100% active!
+
+Whats New & Key Features
+
+- NEW: Advanced Smart Build Protection (Highly Optimized Build Safety)
+
+The biggest fear with TreeCapitator addons is accidentally destroying your own wooden house. We have put a massive effort into rewriting our system to make it as smart and safe as possible! While no system can be claimed as purely 100% foolproof (especially with how unpredictable Nether blocks can be), we have heavily optimized the script to protect your custom builds from accidental chain-reactions.
+
+Here is how our 3-Step Build Protection tries its best to keep your base safe:
+
+- The Root Scan (Soil Detection): Before breaking a tree, the addon scans the bottom block. If the log is placed on Planks, Stone, Glass, or anything artificial, it is instantly recognized as a "Build" and will NOT trigger the chain reaction. It only chops trees grounded on natural soils (Dirt, Grass, Podzol, Nylium, Netherrack, etc.).
+
+- The Leaf Scan (Player-Placed Leaves Ignored): Overworld trees are checked for the "persistent_bit" state. If you harvest leaves with shears and place them manually for decoration, the addon knows it! It will completely ignore your decorative leaves and stop the chain reaction from destroying your custom bushes.
+
+- Nether Tree Surround Check: Since Nether Wart Blocks don't have a player-placed state, our system scans the surrounding blocks. If your Nether build touches artificial blocks (like Chests, Glass, or Planks), the addon instantly cancels the chain reaction.
+
+How to Keep Your Builds Safe (Do's & Don'ts):
+
+DON'T build your wooden house directly on bare Dirt or Grass if the walls are made of raw Logs touching natural leaves. Replace the floor under your walls with Planks, Cobblestone, or any crafted block to activate the protection!
+
+DON'T mix natural Nether Wart Blocks with other natural Nether blocks in your builds if you plan to chop them. (Always use artificial blocks for your Nether base floors/walls for safety).
+
+DO use shears to place leaves for decorationthe system will safely ignore them!
+
+100% Achievement Friendly (Survival Approved)
+
+- No Cheats Needed: Works in pure survival mode without enabling experimental toggles or cheats that lock achievements.
+
+- Earn Trophies Normally: Keep unlocking all Xbox Live Achievements and PlayStation Trophies on your main survival world.
+
+Advanced Silk Touch & Fortune Support (Rare Feature!)
+
+Unlike most Bedrock Vein Miners that break Silk Touch mechanics, Chain Harvest fully respects your pickaxe enchantments across the ENTIRE vein:
+
+- Full Silk Touch Support: Mining a vein with Silk Touch drops 100% actual Ore Blocks (e.g., Deepslate Diamond Ore, Coal Ore, Quartz Ore) for every single connected block!
+
+- Fortune I, II & III Support: Chain-mined ores apply vanilla Fortune mechanics, giving you extra diamonds, raw metals, redstone, and lapis lazuli automatically!
+
+Smart Vein Miner & Tool Tier System
+
+- Instant Vein Mining: Crouch and mine 1 ore with a pickaxe to harvest the whole connected ore vein.
+
+- NEW Tool Tier Logic: You can no longer cheat the system! Trying to mine Diamond Ore with a Stone Pickaxe will NOT trigger the VeinMiner. The addon respects Vanilla tool tiers (e.g., Iron Pickaxe required for Gold/Diamond).
+
+- Deepslate & Stone Transition: Seamless

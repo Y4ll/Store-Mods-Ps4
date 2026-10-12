@@ -1,0 +1,27 @@
+Want to fell entire trees instantly with realistic animations while keeping your achievements enabled? This addon is designed to make lumberjacking fast, smooth, and highly satisfying by adding progressive tree chopping and automatic leaf decay.
+
+Perfect for survival worlds, custom addon setups, or simply building your custom base without losing your game achievements!
+
+VIDEO EXAMPLE:
+
+KEY FEATURES:
+
+Achievements Enabled: Unlike standard behavior packs, this addon is fully optimized to keep your game achievements/trophies active in your world!
+
+Progressive & Animated Felling: Trees drop layer-by-layer from bottom to top with a smooth 6ms animation, avoiding lag and looking extremely satisfying.
+
+Leaf Decayer: Automatically breaks all connected leaves from the chopped tree, preventing floating leaves and keeping the forest clean.
+
+Custom Axes Support: Works out-of-the-box with all vanilla axes and any custom axe from other addons (as long as its item ID contains "_axe").
+
+Sneak to Disable: Simply sneak (crouch) while chopping to temporarily disable the capitator effect, allowing you to break single blocks for building or details.
+
+Lag-Free Limits: Calibrated bounds (max 30 blocks height, 4 blocks radius, and 2500 total blocks) to protect your world from crashes or lag spikes.
+
+If you want to share the addon, be sure to send the MCPEDL or CURSEFORGE addon link.
+You can also find this content on the official ADDONS UNIVERSE App!
+Remember, this content is strictly exclusive to these 3 platforms.
+
+Thanks and have fun! :D
+
+|- Download Other Incredible Addons: HERE -|

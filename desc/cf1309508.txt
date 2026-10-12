@@ -1,0 +1,29 @@
+This pack also includes options to make the fog still fade in the nether and/or to make the nether and end sky bright.
+
+Note: This is not compatible with most resource packs that modifiy the fog. Pleaes make sure it is above other packs you are using that contain files and folders such as biomes_client.json or fogs. Be sure to check the subpacks folders of your existing packs too.
+
+Water visibility - The color for each biome remains the same
+
+Powder snow visibility
+
+Nether wastes - Pack disabled vs bright sky mode
+
+Basalt Deltas - Sky color is very similar between the default and bright options
+
+Crimson Forest
+
+Warped Forest - i guess this looks similar to the end sky?
+
+Soul Sand Valley
+
+Comparison of all 4 modes in the soul sand valley:
+
+Left to right: Default, Bright. Render distance of 10 used
+
+Default, Bright, but with fading fog. Render distance of 15 was used for screenshot
+
+Lava visibility:
+
+There are two packs to install. The environment one changes the fog for underwater, in lava, powder snow, and overworld rain. It is not possible to change the darkness effect range.
+
+The nether + end one changes the fogs in the nether and the end, and includes bright sky options.

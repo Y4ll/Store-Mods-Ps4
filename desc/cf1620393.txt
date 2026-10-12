@@ -1,0 +1,125 @@
+CARRY SYSTEM - Carry Creatures, Players & Blocks Minecraft Bedrock Addon
+
+Overview
+
+CARRY SYSTEM is a Minecraft Bedrock Edition addon that adds a complete carrying system. Players can carry animals, friendly mobs, other players, and various blocks with ease.
+
+This addon makes transportation easier and adds a new gameplay experience for Survival, Multiplayer, SMP, Roleplay servers, and community worlds.
+
+---
+
+Features
+
+Carry Creatures & Friendly Mobs
+
+- Carry animals and friendly mobs easily.
+
+- Move creatures without using leads or boats.
+
+- Transport pets and farm animals faster.
+
+- Make creature management more convenient.
+
+Carry Players
+
+- Carry other players in multiplayer worlds.
+
+- Help teammates during adventures.
+
+- Add new interactions and gameplay possibilities with friends.
+
+Carry Blocks
+
+- Pick up and move different blocks.
+
+- Make building and decoration easier.
+
+- Improve construction and world management.
+
+Easy to Use
+
+- Simple and user-friendly system.
+
+- No complicated setup required.
+
+- Designed for smooth gameplay.
+
+Multiplayer Friendly
+
+- Works with multiplayer worlds.
+
+- Great for SMP servers, Roleplay servers, and survival communities.
+
+---
+
+Highlights
+
+Carry Animals
+
+Carry Friendly Mobs
+
+Carry Players
+
+Carry Blocks
+
+Easy Transportation
+
+Multiplayer Support
+
+---
+
+Supported Versions
+
+- Minecraft Bedrock Edition
+
+- Version 1.21+ and newer versions
+
+---
+
+Installation
+
+1. Download the addon file (".mcaddon").
+
+2. Open the file with Minecraft Bedrock Edition.
+
+3. Enable the Behavior Pack in your world settings.
+
+4. Enable Experimental Features if required.
+
+5. Start playing with the CARRY SYSTEM addon.
+
+---
+
+Notes
+
+CARRY SYSTEM is created to improve Minecraft Bedrock gameplay by adding a simple and useful carrying mechanic.
+
+Thank you for supporting this addon!
+
+---
+
+Tags
+
+Minecraft Bedrock
+
+Addon
+
+Carry System
+
+Carry Animals
+
+Carry Mobs
+
+Carry Players
+
+Carry Blocks
+
+Utility Addon
+
+Survival
+
+Multiplayer
+
+SMP
+
+Roleplay

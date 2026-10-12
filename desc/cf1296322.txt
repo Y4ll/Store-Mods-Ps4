@@ -1,0 +1,47 @@
+Welcome to the new version of the Family Life addon! This addon replaces Minecraft's villagers with NPCs, allowing you to chat, interact, and start a family with them.
+
+What's New?
+
+This is an improved version of the original addon, with many changes:
+
+- Artificial Intelligence (AI): Almost all interactions now use AI, from dialogues to NPC reactions when receiving a gift.
+
+- Multi-Language: Talk to NPCs in any language (English, Japanese, Russian, etc.); the AI can communicate in all of them.
+
+- More Skin Variations: Tens of thousands of skin combinations (over 16,000!), a big step up from the original addon's fixed 30-something skins.
+
+- Family Life+ Client: A dedicated client that handles all AI communication, acting as the NPCs' "brain."
+
+Features
+
+The addon offers a wide variety of interactions. You can chat idly, tell jokes, or even flirt with the blacksmith's wife! With AI, the possibilities for interacting with NPCs are virtually limitless.
+
+Features also include:
+
+- Intimacy Levels: This system measures how close you are to an NPC and is stored individually, allowing for multiplayer. The current levels are:
+
+- Friendship: Increases by doing friendly activities with the NPC.
+
+- Romance: Increases with romantic gestures, flirting, etc.
+
+Family Life+ Client - IMPORTANT
+
+To use the Family Life+ addon's AI in Minecraft Bedrock, follow the steps below:
+
+- Go to this link: https://bit.ly/49jrKt4 or https://family-life-plus-api-production.up.railway.app/api/auth/login
+
+- Log in
+
+- Copy the green command that appears.
+
+- Paste the command into your Minecraft world (with the addon active).
+
+Mandatory Configuration
+
+Before entering the world, go to your General Settings and adjust the following:
+
+- Enable: Websocket
+
+- Disable: Encrypted Websocket
+
+Important: Only the world's host needs run the /connect command. Other players don't need to do anything. From now on, a client is no longer required to use Family Life+

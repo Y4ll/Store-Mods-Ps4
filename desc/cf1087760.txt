@@ -1,0 +1,126 @@
+How does it work?
+
+This addon works by infinitely generating the backrooms below your world.
+
+How do I get to the backrooms?
+
+You can get to the backrooms by the following:
+
+- Suffocating
+
+- Flying into a wall
+
+- Anvil
+
+How do I survive?
+
+Surviving in the backrooms will be difficult, you need to worry about hunger and mobs.
+
+Floors:
+
+Level 0:
+
+Found by entering the backrooms in the overworld
+
+Escape by finding exit doors
+
+Level 1:
+
+Found by entering the backrooms in the nether
+
+Escape by finding exit doors
+
+The End is Near:
+
+Found by entering the backrooms in the end
+
+Shelfs in "The end is near" may have vhs tapes, find the red one and put it in a computer to escape. But be careful to not be noticed...
+
+Items:
+
+Almond Water:
+
+Can be found in filing cabinets or iron barrels. Drinking will fill you some hunger
+
+New Music Disc: Burning
+
+This music disc will play the backrooms song Its just a burning memory by the caretaker You can play it here,
+
+can be found in filing cabinets
+
+Shelfs in "The end is near" may have vhs tapes, find the red one and put it in a computer to escape
+
+Entities:
+
+Bactereia:
+
+Common entity
+
+Simply chases down and harms the player
+
+Facling:
+
+Common entity
+
+They spawn in both levels 0 and 1, they all have different types of personalities they can have.
+
+- Helpful, trades items, and tools, and advises the player
+
+- Ignorant, they do not interact with the player, unless provoked.
+
+- Fearful/Children avoid the player
+
+- Rude/"Attack without reason", will always attack the player
+
+Partygoer:
+
+Rare entity, found in party rooms,
+
+In a party room will have one "host" indicated by the party hat, they are a little stronger and will play music when in the area. They will drop the "Turtle Crusher" music disc
+
+Smiler:
+
+Very rare entity
+
+Found in pitch black rooms
+
+extremely fast, but a short notice range, so dont get too clone to one
+
+Library Entity:
+
+A very unique entity,
+
+Only one spawns in "the end is near" they will appear to not be in the room, only noticeable by their footsteps.
+Occasionally, or if disturbed, they will make a loud "click," this is when they are hunting.
+Please DO NOT make any noise when this is occurring, or he will bolt toward you instantly killing you.
+If you can find and look at him before he hears you he will hide again, repeating the cycle
+
+Rooms:
+
+Bathrooms:
+
+Get it.
+
+Has one toilet
+
+Party Room:
+
+Has partygoers, and balloons I guess
+
+The Exit
+
+Just a door, right clicking will let you escape the backrooms
+
+Pitch Black Room:
+
+Contains one smiler, so stay away
+
+Maintenance Room:
+
+A rare section of level 1 that contains a few things that arent really the most useful in the backrooms. But is normally safe from entities.
+
+They can be entered by a black metal door.
+
+Experiments:
+
+Be sure to turn on Custom World Generation

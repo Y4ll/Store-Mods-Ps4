@@ -1,0 +1,73 @@
+About
+
+Armored Elytra combines chest armor and Elytra flight in one survival-friendly item for Minecraft Bedrock.
+
+Craft an iron, diamond, or netherite Armored Elytra from the matching chestplate and a normal Elytra. Wear it as chest armor during regular exploration, then press jump again while falling to deploy the wings and use Minecraft's native Elytra flight. After landing, the armored form returns automatically.
+
+Features
+
+- Iron, diamond, and netherite Armored Elytra variants
+
+- Matching chestplate protection while the armored form is active
+
+- Native Bedrock Elytra gliding and firework boosting
+
+- Ordinary jumps do not change the armor indicator
+
+- Combined item textures with the Elytra wings visible behind the chestplate
+
+- Combined equipped model with armor in front and folded wings behind
+
+- Shared durability between the armored and flight forms
+
+- Preserves compatible enchantments, lore, and custom item data when switching forms
+
+- Repairable with Phantom Membranes or the matching armor material
+
+- English and Russian localization
+
+- No experimental world settings required
+
+- Compatible with Vibrant Visuals
+
+How to use
+
+- Craft an Armored Elytra by combining an Elytra with an Iron, Diamond, or Netherite Chestplate in any crafting-grid arrangement.
+
+- Equip the Armored Elytra in the chest slot.
+
+- Jump from a safe height.
+
+- While falling, press jump again to deploy the wings.
+
+- Glide and use Firework Rockets as with a normal Elytra.
+
+- Land to return automatically to the armored form.
+
+Crafting
+
+Combine an Elytra with a matching Iron, Diamond, or Netherite Chestplate. All three recipes are shapeless.
+
+Diamond Armored Elytra
+
+Iron Armored Elytra
+
+Netherite Armored Elytra
+
+Notes
+
+- When you deliberately deploy the wings, the item temporarily switches to a normal Elytra for flight. It returns to the armored form after landing.
+
+- During active flight, the armor bar temporarily reflects the vanilla Elytra state. The matching armor protection returns immediately after landing.
+
+- Crafting creates a new Armored Elytra; enchantments and existing damage on the two crafting ingredients are not transferred by the crafting recipe.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.50 or newer
+
+- Both the Behavior Pack and Resource Pack must be active
+
+- No external dependencies
+
+- No experimental settings required

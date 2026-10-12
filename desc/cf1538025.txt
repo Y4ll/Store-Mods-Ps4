@@ -1,0 +1,53 @@
+Hide Enchantments By BAKU
+
+Hide Enchantments is a lightweight Minecraft Bedrock Resource Pack designed to keep your gameplay screen clean while still allowing you to check all enchantment details whenever you need them.
+
+How It Works
+
+When you select an enchanted item during normal gameplay, the item or tool name remains visible, while enchantment text such as Sharpness, Mending, Unbreaking, Protection and other enchantments stays hidden from the gameplay HUD.
+
+Open your inventory and inspect the item normally to see the complete enchantment list again.
+
+Features
+
+- Keeps item and tool names visible
+
+- Hides enchantment text during gameplay
+
+- Enchantments remain visible inside the inventory
+
+- Enchantments continue working normally
+
+- Clean and distraction-free HUD
+
+- Lightweight Resource Pack
+
+- No scripts required
+
+- No Behavior Pack required
+
+Example
+
+Gameplay:
+Diamond Sword
+Sharpness V
+Mending I
+Unbreaking III
+
+Inventory:
+Diamond Sword
+Sharpness V
+Mending I
+Unbreaking III
+
+Perfect For
+
+This pack is perfect for players who use heavily enchanted tools, weapons or armor and want a cleaner gameplay screen without permanently removing important enchantment information.
+
+Credits & Rights
+
+Creator: BAKU
+All Credits: BAKU
+All Rights Reserved: BAKU
+
+Redistribution, re-uploading or claiming this pack as your own without permission is not allowed.

@@ -1,0 +1,21 @@
+Low Fire completely reworks Minecraft's fire textures to make flames low-profile while preserving their visual identity. No more massive, screen-obscuring blazesperfect for PvP, speedrunning or anyone who wants to see what's actually happening when things burn.
+
+Key Features
+
+- Tiny overlay fire: First-person fire is reduced to a subtle, transparent flicker at the screen's edge
+
+- Compact block flames: Fire on blocks is shrunk to ~10% of vanilla size with softened edges
+
+- Soul fire variant: Matching low-profile blue flames for soul fire/soul campfires
+
+- No performance impact: Pure texture replacementworks with any resource pack setup
+
+- Vanilla-friendly: Keeps fire's warm glow and animation style, just... smaller
+
+Why Low Fire?
+
+- PvP advantage: Spot enemies through your own fire particles
+
+- Better screenshots: No giant fire blobs ruining the view
+
+- Immersion without obstruction: See lava flows, burning mobs, and campfires clearly

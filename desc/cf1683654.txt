@@ -1,0 +1,85 @@
+Minecraft Bedrock hides a lot from you. Saturation decides how long a meal lasts and is never shown. Regeneration crawls compared to Java. Tools break with no warning, beds explode with no warning, and a cured villager says nothing at all. Vanilla Essentials fixes 16 of those, no commands, no crafting, no extra items.
+
+- Features
+
+Food and health
+
+- Java saturation bar The hidden buffer that decides how long food lasts, drawn right on your hunger bar
+
+- Java regeneration Heals at Java's fast rate while your hunger bar is full, and charges saturation for it exactly as Java does
+
+On-screen warnings
+
+- Durability warning Tells you before a tool, weapon or armour piece breaks
+
+- Bed explosion warning Says so before you blow yourself up in the Nether or the End
+
+- Inventory full alert Know the moment your mining haul starts hitting the floor
+
+- Enchanting level alert Marks level 30, the number every enchanting table wants
+
+Light
+
+- Dynamic lighting Carry a torch, lantern, or any light source and it lights the world around you
+
+- Off-hand torches Crouch to move a torch to your off hand and keep your main hand free
+
+Quality of life
+
+- Item magnet Crouch and dropped items drift to you, so a haul doesn't need sweeping off the floor
+
+- XP magnet Orbs come to you instead of sitting over the lava you just knocked something into
+
+- Crop experience Fully grown crops give a little XP when harvested
+
+- Loyalty trident rescue A Loyalty trident thrown over the void comes back instead of being lost
+
+Information
+
+- Day counter The day number at dawn and when you join
+
+- Respawn point Tells you where you'll actually wake up after sleeping or charging an anchor
+
+- Sleep counter How many players still need to be in bed to skip the night
+
+- Villager cure alert Curing a zombie villager already discounts its trades permanently; now you're told it worked
+
+- Bell raid reveal Ring a bell during a raid and every nearby raider is marked, with a count and a bearing to the closest
+
+- Coordinate converter /scriptevent ve:coords gives your position and the matching coordinates in the other dimension
+
+World and recipes
+
+- Ore Boost Extra veins of coal, copper, iron, gold, redstone, lapis and diamond, generated the way vanilla generates its own
+
+- Better recipes Horse armour becomes craftable, rotten flesh smelts into leather, wool turns back into string, and other even trades vanilla never added
+
+Everything else
+
+- Achievement-safe Does NOT disable achievements or trophies. No experiments required
+
+- Most features toggleable Switch any of them on or off in game, saved per world
+
+- Multiplayer ready Works independently for each player
+
+- Light on performance No per-tick scanning; everything runs on timed intervals and stops when there is nothing to do
+
+- Compatibility
+
+- Minecraft Bedrock Edition 1.21.90+
+
+- Works on Android, iOS, Windows, Console
+
+- Behavior Pack and Resource Pack both required
+
+- Compatible with other addons. The Resource Pack edits the HUD, so place it above other HUD packs if they conflict
+
+- Installation
+
+- Download both the Behavior Pack and the Resource Pack
+
+- Tap/double-click each to auto-import into Minecraft
+
+- Apply both to your world, under Behavior Packs and Resource Packs
+
+- Play. Everything is on by default

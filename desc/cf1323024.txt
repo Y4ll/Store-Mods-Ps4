@@ -1,0 +1,67 @@
+Auto Smelting
+
+Automatically smelts dropped items into their cooked/smelted form, and is fully configurable.
+
+Showcase Video:
+
+Features
+
+Instant Auto-Smelt on Drop
+
+- When any item entity spawns, its checked against your active list and instantly replaced with its smelted/cooked version.
+
+- Preserves stack size and item velocity for natural pickups and hopper flows.
+
+In-Game Config UI (Chest Menu)
+
+- Tweak everything without leaving the world.
+
+- Categories: Ores, Blocks, Food, Wood, Misc.
+
+- Buttons for Select All / Deselect All per category.
+
+Respects Enchantments & Vanilla Balance
+
+- Fortune amounts are honored (we keep the exact stack size you dropped).
+
+- Silk Touch behavior depends on what you enable: you decide if ore blocks smelt or stay raw (toggle per item).
+
+Admin Control
+
+- Open the config with an admin scoped command (cheats required).
+
+- Server wide settings for multiplayer worlds.
+
+How To Use
+
+- Drop or eject items (mining, mob drops, hoppers, etc.).
+
+- If enabled in your config, the item auto-smelts into its cooked/smelted version instantly.
+
+Command
+
+- /smelting:config Opens the Auto Smelting Config menu (Admin only, cheats required).
+
+From there, choose a category toggle individual items, or Select All / Deselect All.
+
+Known Limitations / Tips
+
+- Some Addon may not work if they use custom ui.
+
+- Some modded items may need explicit mappings in your recipe data.
+
+Do's & Don'ts
+
+You Can
+
+- Use this addon in your videos, streams, and other content as long as you credit me.
+
+- Share the official CurseForge link to download it.
+
+You Cannot
+
+- Distribute the direct download file anywhere.
+
+- Claim the addon as your own or remove my credit.
+
+- Re-upload the addon to other sites without my permission.

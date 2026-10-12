@@ -1,0 +1,189 @@
+Experience Dynamic Lighting in Bedrock like your using Java Optifine.
+
+In dark caves:
+
+Items can also emit light
+
+Now, you can add a torch to your helmet:
+
+Recipe for Mining Helmet:
+
+You can switch an item to your offhand by sneaking twice
+
+Entities including Players that is on fire also emit lights
+
+Glow Squid, Magma Cube, and Blaze now emits light
+
+When holding items that has enchants, it emits light level 5
+
+Actions and Stuff compatible
+
+List of things that emit lights
+
+Light Items 4
+
+- Magma
+
+- Breeze Rod
+
+- Large Amethyst Bud
+
+Light Items 5
+
+- Enchanted Items
+
+- Enchanted Book
+
+- Enchanted Golden Apple
+
+- Nether Star
+
+- Sculk Catalyst
+
+- Glowstone Dust
+
+- Experience Bottle
+
+- End Crystal
+
+- Blaze Powder
+
+- Firefly Bush
+
+- Amethyst Cluster
+
+- Blaze Rod
+
+Light Items 6
+
+- Redstone Torch
+
+Light Items 7
+
+- Ender Chest
+
+- Enchanting Table
+
+- Glow Lichen
+
+- Magma Cream
+
+- Totem Of Undying
+
+Light Items 8
+
+- Crying Obsidian
+
+- Soul Torch
+
+- Soul Lantern
+
+- Soul Campfire
+
+- End Rod
+
+- Conduit
+
+- Glow Frame
+
+- Ender Eye
+
+Light Items 10
+
+- Torch
+
+- Lava Bucket
+
+- Glowstone
+
+- Campfire
+
+- Lit Pumpkin
+
+- Beacon
+
+- Lantern
+
+- Sea Lantern
+
+- Sea Pickle
+
+- Shroomlight
+
+- All Froglights
+
+- Glow Ink Sac
+
+- Fire Charge
+
+- Iron Mining Helmet
+
+- Diamond Mining Helmet
+
+- Gold Mining Helmet
+
+- Netherite Mining Helmet
+
+- All Candles
+
+Sea Light Items
+
+- Conduit
+
+- Sea Pickle
+
+- Glow Ink Sac
+
+Entities Light
+
+- Blaze
+
+- Magma Cube
+
+- Glow Squid
+
+- Ender Eye
+
+7 commands in the mod:
+
+/jdl disable
+
+/jdl enable
+
+/jdl inc <num>
+
+/jdl dec <num>
+
+/jdl reset
+
+/mode mobile
+
+/mode default
+
+Light Levels are now shown in items as lores
+
+<num> can be any number
+
+inc is to increment the light levels
+
+dec is to decrement the light levels
+
+To use mobile mode: click the interact button 2 times to swap offhand
+
+- Works with Vibrant Visuals -
+
+- Works with Actions & Stuff -
+
+NEW UPDATE - 2.6.4
+
+- Netherite Mining Helmet now doesn't burn on lava and fire
+
+----------------------------
+
+Leave suggestions on the comments.
+
+Only modify for personal use.
+
+Join my discord server here!
+
+---------------------------

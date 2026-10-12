@@ -1,0 +1,74 @@
+VIBRANT VISUALS ARE NOT COMPATIBLE + NO EXPERIMENTAL TOGGLES ARE NEEDED
+
+JOIN THE DISCORD
+
+Aqueous Depths Introduces several new features to the Oceans, including new biomes, structures and even a whole new boss!
+
+BIOMES:
+
+Drenched Void: the Drenched Void is a biome that has very dark and foggy waters, the biome itself can extend all the way to the bottom of the world
+
+Thermal Seas: the Thermal Seas are a yellow colored ocean with magma, boiling bubbles and floating islands, it has a bunch of fire themed mobs in the water
+
+Glowing Ocean:
+Glowing Oceans feature Sea Glowstone, Glowing Cod and Glow Squids!
+
+Dread Reef: the Dread Reef is a pale version of the coral reef with pale fish and an exclusive hostile mob:
+
+Island Ocean: Island Ocean consists of several islands and spikes
+
+Iceberg Ocean: the Iceberg ocean is a variant of the Frozen Ocean featuring tall icebergs and spikes
+
+MOBS:
+
+Mobs in the pack have a food chain system, if a mob is classed as a predator, pray or neutral, theyll behave differently.
+
+Prey: Mostly passive mobs (all fish and squids are classified as pray)
+Neutral: will attack when provoked or attack certain mobs to just kill them (guardians and drowned are classed as neutral)
+Predator: Hostile to nearly everything in the water (you can throw chum clusters in the water to make them avoid you)
+
+Clams: Clams are mobs that can be found in all the ocean biomes, when killed they drop food, when they have their mouth open, use shears on them to obtain a pearl, the pearl color is dependent on the color of the clam, each color is found in a different biome
+(Classification: Prey)
+
+Jellyfish: Jellyfish just swm around and glow, nothing too special
+(Classification: Prey)
+
+Reefopods: Reefopods spawn in coral reefs and swim around the area
+(Classification: Prey)
+
+Shrimp: Shrimp are another fish mob that drops food:
+(Classification: Prey)
+
+Sea Snail: Sea Snails spawn in all ocean biomes and have colored varients depending on the biome they spawn in, they hide in their shells when predator mobs come by or when a player swims near them:
+(Classification: Prey)
+
+Merfolk: Merfolk are a humanoid race that attacks players that arent wearing Scrap Metal Armor, they can be traded with when not provoked (you can cycle their trades by provoking them). they attack undead mobs, the babies can be adopted via giving them Malachite, when adopted they can be fed, given potions and milk and many other things, when the adopted merfolk becomes an adult, you can give them armor and weapons and they will fight for you (they also have a few secret interactions with certain items)
+
+(they also have a completely hostile brute version which is the 3rd image)
+
+(Classification: Neutral and Prey)
+
+Sea Urchin: Sea Urchins are slow moving creatures that attack anything that comes in contact with them, they drop Sea Urchin spines when killed
+(Classification: Neutral)
+
+Bubbaling: Bubbalings swim around players and will attack when attacked first, when theyre attacked, all nearby bubbalings attack with them as a group
+(Classification: Neutral)
+
+Magma Puffer: Magma Puffers are similar to pufferfish, except they start doing damage when theyre in the second puff stage, when theyre fully puffed they deal more damage and gain wither effect, if they die in their full puff stage they explode
+(Classification: Neutral)
+
+Abyss Guardian: Abyss Guardians spawn in Structure Block Shrine structures, they fire out beams that explode into a bunch of boiling hot bubbles
+(Classification: Neutral)
+
+Prismarine Foes: Prismarine Foes spawn with randomized prismarine equipment and are fast moving
+(Classification: Neutral)
+
+Sunken Golem: Sunken Golems spawn near marble ruins, they serve as guardians for the structure
+
+(Classification Neutral)
+
+Sunken: Sunkens are water skeletons that throw Wooden Harpoons at players, when the player gets up close it switches to attacking you up close instead of throwing:
+
+(Classification Neutral)
+
+Adaptive Drowned: Adaptive Drowneds are similar to

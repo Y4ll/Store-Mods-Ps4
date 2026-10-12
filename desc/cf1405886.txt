@@ -1,0 +1,45 @@
+Zyra Visuals Cinematic Vibrant Experience
+
+Zyra Visuals is a high-quality Vibrant Visuals Pack designed to transform Minecraft Bedrock into a cinematic, atmospheric experience.
+
+Built for players who want rich lighting, enhanced skies, immersive fog, and deeper visual depth, this is the original and full-featured edition of Zyra.
+
+Important Requirement
+
+Zyra Visuals requires Vibrant Visuals to function properly.
+
+Make sure Vibrant Visuals is enabled in your Minecraft settings.
+
+What Zyra Visuals Offers
+
+Advanced cinematic lighting
+
+Realistic soft shadows
+
+Enhanced sky atmosphere (sunset, night, weather)
+
+Volumetric-style fog for depth
+
+Balanced HDR-like color grading
+
+Refined water visuals and reflections
+
+Carefully tuned atmosphere for immersion
+
+This version focuses on maximum visual quality, designed for mid to high-end devices.
+
+Version Notice (0.3.0 and Above)
+
+Starting from Update 0.3.0, Zyra Visuals has been separated into two projects:
+
+Zyra Visuals Heavy / Cinematic Edition (this project)
+
+Newb x Zyra Optimized version for low-end devices (separate project)
+
+If you are using a low-end device, please download Newb x Zyra instead.
+
+Designed for Atmosphere
+
+Zyra Visuals is not about extreme saturation or unrealistic effects.
+
+It is about balance, mood, and immersive environments bringing Bedrock closer to a cinematic visual experience while respecting vanilla style.

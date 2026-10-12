@@ -1,0 +1,11 @@
+The Obelisk is a mob that will watch you at night; it may stalk you, attack you, and even kill you. Be very careful when walking around your world; it will spawn in plains, caves, and forests. He will do anything to kill you.
+
+Hp: 250
+
+speed: 0.42
+
+damage: 2
+
+attack speed: 0.1
+
+DO NOT REUPLOAD MY ADDON ON ANY PLATFORM: curseforge, MCPEDL, YouTube (only videos and Showcase, make the download available only with the credits and original link) and MODBAY

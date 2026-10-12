@@ -1,0 +1,65 @@
+Deesse UI Pack is an UI resource pack that adds new features, tweaks and UI designs to make your Minecraft gameplay better!
+
+Creator: @Itzriyo157 (https://youtube.com/@Itzriyo157)
+
+Discord Server: https://discord.gg/n35gR2PXMb
+
+Want to support my work? Feel free to support me using the link below. <3
+
+https://ko-fi.com/itzriyo157
+
+Video Showcase:
+
+I highly recommend watching the video for a better explanation of the features.
+
+Latest Showcase:
+
+Features:
+
+To see the features list, you can open About UI screen/Features inside this UI pack. I've provided some screenshots of this UI pack in the Images section to give you an idea of what to expect :)
+
+Credits:
+
+@tlgm2308 (X/Twitter):
+
+- Some inspirations content and smithing armor preview idea.
+
+@Dimzcraft (Curseforge):
+
+- Chunk viewer and durability item text code.
+
+@T1M0THY (Youtube):
+
+- Toggle Night Vision (Curseforge)
+
+The Andromedarius (Mcpedl):
+
+- Dynamic Day Counter Idea.
+
+drav0011 (bedrocktweaks.net):
+
+Auto Complete Chat Buttons.
+
+Compability:
+
+Some of the features of this pack are a combination of other packs that I have made as follows:
+
+- Quick Container
+
+- Force Spectator
+
+- Player List Hud
+
+- Item Rarity Highlighter
+
+- Temporary Notes
+
+- Bundle Item Counter
+
+- Trade Utils
+
+- Hover Text Fixer
+
+that means, this UI Pack is not compatible with the packs I mentioned above because those packs are already in this UI Pack.
+
+Thanks you for using my pack~~~

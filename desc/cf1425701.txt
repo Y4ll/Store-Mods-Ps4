@@ -1,0 +1,63 @@
+Espanol
+
+Faithful Bedrock Edition Unified Pack es un paquete de texturas para Minecraft Bedrock Edition basado en el proyecto Faithful oficial, cuyo objetivo es mantener el estilo visual original de Minecraft (vanilla) mientras aumenta la resolucion y el nivel de detalle.
+
+Este proyecto reune en un solo paquete las resoluciones disponibles de Faithful para Bedrock Edition, facilitando su instalacion, compatibilidad y uso en todas las plataformas Bedrock.
+
+Creditos y atribucion
+
+Faithful es un proyecto desarrollado y mantenido por el Faithful Team y sus colaboradores.
+
+- Proyecto original: Faithful
+
+- Autores: Faithful Team
+
+- Sitio web oficial: https://faithfulpack.net
+
+- Repositorio oficial: https://github.com/Faithful-Resource-Pack
+
+Este proyecto no reclama la autoria ni la propiedad de la marca Faithful ni de sus recursos originales.
+
+El trabajo realizado aqui corresponde unicamente a la adaptacion, empaquetado y compatibilidad para Minecraft Bedrock Edition.
+
+Enlaces oficiales de Faithful
+
+- Sitio web oficial: https://faithfulpack.net
+
+- Descargas oficiales: https://faithfulpack.net/downloads
+
+- Repositorio GitHub: https://github.com/Faithful-Resource-Pack
+
+- Informacion del proyecto: https://faithfulpack.net/about
+
+English
+
+Faithful Bedrock Edition Unified Pack is a texture pack for Minecraft Bedrock Edition based on the official Faithful project, designed to preserve Minecrafts original vanilla look while increasing resolution and visual detail.
+
+This project combines the available Faithful resolutions for Bedrock Edition into a single, unified package, making installation and compatibility across all Bedrock platforms easier.
+
+Credits and attribution
+
+Faithful is a project developed and maintained by the Faithful Team and its contributors.
+
+- Original project: Faithful
+
+- Authors: Faithful Team
+
+- Official website: https://faithfulpack.net
+
+- Official repository: https://github.com/Faithful-Resource-Pack
+
+This project does not claim ownership or authorship of the Faithful brand or its original assets.
+
+The work presented here is limited to adaptation, packaging, and compatibility for Minecraft Bedrock Edition.
+
+Official Faithful links
+
+- Official website: https://faithfulpack.net
+
+- Official downloads: https://faithfulpack.net/downloads
+
+- GitHub repository: https://github.com/Faithful-Resource-Pack
+
+- Project information: https://faithfulpack.net/about

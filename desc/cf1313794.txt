@@ -1,0 +1,29 @@
+Xiao Enhanced Visuals wraps Bedrock in warm, film-like light, amber haze drifting between the trunks, sunsets that burn rose and gold across the whole sky, and volumetric fog tuned biome by biome.
+
+- Per-Biome Volumetric Fog - 19 Profiles Across 89 Biomes
+
+- Warm Volumetric Haze & Amber God Rays
+
+- Rose-to-Gold Skies, Dawn to Midnight
+
+- 109 Coloured Light Sources - Torches, Lanterns, Froglights, Candles, Copper Bulbs, Sculk & Amethyst
+
+- Reflective Water, Animated Caustics, Multi-Octave Waves, Depth-Graded Clarity
+
+- Soft Shadows
+
+- Dedicated Nether & End Atmospherics
+
+- Two Resolution Subpacks - Lightweight Default & Full-PBR 32x, with custom Sun & Moon
+
+- Compatible with other Packs
+
+Installation:
+
+- Download the Xiao Enhanced Visuals.mcpack
+
+- Open it to import
+
+- Enable Xiao Enhanced Visuals in your resource packs
+
+- Turn on Vibrant Visuals

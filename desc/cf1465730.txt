@@ -1,0 +1,65 @@
+Java Containers
+
+Ashura_Temps 2026
+
+Notes
+
+- This pack is a work in progress, so expect texture improvements and bug fixes.
+
+- You can leave feedback on discord or in the comments here.
+
+Compatible Packs & Load Order
+
+Load Java Containers Above
+
+- VDX: Java/Desktop UI
+
+Load Java Containers Below
+
+- Thickly Be-Beveled Buttons
+
+- Jei Recipe Book Layout
+
+- Deesse UI Pack
+
+- Overcomplicated Brewing Guide
+
+- Container Utilities
+
+Preview Images
+
+Permissions & Usage
+
+Allowed
+
+- Share the pack only by linking to this page.
+
+- Create videos/reviews if clear credit is given to ashura_temps and the official download link is included.
+
+Not Allowed
+
+- Converting/porting Java textures to Bedrock using my texture pack.
+
+- Redistributing, reuploading, or sharing my files elsewhere.
+
+- Modifying UI files or code.
+
+- Using MediaFire/direct links/mirrors.
+
+Legal Notice
+
+Ashura_Tepes, 2026. All Rights Reserved.
+
+- "All Rights Reserved" means I retain full copyright control. No one may redistribute, modify, or use my work beyond the permissions explicitly granted above unless I have given my permission.
+
+- By downloading, you agree to the above.
+
+Disclaimer
+
+- This pack aims to faithfully reproduce the look and feel of Minecraft Java Edition's containers within Bedrock Edition.
+
+- Most textures, UI elements, and layout designs are property of Mojang Studios.
+
+- These are based on or modified from Minecraft Java Edition assets and interface designs, and are used here under Mojang's Minecraft End User License Agreement (EULA).
+
+- All UI code is original and made entirely by me.

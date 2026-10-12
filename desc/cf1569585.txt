@@ -1,0 +1,65 @@
+FMC's Simple Java Combat
+
+Bring the feel of modern Java Edition combat to Minecraft Bedrock Edition with FMC's Simple Java Combat. This addon completely transforms player-versus-player and player-versus-mob battles by introducing attack cooldowns, critical hits, sweep attacks, enhanced axe combat, sprint knockback, and live combat indicators.
+
+Instead of mindless spam-clicking, every attack now matters. Time your hits carefully, master critical attacks, and learn advanced combat mechanics to gain the upper hand in every fight.
+
+Core Features
+
+- Attack Cooldown System Spam clicking is no longer effective. A charge bar appears in the action bar, and maximum damage is only dealt when your weapon is fully charged and marked as Ready.
+
+- Critical Hits Strike enemies while falling to deal 1.5 bonus damage. Successful critical hits trigger special sounds and red critical particles.
+
+- Sword Sweep Attacks Fully charged sword attacks damage nearby enemies, making crowd control much more effective during combat.
+
+- Axe Combat Improvements Axes deal higher damage and can break through defensive players, making them a powerful PvP weapon choice.
+
+- Sprint Knockback Fully charged sprint attacks launch enemies much farther away, creating opportunities for powerful combos.
+
+- Live Combat Information Instantly view enemy health and damage dealt after every successful attack.
+
+- Enhanced Combat Feedback Combat particles, sounds, and visual indicators make every battle feel more impactful and satisfying.
+
+Why Use FMC's Simple Java Combat?
+
+Minecraft Bedrock combat often rewards rapid clicking over strategy. FMC's Simple Java Combat changes that by rewarding timing, positioning, and skill. Whether you're fighting mobs in survival or challenging friends in PvP battles, every encounter becomes more tactical and engaging.
+
+Master cooldown management, land devastating critical hits, utilize sweep attacks against groups, and take advantage of powerful axe mechanics to dominate the battlefield.
+
+Compatibility
+
+- Achievement Friendly
+
+- No Experimental Features Required
+
+- Multiplayer Compatible
+
+- Survival Friendly
+
+- Does Not Require Cheats
+
+- Minecraft Bedrock Edition Supported
+
+- Optimized for Smooth Gameplay
+
+Installation Guide
+
+- Download the addon file.
+
+- Open it using ZArchiver or any file manager app.
+
+- Select "Open With" and choose Minecraft.
+
+- Wait for the addon to import.
+
+- Open your world settings.
+
+- Enable the addon inside the Behavior Packs section.
+
+- No Experimental Features are required.
+
+- Enter your world and experience Java-style combat.
+
+Created by FleetMc Studio
+
+Images

@@ -1,0 +1,44 @@
+Custom Blaze Loot Drop
+
+Custom Blaze Loot Drop addon tweaks the loot of the Blaze, allowing them to drop custom number of blaze rods upon defeat. Whether you're looking to speed up potion brewing, reward Nether exploration, or build a more balanced progression system, this addon brings more purpose to every smoky battle. No need for scripts or complex commandsthis addon is fully vanilla-compatible, seamlessly integrating into your world without breaking core mechanics. Its perfect for map makers, survival players, or creators building custom challenges, quest systems, or unique economies. Make every Blaze drop count, and bring a new spark to your Nether adventures!
+
+There are options when you want to customize the loot drop of Blaze:
+
+1. 1 to 10 Loot Drops
+
+2. 11 to 20 Loot Drops
+
+3. 21 to 30 Loot Drops
+
+4. 31 to 40 Loot Drops
+
+5. 41 to 50 Loot Drops
+
+6. 51 to 60 Loot Drops
+
+7. 61 to 70 Loot Drops
+
+8. 71 to 80 Loot Drops
+
+9. 81 to 90 Loot Drops
+
+10. 91 to 100 Loot Drops (Default)
+
+If you want to know what/where is the options for you to choose, click here to redirect you to the guide video.
+
+NOTE: DO NOT reupload or claim this addon as your own. If you want to share, direct them to this download page or my profile instead.
+
+If you want to give feedbacks, feel free to comment or join our discord server ^-^. Thank you!
+
+Follow for more addons!
+Click the links to direct you to my accounts:
+
+Curseforge - https://www.curseforge.com/members/itsmexd/projects
+MCPEDL - https://mcpedl.com/user/itsmexd/
+Youtube - http://www.youtube.com/@itsmexd890
+Instagram - https://www.instagram.com/itsmexd890/
+TikTok - https://www.tiktok.com/@itsmexd949
+X (formerly Twitter) - https://x.com/INoob10500
+
+And join our Discord server!
+Discord: https://discord.gg/R2a6N7kTFb

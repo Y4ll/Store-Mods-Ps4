@@ -1,0 +1,5 @@
+Hello! This resource pack is a pack that changes the color of pink glass and pink glass panes to a Cherry Wood Pink, that way it fits better into builds with Cherry Wood:
+
+Before:
+
+After:

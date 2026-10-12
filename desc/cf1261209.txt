@@ -1,0 +1,92 @@
+Have you ever wondered what it would be like to play Minecraft with extra abilities? Or have you seen the Origins Mod for the Java Edition, thought about how fun it would be to play, but can't because you can only play on Bedrock? Well then this addon is for you! Disclaimer for people looking for the Origins Mod for the Java Edition or a version of it for Bedrock Edition! This is in no way a perfect replica of the original Origins Mod for the Java Edition! Some things have been changed to work properly within the limitations of the Bedrock Edition, while also attempting to keep the features as close to the style of the original mod and keep the origins as balanced as possible!
+
+undefined
+
+Latest Verison
+
+The lastest version of this addon available on MCPEDL is v1.5.1, view the changelog to see what has changed, or the full changelog following the Google Doc link at the bottom of the changelog.
+
+Origins Bedrock Edition Discord
+
+We have a Discord server for this addon, join it if you would like to be more involved with the addon and get notified of any updates!
+Discord Invite : https://discord.gg/Mypr3MqpcP
+
+Origins Bedrock Edition Archive Site
+
+One of the Custom Origin Creators, Eden, has a Google Site that serves as an archive for origins that are a part of this addon, and all of the custom origin addons that are publicly available, we would recommend checking it out!
+
+Archive of Origins : https://sites.google.com/view/archiveoforigins/home
+
+Information and List of Origins
+
+This addon adds origins that people can select at the beginning of their game and play with. These origins are based on creatures that give you special abilities that also come with balancing side effects.
+
+The origin selection screen:
+
+Base Origins
+
+Human
+
+Human
+
+A regular human. Your ordinary Minecraft experience awaits.
+
+Avian
+
+Avian
+
+The Avian race has lost their ability to fly a long time ago. Now these peaceful creatures can be seen gliding from one place to another.
+
+Featherweight : You fall as gently to the ground as a feather would, unless you sneak.
+
+Fresh Air : When sleeping, your bed needs to be at an altitude of at least 86 blocks, so you can breathe fresh air.
+
+Tailwind : You are a little bit quicker on foot than others.
+
+Oviparous : Whenever you wake up in the morning, you will lay an egg.
+
+Like Air : By sprinting in the air, you will move much faster.
+
+Vegetarian : You can't digest any meat.
+
+Arachnid
+
+Arachnid
+
+Their climbing abilities and the ability to trap their foes in spiderweb make the Arachnid perfect hunters.
+
+Climbing : You are able to climb up any kind of wall, not just ladders, by jumping continuously on touch screen, or holding jump otherwise to ascend, touching a wall to descend, and sneaking to cling to the wall. This is toggleable by a Primary Power.
+
+Webbing : When you hit an enemy with an empty hand, they get stuck in cobweb and you have to wait a short cooldown before using it again.
+
+Spider Sense : You can see clearer in dark places when not submerged in water.
+
+Carnivore : Your diet is restricted to meat, you can't eat vegetables.
+
+Fragile : You have 3 less hearts of health than humans.
+
+Elytrian
+
+Elytrian
+
+Often flying around in the winds, Elytrians are uncomfortable when they don't have enough space above their head.
+
+Winged : You have Elytra wings without needing to equip any.
+
+Gift of the Winds : Every 30 seconds, you are able to launch about 20 blocks up into the air by using your Primary Power item.
+
+Aerial Combatant : You deal substantially more damage while in Elytra flight.
+
+Need for Mobility : You can not wear any heavy armor (armor with protection values higher than iron).
+
+Claustrophobia : Being somewhere with a low ceiling for too long will weaken you and make you slower.
+
+Brittle Bones : You take more damage from falling and flying into blocks.
+
+Shulk
+
+Shulk
+
+Related to Shulkers, the bodies of the Shulk are outfitted with a protective shell-like skin.
+
+Hoarder : You have access to an additional 9 slots of i

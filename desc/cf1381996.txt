@@ -1,0 +1,127 @@
+Warblocks: Warthunder is a Minecraft Bedrock addon that brings unprecedented realism to ground and air combat. Inspired by War Thunder, this mod adds 17 fully functional vehicles with advanced controls, realistic animations, and authentic behavior.
+
+Works on 1.21.+ Minecraft Bedrock + All Experimental On
+
+10 realistic combat tanks
+
+7 fully armed and flyable aircraft
+
+Each vehicle faithfully reproduces real-world behavior: movement, turret rotation, gun elevation, sound effects, shooting particles, explosions, and more.
+
+During combat with any vehicletanks or aircraftplayers see:
+
+HIT when a target is struck
+
+TARGET DESTROYED when a target is destroyed
+
+Revolutionary Damage System
+
+This is the first mod in the world to feature a complete weakspot and strongspot system on tanks:
+
+Front armor is heavily reinforced and resists most shots.
+
+Sides and rear are vulnerable: a well-placed shot can destroy a tank in a single hit.
+
+Each tank has its own weak points:
+
+M4A1, M26 Pershing, M4A3(76)W weakspot on the hull machine gun
+
+T-34/76 and IS-1 weakspot on the driver hatch
+
+This system makes combat tactical, strategic, and immersive, like a true war simulator.
+
+Aviation and Armament
+
+Aircraft are fully flyable and equipped with functional machine guns.
+
+Some models also carry droppable bombs for ground attacks.
+
+Included Vehicles
+
+Aircraft:
+
+Ki-84 Hayate (Japan)
+
+La-5FN (USSR)
+
+P-38 Lightning (USA)
+
+P-51D Mustang (USA)
+
+SBD Dauntless (USA)
+
+Ju 87 B-2 Stuka (Germany)
+
+Yak-9 (USSR)
+
+Tanks:
+
+IS-1 (USSR)
+
+M4A1 Sherman (USA)
+
+M4A3(76)W Sherman (USA)
+
+M26 Pershing (USA)
+
+Panther D (Germany)
+
+Panzer IV Ausf. J (Germany)
+
+SU-152 (USSR)
+
+T-34 Model 1942 (USSR)
+
+Tiger II (10.5cm KwK) (Germany)
+
+Tiger I Ausf. E (Germany)
+
+Key Features
+
+Fully animated vehicles (wheels, turrets, guns)
+
+Engine, shooting, impact, and destruction sounds
+
+Custom camera and immersive interface
+
+Realistic visual effects and particles
+
+Functional firing system for tanks and aircraft
+
+Realistic Combat Experience
+
+Face friends or recreate historical battles:
+
+Aim for weakspots to maximize damage
+
+Feel the power of every shot and explosion
+
+Enjoy a combat system designed for realism and strategy
+
+Warblocks: Warthunder is the ultimate reference for modern combat in Minecraft Bedrock.
+
+Credits
+
+Development, concept, and direction: Whiteklr
+
+Tank systems and controls: Bateman
+
+3D modeling of M4A1 and Tiger II 10.5cm: Ritter115
+
+3D modeling of Yak-9 and Ju 87 B-2: JohnErvs18
+
+Hull machine gun and shooting particles imported from The World Wars by Fritzer
+
+Explosion and smoke particles imported from Crafterfield WW2
+
+(If the use of these particles causes any issue for their creators or developers, they will be replaced with original versions.)
+
+Map used for panoramas: Western Front v2 by TheFrenchGuyWW2
+
+Shader used for panoramas: Newb x Plus
+
+Community / Links
+
+YouTube Showcase: https://youtube.com/@whitekkr?si=gdayKivPEbm5pgZt
+
+Discord (Development, Early Access, Events): https://discord.gg/XghRhG5cR8

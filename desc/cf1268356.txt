@@ -1,0 +1,11 @@
+An extended Yummysheep shader for Minecraft Bedrock RTX. The ordinary Yummysheep shader still supports RTX, but this is an optimised version. Please be aware that Only devices with NVIDIA GeForce RTX graphics cards can use RTX. DO NOT USE BOTH Yummysheep shader and Yummysheep shader RTX simultaneously!!!
+
+In Game Screenshot
+
+How to Use
+
+1. Download Yummysheep Shader RTX and Vanilla RTX (click to download).
+
+2. Upload it to Minecraft and activate it with RTX pack.
+
+Enjoy it!

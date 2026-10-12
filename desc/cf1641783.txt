@@ -1,0 +1,94 @@
+ACD Shaders
+
+ACD Shaders is a high-quality shader pack for Minecraft Bedrock Edition, designed to deliver realistic graphics and cinematic lighting while maintaining excellent performance on mid-range devices.
+
+Built using Minecraft's official Vibrant Visuals rendering system, ACD Shaders enhances the game's atmosphere with realistic lighting, animated water, soft shadows, volumetric effects, and improved environmental details without compromising performance.
+
+REQUIRES VIBRANT VISUALS TO WORK
+
+Features
+
+- Realistic dynamic lighting
+- Animated Gerstner water
+- Volumetric God Rays
+- Atmospheric height fog
+- Volumetric clouds
+- Soft shadows
+- Weather-based visual effects
+- Improved reflections
+- Enhanced End sky
+- Custom Nether atmosphere
+- Cinematic ACES color grading
+- Animated vegetation
+- Optimized for mid-range devices
+
+Performance
+
+ACD Shaders has been carefully optimized to provide an excellent balance between visual quality and performance. It is designed for players who want a modern graphical experience without requiring high-end hardware.
+
+Screeshots of luminic items/blocks
+
+Tourches:
+
+Lanterns
+
+Campfires and furnace
+
+More tomorrow!! (this took me 2 hours)
+
+Requirements
+
+- Minecraft Bedrock Edition (1.20.x, 1.21.x or 26.x)
+- Vibrant Visuals enabled
+- Compatible with the official RenderDragon renderer
+
+Installation
+
+1. Download the .mcpack file.
+2. Open it with Minecraft Bedrock Edition.
+3. Activate the Resource Pack.
+4. Enable Vibrant Visuals in your world's graphics settings.
+5. Launch your world and enjoy ACD Shaders.
+
+Compatibility
+
+- Minecraft Bedrock Edition
+- Windows
+- Android
+- iOS
+- Xbox (only with some file emulator)
+- Other platforms compatible with RenderDragon and Vibrant Visuals (it can also be without vibrant visuals)
+
+Feedback
+
+If you enjoy ACD Shaders, consider leaving a rating and sharing your feedback. Your support helps improve future updates and new features.
+
+Support
+
+Found a bug, experienced a compatibility issue, or have a suggestion for improving ACD Shaders? We'd love to hear from you.
+
+ACD Shaders is still under active development. While every release is carefully tested, you may occasionally encounter bugs or unexpected behavior. We greatly appreciate your feedback and bug reports, as they help us improve the project with every update.
+
+Contact Email:
+
+acdstudios@outlook.com
+
+When reporting an issue, please include:
+
+Minecraft Bedrock version
+
+Device model and operating system
+
+A detailed description of the issue
+
+Screenshots or videos (if available)
+
+Steps to reproduce the problem
+
+Your feedback helps us improve ACD Shaders and deliver better updates in the future.
+
+FOLLOW OUR WHATSAPP CHANNEL TO BE THE FIRST TO KNOW OUR NEW CREATIONS!
+
+https://whatsapp.com/channel/0029VbCwn509MF8tx66rla2V
+
+You are not permitted to publish this shaderpack on another website or claim it as your own! This shader belongs to ACD Studios and was only published on MCPEDL and CURSE FORGE

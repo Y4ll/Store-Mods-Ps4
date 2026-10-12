@@ -1,0 +1,41 @@
+Villager Trade Reset MCPE Addon
+
+Reset Villager Trades Anytime!
+
+Villager Trade Reset is a lightweight Minecraft Bedrock / MCPE addon designed to make villager trading easier and more convenient. Reset or refresh villager trades without repeatedly breaking and replacing their workstation.
+
+Features
+
+- Quickly reset villager trades
+
+- Works with villager trading
+
+- Useful for finding better trades
+
+- Simple and easy to use
+
+- Survival-friendly
+
+- Designed for Minecraft Bedrock / MCPE
+
+- Great for survival worlds, SMPs and trading setups
+
+Why Use This Addon?
+
+Tired of breaking and replacing job blocks again and again while searching for the perfect villager trade? This addon makes the process much more convenient, helping you manage villager trades faster and keep your trading setup clean.
+
+Compatibility
+
+Platform: Minecraft Bedrock Edition / MCPE
+Type: Behavior Pack / Addon
+Best For: Survival, SMP & Trading Worlds
+
+Credits
+
+Creator: Baku
+
+All addon development, design and customization credits go to Baku. Please do not re-upload, redistribute or claim this addon as your own without permission.
+
+Enjoy Better Trading!
+
+Download, activate the addon in your Bedrock world and make villager trading more convenient!

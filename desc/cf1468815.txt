@@ -1,0 +1,7 @@
+Better Villagers adds variants to every aspect of villagers, this includes adding slight variations for each profession, skin tones , and biome based variants for wandering traders.
+Entities affected by this pack: Villager, Zombie Villager, Wandering Trader.
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

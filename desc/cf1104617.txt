@@ -1,0 +1,55 @@
+JakeCCz' Revive Hardcore Players Addon!
+
+NOTE: THIS ADDON ADDS HARDCORE MODE TO YOUR WORLD AUTOMATICALLY AND DOES NOT WORK WITH THE BUILT IN SYSTEM!
+
+Have you ever wanted to play minecraft hardcore with friends but they're really bad at the game and keep on dying? Well luckily for you, I've created this Minecraft Mod that alters the current game's hardcore survival experience so everyone can have fun in this challenging gamemode!
+
+So then...
+
+What have you changed?
+
+Don't worry, it's not much... I am a personal fan of minecraft mods "that respect the source material". This means that this mod will fit perfectly into the vanilla experience without any major differences. Kind of like; "Why hasn't this already been added to the game???"
+
+Features
+
+- Fully Dead Players can now be revived back into your minecraft world
+
+Alive Players must adventure out into the world in search of the Dead Player's player head, located at death position, and construct an ultimate summoning ritual in order to revive the Dead Player, add this player back into the world.
+
+- Players now drop their respective player head upon death
+
+Whenever a player in a hardcore world dies, they will drop their player head at the position they died. This gives the other players in the world the opportunity to find it and revive this player. NOTE: The player head item is extremely tangible and is easily lost by natural world events such as, burning in lava or a tnt explosion.
+
+- A new craftable player head that allows any Alive Player to get any Dead Player's player head
+
+Incase ever lost somehow.
+
+Reviving Players
+
+How to build the Revival Structure
+
+To build this structure you will need: 4 Blocks of Soul Sand, 4 Wither Roses, 4 Stair Blocks of any type, 1 Fence Block of any type, 1 Ore Block and the head dropped by the player. The dimension of the entire structure is 3x3x3 blocks in any direction.
+
+Firstly, You must place your 4 blocks of soul sand on the four corners of the structure. Place your 4 wither roses on top of each soul sand block. Next, place your 4 stair blocks into the spaces between the soul sand blocks recently place. Then, place your Ore Block in the middle of the current structure, whether it be diamond, iron, gold or emerald once it is able to activate a beacon it will work, and place your desired fence block on top of it. Lastly, place your friend's player head onto the fence and they will be revived!
+
+Structure Feature
+
+Once successful, lightning will strike the structure and your friend will appear back into existence. They will receive a small buff for 5 seconds.
+
+Item Feature
+
+Whenever a player dies they drop their player head, using this player head you can create the structure shown and revive any player in the world.
+
+This player head item can also be crafted using; 4 Obsidian, 2 Totems of Undying, 2 Ghast Tears and 1 Mob Head(of any type).
+
+Showcase
+
+Mod Showcase
+
+Discord
+
+Hardcore Revive Mod Discord Link
+
+- This addon is also compatible with the Spectator Plus Addon, that allows spectator players to spectate other entities in the world once dead.
+
+Support the creator on Patreon

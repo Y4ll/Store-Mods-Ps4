@@ -1,0 +1,59 @@
+- Settings:
+
+Hold any wand in your hand and use it with the right button (or hold on the screen), make sure there are no blocks in front of you.
+
+This will open a simple settings screen, where you can set wand's range and if it will get blocks on diagonal.
+
+- Preview & Place:
+
+Left button or hit the block to see a preview of where the blocks will be placed. It's based on the blocks in your inventory and wand durability.
+
+Right button or click on the block to placed all blocks in your inventory.
+
+Tip:
+
+> Unbreaking enchantment helps with durability.
+
+- Range:
+
+Each wand have a max range, see below:
+
+- Craft:
+
+To craft your Wands, you'll need 1 stick and 1 material.
+
+- Wooden Builder Wand:
+
+- Durability: 128
+
+- Range: 3x3
+
+- Stone Builder Wand:
+
+- Durability: 256
+
+- Range: 5x5
+
+- Golden Builder Wand:
+
+- Durability: 512
+
+- Range: 7x7
+
+- Iron Builder Wand:
+
+- Durability: 1024
+
+- Range: 9x9
+
+- Diamond Builder Wand:
+
+- Durability: 2048
+
+- Range: 16x16
+
+- Netherite Builder Wand:
+
+- Durability: 4096
+
+- Range: 32x32

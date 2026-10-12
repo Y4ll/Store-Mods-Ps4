@@ -1,0 +1,77 @@
+TerraDraconis
+
+The Heart of the Dragon World
+
+TerraDraconis is the core addon of the TerraDraconis Series the foundation that ties together every other addon in the collection. It introduces the dragons, creatures, systems, and mechanics that bring this dark yet living world to life.
+
+The vision of TerraDraconis is to create an immersive ecosystem not just filled with dragons, but with a whole web of species that evolved alongside them, including humans. Dragons here are more than enemies or pets: they are part of the worlds history and survival, shaping every culture, hunt, and battle.
+
+Current Systems
+
+Dragons & Creatures
+
+- Multiple species of dragons, each with unique biology, behaviors, and roles in the ecosystem
+
+- Dragon Level System similar to Hostile Scaling, but with extra attributes such as mutations
+
+- Savage Variants: stronger miniboss versions of dragons (not naturally spawning yet) for added challenge
+
+- Non-dragon creatures that add depth and realism to the ecosystem
+
+Better World Generation
+
+- Vast landscapes with larger terrain, massive trees, stone patches, and unique features
+
+- A land slab system to smooth terrain and make the world feel more natural and realistic
+
+- World design that feels ancient and full of history
+
+Immersive Taming System
+
+- Inspired by ARK: uses tranq and torpor mechanics for a more rewarding taming experience
+
+- Taming feels like a true hunt instead of a simple interaction
+
+Dragon Riding System
+
+- Dragons have stamina and a forward-gliding flight system
+
+- More realistic controls: dragons cant fly backward or strafe sideways in midair
+
+- Planned improvements for long-range flight mechanics
+
+Crafting & Progression
+
+- Recipe Unlocking System: crafting recipes require specific player level + skill points to unlock
+
+- Separate Crafting System: custom crafting grids allow for more complex and expensive recipes
+
+- Includes a config file for adding custom recipes (compatible with other addons)
+
+Weapon & Item Quality
+
+- Weapons and tools can be upgraded at Reforge Stations to improve damage and durability
+
+- Fully configurable other addons can register their own items into the reforge system
+
+Planned Updates
+
+Since TerraDraconis is still in its beta stage, many more systems are on the way:
+
+- More dragon and creature species (currently only 2 creatures available)
+
+- Settlement System with NPCs
+
+- Bounty Hunting System
+
+- Additional weapons and armor
+
+- Enhanced dragon combat mechanics
+
+TerraDraconis isnt just an addon its the living foundation of a dragon-filled world. As the series grows, so will this base, evolving into a complete survival ecosystem where every dragon, creature, and hunter has a role to play.
+
+ADDING 3 SEPERATE TERRAIN PACK THAT ONLY CONTAIN THE TERRAIN GENERATION OF TERRADRACONIS:
+
+- TERRADRACONIS TERRAIN (VANILLA TREE): ONLY THE TERRAIN AND NO TREES UPDATE
+-TERRADRACONIS TERRAIN (BETTER VANILLA TREE): BIGGER AND BETTER LOOKING VANILLA TREE
+-TERRADRACONIS TERRAIN (BETTER TREE): CUSTOM MADE TREE WITH UNIQUE TREE SHAPE AND MUCH MORE DETAILED (REQUIRE NEWEST CONQUEST STRUCTURE ADDON TO WORK).

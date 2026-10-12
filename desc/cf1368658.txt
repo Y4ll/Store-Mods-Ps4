@@ -1,0 +1,212 @@
+Changelog :
+
+Summary : Add 8 subpacks, 12 outline colors, 7x20 custom option and remove unnecessary things
+
+- Add 8 more subpacks
+
+- Custom
+
+- Scythe for Action & Stuff
+
+- 3D v2
+
+- 3D Sharp
+
+- 3D Cone
+
+- 3D Flat
+
+- Cursor
+
+- Sign
+
+- Add dropdown option for "custom" subpack settings to every spear variants based on the spear variant inside every subpacks
+
+- Default [can use your own textures]
+
+- Vanilla
+
+- 3D v2
+
+- 3D Sharp
+
+- 3D Cone
+
+- 3D Flat
+
+- Sharp
+
+- Crossed
+
+- Scythe
+
+- Legends
+
+- MC Dungeon
+
+- Asterx
+
+- Short
+
+- Small
+
+- Tiny Head
+
+- Pointed
+
+- Bamboo
+
+- Cursor
+
+- Sign
+
+- Add abilities to make the spear can be use with or without Action & Stuff, so you don't have to switch between the subpacks
+
+- Add outlines effect when the spear is enchanted [little sneak peek for my next project]
+
+- Add dropdown option for outline colors, there's 12 colors you can choose
+
+- White
+
+- Red
+
+- Yellow
+
+- Green
+
+- Lime
+
+- Cyan
+
+- Blue
+
+- Dark Blue
+
+- Violet
+
+- Purple
+
+- Pink
+
+- Neon
+
+- Remove some unnecessary subpacks
+
+- 3D spears AnS
+
+- Crossed AnS
+
+- Sharp AnS
+
+- Remove some unnecessary files in 3D spear subpack
+
+- Remove pack info inside How to Play screen for smaller pack size
+
+- Add 4 localization including English, Spain, Mexican, Indonesian Language for pack settings
+
+- Re-write and redesign the whole page for better UI and easy to read
+
+have you been bored with the new weapon a.k.a spear textures?
+well, with this texture packs you can use a plenty of textures and models for the spear.
+there's about 20+ variants you can choose. and not only that, you can even pick whichever model for each spear's variants. giving you a whole flexibility to it.
+
+SUBPACKS
+
+SUBPACKS
+
+DESCRIPTION
+
+CUSTOM
+Pick which one you like. You can set them in the pack settings, even when you're still play or inside the world
+
+3D v2
+New Textures and Model for the previous 3D spears
+
+3D FLAT
+Another 3D model for the spear
+
+3D SHARP
+Make it Sharp but keep it 3D not Flat
+
+3D CONE
+The cone is more triangular
+
+3D v1
+old 3D Model
+
+SHARP
+Makes the Blade even more sharper
+
+CROSSED
+Makes the Blade crossed each other
+
+SCYTHE
+Become a Grim Reaper
+
+SCYTHE [for Action n Stuff]
+Action and Stuff have different spear rotation, so i make this for it's not going through player head in 3rd person view
+
+LEGENDS
+Spears from some Games and Myths
+
+MC DUNGEON
+Minecraft Dungeons Spears
+
+ASTERX
+My own spears texture
+
+SHORT
+Making the handle shorter
+
+SMALL
+Smaller and Cute. so it'll not covering your right screen
+
+TINY HEAD
+Make the blade tiny
+
+POINTED
+Make the blade straight
+
+BAMBOO
+Inspired from Bambu Runcing RRRAAHHH
+
+CURSOR
+At first i just wanted to add pointed cursor, but i think it would be nice if i add a whole set
+
+SIGN
+Looking at Spear's vanilla texture, they look alike an arrow LoL, so what if i make a real arrow sign instead
+
+VANILLA
+Keep everything as original or default minecraft
+
+i HOW IT WORKS
+
+Changing to a different Subpacks or Variant
+
+if you're new in Minecraft, and don't know what the subpacks is. please scroll down at the bottom of this Description, and read the FAQ below you'll find "Pack Settings & Subpacks" section
+
+Set Custom Subpacks
+
+below subpack slider, there's a lot of customization you can set. i separate them so you can choose which variant and model you want. it only set the texture or model to the spear variant you choose, so it'll not messing around with the other variants. it's also giving you a flexibility to use a different model through every subpacks.
+
+How to Control it?
+
+- Make sure you've set the subpack to "CUSTOM"
+
+- Below it, there's a dropdown button
+
+- every spear variants have a dropdown option, with the description above it of which spear variant it'll set
+
+- After you pick which one, you're done :)
+
+- Even you can change this settings while playing the game
+
+- At the very bottom there's dropdown for outline color that's appears when the spear is enchanted.
+
+CONTENT LIMITATION
+
+Content Limit
+
+Subpacks
+
+- I'm not Adding Outline Enchantment bec

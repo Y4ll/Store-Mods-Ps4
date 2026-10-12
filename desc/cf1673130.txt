@@ -1,0 +1,58 @@
+BSLD Shaders is a full PBR resource pack for Minecraft Bedrock that reworks lighting, skies, and atmosphere into a violet-magenta cinematic experience built to shine with Vibrant Visuals enabled.
+
+Reimagined Visual Style
+
+- Bold violet-magenta color identity carried through skies, fog, and lighting
+
+- Consistent atmospheric styling applied across all 85+ vanilla biomes
+
+- Adds mood and depth to builds while keeping vanilla terrain readable
+
+- Cinematic ACES tone mapping with a warm 6400K color temperature for punchy, filmic tones
+
+Advanced Atmospherics System
+
+- Hand-tuned sky zenith and horizon curves for a smooth transition across the full day cycle
+
+- Bold orange-gold horizon blend at sunrise and sunset for dramatic transitions
+
+- Deep blue zenith through midday for contrast against the warm horizon
+
+- Balanced Rayleigh scattering values to keep skies vivid without washing out or going flat black
+
+Reworked Local & Global Lighting
+
+- Retuned light colors for torches, lanterns, campfires, and other emissive blocks
+
+- Accurate glow tones for soul fire, redstone, amethyst, and copper block variants
+
+- Adds richer, warmer ambient lighting to interiors and builds with no gameplay changes
+
+Full PBR Material Support
+
+- Metalness, emissive, roughness, and subsurface values tuned separately for blocks, actors, particles, and items
+
+- PBR detailing on all ore types, including every deepslate variant and ancient debris
+
+- Custom still and flowing water with dedicated normal maps and MER maps, plus animated caustics for realistic underwater light
+
+Violet Aurora Effect
+
+- Custom curve-driven aurora particle animation drifting across the sky
+
+- Adds a signature atmospheric touch without pulling focus from gameplay
+
+Requirements
+BSLD Shaders requires Minecraft Bedrock/PE 1.21.0 or higher, with Vibrant Visuals (PBR rendering) enabled in video settings.
+
+Installation
+
+- Download the .mcpack file
+
+- Open it to import into Minecraft
+
+- Enable BSLD Shaders under Global Resources
+
+- Turn on Vibrant Visuals in video settings
+
+BSLD Shaders Ghoulcat_studios

@@ -1,0 +1,59 @@
+Modular Sofas is an add-on for Minecraft: Bedrock Edition that adds over 20 sofas, along with fully functional, craftable variants. These sofas are modular, meaning that when you place two or more together, their geometry automatically updates to form a larger sofa.
+
+Besides the newly added models, it also includes the sofas from Modern Furniture and Feudal Furniturealong with all their color and wood variants. Lets take a look:
+
+Sofa (default):
+
+The default sofa is the one from the Modern Furniture add-on. Its a standard sofa, and its variations are color-basedthere are 10 colors available.
+
+Wall Sofa:
+
+This sofa is another one from Modern Furniture. Its signature feature is that the back is made from a Quartz Bricks block. Its variations are also color-based10 colors in total.
+
+Bamboo Sofa:
+
+The bamboo sofa features a bamboo frame. For now, it only comes in two colors: black and white.
+
+Leaf Sofa:
+
+The leaf sofa comes from Feudal Furniture. Its made of leaves with a wooden frame. Its variants match the wood types available in the game (12 wood types).
+
+The main use for these sofas is decorationthey work in all kinds of settings, from modern to medieval. The idea is simply to decorate and enjoy them.
+
+Functionality is straightforward: beyond their modularity, you can also sit on them with a single click, and these two features work together seamlessly. If you want to tweak the geometry or how sofas connect, use the Screwdriver.
+
+The Screwdriver is an item that lets you adjust the geometry to your liking; it works like a debug stick. This tool is available in Survival via craftingthe recipe will be shown later.
+
+Images
+
+Crafting
+
+Creative:
+
+To get it in Creative mode, youll find the sofas in the Items section some are grouped inside catalog accordions. If you prefer commands, you can use /give with the ms: prefix, like: ms:"sofa name".
+
+Survival:
+
+In Survival, you can craft it at the crafting table! Here are the crafting recipes:
+
+Sofa (default):
+
+Wall Sofa:
+
+Bamboo stick:
+
+Leaf Sofa:
+
+Screwdriver :
+
+As mentioned earlier, the Screwdriver is the debug stick used to modify a sofas geometry. Its crafting recipe in Survival is as follows:
+
+Using it is simple: crouch (sneak) and click the sofa. The chat will display the exact coordinates and its precise facing direction.
+
+Support me on Patreon to continue developing my addons!
+
+Share your suggestions for creating better add-ons!
+
+Downloads | Official Site
+
+- Download Home Electronics Here | Official Site

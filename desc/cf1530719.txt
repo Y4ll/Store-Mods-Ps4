@@ -1,0 +1,71 @@
+[THIS ADDON IS STILL IN BETA AND MAY CONTAIN BUGS. FEEDBACK, BUG REPORTS, AND SUGGESTIONS ARE ALWAYS WELCOME IN THE COMMENTS.]
+
+What is the Super Glue Addon?
+
+Super Glue is a Minecraft Bedrock addon that introduces a fully custom physics engine inspired by mods such as Create Mod, Clockwork, Valkyrien Skies, and Create Aeronautics.
+
+It allows you to weld ordinary Minecraft blocks into fully dynamic physics objects that can move, rotate, float, fly, and interact with the world.
+
+Build creations such as:
+
+- Cars and trucks
+
+- Boats and submarines
+
+- Airships and airplanes
+
+- Helicopters
+
+- Windmills and turbines
+
+- Moving doors and elevators
+
+- Walking machines
+
+- Entire movable houses
+
+If you can build it, you can bring it to life!
+
+Latest Update!
+
+- Camera and Monitor Surveillance: Introducing the Camera, Monitor, and Physics Camera blocks! Assign matching IDs using a Wrench to wirelessly broadcast real time, true color views of your entities, blocks, and environments directly to screens.
+
+- Attuner Precision Steering: Take ultimate control of your flight and driving! The new Attuner block forces your vehicle to face exactly where your camera is looking, including straight up and down.
+
+- Glue Blasting Automation: Mechanize your assembly lines! The Glue Blaster automatically glues or unglues whatever it is attached to upon interaction.
+
+- Dynamic Wheels and Train Tracks: Build better land vehicles with rolling Dynamic Wheels featuring simple suspension, and construct fully guided trains using Railroad Tracks.
+
+- Sonic Tech and Weaponry: Bring advanced echo wave technology and immense firepower to your world with the Sonic Cannon, Sonic Laser, Sonic Armor, and Sonic Handheld Gun.
+
+- Polished Audio and Visuals: Enjoy beautiful new wind streaks on active Propellers, enhanced Thruster particles, better overall textures, and fresh audio for gluing (slime) and grabbing!
+
+- Optimized Physics and Survival Balance: Experience flawlessly smooth Ocean Physics for boats, a complete balance pass on Survival crafting recipes, and zero fall damage when riding a descending physics object.
+
+Tools and How to Weld Objects
+
+- Super Glue (Stick): Best for selecting custom shapes block by block. Break blocks to select them. Use the item while looking at the sky or air to weld the selected blocks into one physics object.
+
+- Box Glue: Best for selecting large areas quickly. Use the item on a block to set Point 1, and another block for Point 2. Use it while looking at the sky to weld. Crouch and use the item to clear your selection.
+
+- Drag Tool: Allows you to pick up and move welded creations. Use while aiming at a physics object to grab it, and use it again to release. (Newly Improved: Dragging now supports more advanced movements and object manipulation!)
+
+- UnGlue Glue: Converts a physics object back into normal Minecraft blocks. Use while aiming at a welded creation to snap it back to the grid.
+
+- Ropes and Springs: Creates dynamic physical connections between two points. Use the item on the first point, then on the second point to connect. The Rope Tool creates standard cables with tension, while the Spring Tool creates bouncy, elastic connections.
+
+- Signal Remote: Pairs with Signal Receivers to wirelessly toggle your electrical systems and Current from a distance.
+
+- Sonic Handheld Gun: Throws an Echo Wave Attack. The output power determines how far the attack is thrown. The higher the power, the more EXP it requires to fire.
+
+Special Physics Blocks
+
+- Seat: Allows you to sit and control your creation. Use the item on the Seat to ride it.
+
+- Attuner [NEW]: Forces the vehicle to seamlessly rotate and face exactly where your player camera is aiming, including vertically up and down.
+
+- Glue Blaster [NEW]: An interactive block that automatically glues or unglues the grid structure it is attached to when triggered.
+
+- Camera Block [NEW]: A stationary surveillance block. Use a Wrench to write its broadcast ID.
+
+- Monitor Block [NEW]: Displays a liv

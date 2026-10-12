@@ -1,0 +1,37 @@
+Step through a Netherrack portal and enter a dimension corrupted by Herobrine. Nether-flavored biomes stretch across a fully generated world Crimson forests, Warped forests, Soul Valleys, and Nether Wastes all filled with Herobrine-corrupted versions of familiar animals, custom ores, and eerie abandoned structures.
+
+Features
+
+- Herobrine-corrupted mobs Cows, Pigs, Sheep, Chickens, Horses, Rabbits, Wolves, and Foxes all spawn as corrupted Herobrine variants that attack with lightning strikes
+
+- 4 unique biomes Nether Wastes, Soul Valley, Crimson Forest, and Warped Forest all generate across the dimension
+
+- Custom ores Amethyst, Aquamarine, Bloodstone, Bronze, Celestite, Citrine, Cobalt, Garnet, Jade, Onyx, Peridot, Platinum, Rose Gold, Ruby, Sapphire, Spinel, Titanium, and Topaz all with Deepslate variants
+
+- Abandoned structures ruined houses and corrupted builds generate naturally across the dimension as you explore
+
+- Netherrack portal build a Nether-portal shape out of Netherrack, light it with Flint & Steel, and walk through to enter
+
+- Two-way travel build and light a portal inside the dimension to return to the Overworld anytime
+
+- Chunk streaming terrain generates and saves around you in real time; revisit any area and it stays as you left it
+
+Portal Setup
+
+Build a Nether-portal shape using Netherrack (minimum 23 inside opening). Light it with Flint & Steel the opening fills with a ghost portal block. Walk through to enter the Herobrine Dimension.
+
+Commands
+
+- /voxen:herobrine_dimension open the travel menu to enter or return from the dimension
+
+Requirements
+
+- Beta APIs experiment must be ON World Settings Experiments Beta APIs
+
+- Minecraft Bedrock 1.21.100 or higher
+
+- Both packs must be active Behavior Pack and Resource Pack
+
+Achievement Friendly?
+
+Yes fully achievement friendly. Use it without any worries.

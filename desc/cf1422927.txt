@@ -1,0 +1,69 @@
+Automate your resource gathering with passive generation, even while you're offline!
+
+Place a generator, walk away, and come back to full storages. Perfect for Skyblock, survival, or any world where you want steady resource income without constant mining or chopping. Generators run on real-world time, so they keep producing whether you're online, offline, or the world is closed.
+
+Custom Recipes (new in v1.5.0)
+
+Want different recipes for your world, server or Realm? Change any generator's recipe in the online Recipe Editor: pick the ingredients on a crafting grid and download a small pack. No files to edit by hand.
+
+- Open the Recipe Editor, choose Bedrock and change the recipes you want.
+
+- Download the pack and open the .mcpack file: Minecraft imports it.
+
+- Edit your world Behavior Packs activate Idle Generators: Recipe Overrides and move it above Idle Generators.
+
+Works on Realms, a new download replaces the old pack, and our updates never overwrite your recipes.
+
+Advanced: editing the JSON by hand
+
+The .mcpack is a normal zip: rename it to .zip, extract it and edit the files in recipes/crafting/ (one per generator, for example iron_generator.json). pattern is the 33 grid and key says which item each letter is; change only item ids, never identifier or result. Zip the contents again (manifest.json at the top level), rename to .mcpack and import it.
+
+Features
+
+69 Unique Generators in six sets: Minerals, Wood, Stone & Construction, Colors, Nature and Nether.
+
+Offline Generation: resources keep generating when you're not playing. Uses real-world time to produce items, so play however you like: the generators never stop.
+
+Smart Withdrawal System
+
+- Left-click: withdraw 1 item
+
+- Shift + left-click: withdraw up to a full stack (64)
+
+Withdrawals drain the accumulated buffer, and sub-cycle progress is never lost.
+
+Auto-output: place a chest, barrel, hopper or other container directly below a generator and it empties itself; a hopper below chains into your item network.
+
+Settings Menu: operators run /idlegen:config to switch single generators or whole sets on/off, with each switch showing its production. No cheats needed, so achievements stay enabled. Prefer world-level control? Behavior Packs Idle Generators gear icon turns whole sets off before entering the world.
+
+Animated Models: each generator is a unique animated visual entity.
+
+HUD Readout: look at a generator to see its glyph, name, current amount / capacity, and progress % on the action bar.
+
+Storage Caps: generators buffer 81024 items depending on the type (the Nether Star keeps just 8).
+
+Vibrant Visuals Compatible: works alongside Vibrant Visuals and third-party PBR resource packs.
+
+Balanced Progression: tuned for vanilla worlds. Feedback welcome!
+
+Supported Languages: English, Espanol.
+
+The Generators
+
+Craft a generator, place it, and collect. Every set shares one recipe layout, so once you know a set you know all of it. Open a set to see its recipes and stats.
+
+Minerals (11): Cobblestone, Coal, Copper, Iron, Redstone, Lapis, Gold, Quartz, Emerald, Diamond, Netherite
+
+Each mineral generator uses glass on the corners, a themed material, and the resource's block in the center.
+
+Wood Logs (12): Oak, Spruce, Birch, Jungle, Acacia, Dark Oak, Mangrove, Cherry, Pale Oak, Poplar, Crimson, Warped
+
+All 12 share the same pattern: glass corners, bone meal, that wood's sapling (3) and its log in the center. Mangrove uses a Propagule, and Crimson / Warped Stems use their fungus.
+
+Stone & Construction (12): Stone, Granite, Diorite, Andesite, Deepslate, Tuff, Calcite, Dripstone, Gravel, Sand, Red Sand, Clay
+
+All 12 share the same layout: glass on the corners, cobblestone on the sides, a themed catalyst on top & bottom, and the output's block in the center. Red Sand uses sand on the sides; Dripstone and Clay craft with their block but produce the item (Pointed Dripstone / Clay Balls).
+
+Colors (16): every dye in the game
+
+Never farm flowers or squids for color again. All 16 share the sa

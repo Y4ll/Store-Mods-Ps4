@@ -1,0 +1,137 @@
+OP Starter Kit
+
+Start your Minecraft survival adventure with an incredibly powerful loadout using OP Starter Kit by FleetMc Studio. This addon gives you a complete starter kit packed with powerful weapons, max-enchanted Netherite gear, rare items, survival resources, and everything you need to get a huge head start.
+
+When you join the world for the first time, you'll receive a special Starter Stick. Use the stick to open the kit menu and claim the complete OP loadout. No complicated setup, commands, or cheats are needed.
+
+OP Weapons
+
+- Max Enchanted Netherite Sword Sharpness V, Unbreaking III, Mending, Fire Aspect II, Looting III, Knockback II.
+
+- Max Enchanted Netherite Axe Sharpness V, Unbreaking III, Mending.
+
+- Netherite Spear Lunge III, Unbreaking III, Mending.
+
+- Max Enchanted Mace Density V, Wind Burst III, Breach IV, Unbreaking III.
+
+- Max Enchanted Bow Power V, Punch II, Flame I, Infinity I, Unbreaking III.
+
+- Max Enchanted Crossbow Quick Charge III, Multishot I, Unbreaking III.
+
+- Two Enchanted Tridents with different combat enchantment setups.
+
+Max Enchanted Netherite Gear
+
+- Netherite Helmet Protection IV, Unbreaking III, Mending, Respiration III, Aqua Affinity I.
+
+- Netherite Chestplate Protection IV, Unbreaking III, Mending, Thorns III.
+
+- Netherite Leggings Protection IV, Unbreaking III, Mending, Swift Sneak III.
+
+- Netherite Boots Protection IV, Unbreaking III, Mending, Feather Falling IV, Depth Strider III, Soul Speed III.
+
+OP Tools
+
+- Netherite Pickaxe with Fortune III, Efficiency V, Unbreaking III & Mending.
+
+- Netherite Pickaxe with Silk Touch I, Efficiency V, Unbreaking III & Mending.
+
+- Netherite Shovel with Efficiency V, Unbreaking III & Mending.
+
+- Netherite Hoe with Efficiency V, Unbreaking III & Mending.
+
+- Shield.
+
+- Elytra.
+
+Rare & Survival Items
+
+- 3x Totems of Undying.
+
+- 8x Enchanted Golden Apples.
+
+- 64x Golden Apples.
+
+- 64x Golden Carrots.
+
+- 32x Ender Pearls.
+
+- 64x Firework Rockets.
+
+- 16x Wind Charges.
+
+- Water Bucket.
+
+- Lava Bucket.
+
+- Milk Bucket.
+
+- Ender Chest.
+
+- Furnace.
+
+- Crafting Table.
+
+Building & Mining Resources
+
+- 64x Oak Logs.
+
+- 64x Cobblestone.
+
+- 64x Iron Ingots.
+
+- 64x Diamonds.
+
+- 64x Coal.
+
+- 64x Arrows.
+
+Extra OP Effects
+
+After claiming the kit, you'll also receive powerful survival effects including Strength, Speed, Regeneration, and Fire Resistance to help you survive dangerous situations and take on the Minecraft world with confidence.
+
+How to Use
+
+- Download and import the addon.
+
+- Enable the Behavior Pack in your world.
+
+- Join the world for the first time.
+
+- Take the Starter Stick you receive.
+
+- Use the stick to open the Kit Selection menu.
+
+- Select OP Kit and receive your complete loadout.
+
+Important Information
+
+- No Cheats Needed The kit works through normal addon gameplay without requiring cheats or command access.
+
+- No Experimental Toggles Required You can use the addon without enabling Experimental Gameplay settings.
+
+- The kit is designed to give you a powerful head start in Survival.
+
+- The Starter Stick is provided automatically on your first spawn.
+
+How To Import
+
+Android: Download the .mcaddon file, open it with Minecraft, and wait for the addon to import. Then activate the Behavior Pack from your world settings.
+
+Windows: Download the .mcaddon file and double-click it to open it with Minecraft. Wait for the import to finish, then activate the Behavior Pack in your world settings.
+
+Remember: The real fun of Minecraft is the grind. This addon is made for quick gameplay and a faster start for the full Minecraft experience, enjoy the progression and grind in the actual game.
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.21.13+.
+
+- Behavior Pack.
+
+- Singleplayer & Multiplayer Supported.
+
+- Simple setup with no complicated configuration.
+
+Get powerful gear, rare resources, legendary items, and a complete survival loadout from the very beginning with OP Starter Kit. Start strong and take on your Minecraft adventure like never before!
+
+Created by FleetMc

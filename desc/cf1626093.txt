@@ -1,0 +1,48 @@
+Do you have any questions, feedback or have you noticed any bugs?
+
+Feel free to write a comment or join my community Discord server!
+
+This AddOn is achievements friendly!
+
+Are you ready to explore countless new structures?
+
+Add the add-on to your Bedrock world and get ready for an adventure into the past.
+
+This add-on brings all kinds of old, forgotten ruins, temples, pyramids, and dungeons into the game.
+
+Currently you can discover 127 different new structures!
+
+Different custom dungeons with spawners and loot generating underground!
+
+All of these dungeons feature different mob spawners
+
+In the files tab you'll find the version v1.3 Advanced Edition - With this version you'll also get some new mobs and items!
+
+Mummy - desert mob which can spawn at day time (faster at night)
+Ancient Mummy - stronger & rarer variant of the mummy
+
+Skeleton Knight - skeletons with swords and different armor
+
+Parched Knight - parched with swords and different armor (causes weakness when hit)
+
+Bogged Knight - bogged with swords (causes poison when hit)
+
+Stray Knight - strays with swords and different armor (causes slowness when hit)
+
+Ancient Emerald Warrior - stronger & slightly bigger parched mob with a custom emerald sword and armor
+
+New items:
+
+Ancient Emerald Sword - Only obtainable by defeating the Emerald Warriors
+Ancient Emerald Armor - Only obtainable by defeating the Emerald Warriors
+
+Emerald swords and armor pieces can be repaired with emeralds.
+
+If you're wearing a full Emerald Armor set, you'll get the Hero of the Village effect.
+
+Terms of use:
+
+You can use all my projects for non-commercial purposes if you credit the original download page.
+(This also includes monetized social media videos / livestreams and small servers up to 20 players)
+
+Any other use, especially commercial, must be discussed with me in advance!

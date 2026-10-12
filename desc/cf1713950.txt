@@ -1,0 +1,17 @@
+BiomeAura Visuals is a Vibrant Visuals resource pack for Minecraft Bedrock built around one idea: no two biomes should feel the same. Standard Vibrant Visuals gives the whole Overworld a fairly uniform sky and fog treatment BiomeAura rewrites that biome-by-biome, tuning three things Mojang's PBR pipeline exposes to creators: volumetric fog colour and density, directional light-shaft colour and strength, and full day-night sky/colour-grading curves.
+
+Seven biomes were the starting point, each hand-tuned by studying real in-game reference screenshots for their natural mood:
+
+Jungle a deep, mossy green haze with light shafts filtering through the canopy, like sunlight through wet leaves. Cold Taiga pale, desaturated grey-teal fog, cold and still, closer to an overcast dawn than a bright winter sky. Cherry Grove vivid pink-magenta fog with a soft, glowing light source, tuned so the blossoms feel like the main light in the scene. Taiga a hazy khaki-olive fog, lighter and warmer than the Jungle, giving that "dusty afternoon in the pines" feeling. Birch Forest golden-hour sepia haze with a strong warm god-ray, built to catch the birch trunks in a single dramatic beam. Mushroom Island violet-lavender fog under an oversized, glowing moon-lit sky, brighter ambient light than any other biome to sell the "giant moon" mood. Dappled Forest the boldest palette in the pack: saturated orange-red fog and light, an autumn-dying-embers feel from ground to canopy.
+
+Version 1.1.0 extends the same philosophy to the dimensions people actually spend hours in: Nether Wastes (ember red-orange), Crimson Forest (deep magenta-red), Warped Forest (cool teal-cyan), Soulsand Valley (pale ghost-cyan), Basalt Deltas (ashen smoke-orange), and The End (void violet with a faint starlight glow).
+
+Every biome gets its own linked set of four files atmospherics, fogs, lighting, and color_grading rather than reusing one global preset, so each location genuinely looks and feels distinct, at every time of day and night, not just at noon.
+
+Requirements: Minecraft Bedrock / Pocket Edition 1.21.120+, with Vibrant Visuals enabled in Video Settings (Graphics Mode checklist Vibrant Visuals). This is a rendering feature, so it needs a reasonably modern device/GPU if the option isn't visible in your settings, your device doesn't currently support it.
+
+Compatibility: This is a pure resource pack no gameplay changes, no behaviour pack, fully vanilla-safe. Works alongside any datapack or add-on. If you run it with another Vibrant Visuals atmosphere pack active, disable the other one first to avoid identifier conflicts.
+
+Credits
+
+Pack & colour direction: Baku_Studio Rendering framework: Built on Mojang's official Vibrant Visuals (PBR deferred lighting) system for Minecraft Bedrock this pack only supplies JSON configuration, no engine modification. Colour research: Palette for each biome derived from studying real gameplay reference screenshots, biome by biome.

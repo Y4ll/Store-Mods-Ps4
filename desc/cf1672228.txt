@@ -1,0 +1,15 @@
+Super Duper PvP is a resource pack designed for Minecraft Bedrock Edition, built for competitive PvP servers and custom maps.
+
+Key features:
+
+- Custom SuperPvP title screen and logo
+
+- Enhanced night skybox with dense stars and atmospheric effects
+
+- Immersive medieval-style hub and castle environments
+
+- Optimized visuals for PvP arenas, shops, and outdoor areas
+
+- Clean, high-contrast look suitable for fast-paced combat
+
+Perfect for players who want a sharp, competitive atmosphere with a strong SuperPvP identity.

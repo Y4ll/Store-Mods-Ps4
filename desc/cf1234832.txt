@@ -1,0 +1,87 @@
+En
+
+The "Village girls" texture pack replaces some entities with female versions.
+
+Female variants received:
+
+Villagers - they receive outfits of various styles: from modified vanilla outfits (swamp biome, jungle and savannah) to completely rethought images made in the styles of militarism (taiga biome, gunsmith), retro (field biome), gothic (clergyman), etc. All animations have been completely redesigned and the sound effects of the allay were used.
+
+Wandering traders - loves to sell all sorts of unnecessary trash.
+
+Witch - she has a very revealing outfit and very stupid humor - for fun, she can splash acid in someone's face.
+
+Zombies, zombie villagers and husks (the sound effects of baby-zombie are used).
+
+Enderman (or Enderlady) is mysterious and elusive. She constantly ruins the map by stealing weeds and blocks, constantly staring at you, and constantly getting mad when you stare at her...
+
+Allay - the sweetest and kindest creature, loves music.
+
+Vex - like allay, but with a very aggressive nature - very dangerous and very stupid - a disposable living weapon for evokers.
+
+The Centaur is a charming mythical creature (the sound hasn't been changed).
+
+Quiet Centaur - reworked from a donkey.
+
+Pack Centaur - reworked from a mule.
+
+StPzt - Looks like it stormed Verdun.
+
+Vindicator and pillager - they look like young girls but have voices like old grannies...
+
+The "Industrial" subpack has been added to better align the style of the "Village Girls" and "Satellite" packages with Minecraft's medieval style.
+
+The "Industrial" subpack replaces some items with their 20th century counterparts:
+
+K98k rifle (replaces bow) - the most common example of small arms of the first half of the 20th century, made in Germany.
+
+12 gauge shotgun (replaces crossbow) - a homemade weapon, widely used by upper world criminal groups - pillagers, and Nether inhabitants - piglins.
+
+Known issue: Fishing rods and throwables make a shooting sound when used.
+
+PA10 or Panzerauto 1910 (replaces ravager) - an armored car, outdated even by the standards of the WWI, but for racketeering and gangster showdowns it is quite sufficient.
+
+Bayonets, chainsaws, jackhammers, Stahlhelm M1918, etc.
+
+Ru
+
+"Village girls" "" .
+
+:
+
+- : ( , ) , ( , ), ( ), () .. .
+
+- .
+
+- - - .
+
+, - ( -).
+
+- . - , ...
+
+- , .
+
+- , - - .
+
+- ( ).
+
+- - .
+
+- .
+
+StPzt - .
+
+- ...
+
+"Industrial" "Village girls" "Satellite" .
+
+"Industrial" XX :
+
+K98k ( ) - XX , .
+
+12 gauge ( ) - , - - .
+
+: .
+
+PA10 Panzerauto 1910 ( ) - , , .
+
+, , , Stahlhelm M1918 . .

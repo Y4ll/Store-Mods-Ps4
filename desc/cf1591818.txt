@@ -1,0 +1,49 @@
+OP Loot M
+
+OP Loot Mobs Addon Tired of getting nothing but rotten flesh from zombies or string from spiders? Its time to break the game! The OP Loot Mobs Addon completely overhauls the drop system in your Minecraft Bedrock world. Every creature you defeat has a random chance of dropping OP (overpowered) items, giving your survival experience a chaotic, fun, and highly rewarding twist!
+
+Features:
+
+Random OP Drops: Mobs can drop anything from full sets of enchanted Netherite armor, golden apples, and potions to diamond blocks and valuable resources.
+
+Ideal for Survival: Perfect for chaotic challenges, speedruns, or just having fun with friends. Compatible with Multiplayer and Realms.
+
+Important Setup: To ensure the addon works perfectly, remember to enable the following Experimental Features in your world settings:
+
+- Beta APIs
+
+Upcoming Creator Features
+
+License and Distribution:
+
+Created by: Advaria Studio
+
+Terms: You are free to review or showcase this addon in your videos, but you MUST provide the official link to this CurseForge page. Re-uploading, distributing direct links, or creating clones is not permitted
+
+Espanol
+
+Cansado de recibir solo carne podrida de los zombies o hilo de las aranas? Es hora de romper el juego! OP Loot Mobs Addon redisena por completo el sistema de drops en tu mundo de Minecraft Bedrock. Cada criatura que derrotes tiene una probabilidad aleatoria de soltar objetos op, dandole a tu supervivencia un giro caotico, divertido y muy gratificante!
+
+Caracteristicas:
+
+- Drops OP Aleatorios: Los mobs pueden soltar desde sets completos de armadura de netherite encantada, manzanas doradas y pociones, hasta bloques de diamante y recursos valiosos.
+
+- Ideal para Supervivencia: Perfecto para retos caoticos, speedruns o simplemente para divertirte con amigos. Compatible con Multijugador y Realms.
+
+Configuracion Importante: Para asegurarte de que el addon funcione a la perfeccion, recuerda activar las siguientes Funciones Experimentales en la configuracion de tu mundo:
+
+-
+
+Beta APIs
+
+-
+
+Proximas funciones de creador (Upcoming Creator Features)
+
+Licencia y Distribucion:
+
+- Creado por: Advaria Studio
+
+- Terminos: Eres libre de hacer reviews o mostrar este addon en tus videos, pero DEBES proporcionar el enlace oficial de esta pagina de CurseForge. No se permite resubir o distribuir links directos ni clones.
+
+.

@@ -1,0 +1,27 @@
+Project Description:
+
+Dynamic Light allows you to hold an Illuminating item or block in your off hand as in Hytale leaving your main hand free to hold more important items like a Sword, illuminating the path as you walk. No extra steps are required, just place an Illuminating item or block in either hand and play as usual.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Lightweight script.
+
+- Dynamic Light features.
+
+- Sneak to switch system.
+
+- Have something to say? Join the Discord.
+
+Any item or block that looks like it should give light will now illuminate around you when held in either hand.
+
+Any block or entity that is on fire will now illuminate until the fire goes out.
+
+Any entity that looks like it should give light will now illuminate as they move around.
+
+Any item that give light in your hands will also give light when placed on the floor.

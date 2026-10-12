@@ -1,0 +1,141 @@
+Just Backpacks: Enhanced
+
+Just Backpacks: Enhanced is a full rewrite and evolution of Just Backpacks V3, built from the ground up with a redesigned storage engine, a new complement system, and deeper vanilla integration. Every item you store is safe across sessions, restarts, and dimensions.
+
+Persistent Storage
+
+Your items are never lost the storage system is built around three principles:
+
+- While Playing: Your backpack lives as an entity in the world, accessible with zero lag.
+
+- Background Saving: When you put the backpack away, its entity is saved as a persistent structure queue-based to avoid heavy operations.
+
+- On Exit: All active backpacks are flushed and saved across the Overworld, Nether, and The End.
+
+- Ender Backpack: Acts as a portable Ender Chest its storage is tied to your player and shared across all your Ender Backpacks, independent from the vanilla Ender Chest.
+
+Backpack Tiers
+
+Start with a basic Backpack and upgrade your way to Netherite or take a different path with the Ender Backpack.
+
+Tier
+Material
+Slots
+Complement Slots
+How to Obtain
+
+1
+Backpack
+9
+1
+Crafting Table
+
+2
+Copper
+18
+2
+Copper Upgrade Kit
+
+3
+Iron
+27 (= Chest)
+3
+Iron Upgrade Kit
+
+4
+Golden
+36
+4
+Golden Upgrade Kit
+
+5
+Diamond
+45
+5
+Diamond Upgrade Kit
+
+6
+Netherite
+54 (= Double Chest)
+6
+Netherite Upgrade Kit
+
+Ender
+27
+
+Ender Chest + Backpack
+
+The basic Backpack is also available in 16 dyed color variants simply combine it with any dye.
+
+Complement System NEW in Enhanced
+
+Every backpack tier has at least one complement slot passive ability upgrades you install directly into your backpack. The higher the tier, the more complements you can equip simultaneously. The Ender Backpack is the only exception, as it has no complement slots.
+
+Complement
+Effect
+
+Torch
+Emits dynamic light around you as you explore dark areas no torch placing required
+
+Magnet
+Attracts nearby dropped items directly into your inventory
+
+Food
+Automatically feeds you using food stored inside the backpack
+
+XP
+Attracts nearby experience orbs toward you automatically
+
+Auto-Sort
+Keeps the backpack's contents sorted automatically
+
+Soulbound
+The backpack is keep on death you never lose your items
+
+Upgrade Kit System
+
+Every tier is reached by upgrading your existing backpack with a material-specific kit. Your items are always preserved no crafting from scratch, no lost inventory.
+
+How to Upgrade Step by Step
+
+- Craft the Upgrade Kit for your target tier at the Crafting Table.
+
+- Place your current backpack in your offhand slot.
+
+- Hold the Upgrade Kit in your main hand.
+
+- Use / Interact Right-click on PC Long-press on mobile.
+
+- Done your backpack is upgraded and all your items are still inside.
+
+Note: Each kit only works on its matching tier. You cannot skip tiers.
+
+Fixed from V3: The backpack no longer gets stuck in your offhand after upgrading you can freely unequip it at any time.
+
+How to Use
+
+- Equip: Hold the backpack in your main hand.
+
+- Open: Interact (Right-click or Long-press) to open the inventory.
+
+- Close: Switch to any other item the backpack stores itself instantly.
+
+- Upgrade: Offhand = backpack Main hand = Upgrade Kit then Interact.
+
+- Dye: Combine a basic Backpack with any dye to change its color.
+
+Features & Compatibility
+
+- Achievement Friendly: Does NOT use player.json. Xbox Achievements remain enabled.
+
+- Multi-Dimension Support: Full support for Overworld, Nether, and The End including safe handling when crossing dimension portals.
+
+- Optimized Performance: The backpack entity rests in the Void Vault (Y: -70) when not in use. Background saving is queue-based to avoid heavy operations.
+
+- UUID Security: Each backpack has a unique ID tied to its owner. Other players cannot access or upgrade your backpack.
+
+- Item Lore: Backpacks display their ID, owner, and tier directly in the item tooltip.
+
+- 13 Languages: English, Spanish (ES & MX), Portuguese (BR), French, German, Italian, Polish, Russian, Turkish, Japanese, Korean, and Chinese (Simplified).
+
+- Vibrant Visuals Ready:

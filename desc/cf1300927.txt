@@ -1,0 +1,41 @@
+MultiPixel Texture Pack - Bedrock Edition
+
+MultiPixel is an HD texture pack with new 32x textures that you've never seen before! It's great if you like to improve the look in MAinecraft, while keeping the vanilla styling.
+
+Pack Creator: Rainvay, All Rights Reserved.
+
+Twitter/X @ZouChenyunfei
+
+Pack Official Twitter: @MultiPixelHD
+
+Follow us to get the newest information at the first time!
+
+Discord: Welcome to MultiPixel channel! (https://discord.gg/6BmSrzJ)
+
+MultiPixel Texture Pack for Minecraft. Making an HD world for you!
+
+32x32 Resolution for All textures!
+
+Subpacks
+
+- Open Global Resources in Settings
+
+- Single Click the MultiPixel Pack
+
+- Click Spanners Icon
+
+- Select the Subpack
+
+- Exit Settings Screen
+
+- Restart Minecraft
+
+Original Subpack: Original Bedrock HD.
+
+Bedrock Subpack: Improved Bedrock HD.
+
+Java Subpack: Added lots of features from Java Edition, like animations, UIs, particles and more.
+
+Fancy Subpack: Added lots of features from Java Edition, Dungeons, Legends and Earth.
+
+[Experimental] Unfinished Normal Map Subpack: Enable the normal map textures for Vibrant Visuals, which is unfinished.

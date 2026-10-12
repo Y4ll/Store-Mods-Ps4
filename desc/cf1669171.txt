@@ -1,0 +1,43 @@
+================================================================
+
+Pack Performance Warning
+
+Low-spec devices or those with small RAM are likely to experience severe lag, drops in framerate, or force closes when using this resource pack.
+
+High Performance Required: This pack contains heavy textures, custom models, and animations that require a high-end device to run smoothly.
+
+Low-End Device Risk: Using this pack on low-spec smartphones or PCs will likely cause severe lag, freezing, or game crashes.
+
+Recommendation: It is strongly recommended to use a device with a powerful processor and ample RAM for the best gameplay experience.
+
+================================================================
+
+DeltaForce 3D Custom Vanilla Weapons
+
+This resource pack replaces vanilla Minecraft sword items with custom 3D models, textures, and animations inspired by Delta Force / anime-style weapon designs. The vanilla held-item rendering is hidden and replaced with fully custom attachable models for a more immersive weapon-holding experience.
+
+Features:
+
+Custom 3D sword models with unique textures
+
+Original draw, inspect, and melee animations
+
+Custom sound effects for each weapon
+
+Renamed weapons with unique identities:
+
+Wooden Sword Mercy
+
+Stone Sword Desmoulins' Edge
+
+Iron Sword Cobra Vanguard
+
+Diamond Sword Dark Star
+
+Netherite Sword Creed
+
+Compatibility:
+
+Minecraft Bedrock Edition, minimum engine version 1.17.0
+
+Enjoy a fresh new look for your favorite melee weapons in Minecraft!

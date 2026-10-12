@@ -1,0 +1,21 @@
+Check out how the add-on works in action in this video:
+
+RPG Damage Indicator Addon Minecraft Bedrock 1.21
+
+Transform your Minecraft Bedrock experience with the RPG Damage Indicator Addon! All mobs and enemies now display a health bar in true RPG style. This addon is fully compatible with custom mobs and other addons, ensuring seamless integration with your creations.
+
+Key Features:
+
+- Dynamic Health Bars: Easily monitor enemy health with visible bars that adapt to their remaining HP.
+
+- Color-Coded Health Levels:
+
+- Green: High health.
+
+- Yellow: Moderate health.
+
+- Red: Low health.
+
+- Night Visibility: Health bars remain visible even in the darkest environments, perfect for nighttime adventures.
+
+Upgrade your gameplay and dive into epic battles with this must-have addon!

@@ -1,0 +1,31 @@
+Do you want your inventory screen to look like the Just Enough Items (JEI) mod from Minecraft Java? Well, this texture pack is for you.
+
+This texture pack changes the appearance of recipe book to look like the Just Enough Items (JEI) mod from Minecraft Java. It's well optimized and gui scale friendly.
+
+Showcase:
+
+WARNING!
+
+There are two versions for this pack, JEI Recipe Book v1.x.x and JEI Recipe Book v1.x.x (VDX Desktop UI). use JEI Recipe Book v1.x.x if you are not using VDX: Desktop UI by @CrisXolt, and use JEI Recipe Book v1.x.x (VDX Desktop UI) if you are using VDX: Desktop UI and place it above.
+
+Terms Of Use:
+
+You are ALLOWED to:
+
+- Modify this pack only for personal uses.
+
+- Make a review about this pack, as long as you put original download link in description (Curseforge or Mcpedl).
+
+You are NOT ALLOWED to:
+
+- Use or claim my codes from this pack without my permission.
+
+- Distribute the modified pack to public.
+
+- Redistribute this pack to other sites (9minecraft, modbay and etc.)
+
+- Share links that are not from original sources (Curseforge or Mcpedl).
+
+Original:
+
+Just Enough Items : https://www.curseforge.com/minecraft/mc-mods/jei

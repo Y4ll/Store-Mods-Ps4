@@ -1,0 +1,112 @@
+AmbiMod | Dynamic Ambient Sounds
+
+Dynamic ambient sounds for Minecraft Bedrock
+Biomes Weather Day/Night Ocean Wind Caves Indoor
+
+Now available in Minecraft 1.21.120+ And 26.X+ BEDROCK
+
+AmbiMod is a lightweight client-side ambient audio addon for Minecraft Bedrock that makes the world react to your surroundings in real time.
+
+The environment changes with your biome, weather, time of day, altitude, water, caves, and indoor surroundings, creating a more alive and immersive Minecraft experience without changing the core gameplay.
+
+AmbiMod is designed to make transitions feel natural. Its stability system prevents constant sound switching when crossing borders between environments, while overlapping transitions help avoid abrupt audio cuts.
+
+Dynamic Environmental Audio
+
+Day & Night
+
+Different environments react to the time of day.
+
+Forests, plains, swamps and other natural areas come alive with daytime birds, while nighttime switches to a darker nocturnal atmosphere.
+
+Jungle Ambience
+
+Jungles have their own atmosphere.
+
+During the day, jungle ambience and birds play together, creating a denser tropical soundscape instead of simply replacing the normal daytime environment.
+
+Desert Storms
+
+When rain or thunderstorms affect dry environments, AmbiMod can switch to a dedicated desert storm atmosphere, bringing strong dry wind and storm ambience to places where normal rain sounds would not fit the environment.
+
+Wind & High Altitude
+
+Wind becomes more prominent in windy environments and at high elevations.
+
+At Y=150 and above, the high-altitude wind environment takes priority, even when the terrain below cannot be detected reliably.
+
+Ocean & Coastal Ambience
+
+Approaching large bodies of water or marine environments can trigger ocean wave ambience, giving beaches and coastlines a more natural acoustic identity.
+
+Dynamic Weather
+
+AmbiMod reacts to changing weather conditions and can switch the environment to:
+
+- Rain
+
+- Thunder
+
+- Desert storms
+
+Weather takes priority over normal wildlife ambience when appropriate, allowing the world to become noticeably quieter and more atmospheric during storms.
+
+Cave Ambience
+
+Descending below Y=40 activates a dedicated underground atmosphere.
+
+Caves use their own sound environment to create a darker and more enclosed feeling while exploring underground.
+
+Indoor Ambience
+
+AmbiMod detects enclosed spaces using the surrounding blocks.
+
+When a player remains inside a properly enclosed structure, the outdoor ambience transitions to a quieter indoor version rather than abruptly cutting off.
+
+The indoor system uses separate audio definitions so the outside ambience can be reduced while preserving the original soundscape.
+
+Stable & Natural Transitions
+
+AmbiMod uses stability checks and transition delays to prevent the audio from rapidly switching when moving around environmental borders.
+
+The system can also preserve the previous ambience when the environment cannot be reliably identified, avoiding artificial jumps to a default sound.
+
+Technical Details
+
+- Client-side
+
+- Designed for Minecraft Bedrock
+
+- Dynamic biome and terrain detection
+
+- Dynamic weather detection
+
+- Day/night detection
+
+- High-altitude wind detection
+
+- Ocean and water detection
+
+- Cave detection
+
+- Indoor environment detection
+
+- Stability protection against rapid environment switching
+
+- Ambient sound repetition system
+
+- Designed to work alongside vanilla gameplay
+
+Modpacks
+
+AmbiMod can be included in modpacks on CurseForge or Modrinth without prior permission, provided the modpack complies with the platform's own rules and AmbiMod's distribution terms.
+
+Compatibility
+
+Minecraft Bedrock 1.21.120+
+
+Feedback & Support
+
+Found a bug or have a suggestion?
+
+Leave a comment on the project page or contact me through the links on my profile.

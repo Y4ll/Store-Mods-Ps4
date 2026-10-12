@@ -1,0 +1,13 @@
+Minecraft But Chests are OP makes every chest worth opening by replacing ordinary loot with powerful, tier-based rewards. Chests are divided into different tiers depending on the structure you find them in, with better structures offering increasingly powerful loot. Even early-game chests can now give you lightly enchanted iron or diamond gear, while higher-tier chests can contain netherite, diamond blocks, enchanted golden apples, totems, and other rare items.
+
+Village chests are also more unique, with each villager profession having its own signature loot pool. If you're extremely lucky, any chest, barrel, or vault has a 10% chance to trigger the Jackpot, instantly giving you two distinct pieces of fully max-enchanted gear plus a bonus reward.
+
+Features
+
+- Tiered Chest Loot - Loot gets better depending on the structure and chest tier.
+
+- OP Rare & Epic Loot - Find netherite ingots, diamond blocks, enchanted golden apples, Totems of Undying, shulker shells, and more.
+
+- Village Signature Loot - Every villager profession has its own dedicated chest loot pool.
+
+- More Reasons to Explore - Structures become much more rewarding and exciting to discover.

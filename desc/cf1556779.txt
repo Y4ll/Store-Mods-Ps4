@@ -1,0 +1,42 @@
+Survival Mode 32k Gear
+
+This add-on adds fully enchanted netherite level, diamond level, and other tools/armor to your world through a simple craftable item.
+
+Best use case (imo): Download, apply to your world or realm to gear up, then remove the addon so no one else can use it.
+
+The Guidebook is used to obtain the items:
+Crafting Recipe: Book + Diamond
+
+Open the guidebook to choose a kit:
+
+- 32K Illegal (Netherite) full netherite gear with incompatible enchant combos at level 32,767
+
+- 32K Illegal (Diamond) full diamond gear with incompatible enchant combos at level 32,767
+
+- Max Vanilla Illegal (Netherite) full netherite gear with incompatible enchant combos at normal vanilla max levels
+
+- Max Vanilla Illegal (Diamond) full diamond gear with incompatible enchant combos at normal vanilla max levels
+
+- 32K with Thorns (Netherite) full netherite 32K gear with Thorns 32,767 on all armor pieces
+
+- 32K with Thorns (Diamond) full diamond 32K gear with Thorns 32,767 on all armor pieces
+
+- 32K Enchanted Books every enchantment available as a book at level 32,767
+
+- 32K Doors 32K enchanted doors
+
+- Modified 32K Tools selectively tuned 32K gear: bows with reduced Punch (Level 2), a diamond sword with no Knockback, and a diamond pickaxe with Fortune 100 (all other enchants at 32K)
+
+FYI: Crossbows do not work with high levels of Quick Charge so those enchants have been limited to 3
+
+A chest spawns at your feet containing the items. The enchantments are at level 32,767 for most options and are the real values, not engine-capped. Avoid spawning the new chest next to an existing chest (It will make a double chest with no items!)
+
+Image of Items in Kits
+
+No Player.json - Achievement Friendly - Realm Friendly
+
+DISCORD SERVER: Loyallay's Discord Server
+
+Please delete the old version from your device before installing any update version
+
+Check out my profile for other Add-ons, Texture Packs, Worlds, and Skin Packs!

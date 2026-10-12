@@ -1,0 +1,69 @@
+This addon allows you to sit, lie down, crawl, and climb over walls! The first-person camera adjusts its position depending on the body's state! You can also crawl through a 1-block hole! It also works in multiplayer!
+
+LIST OF FEATURES:
+
+First-person body rendering! When you sit or lie down, you can see your body even from 1st person!
+
+You can crawl through small holes! It's not just animations, the player actually changes their size, allowing you to build a house that is only 1 block tall! With a great first-person view!
+
+You can climb over walls! If a wall is less than 4 blocks in height, you can approach it and jump to grab its edge. From there, you can move sideways or press the spacebar to climb over it!
+
+The camera position changes from 1st person! When you are sitting or lying or crawling, the camera is at your eye level even from 1st person!
+
+You can sit on stairs! You can approach a stairs block and click on it while holding an item, or start breaking it with your empty hand in survival mode, and you will sit on it!
+
+Supports characters from Character Creator! You can sit, lay, crawl, etc. using your character created in the Character Creator! Even animated items and capes are supported!
+
+Great physics and collision detection! When you crawl, sit, or lie down, you can only stand up if there is enough free space for it! Also, to lie down, there must be enough horizontal space for your legs! Also, when you crawl on all fours, you can climb up blocks, but when you crawl on your belly, you cannot!
+
+In some body states the head rotation is limited! When you are sitting, you can only turn your head by 90 degrees, and when you are lying down, only by 10 degrees! This means that you cannot rotate your head by 360 degrees when it is physically impossible!
+
+Your body state is preserved after rejoining the world! If you left the world while sitting, lying down, or crawling, when you return to the world, your body will remain in the same position!
+
+Supports multiplayer! This addon works great on Realms, BDS, and other servers, and can handle hundreds of online players!
+
+Fully customizable! You can disable first-person body rendering, disable certain body actions, make the player sit, lie down, or crawl using the /function command, and many other settings!
+
+Reliable stuff! Each version is thoroughly tested, and any bugs are eliminated with a 95% probability before publication! However, if you still manage to find a bug, feel free to report it in the comments!
+
+Download BP and RP and put these 2 packs into your Minecraft world!
+
+- Enable these experiments: "Beta APIs"
+
+- Only stable Minecraft versions are supported. (not beta or preview)
+
+- This addon uses "player.json" and is not compatible with other addons that also use it
+
+HOW TO USE:
+
+To sit down, just look as far down as possible and sneak.
+
+To lie down, just look as far up as possible and sneak.
+
+To start crawling on all fours, first sit down and then just walk forward.
+
+To start crawling normally, jump while crawling on all fours. Jump again to get back on all fours.
+
+To get up, just press sneak.
+
+To grasp onto a wall, approach it closely, look slightly upwards, and jump. Then you can move along the edge of the wall to the right or left, or climb onto it by jumping.
+
+Grasping is only possible under the following conditions:
+
+- Both of your hands are free (not holding any items)
+
+- The height of the wall is not more than 3 blocks.
+
+- You're not sneaking
+
+- You are looking slightly upwards (not at a 90-degree angle, but within the range of 30 to 85 degrees).
+
+To sit on a stairs block, approach it as close as possible, hold any item in your hand, and click on the block. Alternatively, you can start breaking it with your empty hand in survival mode.
+
+Sitting on the stairs is only possible under the following conditions:
+
+- The stairs block is at the level of your feet, or you are standing on it.
+
+- You're standing on the ground
+
+- Distance to the stairs block is less than 1.5 b

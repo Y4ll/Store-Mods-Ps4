@@ -1,0 +1,85 @@
+About
+
+- DynamicSurroundings-Remastered Sounds immerses you in over 800 dynamic sound effects and ambient sounds, revolutionizing the atmosphere of Minecraft. Experience a more realistic gameplay with just the power of sound as a ResourcePack! for BEDROCKKKKK
+
+- This sounds pack is an official fork "DynamicSurroundings" sounds pack!
+
+Features
+
+- 800+ Sound effects in total.
+
+- Biome-dependent ambient sounds such as Jungle, Forest, Ocean, Beach, Desert, Deep-dark Cave&Cliffs, etc...
+
+- Unique entity ambient sounds depend on where they naturally spawn.
+
+- Unique utilities sound effects such as picking items, bow & crossbow, combat, walking, running, wandering, explosion, etc...
+
+- Unique and realistic weather sound effects such as rain, thunder, storm, wind, etc...
+
+- Enhance overall Minecraft's soundscapes.
+
+- Smooth overall fade in and fade out sounds.
+
+Relations: BY FOLLOWING THE MIT & GNU LISENCES
+
+- DynamicSurroundings By OreCruncher
+
+- PresenseFootsteps By S0llace
+
+- AmbientSound5 By CreativeMD
+
+- Zoom H1 N Digital Recorder Musik Produktiv.
+
+NOTES
+
+- Don't spawn too many mobs around you (The way this sounds pack work is naturally/Not that way)
+
+- Best experience with headphones
+
+- The ambient sounds not work like any other mods. It only alters Minecraft's original sounds with simple coding process.
+
+- This pack is only for players who enjoy sounds while playing the game.
+
+Dependency/Requirements/Versions/Compatibles
+
+- All current version since the Nether update.
+
+F.A.Q.
+
+- Why are there so many layering (weird sounds)?
+
+- Since this is a sound pack, there are quite a few limitations on how it works. Layering sounds are common.
+
+- Does it work like the original mod?
+
+- It just a sound resource pack, maybe more.
+
+- Bugs&Error Reports
+
+- Message me.
+
+- I do not hear any sounds
+
+- Make sure this pack is on the top of your texture packs section also mod resources too, also check your volume for sure.
+
+- Version compatible?
+
+- Compatible from 1.13 all the way to lasted, and Bedrock Edition(port), and will not work in snapshots/vanilla versions. (Read the Dependency)
+
+- This sounds pack is not working for me
+
+- sounds.json conflict with other pack/mod assets.
+
+- Can I use this pack on my mod pack, server, etc....?
+
+- Yes, you can, considering credit.
+
+- Too many layering sounds!
+
+READ
+
+- 3rd Party reuploads are allowed, but require permission and crediting.
+
+- All assets under this pack are following MIT and GNU licenses and CCI=0..
+
+Have Fun !

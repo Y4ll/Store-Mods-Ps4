@@ -1,0 +1,32 @@
+REQUIRES A SHADER LOADER TO WORK!!! CUSTOM SHADERS ARE NOT OFFICALLY SUPPORTED
+
+This shaderpack aims to provide a dynamic stylized experience for bedrock edition. Most effects in this shader pack are dynamic. During Rain, sunrise sky wont look the same as noon sky. Fog brightness depends on the direction of the sun and its height, which applies to underwater effect. Details like these are what makes the shader truly dynamic.
+
+It supports Android, Windows and ios.
+
+Features:
+
+stylized skybox
+
+directional lighting
+
+custom ao
+
+Night
+
+sunrise
+
+Cloudy fog
+
+beautiful underwater effects
+
+puddles during raintime
+
+water effects
+
+bliss inspired end sky
+
+Installations:
+
+Follow this awesome guide on how to install shaders:
+https://faizul726.github.io/blog/how-to-use-renderdragon-shaders/

@@ -1,0 +1,15 @@
+1.2.0 Changes
+
+Fixed padding disappearing when Done! text appears
+
+Do you want the amazing Realms loading screen from years ago? This pack changes the progress screen to old one.
+
+The cancel button won't work until the conditions are met.
+
+Realms screen: (Without > With this pack)
+
+Pause menu
+
+Without pack
+
+With pack

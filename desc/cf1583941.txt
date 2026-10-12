@@ -1,0 +1,21 @@
+A complete UI overhaul in one bold color. Black UI reskins every screen in Minecraft menus, dressing room, inventory, and crafting into a sharp, consistent dark theme from start to finish.
+
+What Gets Reskinned
+
+- Main Menu buttons, panels, and layout all in deep black
+
+- Dressing Room skin selection screen reskinned to match
+
+- Loading Screen dark-themed loading bar and tip box
+
+- Inventory & Crafting Table clean black interface
+
+- All other container UIs furnace, chests, and more
+
+Important Note
+
+After activating this pack, restart Minecraft. Some UI elements may appear buggy or not load correctly until the game is restarted.
+
+Pure Aesthetic, Zero Gameplay Impact
+
+UI-only pack. All slots, buttons, and functions work exactly as normal. Just a complete black makeover.

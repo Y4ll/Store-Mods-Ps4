@@ -1,0 +1,71 @@
+Inspired by 'Inventory Pets' by PurpliciousCow
+
+Item Pets is an exciting addon which will add in 13 new collectible pets in the form of items! These pets will make you stronger, so long as you care for them!
+
+How do pets work?
+
+Item Pets will only work when kept in your hotbar, any other inventory slot, or somewhere like a chest, is a place where they will rest and not do any work.
+
+Whilst in your hotbar, pets will perform actions either passively overtime, or when you hold them and activate their abilities! As a pet works, you will see its energy decrease indicated by the energy meter below its icon.
+
+Once a pet is out of energy, it will be unable to help you out untill it's energy is restored, which can only happen if you give it its food
+
+Each pet has different food, and will eat from any slot in your inventory if it gets hungry!
+
+What pets can i get?
+
+As of 1.3.0, you can get 20 different pets in the addon, see a list below for details on what they are and what they do!
+
+- Chicken Pet, increasing your movespeed and slowing your falls
+
+- Slime Pet, boosting your jump height and reducing fall damage
+
+- Blaze Pet, strengthening your attacks and granting fire immunity
+
+- Creeper Pet, letting you blow up anything nearby when used (except yourself, of course!)
+
+- Enderman Pet, letting you teleport anywhere you look instantly when used
+
+- Axolotl Pet, which will heal you very quickly if your health is low
+
+- Breeze Pet, who levitates you upwards if you crouch
+
+- Bed Pet, instantly skipping from night to day when used
+
+- Creaking Pet, who will make you very resistant to damage when used
+
+- Spider Pet, letting you climb up walls
+
+- Squid Pet, boosting your speed in the water
+
+- Glow Squid Pet, granting you night vision
+
+- Nightmare Pet, boosting your strength and giving you darkness
+
+- Camel Pet, letting you dash forward
+
+- Wither Pet, withering those you attack and making you immune to poison
+
+- Ghast Pet, letting you shoot fireballs
+
+- Nautilus Pet, letting you breathe underwater
+
+- Warden Pet, showing the locations of nearby ores through walls
+
+- Vex Pet, allowing you to enter temporary ghost form
+
+- Copper Golem Pet, automatically sorting your inventory when needed
+
+Where do i get pets from?
+
+All pets have a small chance to drop from their respective mob (in the case of the creaking, it will drop from it after breaking its heart) - The rarer mobs such as Breezes will have a higher chance of dropping a pet compared to something common like a Chicken
+
+For the bed pet, it can be found in villager chests
+
+The Nightmare pet can be found in ancient city chests
+
+Important Notes
+
+This addon needs no experimental toggles enabled, and works for any version as of 26.0
+
+Join my Discord for future sneak peeks, and more!

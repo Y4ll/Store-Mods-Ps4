@@ -1,0 +1,79 @@
+Optimum Realism Bedrock RTX Edition
+
+A realistic, FPS-friendly PBR resource pack for Minecraft Bedrock Edition built with an automated pipeline that keeps every block up to date.
+
+Vibrant Visuals Compatible RTX Ready Deferred Shaders Supported
+
+\[\\\[Recommended to use with the BetterRTX mod\\\]\](https://discord.gg/minecraft-rtx-691547840463241267)
+
+Trailers
+
+Java Edition:
+
+Bedrock Edition:
+
+What's New
+
+Optimum Realism's Bedrock pipeline has been completely rebuilt. Every block is now processed through a custom-built automation tool that converts the full Java pack to Bedrock RTX format with consistent PBR quality across the board.
+
+- Full 1.21.5 support copper, pale garden, resin, eyeblossoms, and every new block
+
+- Vibrant Visuals compatible works with Minecraft's new PBR graphics on Xbox, PlayStation, mobile, and PC
+
+- RTX and deferred shader support full PBR pipeline with BetterRTX, YSS SE, and other deferred shaders
+
+- Automated quality every block gets the same PBR treatment, no manual conversion gaps
+
+Is it free?
+
+Yes, partially. The 64x version of Optimum Realism is free. Higher resolutions (128x, 256x ) are member-exclusive.
+
+Become a member from either of the following:
+
+System Requirements
+
+RTX (BetterRTX mod):
+
+Just an RTX graphics card is required to run this texture pack smoothly.
+
+Deferred shaders on PC:
+
+A GTX 1050 is recommended but not required. Performance depends on your world type and shader settings.
+
+Deferred shaders on mobile:
+
+A mid-range device is recommended. YSS SE Shaders is the recommended deferred shader for mobile. Performance may vary by device.
+
+Vibrant Visuals:
+
+Works on any device that supports Minecraft's Vibrant Visuals mode Xbox Series X|S, Xbox One, PlayStation 4/5, Android, iOS, and PC. No additional mods needed.
+
+Features
+
+- 690+ PBR materials processed through an automated pipeline
+
+- Updated for Minecraft 1.21.5 with full block coverage
+
+- Vibrant Visuals, RTX, and deferred shader compatible
+
+- Runs on PC, console, and mobile with PBR
+
+- 3M+ downloads across all platforms
+
+- An exemplary balance between quality and performance
+
+Physically Based Rendering with the following maps:
+
+- Colour
+
+- Normal
+
+- Height (Displacement)
+
+- Emissive
+
+- Metallic
+
+- Roughness
+
+- Opacity

@@ -1,0 +1,5 @@
+YSS RD is a shader built on the Vanilla RenderDragon engine. Introducing the fundamental edition of the YSS.
+
+You will need Android(MB Loader), IOS(Hynis Loader), Windows(BetterRenderDragon) load the shader, it won't work with the Original Minecraft.
+
+The shader have three profile to change, new, old and performance.

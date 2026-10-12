@@ -1,0 +1,140 @@
+Information :
+
+Since minecraft v26.32 release, there's a bug that makes the game can't read specific file from the pack, i've waited for a couple update to see if they're already fix this bug but they didn't. so i update the pack so you can use it in the newest version of the game
+
+Changelog :
+
+Summary : new subpacks, new settings button and sliders to change player model and remove unnecessary things
+
+- Add 2 new subpacks and remove the last 2 subpacks
+
+- Custom Settings
+
+- Custom Settings [AnS]
+
+- Adding some pack settings compatibility to set player model size
+
+- Player Size
+
+- Player Head
+
+- Player Arms
+
+- Player Legs
+
+- Stretch Player Arms
+
+- Stretch Player Legs
+
+- Split Head Control
+
+- Stretch Player Head Sideways
+
+- Stretch Player Head Down/Upward
+
+- Stretch Player Head Back/Forward
+
+- Add 2 localization including English, Indonesian Language for pack settings
+
+- Re-write and redesign the whole page for better UI and easy to read
+
+what a coincidence!! XD
+
+you know that in this update, Minecraft introducing baby update :p
+
+so, i bring back my old project from 2024.
+
+the cuteness of that style making me wanted to get it inside minecraft itself. but, mojang has been limiting us from editing player model. so, after soo many trial n error to make it compatible with custom skin and make it compatible when player using an armor, it's finally done ;) yippie.
+
+SUBPACKS
+
+SUBPACKS
+
+DESCRIPTION
+
+Custom Settings
+Customize the player model as small or as big as you wants
+
+Custom Settings [AnS]
+same as above, but for Action n Stuff
+
+Player Mobvote
+Change the model of the player (not customizable)
+
+Player Mobvote [Action n Stuff]
+same as above, but for Action n Stuff
+
+SETTINGS
+
+DESCRIPTION
+
+Player Size
+Set the Player size smaller or bigger [default is 50]
+
+Player Head
+Set the Player Head Size [deafult is 100]
+
+Player Arms
+Set the Player both Arms Size [deafult is 100]
+
+Player Legs
+Set the Player both Legs Size [deafult is 100]
+
+Stretch Player Arms
+Stretch the Player Arms Size downward [deafult is 100]
+
+Stretch Player Legs
+Stretch the Player Legs Size downward [deafult is 100]
+
+Stretch Player Legs
+Stretch the Player Legs Size downward [deafult is 100]
+
+Split Head Control
+Turn on Advanced Control for you to set the player head more flexible [deafult is off]
+
+Stretch Player Head Sideways
+Stretch the Player Head Size Sideways [deafult is 100]
+
+Stretch Player Head Down/Upward
+Stretch the Player Head Size up/downward [deafult is 100]
+
+Stretch Player Head Back/Forward
+Stretch the Player Head Size back/forward [deafult is 100]
+
+i HOW IT WORKS
+
+Changing to a different Subpacks or Variant
+
+if you're new in Minecraft, and don't know what the subpacks is. please scroll down at the bottom of this Description, and read the FAQ below you'll find "Pack Settings & Subpacks" section
+
+Set Custom Subpacks
+
+below subpack slider, there's a lot of customization you can set. i separate them so you can choose either setting up the size of the head part of the hand or the legs.
+
+How to Control it?
+
+- Make sure you've set the subpack to "CUSTOM"
+
+- Below it, there are some sliders
+
+- you can see the text above the slider that describe what it can do.
+
+- just slide to any number number, then you're done :)
+
+- Even you can change this settings while playing the game
+
+CONTENT LIMITATION
+
+Content Limit
+
+Customizable Settings
+
+- Since the "body" bone is the parent for everything else. i can't set that bone setting for you. if i do, it's just gonna change the whole player body
+
+Player MobVote's Subpacks
+
+this limitations list below only for you who choose Player MobVote Subpacks
+
+- This pack can only use 2D custom skin. it CAN'T use skin from character creator, also some of skin from marketplace having an UV error, so it'll look weird. if you're choosing skin from character creator, even from the base one, it'll change it to steve skin
+
+- if you're using any other pack that's contain or change Player Entity, this pack won't work or the other way around, their pack won

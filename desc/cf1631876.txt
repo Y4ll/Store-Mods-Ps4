@@ -1,0 +1,39 @@
+DISCLAIMER
+
+Enable all the experiments for this addon to work
+
+THIS MOD HAS HEAVY FLASHING LIGHTS THAT MAY BE UNSUITABLE FOR PEOPLE WITH PHOTOSENSITIVITY.
+
+This addon is an authorized port of the Java mod called beyond_the_skybox which was created by nimblerod
+
+This mod was heavily inspired based off of TBoTV/mark101 ARG series.
+
+Singleplayer and multiplayer work fine.
+
+Join the Discord server and Telegram channel!
+
+Current content
+
+- Some items
+
+- Some blocks
+
+- 7 dimensions
+
+- 1 story line
+
+Credits
+
+- Nimblerod: creator of the Java mod
+
+- WeksTheCreator: creator of the Bedrock Edition port
+
+- JecksMC: models and animations
+
+- Sans10189: many dimensions and custom UIs
+
+Permission:
+
+Links
+
+Original Java mod - https://www.curseforge.com/minecraft/mc-mods/beyond-the-skybox

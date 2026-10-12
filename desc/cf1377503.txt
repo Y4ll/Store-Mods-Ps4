@@ -1,0 +1,7 @@
+Dynamic Light by Four will allow you to create light as you walk around your world, making the caves easier to navigate and ores easier to see.
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on
+
+Achievement Compatible

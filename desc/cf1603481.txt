@@ -1,0 +1,52 @@
+Newb Nightfall
+
+A fantasy-inspired shader pack for Minecraft Bedrock Edition featuring immersive skies, atmospheric lighting, enhanced clouds, and beautiful nighttime visuals.
+
+Features
+
+- Beautiful night sky
+
+- Enhanced clouds
+
+- Improved sunrise and sunset colors
+
+- Fantasy-inspired lighting
+
+- Atmospheric visuals
+
+- Optimized for Minecraft Bedrock (RenderDragon)
+
+Requirements
+
+- Minecraft Bedrock Edition
+
+- Compatible patch / MB Loader required for RenderDragon shaders.
+
+Credits
+
+Original Project
+
+- Newb
+
+Developed by
+
+- Emerald Guy
+
+- devendrn
+
+Redistribution Warning
+
+[!WARNING]
+This is the official CurseForge release of Newb Nightfall.
+
+Downloading from unofficial websites is not recommended.
+
+Redistributing, reuploading, modifying, mirroring, or republishing this shader pack on any website, application, or file-hosting service without my explicit permission is strictly prohibited.
+
+I do not tolerate unauthorized redistribution of my work. Any unauthorized uploads may be reported, and I will pursue the appropriate copyright enforcement or takedown procedures provided by the platform.
+
+Please support the original developers by downloading Newb Nightfall only from the official project page.
+
+Disclaimer
+
+This project is unofficial and is not affiliated with or endorsed by Mojang Studios or Microsoft.

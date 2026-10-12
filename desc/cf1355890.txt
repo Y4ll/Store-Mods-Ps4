@@ -1,0 +1,31 @@
+Introduction to the Ruins City Module Pack
+
+This is a Minecraft BE mod pack based on the puzzle structure. After installing the expansion pack, it features the Lost Cities mod inspired by JAVA, which the author particularly loves.
+
+This mod will bring a naturally generated wasteland city spanning over 200200 meters to the game. The city is connected by roads and used cars, diverse apartment buildings and complete interiors.
+
+Cities will refresh a large number of random reward boxes in every abandoned building, with an abundance of supplies.
+
+In some hidden areas, you'll find surviving villagers and their camps!
+
+Of course, there are some obstacles in the city. Large libraries and hospitals will generate large zombie bosses who will constantly send zombies to the player to cause trouble. You must eliminate all of these zombie bosses to ensure absolute safety of the area.
+
+How to experience
+
+When creating the world, make sure to open all experiment contents after installing the behavior pack and resource pack
+
+Then look around the world for plains and you'll have a chance to encounter city structures, or command input/localise structures in Minecraft: Village (note: You'll need to find a plain village)
+
+You'll see its huge outline at the edge of town.(Here lazy use of the previous version of the random city screenshots, I hope you do not mind)
+
+current state
+
+A new version featuring a decayed urban environment has been flawlessly launched.
+
+You can also add other modules to this base, such as zombie or horror modules, to enrich the gaming experience.
+
+Large city structures can cause block generation delays during gameplay-keep an eye out for this potential problem.
+
+Feel free to share your feedback in the comments section!
+
+I'll check it out regularly and make improvements as needed.

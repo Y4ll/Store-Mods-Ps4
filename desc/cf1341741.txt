@@ -1,0 +1,71 @@
+Fruits In Trees
+
+A complete Minecraft Bedrock addon adding guava, mango and orange trees that spawn naturally, grow through stages, provide new foods and placeable fruit blocks scripted growth and sapling crafting included. Designed for Bedrock (recommended 1.21.90+).
+
+Overview
+
+Fruits In Trees brings three new fruits into the Minecraft world: Guava, Mango and Orange. Each fruit appears as placeable fruit blocks with three visual growth stages, spawns from natural trees in appropriate biomes, and can be grown using craftable saplings. The addon combines .mcstructure features, feature_rules and JS block handlers to deliver a polished, survival-friendly experience.
+
+Core Features
+
+- Natural tree generation: New tree structures spawn via feature rules and weighted features for variety (guava, mango, orange variants and grown variants).
+
+- Three new fruits: guava, mango and orange, each with item definitions and placeable fruit blocks.
+
+- Placeable fruit blocks: fruitsintrees:guava_block, fruitsintrees:mango_block, fruitsintrees:orange_block each with 3 growth-stage permutations and custom geometries/textures.
+
+- Craftable saplings: Shaped recipes let players craft saplings using fruit + oak sapling (e.g. fruitsintrees:guava_sapling_crafting).
+
+- Scripted growth system: Custom block components (fruitsintrees:growth_handler, fruitsintrees:placer_de_estrutura) manage random-tick growth, structure loading and drops.
+
+- Interactive harvesting: Tap/right-click ripe fruit to collect food items; use shears to collect fruit block items for decoration (*_block_item).
+
+- Weighted & grown variants: Weighted features produce a healthy mix of regular trees and rarer grown variants for diversity.
+
+- Food & balance: Fruit items (fruitsintrees:guava_item, fruitsintrees:mango_item, fruitsintrees:orange_item) are food items with nutrition and use animations.
+
+Items, Blocks & Recipes
+
+Items & blocks
+
+- fruitsintrees:guava_item, fruitsintrees:mango_item, fruitsintrees:orange_item edible fruit items (registered to creative / food menus).
+
+- fruitsintrees:guava_block_item, fruitsintrees:mango_block_item, fruitsintrees:orange_block_item placeable fruit blocks via block_placer.
+
+- fruitsintrees:*_sapling_item sapling items that place corresponding sapling blocks (fruitsintrees:*_sapling_block).
+
+Crafting
+
+- fruitsintrees:guava_sapling_crafting: 8 guava + oak_sapling guava_sapling.
+
+- fruitsintrees:mango_sapling_crafting: 8 mango + oak_sapling mango_sapling.
+
+- fruitsintrees:orange_sapling_crafting: 8 orange + oak_sapling orange_sapling.
+
+Spawning & Biomes
+
+- Guava trees: Spawn in jungle / mangrove_swamp / plains (see fruitsintrees:guava_tree_generation_rule).
+
+- Mango trees: Spawn in jungle / mangrove_swamp / plains (see fruitsintrees:mango_tree_generation_rule).
+
+- Orange trees: Spawn in forest / flower_forest / bee_habitat / plains (see fruitsintrees:orange_tree_generation_rule).
+
+- Placement resilience: Feature rules use scatter_chance, jittered_grid and heightmap queries for natural-looking placement.
+
+Growth & Harvesting Mechanics
+
+- Growth states: Each fruit block defines fruitsintrees:growth_stage with values 0,1,2. Permutations swap geometry/texture per stage.
+
+- Random-tick growth: The custom component fruitsintrees:growth_handler increments the growth state on random ticks (scripted handler).
+
+- Harvest behavior: Interact with a ripe fruit to spawn the food item (fruitsintrees:*_item) and reset the block to stage 0.
+
+- Shears behavior: Breaking ripe fruit with shears yields the fruit block item (fruitsintrees:*_block_item) for decoration or transport.
+
+- Sapling placement: Sapling blocks use fruitsintrees:placer_de_estrutura to load the corresponding tree structure (offsets applied) when random-ticked.
+
+Technical Implementation
+
+- Structures: Each tree has its .mcstructure templates referenced by placer handlers and structure features.
+
+- Feature rules: Generation controlled by feature_rules/*.json for each fruit, using biome tags and distribut

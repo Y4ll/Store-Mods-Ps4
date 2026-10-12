@@ -1,0 +1,65 @@
+This is a rather small and simple mod, just adding meat for every passive mob, which you can all cook. Villagers also occasionally drop their noses which you can eat as a delicacy or cook into a slime ball.
+
+A bunch of these will probably look inaccurate due to the fact that I could not or did not want to find more information about them.
+
+If you're interested in even further vanilla friendly expansion of food then check out my ported mod Vanilla Cookbook
+
+Feel free to add this to your modpack.
+
+Compatibility Mods
+
+Farmer's Delight (made by Moaswies)
+
+Port Permission
+
+Special thanks to Moralle for creating this excellent mod
+
+Here is the original project link:Drop The Meat - Minecraft Mods - CurseForge
+
+List of which meat gets dropped by which mob(s):
+
+Raw Axolotl | Axolotls
+
+Raw Bat | Bats
+
+Raw Bear | Pandas and Polar Bears
+
+Raw Bee | Bees
+
+Raw Camel | Camels
+
+Raw Cat | Cats and Ocelots
+
+Raw Dolphin | Dolphins
+
+Raw Frog | Frogs
+
+Raw Fox | Foxes
+
+Raw Goat | Goats
+
+Raw Horse | Horses, Donkeys and Mules
+
+Raw Iron Golem | Iron Golems
+
+Raw Llama | Llamas and Trader Llamas
+
+Raw Parrot | Parrots
+
+Raw Sniffer | Sniffers
+
+Raw Squid | Squids
+
+Raw Strider | Striders
+
+Raw Turtle | Turtles
+
+Raw Villager and Villager Noses | Villagers and Wandering Traders
+
+Raw Wolf | Wolves
+
+Frozen Golem Nuggets | Snow Golems
+
+Piglin Porkchops | Piglins and Piglin Brutes
+
+All meat is cooked when the mobs are killed while burning

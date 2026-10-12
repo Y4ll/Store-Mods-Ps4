@@ -1,0 +1,171 @@
+Become the One Punch Man and unleash overwhelming power in Minecraft Bedrock! This addon transforms your player into an unstoppable Saitama-inspired hero, giving you devastating punches, incredible mobility, powerful landing attacks, and abilities capable of destroying groups of enemies in seconds.
+
+Whether you want to fight hordes of mobs, test your strength, or simply experience what it feels like to be absurdly overpowered, this addon puts the power of One Punch Man directly into your hands.
+
+FEATURES
+
+Weak Punch
+
+Your standard attack becomes a powerful Weak Punch.
+
+- Deals 20 damage
+
+- Applies additional knockback
+
+- Works with a normal attack
+
+- Perfect for dealing with regular mobs without using your stronger abilities
+
+Normal Punch Combo
+
+Sneak while attacking to unleash the Normal Punch Combo.
+
+- Initial punch deals 100 damage
+
+- Followed by 3 rapid additional punches
+
+- Each additional punch deals 75 damage
+
+- Total potential combo damage: 325 damage
+
+- Each hit applies increasing knockback
+
+- Can rapidly overwhelm powerful enemies
+
+Serious Punch
+
+Jump while sneaking and attack to unleash the Serious Punch.
+
+- Deals 9,999 damage to the main target
+
+- Creates a massive 15-block shockwave
+
+- Nearby entities receive additional damage
+
+- Enemies are launched away from the impact point
+
+- The shockwave affects multiple entities around the target
+
+This is no longer just a punch against one enemy it's an area-destroying attack.
+
+Overkill Punch
+
+Sneak + Sprint + Attack while on the ground to activate the Overkill Punch.
+
+- Deals 999,999 damage to the primary target
+
+- Creates a 20-block area shockwave
+
+- Nearby enemies can receive 250 damage
+
+- Massive knockback
+
+- Extremely powerful crowd-clearing attack
+
+When a normal Serious Punch isn't enough, go completely overboard.
+
+WIND BURST
+
+Your incredible jumping power also turns your landings into weapons.
+
+When you fall 3+ blocks and land, you release a Wind Burst.
+
+The power scales according to your fall distance:
+
+- Larger fall = stronger shockwave
+
+- Larger fall = greater knockback
+
+- Larger fall = larger affected area
+
+- Can launch nearby mobs away from you
+
+The Wind Burst can affect entities around your landing position, turning high jumps into powerful attacks.
+
+HERO LANDING
+
+Fall from 15+ blocks to activate the enhanced Hero Landing.
+
+Hero Landing combines multiple effects:
+
+Explosion
+
+A powerful explosion is created when you hit the ground.
+
+- Explosion power starts at 4
+
+- Gets stronger as the fall distance increases
+
+- Maximum explosion power is 8
+
+- Does not break blocks
+
+- Does not create fire
+
+- Works underwater
+
+Massive Shockwave
+
+The landing also creates a much larger shockwave.
+
+- Up to 20-block radius
+
+- Massive horizontal knockback
+
+- Powerful vertical launch
+
+- Nearby enemies receive additional damage
+
+- Damage scales with your fall distance
+
+- Maximum Hero Landing damage reaches 150
+
+This makes a huge fall feel like a true Saitama-style impact.
+
+SUPERHUMAN ABILITIES
+
+The addon permanently enhances your player with powerful effects.
+
+Massive Jump Boost
+
+You receive Jump Boost VI through the addon, allowing you to make enormous jumps and reach places normally impossible to reach.
+
+Extreme Haste
+
+You receive Haste VIII, dramatically increasing your mining and attack speed.
+
+Permanent Night Vision
+
+You receive permanent Night Vision, allowing you to see clearly in dark areas and caves.
+
+The effects have their particles hidden to keep your Saitama experience clean.
+
+COMPLETE ABILITY SYSTEM
+
+Your attacks now have different purposes:
+
+Normal Attack
+Weak Punch
+
+Sneak + Attack
+Normal Punch Combo
+
+Sneak + Jump + Attack
+Serious Punch + Shockwave
+
+Sneak + Sprint + Attack
+Overkill Punch
+
+Fall 3+ Blocks
+Wind Burst
+
+Fall 15+ Blocks
+Hero Landing + Explosion + Massive Shockwave
+
+BUILT FOR CHAOS
+
+The addon is designed around one simple idea:
+
+Give the player ridiculous power.
+
+Punch mobs across the battlefield, launch enemies into the air, destroy entire groups with Serious Pu

@@ -1,0 +1,37 @@
+Nature Expansion is an addon that transforms and enhances the classic trees in the game, giving them a more detailed and realistic design, which improves immersion in the environment. It also introduces an advanced tree cutting system with more dynamic and realistic mechanics, providing a richer and more satisfying experience when interacting with the natural world of the game
+
+No longer disables achievements
+
+When replacing the vanilla trees, they will spawn in the same locations within the world. In this update, the oak tree has been improved
+
+Oak Tree
+
+Unfortunately, I had to restart this addon from scratch, but now I bring you the new version, compatible with 1.21.51 and higher, featuring a more detailed and realistic oak tree.
+
+Additionally, this addon no longer requires experimental modes to function!
+
+Use a wooden, stone, iron, diamond, netherite, or gold axe to improve the cutting speed.
+
+Entire trees can drop up to 8 logs, with a 25% chance of dropping an apple, and sometimes they may also drop sticks.
+
+You can also use Silk Touch to harvest them and use the branches for decoration, adding a unique touch to your world.
+
+The trees also drop acorns, which you can plant to grow the tree again. If there isn't enough space on the ground, the acorn will pop out of the terrain, so make sure there's enough room to plant it properly!
+
+Birch tree
+
+Loon Update
+
+- Added spruce
+
+- Added acacia
+
+- Added dark oak
+
+Loon
+
+The loon is an ambient bird that perfectly enhances the atmosphere during Minecraft nights, and this update also introduces three new trees.
+
+Report bugs, see progress, give suggestions you can do it on discord: https://discord.gg/xnmkKrNfwc
+
+Cherry Update

@@ -1,0 +1,34 @@
+Quick Craft 3.0 Build Structures in One Click!
+Building structures is fun, but sometimes it takes too much time. With Quick Craft 3.0, you can create amazing builds instantly with just one click!
+
+Features,
+
+- Works in Survival Mode,
+
+- Achievement friendly,
+
+- Over 140+ ready-made structures,
+
+- Easy-to-use menu with categories,
+
+- One-click Undo option
+
+How to use:
+
+- First, craft the Hammer
+
+2. Use the Hammer anywhere you want to build, and a menu will open.
+
+3. Select a category (like houses, farms, portals, underground bases, etc.).
+
+4. Choose the structure you like from the list and click the button the structure will instantly appear in front of you.
+
+5. Didnt like the build or want to place it somewhere else? Just use the Hammer again and press the Undo button to remove the last built structure.
+
+Watch This Video For Better Understanding:
+
+Follow Me On Instagram: https://www.instagram.com/dante__gaming?igsh=bml6eDN2dHNlaTk0
+
+With Quick Craft 3.0, you can instantly build modern houses, castles, nether portals, farms, underground bases, and much more.
+
+All custom JavaScript files, UI logic, and structure data within this pack are the intellectual property of Dante Gaming. Modification, redistribution, or claiming this code as your own without explicit permission is strictly prohibited.

@@ -1,0 +1,17 @@
+Have you always wanted to create a beautiful atmosphere in the game?
+
+Then this modification is for you! It is very easy to use: just write a simple command /sit and you will be able to sit down.
+
+This modification is suitable not only for server admins but also for playing with friends.
+
+The mod doesn't just let you sit; it also reacts to changes. If you break the block under you, the player will stand up.
+
+You can also stand up by pressing the Sneak button (Shift).
+
+The modification is very lightweight and will not load your device.
+
+Attention: To use this mod, please enable Beta API in your settings.
+
+Please update to latest version (bug fixed)
+
+Also, check out my other modifications - maybe you will like them!

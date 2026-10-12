@@ -1,0 +1,80 @@
+Want to host a powerful and reliable Minecraft or Hytale server?
+Get started with Godlike click here
+
+The Easy Cinematic Addon helps you create cinematic scenes easily in Minecraft Bedrock & Pocket Edition. It has never been this easy to create amazing cinematic shots before. This addon gives you extensive control over the system while keeping things simple enough for any regular user to operate. Its especially useful for content creators and addon developers who want to showcase their work.
+
+Features:
+
+- Dedicated GUI Menu & Controller: Manage your cinematics effortlessly using an interactive ingame menu.
+
+- 3 Cinematic Modes:
+
+- Normal Mode: Custom target focus point for each keyframe.
+
+- Single Focus Mode: Lock camera focus onto a single target point throughout the entire path.
+
+- Fixed Direction Mode: Lock camera rotation angle while moving along keyframes.
+
+- Dynamic Entity Tracking Camera (new): Smooth, real-time third-person camera that dynamically follows target entities or players.
+
+- Smart Raycast Targeting: Look directly at any mob or player when opening the controller to auto-detect them, or select yourself / other players from the menu.
+
+- Fully Configurable: Customize follow distance (3-15 blocks), responsiveness speed, camera smoothness, and front or behind positioning.
+
+- Seamless Gameplay: Move freely with full player control and active HUD while tracking, with quick toggle (Start/Stop) and automatic safeguards.
+
+- Smooth & Curved Paths (new): Enable Catmull-Rom spline curves for natural, sweeping camera motion instead of straight lines.
+
+- Player Visibility Control: Hide or show players during camera playback per cinematic or as a world default.
+
+- Custom Particle Trails & Colors: Realtime path previews with customizable marker particle colors (Red, Yellow, Blue, Green, White).
+
+- Command Block & Tag Triggers: Trigger cinematics automatically via command blocks using player tags for cutscenes and maps.
+
+- Live Actionbar HUD: Display active cinematic mode, wait times, and keyframe details directly on your screen while holding tools.
+
+Instructions:
+
+- Download and install both the Resource Pack and Behavior Pack inside your world.
+
+- Acquire the cinematic controller from the creative menu, or by crafting it using 1x redstone dust, 1x iron ingot and 1x stick: place in verticle order in middle slots.
+
+- Access the main menu by right clicking while holding the Cinematic Controller.
+
+To use the new Dynamic Tracking Camera, look directly at any mob or player (or yourself) and right click with the Cinematic Controller, then choose Dynamic Tracking Camera to configure settings and start following!
+
+There's a Full Guide inside the addon which you can access from the Main Menu.
+
+Commands:
+
+This addon supports slash commands for quick cinematic management and command block automation:
+
+/cinematic:help - Shows all available commands
+
+/cinematic:create <name> [mode] [hidePlayer] - Create a cinematic (modes: normal, singlefocus, fixedrotation; hidePlayer: true, false)
+
+/cinematic:editcinematic <name> <property> <value> - Edit a cinematic property (property: hideplayer)
+
+/cinematic:delete <name> - Delete a cinematic
+
+/cinematic:rename <old> <new> - Rename a cinematic
+
+/cinematic:list - List all cinematics with dimension, mode name, and player visibility status
+
+/cinematic:play <name> - Play a cinematic
+
+/cinematic:addkeyframe <name> [speed] [easing] [waittime] - Add keyframe at your position
+
+/cinematic:editkeyframe <name> <index> <property> <value> - Edit a keyframe (properties: speed, easing, waittime)
+
+/cinematic:removekeyframe <name> <index> - Remove a keyframe
+
+/cinematic:listkeyframes <name> - List all keyframes for a cinematic with wait times
+
+/cinematic:menu - Opens the GUI Menu
+
+/cinematic:settings [setting] [value] - View or change addon settings:
+
+- playbackscope self|all - Choose whether a cinematic plays for "only me" or "all players" on a server.
+
+- globaldefaultspeed 1.0-5.0 - Set default camera speed for new 

@@ -1,0 +1,5 @@
+Takes Hotbar to bottom of the screen Like Minecraft Java
+
+This Recource Pack wont change other textures but if you're gona use this i recommend to use this Recource Pack with Java Hud UI (not mine) jave hud ui just makes this little bit more like java by changing xp bar.
+
+And place this pack top of other Gui packs so this recource pack would work and compatitiple with mobile phone didn't test with other devices can look little ugly on Tablet/Pc screens

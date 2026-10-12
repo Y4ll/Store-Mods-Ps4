@@ -1,0 +1,89 @@
+The most realistic body-temperature survival simulation for Minecraft Bedrock powered by biophysical thermodynamics.
+
+This is not just a hot/cold gauge. Thermologic simulates core body temperature using real heat-transfer physics. Pair with Hydration Logic for a complete physiological survival experience both addons work independently.
+
+Main Features
+
+Dynamic Biome Climate (Koppen Classification)
+
+Air and water temperatures change smoothly via sine curves based on real climate zones.
+
+- Desert: Scorching 47C days, 14C nights.
+
+- Jungle: Wet-bulb limit heatstroke even in shade without water.
+
+- Ice/Snow: Constant sub-zero. Hypothermia without proper gear.
+
+Environment HUD
+
+Real-time action bar display of body temperature, air temp, water temp, and weather. Toggle with /thermo:hud on|off.
+
+Wetness A Deadly Threat
+
+Water conducts heat 25 faster than air. Wet clothes continue draining body heat via evaporative cooling until you dry off near a campfire.
+
+Armor Insulation (Clo) & Conductivity
+
+Leather insulates well in cold but traps heat in deserts. Metal armor conducts extreme temperatures directly to your skin.
+
+Realistic Physiological Responses
+
+- Shivering Auto heat generation in cold; hunger drains faster.
+
+- Sweating Evaporative cooling in heat; hidden saturation consumed.
+
+- TEF (Digestive Heat) Eating warms you for several minutes.
+
+- Fever Food poisoning triggers 39C fever with severe chills.
+
+- Drinking Potions and water gradually cool core temperature.
+
+Environmental Interaction
+
+- Direct sunlight raises body temperature seek shade or caves.
+
+- Campfires, lava, torches are heat sources; ice and snow are cold sources.
+
+- Huddle with players or animals within 3 blocks for shared warmth.
+
+Hydration Logic Integration (Optional)
+
+- Combined HUD: Hydration | Body Temperature
+
+- Dehydration reduces sweating and shivering efficiency
+
+- High body temperature accelerates thirst loss
+
+- Drinking gradually cools core temperature (amount-based)
+
+- Language sync between both addons
+
+Commands
+
+- /thermo:lang <en|ja> Switch language
+
+- /thermo:diff <easy|normal|hard> Difficulty (temperature change speed)
+
+- /thermo:hud <on|off> Environment HUD (default: on)
+
+- /thermo:log <on|off> Debug log (default: off; shows hydration data when paired)
+
+Debuffs & Lethal Zones
+
+- Hypothermia (< 35.0C): Shivering hunger drain
+
+- Severe (< 34.0C): Mining slowdown, slowness
+
+- Hyperthermia (> 38.0C): Heavy sweating
+
+- Severe (> 39.0C): Nausea, weakness
+
+- Lethal ( 33.0C or 40.0C): Death by hypothermia or heatstroke
+
+Requirements
+
+- Enable Beta APIs experiment
+
+- Minimum version: 1.21.50
+
+Bug reports: Feedback Form

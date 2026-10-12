@@ -1,0 +1,220 @@
+Ultra Series Horror Addon V3.2
+
+Unofficial Update
+
+Step into a terrifying world filled with giant nightmare creatures, dark forests, disturbing sounds, and enhanced horror survival gameplay.
+This unofficial V3.2 update improves almost every part of the addon while keeping the original horror atmosphere alive.
+
+The addon now features improved textures, enhanced spawn systems, optimized sound settings, upgraded UI elements, cleaner entity behavior, better survival balance, and many new horror improvements.
+
+Included Horror Creatures
+
+-
+
+Siren Head
+
+-
+
+Light Head
+
+-
+
+Cartoon Cat
+
+-
+
+Cartoon Dog
+
+-
+
+Fog Creature
+
+-
+
+Siren Head Boss
+
+-
+
+And More Hidden Horror Creatures...
+
+Major V3.2 Improvements
+
+Improved horror atmosphere
+Enhanced entity textures
+Better survival gameplay balance
+New optimized spawn systems
+Improved UI texts and names
+Enhanced sound settings
+Cleaner addon optimization
+Better horror immersion
+Improved entity encounter system
+Updated addon structure
+More polished gameplay experience
+
+Texture Improvements
+
+Many textures were carefully improved while keeping the original style and UV layout safe.
+
+Updated Textures:
+
+Siren Head textures improved
+
+Flesh textures enhanced
+
+Horror armor textures upgraded
+
+Spawn egg textures remade
+
+Cartoon Cat textures improved
+
+Horror detail shading added
+
+Darker atmospheric colors added
+
+Improved rusty horror look
+
+Cleaner texture quality
+
+Better visual depth and shadows
+
+Texture Showcase
+siren head [old vs new ]
+NEW :- OLD:-
+
+Improvement:-new siren head have new textures , more real , horror.
+summon:- now siren head only summon in night . summon changes 50% more in jungle .
+
+Light siren head normal [old vs new ]
+new:-
+old:-
+
+improved :- new light head now have real looking light on head , new horror textures.
+summon :- now light siren head only summon in dark jungles or dark nights .
+
+Siren head version 1[old vs new]
+new:-
+
+old:-
+
+improvment:- new horror and better textures to old one .
+summon :- summon at night but chances very low .
+
+light head v1 :-
+new :- old:-
+
+improvement :- new horrer and better textures to old . new head light with 3d reflection . it improve your gaming experience
+
+summon :- summon in jungles and deep dark places or nights . chances to summon is less then 10%.
+
+cartoon cat 1930 [new ]
+new:-
+
+improve :- new more horror or terrifing textures .
+summon :- now it summon generally in night with chances to summon rate is 60%.
+
+cartoon dog [new ]
+new :-
+
+improve :- new more horror or terrifing textures .
+summon :- now it summon generally in night with chances to summon rate is 60%.
+
+siren head boss new
+
+new :-
+
+improve :-new texture style completly different from older
+
+summon only rare cases
+
+siren head trans :-
+new
+
+improve :-new texture style completly different from older
+
+cartoon cat [new vs old ]
+new :-
+
+old:-
+
+improve :- new real looking textures , new real horror eyes . texture is mixture of burn , flashy , and mechinical system .
+summon:- summon at night start . and change you any game mode to survival . sand you creepy comments , and play music in background .
+
+cartoon cat night textures [ new vs old ]
+
+new :-
+
+old:-
+
+improve :- new burned or dark style horror textures , best for night gameplay .
+summon :- at night cartoon cat day version convert to this .
+
+cartoon cat hand :-
+new:-
+
+at night :-
+
+new flesh light :-
+new:-
+
+New sound wave:-
+new
+
+Entity Spawn System Improvements
+
+Entity spawning was fully reworked to make encounters feel more natural and terrifying.
+
+New Spawn Features:
+
+-
+
+Better night spawning
+
+-
+
+Forest-based horror encounters
+
+-
+
+Optimized spawn weights
+
+-
+
+Reduced unnecessary spawning
+
+-
+
+Better biome selection
+
+-
+
+Improved survival balancing
+
+-
+
+Boss entities now rarer
+
+-
+
+Fog creatures optimized
+
+-
+
+Cartoon entities improved
+
+-
+
+Reduced lag from over-spawning
+
+Sound System Improvements
+
+The entire entity sound system was optimized for better horror immersion.
+
+Updated Sounds:
+
+-
+
+Better Siren Head footsteps
+
+-
+
+Improved boss sound volume

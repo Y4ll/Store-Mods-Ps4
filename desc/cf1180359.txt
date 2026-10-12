@@ -1,0 +1,73 @@
+Adds pigeons that can send items to players. Part of Billey's Mobs now available as a standalone add-on.
+
+Unlike Billey's Mobs, this add-on doesn't require the Beta APIs experimental toggle. However you should enable it anyway as it might be needed for other add-ons, and there's no downside to having it turned on.
+
+Pigeons
+
+Viewing This Info In-Game
+
+- You can view this information in-game by using a book or a feather on a pigeon.
+
+General
+
+- Pigeons spawn in plains and are especially common in flower forests and birch forests.
+
+- They can be tamed with any kind of seeds, carrots, or bread.
+
+Pooping
+
+- Pigeons poop randomly.
+
+- Their poop can be used to:
+
+- Craft bone meal.
+
+- Boost pollinating mobs from the Billey's Mobs add-on (e.g., pill bugs and stick bugs).
+
+- Their poop shouldn't be an issue since it turns into its item form and then despawns quickly
+
+Finding Apples
+
+- Tamed pigeons will find apples in trees if they are not made to sit.
+
+Sending Items to Players
+
+- Pigeons can deliver items to other players. Here's how:
+
+- Craft a pigeon backpack:
+
+- Recipe: 2 string, 1 wool, and 2 leather.
+
+- Equip the backpack:
+
+- Use it on the pigeon.
+
+- Using the backpack:
+
+- Pet the pigeon (sneak + long tap, right-click, or use the pet button) while holding an item to store it in the backpack.
+
+- If the pigeons backpack is full, petting it while holding an item will make it drop its contents.
+
+- Pet it with an empty hand to select the player to send the pigeon to. (Players must be in the same dimension and not right next to you.)
+
+- Customization:
+
+- The pigeon backpack can be dyed by applying a dye to the pigeon wearing it.
+
+Wandering
+
+- Use a stick on a pigeon to make it wander around instead of following you.
+
+Get More Useful Pets
+
+Get the Billey's Mobs Add-on for free on MCPEDL or CurseForge for:
+
+- More useful pets like this one.
+
+- The ability to untame (give away) pigeons, put hats on them, and place them on your shoulder
+
+If you download Billey's Mobs make sure to remove this add-on since they add the exact same pigeon mob and issues may occur.
+
+Future Plans
+
+- Sending a pigeon will consume a small amount of experience, as the current mechanics are somewhat overpowered(this will be in BIlley's Mobs too).

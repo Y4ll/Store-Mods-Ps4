@@ -1,0 +1,19 @@
+Pocket GUI+ Dark Mode
+
+Pocket GUI+ is a Minecraft resource pack that changes the GUI for various blocks. For example, the crafting table GUI matches the crafting table theme, and other blocks receive their respective themed GUIs.
+
+This pack is a standalone version of my NeBux UI.
+
+If you want only the themed GUI without any additional features, check out the NeBux GUI pack on CurseForge or NeBux GUI on MCPEDL.
+
+Pocket GUI+ Light Mode
+
+Features
+
+- Themed GUIs for all usable blocks (crafting table, furnace, anvil, etc.).
+
+- Additional features like Guides, Quick Loot, Drop One Item, Drop All Items, and more.
+
+- Enhances gameplay while maintaining the classic Minecraft aesthetic.
+
+- Compatible with Bedrock/MCPE editions.

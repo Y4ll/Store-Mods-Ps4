@@ -1,0 +1,29 @@
+Ever had prolems with dark places in your minecraft world or ever had no lights sources in your world, in your inventoy or feared in dark places in Minecraft caves or had problems finding ores in ur world? Don't worry this mod fixes it all! Today I'll be sharing Night Eissive Vision shader mod for Minecraft Bedrock edition which supports Android, iOS and Windows. This mod also supports latest 1.21.20+ all versions right now and kindly read the installation section I'll not be held responsible if u failed to install it properly but if u have any other issues feel free to contact me ^_^
+
+Screenshot:-
+
+(This is the night vision with glowing ores, objects and emissive maps)
+
+Features:-
+
+- Now supports Windows and Better R.D.
+
+- Added Support from 1.21.20+ All versions.
+
+- Emissive light sources, glowing ores and objects
+
+Installation:-
+
+- First download the pack
+
+- Then download Minecraft PATCH APK for Android and Better RenderDragon for Windows.
+
+- Then you will get a zip file, extract that zip file and you will get an mcpack file for Android and Windows
+
+- You can click on that mcpack file and select Minecraft (via-your file manager)
+
+- And this pack will automatically be imported into the game
+
+- And then you can activate the pack in your world
+
+- And enjoy

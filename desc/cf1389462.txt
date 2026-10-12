@@ -1,0 +1,51 @@
+This add-on is an unofficial Bedrock Edition port of the Ultreon Devices Mod, originally created by MrCrayfish (MrCrayfish's Device Mod).
+
+The modern Java port and updated assets were made by QubixMC, and this Bedrock adaptation brings a block-only decorative version of the mod to Minecraft Bedrock.
+
+This version does not include functional features all devices are decorative blocks designed to enhance modern builds.
+
+Included blocks:
+
+- Office Chair (you can sit on it)
+
+- Laptop (open/close)
+
+- Router
+
+- Printer
+
+All blocks are purely decorative and safe to use in any world.
+
+Important Notice
+
+Do NOT report any issues related to this add-on to MrCrayfish or to the Java port authors (QubixMC).
+
+This is an independent, unofficial Bedrock port, created by EndXenoc.
+
+License
+
+This Bedrock Edition addon is an Unofficial Port of the Ultreon Devices / MrCrayfishs Devices Mod for Minecraft Java Edition. The original mod is licensed under the GNU General Public License v3 (GPLv3), which allows:
+
+- Reuse of the original assets
+
+- Redistribution of modified versions
+
+- Creation of derivative works
+
+- Porting the mod to other platforms (such as Bedrock Edition)
+
+Because the original Java mod is GPLv3, this Bedrock 1.21.90+ port is legally allowed as long as all Java-origin assets (models, textures, and concepts) remain under GPLv3 and the original authors are credited:
+
+- MrCrayfish
+Download the original Java version here:
+https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-device-mod
+
+- QubixMC:
+Download the updated Java port here:
+https://www.curseforge.com/minecraft/mc-mods/devices-mod
+
+All Bedrock-specific adaptations and implementations comply with GPLv3 requirements.
+
+Downloads at EndDev Studio
+
+- Download Ultreon Devices (Unofficial Port).mcaddon

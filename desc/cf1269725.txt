@@ -1,0 +1,143 @@
+A new update has arrived, fixing existing bugs and adding new features to this package that seeks to revolutionize Minecraft Bedrock's graphics by using deferred lighting, making it as similar as possible to Minecraft Java. This is its four version, but I'll be developing it gradually. Keep in mind that this is the first deferred project I've created, and I'm fairly new to this, so some of the deferred projects already available might be better than this one.
+
+Revolution Realistic
+
+Revolution Default
+
+This version has the same features as the realistic version only with vanilla skies
+
+Revolution Vanilla
+
+This version has the same features as the realistic version only with vanilla skies and water plane.
+
+Featured
+
+- The environment changes depending on the biome you are in; if it is cold it will be freezing and if it is hot it will be warm.
+
+- Godrays depending on the color of the biome.
+
+- Armor and reflective tools.
+
+- Glow minerals.
+
+This package has three different versions:
+
+- Realistic Revolution: Realistic water waves, realistic clouds (cubemap), realistic caustics, and realistic sun and moon.
+
+- Default Revolution: Realistic water waves, vanilla clouds, realistic caustics, and vanilla sun and moon.
+
+- Vanilla Revolution: Vanilla Water Waveless, Vanilla Clouds, Vanilla Caustics, and Vanilla Sun and Moon.
+
+Requirements
+
+- Game Version: To try Vibrant Visuals, you need to enable the beta/preview version in Bedrock Edition and turn on the "Vibrant Visuals" option when creating or editing a new world.
+
+- Vibrant Visuals in Minecraft Bedrock requires an Adreno 640 GPU (Snapdragon 855) or a Mali GPU (Mediatek 1000 series) for mobile devices. For PCs, a GPU with DirectX 12FL11 is recommended.
+
+Mobile Devices
+
+- Adreno 640 GPU: This GPU is found in the Snapdragon 855 processor.
+
+- Mali GPU: The Mediatek 1000 series or a Mediatek GPU.
+
+- A12 Bionic processor.
+
+PC
+
+- DirectX 12FL11: A GPU with DirectX 12FL11 is recommended for PCs.
+
+Copyrighted
+
+- Distribution of this pack, especially for personal gain or profit, is prohibited.
+
+- It can be used as a Vibrant Visual Pack and as a deferred pack (preferably use it as a deferred pack so you have all the features available).
+
+- The Medium Realistic Sky from the Hyper Realistic pack was used and recommended for these screenshots, but this pack uses a different cube map.
+
+- Many thanks to QuirkyPlague (creator of Vanilla Reforged and Plagued PBR) for allowing me to use the Vanilla Reforged models as the basis for this pack.
+
+Changes
+
+- Static lighting has been added to almost all light-emitting blocks.
+
+- Reflective textures, such as quartz, have been implemented
+
+- Static lighting has been added, which is already available in v26.10. I've added many light-emitting blocks with colorful light, but I'll gradually add all the possible ones.
+
+This version is compatible with v26.3
+
+Delayed lighting and PBR were added to the following blocks:
+
+- minecraft:torch
+
+- minecraft:magma
+
+- minecraft:end_rod
+
+- minecraft:soul_torch
+
+- minecraft:soul_lantern
+
+- minecraft:lantern
+
+- minecraft:sea_lantern
+
+- minecraft:glow_lichen
+
+- minecraft:lava
+
+- minecraft:fire
+
+- minecraft:soul_fire
+
+- minecraft:glowstone
+
+- minecraft:endframe_eye
+
+- minecraft:redstone_lamp
+
+- minecraft:copper_bulb
+
+- minecraft:waxed_copper_bulb
+
+- minecraft:exposed_copper_bulb
+
+- minecraft:waxed_exposed_copper_bulb
+
+- minecraft:weathered_copper_bulb
+
+- minecraft:waxed_weathered_copper_bulb
+
+- minecraft:oxidized_copper_bulb
+
+- my necraft:waxed_oxidized_copper_bulb
+
+- minecraft:redstone_ore
+
+- minecraft:lit_deepslate_redstone_ore
+
+- minecraft:redstone_torch
+
+- minecraft:copper_torch
+
+- minecraft:copper_lantern
+
+- minecraft:waxed_copper_lantern
+
+- minecraft:exposed_copper_lantern
+
+- minecraft:waxed_exposed_copper_lantern
+
+- minecraft:weathered_copper_lantern
+
+- minecraft:waxed_weathered_copper_lantern
+
+- minecraft:oxidized_copper_lantern
+
+- minecraft:waxed_oxidized_copper_lantern
+
+- minecraft:portal
+
+- minecraft:respawn_anchor
+
+- min

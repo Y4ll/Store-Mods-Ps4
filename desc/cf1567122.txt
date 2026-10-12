@@ -1,0 +1,199 @@
+Im a solo creator who spends months of hard work building free projects like this for you all.
+
+https://www.youtube.com/@arborstudios
+
+Please consider subscribing to help me grow on YouTube and keep these updates alive!
+
+Join my Discord! https://discord.gg/nkR2XkxY9P
+
+Support me and join the project on Patreon! https://www.patreon.com/ArborStudios
+
+Required Settings
+
+Before entering the Rotten Lands, make sure the following settings are enabled.
+
+Existing World Warning
+
+Rotten Lands is designed for new worlds.
+
+Adding the addon to an existing world is not recommended. Any newly generated chunks may be transformed into Rotten Lands terrain, potentially causing visible transitions between old and new areas.
+
+Recommended Audio Settings
+
+Rotten Lands includes custom biome ambience and environmental audio designed to replace the default Minecraft soundtrack.
+
+Rotten Lands includes:
+
+- 5 Custom Biomes
+
+- Zombie Variants
+
+- Custom Weapons
+
+- Survival Gear
+
+- Defensive Blocks
+
+- Structures & Loot
+
+- Red Moon Events
+
+- Original Ambient Sounds
+
+- In-Game Metal Soundtracks
+
+Explore five unique biomes transformed by the apocalypse, each with its own atmosphere, dangers and secrets waiting to be discovered.
+
+Rotten Meadow
+
+Once familiar and peaceful, the Rotten Meadow serves as the gateway into the Rotten Lands. Decayed vegetation and signs of collapse can be found everywhere, offering a glimpse of what happened to the world.
+
+Infested Forest
+
+Dense vegetation and limited visibility make the Infested Forest a dangerous place to explore. The infected can emerge from between the trees at any moment.
+
+Wasteland
+
+Dry terrain, thick fog and abandoned landscapes define the Wasteland. Zombie activity increases significantly at night, making every journey a risk.
+
+Dead Ashlands
+
+Covered in ash soil and scattered with towering stalagmites, the Dead Ashlands are among the most hostile environments in Rotten Lands.
+
+Abandoned City
+
+Massive ruined skyscrapers emerge from the fog, creating an overwhelming sense of scale. Every floor has been manually decorated and filled with loot, rewarding players willing to explore the city's dark interiors.
+
+Not all infected are the same.
+
+Some are fast. Some are powerful. Some are far more dangerous than they first appear.
+
+Stalker
+
+Silent. Motionless. Watching.
+
+The Stalker remains completely still until it spots its prey. Once it begins sprinting, escape becomes increasingly difficult.
+
+Health
+
+30
+
+Damage
+
+5
+
+Speed
+
+Very High
+
+Threat Level
+
+High
+
+Special Ability
+
+Relentless Sprinting
+
+Brute
+
+Massive, slow and incredibly powerful.
+
+The Brute can absorb large amounts of damage and punish players who get too close.
+
+Health
+
+50
+
+Damage
+
+Very High
+
+Speed
+
+Low
+
+Threat Level
+
+Very High
+
+Special Ability
+
+Extended Attack Reach
+
+Zombie (Rotten Lands)
+
+Faster, stronger and far more aggressive than their vanilla counterparts, these infected make even ordinary nights significantly more dangerous.
+
+Health
+
+20
+
+Damage
+
+6
+
+Speed
+
+Moderate
+
+Threat Level
+
+Moderate
+
+Special Ability
+
+Increased Aggression
+
+Scavenge, craft and master a variety of weapons, each offering unique strengths and abilities that can mean the difference between survival and death.
+
+Nail Bat
+
+A brutal handcrafted weapon designed for close combat. The Nail Bat rewards aggressive players who can consistently land critical hits.
+
+Weapon Type
+
+Melee Weapon
+
+Damage
+
+6
+
+Special Ability
+
+Critical hits release a powerful shockwave that damages and knocks back nearby zombies.
+
+How To Obtain
+
+Crafted
+
+Crafting Recipe
+
+Rusty Axe
+
+This worn but deadly axe delivers devastating damage, making it one of the most powerful melee weapons in Rotten Lands.
+
+Weapon Type
+
+Melee Weapon
+
+Damage
+
+8
+
+Special Ability
+
+Extremely high damage output.
+
+How To Obtain
+
+Looted from abandoned structures and bunkers.
+
+Crafting Recipe
+
+Not Craftable
+
+Small Knife
+
+Lightweight, reliable and easy to carry, the Small Knife becomes significantly more dangerous when paired with a second knife.
+
+Weapon 

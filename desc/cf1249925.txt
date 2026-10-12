@@ -1,0 +1,119 @@
+Narra's Lore
+
+Narra had been drifting in space for so long that might as call it forever, She Cried until no more tears fell, As time goes by, She loses her sense of time and herself
+
+She become numb, Losing her feelings and emotions, only a deep ache in her heart remains.
+
+She was summoned by Prince Zedrak out of the void to fight for him, She is deemed "A perfect tool" as she doesn't feel any pain, She had no emotion and she follow order without question.
+
+Narra uses her Sorrow as her weapon to strike down her Foe like a machine, like a tool, her heart is cold yet you can still see in a glimpse of her eyes that she is still Yearning...
+
+Yearning one day to be free and to feel.
+
+Stats
+
+Health-200
+
+Atk-9
+
+Abilities
+
+Narra had 4 Abilities thats make her a formidable and challenging Boss
+
+Ability 1:Black Allay Clone Summon
+
+Narra can summon a clone of her Black Allay to attack and charge at the enemy, Causing Chaos
+
+Health-8.
+
+Attack-2
+
+Can Fly Fast
+
+Very Annoying
+
+Ability 2: Aoe Slash
+
+When Facing More than one enemy, Narra will prioritize attacking using an Aoe Slash that deal 12 damage to everyone in range
+
+(she's invulnerable when using this ability)
+
+(Btw those Villagers are not mine, They are from this amazing creator https://mcpedl.com/villagers-and-illagers-legacy/ They make an amazing Addon feel free to check them out!)
+
+Ability 3:Mitigation
+
+When Narra's HP drops below 50% She gains Permanent Resistance 1 buff even if her HP is no longer 50%.
+
+She also gains another 40% damage reduction(Cannot be removed and different from resistance), While also gaining Strength 1 Buff, This two buff will always activate as long as her HP is below 50%.
+
+Ability 4:Sweeping
+
+Narra will perform a sweeping attack dealing damage to all enemy around her without halting her own movement
+
+New Version 1.0.1
+
+-You can now craft a new time Called Narra Cold Heart using a heart of the Sea and 4 Snowballs, This item could be use for Fuel or for Taming Narra
+
+How to Tame Narra
+
+-Defeat Narra in battle, When she is kneeling you can use the Narra Cold Heart to cure her broken heart
+
+-After using the Narra Cold Heart to Narra you can now Tame Narra With Bread.
+
+-Narra Keeps all her Abilities and will die for you Yay!
+
+New Version 1.5.2
+
+Narra can now be spawned in two ways
+
+Crafting Void Tome Recall
+
+-Crafting a void tome recall. allows you to open up the space and teleport Narra Right infront of you
+
+Becareful of using this, because this is a forbidden spell and the guardians of the world will be notified and they will surely
+
+A Narra who would get summoned here is much more stronger version of her, because she is yet to be controlled by anyone and also opening up space will drag some creatures along with Narra
+
+Void Phantoms
+
+-Creatures of the void, Opening up the Space will surely drag some Void Phantoms along the way
+
+Void Phantom
+
+Most Common, each one could be much faster, much Sturdier or much stronger than the other
+
+Void Phantom Giant
+
+Much bigger, had more health and deal more damage than the rest of the Void Phantoms but is significantly slower
+
+Void Phantom Bomber
+
+Slightly Bigger and Faster than Void Phantom and explode in contact with the Enemies
+
+Void Phantom Captain
+
+Slightly bigger, More Damage and High Speed, They command the Void Phantoms and periodically summon Void Phantom Bombers
+
+Narra Void
+
+If you manage to successfully defeat Unchained Narra you should immediately tame her or she will be corrupted or reborn by the Void Phantoms
+
+If they yet to touch Narra Void again she would Heal some HP and get Significantly stronger for a short time...
+
+Version 2.0.2
+
+In this new version i bring another way to obtain narra in survival
+
+The Lady Sorceress
+
+A Prodigy Witch, at a very young age she holds immense mana, able to fire devastating destructive spell or transform her wand into a mace and bonk her enemies
+
+Hp-200
+
+Atk-normal 4, Mace 12(Strength potion not yet applied)
+
+Lady Sorceress Abilities
+
+Slap
+
+-Lady sorceress can slap her enemi

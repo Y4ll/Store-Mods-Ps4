@@ -1,0 +1,57 @@
+Freight Train from GTA San Andreas was here! want to go nostalgia with this train set? now let's follow that damn train!
+
+Basic Information
+
+Freight Train [GTA SA] Basic Specifications
+
+Performance:
+
+- Gibonz System: 42
+
+Miscellaneous:
+
+- Health: 20 Points.
+
+- Seat count: Depends on vehicle.
+
+Damage:
+
+- The Vehicle will get damage animation if under max health condition and if the Vehicle in Critical Health [2 health] will release particles if the car moving. so fix your car using Wrench.
+
+Wrenches:
+
+- Wrench: Fixes 1 point to the vehicle.
+
+Commands, Eggs and Colors available to change:
+
+- /summon hp:freighttrain_locomotive [NONE]
+
+- /summon hp:freighttrain_flatcars [NONE]
+
+- /summon hp:freighttrain_flatcars_catalyst [NONE]
+
+- /summon hp:freighttrain_flatcars_greengoo [NONE]
+
+Special Features:
+
+- [NONE]
+
+Freight Train [GTA SA] Visual
+
+In-Game
+
+Video
+
+Note
+
+- You Need GRTC - Gibonz Railway Train Controller v1.3.0 or v2.1.5 CLICK HERE to make this train to run, the door had animation, just use items that we provide at controller. We recommended max 9 train to put because Minecraft limitations, you need anvil or nametag to rename the train.
+
+Join our Discord and submit your ideas!
+
+Click here for more!
+
+Visit website for more info about this addon!
+
+If you are content creator, please use MCPEDL, ModBay, Better Bedrock or Planet Minecraft link if you want to share it, do not relink or use direct link to Mediafire! Do not upload to another websites or applications without my permission.
+
+You can modify this pack for yourself only.

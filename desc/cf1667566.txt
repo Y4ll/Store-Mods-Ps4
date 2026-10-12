@@ -1,0 +1,49 @@
+Lynx More Weapons
+
+Expand your arsenal with 7 new weapon types across 7 material tiers, totaling 50 new items built for balanced, vanilla-friendly combat.
+
+Weapons
+
+Katana
+
+Scimitar
+
+Greatsword
+
+Greataxe
+
+Glaive
+
+Halberd
+
+Battlestaff
+
+Each is craftable in Wood, Golden, Stone, Copper, Iron, Diamond, and Netherite tiers, with damage and durability tuned so every tier feels like a genuine upgrade.
+
+Crafting
+
+Wood through Diamond tiers craft at a standard Crafting Table.
+
+Netherite tiers upgrade at a Smithing Table, just like vanilla gear.
+
+All recipes auto-unlock in the Recipe Book once you hold the required materials.
+
+Requirements
+
+Minimum Bedrock version: 1.21.60 or higher
+
+No experimental toggles required
+
+Installation
+
+Download the .mcaddon file and open it with Minecraft.
+
+Enable both the Behavior Pack and Resource Pack in your world settings.
+
+Load in and start crafting.
+
+Compatibility
+
+Uses the lynx: namespace safe to use alongside other add-ons. Works in Survival and Creative.
+
+Bug reports and suggestions are welcome in the comments.

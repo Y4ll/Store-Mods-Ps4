@@ -1,0 +1,25 @@
+This mod introduces a monster called the Whispering Depth that can appear in caves, forests, open fields, day or night. Be careful where you step... it can kill you at any moment
+
+can appears in caves, overworld, forest and nether
+
+hp: 125
+
+damage: 5
+
+walk speed: 0.25
+
+run speed: 0.50
+
+can climb
+
+can crouch
+
+can crawl
+
+have kill animation
+
+have knockback
+
+Full showcase video
+
+monster's appearance

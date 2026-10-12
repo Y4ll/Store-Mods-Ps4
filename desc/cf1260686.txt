@@ -1,0 +1,13 @@
+Gun Classic Beta is an in-development add-on that adds popular weapons to Minecraft Bedrock. It offers a good variety, and all weapons have unique animations when the character is standing still. You may encounter some bugs as it is still in beta, which adds a unique realism to the game.
+
+Now you can enjoy an improved Minecraft with new weapons, leaving behind the classic Minecraft tools. Fighting Minecraft's most feared bosses has never been easier with this add-on. The damage of each weapon varies depending on its caliber, so you should consider what you plan to use to defeat the dragon or the guardian.
+
+To enjoy this plugin, it is important to enable experiments for proper functionality and performance.
+
+[Description] ES_
+
+Gun Classic Beta es un complemento en desarrollo que anade amas populares a Minecraft Bedrock. Ofrece una buena variedad, y todas las amas tienen animaciones unicas cuando el personaje esta quieto. Es posible que encuentres algunos errores, ya que aun esta en fase beta, lo que le da un realismo unico al juego.
+
+Ahora puedes disfrutar de un Minecraft mejorado con nuevas amas, dejando atras las herramientas clasicas de Minecraft. Combatir a los jefes mas temidos de Minecraft nunca ha sido tan facil con este complemento. El dano de cada arma varia segun su calibre, asi que debes considerar que planeas usar para derrotar al dragon o al guardian.
+
+Para disfrutar de este plugin es importante activar los experimentos, para una buena funcionalidad y rendimiento.

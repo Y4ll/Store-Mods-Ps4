@@ -1,0 +1,33 @@
+A clean, minimal crosshair pack that reacts to your aim in real time.
+
+Features
+
+Dynamic crosshair switches automatically based on what you're targeting
+
+Normal state clean + crosshair when not aimed at any entity
+
+On hit corner bracket crosshair appears when an enemy is within attack range
+
+Installation
+
+Download the .mcpack file
+
+Open it Minecraft will import it automatically
+
+Go to Settings Global Resources and activate the pack
+
+Done
+
+Compatibility
+
+Minecraft Bedrock Edition
+
+iOS / Android / Windows
+
+Version 1.21+
+
+Compatible with most other resource packs
+
+Credits
+
+Made by Kaalu xD, inspired by itzriyo's Dynamic crosshair

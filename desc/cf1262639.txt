@@ -1,0 +1,21 @@
+*CREDITS*
+
+All credits to Haisuki at Planet World, Java-inspired totem
+
+where can I find it?
+
+For java yo can find it a: Planet Minecraft
+for bedrock you can find it at: CurseForge, Mcpedll.
+
+*CHARACTERISTICS*
+
+This texture of the fortune cat totem redesigns the classic totem with a new one. When used, this totem will make a somewhat funny sound.
+
+*AVAILABLE*
+For now, it's only available in Minecraft Bedrock; for Java, you can find it in Planet World.
+
+*HOW TO INSTALL*
+
+(SPANISH) para abrir el archivo correctamente, te dara un .mcpack el cual tendras que remplazar por .zip lo extraes y la carpeta que te de la copias (mueves) y pegas en *Resource Packs* De Minecraft y listo solo cierras Minecraft y lo vuelves abrir.
+
+(ENGLISH) To open the file correctly, it will give you a .mcpack which you will have to replace with .zip, extract it and copy (move) the folder it gives you and paste it into *Resource Packs* of Minecraft and that's it, just close Minecraft and open it again.

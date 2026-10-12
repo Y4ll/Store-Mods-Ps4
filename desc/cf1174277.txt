@@ -1,0 +1,7 @@
+This script will allow you to show to players the durability of their items. It's work on the item of inventory, armor slot, and offhand. The durability of an item will be displayed on the lore of this one :
+
+We can see the durability of this Netherite Sword !
+
+And this script works on custom Items that have the durability component !
+
+There is the /displaydurability command to control which players can see the durability of items!

@@ -1,0 +1,29 @@
+Put your spoiler here.
+
+Something has gone wrong.
+
+The official version of this add-on is only available on CurseForge and MCPEDL. Anything you see outside of these sites is fake.
+
+This add-on requires version 1.26.30 of Minecraft and higher. It doesn't require experimental features (can be changed in the future).
+
+Type the /function command in chat with cheats enabled. You'll see a list of commands needed to move to the corresponding custom dimensions.
+
+unknown_protocol is an ARG horror addon for Minecraft: Bedrock Edition, inspired by the Java horror mod The Broken Script.
+
+It focuses on psychological horror, atmosphere, environmental storytelling, and the feeling that your world is gradually becoming unstable. Every strange event is designed to make you question whether what you saw actually happened
+
+--------------------------------------------------------------------------------------------------------------
+
+USEFUL LINKS:
+
+Join our Discord
+
+My youtube channel
+
+My DonationAlerts to support me
+
+--------------------------------------------------------------------------------------------------------------
+
+Note: the mod was previously called "The Happy Man." I decided to rename it because I don't want to focus on just one thing. My addon is a global expansion that brings a ton of content to the game, and it's essentially an improved version of "The Happy Man"
+
+The protocol has already started.

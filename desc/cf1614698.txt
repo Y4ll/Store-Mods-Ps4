@@ -1,0 +1,113 @@
+Bosya's Japan Katana v2 - Actions & Stuff
+
+How To Use :
+
+This is the Addon version of Bosya's Japan Katana, specifically configured to fully support the Actions & Stuff animation pack. Instead of replacing vanilla swords, this pack adds brand new custom katanas that you must craft yourself. For the best experience, this pack is highly recommended to be used alongside Actions & Stuff to get the best custom animations.
+
+Looking for the Vanilla Sword replacement?
+
+If you want a simple resource pack that replaces default vanilla swords (and doesn't require the Actions & Stuff animation pack), please download Bosya's Japan Katana - Vanilla Sword instead!
+
+REQUIRED: This pack REQUIRES the Behavior Pack (BP) to work!
+
+Key Features
+
+- Actions & Stuff Compatibility: Enjoy smooth, dynamic sword movements, running, and slashing animations without losing your custom 3D katana models.
+
+- Achievement Friendly: Designed to keep achievements enabled in your survival worlds.
+
+New Charged Slash Mechanics
+
+Unleash the ultimate power of your katana with the newly added custom projectile attack system!
+
+Launch & Flight Dynamics
+
+- How to Trigger: Hold down the use button on your katana for at least 1 second. The charging phase is complete once you see custom particles and hear a distinctive "ting" sound [2].
+
+- The Attack: Upon release, an energetic crescent-shaped slash projectile will launch straight ahead, following your crosshair in a stable and constant trajectory.
+
+- Cooldown: 6 seconds after each slash.
+
+Katana Tier System (Slash Ranges & Piercing)
+
+The distance and piercing capability of your energy slash depend on the material tier of your katana:
+
+- Tier 1 (Wooden & Stone Katana):
+
+- Max Range: 10 blocks.
+
+- Piercing: Single-strike only. The projectile immediately disappears upon hitting the first enemy.
+
+- Tier 2 (Copper, Iron, Golden, & Diamond Katana):
+
+- Max Range: 15 blocks.
+
+- Piercing: Pierces through up to 3 enemies. The projectile disappears after hitting the third target.
+
+- Tier 3 (Netherite Katana):
+
+- Max Range: 30 blocks.
+
+- Piercing: Infinite pierce! The slash projectile is never destroyed by hitting enemies and will keep traveling until it reaches its maximum range.
+
+Dynamic Damage Calculation
+
+The damage of your slash projectile is calculated in real-time, scaling dynamically based on:
+
+- The base damage of your held katana material.
+
+- Bonus damage from your katana's Sharpness Enchantment level.
+
+- Bonus damage from active potion effects, such as Strength.
+
+How to Craft / Recipes
+
+Guides on how to craft the katana:
+
+Wooden Katana
+
+Stone Katana
+
+Copper Katana
+
+Golden Katana
+
+Iron Katana
+
+Diamond Katana
+
+Netherite Katana
+
+How to Apply (Pack Order)
+
+For the models and animations to work together correctly, arrange your active resource packs in this order:
+
+- [Top] Bosya's Japan Katana (Resource Pack)
+
+- [Below] Actions & Stuff (Resource Pack)
+
+- To keep achievements enabled, do NOT activate Beta APIs!
+
+Make sure to also activate the Behavior Pack (BP) for Bosya's Japan Katana in your world settings!
+
+Rules & Permissions:
+
+You Are Allowed To:
+
+- Showcase my work in videos/streams if you give proper credit (e.g., link to the official CurseForge page).
+
+- Edit files for personal use only.
+
+You Are Not Allowed To:
+
+- Distribute through monetized links (AdFly, Linkvertise, etc.).
+
+- Re-upload, edit, or re-share my projects on other websites or third-party apps without permission.
+
+- Use direct download links (Mediafire, Google Drive, etc.) when sharing.
+
+CurseForge: bosya's Projects MCPEDL: bosya's Profile
+
+Telegram: @bosya_craft Group YouTube: bosya's YouTube TikTok: @b.craft06
+
+Support: Donate on Ko-fi

@@ -1,0 +1,31 @@
+About
+
+Icons adds icons to menus, items, tooltips, GUI's... just everywhere you could imagine them fitting.
+
+The pack makes use of Custom Unicode Characters and Minecraft language files to add said icons.
+
+Terms of Use & Attribution
+
+You can:
+
+Use it in mod packs
+
+Use it for Content Creation like YouTube videos (Linking back to this or the other available pages (Modrinth, Planetminecraft, CurseForge))
+
+You cannot:
+
+Redistribute edited or unedited assets
+
+Re-upload the pack
+
+Claim ownership over our assets
+
+These terms may be changed as we deem necessary and at any time.
+
+Credits
+
+mr_ch0c0late (Creator and Idea)
+
+Zartrix (I'm just here, don't mind me)
+
+2026 WeNAN Studios. All Rights Reserved.

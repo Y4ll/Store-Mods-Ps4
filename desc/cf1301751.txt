@@ -1,0 +1,117 @@
+Miraculous Adventure Addon
+
+Welcome to Miraculous Adventure, a Minecraft Bedrock addon inspired by the universe of Miraculous: Tales of Ladybug & Cat Noir.
+
+Explore the world of Miraculous in Minecraft, discover powerful abilities, transform with different Miraculous, and experience a growing system designed around the adventures, characters, and powers of the series.
+
+Each Miraculous is connected to a mystical creature known as a Kwami, granting its holder unique abilities and allowing them to transform into powerful heroes or villains.
+
+Miraculous
+
+The addon currently includes a variety of Miraculous, each with its own abilities, transformations, and gameplay mechanics:
+
+-
+
+Ladybug Miraculous Harness the power of creation and restore what has been destroyed with the Lucky Charm and Miraculous Ladybug.
+
+-
+
+Rabbit Miraculous Master the power of time and travel between different moments.
+
+-
+
+Snake Miraculous Use Second Chance to return to a previous moment and try again.
+
+-
+
+Rooster Miraculous Choose a unique special ability and adapt your powers to different situations.
+
+-
+
+Dragon Miraculous Harness the elemental powers of wind, water, and lightning.
+
+-
+
+Butterfly Miraculous Grant special powers to others through Akumas and influence the course of events.
+
+-
+
+Bee Miraculous Paralyze your enemies with the power of Venom.
+
+-
+
+Goat Miraculous Use the power of creation to bring objects and ideas into reality.
+
+-
+
+Bull Miraculous Harness incredible strength and become resistant to supernatural effects.
+
+-
+
+Peacock Miraculous Create Sentimonsters and give life to beings shaped by emotions.
+
+-
+
+More Miraculous coming soon.
+
+Features
+
+-
+
+Unique abilities and mechanics for each Miraculous.
+
+-
+
+Kwamis and transformation systems.
+
+-
+
+Custom suits and accessories.
+
+-
+
+Custom particles, animations, and visual effects.
+
+-
+
+Miraculous Boxes and other themed items.
+
+-
+
+Custom crafting recipes and foods.
+
+-
+
+Structures inspired by the Miraculous universe.
+
+-
+
+Multiple language translations.
+
+-
+
+Optimized systems designed for Minecraft Bedrock.
+
+-
+
+Multiplayer-friendly mechanics.
+
+-
+
+Compatibility with Novelty API.
+
+Compatibility
+
+Miraculous Adventure is compatible with Novelty API, allowing it to work alongside systems and content that use the API.
+
+For the addon to function correctly, you must enable Education Edition and the required Experimental Features, including Beta APIs.
+
+Minecraft Education Edition
+
+Beta APIs
+
+Transform and Explore
+
+Choose your Miraculous, connect with its Kwami, unlock its abilities, and create your own adventure.
+
+Whether you want to become a hero, explore the world, collect Miraculous, or simply experiment with their powers, Miraculous Adventure brings the world of Miraculous into Minecraft Bedrock.

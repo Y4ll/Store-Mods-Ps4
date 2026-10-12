@@ -1,0 +1,11 @@
+The End is often considered one of the emptiest dimensions in the game. Beyond defeating the Ender Dragon and exploring a few outer islands, there is very little to do, and the landscape can feel barren, silent, and lacking meaningful challenges. While imposing dungeons and structures do exist in this dimension, they are extremely rare, making exploration feel unrewarding most of the time. If you want to give the End more purpose and turn it into a true dungeon-filled dimension, this addon is for you.
+
+This addon adds 27 new structures to the End dimension, all designed to naturally fit the mysterious and alien atmosphere of this realm. The structures are large, imposing, and dungeon-like, encouraging exploration and combat in a dimension that is normally vast and empty.
+
+All structures are built using purpur blocks, end stone, and end stone bricks, ensuring a consistent visual style that blends seamlessly with the vanilla End aesthetic. These materials give the structures a ruined yet ancient feeling, as if they have existed long before the player arrived.
+
+Each structure contains chests with valuable loot, rewarding players who dare to explore and conquer these dangerous locations. The interiors are populated by hostile mobs, including shulkers, wither skeletons, parcheds, boggeds, cave spiders, skeletons, enderman, witchs and zombies, creating intense and varied combat encounters.
+
+Since the End only has a single biome, all structures generate throughout this biome, making exploration straightforward while still adding variety through frequent dungeon encounters. These structures are relatively common, ensuring that players will regularly find new places to explore instead of endlessly traveling through empty terrain.
+
+This addon transforms the End from a quiet, empty dimension into a place filled with danger, rewards, and exploration, giving players a strong reason to return long after defeating the Ender Dragon.

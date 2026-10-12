@@ -1,0 +1,143 @@
+NOTES
+
+some item might disappeared such as : Spear, Spyglass, Mace, Shield and all of 3D items. there's no way to fix this right now.
+
+Skins Pack
+
+Fun
+
+Pack Compatible
+
+Son another skin pack again. new weeks new project skinpack. someone ask me if i could make a skin pack with the item and armor disappeared, but the skin still be shown. it's an easy task, but i wanted to give you more, so i add some new type of animation to it :)
+
+i How it Works
+
+Simply, just change your skin into this skin pack in Dressing Room Classic Skin, choose which one you like by reading the name of the skin
+
+HOW TO CHANGE THE SKIN TO YOUR OWN SKIN
+
+- Locate the downloaded "funskin.mcpack" with Zarchiver (or any other file manager app in your phone)
+
+- change the file name to "funskin.mcpack.zip"
+
+- Extract the file then open the folder containing the pack assets
+
+- You'll see "skin.png"
+
+- Delete/Replace it with your own skin
+
+- Change the file name to "skin.png" (don't rename with capitalize letters)
+
+- Compress all the file into a zip again
+
+- Rename it or Delete ".zip" so it'll go back to "funskin.mcpack" again
+
+Skin Variants
+
+- Invisible Armor
+
+- Invisible Item
+
+- No Body
+
+- Big Head
+
+- Stroke
+
+- Sitting
+
+- Happy Walk
+
+- Sleeping
+
+- Inverted
+
+- Staring
+
+- Big Ahh
+
+- Weird
+
+- Inverted
+
+- No Pose
+
+- Whatever
+
+- Freaky
+
+- More SoonTM
+
+MORE INFO... click "spoiler" button below
+
+Content Limitations
+
+Pack Limitations
+
+Game Limit
+
+- Some item disappeared such as Spear, Spyglass, Mace, Shield and all of 3D items. there's no way to fix this right now
+
+Compatibility Limit
+
+- Public Server i've tried using this skin in "Hive Server", but unfortunately they'll change your skin to their random regular skin. i don't know if it's gonna work on Lifeboat or Mineplex too.
+
+- Private Server since it's private, you and your friends can use any skin, so no problem here.
+
+Allowed
+
+- Edit this pack for your private/personal use
+
+- Make Content (videos & any media) with this pack as long as you leave a link to my CurseForge or MCPEDL page
+
+- Distribute the pack using your own or new download link (this pack already using direct link that's safe)
+
+Not Allowed
+
+- Monetise the pack download. Doing so will result in a copyright takedown.
+
+Feedback & Support
+
+Feedback/Bug Reports
+
+If you have encountered any issues, i'm open to any of your feedbacks and suggestions. it would be soo useful so i can be better and better next time.
+
+You can leave any feedback in the comment of my page (Curseforge/MCPEDL) or Youtube video. or else, you can also join my Discord Server
+
+CHANGELOG
+
+Fun skin v1 :
+
+Add 16 skins :
+
+- Invisible Armor
+
+- Invisible Item
+
+- No Body
+
+- Big Head
+
+- Stroke
+
+- Sitting
+
+- Happy Walk
+
+- Sleeping
+
+- Inverted
+
+- Staring
+
+- Big Ahh
+
+- Weird
+
+- Inverted
+
+- No Pose
+
+- Whatever
+
+- Freaky

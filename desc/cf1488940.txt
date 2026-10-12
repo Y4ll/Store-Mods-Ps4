@@ -1,0 +1,21 @@
+How the addon works
+- this addon brings 3 custom fishing rod abilities typically known from the Unstable SMP, being the stab shot, the nuke shot, and the wolf rod.
+- do /tag @s add Admin before running /orbitalconfig and /spawnrods (the capital A is case sensitive)
+- this addon uses math to calculate where to push the TNT so it creates the one block of TNT that spreads into hundreds on the grounds as you would see on youtube videos of the actual thing. this makes it very customizable and easy to use.
+- has an item clear option in the config that clears junk items after each strike to minimize lag as much as possible.
+- doing /orbitalconfig presents you with multiple options like choosing whether to enable or disable nuke shots or stab shots, control the strength, concentration, distance, names to trigger the explosions, etc.
+- you can use these options to effectively make your very own custom nuke/stab shots
+- to use this, run /spawnrods <type> <amount> to spawn the custom rods if you are using that option in the config, (example: /spawnrods nuke 10 ). if you aren't using custom rods just rename a fishing rod to the chosen trigger name in the config. the default names are Nuke Shot, Stab Shot, Wolf rod.
+- WARNING: be very careful when editing the values in the config as if you make them too high it might lag out your game or completely crash it. use the default config as an example of where to go from there.
+
+- FAQ:
+
+- 1. I did /tag @s add admin, why isn't it working?
+
+- Because the tag is "Admin" NOT "admin", the captial A in Admin is case sensitive and it won't work without it.
+
+- 2. I named a fishing rod and its not working
+
+- Because you are using custom fishing rods which you get by doing /spawnrods. || If you disabled custom rods in your config your fishing rod's name most likely doesn't match what you specified in the config.
+
+https://discord.gg/w5SmCJQtRZ

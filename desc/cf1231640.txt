@@ -1,0 +1,78 @@
+JOIN THE ADDONS DISCORD
+
+VIBRANT VISUALS AREN'T COMPATIBLE AND NO EXPERIMENTS NEEDED
+
+Recommended to play at render distance 15 or lower!
+
+Abyssal Ascent has so many new content starting off with the 3 base layers of the End
+
+Void Layer: Void Layer is at the bottom of the dimension, it has several dangerous threats inside it, but also has some amazing rewards
+(Note: due to a minecraft bug with fog, the area in the image isnt fully accurate)
+
+Clouded Layer: this is the highest layer and has the least amount of content, its the main source of Sapphire Ore and has a bunch of cloud related plants and blocks
+
+BIOMES:
+
+Endra Forest: Endra forest is a giant wooden mushroom biome
+
+Distorted Forest: Distorted forest is a giant biome filled with flower trees
+
+Chorus Grove: has a bunch of shulker themed mobs and edible trees
+
+Arkose Peaks: Arkose Peaks are mountain ranges made up of mostly Arkose Blocks, which is the Ends version of stone, only 2 mobs spawn here, Evupuls and Final Skeletons:
+
+Lavender Fields: This Biome is similar to the normal end, except instead of normal end stone, its cobbled end stone, which acts similar to farmland and is used to grow End Crops (note you need the crops to be in the End for them to grow)
+
+End Wilds: The End Wilds are a biome consisting of several Golden Plants and End Sand (used to get glass in the End)
+
+Abyssal Swamp: Abyssal Swamp is filled with water and fish, a great place for you to go to fish
+
+Cosmic Frontier: the Cosmic Frontier is a Cosmic/star-themed biome thats filled with a bunch of Cosmic mobs, Cosmonium, and more
+
+Dragonspire Wield: this biome has 3 different dangerous dragon mobs, as well as tall dragon shale spires
+
+Blushie Swamp: Blushie Swamp is a dense biome, filled with plants and has pockets of water in it
+
+Portal Plague: Portal Plague has a ton of eyeballs and fossils, the landscape is covered in glowing Portal Mold Blocks
+
+STRUCTURES:
+
+Ender Chamber: The Ender Chambers are a varient of the trial chambers with its own unique gimmicks
+
+Ruined End Portal: this place contains a quick exit to the overworld
+
+Dragon Bastion: this structure has different variations depending on the biome
+
+Voided Soul Blacksmith: this structure contains the Soul Forge, which is used for a lot of the crafting in this addon
+
+Void Pope Church: this structure contains the spawn block for the Void Pope (place an ascendant block on top of the spawn block to summon Void pope)
+
+Shrine of the Forgotten Eye: this structure serves to be the spawn location and arena for Sightfull Obelisk of Ender
+
+End Ruins: Ruins are randomly scattered across the End, theyre similar to ocean ruins, you dig around them and find the treasure, they also have a Crystal which is used for potion brewing and throwing knives:
+
+Dragonbird Meeting Zone: these structures are similar to Dragonfolk Bastions, but Elyrae mobs spawn in them, they have several varients depending on the biome
+
+Misc Structures:
+
+MOBS:
+
+Elyrae: allies with Dragonfolk, they can spawn with either an enchanted sword or jade caltrops, theyre passive unless provoked, stolen from, or if you anger a dragonfolk
+
+Evupul: This mob comes in 3 different colors, theyre a passive mob that you can ride, you cannot control this mob, they just fly around randomly, they drop Evupul Wings
+
+(the golden one spawns in the Clouded Layer and the other one spawns in the Normal End Layer)
+
+(Dark one is hostile and spawns in the Void Layer)
+
+(Credit to DeadVoxels End Update Mod, on Modrinth for permission to add this mob)
+
+Bijaws: Bijaws are flying teeth creatures that attack you for 8 damage
+
+Blastling: Blastlings launch purple pulses at you
+
+Snareling: fires a Web at you that locks you into place, then the Snareling runs up to you and starts doing melee damage to you
+
+Watchling: The Watchling is a melee mob who has extreme speed and damage
+
+Endersent: deals splash damage to nearby mobs and players, whenever the mob cannot hit you, it will start smashing the ground, releasing a powerful shock

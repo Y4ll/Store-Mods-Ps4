@@ -1,0 +1,143 @@
+# Arkcraft
+
+Arkcraft is a Minecraft Bedrock add-on inspired by ARK-style survival gameplay, focused on dinosaurs, prehistoric creatures, taming mechanics, special tools, saddles, creature variants, bosses, and unique survival systems.
+
+This update reworks the add-on almost entirely: many creatures were visually improved, several outdated mobs were repaired or removed, and the gameplay was rebuilt to feel more stable, fun, and full of new content.
+
+## Main Features
+
+- Many prehistoric and fantasy creatures inspired by ARK-style gameplay.
+- Knockout and passive taming systems.
+- Narcotics, kibbles, narcotic arrows, bolas, bows, crossbows, rifles, clubs, and other taming tools.
+- Rideable creatures with different saddles depending on size, diet, or creature type.
+- Flying, aquatic, terrestrial, shoulder, boss, and utility creatures.
+- Creature variants, including special glowing variants.
+- Special tools such as whips, sickles, TEK tools, fishing tools, maces, sabers, grappling hooks, creature bags, platforms, and more.
+- Custom food, armor, crops, crafting tables, NPCs, and survival items.
+- Creature abilities, synergies, biome spawning, and special interactions.
+
+## Versions
+
+The Full Version includes all Arkcraft content, including ARK-inspired creatures, Atlas-inspired weapons, extra creatures, tools, items, and additional systems.
+
+The Lite Version is currently paused.
+
+## Important
+
+This add-on is still being improved. Some creatures, mechanics, textures, animations, or systems may change between versions.
+
+For detailed taming methods, creature stats, biome spawns, item explanations, and full gameplay guides, please check the official guide / Discord / wiki.
+
+## Credits
+
+Owner:
+Ignacio Barea / Arkcraft
+
+Original Arkcraft founder / previous owner credit:
+ElCopper
+
+Model makers, texture makers, contributors, and team members:
+Brexit, Sauro, OrcaBaryonix, Drag174, Kenji, Lithout, Evil Rex, Jellal, Ohayo, Gorgo, Gatoruso, Utah, Alex, Halo, Lucas, The Reason, Terry, DinoAwesome, HERSHTOC, Fesa Agamstar, Wabder, Teta, SCPfan, Rolf, and other contributors.
+
+## License and Redistribution
+
+Arkcraft may only be downloaded from official sources approved by Ignacio Barea / Arkcraft.
+
+Reuploads, mirrors, modified public versions, app store uploads, ad-supported copies, paid downloads, URL shorteners, and unauthorized redistribution are not allowed.
+
+Videos, reviews, screenshots, tutorials, and streams are allowed as long as proper credit is given and the official download link is used.
+
+Full license terms are included in the project license and/or LICENSE.txt.
+
+## Creatures
+
+Arkcraft includes a large roster of prehistoric, fantasy, aquatic, flying, tameable, untameable, boss, and utility creatures.
+
+### NPC / Utility Mob
+
+- Tamer NPC / Mod Villager
+
+### Biggest Creatures
+
+- Giganotosaurus / Giga
+- Quetzal
+- Spino
+- Galveosaurus
+- Tralkasaurus
+- Giraffatitan
+- Ouranosaurus
+- Palorchestes
+- Gasbag
+- Brachio
+- Deinosuchus
+- Cryodrakon
+- Carcharodontosaurus
+
+### Big Creatures
+
+- Tyrannosaurus / Rex
+- Griffin
+- Tropical Crystal Wyvern
+- Therizinosaurus / Thery
+- Yutyrannus / Yuty
+- Gualicho
+- Mammoth
+- Mega Raptor
+- Shantungosaurus
+- Oxalaia
+- Suchosaurus
+- Camarasaurus
+- Mapusaurus / Mapu
+- Tarbosaurus / Tarbo
+- Woolly Rhino
+- Managarm
+- Bronto
+- Alamotyrannus
+- Triceratops / Trike
+- Stego
+- Amargasaurus
+- Pachyrhinosaurus
+- Rhyniognatha
+
+### Medium Creatures
+
+- Parasaurolophus / Parasaur
+- Carbonemys
+- Gacha
+- Valenictus
+- Ankylosaurus
+- Armbuster / Direwolf
+- Desmodus Draculae
+- Kamuysaurus
+- Argentavis
+- Baryonyx
+- Carnotaurus
+- Cryolophosaurus
+- Daeodon
+- Diplocaulus
+- Shadowmane
+- Irritator / Carlos
+- Llukalkan
+- Lopho / Mauricio
+- Majungasaurus
+- Shringasaurus
+- Skorpiovenator
+- Tanycolagreus
+- Thorny Dragon
+- Thylacoleo / Thyla
+- Quilmesaurus
+- Rock Drake
+- Archelon
+- Estemmenosuchus
+- Allosaurus
+- Asfaltovenator
+- Sarcosuchus
+- Diprotodon
+- Alectrosaurus
+
+### Small Creatures
+
+- Velociraptor / Raptor
+- Lymantria
+- Brontornis
+- Moscho

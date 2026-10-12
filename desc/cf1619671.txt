@@ -1,0 +1,17 @@
+Horror assets for your Minecraft add-on include:
+
+- Stalkers
+
+- Dwellers
+
+- Sounds
+
+- Jumpscares
+
+- Ideas (Coming Soon!)
+
+Changelog:
+
+- Doctor nowhere and random stuff
+
+- more sounds and Assets added

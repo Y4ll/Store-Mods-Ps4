@@ -1,0 +1,75 @@
+Slasher Sword Addon
+
+Disclaimer
+
+I will probably never update this addon unless there's a critical bug that has to be fixed.
+
+I understand this addon isn't perfect, but I wanna move on to developing another addon.
+
+Introduction
+
+The Slasher is a chainsaw-sword (chainsword) with spectacular combat.
+
+Also:
+
+- Very compatible with other addons that modify player.json, including gun addons!
+
+- Doesn't need any experiment, so it should remain stable for a long time!
+
+However, please accept the absense of your custom skin in first-person view. I had to sacrifice it to prioritize compability with other addons.
+
+Abilities
+
+Fast Attack
+
+How: Start using the item (RMB), and stop before the charging completes. Just spam RMB.
+
+Fires a beam made up of 3 parts, each dealing 1 armor-penetrating damage, for a maximum of 3 damage in total.
+
+Charge Attack
+
+How: Keep using the item (hold RMB) until the charging completes, then release it!
+
+Damage:
+
+- Direct hit: 14
+
+- Beam: 8
+
+- Combined: 24 (instantly kills most humanoid mobs)
+
+You can dash by releasing charge while holding W (moving forward)!
+
+Chainsaw Attack
+
+How: Release the charge while sneaking.
+
+It continously deals 1 armor-penetrating damage in a very fast cycle, until the user stops sneaking, or the target is dead.
+
+Plunge Attack
+
+How: Release the charge while mid-air, holding jump button and looking down.
+
+The impact damage is calculated based on how high you fell from. Not so strong if you don't fall from high.
+
+Recipes
+
+Slasher Blade
+
+Slasher
+
+License / Usage Rules
+
+This addon is public domain, meaning you can do whatever you want with this addon without asking me for permissions.
+
+Although an attribution will be appreciated!
+
+License: CC0 1.0 Universal.
+
+External Links
+
+- GitHub repository
+
+- YouTube channel
+
+- Discord server

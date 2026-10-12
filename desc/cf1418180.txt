@@ -1,0 +1,15 @@
+CLEAN HOTBAR
+
+a smooth and minimal look for the hotbar and selector.
+
+VERTICAL COORDINATES
+
+coordinates labelled and arranged vertically for a minimal and clean look
+
+BETTER CROSSHAIR
+
+a more minimal crosshair that stays true to vanilla
+
+TRANSPARENT CHAT
+
+no more distracting black backgrounds behind every message so you can immerse yourself into the game

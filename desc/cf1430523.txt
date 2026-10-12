@@ -1,0 +1,37 @@
+RR Super TNT Bow v2.0.0 - The Ultimate Explosive Arsenal
+
+Hey everyone! Let's be honest, the normal TNT in Minecraft is incredibly slow and honestly quite boring. You have to farm gunpowder, craft the blocks, manually place them one by one, light them with flint and steel, and then run away hoping you don't blow yourself up. It takes way too much time if you just want to clear a massive area for a build or destroy a Pillager Outpost.
+
+I wanted a weapon that makes you feel incredibly powerful. I wanted to stand on top of a mountain, shoot a single arrow, and watch the entire landscape disappear. So, I created the RR Super TNT Bow Addon. For Version 2.0.0, I have completely rewritten the code. This is not just a simple texture pack that replaces the bow; it is a highly advanced Script Addon that completely changes how projectile physics and explosions work in the game engine. Best of all, this is the Full Access Edition, so every single explosive mode is unlocked for you from the start!
+
+The 6 Custom Explosive Modes
+
+I did not want to just give you one type of explosion. Sometimes you need a small blast to mine some coal, and sometimes you want to completely wipe out a mountain. I added 6 distinct explosive arrow types that you can switch between depending on your situation:
+
+- Normal Mode: Works like a standard tactical grenade. It creates a small, controlled explosion on impact. It is completely safe to use for quick mining or clearing out small groups of zombies without destroying your entire map.
+
+- Fire Mode: This mode acts like a fiery explosive. Upon impact, it blasts the enemies and sets the entire surrounding radius on blazing fire. Perfect for dealing with hordes of spiders.
+
+- Heavy Mode: A concentrated, deep blast. This is designed to break through tougher blocks and create deep craters in the ground. Great for quick terraforming.
+
+- Nuclear Mode: The classic fan-favorite. This explosion is absolutely massive, wiping out everything in its path. One well-aimed shot can completely vaporize a Woodland Mansion.
+
+- Cluster Bomb Mode: This is where things get crazy. You shoot one single arrow, but right before impact, it splits into multiple scattered bombs that blanket a huge area in explosions. It is the ultimate crowd-control weapon.
+
+- Meteor Strike Mode: Want to feel like a god? When this arrow hits the ground, it calls down a cinematic meteor strike, raining fire and destruction from the sky onto your target.
+
+Crossbow Support & Safe PvP Mechanics
+
+One of the biggest requests I received was to add Crossbow support. I am happy to announce that this addon now works flawlessly with both Bows and Crossbows. If you enchant your Crossbow with Multishot and fire a Cluster Bomb arrow, your screen will be filled with absolute explosive chaos!
+
+But what if you play on a multiplayer Realm and you want to use these weapons for a PvP minigame without destroying the server's map? I built a highly advanced Toggleable Block Breaking system. You can easily turn block damage completely OFF. When you do this, the arrows will still explode, they will still show amazing particle effects, and they will still deal massive damage to players and mobs, but the terrain and blocks will remain 100% safe and untouched!
+
+Live HUD & Combat Tracking
+
+When you are switching between 6 different explosive modes, you need to know exactly what weapon is loaded. I built a real-time Action Bar display that sits cleanly at the bottom of your screen. It shows you exactly which arrow mode is currently active.
+
+Furthermore, I added a Live Kill Counter. When you shoot a Nuclear arrow into a massive horde of zombies, the action bar will instantly calculate and display exactly how many entities were defeated by that single shot. It is incredibly satisfying to see those numbers pop up.
+
+The Custom Settings UI & Server Optimization
+
+Explosions can cause lag, especially on mobile devices. To keep the server stable, I built a custom Graphical User Interface (GUI) whe

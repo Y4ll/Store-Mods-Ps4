@@ -1,0 +1,92 @@
+About
+
+Unlocks Vibrant Visuals on most low-end devices by removing GPU checks.
+And unlocks it on Servers like Hive, Cubecraft only on PC.
+
+Supports 1.21.90 - 1.26.52
+
+Works on Android, IOS, Windows, Linux
+
+Has upto 85% of successful unlocking, especially on 64-bit devices.
+
+Make sure to read "Installation Process" below.
+
+Requires:
+
+- Mip Mapper
+
+After Unlocking
+
+Disclaimer: this mod unlocks Vibrant Visuals, but doesn't guarantuee to work on every Device.
+
+Installation Process:
+
+Android
+
+- Watch and follow video above (Use MT Manager or APK Editor)
+
+- Download PM5's Mip-Mapper
+
+- Have Android 11+ and 64-bit device if possible.
+
+Windows
+
+- Activate pack in Global Resources
+
+- Download Mip-Mapper
+
+- Have DirectX12 (FL 12.0)
+
+- Or try this tool: Vibrant Visuals Patcher (PC)
+
+-
+
+-
+
+IOS
+
+- You'll need Jailbreak for this
+
+- Using any IPA Editor, copy "tiers.bin" from "PandaMine's VVU - v1.26.x.mcpack/pm5_vvu/"
+
+-
+
+- Paste into IPA's: "Payload/minecraftpe.app/data/"
+
+- Activate PandaMine's VVU in Global Resources
+
+- Download Mip-Mapper
+
+Linux
+
+- For this use: Mcpe Launcher (Linux)
+
+-
+
+- Copy "tiers.bin" from "PandaMine's VVU - v1.26.x.mcpack/pm5_vvu/"
+
+- Paste inside "<version>/assets/assets/tiers.bin"
+
+- Activate PandaMine's VVU in Global Resources
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 80% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+Contact
+
+Discord: pandamine5x
+
+Follow for more packs!

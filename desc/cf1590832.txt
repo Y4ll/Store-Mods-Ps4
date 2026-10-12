@@ -1,0 +1,123 @@
+Phone Economy V2 What's New?
+
+V2 is our biggest update yet.
+
+Phone Economy has been expanded into a more complete economy experience for Minecraft Bedrock Edition, with new banking features, improved interfaces, new items, and major behind-the-scenes improvements.
+
+But we're not revealing everything yet...
+
+Here are just a few of the things waiting for you in V2:
+
+Brand-New ATM System
+
+Access your bank account through the new ATM system and manage your money directly in the world.
+
+ATM Cards
+
+Get your own ATM Card and use it to access your banking system with additional security.
+
+Interactive Recipe Book
+
+Browse custom items and discover their crafting recipes through a dedicated in-game Recipe Book.
+
+Expanded Economy
+
+V2 brings a more developed money system with different forms of currency and improved ways to manage your finances.
+
+Redesigned UI
+
+Enjoy a cleaner and more polished interface across Phone Economy, making menus easier and faster to navigate.
+
+Improved Performance & Stability
+
+The addon has been reorganized and improved internally to make the experience more reliable and prepare the project for future updates.
+
+---
+
+And that's only the beginning...
+
+We've added a lot more to V2, but we're keeping some of the biggest features secret for now.
+
+You'll have to download Phone Economy V2 and discover them yourself.
+
+Build your economy.
+
+Manage your money.
+
+Take control of your finances.
+
+Phone Economy V2 Your economy just got bigger.
+
+# Phone Economy
+
+**A full economy simulator built around one item your phone.**
+
+Craft a Cell Phone, and it opens a real smartphone-style UI right inside Minecraft:
+
+a home screen, installable apps, notifications, the works. Everything below runs on
+
+custom Script API UI no resource pack hacks, no fake GUIs, an actual interactive menu
+
+system.
+
+## Features
+
+** Bank** A wallet + bank balance per player. Deposit, withdraw, or use the ATM to
+
+get physical Cash Note items you can carry and trade by hand.
+
+** Instant Money Transfers** Pick any online player and send them money straight
+
+from your phone, PIN-protected with a confirmation step.
+
+** Debit Card** Craft one, then either use it like the phone for a quick-pay
+
+screen, or literally interact with another player while holding it to "swipe" a
+
+payment straight to them.
+
+** Shop 350+ Items, Any Quantity** Browse a huge categorized catalog (ores,
+
+building blocks, every wood type, food, farming, redstone, tools, weapons, armor, mob
+
+drops, and more) and buy or sell *any amount you type in* not locked to fixed
+
+buttons.
+
+** Jobs With Their Own Apps** Pick Miner, Farmer, Lumberjack, or Builder, and a
+
+dedicated app for that job installs on your home screen. Miner/Farmer/Lumberjack pay
+
+you automatically the instant you break the right block. Builder is different: build
+
+something, then submit it for review the system scans the structure around you
+
+(size, material variety, decoration) and pays you accordingly. (Being upfront: this is
+
+a heuristic block-scan, not a real photo or AI judgment Minecraft's scripting engine
+
+has no camera or network access, so that's a hard platform limit, not a corner I cut.)
+
+** Profession-Based Villager Trading** Villagers now trade your phone's currency
+
+instead of emeralds, and the goods on offer depend on their actual profession: a Farmer
+
+sells crops, a Librarian sells books, an Armorer sells armor, and so on across 13
+
+professions, with a sensible general store as a fallback.
+
+** Messages** A built-in async chat app. Send a player a message even if they're
+
+offline; they'll see it next time they check their phone.
+
+** App Store** Your phone starts with just the basics. "Download" Bank, PhonePe,
+
+Shop, and Jobs onto your home screen like installing real apps.
+
+** Auto-Detects Items From Other Add-ons** Run this alongside another add-on (a
+
+guns mod, a food mod, anything) and the Shop automatically picks up its items and
+
+prices them by keyword-matching the item's name a "rifle" prices like a firearm, a
+
+"bu

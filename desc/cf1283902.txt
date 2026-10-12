@@ -1,0 +1,63 @@
+This add-on adds a total of 93 and more new npc skins in the game for map makers who uses NPCs in their map. There are 4 new types of NPCs animal, monster, villager, and human.
+
+To summon these entities you can use the summon command or use spawn eggs.
+
+ex: "/summon npc:npc_humans"
+
+Example NPC skins:
+
+Animal skins:
+
+name: npc:npc_animals
+
+Monster skins:
+
+name: npc:npc_monsters
+
+Villager skins:
+
+name: npc:npc_villagers
+
+Human skins:
+
+name: npc:npc_humans
+
+To remove these npc hold a <mark class="marker-pink">BARRIER BLOCK ITEM</mark> and interact with them.
+
+Commands:
+
+Use inside the npc
+
+- function follow - The NPC will follow you
+
+- function stop - The NPC will stop following you
+
+Can be used outside of the npc:
+
+Run this commands near an npc
+
+- function xtra_small - Change npc height to 0.6
+
+- function small - Change npc height to 1.1
+
+- function medium - Change npc height to 2.1
+
+- function tall - Change npc height to 3.1
+
+Items:
+
+These items can adjust the collision height of the custom npcs.
+
+How to use:
+
+Hold the item and interact with the npc with it.
+
+Custom Models:
+
+In version 5 and up I added the ability for you to add your own custom models and skins. Here is a video to show you how.
+
+Question about NPC Expansion Addon? join my discord server: https://discord.gg/jaecdm739j
+
+Note:
+
+Some monster NPC don't have any walking animations

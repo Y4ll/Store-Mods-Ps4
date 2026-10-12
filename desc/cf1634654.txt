@@ -1,0 +1,116 @@
+Whats the deal?
+
+Vanilla elytra is cool until you want to actually fight in the air. Elytra Expansion bolts on a full combat kit for Bedrock: craft unlock licenses, load ammo, take off, and go loud.
+
+- Cockpit HUD speed, altitude, heading, ammo at a glance
+
+- Full arsenal cannon, MG, missiles, bombs, and the big MEGA
+
+- Dive bombing bomb-cam + Jericho-trumpet-style siren vibes
+
+- Flares & callsigns break locks, name your bird
+
+The main course: dive bombing
+
+Yeah, this packs personality is steep dives and loud drops. Tip the nose down, the bomb camera kicks in, and you get that Jericho trumpet energy (Stuka-flavored not a ripped movie clip). Flip between HE / AP / carpet / incendiary / cluster / MEGA, line it up, and let go.
+
+No copyrighted movie siren audio. Just the vibe.
+
+Toys on the hotbar
+
+Slot
+Gear
+How you use it
+
+1
+Large cannon + prox flak
+Right-click, one shell at a time
+
+2
+Missiles (ground salvo / track)
+Sneak-tap to flip modes
+
+35
+Flares
+Sneak-tap break a missile lock
+
+6
+Auto-boost
+Toggle hangs around ~150 u/s (coal fuel)
+
+7
+Booster
+Right-click for a kick of thrust
+
+8
+Bombs (HE/AP/carpet/inc/CL/MEGA)
+Sneak-tap modes right-click to drop
+
+9
+Machine gun
+Right-click toggles spray on/off
+
+Atmosphere stuff
+
+- High-speed trails and near-miss flavor
+
+- Big muzzle flash on the cannon
+
+- Terrain / PULL UP warnings when youre about to eat dirt
+
+- Missile lock warning audio
+
+- Dawn / dusk HUD tint
+
+- Callsigns (optional takeoff shout-outs)
+
+Controls (quick)
+
+Core loop: slap on an elytra glide pick a trigger right-click (use item)
+
+- Sneak tap mode swap on slots 2 / 8; flares on 35
+
+- Hold sneak aim cam (dogfight / bomb run)
+
+- Q reload while that weapons selected
+
+- Ammo & coal auto-stock into reserves while elytras on
+
+- /ee:help in-game /ee:settings for HUD prefs
+
+Getting started
+
+- Enable both BP and RP. One pack alone = nothing useful happens.
+
+- Turn on Beta APIs in world experiments.
+
+- Craft an unlock license right-click to unlock that weapon.
+
+- Craft ammo (or grab it) toss it in inventory; it auto-loads into reserve.
+
+- Take off. Shoot things. Drop things. Try not to become a crater.
+
+- Optional: craft a Callsign Plate (name tag + paper + iron + redstone) and pick your callsign.
+
+Creative folks: grab Creative Ammo Supply for infinite reserve.
+Admin toys (cheats ON): /ee:kit /ee:unlock_all /ee:minigame, etc.
+
+Requirements
+
+- Minecraft Bedrock (not Java)
+
+- Engine ballpark: 1.21.60+
+
+- Behavior Pack + Resource Pack together
+
+- World experiments: Beta APIs on
+
+Quick notes
+
+- Survival is craft-first. Cheat commands need OP + cheats enabled.
+
+- Dive-bomb camera stays up on purpose we dont yank your view after every blast.
+
+- JP/EN strings switch with your language settings.
+
+- Blow up responsibly. Your world rules, your funeral (or theirs).

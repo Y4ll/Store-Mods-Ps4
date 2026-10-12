@@ -1,0 +1,35 @@
+Bring a modern, clean, and customizable user interface to Minecraft. HorizonUI focuses on visual clarity, animated backgrounds, and layout refinement to deliver a fresh and immersive UI experience
+
+Features:
+
+HorizonUI: BE has several features that make it easier for you to play survival mode :D
+
+- Quick Loot Items
+
+- Quick Move Items
+
+- Quick Drop Items
+
+- Inventory Slot Counter
+
+- Item Counter & Stack Counter
+
+- Brewing Guides
+
+- Smithing Guides
+
+NOTE:
+
+HorizonUI: BE is still in development and is currently in EXPERIMENTAL status, which means there are still some bugs and some features that aren't fully functional yet.
+
+Video Showcase:
+https://www.youtube.com/watch?v=FL9uC9odj2o
+
+Special Thanks To:
+
+1. TheAndromedarius
+2. Pepe's ( https://www.youtube.com/@PepeOnYoutube )
+3. Ardzz ( https://www.youtube.com/@Ardzz23 )
+4. DimzCraft ( https://www.youtube.com/@Dimz_craft )
+5. Nokarin ( https://www.youtube.com/@nokarinn )
+6. ExplerHD ( https://www.youtube.com/@ExplHD )

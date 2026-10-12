@@ -1,0 +1,9 @@
+This texture pack lets you use a 4D Sonic The Hedgehog skin in your game without any extra add-ons, the skin includes a blinking animation
+
+Just install the texture pack, select a character from the editor, and the skin will be ready to use.
+
+Go to the texture pack settings in the textures menu to switch between skin variants
+
+Since it's a texture pack, only you can see it, this texture edits the player's structure, so other players' skins won't work correctly.
+
+I hope you enjoy my style and my skins! I invite you to see my other skins

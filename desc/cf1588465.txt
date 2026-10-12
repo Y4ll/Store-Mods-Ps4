@@ -1,0 +1,37 @@
+<video poster="" rel="noopener nofollow" target="_blank">https://youtu.be/FpTasbUfXZc?si=E1P1JwUNQsTuGRb9&quot; controls="controls" width="300" height="150">
+<source src="Watch Tutorial by">
+<source src="</video>TerraSphere" rel="noopener nofollow" target="_blank">https://youtu.be/FpTasbUfXZc?si=E1P1JwUNQsTuGRb9&quot;&gt;&lt;/video&gt;TerraSphere - Realistic World Generation Addon
+
+Welcome to TerraSphere, the ultimate world generation overhaul for Minecraft Bedrock Edition! This addon completely reimagines the default Minecraft terrain engine, transforming your blocky worlds into breathtaking, lifelike ecosystems.
+
+If you are tired of flat landscapes and predictable terrain, TerraSphere is here to bring real-world geography right into your game.
+
+Key Features
+
+Expanded World Height Limit: Experience massive, towering mountain ranges that pierce the sky, utilizing the maximum world height limit for unparalleled verticality.
+
+Hyper-Dense Forests: Explore deep, thick, and immersive woodlands. The forests are packed with rich vegetation, fallen logs, and realistic canopy structures that make survival truly challenging and beautiful.
+
+Real-Life River Systems: No more disconnected puddles! TerraSphere introduces realistic, winding river networks that carve through valleys, connecting lakes and oceans just like in real life.
+
+Breathtaking Valleys & Landscapes: Smooth transitions between biomes, deeper ravines, and realistic erosion patterns that make every viewpoint look like a photograph.
+
+How to Install & Play
+
+Download the .mcaddon or .mcpack file.
+
+Open the file to automatically import it into Minecraft Bedrock Edition.
+
+Create a new world or go to your existing world settings.
+
+Activate TerraSphere under both Resource Packs and Behavior Packs.
+
+CRITICAL STEP: Inside your world settings, go to the Experiments tab and enable:
+
+Custom Biomes
+
+Upcoming Creator Features
+
+Molang Features (if applicable)
+
+Note to Players: This mod changes world generation drastically. It is highly recommended to create a new world to experience the full scale of TerraSphere's realistic mountains and rivers! Feel free to leave your feedback and report any bugs in the comments below.

@@ -1,0 +1,13 @@
+Are you looking for a texture pack that balances competitive PvP advantages with stunning high-definition visuals? Doyl x128 is a Bedrock Edition resource pack designed to elevate your gameplay.
+
+At 128x resolution, every block and item is crisp and detailed, but we haven't sacrificed performance for looks. This pack is tailored for players who want a clean interface, maximum visibility in combat, and a beautiful world to explore.
+
+Key Features: PvP Optimized Tools: Featuring "short" swords and stubby tools. This design increases your screen visibility during intense battles, ensuring your own gear doesn't block your view.
+
+Highlighted Ores: Never miss diamonds again. All valuable ores have distinct colored outlines, making them instantly recognizable in dark caves. Perfect for UHC games and efficient mining.
+
+Low Fire: Obstructive fire overlays are reduced significantly. When you are on fire, it won't blind you, allowing you to keep fighting back.
+
+Custom Sky: Replace the boring default sky with a stunning, immersive teal nebula and starry night atmosphere.
+
+Smooth Armor & Clean Items: Armor textures are smoothed out for a clean look, and items (like food and potions) are detailed yet easy to identify at a glance.

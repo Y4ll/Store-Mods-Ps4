@@ -1,0 +1,7 @@
+Simple VeinMiner
+
+This add-on makes mining ore veins much faster and easier.
+
+When you break one ore block, every connected block from the same vein is automatically destroyed, allowing you to collect the entire vein with a single break.
+
+This add-on does not require experimental features.

@@ -1,0 +1,41 @@
+Placing player heads in Minecraft is essential, and currently there is no native function in Minecraft Bedrock to do so. This tool solves that! Custom Player Heads is an online program for generating player heads!
+
+Main Features:
+
+Player Heads in Minecraft: Player heads are a very popular item in the Java Edition of Minecraft. They are widely used for roleplay, trophies, decoration, and many creative purposes.
+
+Decoration Options: Custom head skins allow you to simulate many objects such as portals, mini blocks, books, food, and much more, making them perfect for detailed builds and creative designs.
+
+Put it on your head: Imported heads can be equipped on your head, working exactly like a vanilla item.
+
+You can preview how the head block will look below everything in the online editor.
+
+Images
+
+Crafting
+
+All generated heads will only be available if you place a soul sand block in the stonecutter.
+
+IMPORTANT | TUTORIAL: Using the Editor
+
+To get your add-on, follow these steps in our web editor: https://www.trmc-addons.com/cph
+
+-
+
+Upload Skins: Upload the Minecraft head skins you need.
+
+-
+
+Add Heads: Once all the head skins are uploaded, make sure everything is ready.
+
+-
+
+Export: Click "Export Addon" to generate your file.
+
+-
+
+Download & Use: A .mcaddon file will be downloaded. Run it to install and use your custom player heads in Minecraft.
+
+Downloads at TRMC Add-Ons
+
+- Download Custom Player Heads.mcaddon

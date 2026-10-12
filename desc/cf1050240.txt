@@ -1,0 +1,109 @@
+- ABOUT THE ADDON -
+
+It contains several artifacts that will help you on your journey, granting special abilities or immunities to negative effects. Artifacts have 4 categories: support, 2nd support, seal and vows, each category contains a unique characteristic. Below is a list of each artifact in this addon:
+
+- ARTIFACTS -
+
+SUPPORT
+
+They are single-activation, some may require a cooldown or grant a unique effect
+
+- Aquatic Pendant: increases swimming speed
+
+- Energy Cup: increases the user's speed
+
+- Angel's Wings: Prevents fall damage, equip it on the second hand to levitate. Incompatible with Chorus Heart
+
+- Reinforced Shield: reduces damage taken
+
+- Ocean Jewel: Grants conduit power
+
+- Magical Magnet: Attracts items within a 10 block radius
+
+- Emerald Coin: Reduces the price of trades with villagers
+
+- Teleportation Wand: Teleports 15 blocks in the direction you are facing
+
+- Eye of Vision: Teleports to the entity closest to you (except items)
+
+- Healing Pendant: increases the regeneration speed
+
+- Crystal Heart: Increases the user's maximum health (not health boost effect)
+
+- Invisibility Cloak: becomes invisible for 1 minute
+
+- Slime Boots: Increases the height jump
+
+- Collector Jewel: Grants night vision and haste
+
+- Experience Book: Increase XP gain when consuming XP orbs
+
+SEAL
+
+These are relics that will improve your physical capabilities, but some may include pacts to be activated
+
+- Berserker Insignia: Enter a state of rage for 60s, but after that you will be vulnerable for 10s
+
+- Immortality Insignia: Makes you immortal, but you can't kill anyone
+
+- Souls Insignia: Increases your attributes when in soul sand (Found only in the nether)
+
+- Speed Insignia: Increases your speed and jump, but decreases your strength
+
+- Parry's Badge: Absorbs all damage for 1s
+
+- Warden Heart: Increases your physical attributes, but leaves you blind and slow (Passive: Affects entities within 15 blocks with darkness | Found only in the ancient city)
+
+- Defender's Shield: Greatly increases your stamina, but decreases your attack speed and strength
+
+- Soul Pendant: Chance to recover HP by consuming xp orb (Found only in the nether and ancient city)
+
+VOWS
+
+These artifacts (or roles) can only be activated once, some are dangerous, so think carefully before using, as the consequences can be severe...
+
+- Healing Vow: Recovers all your health, but leaves you weak for 10 minutes
+
+- All or Nothing: It gives you the opportunity to throw the strongest punch of all, but you will be stunned for 12 seconds.
+
+- For Victory: It increases your physical capabilities to the maximum, but you will die in 1 minute and 30 seconds.
+
+2ND SUPPORT
+
+Grant immunities to negative effects, and other buffs
+
+- Wither Bone: Grants immunity to wither effect (Found only in the nether)
+
+- Divine Fruit: Grants infinity saturation and immunity to hunger
+
+- Honey Syrup: grants immunity to poison and nausea
+
+- Gold Dumbbell: Grants immunity to weakness and mining fatigue
+
+- Agility Ring: Grants immunity to slowness
+
+- Chorus Heart: Grants immunity to levitation. Incompatible with Angel's Wings (Found only in the end)
+
+- Magma Boots: Grants immunity to fire, equip it on the second hand to create magma bridges in lava (Found only in the nether)
+
+- Warden Antennas: Grants immunity to darkness and blindness (Found only in the ancient city)
+
+- Nulification Cube: Makes you immune to all negative effects
+
+SPECIAL
+
+Extremely powerful artifacts
+
+- Six Eyes: Enhances your physical abilities, but will leave you blinded by the overload of power
+
+- Infinity Cube: Grants all positive effects and leaves you immune to all negative effects
+
+MAGICAL GEMS
+
+Magic gems can be found in structures, or by creating them at the Crafting Table, only the Cursed Gem cannot be crafted. They are used so that you can build the artifact you want, if you don't want to explore so much.
+
+- HOW TO FIND -
+
+Now, any artifact can appear in structures, some are more specific. Here below is a list of structures:
+
+- Mine

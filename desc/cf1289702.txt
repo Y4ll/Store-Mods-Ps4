@@ -1,0 +1,1 @@
+This is a simple resource pack which removes the goggles from all 16 of the "Happy Ghast" harnesses' 3d models (From the new 1.21.90 "Chase the Skies" update). It doesn't currently update the 2D item texture; however, perhaps if someone really wanted that, I could make that change in the future.

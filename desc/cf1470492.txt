@@ -1,0 +1,9 @@
+Overview:
+
+A cute small GUI resource pack that redesigns the hotbar with a green froggy theme.
+
+- Hotbar selector changed
+
+- The armor icons are replaced with small frogs, the hunger bar is turned into strawberries
+
+- Hearts are recolored with a cozy new tone.

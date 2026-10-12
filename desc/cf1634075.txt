@@ -1,0 +1,19 @@
+Tombs Addon Safe Loot & Beautiful Graveyards
+
+Tombs Addon is a Minecraft Bedrock Edition addon designed to improve your survival experience. Instead of losing your items when you die, you can craft and place a decorative tombstone anywhere your base, your house, or your custom graveyard. When you die, your loot is instantly transferred to that tomb, keeping it safe from despawning, lava, or thieves.
+
+This system is designed to work with any addon, but it shines especially in dimension addons, where dying far from home is common. With Tombs Addon, you can recover your items easily no matter how far you ventured.
+
+Beyond its utility, this addon is perfect for builders and roleplayers, offering a wide variety of craftable tombs to create immersive cemeteries and atmospheric builds.
+
+Features
+
+Secure Death Loot Place a tomb anywhere. When you die, it automatically collects and stores all your inventory and equipment. Easy Retrieval Interact with or break your tomb to retrieve all items perfectly intact. 27+ Unique Designs Classic gravestones, wooden crosses, obelisks, sarcophagi, and more. Decorative Placement Craft tombs in the crafting table and place them anywhere to build custom cemeteries. New Crafting Material: Cement A brandnew item made with gravel + bone meal, required for stonebased gravestones.
+
+Installation
+
+1 Download the .mcaddon file (or both BP + RP packs). 2 Import the addon into Minecraft. 3 Apply BP Tombs and RP Tombs in your world settings. 4 Important: Enable Beta APIs to allow scripts to run. 5 Enjoy safe deaths and beautiful graveyards!
+
+Rest Easy
+
+Never fear losing your hardearned items again. Rest in peace... and recover your loot in style.

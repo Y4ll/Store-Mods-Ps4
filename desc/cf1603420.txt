@@ -1,0 +1,27 @@
+Mechanical Keyboard Sounds by oSkullo
+
+Ever wanted your world to sound as satisfying as your keyboard? This pack replaces a huge chunk of Minecraft Bedrock's default sound effects with real mechanical keyboard clicks all personally recorded, not ripped from anywhere.
+
+What's included:
+
+Footstep, jump, land, and fall sounds for 12 block categories (stone, grass, wood, gravel, sand, snow, cloth, glass, metal, ladder, netherrack, soul sand)
+
+Block breaking and placing sounds to match
+
+Mining/hit sounds while breaking blocks
+
+Punch sounds including the air-swing whiff and critical hits
+
+Armor equip sounds
+
+Potion throw, splash, and drink sounds
+
+Explosion sounds
+
+UI click sounds
+
+Every sound is a genuine mechanical keyboard recording no AI generation, no ripped audio. 800+ sound variations pulled from over 190 individually recorded keypresses across multiple press styles (normal, hard, and super-hard presses) for natural variety so nothing feels too repetitive.
+
+Installation: Download the .mcpack file and open it Minecraft will install it automatically. Then enable it in your world's resource pack settings.
+
+License: All sounds are original recordings, all rights reserved by oSkullo. See the included LICENSE.txt for reuse terms.

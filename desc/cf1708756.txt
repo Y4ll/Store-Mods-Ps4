@@ -1,0 +1,39 @@
+Highly Recommended: Use Vibrant Visuals for the best experience.
+
+Patrix 128x Bedrock Edition is an unofficial Bedrock port inspired by the legendary Patrix Java Edition resource pack, bringing its realistic visual style to Minecraft Bedrock. The goal is simple: transform Minecraft into a beautiful, immersive world while keeping the familiar vanilla atmosphere players love.
+
+This pack upgrades the game with high-quality 128x textures across blocks, terrain, vegetation, building materials, and many environmental details. Wood gains realistic grain, stone features natural patterns, grass and leaves become richer, and the world feels more alive without changing Minecraft's core identity. The textures are designed to stay close to vanilla colors, so your existing builds still look natural and recognizable.
+
+Features
+
+* Ultra-realistic 128x HD textures.
+
+* Detailed terrain, rocks, wood, grass, and foliage.
+
+* Improved blocks and building materials for realistic survival and creative worlds.
+
+* Natural vanilla-inspired color palette.
+
+* Optimized for Minecraft Bedrock Edition.
+
+* No Experimental Settings required.
+
+For the most impressive experience, enable Vibrant Visuals. It adds advanced lighting, reflections, shadows, and shader-like effects that perfectly complement this pack's realistic textures.
+
+Compatibility
+
+* Minecraft Bedrock Edition (latest supported versions).
+
+* Works in survival, creative, multiplayer, and realms/resource-pack-supported worlds.
+
+* No experimental features needed.
+
+Performance
+
+128x textures require more memory than vanilla textures. Mid-range and high-end devices will provide the best experience, especially when combined with Vibrant Visuals.
+
+Credits
+
+This project is an unofficial Bedrock Edition port inspired by the original Patrix resource pack created by patrix1221 for Minecraft Java Edition. Please support the original creator and their work if you enjoy Patrix.
+
+Bring a new level of realism to Minecraft Bedrock and experience a world that looks sharper, richer, and more immersive than ever.

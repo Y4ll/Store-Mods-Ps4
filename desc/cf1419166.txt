@@ -1,0 +1,84 @@
+Eternal Winter - Snowfall in All Biomes
+
+This Addon works perfectly on 26.13 and above (this line is updated regularly)
+
+Transform your Minecraft world into a winter wonderland! Eternal Winter brings beautiful snowfall and winter to every biome in the Overworld.
+
+If you want a cheap and extremely good server, check out gravelhost, use my link or the code for 25% off for your purchase.
+
+Features
+
+True Eternal Winter
+
+- Snow falls in ALL biomes - deserts, jungles, plains, everywhere!
+
+- Its not constant just snowfall, it follows a pattern, sometimes it stops, sometimes it snows for 20 minutes, and more. its a fully automated system (customizable if you want)
+
+- Custom snow particles but using vanilla textures, staying true to game's core.
+
+- Natural weather cycle between snowfall and clear skies
+
+- Sky color matches the dull winter style
+
+- All the leaves, vines, grass and more are snowy, along with real accumulation of snow from snowfall
+
+- Special dense fog for snowfall that makes you FEEL it.
+
+- Completely custom enviromental fog bluish haze.
+
+Snow Accumulation
+
+- Snow actually builds up on the ground over time
+
+- Layers stack on top of each other naturally
+
+- Every area is snowy even without accumulation, though keeping this on is recommended because real uneven snow on ground makes it 1000 times better
+
+Customizable:
+
+Everything can be customized through an easy in-game menu like accumulation, its speed and more.
+
+Commands
+
+For Everyone
+
+/snow:status - check current addon status
+
+For Admins:
+
+/snow:settings - Open the configuration menu
+/snow:startsnow - Force start snowfall
+/snow:stopsnow - Force stop snowfall
+
+How to Use
+
+Basic Usage:
+
+- Install the addon (Behavior Pack + Resource Pack)
+
+- Apply both packs to your world
+
+- Join the world - your world will be a winter land.
+
+Configuring Settings (Admins):
+
+- Type
+/snow:settings
+to open the menu
+
+Or just keep all settings as it is, there is no need to open the menu at all!
+
+Requirements
+
+- Minecraft Bedrock Edition 1.21.130 or higher
+
+This pack doesn't use experiments, so it will probably continue to work as intended even after updates to game.
+
+This Addon Doesn't Disable Achievements :)
+
+If you want to support me and donate a small amount, please consider this one time patreon donation (no subscription or membership)
+Join My Patreon
+
+Join the discord for help and chat:
+
+Areed's Discord Server

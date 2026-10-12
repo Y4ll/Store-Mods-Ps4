@@ -1,0 +1,20 @@
+This is an improved version of the original VHS Filter for Minecraft Bedrock.
+
+It adds a full-screen analog camcorder effect with scanlines, tape noise, grain, tracking interference, REC and battery indicators, corner framing, and other VHS-style artifacts. The screen coverage and UI placement have also been improved for a cleaner and more consistent appearance across different display sizes.
+
+The pack includes four selectable subpacks:
+
+- Clean Tape
+
+- Worn SP
+
+- Damaged LP
+
+- Severe Tracking
+
+Each preset changes the strength of the noise, distortion, dropouts, and tracking damage.
+
+This pack is ideal for horror maps, found-footage projects, abandoned-world gameplay, cinematic videos, and retro-themed adventures. It also includes additional color grading for Vibrant Visuals while keeping the main VHS overlay available in standard graphics mode.
+
+The original VHS Filter:
+https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-filter

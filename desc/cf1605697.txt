@@ -1,0 +1,23 @@
+Remove Water & Lava Fog is a pack that will make all oceans and lava clear/no fog! Suitable for survival and can also be used to fix fog that is too dark on a shader!
+
+Features:
+
+- Works on all ocean biomes and all nether biomes
+
+- Will not remove fog on the land!
+
+- Works on servers
+
+- Settings available
+
+Showcase:
+
+Remove Water Fog
+
+Remove Lava Fog
+
+Diamond revealer!
+
+Made By: PriaY
+
+Support me:)

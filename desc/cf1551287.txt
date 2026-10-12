@@ -1,0 +1,95 @@
+DISCORD COMING SOON!!! You can join to comment feedback and voice ideas or opinions before the pack is complete and I move on to the next one.
+
+Small update
+
+- Reworked all wool textures
+
+- Updated copper bars and iron bars
+
+- Enhanced ladder textures
+
+- Improved material realism and detail across updated blocks
+
+- Rail overhaul now in development
+
+- Various texture refinements and consistency improvements
+
+Dr. Neutrons UltraReal Vibrant Visuals Workstation & Environment Overhaul
+
+One of the largest visual updates in this release focuses on Minecrafts core survival progression blocks. Every major workstation has been redesigned to feel like a handcrafted, premium piece of equipment while remaining instantly recognizable to players.
+
+Complete Survival Table Overhaul
+
+Fully Redesigned Enchanting Table
+
+The enchanting table has received one of the most extensive redesigns in the entire pack.
+
+Every visible surface has been rebuilt to create a more mystical and ancient appearance while preserving the blocks iconic identity. The obsidian base now exhibits richer volcanic detail, subtle crystalline characteristics, and deeper material definition. Gold accents have been refined with improved metallic response and realistic wear patterns.
+
+The centerpiece of the redesign is the magical tome itself. The book has been completely recreated with enhanced leather detailing, aged pages, richer contrast, and a more premium magical aesthetic. Special attention was given to maintaining proper placement, animation compatibility, and visual balance within the enchanting table model.
+
+The result is an enchanting station that feels ancient, powerful, and worthy of being the centerpiece of any magical build.
+
+The entire family of utility and workstation blocks has received a ground-up visual redesign, bringing consistency, realism, and cinematic detail across the survival experience.
+
+Crafting Table
+
+The crafting table has been rebuilt with rich woodworking detail, deeper plank separation, realistic grain patterns, and refined joinery. The iconic top crafting grid remains recognizable while presenting the appearance of a true artisan workbench.
+
+Smithing Table
+
+The smithing table has been transformed into a rugged industrial workstation featuring enhanced metal surfaces, forged detailing, and premium workshop aesthetics. Every face of the block now better reflects the purpose of a master blacksmiths station.
+
+Fletching Table
+
+The fletching table has been redesigned with cleaner woodworking textures, precision tool markings, and realistic artisan craftsmanship, emphasizing its role in ranged weapon creation.
+
+Cartography Table
+
+The cartography table now features refined materials and enhanced detail that better represent a professional mapmakers workstation, with improved visual depth and cleaner surface transitions.
+
+Loom
+
+The loom has been upgraded with richer wood materials, more believable construction details, and improved texture layering to enhance its handcrafted appearance.
+
+Obsidian & Nether Portal Overhaul
+
+Obsidian Redesign
+
+Obsidian has been rebuilt from the ground up to better represent a volcanic glass material.
+
+New features include:
+
+- Enhanced depth and surface variation
+
+- Richer dark-purple coloration
+
+- Crystalline fracture patterns
+
+- Improved visual contrast
+
+- More realistic material response under varying lighting conditions
+
+The updated obsidian provides a stronger foundation for both enchanting setups and Nether portal structures.
+
+Nether Portal Improvements
+
+The Nether portal effect has been refined to deliver a more immersive dimensional gateway experience.
+
+Enhancements include:
+
+- Improved portal visual clarity
+
+- Smoother animated transitions
+
+- Enhanced dimensional energy effects
+
+- Better integration with surrounding lighting
+
+- Increased visual depth while preserving vanilla readability
+
+Portals now feel more like unstable tears between worlds rather than simple animated textures.
+
+Lava & Molten Material Rework
+
+La

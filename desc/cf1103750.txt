@@ -1,0 +1,99 @@
+Enderite Mod v1.1.5
+
+The definitive post-Netherite endgame technology tier for Minecraft Bedrock Edition.
+
+Complete Respawn Anchor rewrite, enhanced armor system & teleportation improvements!
+
+Compatibility & Requirements
+
+Requirement
+Status
+Details
+
+Addon Version
+v1.1.5
+Current stable release of Enderite Mod for Minecraft Bedrock Edition.
+
+Minecraft Version
+Required
+Compatible with Minecraft Bedrock 1.21.0+ and supported Preview versions.
+
+Script API Module
+Native 2.8.0
+Uses the stable Script API 2.8.0 with no experimental Script API flags required.
+
+Armor Trims
+Compatible
+All Enderite armor pieces support vanilla Armor Trim Smithing Templates and trim materials.
+
+Achievements
+Compatible
+Compatible with Xbox Achievements, Survival worlds, multiplayer servers, and Realms.
+
+Supported Platforms
+Universal
+Windows 10/11, Android, iOS, Xbox, PlayStation, and Nintendo Switch.
+
+What's New in v1.1.5
+
+Complete Respawn Anchor Rewrite
+
+- Entirely reworked system using player dynamic properties instead of entities and ticking areas for more reliable performance.
+
+- Individual player data Each player now has their own anchor data stored separately, eliminating conflicts in multiplayer.
+
+- Automatic spawn restoration Breaking the Enderite Respawn Anchor now automatically restores your previous spawn point.
+
+- Improved teleportation reliability More precise respawn mechanics with better error handling and prevention of duplicate spawns.
+
+Enhanced Armor System
+
+- New custom armor calculation system that correctly applies +4 Armor Toughness and +1 Knockback Resistance to Enderite armor.
+
+- Visual stat display All Enderite armor pieces now show their toughness and knockback resistance values in the item lore.
+
+- Vanilla armor support System now supports custom stats for vanilla armor variants (Diamond, Iron, Gold, Netherite).
+
+- Better damage reduction Improved separation between native Bedrock armor reduction and custom armor math.
+
+Teleportation Items with Dynamic Lore
+
+- Automatic charge display Teleport Swords and Shields now show their current charge amount (0, 16, 32, 48, 64) in the item lore.
+
+- Ability instructions Clear usage instructions: "Teleport with sneaking + right click!" for swords and "Teleport attackers with sneaking + right click!" for shields.
+
+- Real-time updates Lore automatically updates in inventory and equipment slots while playing.
+
+- Fallback text support System includes English fallback text if translations fail to load.
+
+Improved Crossbow Animations
+
+- New player animation controllers specifically for the Enderite Crossbow with smoother charge and discharge animations.
+
+- Better integration with vanilla animation system for more realistic bow handling.
+
+Creative Catalog Organization
+
+- New "Enderite Shields" category in the creative inventory with all shield variants.
+
+- Custom icon for the shield category in the creative menu.
+
+Bug Fixes & Balance Changes
+
+- Enderite Shulker Box Name & ID Fix Fixed item identifier to use the correct ed:enderite_shulker_box ID.
+
+- Enderite Shulker Box 3D Render Changed rendering when dropped to display as a 3D block on the ground instead of 2D.
+
+- Enderite Elytra & Elytra Chestplate Rarity Adjusted name color/rarity to Epic (purple text), matching vanilla Elytra behavior.
+
+- Enderite Armor Set Balance Armor Toughness: 16 points total (4 per piece) and Knockback Resistance: 4 points total (1 per piece).
+
+- Enderite Axe Damage Balance Reduced base damage from 11 to 8 to align with Bedrock combat system.
+
+Technical Implementation Notes
+
+- Vanilla Item Cloning System Added "craft" and "recraft" recipes for Elytra, Bow, Crossbow, Shears, and Netherite tools.
+
+- Smithing Table Workaround This workaround was necessary because Bedrock Edition doesn't allow using certain vanilla items directly as base items in Smithing Table recipes.
+
+- Flexible Conversion Players can convert vanilla items to mod-compatible versions (craft), upgrade them at the Smithing Table, and optionally revert them bac

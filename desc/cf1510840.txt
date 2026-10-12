@@ -1,0 +1,84 @@
+donate to help to pay sellery of workers:- ganeshgamerz.jakhar11@gmail.com on paypal
+
+FINAL LONG DESCRIPTION
+
+Java Combat Addon (Bedrock) PvP, UI & Mechanics Overhaul
+
+Experience true Java Edition combat in Minecraft Bedrock!
+This addon brings advanced combat mechanics, UI improvements, and gameplay upgrades to make Bedrock feel like Java Edition.
+
+Features
+
+Advanced Combat System
+
+- Attack cooldown system (Java style)
+
+- Sweep attacks for multiple enemies
+
+- Improved hit detection
+
+- Better PvP mechanics
+
+Java Hearts & Effects
+
+- Updated heart system like Java Edition
+
+- Smooth and clean visuals
+
+- Enhanced survival experience
+
+UI Improvements
+
+- Java-style interface elements
+
+- Cleaner and more immersive gameplay
+
+- Enhanced visual feedback
+
+Gameplay Enhancements
+
+- Balanced mechanics for survival & PvP
+
+- Optimized performance
+
+- Smooth experience on modern versions
+
+Subpack Options
+
+Choose your preferred style:
+
+- Java Combat (Recommended) Full combat experience
+
+- Java Forge Optifine Enhanced visuals & style
+
+- Java Classic Java look
+
+Compatibility
+
+- Minecraft Bedrock Edition
+
+- Supports 1.21+ (future-ready)
+
+- Works on most devices
+
+Installation
+
+- Download the addon
+
+- Import into Minecraft
+
+- Activate both:
+
+- Behavior Pack
+
+- Resource Pack
+
+- Enable required experiments
+
+Important
+
+- Make sure both packs are enabled
+
+- Some features may require experimental settings
+
+- Disable other combat addons to avoid conflicts

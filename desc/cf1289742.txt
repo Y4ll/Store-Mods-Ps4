@@ -1,0 +1,51 @@
+This is a Minecraft Bedrock addon for quickly mining ore veins and cutting the entire trees down. With this addon enabled, when a player mines a block, all the surrounding blocks with the same type break, which in turn causes other blocks surrounding them with the same type to break in a chain reaction.
+
+There are already plenty of similar addons out there, and this is yet another one joining the party. Why do we need more? What makes it different from others?
+
+- It respects tool enchantments. Mining ores with Fortune pickaxes yields more. Unbreaking tools last longer. XP-producing blocks like Coal ores repair your Mending tools. Silk Touch may produce different kind of items depending on the block type.
+
+- It consumes durability of your tools correctly. Most vein-mining addons let you mine the entire vein with consuming durability worth only one use of your tool. This addon consumes durability worth one use per block you mine, making it less overpowered.
+
+- It decays leaves fast. Cutting logs with an axe also breaks leaves immediately, with no additional consumption of tool durability.
+
+- It collects items and XP orbs for you. Items produced by mining blocks are directly placed in your inventory. The same goes for XP orbs, unless you have damaged Mending tools and armors.
+
+- It is customizable. It comes with a configuration UI to let you customize the behavior of the addon, such as when to enable quick-mining, what kind of blocks should be quick-mined, and more.
+
+- It can coexist with other addons. Modifying player.json is one of the greatest ways to make an addon incompatible with others. This addon doesn't do things like that. Custom tools added by other addons should also work as long as they have vanilla-compatible item tags.
+
+Installation
+
+- Enable the behavior pack on your world. This automatically enables its resource pack counterpart. Enabling it globally is not recommended.
+
+- And it's done. You don't need to turn any experimental options on.
+
+Usage
+
+Quick-mining happens when you mine blocks with a suitable tool while sneaking, such as cutting logs with an axe and mining ores with a pickaxe. You must use a correct tool for your task, that is, cutting trees with bare hand will not trigger quick-mining.
+
+Special cases
+
+- Trees:
+
+- Cutting Logs or Wood also breaks non-player-placed leaves surrounding them. This is a fast simulation of decaying so your axe don't lose durability for this, and its enchantments don't apply. If you want to gather leaf blocks, break them with shears or a Silk Touch hoe.
+
+- There are 4 separate options for enabling quick-mining Logs, Stripped Logs, Wood, and Stripped Wood. These options work in a combining manner. For example, suppose you have enabled options for Logs and Stripped Logs, mining Logs also mines nearby Stripped Logs and vice versa, as long as they share the same wood type (such as Oak).
+
+- Mangrove trees: Cutting mangrove logs or roots cuts the entire tree down, including moss carpets touching them and propagules hanging from leaves.
+
+- Azalea leaves: Breaking azalea leaves (flowering or not) also breaks the other variant.
+
+- Huge Mushrooms: Mining mushroom blocks (red or brown) also mines mushroom stems and vice versa.
+
+- Huge Nether Fungi: Mining nether wart blocks (warped or not) also mines surrounding shroomlights and vice versa.
+
+Customization
+
+Type /qmine-prefs on the chat screen. A customization UI will show up. These are per-player settings and do not affect any other players.
+
+Protection settings:
+
+- Abort mining blocks when your named tool is about to break: With this option enabled, quick-mining will abort or will not trigger when the durability of your tool is depleting. This only applies to named tools.
+
+- Keep your ground blocks from getting quick-mined: This option protects blocks underneath the player from being quick-mined. Note it's not perfect. The addon does not take account of the type of block you are standing on, so you can still accidentally fall down if y

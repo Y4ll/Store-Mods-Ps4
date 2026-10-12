@@ -1,0 +1,5 @@
+This is a very simple texture pack that I created; with it, you can use a legacy UI in the game options to enable the export of Minecraft worlds, a feature that was removed from the Android platform. (It may work on other platforms, but I've only tested it on Android)
+
+Give proper credit. You are not allowed to use significant portions of the code in other packages.
+
+You are also not allowed to upload my texture to other websites without my permission!

@@ -1,0 +1,29 @@
+LEmote is a Minecraft Bedrock add-on that lets players browse and use custom emotes through an easy in-game menu. This add-on includes a clean UI system for opening emote categories, selecting emotes, and managing favorites or saved slots. It is designed to make emote access simple and practical during gameplay.
+
+For users who want smoother-looking animation results, LEmote can optionally work alongside LModel. Using LModel is recommended for the best visual feel, but it is not required and LEmote still works without it.
+
+Features:
+
+- In-game emote menu
+
+- Category-based browsing
+
+- Slot management for emotes
+
+- Add and delete emote options
+
+- 100+ custom emotes
+
+- Optional compatibility with LModel for smoother animation presentation
+
+Dependency
+
+- LModel by Levyyc
+
+Notes:
+
+- LModel is recommended but not required
+
+- LEmote works normally without LModel
+
+- Made for Minecraft Bedrock Edition

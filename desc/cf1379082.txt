@@ -1,0 +1,63 @@
+Lite FPS
+
+Lite FPS is an optimizer for Minecraft Bedrock Edition, made especially for low-end devices.
+
+Lite FPS helps you enjoy a smooth, fast, and clean Minecraft experience without losing visual quality.
+
+Credit
+
+1. Bedrock Tweaks
+
+2. EchoRif https://www.curseforge.com/minecraft-bedrock/texture-packs/durability-viewer
+
+3. Vectz https://www.curseforge.com/minecraft-bedrock/texture-packs/better-loading-screens
+
+4. notnicto https://www.curseforge.com/minecraft-bedrock/texture-packs/quick-loot
+
+If youve ever faced lag spikes, frame drops, or slow performance Lite FPS is your ultimate solution.
+
+Main Features
+
+1. Dark UI
+
+2. V-Sync option
+
+3. Brewing Guide
+
+4. Villager Trade View
+
+5. Smooth Font
+
+6. No Particles
+
+7. No Animations
+
+Perfect For
+
+- Low-end and mid-end devices
+
+- PvP players who want maximum FPS
+
+- Survival and creative players who prefer smooth gameplay
+
+- YouTubers and streamers who want smoother recording
+
+Installation Guide
+
+- Download the ".mcpack" file
+
+- Open it with Minecraft
+
+- Activate the pack
+
+- Enjoy your game!
+
+Discord
+
+Discord
+
+Creator
+
+Made with by AyonPlayz
+
+Follow for updates and new releases!

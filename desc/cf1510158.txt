@@ -1,0 +1,53 @@
+Block of Sky Add-on (Minecraft Bedrock Edition)
+
+The Block of Sky Addon is a unique Minecraft Bedrock Edition addon that introduces a special sky-themed block into the game. This addon brings a creative and experimental concept that enhances both survival and creative gameplay experiences.
+
+Features
+
+- Adds a unique Block of Sky item/block
+
+- Works in both Survival and Creative modes
+
+- Lightweight and lag-free addon
+
+- Vanilla-friendly design (fits Minecraft style)
+
+- Easy to install and use
+
+- Fun sky-themed experimental mechanics
+
+How It Works
+
+The Block of Sky is a custom block that behaves differently from normal Minecraft blocks. It is designed for creative building, experimental gameplay, and map-making ideas.
+
+It can be used to create unique sky-based structures and custom world concepts.
+
+Installation Guide
+
+- Download the .mcaddon file
+
+- Open the file (Minecraft will launch automatically)
+
+- Wait for the Import Started and Successfully Imported message
+
+- Go to World Settings
+
+- Activate Behavior Pack and Resource Pack
+
+- Start your world and enjoy the addon
+
+Compatibility
+
+- Minecraft Bedrock Edition
+
+- Android / iOS
+
+- Windows 10 / 11
+
+- Multiplayer support (depends on world settings)
+
+Notes
+
+- This addon is experimental and may receive future updates with new features
+
+- For best performance, use the latest version of Minecraft Bedrock Edition

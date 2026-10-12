@@ -1,0 +1,27 @@
+Maximize your Vibrant Visuals look!
+
+This resource pack elevates the visual quality of Minecraft by optimizing vibrant visuals to its fullest potential. Whether youre using any texture pack, regardless of whether it supports PBR, or prefer the clean vanilla look, this pack guarantees that your worlds will look better than ever before. Even without any texture pack, it delivers significant visual improvements. Get ready for a completely new experience with vibrant visuals, fully compatible with all texture packs! Work well on mobile devices!
+
+- Improved water with realistic look
+
+- Skybox with sky added with all possible settings
+
+- Improved FOG and biome settings
+
+- Beautiful godrays without unnecessary fog around
+
+- Adjusted color gradingand switching to ACES color tone
+
+- Adjusted light settings for the moon and sun
+
+- Realistic rain and snow
+
+- Improved settings for lights and point lights
+
+- Improved shadow settings
+
+- Improved settings for atmospherics
+
+- Option to turn OFF realistic sky and weather
+
+Get PREMIUM version from official site: www.realsourcepack.com

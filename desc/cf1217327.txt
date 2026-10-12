@@ -1,0 +1,131 @@
+Note: This is an unofficial port of the Artifacts mod from Minecraft Java.
+
+Everlasting Beef, Eternal Steak: a food item that doesnt get consumed when eaten, with a 15-second cooldown.
+
+Umbrella: slows your fall when held.
+
+Whoopee Cushion: Occasionally makes a fart noise when worn.
+
+Night Vision Goggles: Grants night vision when worn.
+
+Plastic Drinking Hat: Increases saturation.
+
+Snorkel: Provides water breathing effect.
+
+Superstitious Hat: Applies an extra level of looting to killed entities.
+
+Villager Hat: Decreases trading prices with villagers.
+
+Cowboy Hat: Increases the speed of ridden mounts.
+
+Angler's Hat: Applies extra levels of Lure while fishing.
+
+Necklaces Charm of Sinking: Conduict effect.
+
+Flame Pendant: Chance to light attacking entities on fire
+
+Panic Necklace: Grants a short speed boost after taking damage.
+
+Lucky Scarf: Applies an extra level of fortune to mined blocks.
+
+Scarf of Invisibility: Turns the player invisible.
+
+Shock Pendant: Chance to strike attacking entities with lightning.
+
+Thorn Pendant: Chance to damage attacking entities.
+
+Charm of Shrinking: Shrinks the wearer (only visual).
+
+Antidote Vessel: Reduces the duration of negative status effects.
+
+Cloud in a Bottle: Allows double jumping.
+
+Crystal Heart: Increases maximum health by 6 hearts.
+
+Helium Flamingo: Allows swimming through the air for a short time.
+
+Obsidian Skull: Grants a 30-second fire resistance effect after taking fire damage.
+
+Universal Attractor: Attracts nearby items.
+
+Chorus Totem: Teleports the player on a fatal hit.
+
+Warp Drive: Ender pearls are not consumed but cost hunger instead.
+
+Digging Claws: Increases mining speed.
+
+Feral Claws: Increases attack.
+
+Fire Gauntlet: Causes melee attacks to set entities on fire.
+
+Golden Hook: Increases experience dropped.
+
+Pocket Piston: Increases knockback dealt by the player.
+
+Power Glove: Attacks deal an additional 4 damage.
+
+Vampiric Glove: Heals the player for 20% of damage dealt by melee attacks.
+
+Onion Ring: Grants a temporary haste effect after eating food.
+
+Pickaxe Heater: Automatically smelts mined ores.
+
+Withered Bracelet: Chance to apply a wither effect when attacking an entity.
+
+Aqua-Dashers: Allows sprinting on lava.
+
+Bunny Hoppers: Increases jump height.
+
+Flippers: Increases swimming speed by 100%.
+
+Kitty Slippers: Creepers run away from the player.
+
+Running Shoes: Increases movement speed by 40%.
+
+Steadfast Spikes: Increases knockback resistance.
+
+Snowshoes: Allows walking on powdered snow.
+
+Rooted Boots: Restores hunger when walking on grass.
+
+Strider Shoes: Allows sprinting on lava.
+
+Mimic: A new underground campsite structure has been introduced. Occasionally, Mimics spawn in these campsites instead of chests. These dangerous enemies attack players who get too close and always drop a random artifact when defeated.
+
+Structures:
+
+Category Group:
+
+Novelty Api:
+
+This addon supports Novelty API
+
+Credits:
+
+BR Translation - @capitaoWt
+
+Permissions:
+
+Discord: euforia_sin_h
+
+Discord server comunity: https://discord.gg/YJ5v727bJH
+
+YT: https://www.youtube.com/@Euforia-conr
+
+What to do if the addon doesn't work?
+
+-When creating the world, make sure this option is activated.
+
+-Delete any previous versions of the addon and keep only the latest one.
+
+-Stay on the latest official non-beta, non-preview versions of the game.
+
+-If the addon still doesn't work for you, join my discord server so I can help you with your problem.
+
+Note:
+
+Don't forget to activate the beta-api from experimental options.
+
+This port was made by euforia and danilerts.
+
+Some item mechanics have been modified and adapted to make them compatible with the limitations of Minecraft Bedrock

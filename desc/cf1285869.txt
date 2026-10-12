@@ -1,0 +1,27 @@
+Key Features
+
+AllinOne Mining & Logging
+
+Combines VeinMiner, TreeCapitator, CropCapitator & ShearCapitator in one pack Harvest entire ore veins with pickaxe, shovel or hoe Fell full trees by chopping a single log block Crop fields instantly wheat, carrots, potatoes & more Shear , leaves & cobweb in an area with one cut
+
+Universal Tool Compatibility
+
+Works with any standard or customID pickaxe, shovel, hoe, axe or shears
+
+Autodetects modded tools using vanilla identifiers no extra setup!
+
+Modular Configuration Toggle each tool on/off:
+
+Activate/deactivate by crouching while using the items .
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+JOIN DISCORD --> Click Here

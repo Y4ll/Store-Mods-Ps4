@@ -1,0 +1,77 @@
+After 6 long years, a much-loved shader has returned. It predates Minecraft's engine change, which rendered it unusable, but it's now functional again. Its purpose is to provide a somewhat realistic look for low-resource devices. Check it out, you've got nothing to lose.
+
+Screenshots
+
+- Sunset
+
+- Sunrise
+
+- Day
+
+- Water
+
+- Night
+
+- Night Water
+
+Featured
+
+- Coloration of the world
+
+- Lighting coloring
+
+- Beautiful and realistic sky
+
+- Color changing stars
+
+- Shadow (below block)
+
+- Realistic waters
+
+- Water wave
+
+- Underwater caustic and waves Shaking leaves and plants
+
+- Reflection of the sun in the water and some surfaces (Day / Night)
+
+- Fog like in the nether and end
+
+Notes
+
+- Need MBLoader.
+
+- Need IPA File in iOS.
+
+- You need BetterRenderDragon for Windows, in case it does not work, use the method of replacing material.bin files with Matject.
+
+- I recommend that you the old version of this shader if you have it installed to avoid errors.
+
+- This shader is only compatible with Android, Windows and iOS
+
+- Use this mcpedl link if you want to share this shader.
+
+- Please do not create another link for this shader.
+
+- This shader may not be supported on some devices, if so tell me about the error on my Discord.
+
+- Credits: Ale
+
+Changes
+
+- I've fixed a bug with the Merged version, which lacked Metal compatibility. What do I mean by this? It wasn't compatible with iOS, but it was compatible with Windows and Android. Because it wasn't compatible with iOS, users on servers or in friends' worlds weren't seeing the shaders.
+
+- Compatible with v26.3
+
+18/05
+
+- New shadows have been added
+
+- improved aquatic environment without loss of performance
+
+- The water has been improved and is now clearer.
+
+- better lighting with torches
+
+- compatible with versions 26.20+
+
+If you want to have better quality content, I invite you to donate your grain of sand

@@ -1,0 +1,33 @@
+Echo Edit:
+
+You can craft Echo Edit using (5 Echo Shards) in the crafting table.
+
+Echo Edit Options:
+
+There Are 3 Options In The Echo Edit, To Turn On The Options, You Must (Sneak And Click)
+
+These Options Are:
+
+Select Block
+
+-This Is Where You Will Choose What Block Do You Want For Your Build! You'll See A List Of Placeable Blocks That's In Your Inventory And Their Amounts.
+
+Modes (There Are 3 Types!)
+
+-Normal- Fills All Blocks
+
+-Wall- Fills All The Sides To Make A Wall
+
+-Box- Creates A Complete Hollow Blocks Where The Inside Is Completely Empty
+
+*When You Fill A Place, It Will Take The Blocks From Your Inventory Equal To The Number Of Blocks Needed To Fill The Selected Area. This Way, It's Not Cheating And It's Also Survival Friendly.
+
+Palettes
+
+This Addon Also Have Palettes! This Is Where You Can Choose Multiple Blocks And Mix Them Together! You Can Make Your Own Palettes On This Addon By Choosing The Blocks That You Want In Your Inventory.
+
+Achievements Friendly:
+
+This Addon Is Achievements Friendly So Don't Worry About Getting Your Cheats On When Adding This Addon To Your World!
+
+Survival World Edit Addon Trailer Here:

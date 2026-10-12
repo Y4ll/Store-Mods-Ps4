@@ -1,0 +1,157 @@
+The Bloody Flesh Parasite Addon
+
+A brutal survival experience where a mysterious parasite infection evolves over time, turning your world into a hostile environment where resources vanish and enemies grow stronger.
+
+---
+
+Entity System
+
+- TypeA Family Standard Infected Parasites
+
+- TypeB Family Large Parasites
+
+Each type has unique behaviors, abilities, and increasing threat levels as the infection progresses.
+
+---
+
+Optimization & Game Modes
+
+Yes, the addon is optimized performance depends on the selected subpack:
+
+Performance Mode (Low-End Devices)
+
+- Phase system removed
+
+- Infection spreads through worms
+
+- Infected mobs transform into Living Flesh
+
+- 4 Living Flesh merge into a Large Parasite
+
+Normal Mode (Mid-Range Devices)
+
+- Balanced gameplay experience
+
+- Phase system limited up to Phase 5
+
+- Includes core features from version 0.0.4
+
+Nightmare Mode (High-End Devices)
+
+- Full gameplay experience
+
+- Higher spawn rates
+
+- Increased difficulty
+
+- Starvation mechanics enabled
+
+---
+
+Phase Progression System
+
+The infection evolves based on points and time survived without sleeping.
+
+---
+
+Phase 0 0 Points
+
+- Worms spawn naturally at night
+
+---
+
+Phase 1 6,000 Points (~5 Days Awake)
+
+- Infected parasites begin spawning at night
+
+- Spawn rate remains low
+
+---
+
+Phase 2 8,400 Points (~7 Days Awake)
+
+- Parasites now spawn during daytime
+
+- Day spawn rate becomes higher than Phase 1 night
+
+---
+
+Phase 3 14,400 Points (~12 Days Awake)
+
+- Parasites gain block-breaking abilities
+
+- Limited to wood-type blocks:
+
+fences, gates, logs, planks
+
+---
+
+Phase 4 18,000 Points (~15 Days Awake)
+
+- Passive mobs that provide food begin to despawn:
+
+cows, sheep, pigs, chickens, fish
+
+- Players must rely on farming
+
+- Parasites become more focused on players
+
+---
+
+Phase 5 30,000 Points (~25 Days Awake)
+
+- Large parasites begin spawning naturally:
+
+Charger, Arachnid, Bloater, Walker, Slasher
+
+- Can destroy blocks in a 33 area instantly
+
+- Strong blocks take longer:
+
+obsidian and similar blocks break in 510 seconds
+
+---
+
+Phase 6 36,000 Points (~30 Days Awake)
+
+- A reddish fog appears, reducing visibility
+
+- Natural food drops are disabled:
+
+wheat, beetroot, potato, carrot, apple, berries, fish
+
+- Food can only be found in structures or villages
+
+---
+
+Phase 7 42,000 Points (~35 Days Awake)
+
+- Parasites receive major buffs:
+
+- Attack Damage: 15
+
+- Health: 35
+
+- Increased speed
+
+- Unarmored players can be defeated in ~2 hits
+
+- Large parasites can eliminate players instantly
+
+---
+
+Important Notes
+
+- Designed for challenging survival gameplay
+
+- Best experienced in multiplayer or long-term worlds
+
+---
+
+The longer you survive... the worse it becomes.
+
+Adapt, prepare, or be consumed.
+
+0.0.5 update
+
+https://youtu.be/ZXIEW738Vbo?si=qxk7RND1Y-Biwwk2

@@ -1,0 +1,37 @@
+Velmora Visuals is a Vibrant Visuals shader pack built for Minecraft Bedrock's new rendering pipeline. It delivers a stunning Arctic Aurora atmosphere, dramatic crimson-to-violet sunsets, ice-blue moonlit nights, volumetric biome fog, animated living foliage, and ACES film-grade color grading all crafted to be both breathtaking and performance-conscious across a wide range of devices.
+
+Arctic Aurora Sky & Atmosphere Custom sky/atmosphere with polar blues, coral sunsets, and a drifting glow-aurora particle effect at night.
+
+Reimagined Visual Style
+Signature Arctic Aurora identity with a cool, cinematic colour palette
+Balanced between photorealistic depth and vanilla-friendly clarity
+Immersive animated foliage grasses, ferns, vines, and crops breathe with smooth flipbook motion
+Elegant fog transitions and raytraced-style water with deep blue underwater tinting
+
+Advanced Atmospherics
+Custom biome-based atmosphere settings for 60+ biomes including deserts, jungles, oceans, swamps, pale gardens, and more
+Smooth sky colour transitions across 15+ keyframes throughout the full day-night cycle
+Warm amber-to-crimson sunrises with dramatic horizon blending and layered Mie scattering
+Deep midnight blue nights with a vivid zenith and soft moonlit ambience
+Fiery orange-to-magenta sunsets with wide horizon bloom
+
+Lighting & Sun Rays
+Volumetric sun rays with high-intensity Mie glow at golden hour
+Precise sun illuminance ramp bright warm midday dropping sharply at dusk to near-zero night
+Cool-tinted moonlight casting soft ambient light across the landscape
+
+Color Grading & Fog
+ACES tone mapping with boosted contrast, elevated saturation, and warm highlights
+White balance tuned at 6400K for a naturally vivid, sun-kissed look
+Biome-aware volumetric fog with unique haze per environment purple roofed forests, blue-grey snow, amber deserts
+Custom Henyey-Greenstein scattering for natural, physically accurate light diffusion
+
+Installation
+
+- Download the .mcpack file
+
+- Open to import into Minecraft
+
+- Enable Velmora Visuals in Global Resources
+
+- Turn on Vibrant Visuals in Video Settings

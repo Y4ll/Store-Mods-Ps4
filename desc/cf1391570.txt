@@ -1,0 +1,29 @@
+Hello this is a new project that I created myself what it does is that the tools of other addon are compatible with the animations of action and stuff or prizma
+
+Okay, in the add-on there's a file and a folder called backup, and the txt file is for the action and stuff folder. And by the way, you have to modify them yourself; check if it's a sword and just change the indeterminate and the texture within the JSON file.
+
+I hope this is clear and please give it 5 stars. Thank you.
+
+Settngs Pack Minecraft:
+
+---
+
+NOTE
+
+This pack includes multiple item configuration files.
+
+If you want your custom items to display correctly, you must select the correct file for each item inside the subpacks options.
+
+Each subpack contains a different setup, so item behavior is not automatic it must be chosen manually.
+
+ALERT
+
+Be careful when selecting your subpack!
+
+Make sure you pick the version that matches the system you are using:
+
+Action & Stuff subpack for Action & Stuff users
+
+Prizma subpack for Prizma users
+
+Choosing the wrong subpack may cause items to render incorrectly or not appear in 3D.

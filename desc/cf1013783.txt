@@ -1,0 +1,17 @@
+This has several colors, which are the same as the vanilla colors tho, but I'll try to add new features in the next update.
+
+- Motorcycle - It has a good suitable speed for city and free-roaming with friends or by yourself inside your Minecraft world
+
+- Scooter A - It has good detail, it was based on the Simple Vehicles Addon, but it is different
+
+- Scooter B - It has been recreated, but it also has the same style and speed as those two mentioned
+
+Features:
+
+- Has a kickstand animation when you're not in the vehicle
+
+- 16 colors to try (paints and spray cans are coming soon)
+
+Here are the images:
+
+Here's the showcase video anyway:

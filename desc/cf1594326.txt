@@ -1,0 +1,89 @@
+Infinite One Block Hardcore ( Minecraft Bedrock )
+
+A Complete and faithful One Block Experience for Bedrock Edition but with hardcore mode
+
+Features:
+
+- Hardcore mode
+
+- Exactly like java edition One Block
+
+- 11 Distinct Phases
+
+- Title Cards
+
+- Progress tracker
+
+- Random Chest spawns
+
+- Easy to run
+
+Get the Infinite One Block Hardcore map now for completely free.
+
+Preview
+
+Infinite One Block
+
+Phases
+
+- Forest
+
+- Underground
+
+- Village
+
+- Frostlands
+
+- Ocean
+
+- Jungle/Swamp
+
+- Desert
+
+- The Nether
+
+- Luxury
+
+- DeepGround
+
+- The End
+
+Note : Every phase lasts 1000 blocks
+
+How to Install
+
+-
+Download the .mcworld (release) file.
+
+-
+Double-click or open the file to automatically import it into Minecraft Bedrock.
+
+-
+Enter the world to play
+
+or
+
+-
+Download the .mcpack (release) file.
+
+-
+Double-click or open the file to automatically import it into Minecraft Bedrock.
+
+-
+Create a flat Minecraft world with void preset
+
+-
+In in experimental settings , turn on Beta API
+
+-
+Click create world
+
+Terms & Conditions
+
+Personal Use Only You may use or modify the map for personal gameplay but cannot redistribute it.
+
+Content Creation Videos are allowed but must include official links: CurseForge | MCPEDL
+
+No Reposting Do not upload this map to other sites.
+
+No Commercial Use Selling this content is not allowed.

@@ -1,0 +1,31 @@
+This Minecraft addon enhances the player's death experience by introducing a unique tomb mechanic. When a player dies, a tomb is generated at their death location, which securely stores all their inventory and equipment. The tomb is marked with the player's name and has a limited lifespan, after which it will disappear along with its contents. Players are given a special tomb key upon respawn, which allows them to locate and unlock their tomb.
+
+The tomb key dynamically updates with information about the player's tombs, including the distance to each tomb and the time left before they vanish. The addon also generates particle effects that guide the player from their current location to the tomb, making it easier to find.
+
+To prevent other players from looting the tombs, the addon ensures that only the player who owns the tomb can interact with it. If another player tries to access a tomb, they will receive a notification indicating that it doesn't belong to them.
+
+-- Key Features --
+
+- Tomb Generation: Upon death, a tomb entity is spawned at the player's death location, containing all their inventory and equipment.
+
+- Tomb Key: Players receive a tomb key upon respawn, which provides information about their tombs, including distance and remaining time.
+
+- Particle Guidance: Particle effects are generated to guide players to their tombs.
+
+- Owner Protection: Only the player who owns the tomb can access its contents, ensuring secure retrieval of items.
+
+- Tomb Lifespan: Tombs have a limited lifespan, indicated by a countdown timer on the tomb key. If not retrieved in time, the tomb and its contents will disappear.
+
+- Automatic Inventory Transfer: When a player interacts with their tomb, the contents are transferred back to their inventory, and any excess items are dropped on the ground.
+
+-- Tombstone System --
+
+-- Tombstone --
+
+-- Key System --
+
+-- Experiments --
+
+This addon adds an immersive and challenging element to the game, encouraging players to quickly retrieve their items while navigating the dangers of the world.
+
+Discord: https://discord.gg/3MNMR4STYc

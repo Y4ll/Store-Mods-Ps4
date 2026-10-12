@@ -1,0 +1,73 @@
+SERP Reworked es un Texture Pack creado especificamente para el addon Serp Pokedrock, enfocado en renovar y mejorar por completo su apartado visual, ofreciendo una experiencia mas moderna, limpia y personalizable dentro de Minecraft Bedrock.
+
+Este pack retexturiza modelos, objetos, menus e interfaces, manteniendo la esencia del addon original pero con un estilo visual mucho mas cuidado y actualizado.
+
+Caracteristicas principales
+
+Pokeballs retexturizadas y con nuevos modelos
+
+Todas las Pokeballs han sido redisenadas con mayor detalle y mejor calidad visual.
+
+Mega piedras con modelo 3D
+
+Las Mega Stones ahora cuentan con modelos tridimensionales.
+
+Objetos del addon retexturizados
+
+La mayoria de los objetos de Serp Pokedrock han recibido nuevas texturas.
+
+New Textures:
+
+Nuevo diseno del mineral custom Poke Ore
+
+Rediseno completo del mineral exclusivo del addon.
+
+Cuadros (paintings) renovados
+
+Todos los cuadros han sido cambiados por nuevos disenos.
+
+Nuevo
+
+Con un caldero ahora se puede cambiar el color de la pokedex por todos los colores disponibles en minecraft (Esto es del addon base SERP Pokedrock no de la textura):
+
+Ahora es compatible con el complemento Detailed Pokedrock:
+
+Sin SERP Reworked:
+
+Con SERP Reworked:
+
+Cosas Eliminadas:
+
+-Se elimino el modelo 3D de la pokedex.
+
+-Se elimino los menus redisenados de pokedex y combate.
+
+NOTA:
+
+Esta textura es compatible con Vibrant Visuals.
+
+Creditos
+
+La mayoria de las texturas utilizadas pertenecen al proyecto Cobblemon
+
+Todo el credito va para sus respectivos creadores.
+
+Este pack es una retexturizacion sin fines de reclamar autoria sobre dichos recursos.
+
+Cobblemon:
+
+https://cobblemon.com/es
+
+Detailed Pokedrock (By MikeElPrron):
+
+https://discord.com/channels/805589917354688552/1431289992331919360/1431289992331919360
+
+Addon original:
+
+Este texture pack requiere el addon Serp Pokedrock, creado por Zacekel Serpentin.
+
+Proyecto original en CurseForge:
+
+https://www.curseforge.com/members/zacekelserpentin/projects
+
+Orden de los packs:

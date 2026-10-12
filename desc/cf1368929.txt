@@ -1,0 +1,68 @@
+Better Trees from Saplings Your Forest, Your Rules
+
+The Ultimate Procedural Forestry & Custom Tree Generation Engine for Minecraft Bedrock!
+Transform your world's landscapes from plain vanilla saplings into breathtaking, organic nature reserves! Better Trees from Saplings replaces default tree growth with an advanced procedural branching algorithm that creates everything from delicate bonsai shrubs to colossal, world-spanning ancient titans across 200+ unique tree profiles. Take full command of nature with an intuitive sneak-place UI, quick-grow Favourites, emergency Undo safety, dynamic Seasons, and instant Admin Forest Generators!
+
+Trees now grow with stripped logs variants
+
+You May Also Enjoy The Addon Below!!
+[Realm Compatible] RPG Skills & Prestige: Evolved - Minecraft Bedrock Addons - CurseForge
+
+Core Features & Capabilities
+
+- 200+ Procedural Tree Profiles: Over 200+ handcrafted growth profiles covering Oak, Spruce, Birch, Jungle, Acacia, Dark Oak, Cherry, Mangrove, Pale Oak, Bamboo, Azalea, Crimson Fungus, and Warped Fungus!
+
+- Massive Variety of Archetypes: Grow small detailed shrubs, twisted windblown trunks, weeping canopies with hanging vines, weeping willows, hollow ancient elders, and colossal multi-trunk titan behemoths!
+
+- Stripped Log & Bark Blending: Natural trunks feature realistic stripped log cores, multi-layer bark tapering, and organic root flare networks embedded into the ground.
+
+- Dynamic Seasons Engine: Foliage dynamically shifts with the active world season:
+
+- Spring: Blooming flower canopies, cherry blossoms, and vibrant green buds.
+
+- Autumn: Rich golden, red, and azalea-mixed leaf fall palettes.
+
+- Winter: Snow-capped needle crowns and sparse winter canopies.
+
+- Normal: Pure lush vanilla forestry.
+
+- Player Favourites & Quick-Grow: Save up to 3 of your most-used tree designs per player for instant 1-click planting without scrolling menus!
+
+- Instant Undo Protection (/scriptevent nasa:undo): Placed a giant tree in the wrong spot? Revert your last generated tree instantly and restore up to 300 blocks to their exact original state.
+
+- Admin Forest Generator: Server admins can batch-generate full natural woodlands across configurable footprints: Small (8 trees), Medium (15 trees), Large (25 trees), or Massive (40 trees)!
+
+- Fast Growth & Animated HUD Progress: Choose between animated real-time growth with custom sapling particles and action-bar progress bars, or instant Fast Growth for rapid building.
+
+- Safe Placement Engine: Built-in safeguards check structural density, height caps, and block replaceability to ensure trees never overwrite player builds, chests, or valuable blocks.
+
+How to Use
+
+- Sneak & Place: In Survival or Creative mode, simply Sneak (crouch) and place any supported sapling, propagule, or fungus on the ground.
+
+- Select Your Variant: The Grower UI will appear instantly, displaying all available designs, variant tags (Roots, Multi-Trunk, Vines, Snow, Fungus), your personal stats, and the Random roll option.
+
+- Watch It Grow: Select your chosen tree variant and watch the fractal algorithm grow your custom tree before your eyes!
+
+Quick Commands & Chat Shortcuts
+
+- !trees or /scriptevent nasa:trees_menu Open the Player Tools & Preferences Menu.
+
+- !undo or /scriptevent nasa:undo Undo your last generated tree.
+
+- !treestats or /scriptevent nasa:stats View your lifetime trees grown and blocks placed.
+
+- !stoptrees or /scriptevent nasa:stop Emergency cancel all your active growth jobs.
+
+- /scriptevent nasa:season_<name> (Admin) Set world season (normal, autumn, spring, winter).
+
+Important Requirements & Realms Setup
+
+For this massive addon to function without errors, you MUST enable Cheats and the following experimental world setting:
+
+- Beta APIs
+
+Playing on a Server or Realm?
+Because Bedrock does not allow direct activation of script experiments on active Realms, follow this specific deployment process:
+
+- Create a new world (or download your current active Realm) to your local devic

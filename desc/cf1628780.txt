@@ -1,0 +1,55 @@
+One Block Addon
+
+Start your survival journey with just one single block floating in the void! Break the block to receive random resources, unlock new phases, discover loot chests, and expand your island endlessly. This addon is completely vanilla-friendly.
+
+Features
+
+- Endless One Block gameplay
+
+- Multiple progression phases
+
+- Random resource generation
+
+- Loot chests around the island
+
+- Vanilla compatible
+
+- Lightweight & optimized
+
+- Great for survival and multiplayer
+
+Gameplay
+
+Every time you break the main block, a new block appears. Progress through different phases such as basic resources, caves, nature, and ores while expanding your island.
+
+Important World Setup
+
+While creating the world, select Flat World and choose the The Void preset, then create the world. This is required for the addon to work correctly.
+
+Installation
+
+- Download the .mcaddon file.
+
+- Open it with Minecraft Bedrock Edition.
+
+- Enable both the Behavior Pack and Resource Pack.
+
+- Create a new world using the setup instructions above.
+
+- Start surviving on your One Block island!
+
+Disclaimer
+
+The screenshots, thumbnails, and promotional images may be AI-enhanced for better presentation. Actual in-game graphics may differ.
+
+Usage & Credits
+
+You may freely use this addon in maps, videos, addons, servers, showcases, streams, and other projects.
+
+The only requirement is to give proper credit in the following format:
+
+@GAVTI
+
+Please do not remove the original creator credit when sharing or reusing this project.
+
+Made with by GAVTI

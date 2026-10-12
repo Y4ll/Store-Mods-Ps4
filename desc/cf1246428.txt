@@ -1,0 +1,63 @@
+The Universal Pack is back with its renewed version with new features and functions that I'm sure you will like, this pack works on any device that has minecraft without affecting performance. Try it you will not regret.
+
+Changes
+
+- Performance has been improved.
+
+- Now compatible with version 1.21.51
+
+- Fixed the bug with clouds as some of them had errors with them.
+
+- Improved the appearance in the new pale garden biome.
+
+Universal Pack - Mode Day
+
+Universal Pack - Mode Night
+
+Universal Pack - Mode Cherry
+
+Feature
+
+- Lighting effect on shiny blocks
+
+- Shiny Armors
+
+- Shiny Eyes Mobs
+
+- 3 different modes (Mode Cherry, Mode Day, Mode Night).
+
+- rainbow on and off function.
+
+- Colorful and moving neutrals.
+
+- Movement in plants.
+
+- Colorful leaves that contrast with the environment.
+
+- Improved sky with more realistic clouds, sun and moon.
+
+- Texturing of water and also the fog is attached to it
+
+- New particles.
+
+- It works on all devices.
+
+- It has no delay.
+
+- Improves Performance thanks to the mist
+
+Notes
+
+- May be modified for personal use only.
+
+- It is forbidden to distribute this texture pack with modifications in the code.
+
+- You may not take this resource pack and publish it in your own name.
+
+- It is possible that this resource pack has any, if so, please report the bug to me on my Discord.
+
+- This texture pack works on any device
+
+- This resource pack is compatible with minecraft versions +1.18.30 which means that it is also compatible with (Renderdragon).
+
+If you want to have better quality content, I invite you to donate your grain of sand.

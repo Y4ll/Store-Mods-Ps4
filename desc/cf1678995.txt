@@ -1,0 +1,11 @@
+Combo Combat System
+
+The Combo Combat System increases your damage based on your consecutive hits. For example, if you land 10 hits, your damage will be increased by 10. If you reach 35 hits, your damage will be increased by 35, up to a maximum bonus of 100 damage.
+
+The combo will reset after a few seconds if you stop attacking, so keep hitting mobs to maintain your combo!
+
+Only successful hits on mobs count toward your combo. Hitting the air or attacking blocks will not increase your combo.
+
+This system is designed to make combat more exciting and encourage you to enjoy PvP, PvE, and intense fights!
+
+Note: Images shown are AI-generated.

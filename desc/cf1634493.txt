@@ -1,0 +1,18 @@
+Vor's Borderless Glass
+
+Tired of chunky black borders breaking up your glass builds? This pack strips every frame from vanilla glass blocks and panes all 16 colors plus tinted glass for clean, seamless windows and walls that actually look like glass.
+
+Two ways to run it:
+
+- Borderless Glass removes the frame, keeps your colors bold and saturated
+
+- Clear & Borderless Glass removes the frame and lightens the tint for a more transparent, airy look
+
+Switch between them anytime from the subpack menu no reinstall needed.
+
+Full 16-color glass + glass pane support
+Tinted glass included
+Vanilla-friendly performance, no shader dependency
+Two subpacks, one download
+
+Perfect for greenhouses, modern builds, aquariums, or any project where borders were killing the vibe.

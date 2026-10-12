@@ -1,0 +1,9 @@
+Better Ores (Outline Mod)
+
+brings a visual upgrade to your Minecraft mining adventures! This addon enhances all in-game ores by adding vibrant glowing outlines, making them easier to spot in caves and underground. Whether you're a seasoned miner or just starting out, this mod helps you locate valuable resources faster without altering the core gameplay. Perfect for survival players who want a visual boost without breaking immersion!
+
+- Glowing outlines on all standard ores
+
+- Performance-friendly visuals
+
+- Easy to install and use with other addons

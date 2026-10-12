@@ -1,0 +1,21 @@
+The Brewin' And Chewin' mod on Java edition is under the MIT License. This license allows me to port it to bedrock edition. Here is the license link:
+
+MerchantPug/BrewinAndChewin: Fermenting addon for Farmer's Delight.
+
+Special thanks to MerchantPug, Probleyes, lumpazl for creating this excellent mod!
+
+Dependent Mod:
+
+Farmer's Delight(made by FDBDev)
+
+Foods and Drinks
+
+Lots of foods and drinks that have been added:
+
+Keg
+
+The Keg is an essential workstation in this mod, responsible for producing most of the food and drinks. The Keg has four input slots, one container slot one liquid slot, and one output slot. The container slot is also used to transfer liquids into the bliquid slot. The Kegr requires the output slotr to be empty or contain the same item as the output product, and the liquid slot must be full to function. Each fermentation recipe has different temperature requirements and fermentation time. You can check the fermentation progress by aiming at the keg.
+
+Guide
+
+you can use the Brewing Guide to see the mod guide.

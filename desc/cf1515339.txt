@@ -1,0 +1,43 @@
+Better Bushy Leaves is a lightweight visual resource pack for Minecraft Bedrock Edition that transforms flat, blocky leaves into lush, bushy foliage, now with gentle falling leaf particles drifting from every tree. No mods, no experiments, just a resource pack that makes your world feel alive.
+
+NEW - Dappled Forest Poplar Leaves The new Dappled Forest now gets the full bushy treatment.
+
+- Red, Orange and Yellow Poplar leaves all have the bushy shape
+
+- Each poplar colour sheds its own matching falling leaves
+
+- PBR texture sets included, so leaves look right under Vibrant Visuals
+
+Falling Leaf Particles Leaves gently detach and tumble from tree canopies, with natural swaying motion and per-leaf colour variation.
+
+- Falling leaves for every tree type, now including all three poplars
+
+- Leaf colours are matched to each tree's foliage, from autumn birch gold to deep spruce green
+
+- Cherry trees shed soft pink petals, pale oak drops its pale leaves
+
+- Leaves that land on water float on the surface before fading away
+
+- Fully ambient - works in any world, no setup needed
+
+Bushy Leaf Shapes All vanilla leaf blocks use a fuller, bushy shape, giving trees a natural, rounded canopy instead of boring cubes.
+
+- Oak, Birch, Spruce, Acacia, Dark Oak, Jungle
+
+- Mangrove, Cherry, Pale Oak, Azalea & Flowering Azalea
+
+- Red, Orange & Yellow Poplar
+
+Known Bug: Snowy leaves look reddish.
+
+Best Visuals For the best experience, pair this pack with our Solar Shaders, made to match Better Bushy Leaves perfectly. That's the combo shown in the screenshots! Any other Shader, Vibrant Visuals, or RTX pack works great too.
+
+Lightweight & Compatible
+
+- Purely visual - no FPS impact from heavy models
+
+- Works alongside other texture packs and shaders
+
+- Requires Minecraft Bedrock 1.21.50+, 26.0+ (poplar leaves need 26.50+, where the Dappled Forest was added)
+
+Feedback & Issues: Found a bug or have a suggestion? Leave a comment below! If you enjoy the pack, please leave a rating, it helps a lot!

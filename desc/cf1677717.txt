@@ -1,0 +1,63 @@
+The Age of Sail ended three hundred years ago. The sea kept everything.
+
+Salt & Ships is an expansion about going back for it. Buried caches under the sand, idols nobody has carried out of the jungle in centuries, a temple that still remembers its own sequence, wrecks on the shoreline, a tower nobody has climbed since its owner died in it, and a ship you rebuild plank by plank until it can survive the crossing.
+
+Everything you recover is guarded by something that was already there.
+
+What this add-on adds
+
+- A player-owned ship you board, steer and name, with 6 upgrade tracks
+
+- Naval combat against 5 classes of enemy ship, convoys, and a ghost ship
+
+- 4 bosses, each with its own fight system
+
+- 5 generated structures, plus buried treasure and a floating trader
+
+- Treasure caches you find by probing the sand with a shovel
+
+- Hireable crew that draws a daily wage, with player crews supported
+
+- Muzzle-loading flintlocks and muskets with a real reload cycle
+
+- Cutlasses with a four-hit combo and a parry
+
+- 20+ new mobs, a mahogany wood set, and a rum-making chain
+
+What is buried, and what guards it
+
+The Pirate Hideout. A rock outcrop with a cage at its centre and the loot visible from the entrance. Three locks, and each one you break calls up another wave of the crew that died holding it. The idol on display tells you in advance how hard the room will be.
+
+The Masked Temple. Nothing in it can be killed. Carved masks line the walls, and touching one wakes the temple. It lights a chain, you repeat it, and the chain gets one longer every round. The mask that closes a round goes dark for good and drops out of the sequence, so the room gets smaller as you get deeper. One mistake ends the attempt. Finish the last round and the cage opens.
+
+Blackbeard's Tower. It generates out at sea. What is inside is the last step of the longest chain in the add-on.
+
+Buried treasure. Caches generate under beaches with no marker on the surface. Probe the sand with a shovel and the game tells you warm or cold. Seagulls circle what is still down there, so a flock on the horizon is worth a detour.
+
+Lost idols. Six of them, in two families and three tiers of workmanship. They are the endgame collectible, and the traders pay accordingly.
+
+A trader at anchor. A merchant ship generates on the water with someone aboard who will buy what you dig up. Pirates hunt him too, and when they catch him they rob him instead of killing him.
+
+The ship
+
+A full vessel you own, name, board and steer, not a reskinned boat. You walk its deck while it moves, take the wheel, and the sails come down by gear.
+
+Six upgrade tracks, each one visible on the hull: Hull, Bow Cannons, Broadside Cannons, Stern Barrels, Ram and Lifeboats. You do not buy them one click at a time. You draw up a plan at the Shipwright's Table, see the total cost, and commission the refit in one go.
+
+Aiming is manoeuvring. The guns are fixed to the hull, so putting your broadside on a target means putting your ship there. Ram at speed and you tear into wood. Run aground and it costs you.
+
+Enemy ships patrol in five classes and sail in convoys, and their rigging tells you what they are carrying before they are in range.
+
+The crew
+
+Corsairs wander the coast and can be hired for coin, or taken off a pirate who surrenders when you are wearing the full Corsair Rig. They serve for a daily wage paid out of the Bosun's Table, they wear your house livery, and they crew your guns. Let the payroll run dry and they walk.
+
+Castaways wash up dying on the shore. Feed one and he stands up. Feed him a golden apple and he follows you for good.
+
+Both go down before they die. A downed man kneels for a short window and anyone can get him back on his feet, unless he went down in the water.
+
+Other players can sign on to your crew too, with a negotiated wage and friendly fire off.
+
+Four things that will kill you
+
+The Barnacle Dreadnought sleeps in its own lair until someone walks in. Seven attacks, an arena that gets destroyed as you

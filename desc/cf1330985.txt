@@ -1,0 +1,18 @@
+This addon, based on popular Java Hammers mods, adds Hammers and Excavators that breaks blocks in large areas while keeping it balanced and vanilla-friendly.
+
+Hammers and Excavators mine blocks in a 3x3 area.
+
+(To mine single blocks, simply crouch/sneak.)
+
+You can preview the mining area with an outline before breaking any blocks.
+
+Specialized for stone, deepslate, netherrack, end stone, and similar blocks.
+
+Designed for dirt, gravel, sand, and other soft materials.
+
+Individual blocks are mined slower than Pickaxes or Shovels to keep gameplay balanced.
+Each mined block reduces durability(Unbreaking Enchantment Works).
+
+RESOURCES PACKS AND BEHARVIORS PACKS NEEDED
+
+This Addon does not disable achievements.

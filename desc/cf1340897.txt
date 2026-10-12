@@ -1,0 +1,9 @@
+Supports Most Latest Versions 1.21.101+
+
+So basically this pack just gets rid of a bunch of useless stuff that makes your phone lag. like it removes hidden particles you dont even see and makes the textures way simpler.
+
+This means your phone has less work to do so the game can run faster. ig it just helps your phone focus on the important stuff :)
+
+This pack uses a custom script I made called 'pixel skipping'. It basically tells your phone not to draw stuff that's completely hidden behind other blocks, which frees up a ton of power.
+
+It also untangles the game's code a little, so your phone can process things in a smarter order and stop those annoying lag spikes :)

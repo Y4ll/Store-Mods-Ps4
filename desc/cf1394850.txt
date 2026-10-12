@@ -1,0 +1,51 @@
+Hi, I've made another horror add-on for your minecraft world to make your survival experience more challenging and hard, this add-on is called "Shapewretch". What's that? It's just an entity that can transform itself into a passive mobs such as cow, pig, frog, parrot, chicken and wolf. They will only spawn in the overworld, be careful what creature you hit, it might be the shapewretch (shape shifter kind of stuff). Now let's go into the mobs information.
+
+MOBS
+
+Now this creature is called the Shapewretch (like the title). It shapeshifted it self to hide it self and strike when it's ready so be careful travelers. Here's more info about the creature:
+
+Name:Shapewretch
+
+Health:350
+
+Damage:8
+
+Loot:Shapewretch head
+
+Now this one is another form that he take, the cow form where it still using his shapeshifting ability but there's a mouth open in it's belly to attack you now.
+
+Name:Shapewretch Cow
+
+Health:300
+
+Damage:8
+
+Loot:none
+
+This one is the weakest form that the shapewretch has taken, but still, even tho it's weak, it deals alot of damage but it has less health.
+
+Name:Shapewretch Pig
+
+Health:250
+
+Damage:8
+
+Loot:none
+
+That's all from the creature, now let's move to the item.
+
+ITEM
+
+A head that give you night vision and always stare at the player who stand in front of it, it looks cool in my opinion.
+
+Name:Shapewretch Head
+
+Defend:2
+
+Durability:999
+
+How to obtain? By killing the main creature, the shapewretch dweller, the original form fro
+
+Also the sound effects that I use is by @mazellmi on YouTube, you can check him out, really talented creator, I love it.
+
+Ok I think that's all, oh yeah. I also added a fog into the world, well not the foggy cloudy type of thing, I've tried my best, I'm not that good at making that kind of stuff, and also the creature has animation too, a roar animation. Alr thats all (subscribe my yt channel @itzblikze), thankyou and enjoy :)

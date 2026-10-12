@@ -1,0 +1,73 @@
+Offhand Freedom
+
+Offhand Freedom adds functional Java-style offhand gameplay using normal vanilla items, quick controls, block placement, buckets, projectiles, and dynamic lighting.
+
+Features
+
+- Vanilla Items Only: No custom items or crafting recipes.
+
+- Quick Hand Swapping: Double crouch to move an item between your main hand and offhand.
+
+- Block Placement: Place many supported blocks directly from your offhand.
+
+- Dynamic Lighting: Supported glowing items produce light while held.
+
+- Bucket Support: Use water, lava, powder snow, fish buckets, and empty buckets.
+
+- Farming Support: Plant crops while keeping a tool in your main hand.
+
+- Projectile Support: Use eggs, snowballs, wind charges, ender pearls, XP bottles, and fireworks.
+
+- Main-Hand Priority: Tools remain usable for mining, tilling, stripping logs, and other actions.
+
+How to Use
+
+- Hold a normal vanilla item in your main hand.
+
+- Quickly crouch twice to move it into your offhand.
+
+- Double crouch again to swap it back.
+
+- Keep your main hand empty or hold a tool, then press the use button to use the offhand item.
+
+- Sneak while interacting when you need to prioritize the offhand item.
+
+Installation
+
+- Download the .mcpack file.
+
+- Open it with Minecraft and wait for the import to finish.
+
+- Create a new world or edit an existing world.
+
+- Open Behavior Packs My Packs.
+
+- Select Offhand Freedom and press Activate.
+
+- Remove older test versions to prevent conflicts.
+
+- Enter the world and double crouch while holding an item.
+
+No custom items, textures, or crafting recipes are required.
+
+Showcase
+
+Known Limitations
+
+- Food cannot currently be eaten directly from the offhand.
+
+- Some enchanted, named, durable, or data-containing items may have limited support.
+
+- Some directional, technical, or two-block items may not place correctly.
+
+- Functionality may vary between game versions, devices, and multiplayer servers.
+
+This project is experimental and will continue receiving compatibility, stability, and item-support improvements.
+
+Socials
+
+Terms of Use
+
+You may use the pack in personal worlds and compatible multiplayer servers. You may showcase it in videos or livestreams with proper credit and share the official project-page link.
+
+Re-uploading, redistributing, selling, publicly sharing edited versions, using monetized download links, claiming the project as your own, or reusing its logo and assets without permission is not allowed.

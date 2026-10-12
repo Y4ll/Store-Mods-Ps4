@@ -1,0 +1,13 @@
+Have you ever been frustrated with having to go back to a chat multiple times to remember what you have to do?
+
+Or you are going to your friend's base, but you can't remember the coordinates?
+
+This simple script pack can solve your problem!
+
+It's easy to use - type on chat ".note " and add whatever you want!
+
+You can always remove your note - type ".note remove" to make it gone.
+
+To make this script works, don't forget to turn on Beta-API feature
+
+You can support me here:

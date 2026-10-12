@@ -1,0 +1,45 @@
+Bedrock Essentials+ adds popular addons like Tree Capitator & Vein Miner. This is an all in one pack for Minecraft Bedrock Edition!
+
+Tree Capitator (sneak to activate)
+
+Vein Miner (sneak to activate)
+
+Open Double Doors (interact with the bottom half)
+
+Anvil Repair
+
+Auto Tool Switch
+
+Flashlight
+
+Auto Replant
+
+The coordinates where you died will be sent to you.
+
+Silk Touch Breakable Mob Spawner ( Does not include the mob inside )
+
+Auto Pickup, By default it is not activated.
+
+to activate: /pickup enable
+
+to deactivate: /pickup disable
+
+Auto Tool Switch, By default it is not activated.
+
+to activate: /ats enable
+
+to deactivate: /ats disable
+
+NEW UPDATE
+
+- Fixed Redstone Ore not working on Vein Miner
+
+- Copper Pickaxe Support
+
+----------------------------
+
+Leave suggestions on the comments.
+
+Only modify for personal use.
+
+----------------------------

@@ -1,0 +1,27 @@
+This shader will not work without using required patches! Please read the installation guide before downloading.
+
+Low Poly Chunks is a shader that tries to replicate the Distant Horizons *Effect in MCBE/MCPE. It fully supports Android, Windows, and iOS devices.
+
+Features
+
+- Lower Quality in FAR AWAY CHUNKS!
+
+HOW TO USE (Installation Guide)
+
+Disclaimer: Minecraft Bedrock does not officially support loading custom shaders. The following are unofficial methods for loading shaders.
+
+CLICK ME TO REDIRECT TO TUTORIAL!
+
+MERGED - means it contains ios, android and windows in one file.
+
+Search terms: mcpe no lag, best pvp texture pack, pvp, performance, fps, boost, distant horizon
+
+(The links support me guys . So pls no hate.)
+
+Downloads:
+
+-
+
+- aflpc-v1.4-merged (26.10)
+
+- aflpc-v1.2-merged

@@ -1,0 +1,20 @@
+Experience greater freedom of movement in Minecraft with this parkour add-on!
+Designed for smooth and dynamic gameplay, it introduces drop kicks, slides, rolls, and more, letting you move through the world with speed and agility. Whether you're dodging enemies, racing through obstacles, or exploring in style, this add-on keeps parkour fun and intuitive without overcomplicating things.
+
+Parkour Controls
+
+- Dropkick Press Jump twice within 2 seconds. (Only works with Parkour plus plus)
+
+- Dodge Tap left or right, then press and release Sneak within 0.3 seconds (Coming soon to Parkour plus plus)
+
+- Roll Press Jump just before hitting the ground (when falling from a height that causes damage).
+
+- Slide Hold Sprint + Sneak while moving.
+
+- Crawl Sneak while moving forward towards 1 block gap.
+
+- Vault While sprinting, get close to a block and press Jump.
+
+- Wallrun Sprint into a wall sideways, at least 1.5 blocks above the ground.
+
+Exclusive for Patreon members Parkour++: https://www.patreon.com/c/se7endays/membership

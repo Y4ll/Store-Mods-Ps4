@@ -1,0 +1,19 @@
+Beta de fantasia oscura
+
+Por: @DarlyCraft
+
+Un complemento simple que anade nuevas criaturas de fantasia a tu mundo!
+
+Espectro:
+
+Una entidad eterea que parece estar formada por hojas y ramas flotantes entrelazadas en una forma humanoide. Su rostro es una mascara esqueletica y sus ojos brillan con una luz verde fantasmal. Se mueve silenciosamente entre los arboles y se cree que es el guardian de la armonia natural del bosque, castigando a quienes la perturban. (Bioma: jungla)
+
+Wendigo:
+
+Una criatura esqueletica y hambrienta, con piel reseca y cuernos retorcidos. Sus ojos son fosos oscuros y su aliento es un viento gelido que roba el calor a quienes se acercan. Se mueve sigilosamente por las arenas del desierto, cazando a viajeros solitarios y devorando su carne para saciar su hambre eterna. (Bioma: desierto)
+
+Florarino:
+
+Una criatura similar a un pequeno zorro, pero con pelaje que se asemeja a petalos de flores, tiene una cola larga y peluda que exuda una fragancia floral. Es conocido por su naturaleza curiosa y su habilidad para cuidar de las plantas, ayudandolas a crecer mas rapido. (Bioma: cherry_grove)
+
+Variantes:

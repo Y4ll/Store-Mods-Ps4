@@ -1,0 +1,5 @@
+This addon currently includes 9 firearms: AK74N, AK12, SA58, Origin-12, M4A1, and HK416.
+
+Experience hardcore shooting gameplay! It supports multiple ammunition types and features limb hit detection.
+
+Switch fire modes on the go! When holding a firearm and crouching while aiming at the ground, click to use and toggle between fire modes!

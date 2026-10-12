@@ -1,0 +1,9 @@
+Hold My Item Bedrock is a texture pack designed to enhance the visual experience of holding items in Minecraft Bedrock Edition. This pack improves the position, scale, and clarity of items shown in the players hand, making them look more natural, detailed, and immersive during gameplay.
+
+With better alignment and cleaner visuals, tools, weapons, and other items feel more realistic and easier to see, especially while mining, fighting mobs, or exploring the world. The texture focuses on simplicity and performance, ensuring compatibility with most devices, including low-end phones.
+
+Hold My Item Bedrock does not change the core Minecraft style, keeping the vanilla feel while delivering a noticeable visual upgrade. It works perfectly in survival, creative, singleplayer, and multiplayer servers. If you want a cleaner, more immersive first-person experience without heavy changes, this texture pack is a perfect choice.
+
+This texture pack is inspired by a mod from the Java Edition.
+
+It is not an official port and was developed from scratch for Minecraft Bedrock.

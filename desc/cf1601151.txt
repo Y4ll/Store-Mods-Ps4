@@ -1,0 +1,21 @@
+Minecraft, But Block Drops are Random and Multiplied...
+
+Break any block and receive a completely random item instead of its normal drop! Every new world generates its own unique block-to-item mapping, so you'll never know what you'll get until you start mining.
+
+In one world, dirt might drop diamonds. In another, stone could drop boats, buckets, or enchanted gear. Once a block is assigned an item in a world, it will always drop that same item for the rest of your playthrough, allowing you to learn and adapt to your world's random loot table.
+
+Perfect for challenge runs, speedruns, and chaotic survival experiences!
+
+Features
+
+- Every block has a random drop.
+
+- Different random mappings for every new world.
+
+- Consistent drops within the same world.
+
+- Works in Survival and Multiplayer.
+
+- Lightweight with no setup required.
+
+Can you beat Minecraft when every block drops something completely unexpected?

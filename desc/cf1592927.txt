@@ -1,0 +1,227 @@
+Check out the trailer for Primeval Craft!
+
+Primeval Craft is a Minecraft Bedrock Add-on that adds creatures from the Primeval TV Series, including creatures from the past and fictional creatures from the future.
+
+The creatures in this add-on spawn from anomalies, based on the series which are doorways through time. Anomalies can be found in almost any biome on both land and in water.
+
+Creatures in this add-on include:
+
+- Ammonite:
+
+- Drops Ink Sac and Nautilus Shell
+
+- Anurognathus:
+
+- Drops Meat and Bone
+
+- Arthropleura:
+
+- Drops Meat and Bug Eyes
+
+- Can poison player
+
+- Can be bred with Meat
+
+- Australopithecus:
+
+- Drops Meat and Bone
+
+- Camouflage Beast:
+
+- Drops Meat and Bone
+
+- Can be bred with Meat
+
+- Carboniferous Arachnid:
+
+- Drops Bug Eye and String
+
+- Coelurosauravus:
+
+- Drops Meat and Bone
+
+- Can be tamed with any types of seeds
+
+- Columbian Mammoth:
+
+- Drops Meat, Bone, and Leather
+
+- Can be tamed as a baby with Melon Slice
+
+- Grows up with Wheat
+
+- Can be bred with Apples
+
+- Deinonychus:
+
+- Drops Meat and Bone
+
+- Can be bred with Meat
+
+- Diictodon:
+
+- Drops Meat and Bone
+
+- Can be tamed as a baby with Wheat
+
+- Grows up with Carrot
+
+- Can be bred with Potato
+
+- Dodo:
+
+- Drops Bird Meat and Feathers
+
+- Can be tamed as a baby with Melon Slice
+
+- Grows up with Melon Seeds
+
+- Can be bred with Apples
+
+- Becomes infected when in attacked by the Parasite
+
+- Infected Dodo:
+
+- Drops Bird Meat and Feathers
+
+- Can cause nausea
+
+- Dracorex:
+
+- Drops Meat and Bone
+
+- Can be tamed as a baby with Sweet Berries
+
+- Grows up with Wheat
+
+- Can be bred with Apples
+
+- Embolotherium:
+
+- Drops Meat and Bone
+
+- Can be bred with Wheat
+
+- Future Fungus:
+
+-
+
+- Future Predator:
+
+- Drops Meat and Bone
+
+- Player can remove hostility when interacting with the Neural Clamp
+
+- Can be tamed with Meat once the Neural Clamp is attached
+
+- Future Maggot:
+
+- Drops Slime Balls
+
+- Future Shark:
+
+- Drops Meat and Bone
+
+- Giganotosaurus:
+
+- Drops Meat and Bone
+
+- Can be bred with Meat
+
+- Gorgonopsid:
+
+- Drops Meat and Bone
+
+- Can be bred with Meat
+
+- Hesperornis:
+
+- Drops Bird Meat and Feathers
+
+- Can be bred with Fish
+
+- Megopteran:
+
+- Drops Meat and Bug Eyes
+
+- Mer Creature:
+
+- Drops Meat and Bone
+
+- Mer Queen:
+
+- Drops Meat and Bone
+
+- Mosasaur:
+
+- Drops Meat and Bone
+
+- Can be bred with Meat and Fish
+
+- Parasite:
+
+- Can cause nausea
+
+- Phorusrhacos:
+
+- Drops Bird Meat and Feathers
+
+- Can be bred with Meat
+
+- Precambrian Worm:
+
+- Drops Slime Balls
+
+- Prisitchampsus:
+
+- Drops Meat and Bone
+
+- Can be bred with Meat
+
+- Pteranodon:
+
+- Drops Meat and Bone
+
+- Can be bred with Salmon
+
+- Scutosaurus:
+
+- Drops Meat, Bone, and Scutes
+
+- Can be bred with Wheat
+
+- Silurian Millipede:
+
+- Drops Bug Eyes
+
+- Silurian Scorpion:
+
+- Drops Meat and Bug Eyes
+
+- Can be bred with Meat
+
+- Smilodon:
+
+- Drops Meat and Bone
+
+- Can be tamed as a baby with Bird Meat
+
+- Grows up with Mutton
+
+- Can be bred with Meat
+
+- Velociraptor:
+
+- Drops Meat and Bone
+
+- Can be bred with Meat
+
+Neural Clamps are items that can be used to interact with the Future Predator to prevent it from attacking (unless provoked by the player). Neural clamps can be crafted with a redstone block in the middle and 8 iron ingots around it.
+
+A few vanilla items have been renamed. Beef and Cooked Beef have been renamed to Meat and Cooked Meat. Spider Eye has been renamed to Bug Eye. Chicken and Cooked Chicken have been renamed to Bird Meat and Cooked Bird Meat.
+
+Special thanks to:
+
+Miguel Creations: helped with textures and animations
+
+namnamnam: created new animations for the Future Predator

@@ -1,0 +1,7 @@
+This addon enhances your mining experience by breaking all connected ore blocks at once. It is compatible with Silk Touch and Fortune enchantments, ensuring you get the most out of your mining efforts. The vein mining feature activates only when the player is sneaking, providing precise control.
+
+-- Fortune-Compatible--
+
+-- Silk Touch-Compatible--
+
+Discord: https://discord.gg/3MNMR4STYc

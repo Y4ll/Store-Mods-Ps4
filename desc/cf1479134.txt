@@ -1,0 +1,259 @@
+Jujutsu Mechanics Addon
+
+Jujutsu Mechanics adds a lore-accurate Jujutsu Kaisen power system to Minecraft Bedrock, featuring cursed techniques and cursed energy abilities designed to coexist naturally with Minecraft gameplay.
+
+For Guidance on how to use the Systems Join the Official Discord Server, Jujutsu Mechanic Server
+
+Core Systems
+
+Output & Efficiency
+
+-
+
+Output increases:
+
+-
+
+Damage
+
+-
+
+Range
+
+-
+
+Width of techniques
+
+-
+
+Efficiency reduces cursed energy cost
+
+-
+
+With Six Eyes, efficiency is greatly enhanced:
+
+-
+
+Minimum efficiency starts at 150
+
+-
+
+Can scale up to 300
+
+Six Eyes
+
+A powerful ability that gives the user unmatched perception:
+
+-
+
+See enemy cursed energy through walls
+
+-
+
+Detect enemy state (e.g. in Zone, preparing CT)
+
+-
+
+Identify opponents cursed technique
+
+DrawBacks
+
+If Used too long without covering the eyes, will strain the body, You must recover by wearing a bandage on you're eyes to cover them, the total amount you can used the full ability of the six eyes without wearing the bandage is 5 minutes
+
+recover time is 3 minutes
+
+Heavenly Restriction
+
+Heightened Senses:
+
+- Sense intent:
+Neutral no threat
+Hostile triggers instinct warnings
+
+- Instinct:
+Caution (low threat)
+Retreat (high danger)
+
+Shrine Techniques
+
+Cleave
+
+-
+
+Automatically activates on direct contact
+
+-
+
+No need to manually adjust output
+
+-
+
+When used on blocks:
+
+-
+
+Becomes Spider Web variant
+
+-
+
+Spreads outward like webbing
+
+Dismantle
+
+-
+
+Long-range slashing technique
+
+-
+
+Variants change slash rotation
+
+-
+
+Affected by output (range, width, damage)
+
+Has recoil if used mid-air
+
+-
+
+Recoil strength scales with output
+
+Kamutoke
+
+A cursed tool with two attack modes:
+
+-
+
+Aimable Mode
+
+-
+
+Manual targeting
+
+-
+
+Cooldown: 8s
+
+-
+
+Auto Target Mode
+
+-
+
+Locks onto targets within 20 blocks
+
+-
+
+Cooldown: 15s
+
+Sukuna System
+
+Sukuna Fingers
+
+-
+
+Found in:
+
+-
+
+Villages
+
+-
+
+Pillager Outposts
+
+Sukuna Remains
+
+-
+
+Found in special mountain biome structures
+
+-
+
+Contains:
+
+-
+
+Sukunas Corpse
+
+-
+
+Kamutoke nearby
+
+If collected:
+
+-
+
+Grants Sukunas Head (counts as a finger)
+
+-
+
+Guarantees becoming a vessel if consumed
+
+Risk System
+
+Be carefull. Ryomen Sukuna Will take over You're body if You consumed The Cursed FIngers at a fast rate..
+
+Combat Expansion
+
+-
+
+Added Black Flash variants
+
+-
+
+Improved momentum system
+
+-
+
+Higher momentum increases:
+
+-
+
+Damage
+
+-
+
+Black Flash chance
+
+Notes
+
+This update focuses on:
+
+-
+
+Skill-based combat
+
+-
+
+Reactive systems
+
+-
+
+High-risk, high-reward gameplay
+
+More updates and balancing changes will continue.
+
+Requirements
+
+- Minecraft Bedrock 1.26.20
+
+Credits
+
+Wheel of adaptation & sword of extermination Models, animations, and select sound effects were created by @emerald_5352 and are used with permission.
+
+Full credit details are included in the addons Third Party Licenses.
+
+Future Updates
+
+Planned additions include:
+
+- New cursed techniques
+
+- Expanded progression systems
+
+- Domain-level abilities
+
+- Cursed Spirits
+
+- Custom Cursed Tools Making

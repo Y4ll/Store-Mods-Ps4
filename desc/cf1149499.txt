@@ -1,0 +1,47 @@
+Bedrock's Better Adventures is a huge mod project focused on diversifying Minecraft with adding many more biomes and structures, alongside which comes a great quantity of new trees, blocks, ores mobs and even new civilisations!
+
+I am not able to go into extensive detail of everything about and around the mod here, otherwise you'd never finish reading this. You can join our discord for the complete documentation to the mod, or just let yourself into the world unprepared, and discover what all there is for you to explore, what after all is the main premise of this add-on :)
+
+Join our discord server!
+
+Give us a follow on Bluesky!
+
+Follow me on Twitter!
+
+Explore the mod's features on our wiki!
+
+Many of Minecraft's basic features such as Villagers are also reworked to provide a fresh new experience with new professions, variants and such.
+
+And whilst we may stray a lot from vanilla-style features, we tend to keep them down enough for the game to feel still as Minecraft, just more mysterious, more varied full of questions as if you played it for the first time.
+
+You cannot really know what awaits you around the corner, what are you going to find behind that mountain, what are those creatures in the shadows. Only place you know is your house, and the nights are dangerous. Still, the world is full of mystery and beauty, waiting for you to explore.
+
+This mod adds huge amount of new wood types and subtypes (and many new stone types of course...), various new materials to make tools and weapons from, artifact items foundable as loot, magic books and multiple new civilizations to the game. To just get hold of the amounts of content this add-on adds I'd strongly recommend looking at the recipe book, creative inventory, or trying /give @s better: and see what it recommends you.
+
+The amount of content of this mod is, of course, not just limited to blocks, entities and items, it also contains various strcutures that can be found throughout your world. From the smallest dwellings of the smallest people through the grandious cities of the kings, towns of the villager-folk bustling with trade, to the ethereal halls of the fairies.
+
+We are not forgetting about the more combat-oriented fraction of Minecraft players either. This add-on adds whole bunch of new challages and even gigantic coordinate locked dungeons with foes and loot beyond count.
+
+The weapons and armour, either as a tools used to win the challanges or rewards gained from them are also many to choose from.
+
+So carft your own path! Travel around the world, settle on a farm, become an Illager, open up a tavern or lead armies against the darkness. Nothing's stopping you from becoming a king or a stone-mason. Brew wine, drink beer, eat mutton-cheese dumplings. This mod gives you just the canvas. You make the story.
+
+(except the armour, weapon and block previews, all footages are of places naturally generated, you can find in the mod)
+
+That's not all!
+
+As I've already mentioned, it would be impossible to document the entire add-on just on this page. So if you want to get a better picture about the mod or even some more detailed information, join our discord server, where you can chat with the creators, players, or check the mod guides for proper documentation to the mod. I strongly recommend also checking the changelogs here below where there's a detailed information what's added each update. You can also check out my YT channel, where I post from time-to-time development videos or videos explaining the game mechanics. Follow me on Twitter and Instagram to get regular updates on the development, if you wish to. If you wish to contact us directly and privately or report urgent bugs, you can use, as mentioned, our discord, or write to this e-mail: better.adventures.help@gmail.com
+
+Credits
+
+- Founder: KZBMM
+
+- Coding: KZBMM, SplinedWelshman
+
+- Textures: Bubblybahan (Discord: bubblybahan)
+
+- Translations: NinjAnanas4086 (Discord)
+
+- A girl-for-everything: Huhuuk
+
+- Structures: KZBMM, Darkwave

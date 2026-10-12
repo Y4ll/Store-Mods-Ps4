@@ -1,0 +1,16 @@
+This is a Achievement Friendly (Since 1.3.7)
+The add-on is on hiatus and might be discontinued (if it is discontinued, it will receive a remake at some point).
+
+- Night Fury Can Be Found On Taiga At Night.
+
+- Light Fury Can Be Found On Taiga At Day.
+
+- Terrible Terror Can Be Found On Forests At Day.
+
+- You Can Breed Tamed Light Fury And Night Fury To Obtain a Night Light.
+
+- Night Fury, Light Fury And Night Light Can Be Tamed With Raw Salmon.
+
+- Terrible Terror Can Be Tamed With Raw Cod.
+
+- You Can Use a Bow, Crossbow, Or Trident To Take Down Flying Night Furies And Light Furies To Make Taming Easier, But You'll Need a Special Saddle To Fly With Them.

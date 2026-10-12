@@ -1,0 +1,9 @@
+This add-on just replaces all blocks in every chunk (except air, water, lava, and bedrock) you enter with a single, randomly chosen block.
+
+- Works for multiplayer (including Realms and Dedicated Server)
+
+- Saves changes permanently so every chunk remains the same after server reboots, including anything you have placed after chunk has been changed.
+
+- Is highly performant, using runJob() to let the server handle loads. Works on mobile, console, and everything in between.
+
+Enjoy!

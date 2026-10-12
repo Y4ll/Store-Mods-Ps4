@@ -1,0 +1,35 @@
+Home Electronics is an Add-On that adds furniture and functional appliances, including consoles, chairs, televisions, toasters, outlets, and much more!
+
+Consoles: Interactive consoles with console controllers!
+
+TVs: Decorative televisions and monitors with great customization.
+
+Outlets: Decorative plugs and power strips for your homes.
+
+Pianos: Decorative pianos to add elegance and style to your home.
+
+Computers: Decorative computers with an office style
+
+Antennas: Decorative antennas to complete your modern setup.
+
+Retro Deco: Retro decorations like gamepads, joysticks, posters, display discs, etc.
+
+CRAFTING
+
+Creative:
+
+To get the furniture in creative mode by typing "/give @p he:" in the chat, which will display a list of available furniture items for you to choose from, you can also purchase all the furniture in the creative mode menu, in the Items section.
+
+Survival:
+
+To create the furniture in survival mode, you will need clay balls and a stonecutter. You will need to place it in the stonecutter and select the furniture section you want to create. Once selected, you will see the list of furniture in that section.
+
+Images
+
+Support me on Patreon to continue developing my addons!
+
+Share your suggestions for creating better add-ons!
+
+Downloads | Official Site
+
+- Download Home Electronics Here | Official Site

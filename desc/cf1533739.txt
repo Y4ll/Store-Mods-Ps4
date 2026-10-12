@@ -1,0 +1,36 @@
+Makes Sense aims to add some basic features that could be in the game, without adding any new blocks or itemsonly improving what already exists. It is a branch of Essence++ and works perfectly with it.
+
+Dynamic Light & Off hand
+
+Holding a luminous item
+now emit light.
+
+Drop a luminous item
+now emit light.
+
+Burning Mobs
+now emit light.
+
+Interacting with a glowing item while aiming in the air will transfer the item to your off-hand. This does not work with blocks.
+
+Attacking or interacting with mobs using a torch sets them on fire for a few seconds, depending on the torch type.
+
+View Visual Dem
+
+Double Door:
+
+When opening or closing a door, if there is another door nearby, it will also react to the action.
+
+"Realistic" Breeding:
+
+Breeding mobs can result in a chance of more than one being born. This does not happen with all mobs.
+
+Now has a new Recipe to Leather:
+
+Notes:
+
+Compatibility:
+This Add-On does not modify player.json.
+
+Achievements Friendly!
+Does not require experimental features.

@@ -1,0 +1,71 @@
+Original link https://mcpedl.com/magnificents-mob-plus-addon/ (released in mcpdl, 4 years ago, The page is now updated and synchronized with Curseforge.)
+
+After years of waiting, the addon has been updated. Many thanks to all of you who still had faith. So many things have happened in my life and that of my colleagues that it seemed like an impossible goal to continue the project (plus, every time Mojang releases an update, it causes bugs or breaks the addon code, so many things had to be redone from scratch...) Anyway, everything is over and here we are finally.
+
+Experimental update (there are still details to be finished but it's better to release the addon before something breaks with the new Minecraft update)
+
+It's a stable version, don't worry, if you see any bugs or have any suggestions, please come and talk in one of the 2 discord groups.
+
+(Server in Spansh)
+
+https://discord.gg/he7nzV7
+
+(Server in English )
+
+https://mcpedl.com/leaving/?url=https%3A%2F%2Fdiscord.gg%2FvzG28qXbkE
+
+If you are interested in supporting the project, please consider donating via PayPal (this is an account they lent me to use for everything related to my projects). Don't forget to mention on Discord if you have donated.(Link not work... There was a problem and it's not working right now, problems of living in Venezuela...)
+
+(Magnificent Mobs is a free addon project so any monetary help is always welcome to keep the development of the addon alive and also to be able to update Magnificent Players in the future)
+
+Remember to activate those 2 functions when using the add-on always
+
+Changelogs:
+
+-It's very extensive, preferably better than the addon features, they have been updated
+
+There are things that had to be removed at the last minute like the new villager workbench function, some recipes and the cake blocks....
+
+Feature Mobs:
+
+-Villager (vanilla):
+
+Improved behavior, new exchanges to be balanced and give more use to different items that will be bought and sold; Villagers can now be turned into "New mobs" like Guards and special villagers.
+
+-Golem (vanilla):
+
+Can now heal with blocks and iron nuggets, has different skins depending on the biome, similar to villagers
+
+-Wandering Trader (Vanilla):
+
+Removed and replaced by the Villager trader
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Special Villagers
+
+Special villagers are a new variant of villagers who work in special jobs; you can convert any unskilled villager into a special villager using their corresponding job block
+
+-Beekeeper:
+
+It can spawn naturally in any village, builds a work place only once the first time it is generated, its trades are based on anything related to honey and flowers, uses the new block "Apiary" to work.
+
+-Pyrotechnic:
+
+It can spawn naturally in any village, builds a workspace only once the first time it spawns, its trades are based on anything related to gunpowder and fireworks, uses the new block "Pyrotechnic table" to work.
+
+-Architect:
+
+It can spawn naturally in any village, he builds a great house with 4 beds once the first time he spawns (this is him work area and also a house for himself and any other villagers that don't have a bed) his trades are based on anything furniture related, he uses the new block "Blueprint table" to work.
+
+-Baker:
+
+It can spawn naturally in any village, builds a workspace only once the first time it spawns, its trades are based on anything related to food (not meat as that is the butcher's job, the cook is mostly in charge of buying and selling the new foods introduced in the addon), uses the new block "Cooking table" to work.
+
+-Carpenter:
+
+It can spawn naturally in any village, builds a workspace only once the first time it spawns, its trades are based on anything related to wood and axes, uses the new block "Wood cutter" to work.
+
+-Miner:
+
+It can spawn naturally in any village, builds a workspace only once the first time it spaw

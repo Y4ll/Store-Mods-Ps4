@@ -1,0 +1,9 @@
+Collapse-UI is essentially a Bedrock Edition's Custom UI Pack (aka json-ui) to make it looks like console as possible.
+
+It was once Arcdustry-UI, but are written from scratch and uses alot of optimized code than vanilla has, so it may load UI alot faster for some reason.
+
+This UI is basically a more of console-alike UI with ease of access to mobile players. It's also customizable though configuration file, which has their own separate own page via the Official website!
+
+This project is a replacement to my previous UI project and will be in maintained in forseenable future
+
+Overview

@@ -1,0 +1,59 @@
+Reze Visuals is a full PBR resource pack for Minecraft Bedrock that transforms lighting, skies, and atmosphere with a deep violet-blue aesthetic a vibrant, cinematic upgrade for players with Vibrant Visuals enabled.
+
+Reimagined Visual Style
+
+- Rich violet-blue color identity that feels vibrant without losing clarity
+
+- Clean, immersive atmosphere layered across every vanilla biome
+
+- Enhanced depth and mood without overwhelming builds
+
+- Cinematic color grading with ACES tone mapping and a warm 6400K white balance
+
+Advanced Atmospherics System
+
+- Custom sky zenith and horizon color tuning for a smooth day-night gradient
+
+- Warm golden-orange sunrise and sunset horizon tones with strong blending
+
+- Deep blue-violet daytime zenith for added sky depth
+
+- Tuned Rayleigh scattering to prevent washed-out or overly dark skies
+
+Recolored Local Lighting
+
+- Custom light colors for torches, lanterns, candles, campfires, and other light sources
+
+- True-to-color glow from soul fire, redstone, copper variants, amethyst, and more
+
+- Adds warmth and richer ambiance to builds without changing gameplay
+
+Full PBR Material Support
+
+- Metalness, emissive, roughness, and subsurface maps applied across blocks, actors, particles, and items
+
+- PBR-enhanced ores and terrain, including all deepslate ore variants and ancient debris
+
+- Reworked water with custom flow/still textures, normal maps, and MER maps for realistic reflections
+
+Violet Aurora Effect
+
+- Custom animated aurora beam effect with organic, curve-driven movement
+
+- Adds a striking extra layer of atmosphere without distracting from gameplay
+
+Requirements
+
+Reze Visuals requires Minecraft Bedrock/PE version 1.21.80 or higher, with Vibrant Visuals (PBR rendering) enabled in video settings.
+
+Installation
+
+- Download the .mcpack file
+
+- Open to import into Minecraft
+
+- Enable Reze Visuals in Global Resources
+
+- Turn on Vibrant Visuals in video settings
+
+Reze Visuals Ghoulcat_studios

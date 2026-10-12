@@ -1,0 +1,71 @@
+Flashlight: Dynamic Beam
+
+Bring realistic portable lighting to Minecraft Bedrock with Flashlight: Dynamic Beam. This addon adds a fully functional flashlight that produces a dynamic light source, making caves, abandoned structures, forests, and nighttime exploration far more immersive.
+
+Unlike simple decorative flashlights, this addon features a complete battery system that encourages strategic use while keeping gameplay balanced.
+
+Features
+
+- Functional flashlight with ON/OFF toggle
+
+- Dynamic light that follows the player while holding the flashlight
+
+- Rechargeable battery system
+
+- Real-time battery indicator displayed on the action bar
+
+- Automatic recharge when the flashlight is turned off
+
+- Cooldown after the battery is fully depleted
+
+- Realistic click sound effects when switching modes
+
+- Survival crafting recipe included
+
+- Compatible with modern Minecraft Bedrock versions
+
+- Perfect for caves, mining, exploration, horror maps, adventure worlds, and survival gameplay
+
+Battery System
+
+The flashlight uses energy while it is turned on.
+
+- Battery slowly drains during use.
+
+- Turn the flashlight off to automatically recharge it.
+
+- When the battery reaches 0%, the flashlight shuts off automatically.
+
+- After completely draining the battery, a 30-second cooldown prevents immediate reuse.
+
+- The action bar displays battery percentage, recharge progress, and cooldown status in real time.
+
+This creates a balanced experience that feels immersive without being overpowered.
+
+Crafting Recipe
+
+Craft your flashlight using simple survival materials:
+
+- Glass Pane
+
+- Glowstone Dust
+
+- Iron Ingot
+
+Perfect For
+
+- Survival worlds
+
+- Cave exploration
+
+- Horror maps
+
+- Adventure maps
+
+- Dark forests
+
+- Custom RPG experiences
+
+- Multiplayer servers
+
+Whether you're exploring the deepest caves or surviving the darkest nights, Flashlight: Dynamic Beam provides a clean, immersive, and realistic lighting experience that feels like a natural addition to Minecraft.

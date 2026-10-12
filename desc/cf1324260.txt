@@ -1,0 +1,74 @@
+DISCLAIMER: If you are going to use this add-on in any maps, videos, or anything else please credit us by linking the add-on page.
+
+SCP: CLASSIFIED is a high quality vanilla styled add-on for the bedrock edition of Minecraft that aims to seamlessly implement content from the ever expanding SCP universe that contains the creative works of thousands of writers and artists.
+
+SCP: CLASSIFIED in its current version (1.2.4) adds over 60+ anomalies with unique behaviors and designs that make them fit right in the vanilla game. CLASSIFIED also adds a mountains worth of blocks for the people who want to build large expansive facilities to contain the many SCPs we have added to the add-on. However do not fret, 1.3.0 is currently in development which will be our biggest update yet. Adding tons of new content but also reworking and polishing the older stuff such as full SCP reworks.
+
+As mentioned in the previous paragraph, every SCP is getting a rework. As 1.3.0 was being developed we also started developing 1.2.4 as a gift to our very patient community, so because of that we have added a few reworks into this update. The reworked SCPs will be bolded. But there is one new anomaly for this update, SCP-500.
+
+Please enable the following experimental features before creating a new world:
+
+The SCP list:
+
+SCP-008 - Zombie Plague | Unknown Author
+SCP-009 - Red Ice | Chameleon X
+SCP-019-IT - E-15 Chimera | Unknown Author
+SCP-035 - Possessive Mask | Kain Pathos Crow
+SCP-049 - Plague Doctor | Gabriel Jade, djkaktus
+SCP-058 - Heart of Darkness | Unknown Author
+SCP-059 - Radioactive Mineral | HK-016, eric_h
+SCP-066 - Eric's Toy | Unknown Author
+SCP-073 - Cain | Kain Pathos Crow
+SCP-075 - Corrosive Snail | Unknown Author, Aelanna
+SCP-076 - Able | Kain Pathos Crow, DrClef
+SCP-081 - Spontaneous Combustion Virus | Gilded Orchid
+SCP-096 - "Shy Guy" | Dr Dan
+SCP-098 - Surgeon Crabs | DrEverettMann
+SCP-106 - Old Man | Dr Gears
+SCP-120 - Teleporting Paddling Pool | Unknown Author
+SCP-122 - no more monsters. | Ecronak
+SCP-143-FR - Mesozoic chicken coop | Unknown Author
+SCP-149 - Blood Flies | Arlecchino
+SCP-173 - The Sculpture - The Original | Moto42
+SCP-198 - Cup of Joe | Soulbane
+SCP-207 - Cola Bottles | Aeish
+SCP-250 - Most of an Allosaurus | Dr Kondraki, Voct
+SCP-261 - Pan-Dimensional Vending | Dr Gears
+SCP-294 - The Coffee Machine | Arcibi
+SCP-310 - Eternal Flame | JonnyD
+SCP-312 - Atmospheric Jellyfish | GwenWinterheart
+SCP-323 - Wendigo Skull | Unknown Author
+SCP-329-J - The Ghoooost Siiiign | Salman Corbette
+SCP-352 - "Baba Yaga" | Dr Gears
+SCP-377 - Accurate Fortune Cookies | Dave Rapp
+SCP-387 - Living Lego | Archfeared
+SCP-409 - Contagious Crystal | Dr Gears
+SCP-500 - Panacea | far2
+SCP-529 - Josie the Half-Cat | Unknown Author
+SCP-548 - Ice Spider | Photosynthetic, Dr_Fences
+SCP-594 - Electric Sheep | Unknown Author
+SCP-606 - "The Teacher" | ModernMajorGeneral
+SCP-682 - Hard-to-Destroy Reptile | Dr Gears, Epic Phail Spy
+SCP-682-CU - Cutest Ickle Lizard | Unknown Author
+SCP-705 - Militaristic Play-Doh | Dr Kondraki
+SCP-743 - A Chocolate Fountain | Quikngruvn
+SCP-745 - The Headlights | Unknown Author
+SCP-772 - Giant Parasitoid Wasps | Unknown Author
+SCP-805 - Poison Wood Foal | ZKZombiekitty
+SCP-939 - With Many Voices | Adam Smascher, EchoFourDelta
+SCP-940 - Araneae Marionettes | Unknown Author
+SCP-999 - The Tickle Monster | ProfSnider
+SCP-1000 - Bigfoot | thedeadlymoose
+SCP-1013 - Cockatrice | Unknown Author
+SCP-1025 - Encyclopedia of Diseases | Lasergoose
+SCP-1048 - Builder Bear | trennerdios
+SCP-1057 - Absence of Shark | SiriExMachina, Voct
+SCP-1093 - Lamp Man | SassyBritches
+SCP-1139 - The Broken Tongue | DrFred
+SCP-1145 - Nagasaki Teddy | Lucavex Ayanami
+SCP-1325 - Easter Frog | Doctor Flibble
+SCP-1507 - Pink Flamingos | Unknown Author
+SCP-2107 - Diet GhostTM | Dillinger PhD
+SCP-2295 - The Bear with a Heart of Patchwork | K Mota
+SCP-2761 - Bananazilla | OZ Ouroboros
+SCP-3199 - Humans, Refuted | bittermixin

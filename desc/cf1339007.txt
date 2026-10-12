@@ -1,0 +1,51 @@
+This addon allows you to see you're self in a first person perspective cam made by OGcrafter, it was inspired by the java mod "first person model" and I was able to recreate it in bedrock edition so the mobile players could finally get to have a bit of immersion
+
+To enable the mod you need to download it from the link in mcpedl and run it in Minecraft then enable them in you're world or in a new world and make sure to enable the "experimental creator camera features" found in the experimental tab while editing/creating the world
+
+Also if you want the best experience then you should have these video settings :
+
+1. fov ranging from 60 to 70
+
+2. Turn off "fov can be altered by gameplay
+
+Please note : do not download this pack from untrusted links ,only download it from mcpedl or curseforge , and don't expect an update everyday and if Minecraft does something that breaks the mod pls don't be mad instead I will be because I spent months trying to figure this camera features thing ,let's just hope they make things better instead of ruining it
+
+Stuff to keep in mind :
+
+This addon is probably compatible with 75% of mods and will 100% work if the other mod ur using has custom items/armor/food/weapon/projectile and texture packs that don't change player animations
+
+However if you want to run it with player animations packs it will work but it will have bugs and stuff will feel off but not completely so feel free to strap in a player animation pack to increase immersion just make sure that my pack is on top of it in the resource pack tab for 75% guarantee of working
+
+And finally , make sure to check out my yt channel maybe drop a sub there if you think it's worth it (:
+
+https://youtube.com/@ogcrafter1?si=T1RRNaeC12RJHIdO
+
+I will try to post some updates there if I could
+
+Important: This addon is only available on my official MCPEDL/CurseForge page.
+
+Do not re-upload, bundle into addon packs, or claim as your own.
+
+If you want to showcase it, please link back to the original page and give proper credits to the creator of the addon "OGcrafter"
+
+Any unofficial re-uploads will get reported and taken down.
+
+FAQ:
+
+_Why doesn't it run like intended with other mods ?
+
+Make sure my addon's resource pack is on top of whatever mod you're using.
+
+THINGS TO KEEP IN MIND FOR ACTIONS AND STUFF SUPPORT :
+
+1 Do not use large sized skins, only use regular skins
+
+2 when actions and stuff 1.6 releases I will have to take down the compatibility version so I could
+
+Solve the issues and bugs peacefully and if you have had downloaded it before I take it down
+
+Then don't use it with actions and stuff 1.6 until I update the compatibility version
+
+3 it's not perfect I know (:
+
+Watch this yt vid for the correct way of activating the addon with actions and stuff https://youtu.be/yqLg1WFCi8w?si=Isw9lHDS222FnpRd

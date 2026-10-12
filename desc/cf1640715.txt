@@ -1,0 +1,57 @@
+MANIPULATE HEALTH
+
+With this addon, you can manipulate your health amount in Minecraft.
+
+FEATURES
+
+- You can set your health between 1 and 1000.
+
+- Change the health bar icon to be simpler
+
+- Heal that scales with max HP
+
+DEMO
+
+change max health
+
+HOW TO USE
+
+- Create a Health Settings item
+
+- Use the Health Settings item to open ui
+
+- Change the Health Value or Health Icon whatever you want
+
+- Click Submit to make changes
+
+simple health icon
+
+heal based on maximum hp off
+
+heal based on maximum hp on
+
+COMPATIBILITY
+
+- No Experimental Features
+
+- This addon uses player.json and may not be compatible with other addons that modify the player entity
+
+- Achievement Friendly
+
+HOW TO INSTALL
+
+- Download the provided file (.mcaddon)
+
+- Import the file into Minecraft Bedrock Edition
+
+- Before creating a world, don't forget to activate the Behavior Pack and Resource Pack
+
+- Create a new world or open an existing one, and you're all set!
+
+RECIPE
+
+Health Settings
+
+BUG REPORTS
+
+If you want to report a bug, req features, req addon, or ask anything, feel free to contact me on Discord: izy_0123

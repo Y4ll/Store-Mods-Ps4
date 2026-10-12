@@ -1,0 +1,61 @@
+This add-on turns the Man From The Fog Java Mod from a dweller into psychological torture. It's a complete remake of the Man From The Fog that you see everywhere on YouTube.
+
+The main reason for the making of this add-on was that Minecraft Bedrock never really had any good add-ons. Also, many people wanted the official Man From The Fog dev to make a GOOD Man From The Fog for java, since the one from the DWELLERS 2.0 Add-on was no special. That's when I got the idea to remake the mod from scratch, with new visuals, mechanics, and many features that fit in with the lore of the original mod, while still being like: "WOW, how is this Minecraft Bedrock?" Since the Cave Dweller and The One Who Watches had gotten and official remake on Bedrock, why couldn't TMFTF?
+
+This is the new entity added by this add-on: The Fogwalker.
+
+This entity is extremely smart and will be able to fool you entirely. The Fogwalker seems to get more aggressive the more you sleep or look directly at it, so doing these things repetitely can make it angrier faster. The entity also seems to be able to take the body of certain animals and cause vision decreasing fog.
+
+If you find that the entity has grown to strong or has gotten too aggressive, you can find a structure where you can place the Tear Of The Man to temporarily keep it away entirely.
+
+THIS ADD-ON DOES NOT REQUIRE EXPERIMENTS.
+
+You will be granted two items at the start of your world: The Configuration item and the Cassette: Safety Instructions tape. You will need to find the cassette player cabin in order to hear important information about survival in this add-on.
+
+SPOILERS AHEAD
+
+The following information contains major spoilers for the add-on's mechanics, so if you want the full experience, DO NOT READ AHEAD.
+
+The Fogwalker has 4 phases:
+
+- Psychological
+
+- Stalking
+
+- Deceitful
+
+- Aggressive
+
+Each phase gets more aggressive than the last, and if you are far enough in the world, even without sleeping or looking at the entity, he will eventually start to get angry.
+
+Phase 0:
+
+The entity in this state focuses on observing the player and making them feel uneasy. It has two variants in this phase: Stalk and Hang. During this phase, there is minimal danger, and most actions won't have consequences.
+
+Stalk Variant - Distant stalking:
+
+The stalk variant spawns relatively far from the player, either on a tree or the ground, staring the player down before either moving from its place or summoning a lightning bolt to signal its disappearance.
+
+Hang Variant - Tree stalking:
+
+The hang variant hangs from trees and stone caves at night time trying to stay more hidden in the leaves, observing the player and playing sounds to signal a warning not to get close.
+
+Phase 1:
+
+At this point, the entity may start to observe a little bit closer to the player, making it more noticeable in the distance. The entity will now start to take the body of certain mobs. Also, it is advised to NOT look at any hallucinations of the entity's face and light up the area.
+
+Skinwalkers - About shapeshifting:
+
+You can tell if the mob you are looking at is a skinwalker by the color of their eyes and how they always stare at you. They can be killed with a projectile, like a bow or crossbow to keep them away; But they CAN get closer.
+
+Phase 2:
+
+Now things are starting to get deceitful. The entity starts to get much closer when stalking, sightings increasing every night. Some actions now have consequences like burnt out torches, jumpscares in your sleep, and fighting back.
+
+Phase 3:
+
+At this point, the entity is now fully aggressive and will no longer try to learn or keep its distance. When the entity does eventually appear, he will seem slow and calm; But do not be fooled, he is purely tricking you. If you are too unprepared, he will be able to catch you if low on hearts, but it is impossible to tell what happens next...
+
+STRUCTURES & ITEMS - Useful locations and blocks/items:
+
+You can find two structures out in grassy areas of your world in 

@@ -1,0 +1,105 @@
+!! This addon is achievement friendly (1.3.1) !!
+
+How to Use:
+
+You can toggle what blocks the Vein-Miner/Tree-Capitator break
+
+by shifting and interacting with an Axe/Pickaxe.
+
+Axe Toggles:
+
+Pickaxe Toggles:
+
+Shovel Toggles:
+
+Main Showcase Video:
+
+Tree-Capitator
+
+What axes can break:
+
+Trees:
+
+Planks:
+
+Leaves:
+
+Vein-Miner
+
+Ores:
+
+Silk-Touch:
+
+Fortune:
+
+As you can see, enchantments such as Silk-Touch, and Fortune work with the Vein-Miner.
+
+(Silk-Touch also works with leaves on Tree-Capitator)
+
+Unbreaking also works to help save your durability when using VM/TC.
+
+Drill Miner:
+
+Drill Miner is an easy way to find ores or dig out a large area.
+
+Shovel Excavator
+
+The Shovel Excavator maxes out at 32 blocks to not cause significant lag.
+
+Shear Miner:
+
+Configure
+
+If you are an operator, you can type /vmtc:config in chat to open the configuration menu.
+
+Here is what the config menu looks like:
+
+Iteration Limit:
+
+Change how many blocks can be broken per VM/TC activation.
+
+By default it's 150. Increase if you have a good device, decrease if it's too laggy!
+
+Toggle Tools:
+
+Toggle specific tools on/off. Or you can toggle all of em off!
+
+Tool Whitelist:
+
+If you've disabled a tool, you can add the tool you're holding to the whitelist
+
+which bypasses the toggle tools. Good if you only want
+
+specific players using VM/TC.
+
+Extra Toggles:
+
+Durability Per Block - Toggle whether durability is taken per block broken, or only once.
+
+Join Guide - Toggle whether it shows the one-time guide when a player first joins.
+
+Settings Msg - Toggle whther it shows the "Updated Settings" message in chat.
+
+Crouch to Use - Toggle whether you must crouch to use Vein-Miner, Tree-Capitator, etc.
+
+Changelog
+
+VERSION 1.1.0:
+
+- Added support for copper tools!
+
+- Added new toggle in "Extra Toggles" in config; crouch to use.
+
+VERSION 1.2.0:
+
+Added icons to the config menu.
+
+Added ability to disable custom tools in the config.
+
+Added support for custom ores, logs, planks, leaves, etc, and custom tools.
+
+Showcase of support with custom tools and ores.
+
+If you encounter any bugs or encounter any issues, please join my Discord and make me aware of it!
+
+My Discord

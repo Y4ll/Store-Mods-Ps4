@@ -1,0 +1,73 @@
+JOIN THE ADDONS DISCORD
+
+Natures Touch adds tons of new plants and blocks to decorate ALL biomes in the overworld, like flowers, tree branches, clovers, grasses and decorative leaves. if you thought the Spring to Life drop was small, this is the perfect add-on for you
+
+NEW BIOMES:
+
+Redwood Forest:
+
+Orchard BIome:
+
+Pale Plains
+
+Stoney Forest
+
+Sunflower Fields
+
+Azalea Forest
+
+Bush Fields
+
+Cotton Fields
+
+Sandy Jungle
+
+Sandy Savanna
+
+Firefly Fields:
+
+Rose Garden:
+
+Clover Fields
+
+Flowerfall:
+
+Lavender Forest:
+
+Wasteland:
+
+Warm Flower Orchard:
+
+Cold Flower Orchard:
+
+Autumn Forest
+
+Ashfall
+
+Grasslands:
+
+BIOME OVERHAULS:
+
+Most Biomes have also been completely overhauled, heres a few examples:
+
+BLOCKS AND ITEMS
+
+some Flowers in Natures Touch:
+
+some Plants in Natures Touch:
+
+The addon also expands on some features in the Pale Garden, heres some examples, starting with Polished Resin
+
+Recipe:
+
+Polished Resin is used to make some new blocks:
+
+The add-on also adds Dead Leaves, which spawn randomly on trees, all trees now have their own variant of leaf litter!
+
+The Add-on also adds 2 new WEAPON TYPES and 2 new TOOL SETS
+
+Scythes: Scythes deal damage overtime, up to 4 more than the sword it came from, however since it deals damage overtime, its less effective than a sword against enemies with armor
+
+Pikes: Pikes have an interactive ability via right-click that deals a ton of damage to anything 3-4 blocks in front of you, however, its only 3-4 blocks in front of you, nothing in-between, so anything directly in front of you wont be affected
+
+Resin-Dipped Items: Resin Dipped items are upgraded versions of iron, they do as much damage as diamond items but the durability is the exact same as iron:

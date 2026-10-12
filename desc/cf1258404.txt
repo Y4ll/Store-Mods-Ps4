@@ -1,0 +1,27 @@
+En
+
+It may seem like a huge car, but that's why they're called full-size! For the first country in terms of length of highways, why not?
+
+The car has 4 seats and an inventory of 32 slots.
+
+It is summoned using the /summon command and a spawn egg (there is a possibility to craft and extract as loot).
+
+Iron golem sound effects are used.
+
+Repaired with an copper ingot, iron ingot, gold ingot, netherite ingot, netherite scrap, iron nugget, gold nugget, redstone dust.
+
+In the future, it is planned to add a color variation.
+
+Ru
+
+, - ! ?
+
+4 32 .
+
+/summon ( ).
+
+.
+
+, , , , , , , .
+
+.

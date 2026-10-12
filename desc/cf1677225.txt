@@ -1,0 +1,16 @@
+Peterbilt Truck Addon
+Bring heavy-duty haulage and realistic mechanics directly to your Minecraft world! The Peterbilt Truck Addon offers an immersive, hands-on experience for players who love engineering, customization, and realistic vehicles.
+
+Key Features
+Fully Interactive Assembly System: Say goodbye to simple spawn eggs! Build your truck step-by-step by interacting directly with the assembly entity.
+
+Block-Based Truck Parts: Truck components function like placeable blocks, giving you complete control over how you store, display, and build your vehicle.
+
+16 Custom Color Options: Personalize your rig using standard Minecraft dye colors to match your style or fleet branding.
+
+Survival Friendly Crafting: Every part and component can be crafted in survival mode using standard recipes.
+
+Upcoming Updates & Roadmap
+Deep Customization System: Advanced modular upgrades, custom engine tuning, and expandable trailer attachments.
+
+Refined Fuel & Maintenance Mechanics: Realistic fuel consumption and wear-and-tear repair mechanics.

@@ -1,0 +1,42 @@
+X-Ray Ultimate
+
+Take your mining and exploration to the next level with a powerful, clean, and efficient X-Ray experience. Designed for players who want instant access to ores, hidden caves, and underground structureswithout ruining the natural feel of the game.
+
+Gravel is replaced with redstone torch indicators, making unstable blocks instantly visible. Avoid sudden cave-ins and mine safely with clear, easy-to-spot warnings.
+
+Easily spot hidden caves, mineshafts, and underground structures with clear visibilityno more blind digging or missed discoveries.
+
+Key Features
+
+- Night-vision style visibility for all ores in every graphics mode (Simple, Fancy, etc.)
+
+- Outlined and highlighted ores for instant detection, even in dark caves
+
+- Gravel replaced with redstone torch indicators for safety from falling blocks
+
+- Structure visibilityeasily locate caves, mineshafts, and hidden areas
+
+- Clean and minimal designno clutter, only what matters
+
+- Performance-friendlysmooth gameplay with no lag
+
+Recommended Settings
+
+- Turn off Smooth Lighting for the clearest ore visibility
+
+- Use Simple or Fancy graphicsfully supported
+
+- Increase brightness for maximum clarity (optional)
+
+Installation
+
+- Place the resource pack in your resource_packs folder or import it directly into the game
+
+- Open or create a world go to Resource Packs
+
+- Enable Texture Pack
+
+- Start your world and enjoy full underground visibility
+
+Mine smarter. Stay safe. Find everything.
+The X-Ray Ultimate

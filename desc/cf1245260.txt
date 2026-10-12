@@ -1,0 +1,171 @@
+This is the classic "lite" v5 version of one of the biggest SCP add-ons of 2020/21! Even though it's called "lite" it actually has more features than v4, and is more optimised. It adds many SCP related aspects to your Minecraft world.
+
+- SCPs/Entities- Structures/Biomes - Weapons - Armour/Morphs- Bosses
+
+Attention!
+
+This is a really old add-on! Some features may not work properly, but most features should still be fine. I've fixed up the blocks to show up in the creative menu and fixed up most of the items.
+
+We are also working on a remake, building SCP: Collab again from the ground up, you can check out the teaser here:
+
+Instructions:
+
+- This add-on is based on the SCP Foundation and copyrighted under the Creative Commons Attribution ShareAlike 3.0 (CC BY-SA 3.0) license
+
+- If you are using this add-on for ANY of your content, you MUST credit me by linking to my YouTube channel, or by linking to this page, your content must be also under CC-BY-SA 3.0
+
+Credits:
+
+- Big Thx to Bendy the Demon18, Dany Fox, DyDyOOF, MechaManiac, Angious2004, someguy45, LuciousKneez & DGCrafter. They have helped with numerous textures, models and sounds in this add-on.
+
+- Thx to justAsh from PixelPoly for teaching me how to make 3D items.
+
+- Some sound effects from BATIM
+
+- Some music taken from MakaiSymphony
+
+- Scarlet King Boss Music from Aliaksei Yukhnevich (Deliverance & End of the Abyss)
+
+- SCP Raid muic from Vitalii Suzdin - Beyond the Mind
+
+- SCP-096-JS sounds from SCP: SL
+
+- Some assets were taken/adapted from the SCP-Containment Breach Game
+
+- Credits to MACHINE_BUILDER for feature rule generator.
+
+- Other Community Help :D
+
+- Got some help with the guns from AGCSO/AG3D
+
+Overview:
+
+SCP: Collaboration Lite adds mainly SCP themed stuff, like facility blocks, SCPs, scientists, D-Class, Chaos Insurgency, Serpent's Hand, Global Occult Coalition, Scarlet King, etc.
+
+Re-added structures from original version (v4 classic):
+
+You can use the /structure command or a structure block to load these structures. They DO NOT generate naturally.
+
+- facility1
+
+- facility2
+
+- facility3
+
+- chaos_base
+
+- goc_base
+
+Pocket Dimension Structures (like trees and stuff)
+
+- pd_big_tree
+
+- pd_bone1
+
+- pd_bone2
+
+- pd_bone3
+
+- pd_coffin
+
+- pd_fire_scatter
+
+- pd_misc1
+
+- pd_misc2
+
+- pd_misc3
+
+- pd_misc4
+
+- pd_misc5
+
+- pd_misc6
+
+- pd_ruin1
+
+- pd_ruin2
+
+- pd_ruin3
+
+- pd_ruin4
+
+- pd_ruin5
+
+- pd_ruin6
+
+- pd_ruin7
+
+- pd_ruin8
+
+- pd_ruin9
+
+- pd_ruin10
+
+- pd_ruin11
+
+- pd_throne
+
+- pd_tree1
+
+- pd_tree2
+
+- pd_tree3
+
+- pd_tree4
+
+- pd_tree5
+
+- pd_tree6
+
+- pd_tree7
+
+- pd_trench
+
+Survival Compatibility:
+
+First of all, here is the recipe list for SCP Collaboration
+
+Now to get alot of the stuff in the add-on, you can find these crate caches around the world. They contain 2 supply crates and some SCP Essence Ore
+
+Supply crates are the main thing you need to get weapons to defend yourself, and to start your own facility
+
+<figure class="image"></figure>
+
+You can come across structures with very powerful weapons! (they're rare tho)
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+SCPs can drop some useful items, there's even some Spawner rooms that are quite uncommon.
+You can turn them into SCP mob farms, assuming they dont kill you first.
+
+<figure class="image"></figure>
+
+<figure class="image"></figure>
+
+<figure class="image"></figure>
+
+What a nice view
+
+<figure class="image"></figure>
+
+Find Scarlet Ruins to get scarlet blocks. You need these to summon the scarlet king and to get Scarlet Armour
+
+<figure class="image"></figure>
+
+Hey look a 3D gun, I heard people like them too much
+
+Oh well time to hunt for some food
+
+<figure class="image"></figure>
+
+Hey look now I have full scarlet armour set
+
+(also a crucible, and yes its also 3d)
+
+<figure class="image"></figure>
+
+Btw a full set of this very cool armour has 95% knockback resistance, gives you strength I, speed I and fire resistance I. Oh btw its u n b r e a k a b l e
+
+Now your armour doesnt break when fighting Scarlet King

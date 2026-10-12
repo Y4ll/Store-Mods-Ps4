@@ -1,0 +1,13 @@
+Easy Creative Items [ECI]
+
+Easy Creative Items [ECI] adds all those hidden, hard-to-reach blocks directly into your creative inventory organized into clean groups right where they belong. No commands, no hassle.
+
+The original idea: concept inspired by VitooorGames' addon Cheats and Secret Items in the Creative Menu. Credit to VitooorGames.
+
+1. Features Overview
+
+All the secret blocks, where they belong in your creative inventory.
+
+2. Images
+
+No commands. Just the blocks, where they belong. Behavior pack only, fully vanilla-compatible.

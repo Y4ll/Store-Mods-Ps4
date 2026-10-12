@@ -1,0 +1,9 @@
+Simple Item Physics makes dropped items look more real in Minecraft Bedrock. Items no longer float and spin like normal drops. Instead, they lie flat on the ground and can still be picked up.
+
+Join our discord: https://discord.gg/K5j5Y95tfn
+
+Most items keep their normal Minecraft texture. Light items, like wood, paper, and plants, can float in water. Heavy items, like stone, metal, ores, sand, and tools, sink.
+
+Some items can burn in fire or lava. Other items are pushed away from dangerous blocks. The add-on also helps with item pickup, despawn time, thrown items, and item recovery.
+
+This is a beta add-on. It uses Minecraft Bedrock scripts, so experimental script features must be turned on.

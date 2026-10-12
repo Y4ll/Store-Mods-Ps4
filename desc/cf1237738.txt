@@ -1,0 +1,62 @@
+Vanilla+ Horses Addon for Minecraft BedrockTake your horseback adventures to the next level with the Vanilla+ Horses Addon! This addon improves Minecrafts horses with realistic models, a custom stamina system, and a range of new horse armors all while staying true to the vanilla style.But that's not all! It also includes a cinematic camera mode that can be toggled on or off while riding, giving your rides a more immersive and dramatic feel.Perfect for exploration, combat, or just showing off your favorite steeds this addon brings new life to horses in MCPE!
+
+HOT FIX CONTENT:
+
+- Improved horse gait selection by adding a new item: Horse Gaits Selector (crafted from string).
+
+- Fixed an issue where horses could be damaged by their owner while riding.
+
+- Fixed an issue where horses could be knocked back.
+
+- Improved the cart attachment system to prevent accidentally opening the horse or cart inventory instead of attaching the cart.
+
+- Added a recipe for Netherite War Horse Armor (crafted using Diamond War Horse Armor, a Netherite Ingot, and a Smithing Template).
+
+- Increased horse jump strength.
+
+Subpacks: Choose "Vanilla Horse Spawn" if you want to keep the vanilla horses, or "Replace Vanilla Horse" if you prefer to replace them with the custom ones.
+
+This addon adds realistic horse gaits along with a stamina system when riding. In this beta version, it introduces two new horse breeds: the Thoroughbred and the Gypsy Vanner, each with unique strengths and weaknesses.
+
+Thoroughbred: Moves quite fast but tires quickly due to a smaller stamina pool. Spawns in Plains and Savanna biomes. There are 6 color variants available: Dark Bay, Chestnut, Bay, White, Gray, and Brown.
+
+Gypsy Vanner: Slower movement speed but has a much larger stamina pool, allowing for longer rides. Spawns in Taiga and Taiga Hills biomes. There are 3 color variants available: Tobiano, Blagdon Black, Blagdon Brown.
+
+You can now craft horse armor, saddles, and name tags directly in the crafting table, making it easier than ever to gear up your horses!
+The addon also introduces a brand new type of War Horse Armor, designed for battle-ready steeds!
+It comes in 4 tiers: Golden, Iron, Diamond, and Netherite, each offering increasing protection and a unique look for your horse.
+
+Golden War Armor: Reduces 20% of all damage taken.
+
+Iron War Armor: Reduces 40% of all damage taken.
+
+Diamond War Armor: Reduces 80% of all damage taken.
+
+Netherite War Armor: Reduces 96% of all damage taken.
+
+Horse Cinematic View? Yes, we can!
+Experience riding like never before with the new Cinematic Camera System, activated by using the Golden Horseshoes item. It offers three camera modes to choose from:
+
+Freecam A smooth, cinematic camera that follows the player dynamically.
+
+Normal The classic riding view, just like in vanilla Minecraft.
+
+Fixed Camera Places the camera at a fixed point, allowing the player to ride around freely while being filmed from one angle perfect for cinematic shots or roleplay scenes!
+
+NEW FEATURES: VERSION 0.0.2 BETA.
+
+In this update, we finally have carts that work in Minecraft!
+Youll need to craft a Cart Wrench in order to attach a cart to a horse.
+
+To attach a cart to a horse:
+First, tame the horse. Then, use the Cart Wrench to select the horse (sneak + right-click on PC, sneak + long press on mobile).
+
+After that, attach the cart to the horse using the same action (sneak + right-click on PC, sneak + long press on mobile).
+
+To detach the cart:
+Simply use the same action (sneak + right-click on PC, sneak + long press on mobile) on either the horse or the cart that is already attached.
+
+Speaking of carts, we have two types: Supply Carts and Carriages. All of them come in every wood type except Crimson, Warped, and Bamboo.
+Supply Cart: Can be used to store items and has a model that changes dynamically based on the number of items in its container.
+
+Carriage: Can be used to transport players or villagers. Each carriage has a maximum capacity of 4 and comes in all van

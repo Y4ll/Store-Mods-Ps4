@@ -1,0 +1,163 @@
+Craft Uncraftable Items
+
+This pack adds recipes for several items that normally cannot be crafted (Achievement Friendly).
+
+Recipe
+
+Trident
+
+ingredients:
+
+- iron ingot
+
+- stick
+
+Totem of Undying
+
+ingredients:
+
+- gold nugget
+
+Elytra
+
+ingredients:
+
+- iron ingot
+
+- feather
+
+Enchanted Golden Apple
+
+ingredients:
+
+- apple
+
+- gold ingot
+
+Experience Bottle
+
+ingredients:
+
+- bottle
+
+- lapis lazuli
+
+Ender Pearl
+
+ingredients:
+
+- rotten flesh
+
+Emerald
+
+ingredients
+
+- coal
+
+Bedrock
+
+ingredients:
+
+- obsidian
+
+Player Head
+
+ingredients:
+
+- black wool
+
+- oak plank
+
+Copper Horse Armor
+
+ingredients:
+
+- leather horse armor
+
+- copper ingot
+
+Iron Horse Armor
+
+ingredients:
+
+- Leather Horse Armor
+
+- Iron Ingot
+
+Golden Horse Armor
+
+ingredients:
+
+- leather horse armor
+
+- gold ingot
+
+Diamond Horse Armor
+
+ingredients:
+
+- leather horse armor
+
+- diamond
+
+Recipe Book
+
+ingredients:
+
+- book
+
+- stick
+
+Cobweb
+
+ingredients:
+
+- string
+
+Chainmail Helmet
+
+ingredients:
+
+- Iron Chain
+
+Chanmail Chestplate
+
+ingredients:
+
+- iron chain
+
+Chainmail Leggings
+
+ingredients:
+
+- Iron Chain
+
+Chainmail Boots
+
+ingredients:
+
+- Iron Chain
+
+How to View Ingredients
+
+- Obtain the "Recipe Book" item.
+
+- Use the item to open the menu.
+
+- Find the item whose recipe you want to view.
+
+- Click on the item to view its ingredients.
+
+How to Install
+
+- Download the provided behavior pack file in (.mcaddon) format.
+
+- Import file into minecraft bedrock.
+
+- Before creating a world, dont forget to active the behavior pack.
+
+- Create the world and done.
+
+Bug report
+
+If you want to report bug or ask anything, feel free to contact me on discord: izy_0123

@@ -1,0 +1,64 @@
+BETA TEST!
+Better Combat: The Combat Revolution for Minecraft Bedrock
+
+Tired of boring spam-clicking? Better Combat completely overhauls the Minecraft Bedrock combat system, bringing it closer to tactical RPG battles and Java Edition mechanics. New weapons, parkour, camera, and unique enchantments await you!
+
+Longswords Forget about simple swords. The addon adds Longswords made from all vanilla materials (Wood, Stone, Iron, Gold, Diamond, Netherite).
+
+-
+
+Combo System: Longswords feature unique animations and a combo attack mechanic. Strike rhythmically to unleash the weapon's full potential.
+
+-
+
+Blocking: You no longer need a shield in your off-hand! Hold the use button (Right Click / Long Tap) while holding a longsword to enter a defensive stance and reduce incoming damage.
+
+New Movement and Camera Feel like an action RPG hero with an updated movement and view system.
+
+-
+
+RPG Camera: We have added a brand new third-person camera. It is dynamic and convenient for combat. You can toggle it at any time using a special button on the screen.
+
+-
+
+Dodging and Parkour:
+
+-
+
+Roll: Quickly dodge away from enemy attacks.
+
+-
+
+Slide: Slide under obstacles or close the distance to your opponent.
+
+Java Parity We have ported the best aspects of the combat system from Java Edition straight to Bedrock:
+
+-
+
+Java Combat: Fair hitboxes and attack timings. No more attack spamming every hit counts.
+
+-
+
+Java Saturation: The hunger and saturation system now works just like on PC. Food heals faster if you are full, which drastically changes survival in combat.
+
+Unique Longsword Enchantments Better Combat adds 5 exclusive enchantments written specifically for the new combat system:
+
+-
+
+Cleave I-II Perfect for crowd control. The more enemies around you, the stronger your hit. Damage is multiplied based on the number of mobs in the radius. Turn your sword into a weapon of mass destruction.
+
+-
+
+Duelist I-II The choice for bosses and PvP. This enchantment rewards you for 1v1 combat. If there are few or no other enemies near your target, you deal increased damage. The smaller the crowd, the deadlier the strike.
+
+-
+
+Crescendo I-III Rewards aggressive play and long attack streaks. Damage increases with each hit in your combo series. The longer you maintain the attack rhythm, the more painful the final blow will be.
+
+-
+
+Lunge Turns your combo into a mobility tool. On landing the 3rd hit in a combo, you perform a sharp dash forward. If you hit an enemy during the dash, the damage is significantly increased.
+
+-
+
+Riposte For masters of timing. Turns defense into offense. Grants a short "perfect block" window; if you are attacked during this moment, you fully negate the damage and trigger a counter effect.

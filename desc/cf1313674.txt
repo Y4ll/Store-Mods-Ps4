@@ -1,0 +1,19 @@
+Cat Crosshair
+
+By @daemoun
+
+- View in-game:
+
+- Description:
+
+This texture pack changes your crosshair into a cute little cat.
+
+- Additional Info:
+
+Original idea is from this Reddit post by u/imHoodle.
+
+Since OP couldn't provide a download source at the time, another user, u/issackmay, remade the pack and shared it in the comments. However, their version is for Java 1.19, so I ported the pack to Bedrock +1.21.90!
+
+Hoping you like this pack as much as I do.
+
+If you have any questions or comments, please feel free to contact me via Instagram.

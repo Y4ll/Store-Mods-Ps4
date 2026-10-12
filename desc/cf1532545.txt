@@ -1,0 +1,33 @@
+Kinetix Visuals is a bold, high-fidelity resource pack designed to make your Minecraft world surge with energy. It bridges the gap between the classic blocks you know and a cinematic, real-world aesthetic through advanced lighting and tactile depth.
+
+Screenshots:-
+
+Inbuilt Features:-
+
+- Realistic Lightning
+
+- Realistic Colors
+
+- PBR Included
+
+- Custom water
+
+- Emissive Working
+
+- Realistic theme
+
+- New fog colors
+
+- New Sun Texture
+
+- New Water
+
+- New Moon Texture
+
+- More Vibrant with different tonemap
+
+- And more...
+
+Installation:-
+
+Just download the pack and import in your game (Your device should support Vibrant Visuals).

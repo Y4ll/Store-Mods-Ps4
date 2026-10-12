@@ -1,0 +1,43 @@
+What This Does
+
+Villager trades in vanilla Bedrock have a use limit and once you hit it, the trade locks until the villager restocks, which takes time!! This addon removes that cap entirely! Every trade from every villager profession is set to 99999 uses, which is practically infinite.
+
+The wandering trader has been reworked too. His trade pool is much wider now, including all wood types, most flowers and plants, and a bunch of items that are normally annoying to farm in bulk.
+
+What's Covered
+
+All 14 villager professions are included:
+
+Armorer Butcher Cartographer Cleric Farmer Fisherman Fletcher Leather Worker Librarian Shepherd Stone Mason Tool Smith Wandering Trader Weapon Smith
+
+Villager Trade Rebalancing (Experimental)
+
+Minecraft Bedrock has an experimental toggle called Villager Trade Rebalancing. You can find it in your world settings under Experiments. When this is turned on, the game swaps to a different set of trade tables that Mojang designed to make trades more biome dependent.
+
+This add-on covers that too. So the infinite trades and price adjustments carry over regardless of whether you're playing with the toggle on or off.
+
+Installation
+
+- Use MCPEDL app on Mobile (Android + IOS) for ease of downloading and installing packs directly into minecraft.
+
+- Use Bedrock Manager on Windows For installing addons,packs, worlds, etc and managing them + more features!
+
+- Download Bedrock Manager - https://bedrock-manager.app
+
+Restricition
+
+- When Sharing the Content on Youtube or other platform, Give original mcpedl or curseforge link Only.
+
+- You are not allowed to reupload the project or any platform and claim it as yours.
+
+Notes
+
+- This is a behavior pack only no textures or visual changes
+
+- Existing worlds are fine; trades update when the villager refreshes
+
+- Compatible with most other add-ons unless they also override trade tables
+
+Join the Discord server to be part of the our community or to contact me: https://discord.gg/Wvst4znsgk
+
+Made By Eyrae

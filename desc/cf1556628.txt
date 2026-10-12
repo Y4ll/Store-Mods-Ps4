@@ -1,0 +1,134 @@
+Odyssey NPCs The Ultimate NPC & Server Framework
+
+Tired of broken NPC add-ons that require unstable Beta APIs, endless command lines, or crash your world upon every game update?
+
+Welcome to Odyssey NPCs a standalone NPC framework built from scratch for Minecraft Bedrock Edition. It requires ZERO Beta APIs and ZERO commands. Everything is managed through intuitive, performance-optimized UI menus.
+
+Whether you are creating an immersive RPG adventure map, managing a multiplayer server, building cinematic scenes, or looking for loyal companions in your survival world, Odyssey NPCs gives you complete control over your NPCs.
+
+What's New in v1.1.0
+
+NPC Size & Scale System
+
+Customize the physical size of your NPCs directly from the Appearance menu.
+
+-
+Baby: 0.5 scale
+
+-
+Medium: 0.75 scale
+
+-
+Normal: 1.0 scale
+
+-
+No extra entities or textures are required.
+
+-
+NPC scale is fully integrated with the cloning system, so cloned NPCs retain their selected size.
+
+Give Held Item
+
+Equip your NPCs with items directly from your hand without manually entering Item IDs.
+
+Simply hold an item, select the desired equipment slot, and use Give Held Item.
+
+-
+Supports weapons and armor from standard Minecraft.
+
+-
+Supports compatible items from other add-ons.
+
+-
+Useful for RPG, RP, cinematic, and modded-server creators.
+
+-
+Equipment functionality such as damage, armor values, and durability can work normally when supported by the item's own implementation.
+
+This system has been tested with equipment from third-party add-ons such as Epic Knights.
+
+Compatibility Note: Add-ons that rely on highly customized player-only animations, rendering systems, or complex two-handed weapon behavior may not visually function correctly on NPCs.
+
+Core Features
+
+Advanced AI & Behaviors
+
+-
+Follow, Wait, & Roam: Command your NPCs to follow you, remain at a location, or freely explore the environment.
+
+-
+Smart Teleportation: If an NPC in follow mode falls too far behind, it can automatically teleport to your position.
+
+Quick-Guard Combat System
+
+-
+Reflexive Defense: Toggle combat mode instantly by Sneaking + Right-Clicking your NPC (restricted to Owners and Whitelisted players).
+
+-
+Smart Target Filtering: NPCs can defend you against hostile threats while strategically ignoring world-destructive entities such as Creepers, Wardens, and the Wither.
+
+-
+Aggressive Mode: Turn NPCs into combatants or base guardians that can target survival players.
+
+Advanced Ranged Combat
+
+-
+Equip an NPC with a bow and arrows through its inventory.
+
+-
+NPCs can use ranged combat while in supported combat modes.
+
+-
+When enemies get too close, the AI can dynamically switch between ranged and melee combat.
+
+Deep Equipment & Durability
+
+-
+Full Gear Customization: Equip helmets, chestplates, leggings, boots, main-hand items, and off-hand items.
+
+-
+Give Held Item: Transfer the item you are currently holding directly into a selected equipment slot.
+
+-
+Functional Mechanics: Supported enchantments, damage values, armor values, and durability can function normally.
+
+-
+Quick Equip: Vanilla armor can also be equipped directly by interacting with the NPC while holding compatible gear.
+
+Walking Chests & Inventory
+
+-
+NPCs feature a custom inventory system for carrying items.
+
+-
+Players can add or retrieve items through the NPC interface.
+
+-
+Includes a toggleable safety feature allowing NPC inventory to be dropped upon death.
+
+Navigation, Patrols, & NPC Groups
+
+-
+Go-To System: Order NPCs to travel to selected coordinates.
+
+-
+Cyclic Patrols: Create multi-point patrol routes that continuously loop between locations.
+
+-
+NPC Linking: Link NPCs together so multiple NPCs can follow a designated leader.
+
+Visual Customization
+
+-
+10 Built-in Skins: Choose from the included NPC skins.
+
+-
+Custom Skin Support: Add your own 6464 PNG skins through a compatible resource pack.
+
+-
+Dynamic Names: Customize NPC nametags directly through the UI.
+
+-
+NPC Size System: Change NPC scale between Baby, Medium, and Normal.
+
+Server Utility & Adva

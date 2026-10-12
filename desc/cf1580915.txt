@@ -1,0 +1,35 @@
+If you're not careful and you noclip out of reality in the wrong areas, you'll end up in the Backrooms, where it's nothing but the stink of old moist carpet, the madness of mono-yellow, the endless background noise of fluorescent lights at maximum hum-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in God save you If you hear something wandering around nearby, because it sure as hell has heard you inspire by Kane pixel and from the fandom wiki This addon add the Backroom to your world\nNote this addon is still in early development You might find some issue The way to get to the Backroom itself is by finding Null zone a thin light in your reality to get out you do the same thing
+
+Level 0 - The Lobby
+
+Difficulty Class: 1
+
+Safe Secure Minimal Entity Count An endless office-like environment consisting of yellow wallpaper, damp carpet, and buzzing fluorescent lights. The halls stretch endlessly in every direction, creating a maze of identical rooms and corridors. Large rooms containing furniture can occasionally be found. The remains of previous wanderers may also appear and can contain useful loot and supplies for survival. Almond Water is commonly found throughout this level and can be used to restore sanity. Despite being considered one of the safer levels, it is not completely empty. Hostile entities such as the Bacteria are known to roam the halls, searching for unsuspecting victims.
+
+Sanity Drain: Low
+
+Level 1 - The Habitable Zone
+
+Difficulty Class: 1
+
+Safe Secure No Known Entities A massive parking-garage-like environment filled with concrete floors, industrial walls, pipes, and dim lighting. Despite resembling a place where vehicles should be stored, no cars have ever been found here. Level 1 is considered one of the few habitable locations within the Forgotten Complex. Large amounts of loot crates, supplies, food, and useful resources can be found scattered throughout the area. While no hostile entities are known to naturally inhabit this level, the environment itself can still be dangerous. The lights occasionally fail without warning, leaving wanderers completely blind for several minutes. Many survivors choose to establish temporary camps here due to the abundance of resources.
+
+Sanity Drain: Medium
+
+Level 2 - Pipe Dream
+
+Difficulty Class: 4
+
+Unsafe Unsecure Environmental Hazards An endless network of industrial maintenance tunnels filled with pipes, machinery, steam vents, and cramped corridors. The atmosphere is hot, claustrophobic, and extremely dangerous. Food and supplies are exceptionally rare, making long-term survival difficult. Many sections contain poisonous gases capable of harming explorers who enter unprotected. A Hazmat Suit is strongly recommended before entering this level. Without proper preparation, most wanderers do not survive for long. The constant noise of machinery and the oppressive environment place severe stress on the mind.
+
+Sanity Drain: Extreme
+
+Level 188 - Courtyard of Windows
+
+Difficulty Class: 0
+
+Safe Secure No Known Entities A beautiful hotel-like environment filled with elegant hallways, balconies, windows, and countless rooms. Warm lighting and peaceful surroundings make this one of the most welcoming locations in the Forgotten Complex. Level 188 serves as a major travel hub connecting many parts of the Complex. Wanderers often use it as a place to rest, recover, and prepare for future journeys. No known hostile entities inhabit this level, and its calm atmosphere provides relief from the dangers found elsewhere. Most importantly, sanity does not decrease while inside Level 188, making it one of the safest places known to explorers.
+
+Sanity Drain: None
+
+Join Our Community If you want to leave feedback, feel free to use the comments or join the dedicated channel in the WanMine Discord server.

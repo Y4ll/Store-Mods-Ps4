@@ -1,0 +1,115 @@
+This new update to the "Dreamy Visuals" pack is infinitely better than the previous one; you could say it now rivals the "Vibrant Visuals" packs on the Marketplace, except this one is free. "Dreamy Visuals" embraces color without veering into excessive saturation, striking a perfect balance between the two much like Bedrock's RTX.
+
+Screenshots Dreamy Visuals
+
+- Noon
+
+- Day
+
+- Noon birch
+
+- Night
+
+- Cold Biome
+
+- Cherry Biome
+
+- Sunset
+
+- Sunrise
+
+- Savannah
+
+- Light Colored and Reflection
+
+- PBR Textures
+
+- Swamp
+
+- Dusk
+
+Featured
+
+- Torch with Bloom to simulate RTX effect
+
+- Vibrant Colors.
+
+- Dynamic Sunbeams.
+
+- Realistic and Light Water.
+
+- Colorful static lighting.
+
+- Dynamic Biomes.
+
+- PBR Blocks.
+
+- Sparkling Minerals.
+
+- Realistic Caustics.
+
+- Beautiful Sunsets.
+
+- Beautiful Nights.
+
+- Metallic Blocks.
+
+- Vibrant and Illuminated Nether.
+
+- Subpacks with PBR textures and Vanilla Texture
+
+Requirements
+
+- Game Version: To try Vibrant Visuals, you need to enable the beta/preview version in Bedrock Edition and turn on the "Vibrant Visuals" option when creating or editing a new world.
+
+- Vibrant Visuals in Minecraft Bedrock requires an Adreno 640 GPU (Snapdragon 855) or a Mali GPU (Mediatek 1000 series) for mobile devices. For PCs, a GPU with DirectX 12FL11 is recommended.
+
+Mobile Devices
+
+- Adreno 640 GPU: This GPU is found in the Snapdragon 855 processor.
+
+- Mali GPU: The Mediatek 1000 series or a Mediatek GPU.
+
+- A12 Bionic processor.
+
+PC
+
+- DirectX 12FL11: A GPU with DirectX 12FL11 is recommended for PCs.
+
+Changes
+
+- Improved colors.
+
+- Significantly reduced saturation.
+
+- Immersive atmosphere in every game biome.
+
+- Colorful lighting.
+
+- Improved PBR effects.
+
+- Greatly enhanced PBR textures.
+
+- Reduced excessive fog in most biomes.
+
+- Torches now feature new textures and bloom to simulate an RTX torch effect.
+
+- New water waves and caustics.
+
+Copyrighted
+
+- Many thanks to Stephen Lee for allowing the use of some of his height maps (creator of Legacy Vibrant Visuals)
+
+- Distribution of this pack, especially for personal gain or profit, is prohibited.
+
+- It can be used as a Vibrant Visual Pack and as a deferred pack (preferably use it as a deferred pack so you have all the features available).
+
+- Contact me; I am open to any commissions and suggestions:
+
+- Discord User: alexander_gabriel
+
+- Gmail: alexanderguerrero.171718@gmail.com
+
+I hope you like it; I haven't slept well these past few days working on this :D
+
+If you want to have better quality content, I invite you to donate your grain of sand.

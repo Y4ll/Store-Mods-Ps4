@@ -1,0 +1,33 @@
+Better Clear Water removes the dark, murky texture of vanilla water and replaces it with a crystal-clear, ultra-transparent look. This utility pack completely overhauls how you view lakes, rivers, and deep oceans, giving you perfect visibility both from above and while diving.
+
+Whether you are hunting for ocean monuments, building an underwater base, or just tired of blind swimming, this pack is an essential upgrade for your Bedrock world.
+
+Benefits
+
+- Crystal Clear Oceans: Grants maximum transparency. See all the way to the ocean floor without the dense blue fog obstructing your view.
+
+- X-Ray Exploration: Spot Ocean Monuments, Shipwrecks, Ruined Portals, and Buried Treasure structures instantly from your boat.
+
+- Underwater Clarity: Drastically reduces visual noise when diving, allowing you to fight Drowned or mine prismarine with perfect vision.
+
+- Luxury Pools & Lakes: Perfect for builders. Your fountains, pools, and custom rivers will look clean, modern, and high-end.
+
+DISCLAIMER OF LIABILITY
+
+If You Are Recording And Show The Texture, Be Sure To Leave The Original MCPEDL Link.
+
+PLEASE DO NOT PUT DIRECT LINK OR CUSTOM LINK.
+
+THANKS A LOT.
+
+Credits
+
+This project is a Java Edition Port/Fork inspired by the original Bedrock Tweaks.
+
+Inspired by: bedrocktweaks.
+
+SUPPORT THE CREATOR
+
+If you'd like to support my work, you can complete a quick ad step through Linkvertise. It takes just a few seconds and directly supports future project updates!
+
+This is completely optional no downloads are required here, just a simple way to show your support if you appreciate the content.

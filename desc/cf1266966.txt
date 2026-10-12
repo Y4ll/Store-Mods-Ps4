@@ -1,0 +1,61 @@
+Improves Touch Controls textures, adds F1 button and makes buttons transparent.
+
+Features:
+
+- Adds F1 button
+
+- Adds No Inventory Button
+
+- Old / Transparent Controls & Top Buttons
+
+- Works with Vibrant Visuals and Servers
+
+- Better HUD UI performance
+
+Subpacks:
+
+- Old Touch Controls + Top Buttons
+
+- Clean Touch Controls
+
+- Actions & Stuff-like Controls
+
+- Transparent Buttons + Top Buttons
+
+Requires:
+
+- PandaMine's Mip Mapper
+
+Old Touch Controls
+
+Old Touch Controls & Hud Icons
+
+Clean Touch Controls
+
+Actions & Stuff-like Controls
+
+Transparent Buttons
+
+Transparent Buttons & Hud Icons
+
+Works on Servers
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 80% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+Contact
+
+Discord: pandamine5x

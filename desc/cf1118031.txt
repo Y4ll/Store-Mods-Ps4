@@ -1,0 +1,53 @@
+You do not require any experimental toggles to play this Add-On
+
+This Add-On works for any Minecraft Bedrock version above 1.21.60+
+
+This add-on adds useful items for the player, such as the Cardboard Box, which allows players to carry blocks like a chest that can't be broken with items inside, the Angel Block, which allows players to place blocks in the air, and the Item Transfer, which allows items to be transferred from a distance, added in this update.
+
+Cardboard Box
+
+The Cardboard Box is an item that allows the player to pick up blocks that can't be broken. There are some limitations, but it works with chests, shulker boxes, barrels, trapdoors and various other blocks.
+
+At the moment, it doesn't work with the Mob Spawner. You can simply pick it up, but the moment you remove the Cardboard Box from it, it will lose the entity it was supposed to generate.
+
+INFO: Also, don't put items with custom properties from other add-ons in the chest if you're going to use the Cardboard Box in the chest.
+
+When you break the cardboard box, an item called Cardboard Box with Block will fall out. The description of the item includes the name of the block that is stored in the box. See the example below:
+
+Below see the recipe of the item:
+
+Angel Block
+
+See below for Angel Block demos and additional information.
+
+In addition to just being placed in the air or in liquids, using the block item in shift or crouch will open a screen to set the distance the block will be placed. The defined maximum is 5 and the minimum is 1.
+
+Below is an image of the Angel Block:
+
+Recipe from Angel Block:
+
+INFO: The added blocks are inspired by blocks from Minecraft Java mods, Mekanism and Extra Utilities.
+
+Item Transfer
+
+The Item Transfer is a utility that allows players to connect Baus, Shulker Boxes and Barrils remotely to transfer items without having to use Funnels or other means that may exist in the game. See below for images of it deactivated and activated:
+
+Deactivated:
+
+Activated:
+
+How to use the Item Transfer:
+
+To use the Item Transfer, you first need to craft a key called the Item Transfer Linker. Once you've created it, use the Linker on the Item Transfer from which you want to take the items. Then use the key on the Item Transferee that will receive them. This will establish the connection between the two blocks, allowing the items to be transferred automatically. Take a look at the following video demonstrating the use of the Item Transfer.
+
+INFO: The item transfer only works when the Chunks where the transfers are located are loaded.
+
+If the Item Transfer is already connected and you want to check the location of incoming and outgoing items, simply use the Item Transfer Linker on the device. When you do this, you will receive a message informing you of the connection status and the coordinates of the incoming and outgoing items. See the example below:
+
+Item Transfer Recipe:
+
+Item Transfer Linker Recipe:
+
+You do not require any experimental toggles to play this Add-On
+
+This Add-On works for any Minecraft Bedrock version above 1.21.60+

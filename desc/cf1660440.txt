@@ -1,0 +1,139 @@
+Based on the War of the Worlds 2005 film, an add-on focused on the vanilla Minecraft theme with somewhat similar mechanics to the movie.
+
+As of now this add-on is currently 30% complete!
+
+- Multiplayer friendly
+
+- Doesn't need experimental
+
+- Needs the latest version of Minecraft bedrock
+
+- Achievement friendly
+
+VERSION 1.2
+
+- Language support for custom items it automatically translates depending on the language setting in Minecraft menu.
+
+- Supported languages:
+
+English (United States)
+
+English (United Kingdom)
+
+Francais
+
+Deutsch
+
+Espanol (Espana)
+
+Espanol (Mexico)
+
+Italiano
+
+Portugues (Portugal)
+
+Portugues (Brasil)
+
+Nederlands
+
+Polski
+
+Turkce
+
+Cestina
+
+Magyar
+
+Svenska
+
+Dansk
+
+Norsk (Bokmal)
+
+Suomi
+
+Romana
+
+Bahasa Indonesia
+
+Tieng Viet
+
+VERSION 1.1
+
+New additional settings:
+
+- QUEUE COOLDOWN (After existing or getting destroyed while playing as a tripod you can now add a cooldown before they can play a tripod again)
+
+- MP TRIPOD (You can disable or enable the option for players to play as a tripod)
+
+- KILL UNLOCK (You can disable or enable the option that is needed to destroy at least one tripod in survival mode to unlock other abilities for playing as a tripod)
+
+WATCH THE OFFICIAL LAUNCH TRAILER:
+
+IN-GAME SCREENSHOTS
+
+CUSTOMIZABLE SETTINGS
+
+GADGETS
+
+Informative hologram:
+
+This is an item that every player receive upon joining the world, it gives light information about tripods.
+
+So I highly recommended to read every section if you haven't, place the hologram and click to switch to different sections.
+
+LOCATOR:
+
+This gadget points the closest tripod nearby.
+
+(Hold or right click to activate)
+
+WALKIE TALKIE:
+
+Every night there's a chance for a helicopter to fly-by, if you're holding the walkie talkie they can give important announcements.
+
+You can also put it offhand!
+
+TABLET:
+
+Every player receive a tablet upon joining the world, it obtains all important mechanics and other additional informations.
+
+In case you lost it, you can always craft about one.
+
+HELP:
+
+If you have other questions you might able to find the answers in the help section, or you can join the discord server for other questions and feedbacks.
+
+PLAY AS THE TRIPODS:
+
+The system searches for tripods that a player can control, it doesn't count if the tripod is in attack mode or harvesting mode, it needs to be a wandering tripod.
+
+This is a unique system to keep multiplayer balanced and clean, upon exiting the tripod is then replaced by a bot to ensure that everything is running continuously.
+
+HOW TO PLAY AS A TRIPOD:
+
+TRIPOD:
+
+MORE INFO ABOUT THE TRIPODS:
+
+These pictures are also in the add-on itself via informative hologram.
+
+Patreon:
+
+2026 Novisor. All Rights Reserved.
+
+This add-on is protected by copyright law.
+
+You are strictly prohibited from copying, re-uploading, redistributing, mirroring, or creating alternative download links for this project.
+
+Only official links provided by Novisor are authorized.
+
+For Content Creators: You are welcome to showcase, review, or feature this add-on in your videos or streams, provided that you credit Novisor and link directly to the official download page.
+
+Do not provide direct file links or re-upload the files yourself.
+
+Unauthorized re-uploads or redistribution will be met with DMCA takedown requests.
+
+JOIN THE DISCORD SERVER!
+
+https://discord.gg/qgx9hjxMe6

@@ -1,0 +1,45 @@
+Are you a true adventurer? RUINS adds a variety of forgotten and ruined structures to your Minecraft world! From mysterious ancient temples and trap-filled dungeons to crumbling fortresses and desolate abandoned settlements, each structure holds secrets and valuable loot waiting for you to discover. Start your next great adventure now!
+
+Join the Discord server
+
+The RUINS addon is an unofficial port of the classic Java mod "Ruins (Structure Spawning System)" by atomicstrykergrumpy. My goal is to bring the original mod's fun exploration structures and years of great community contributions to Bedrock Edition.
+
+- The addon is now Achievement Friendly
+
+- This addon brings a great sense of adventure to Minecraft by introducing a variety of randomly generated structures such as houses, temples, and even castles in the sky, along with a variety of loot.
+
+- The amount of ruins available in this addon is staggering and will never leave you bored. Each structure is meticulously designed and has many different elements for you to explore.
+
+- Some ruins can be dangerous or seemingly random...treat them wisely!
+
+-
+
+Structural rarity customization options: Rare | Medium | Common
+
+v1.4.6
+
+Name: Light Tower
+
+Name: Cemetery Vault Entrance
+
+Name: AdobeCitidel
+
+Name: Airship Dragon
+
+Name: Cartouche Solid
+
+Name: CatacombTemple
+
+A colossal statue guards the entrance to an underground catacomb. Inside, a maze of traps and secrets awaits, along with valuable loot and treasures.
+
+More screenshots
+
+atomicstrykergrumpy: Thank you for improving and maintaining the "Ruins (Structure Spawning System)" mod on Java, an endless source of inspiration for this addon.
+
+d00dv4d3r: Thank you to the author for creating the first original mod on Java, laying the foundation for all.
+
+Gillymoth, ST753M, Kujaku10, JordanGreywolf: Thank you for creating beautiful structure templates.
+
+Join the Discord server
+
+Enjoy! .

@@ -1,0 +1,121 @@
+undefined
+
+ECLIPSE RTX (REQUIRES VIBRANT VISUALS)
+
+Ultra Realistic Shader for Minecraft Bedrock
+
+Bring your Minecraft world to life with cinematic lighting, beautiful skies, realistic atmosphere and incredible performance.
+
+undefined
+
+Why Eclipse RTX?
+
+A shader designed for players who want the perfect balance between visuals and performance.
+
+Vibrant Colors
+
+Dynamic Atmosphere
+
+Beautiful Water
+
+Better Lighting
+
+Enhanced Nights
+
+Natural Fog
+
+Improved Sky
+
+Optimized Performance
+
+Features
+
+Feature
+Status
+
+Dynamic Sunlight
+
+Realistic Moonlight
+
+Enhanced Water
+
+Beautiful Clouds
+
+Improved Colors
+
+Better Sky
+
+Atmospheric Fog
+
+Nether Visuals
+
+End Improvements
+
+Performance Optimized
+
+Performance Presets
+
+Preset
+Devices
+
+Lite
+Low-End Devices
+
+Balanced
+Mid-End Devices
+
+Ultra
+High-End Devices
+
+Compatibility
+
+Minecraft Version
+Support
+
+Bedrock Edition
+
+RenderDragon
+
+Android
+
+Windows
+
+iOS
+
+Installation
+
+1. Download Eclipse RTX
+2. Import into Minecraft
+3. Enable the Resource Pack
+4. Select your preferred preset
+5. Enjoy!
+
+Support
+
+If you enjoy Eclipse RTX, please this project and share it with your friends.
+
+Downloading from the official page helps support future updates.
+
+Copyright
+
+Created by PrabhatPie
+
+No Reuploads
+
+No Redistribution
+
+No Claiming as Your Own
+
+No Selling Without Permission
+
+Community
+
+Report Bugs
+
+Suggest Features
+
+Leave a Review
+
+Support Development
+
+# Eclipse RTX ### **Experience Minecraft Like Never Before** Made with by **PrabhatPie**

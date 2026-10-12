@@ -1,0 +1,23 @@
+The NEWB X SHADOW shader is designed to take the visual experience in Minecraft Bedrock to a new level, combining advanced shadowing, lighting, and atmospheric detailing effects.
+
+The NEWB X SHADOW shader is designed to take the visual experience in Minecraft Bedrock to a new level, combining advanced shadowing, lighting, and atmospheric detailing effects.
+
+Key Features:
+
+Sharp Shadows: Sharp shadows cast across the environment creating an immersive, lag-free atmosphere. Objects cast realistic shadows based on their surroundings, enhancing the sense of depth and realism.
+
+Volumetric Lighting: Light rays (godrays) pass through clouds and trees, generating lighting effects reminiscent of cinematic scenes. These godrays adjust in color and intensity based on the time of day, creating stunning sunrises and sunsets.
+
+Dynamic Skies: Skies in NEWB X SHADOW are not static, but evolve throughout the day, featuring smooth color transitions ranging from the warm tones of sunsets to purple-hued night skies. Clouds feature visual effects that make them appear light and fluid, with an anime-inspired style.
+
+Reflections and Haze: Reflections on water and ground are optimized to provide a greater sense of realism, while haze adds a special touch by amplifying visual immersion in every dimension.
+
+Optimization and Performance: The shader is built to offer advanced effects without sacrificing performance, allowing players on mid- to low-end devices to enjoy the visuals without major FPS drop
+
+This shader is designed for those looking for a unique visual experience in Minecraft, combining advanced atmospheric effects with an elegant aesthetic presentation.
+
+BAXXGAMING
+
+Although many people do not want to see these shaders, here they will be, I hope you like them and truly give constructive criticism and not seeking to harm the project
+
+THANK YOU FOR DOWNLOADING AND HAVE A GREAT DAY

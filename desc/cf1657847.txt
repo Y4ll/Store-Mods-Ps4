@@ -1,0 +1,103 @@
+AM_BACKPACK 63 SLOT BACKPACK
+
+AM_BACKPACK is a Minecraft Bedrock Edition / MCPE backpack addon that gives you a portable 63-slot storage system you can carry and access while exploring your world.
+
+Tired of constantly running back to your chests because your inventory is full? With AM_BACKPACK, you can take a huge amount of extra storage with you wherever you go. The backpack can be equipped as a wearable 3D backpack, allowing you to keep your valuable items close while exploring, mining, building, or adventuring.
+
+Features
+
+63-Slot Portable Storage
+
+Get 63 additional storage slots arranged in a full 97 inventory grid. That's significantly more storage space than a standard double chest.
+
+Wearable 3D Backpack
+
+Equip the backpack in your offhand slot and see it appear as a 3D backpack on your character while playing.
+
+Access Your Storage Anywhere
+
+No need to place a chest every time your inventory gets full. Carry your backpack with you and access your storage while you're on the move.
+
+Persistent Storage
+
+Your items remain safely stored inside the backpack. Your inventory contents are preserved even when the backpack is not actively being used.
+
+Simple Crafting Recipe
+
+The backpack uses an easy-to-obtain crafting recipe, making it useful for both early-game and long-term survival worlds.
+
+How to Craft
+
+Craft the AM_BACKPACK using a Crafting Table with the following recipe:
+
+[Iron Ingot] [String] [Iron ingot]
+[Leather] [Chest] [Leather]
+[Leather] [Leather] [Leather]
+
+Required Materials
+
+- 4 Leather
+
+- 1 String
+
+- 1 Chest
+
+- 2x iron ingot
+
+No rare or difficult-to-obtain materials are required.
+
+How to Use
+
+- Craft the AM_BACKPACK using the recipe above.
+
+- Equip the backpack in your offhand slot or hold it in your hand.
+
+- Right-click / tap to bring the backpack in front of you.
+
+- Right-click / tap the backpack to open its storage.
+
+- Store and access your items using the 63-slot backpack inventory.
+
+Tip: The backpack is especially useful during mining trips, long explorations, building projects, and survival adventures when your normal inventory fills up quickly.
+
+Storage Capacity
+
+AM_BACKPACK provides:
+
+- 63 storage slots
+
+- 97 inventory layout
+
+- Portable storage
+
+- Persistent item storage
+
+- Wearable 3D backpack
+
+- On-the-go access
+
+It is designed to give Minecraft Bedrock players a convenient way to carry more items without constantly returning to their base.
+
+Requirements
+
+- Minecraft Bedrock Edition / MCPE 1.211.26.x or later
+
+- Behavior Pack must be enabled
+
+- Resource Pack must be enabled
+
+- Both packs should be active in the same world
+
+Important: Make sure both the Behavior Pack and Resource Pack are enabled for the backpack and its functionality to work correctly.
+
+SEO Keywords
+
+Minecraft Backpack Addon, MCPE Backpack, Minecraft Bedrock Backpack, 63 Slot Backpack, Backpack Addon, Minecraft Storage Addon, Portable Storage, MCPE Addon, Bedrock Edition Addon, Minecraft 1.26 Backpack, Minecraft 1.26.x Addon, Survival Backpack, Wearable Backpack, 63 Slot Storage, Minecraft Inventory Expansion, Minecraft Pocket Edition Backpack
+
+Credits
+
+Created by AKASH MODz
+
+If you enjoy the addon, consider supporting the creator by checking out more Minecraft Bedrock addons, mods, maps, and projects by AKASH MODz.
+
+AM_BACKPACK Carry More. Explore Further.

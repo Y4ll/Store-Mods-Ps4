@@ -1,0 +1,115 @@
+Smart Area Miner by Baku
+
+Smart Area Miner by Baku is a powerful and customizable mining addon for Minecraft Bedrock Edition (MCPE). Mine larger areas, customize your digging experience, and prepare flat terrain with advanced mining tools. Designed to make mining faster, easier, and more efficient!
+
+Official Addon Showcase
+
+Watch the official gameplay showcase to explore the addon features, mining modes, and terrain leveling system.
+
+Watch Smart Area Miner Showcase on YouTube
+
+Smart Pickaxe Mining
+
+Customize your mining experience with multiple area mining modes:
+
+- 11: Normal block mining.
+
+- 33: Mine a 33 area.
+
+- 55: Clear a larger 55 area.
+
+- 77: Massive area mining for large excavation projects.
+
+Perfect for mining tunnels, clearing stone, and preparing underground spaces.
+
+Smart Shovel Mining
+
+Experience controlled dirt excavation with dedicated shovel mining modes.
+
+- Supports 11, 33, and 55 mining sizes.
+
+- Area mining works exclusively with dirt blocks.
+
+- Sand, gravel, stone, and grass blocks remain unaffected by area mining.
+
+- Mining activates only when you manually break a dirt block with your shovel.
+
+- Selecting a mining mode does not automatically destroy blocks.
+
+Advanced Land Plane System
+
+Transform uneven dirt terrain into flat building areas with customizable controls.
+
+- Custom Y-Level: Choose the target height for terrain leveling.
+
+- Adjustable Width: Select 3, 5, 7, or 9 blocks.
+
+- Forward Range: Configure the clearing distance up to 48 blocks.
+
+- Clearing Height: Configure up to 64 blocks above the target level.
+
+- Manual Activation: Configure your settings and break a dirt block using your shovel to activate.
+
+- Dirt-Only Clearing: Other block types remain untouched.
+
+How to Use
+
+- Equip a supported pickaxe or shovel.
+
+- Sneak to open the mining settings menu.
+
+- Select your preferred mining size.
+
+- For terrain leveling, configure the Land Plane settings.
+
+- Break a supported block using the appropriate tool to activate area mining.
+
+Key Features
+
+- Multiple customizable mining modes
+
+- Smart pickaxe area mining
+
+- Dirt-only shovel mining
+
+- Advanced land leveling system
+
+- Manual mining activation
+
+- Adjustable mining width and range
+
+- Simple and convenient controls
+
+- Designed for Minecraft Bedrock Edition and MCPE
+
+Download Addon
+
+Get Smart Area Miner from the official CurseForge project page:
+
+Download Smart Area Miner by Baku
+
+Connect With the Creator
+
+Follow Baku on Instagram for Minecraft addons, texture packs, maps, and upcoming projects.
+
+Follow Baku on Instagram
+
+Creator & Credits
+
+Addon: Smart Area Miner
+Creator: Baku
+Development: Baku
+Design: Baku
+All Credits: Baku
+
+Copyright & Permissions
+
+Baku. All Rights Reserved.
+
+Unauthorized redistribution, reuploading, resale, or claiming ownership of this addon without permission from the original creator is prohibited.
+
+Content creators are welcome to showcase the addon with proper credit and a link to the official download page.
+
+Thank you for supporting Smart Area Miner by Baku!
+
+Enjoy smarter mining, faster excavation, and easier terrain preparation in Minecraft Bedrock Edition!

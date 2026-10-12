@@ -1,0 +1,151 @@
+Created by VirtualBlack8
+
+Who said adventures had to be experienced alone?
+
+Recruit over 57 unique waifus inspired by anime, video games, and other popular franchises, and let them accompany you on every adventure in Minecraft Bedrock.
+
+Support me on Patreon or Ko-fi!
+
+If you enjoy my addons and want to support my work on a voluntary basis, you can do so at:
+
+Patreon: VirtualBlack8
+Ko-fi: VirtualBlack8
+
+Everything I create is 100% free, with direct downloads and no ads.
+Your support, no matter how small, motivates me to keep creating, updating, and improving every day.
+
+Thank you! :)
+
+Join our Discord!
+
+Join our community to receive technical support, add-on news, share ideas, or report bugs.
+
+Click here to join
+
+What is Anime Waifus?
+
+Anime Waifus adds more than 57 collectible companions inspired by anime, video games, and many other popular franchises.
+
+More than simple pets, each waifu is a fully interactive companion capable of following you, protecting you, equipping exclusive armor, picking up weapons, and adapting to different situations thanks to customizable behaviors.
+
+Whether you're exploring caves, fighting bosses, or building your dream world, your favorite waifu will always be by your side.
+
+This addon does NOT disable achievements.
+
+All Available Waifus
+
+How to Obtain a Waifu
+
+Getting a new companion is now easier than ever.
+
+First, craft a Waifu Core.
+
+Then simply use it.
+
+A menu will automatically open, allowing you to choose any available waifu.
+
+Once you confirm your choice, the Waifu Core will be consumed and your new companion will appear immediately.
+
+How to Tame a Waifu
+
+All waifus can be tamed using only a Poppy.
+
+Once tamed, they can:
+
+Follow you.
+
+Sit whenever you want.
+
+Protect you during combat.
+
+Waifu Wand
+
+The Waifu Wand is the main tool used to manage and customize your companions.
+
+When interacting with a waifu, a menu will open where you can view all of her information.
+
+There you can see:
+
+Her health.
+
+The armor she currently has equipped.
+
+General statistics.
+
+From this same menu, you can also access the customization options.
+
+There you can configure:
+
+Animations
+
+Six different sitting styles.
+
+Three dance animations.
+
+Movement
+
+Follow Owner.
+
+Random Walk.
+
+Combat
+
+Attack Monsters.
+
+Defend Owner when attacked.
+
+Once you've finished making your changes, simply press Submit to apply them.
+
+Equipment
+
+Waifus use exclusive armor sets specially designed for them.
+
+Each armor set provides a different level of damage reduction, significantly increasing their survivability during combat.
+
+Crafting Recipes:
+
+Leather Armor
+
+Copper Armor
+
+Gold Armor
+
+Iron Armor
+
+Diamond Armor
+
+Netherite Armor
+
+Equipping Armor
+
+To equip armor, simply interact with a waifu while holding an armor piece.
+
+If you wish to remove it, use Shears.
+
+Additionally, waifus can automatically pick up nearby weapons and tools, such as swords, allowing them to improve their equipment throughout your adventures.
+
+Features
+
+Passive regeneration.
+
+Can be healed using different types of food.
+
+Sleep in nearby beds like a player.
+
+Have a chance to celebrate by dancing after defeating enemies
+
+Character List
+
+Includes characters from anime, video games and more:
+
+A2, 2B, Android 18, Aqua, Ashley, Asuka Langley, Bulma, Chika Fujiwara, Darkness, Elizabeth, Ellen Joe, Elma, Emilia, Fubuki, Gasai Yuno, Gwen Stacy, Hana Uzaki, Hayase Nagatoro, Hestia, Himiko Toga, Hitori Goto, Hinata, Ilulu, Komi, Lala Satalin Deviluke, Lucoa, Makima, Mai Shiranui, Marin Kitagawa, Megumin, Mikasa, Miku Nakano, Mitsuri, Morgiana, Nino Nakano, Nobara Kugisaki, Power, Ram, Rei Ayanami, Rem, Rin Tohsaka, Robin, Ruka, Tuka, Shion, Shiraori, Siesta, Taiga Aisaka, Tifa Lockhart, Tohru, Tsukasa, Tsunade, Uta, Yor Forger, Yoruichi, Yuugi Hoshiguma, Zero Two
+
+Is your favorite character missing? Let us know and we'll add it in future updates!
+
+Character name
+
+Series or anime where it comes from
+
+Current Status (Development)
+
+This addon is still in development. Some things a

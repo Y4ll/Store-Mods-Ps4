@@ -1,0 +1,7 @@
+Fresh Visuals is a clean and modern shader pack designed to enhance Minecrafts clarity and overall visual quality. It focuses on delivering brighter lighting, smoother colors, and a balanced, fog free atmosphere that keeps your world looking crisp and natural at all times.
+
+Features: Fresh Visuals upgrades the games look without heavy effects. It reduces unnecessary fog, sharpens colors, improves sky lighting, and keeps environments clear and comfortable to explore. The pack maintains a simple, fresh style while making the game visually appealing and easy to play.
+
+Development Status: Ongoing improvements are being added, including refined sky colors, cleaner light transitions, and visual adjustments that make the experience even smoother in future updates.
+
+Important: For the best experience, make sure to enable Vibrant Visuals in your games resource settings.

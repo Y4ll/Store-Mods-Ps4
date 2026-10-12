@@ -1,0 +1,123 @@
+Multiple variety of furnitures to, Design your world.
+
+version 2.2.0.
+
+-Added Poolroom Blocks
+
+-Added Old Computers On and Off
+
+-Added Aperture Radio
+
+-Added Memory Box
+
+-Added Light Stand
+
+-Added Blood Splatters
+
+-Added Dead Bodies (3 Types Only For Now)
+
+-Added Wall writings
+
+-Added Metal Ladder (not functional yet)
+
+-Added Surface Mounted LED
+
+467 Blocks Right Now!!!
+
+You can now make your very own pool rooms map
+
+White Tiles
+
+Pool Rooms - Blue Tiles (Deeper Levels)
+
+Light Stand - Emits light
+
+Old Computer - no functions yet
+
+Ladder - does not work but looks cool
+
+Memory Box - no functions yet
+
+Blood Awesome for horror houses and stuff
+
+Dead Corpses... (Okay maybe the other guy is just sleeping)
+
+Portal Radio/ Aperture Radio!!
+
+Wall Writings - Go Nuts!! and make an Asylum!! (jk just build whatever you'd like)
+
+-Box Shelf, boxes no longer overlaps the causing the flickering back texture to flicker
+
+How can I get the Furnitures?
+
+1. There Are 3 Boxes/Crates Category for making the furniture. these boxes/crates are needed to make all the furniture in the game, while at the same time they can be used as furniture already.
+
+(Please remember the recipe since I haven't made a ui to show you the crafting recipe in game yet)
+
+"Blocky Furniture Crate Recipe"
+
+Contains All Interior Decorations
+
+"Garden Crates"
+
+-Contains All Outdoor/Garden Related Furnitures
+
+Halloween Furniture Box"
+
+For your convience everything is craftable in any wood types (except bamboo)
+
+I can't put the last one because it's a GIF
+
+If you've known my other projects, specifically my custom adventure map's, all block's from those map's will be found here, (it's only System Error for now)
+
+2. After Crafting the Crates/Boxes use a Stonecutter to get the furnitures. (it's a classic for furniture mods)
+
+(Don't ask me if the picture is small)
+
+POV of using the Stonecutter
+
+Note: You Are Not Allowed To Claim That This Addon Is Your's Or Share The MediaFire Link Of The Addon You Only Can Share The Original Mcpedl Website or Curseforge Connected To This Addon.
+
+(I don't want to deal with this kind of problem again please. and yes it helps the Add-on get updates and improvements)
+
+Remember that this addon is not mine, the addon is Blazingfire24's and here are its networks
+
+MCPEDL PROFILE: https://mcpedl.com/user/blazingfire2073196/
+
+YOUTUBE CHANNEL: https://www.youtube.com/@Bzf203
+
+Buy Me a Coffee: buymeacoffee.com/BlazingFire203
+
+General Questions:
+
+1. What happens to my old world with the old version of bzf furnitures?
+
+Answer: If your world is still with you, unfortunately I can't fix it that anymore, best you rebuild the whole thing again, the problem was the code changes in minecraft newer updates and so I basically rebuild the add-on again that took me days of work. so please support me :(
+
+2. Experimental still needed?
+
+Answer: So far no? this mean lesser chances of major bug problems in the future
+
+3. Can I use this for my videos, add-on, mods or even 3D animation?
+
+Answer: Yeah I'm not so Strict, Since I love supporting other content creator! Just give proper credits, Name of Creator (BlazingFire203) Addon link of curseforge or Mcpedl and add my YT channel https://www.youtube.com/@Bzf203
+
+3. (for map makers like myself) Can I use this add-on in my maps? and share it online?
+
+Answer: as long proper credits are given as Instructed in Q3 then yes.
+
+4. Survival Friendly?
+
+Answer: Yes, it's Survival Friendly you can finally put copper to good use... unfortunately it will disable achivements so duplicate your survival world, if you are planning to use it on a world with achivements on.
+
+5. Creative Inventory location?
+
+Answer: In the Inventory go to Items tab (diamonds, Iron, etc.) at the lowest point you can find all the furnitures (might categorize it in future updates to easily find the Items you need)
+
+6. For Minecraft Java?
+
+Answer: No.. Just Bedrock
+
+You got a question yourself thats not here? leave them in the comments (I'll answer them ASAP)
+
+Have a good game

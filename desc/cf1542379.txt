@@ -1,0 +1,16 @@
+-- Introducing Solace Lite --
+
+Solace Lite is a Vibrant Visuals pack that transforms your Minecraft experience with stunning lighting options and optimized performance-focused configs.
+
+-- What to Expect in Solace Lite--
+
+Beautiful Visuals: Fine-tuned configs for atmospherics, lighting, fog, color grading, and water create an unmatched visual experience without sacrificing performance.
+Three Distinct Presets: Whether you prefer cozy, warm lighting, gloomy, eerie lighting, or a natural, realistic experience, Solace has it.
+Per-Dimension Lighting: Customized lighting, fog, and color grading tailored to each dimension.
+Unique 16x Normals: Beautiful 16x normal maps make every block satisfying to look at without sacrificing performance.
+Mipmapping: Mipmapping significantly improves the experience at lower resolutions.
+Photorealistic Caustics: Lifelike water caustics rendered with path tracing through a simulated ocean in Blender.
+
+If you need support join the Discord!!
+
+https://dsc.gg/legacy-nexus

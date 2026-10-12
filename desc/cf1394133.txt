@@ -1,0 +1,99 @@
+Wrath of the Raiders introduces several new things to make Villagers and Illagers feel more alive! starting off with 2 new Villages!
+
+Swamp Village:
+
+Jungle Village:
+
+Villages also now have new defenders, these defenders have a chance to attack you when you hurt villages or open village chests
+
+Archer Villager: Archer Villagers have a bow and fire arrows towards you
+
+Knight Villager: Knight Villagers are strong and are equiped with an iron sword
+
+Archmage Villager: Archmage Villagers summon Defender Allays to attack threats, heal villagers of all kinds and summon evocation fangs
+
+ILLAGER CONTENT
+
+(note about all illagers, all illagers have been sorted into 3 different tiers depending on difficulty, including vanilla ones, and raid loot is dependant on which tier theyre from, 3 being the hardest and 1 being the weakest, most Raiders will also steal all items dropped on the ground and will drop them on death)
+
+Tiers of Vanilla Illagers:
+
+Pillager - Tier 1
+
+Vindicator - Tier 2
+
+Witch - Tier 2
+
+Evoker - Tier 3
+
+Ravager - Tier 3
+
+NEW ILLAGERS:
+
+Flamefeeder: Flamefeeders attack by casting lines of fire in the direction of their target, they can also summon fireballs 40 blocks up at random villagers/players in a 30 block radius, they also give fire resistance to any Illager that goes into their fire trail when its being spawned
+
+(tier 3 raider)
+
+Ragged Caster: The Ragged Caster summons Ghost Vindicators and Ghost Pillagers that cannot be hurt (they can however be killed if they enter water) they also summon hostile soul particles that attack nearby villagers and players, they can also randomly turn themselves invisible
+
+(tier 3 raider)
+
+Jitzuologer: Jitzuologers are fast moving illagers that attack with a Steel Sword, whenever they hit you, they get strength for 2 seconds, they also randomly throw a smoke bomb and run away from you
+
+(tier 2 raider)
+
+Bombloger: Bomblogers are illagers that punch you and after 8 second of them finding their target, they explode, if they get set on fire by any means, they instantly explode with twice the blast power
+
+(tier 1 raider)
+
+Enchanter: Enchanters randomly enchant nearby illagers item theyre holding and run away from all villagers/illagers
+
+(tier 1 raider)
+
+Illager Brute: Illager Brutes are extremely tanky illagers that take zero knockback and attack with a sword
+
+(tier 3 raider)
+
+Sawlager: Sawlagers have Saws on their hands, this allows them to break any and all wood blocks they come in contact with
+
+(tier 2 Raider)
+
+Wind Caller: Wind Callers fire Wind Charges at nearby Villagers and Players, they also will randomly summon a tornado that will lock onto the nearest player/villager and deal damage
+
+(tier 2 raider)
+
+Redstone Cube: Redstone Cubes are fast moving boulders that chase down nearby targets, they also take zero knockback
+
+(Tier 2 raider)
+
+Redstone Golem: Redstone Golems attack via smashing the ground, dealing 8 damage to the target they sucessfully hit and 6 splash damage to any non-illager mob, they also randomly summon a shockwave
+
+(Tier 3 raider)
+
+Illager Scout: Spawns randomly across the world, drops random assortments of earlygame materials
+(Doesnt spawn in raids)
+
+Illager Airforcer: spawns extremely rarely, it fires super powerful explosives at you
+(Doesnt spawn in raids)
+
+STRUCTURES:
+
+Illager Forge:
+
+Enchanters Library:
+
+Outdoor Brewery:
+
+Windcaller Island:
+
+Flamefeeder's Keep:
+
+Ragged Caster's Grave
+
+OTHER FEATURES:
+
+Redstone Ministrosity: Redstone Ministrositys are spawned by using an Ecto Fragment (dropped by Ragged Casters) on a craftable Redstone Statue, they can be tamed with Redstone Crystal Shards (Dropped by Redstone Golems or found in Illager Mineshafts) this pet has 80 health and deals 6 damage, he also takes 90% less damage from Illagers
+
+Wild Ravager: Wild Ravagers spawn rarely throughout the forest and taiga biomes, theyre much weaker than a normal ravager and attack illagers, players and villagers
+
+Morningstars: Morningstars do 2 more damage than swords, they howeve

@@ -1,0 +1,83 @@
+This is a Beta version of the add-on, new updates will be released soon
+
+Don't forget to checkout GU Official Site at gamingudu.org for more info regarding the add-on
+
+Adha Craft is a Minecraft Bedrock addon designed for players who want a butcher-style gameplay experience. It introduces realistic butchery features that make processing mobs more immersive and engaging. Equip your butcher knife, manage your own farm, and bring a new layer of survival gameplay into your world.
+
+Thanks for 74K downloads
+
+What's new in v5 Beta 8
+
+Items:
+
+- Reordered sheep carcass in the creative category
+
+- Moved sheep carcass & sheep heads to the regular animals category
+
+- Moved (Hamburger, HotDog, Fat, Burger Bread & Tripe) to the MiscFood group in the creative menu
+
+- Moved cooked meat to the Equipment category in the creative menu
+
+- Retextured the rope to make sure it's not being confused with the lead
+
+Entities:
+
+- Sheep carcasses will now have to be sheared before skinning
+
+- Updated Sheep's Carcass textures & model
+
+- Add some missing details to all animal carcass textures
+
+- Retextured AC Camel's legs
+
+UI:
+
+- Added an on-screen tutorial for knocking down animals that will appear if you incorrectly interact with them
+
+- Added an on-screen tutorial for untieing & sacrificing animals when they are knocked down
+
+- Added an on-screen tutorial for removing the animal carcass
+
+- Added an on-screen tutorial for false interactions when trying to knock down an animal or when using a knife
+
+Bug Fixes:
+
+- The AC Camel's boneless legs will now render properly
+
+- Fixed rendering issues with AC Camel's carcass
+
+- Players will no longer be able to break blocks in creative using the gloves
+
+- Full green sheep can now be dyed gray once again
+
+- Fixed texture glitches on MC Camel's tail
+
+- Fixed full cow's textures not rendering correctly
+
+- Fixed full cold cow's textures not rendering correctly
+
+- Fixed full warm cow's textures not rendering correctly
+
+- Fixed full Mooshroom's textures not rendering
+
+- Fixed full Surti Cow's textures not rendering
+
+- Fixed some glitches with the goat's texture
+
+- Players will now need to sneak & interact with camel carcass to remove it
+
+- Fixed ostrich's textures not rendering
+
+- Fixed an issue that resulted in higher fall damage than normal for the full MC camel
+
+NOTE: To use this addon, enable EXPERIMENTAL GAMEPLAY in your world options!!!
+
+Download from the official website to support me. Click the image below.
+
+These are the features from beta versions hope you like the add-on you can send me feedback on the add-ons discord server by clicking the image below
+
+NOTE: If you are doing a review, you are allowed to post only this Curse Forge addon page link. Don't hurt me with direct links to MediaFire! {Help me create more add-ons by supporting me.}
+
+WARNING: This addon was posted on MCPEDL, Curse Forge and MODBAY! You are not allowed to publish this on other websites or applications without my permission.
+
+NOTE: YOU'RE NOT ALLOWED TO MODIFY THIS ADDON {Only modify it for personal use}

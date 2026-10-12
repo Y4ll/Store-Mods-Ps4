@@ -1,0 +1,45 @@
+Capes VM | Cosmetics Bedrock
+
+Redefining cosmetics in Minecraft Bedrock.
+
+Capes VM is a lightweight and optimized cosmetics pack that adds 67 unique capes to choose from, while keeping 100% vanilla style and without breaking any player animations.
+
+FEATURES:
+
+67 Unique Capes - From Minecon classics to exclusive designs like Lunar Client, Akatsuki, Totoro and more.
+
+Vanilla Movement - Designed to move naturally with the player. Does not affect Elytra or animations.
+
+Lightweight & Clean - Low file size, no lag, and everything perfectly organized in subpacks.
+
+Easy to Use - Just select your favorite cape from the subpacks settings.
+
+Includes popular capes like: Allay, Axolotl, Migrator, Minecon, Warden, Cherry Blossom, Discord, Hero, Optifine Remastered, Kirby, Lunar, and many more.
+
+Created by MartCosmicv
+
+Compatible with Minecraft Bedrock 1.21.60+
+
+Capes VM | Cosmetics Bedrock
+
+Redefiniendo los cosmeticos en Minecraft Bedrock.
+
+Capes VM es un pack de cosmeticos ligero y optimizado que anade 67 capas unicas para elegir, manteniendo 100% el estilo vanilla y sin romper ninguna animacion del jugador
+
+CARACTERISTICAS:
+
+67 Capas Unicas - Desde clasicos de Minecon hasta disenos exclusivos como Lunar Client, Akatsuki, Totoro y mas.
+
+Movimiento Vanilla - Disenado para moverse de forma natural con el jugador. No afecta al Elytra ni a las animaciones.
+
+Ligero y Optimizado - No pesa, no da lag y todo esta perfectamente ordenado en subpacks.
+
+Facil de usar - Elige tu capa favorita desde los ajustes de packs y listo.
+
+Incluye capas populares como: Allay, Axolotl, Migrator, Minecon, Warden, Cherry Blossom, Discord, Hero, Optifine Remastered, Kirby, Lunar, y muchas mas.
+
+Creado por MartCosmicv
+
+Compatible con Minecraft Bedrock 1.21.60+
+
+(Not all of them have the Elytra version, only those that are not)

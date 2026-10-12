@@ -1,0 +1,37 @@
+DETAILS :
+
+Weapon Combiner Revamp is an addon that lets players combine their weapons with different materials to make them stronger and more powerful. Each combination can unlock up to 4 abilities, gained by upgrading the same weapon multiple times. Below are the available materials for combination and the new weapon types you can craft.
+
+Combiniable Items:
+
+- Amethyst Shard
+- Blaze Rod
+- Creaking Heart
+- Chorus Fruite
+- Feather
+... More will be added in DLC's
+
+New Weapon Types:
+
+- Scythe [Iron, Diamond and Netherite]
+- Hammer [Iron, Diamond and Netherite]
+- Short Sword [Iron, Diamond and Netherite]
+- War Axe [Iron, Diamond and Netherite]
+
+[All of these weapons are crafable in survival via a crafting table]
+
+HOW TO CRAFT THE WEAPONS :
+
+To craft the custom combination weapon you will need the new block called Materia Conflux. This block will show which items you can input in it.
+
+After making the Materia Conflix, you can place it down. The first interact with the material item then interact with the weapon to combine both together.
+
+ADDITONAL FEATURES:
+
+1. LUCKY BLOCKS: By using this recipe you can make a Luckyblock. You can then combine the lucky block in the Materia Conflux to create a materia combined lucky block. Each Lucky Block a radom weapon in its respective catagory. Weapon also have a low chance to drop enchanted. GOOD LUCK !
+
+Credits:
+
+- Beyond64: Programmer, Creator and artist
+
+For more updates or any additional questions reach us on Discord.

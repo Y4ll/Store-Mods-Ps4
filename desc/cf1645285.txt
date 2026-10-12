@@ -1,0 +1,101 @@
+OP Death Drops
+
+OP Death Drops is a fun and rewarding Minecraft Bedrock addon that completely changes what happens when a player dies. Instead of death being only a punishment, every player death can now reward you with powerful and valuable OP items.
+
+Features
+
+- OP rewards drop whenever a player dies.
+
+- Multiple random rewards can drop from a single death.
+
+- Powerful enchanted Netherite weapons and tools.
+
+- High-level enchanted Netherite armor.
+
+- Chance to obtain Elytra.
+
+- Totems of Undying can appear as rewards.
+
+- Enchanted Golden Apples included in the loot pool.
+
+- Diamonds, Diamond Blocks, Netherite Ingots and other valuable resources.
+
+- Rare, Epic, Legendary and Mythic-style reward progression.
+
+- Randomized drops make every death different.
+
+- Multiplayer compatible.
+
+- Lightweight and simple to use.
+
+Reward System
+
+Whenever a player dies, OP items are dropped directly at the player's death location. Each death provides multiple rewards, with an additional chance to receive even more loot.
+
+The reward pool contains everything from valuable resources to extremely powerful equipment, meaning every death has the possibility of giving you something special.
+
+Possible OP Rewards
+
+- Enchanted Netherite Sword
+
+- Enchanted Netherite Pickaxe
+
+- Enchanted Netherite Axe
+
+- Enchanted Netherite Armor
+
+- Powerful Bow
+
+- Enchanted Trident
+
+- Totem of Undying
+
+- Elytra
+
+- Enchanted Golden Apple
+
+- Netherite Ingots
+
+- Diamond Blocks
+
+- Other high-value rewards
+
+How To Use
+
+- Import the addon into Minecraft Bedrock Edition.
+
+- Activate the Behavior Pack in your world.
+
+- Enter the world normally.
+
+- When a player dies, random OP rewards will appear at the death location.
+
+Perfect For
+
+- Survival Worlds
+
+- SMP Servers
+
+- Challenge Worlds
+
+- Multiplayer Survival
+
+- Fun OP Gameplay
+
+- Custom Minecraft Experiences
+
+Important Note
+
+This addon is designed to make player deaths more rewarding and entertaining. Because the rewards can be extremely powerful, it can significantly change normal survival progression.
+
+Credits & Rights
+
+Created by: Baku
+
+Baku. All Rights Reserved.
+
+All credits, ownership and distribution rights for this addon belong to Baku.
+
+Unauthorized re-uploading, redistribution, modification for redistribution, or claiming this addon as your own is not permitted without permission from Baku.
+
+Thank you for downloading and supporting OP Death Drops!

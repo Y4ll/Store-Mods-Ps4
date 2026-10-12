@@ -1,0 +1,46 @@
+More Body Actions + Pick up & Carry with OP HUD
+
+WARNING: Needs Beta APIs to be enabled.
+
+By TNTBROS
+
+Lets you sit and more, with a new HUD! This Minecraft Bedrock addon adds a whole new layer of body actions to your character, plus the ability to pick up and carry other entities, all controlled through a slick custom on-screen HUD.
+
+- To sit, look down and sneak.
+
+- To crawl, walk forwards while sitting.
+
+- To climb, walk up to a wall, look slightly up, then jump.
+
+- To lie down, look up then sneak
+
+- To carry, look at the object/entity, sneak then jump.
+
+Features
+
+- Sit down on blocks, stairs, and slabs
+
+- Crawl, Climb, and other new body poses
+
+- Pick up mobs, players, and blocks and carry them around
+
+- Throw or place down whatever you're carrying
+
+- Custom OP HUD with quick-access buttons for every action
+
+- Fully client-side friendly, works great in survival or roleplay worlds
+
+Installation
+
+- Download the .mcaddon file
+
+- Open it with Minecraft Bedrock installed, it will import automatically
+
+- Create or edit a world and enable the behavior pack and resource pack
+
+- IMPORTANT Make sure "Beta APIs" is turned on in your world settings (Experiments)
+
+Compatibility
+
+Works with the latest Minecraft Bedrock release. May conflict with other addons that modify the HUD or player animations.
+May have a little lag.

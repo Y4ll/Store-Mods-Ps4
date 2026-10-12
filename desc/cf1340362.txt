@@ -1,0 +1,57 @@
+Kaminary Ro Break ADDON'S - The UNIQUE RPG Addon
+
+LOG AVAILABLE IN MULTIPLE LANGUAGES
+For a complete experience, the full update log is also available in Portuguese, Spanish, French, and German on our Discord server. Join us to stay updated and connect with the community!
+Discord: https://discord.gg/HDy25yPXX7
+
+UPDATE LOG
+
+V1.201
+
+- Bug Fixes
+
+V1.2 THE SYNERGY AWAKENING Current Version
+
+- Complete Keishu Integration: All Unique Skills (Wolf Pack, Tricor, Evolution, Condensation, Eyeless Spirit, Distortion) now fully scale with your active Keishu. Fire Keishu adds burning effects to Wolf Pack attacks. Water Keishu provides healing on hit for Tricor threads. Lightning Keishu amplifies area damage for Condensation. Every Keishu now has unique interactions with every Unique Skill!
+
+- Trait System Integration: Your Positive and Negative Traits now directly influence Unique Skill performance. Traits like Soul Eater (+15% Lifesteal) now affect Wolf Pack's lifesteal mechanics. Arcane Mastery (+15% Ability Power) boosts Tricor's damage. Quick Reflexes increases dodge chance during Condensation's absorption.
+
+- Talent Tree Integration: All Talent Tree bonuses now apply to Unique Skills. Damage boosts, area increases, cooldown reductions, and energy cost reductions from talents now properly scale your unique abilities.
+
+- Specialization Synergy: Every Unique Skill now has unique interactions with each Specialization. Warriors get increased damage with Wolf Pack's Feral Claws. Mages gain larger areas with Tricor's Thread Shot. Assassins benefit from faster cooldowns on all unique skills.
+
+- Thread Resonance System (Tricor): New passive ability that detects nearby points and creates damaging resonance fields. When points are within 5 blocks of each other, enemies in the area take continuous damage. Scales with Intelligence and Talent Tree bonuses.
+
+- Wolf Pack Block-Breaking Passive: Wolf Pack now gains energy and XP from breaking specific blocks. Wood gives energy, ore gives XP and energy, and special blocks like spawners grant massive bonuses. The pack's size increases the rewards!
+
+- Enhanced Cooldown Scaling: All Unique Skill cooldowns now benefit from your total combined bonuses from Specializations, Traits, Talents, Keishus, and Ranks. Higher levels reduce cooldowns more significantly.
+
+- Damage Calculation Overhaul: All Unique Skill damage now uses the unified calculateDamageWithAttributes system, properly scaling with Strength, Agility, Intelligence, Toughness, and all combined bonuses.
+
+- Energy Cost Optimization: Unique Skill energy costs are now reduced by your total energy cost reduction bonuses from Traits, Talents, Keishus, and Specializations.
+
+- Moveset Scaling Overhaul (NEW): All Moveset skills (Sovereign Style, Black Pressure, Elemental Emperor, Thunder King) now scale dynamically with:
+
+- Player Level: Higher levels increase base damage and effect durations.
+
+- Strength Attribute: Increases physical damage of melee-based skills.
+
+- Intelligence Attribute: Boosts magical and area-of-effect skills.
+
+- Specialization Bonuses: Each specialization now provides unique multipliers to moveset skills.
+
+- Talent Tree Bonuses: Damage, cooldown, and area bonuses from talents now properly affect moveset skills.
+
+- Skill Points (Power/Efficiency): Power increases damage, Efficiency reduces cooldowns and energy costs.
+
+- Mastery Level: Higher mastery unlocks stronger variants and reduces cooldowns further.
+
+- Moveset Module Restructuring (DEV): The entire Moveset system has been refactored to be modular and extensible, making it significantly easier to add new Movesets in the future. Each Moveset now follows a standardized pattern with clear separation of:
+
+- Configuration: Cooldowns, energy costs, and base damage values are centralized.
+
+- Scaling Logic: Unified functions handle level, attribute, and bonus scaling.
+
+- Particle & Effect Management: Standardized particle spawning and effect application.
+
+- Skill Registration: New skills

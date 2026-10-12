@@ -1,0 +1,24 @@
+Farmer's Cookbook
+
+This addon adds compatibility between Farmer's Delight and Vanilla Cookbook , providing more foods and recipes.
+
+SreenShots
+
+Foods
+
+Food textures come from the Java :Vanilla Cookbook
+
+Cooking Pot Recipes
+
+FAQ
+
+Q: What order should I put this addon in?
+A: Please place it above "Farmer's Delight" and "Vanilla Cookbook" in your addon list.
+
+Q: Why can't I open the cooking pot UI?
+
+A: Same as above
+
+Credits
+
+Special thanks to RositadeRosa for the Brazilian Portuguese (PT-BR) localization

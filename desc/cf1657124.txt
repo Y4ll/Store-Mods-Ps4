@@ -1,0 +1,170 @@
+Bedrock Cinematic Studio v1.3.0
+
+BCS The In-Game Filmmaking Studio for Minecraft Bedrock Edition
+
+Created by GamerBhai
+
+Overview
+
+Bedrock Cinematic Studio (BCS) is an all-in-one filmmaking tool for Minecraft Bedrock Edition
+
+It lets you create Minecraft machinimas, story videos, trailers, action scenes, roleplays, cinematics and shorts without leaving the game.
+
+BCS combines actor recording, NPCs, mob models, cinematic cameras and scene playback into one in-game studio.
+
+Main Features
+
+Multi-Actor Recording
+
+Record multiple characters separately and bring their performances together into one scene.
+
+BCS supports live overdubbing, allowing previously recorded characters to play in the world while you record the next character.
+
+Record actions such as:
+
+- Walking and sprinting
+
+- Sneaking and jumping
+
+- Head movement
+
+- Attacks and arm swings
+
+- Block breaking and placing
+
+- Item usage and drops
+
+- Equipment changes
+
+- Interactions and more
+
+Recordings use 20 TPS precision for smooth playback.
+
+Actor Skins
+
+Give every actor their own skin.
+
+BCS includes 10+ built-in player skins, and each actor can use a different skin without affecting the others.
+
+Skins and poses are also handled independently, so changing an actor's pose will not unexpectedly change their appearance.
+
+NPC Studio
+
+The new Model Wand lets you create and edit NPCs directly in your world.
+
+You can spawn NPCs and customize their:
+
+- Skin and appearance
+
+- Pose and animations
+
+- Health
+
+- Game mode
+
+- Cinematic properties
+
+NPCs can be used alongside players and recorded actors to create larger scenes.
+
+Actor & NPC Health
+
+Actors and NPCs can be configured to behave like normal characters or completely invincible cinematic characters.
+
+Survival Mode allows them to take damage and die.
+
+Creative Mode makes them invincible for scenes where you don't want characters to be affected by combat or the environment.
+
+You can also set custom NPC health from 1 to 100,000 HP.
+
+Cinematic Camera Editor
+
+BCS includes a camera editor with ready-to-use cinematic presets.
+
+Available camera styles include:
+
+- 3rd Person Back
+
+- Follow
+
+- Front Follow
+
+- Orbit
+
+- Over-the-Shoulder
+
+- Close Back
+
+- Wide Drone
+
+- Top-Down
+
+- Face Camera
+
+- Custom Keyframes
+
+You can select a player, actor or NPC as the camera's target.
+
+Follow and Orbit cameras dynamically track the selected character as they move.
+
+Camera Keyframes
+
+Create your own cinematic camera paths using in-world keyframes.
+
+Control:
+
+- Position
+
+- Rotation
+
+- FOV
+
+- Timing
+
+- Easing
+
+Multiple easing options help create smooth camera movements for cinematic shots.
+
+Mob Morph Studio
+
+Turn actors into Minecraft mobs during playback.
+
+Use mobs such as zombies, skeletons, creepers, spiders, villagers, pigs, wolves, golems and many others.
+
+BCS also supports custom entity IDs, allowing modded or custom entities to be used for cinematic characters.
+
+85+ Mob Models
+
+BCS includes a large collection of Minecraft mob models for use with Actors, NPCs and Morphs.
+
+This includes animals, aquatic mobs, hostile mobs, villagers, golems and many other entities.
+
+Villager and Iron Golem models have also been integrated with custom models, animations and textures for better cinematic rendering.
+
+Custom Scene Timing
+
+Set the exact duration of your scene.
+
+If an actor finishes their recording before the scene ends, BCS automatically holds their final position and pose until the scene is finished.
+
+This makes it easier to create longer camera shots without needing to extend every recording.
+
+Improved Animations
+
+Actors now have improved animations for common cinematic actions.
+
+Mining continues smoothly until a block is broken, attacks properly animate the arms, and sneaking has dedicated idle and walking animations.
+
+Animation transitions are blended smoothly to avoid sudden movement or snapping.
+
+Studio Tools
+
+BCS provides several tools for the complete filmmaking workflow:
+
+Tool
+Purpose
+
+Studio Controller
+Opens the main BCS dashboard
+
+Actor Wand
+Crea

@@ -1,0 +1,5 @@
+This mod starts the game in the 'The End' dimension on the end islands. If you die you get teleported back,. though not exactly where you started, but not too far away either.
+
+If you can manage to kill the Ender Dragon and leave you will end up back in the overworld and the game should be fairly straight forward from there.
+
+At the start of the game you are given a helper chest based on the game difficulty with less starting items the harder you make it (peaceful gets the most). Fear not hardcore enthusiasts, in hard mode you get no chest.

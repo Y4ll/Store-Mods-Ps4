@@ -1,0 +1,17 @@
+Ever wanted your leaves to decay faster? Sick of waiting for a stick or an apple to drop from a tree? This quick leaf decay mod will speed up those straggling leaves that just don't seem to want to leave your tree!
+
+Usage
+
+Whenever you cut down a tree, the leaves should all fall within around 5-10 seconds.
+
+<figure class="image"></figure>
+
+Additionally, the tree and leaves drop loot as they normally do. The addon works with all current tree types and biomes.
+
+Compatability
+
+This addon is compatible with any other addon.
+
+Experiments
+
+The addon requires the "Enable Beta APIs" toggle to be flipped on!

@@ -1,0 +1,37 @@
+Hey everyone! Ever get completely lost deep in the Nether, or venture 10,000 blocks from home only to dread the walk back? I really missed the classic Java Edition stasis chambers, so I built an add-on to bring them to Bedrockand honestly, made them even better.
+
+This isn't just a simple teleport command. It uses real Ender Pearl physics and lets you bind a normal fishing rod to your base. The best part? It works across dimensions. You can be exploring an End City, right-click your rod, and boomyou're instantly beamed back to your Overworld base.
+
+Why you'll love it:
+
+Works Anywhere, Literally: Nether, End, or the middle of nowhere. The add-on forces the game to keep your stasis chunk loaded, meaning you can travel as far as you want without the chamber breaking or freezing.
+
+Make As Many As You Want: Want a whole teleport hub? The add-on uses a smart registry system, meaning you and your friends can set up dozens of stasis chambers at the same time without them interfering with each other.
+
+Oops-Proof Security: Accidentally dropped your linked rod? Or died and dropped your items? The second the rod hits the ground, the add-on completely wipes the magical link so nobody else can steal your teleport key or accidentally trigger it.
+
+We all know in java edition if you through a pearl through portal it teleports you there but in bedrock it didn't nothing but not anymore now if you through a pearl through a portal it will teleport you to the other side.
+
+How to use it:
+
+Build a normal stasis chamber (a soul sand water elevator with a trapdoor and a pressure plate next to it).
+
+Throw your Ender Pearl into the bubbling water.
+
+Cast your Fishing Rod bobber directly onto the pressure plate.
+
+Go through nether and walk 30 blocks or more build another nether portal.
+
+Go through second portal.
+
+Go explore! Whenever you want to go home, just right-click your rod to reel it in. The trapdoor will snap shut, the pearl will hit, and you'll be teleported.
+
+And for totem stasis build a normal stasis chamber and right click the pressure plate with totem.
+
+In version 3.1.4 you can type command /toggle if you don't like to change the dimension when setting up the stasis
+
+Made it achievement friendly in the v3
+
+Created by crownbossyt
+
+Join my discord

@@ -1,0 +1,51 @@
+Pet Furniture is an Add-On for Minecraft Bedrock that adds furniture and decorations for various types of animals.
+
+Cat Flaps: In total there are 5 models, from the smallest to the largest, they also have 2 color variants, white and gray.
+
+Doghouses: There are 2 models, one elongated and the other traditional, there are 8 variants for each model, one for each type of wood.
+
+Aviaries: There are 2 models, one large and the other forest style, there are 8 variants for each model, one for each type of wood.
+
+Feeders: Two types of feeders, one red and one blue.
+
+Doors for Cats: Doors for wooden buildings, allowing animals to enter or leave the house.
+
+Barn: It has 8 variants, the type of wood in the game, it is used to store chickens and decorate farms.
+
+Animal Beds: They are beds to decorate the interiors and exteriors of the house, it has 2 variants, one white and the other gray.
+
+These pieces of furniture are designed for decorating homes and parks intended for animal use. For example, it includes cat flaps, dog houses, feeding stations, and more.
+
+The Add-On features a small but well-organized selection of categories. These categories include cat enclosures, outdoor decorations, indoor decorations, etc. Within each category, items are available in different wood variations.
+
+Currently, Pet Furniture does not include many interactive features, except for a few such as dog doors, chicken cages, and parrot cages. However, we plan to add more interactive elements in the future.
+
+In the cat enclosure category, there are two types: prefabricated and modular.
+
+Modular cat enclosures consist of different pieces that allow you to build custom enclosures of all kinds. They are currently available in two colors: white and gray and feature around 12 different modules.
+
+Prefabricated cat enclosures have a unique, pre-built design with one or two floors. Like the modular ones, they also come in white and gray.
+
+Currently, the Add-On is compatible with any other Add-On since it does not use the player.json file. (The player.json file modifies player interfaces and mechanics.)
+
+The Add-On is fully compatible with Minecraft version 1.21.51 and later.
+
+If it requires activating any experimental features in your world, please proceed with caution. Depending on the options enabled, the Add-On may not function correctly.
+
+Creative:
+
+To acquire the furniture in Creative mode, you will find it in the decoration tab of the Creative menu. If you want to obtain it using commands, you will need to type /give @p pf: (then you can add the name of the furniture you want).
+
+Survival:
+
+To create the furniture, you will need clay and a stonecutter. Then, you will need to place the clay in the stonecutter. A list of boxes will appearthis list represents the furniture categories (such as Modular cat enclosures, animal deco, etc.).
+
+You will have to choose a box. Once selected, you will place it back in the stonecutter, and it will display all the available options. From there, it's up to you to decorate!
+
+Support me on Patreon to continue developing my addons!
+
+Share your suggestions for creating better add-ons!
+
+Downloads at TRMC Add-Ons
+
+- Download Pet Furniture.mcaddon

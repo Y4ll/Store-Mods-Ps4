@@ -1,0 +1,103 @@
+Hello everyone! Welcome to my Jujutsu Kaisen addon: World Of Curses! In this update we added Choso!
+
+This mod is PURELY DESIGNED around PvP content. It has PvE, but PvP is the main focus by a long shot.
+Keep this in mind when playing.
+
+THIS ADDON WILL ONLY BE UPLOADED TO MCPEDL, CURSEFORGE AND THE WOC DISCORD! IF IT IS ANYWHERE ELSE, I WAS NOT THE ONE WHO UPLOADED IT!!
+
+PLEASE NOTE: Pretty much every single NPC texture here isn't made by us, they were yoinked from skin sites because those are free use. If you would like your skin taken away from the mod contact me on discord. username: cyredib
+
+------------------------------------------------------------------------------------
+
+Anything confusing to you, or you want to find people to pvp with?
+Join the Discord Server: https://discord.gg/b6svmYkJS3
+
+-->Gameplay & Movesets<--
+
+Multi Moveset Moves
+
+There are some moves that are available to multiple movesets.
+Firstly, the first slot of every moveset will always contain m1s. You can crouch while m1ing someone to give them extra knockback.
+
+Secondly, You can Block by crouching, allowing you to negate some attacks
+
+Third, Black Flashes. You must build up 15 charges to be able to use a black flash, this is done by simply m1ing your opponents. To actually use the Black Flash, hold your m1 item, and right click. You will be put in a black flash state for 3 seconds, during which time m1ing someone again will activate the black flash. After this you are put in The Zone for 10 seconds, during which time if you m1 someone, you will gain double the usual charge.
+
+Fourth and Fifth, Boost and Blocking.
+Boost is a move which grants the user insane mobility for 2 seconds. Think of it like a way better dash.
+These can be accessed by crouching with your cease cursed energy item. You will initially get boost, but you can crouch to swap between them.
+
+There is a third skill in this crouch swap rotation however; the Misc Skills Menu, which contains even more UNLOCKABLE skills for you to use.
+-REVERSE CURSED TECHNIQUE
+-SIMPLE DOMAIN
+-BINDING VOW
+-CURSED ENERGY SENSING
+-TAUNT
+
+These can all be unlocked via defeating various bosses or buying them from the Yuta Okkotsu NPC.
+Toji also possesses these skills but just rebranded to not be cursed techniques, lol
+But instead of Simple Domain he gets Domain Nullification; spam this move and all domain effects will be neutralized.
+
+There are three main moveset types: Blitz (extremely aggro), Combo (focuses on chaining moves together, can be aggro or passive), Ranged (extremely passive)
+
+Now, the actual movesets we have are:
+
+--> Satoru Gojo (Neutral Combo)
+
+--> Ryomen Sukuna (Offensive Blitz)
+
+(needs 20 fingers obtained from finger bearers to obtain)
+
+--> Toji Fushiguro (Offensive Blitz)
+
+(moveset drops from high gojo boss, approach gojo npc with inventory curse to spawn)
+
+--> Kinji Hakari (Neutral Combo)
+
+his domain is super complex, tutorial here [WOC] Idle Death Gamble Rework
+
+--> Yuta Okkotsu (Offensive Combo)
+
+--> Yuji Itadori (Offensive Blitz/Combo)
+
+--> Megumi Fushiguro (Offensive Combo/Ranged / Offensive Blitz in Mahoraga)
+
+--> Mahito (Defensive Combo / Offensive Blitz in ISBODK)
+
+--> Naoya Zen'in (Offensive Blitz)
+
+--> Hajime Kashimo (Offensive Blitz/Ranged)
+
+--> Uraume (Defensive Ranged)
+
+--> Choso (Generalist)
+
+There are also Accessories, armor sets which when worn give you special effects, you can buy them from the Gojo NPC.
+
+- Gojo Set (makes you invisible during your dash)
+
+- Sukuna Set (increases m1 damage)
+
+- Hakari Set (makes your m1s apply slowness)
+
+- Yuji Set (doubles the duration of "The Zone" effect)
+
+- Mahito Set (heals you when you hit a black flash)
+
+- Yuta Set (makes reverse cursed technique heal more)
+
+- Kashimo Set (makes you deal aoe damage to anyone near you during your dash)
+
+We also have some NPCs:
+
+- Satoru Gojo (sells basic items)
+
+- Yuta Okkotsu (sells additional skill items (binding vow, simple domain, etc))
+
+- Finger Bearers
+
+- Jujutsu Sorcerers
+
+- Inventory Curse
+
+And ther

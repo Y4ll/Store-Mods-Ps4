@@ -1,0 +1,147 @@
+Economy & Shops
+
+Latest Version: v1.3
+
+Economy & Shops adds a complete economy system to Minecraft Bedrock, designed for survival worlds, multiplayer servers, roleplay and custom economies.
+
+Manage your money through a banking system, use physical cash, create shops, run your own Player Shop, transfer money between players and manage loans, bills, debts and more.
+
+Money System
+
+- Physical cash system
+
+- Bills from $2 to $500
+
+- Coins
+
+- Wallet system
+
+- Bank Card
+
+- Card variants
+
+- Balance management
+
+- Player-to-player money transfers
+
+- Transaction History
+
+- ATM system
+
+- Deposit and withdraw money
+
+- Break down physical bills
+
+Banking
+
+- Bank accounts
+
+- Bank Cards
+
+- Transaction History
+
+- Money transfers
+
+- Joint Accounts (WIP)
+
+- Joint Account invitations
+
+- Joint Account withdrawals
+
+- Negative balance support
+
+Shops
+
+- Operator-managed Shop blocks
+
+- Player Shop blocks
+
+- Player-controlled stock
+
+- Custom Player Shop product display
+
+- Player Shop model and display system
+
+- Income system
+
+Payments & Cash
+
+- Cash Register
+
+- Physical money
+
+- Bank payments
+
+- Cards
+
+- Coins
+
+- Wallet
+
+- ATM
+
+Loans, Bills & Debt
+
+- Loans
+
+- Bills
+
+- Debt system
+
+- Charges
+
+- Immediate charges
+
+- Scheduled charges
+
+- Recurring charges
+
+- Custom hour and minute for charges
+
+- Server and owner timezone settings
+
+Multiplayer & Administration
+
+- Operator Panel
+
+- Player-to-player transfers
+
+- Joint Accounts
+
+- Offline-player actions
+
+- Economy management tools
+
+- Server-oriented settings
+
+Languages
+
+- Portuguese
+
+- English (US)
+
+- Spanish
+
+Discord Community
+
+Join the official Economy & Shops Discord community to:
+
+- Get updates about the addon
+
+- Follow development and upcoming features
+
+- Report bugs and issues
+
+- Share feedback and suggestions
+
+- Get support
+
+- Talk with other members of the community
+
+- Stay up to date with new releases
+
+Join the community: Aeveix Community
+
+More
+
+Economy & Shops also includes performance optimizations, stability improvements, quality-of-life features and continuous improvements to the overall economy experience.

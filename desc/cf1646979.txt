@@ -1,0 +1,10 @@
+Please Note: This pack is only compatible with game version 26.10 or higher.
+
+This resource pack redesigns onscreen touch controls of Bedrock Edition.
+It replaces the default Ore UI buttons with cleanstyle UI inspired by Minecraft Java Edition.
+
+The Main Feature
+
+2 Variants of Java-Style Touch Control Buttons
+
+*This pack provides "New Default" and "Programmer Art (Classic)" style, you can switch between styles by enabling different subpacks.

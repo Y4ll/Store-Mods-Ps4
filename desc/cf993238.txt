@@ -1,0 +1,175 @@
+Definitive Tree Capitator V4.1 Minecraft Bedrock
+
+Realms Multiplayer Addon Friendly Achievements Friendly
+
+No Experimental Gameplay No player.json
+
+Definitive Tree Capitator
+
+Break one log and chop the whole tree.
+
+Definitive Tree Capitator is made for players who want to speed up wood gathering without making survival feel too broken.
+
+You can keep it simple and use the default settings, or open the configuration book and adjust almost everything: activation mode, tree detection, tree size, chopping speed, durability, leaves, replanting, drops, tree types, custom blocks, custom tools and more.
+
+Main Features
+
+- Chop complete trees by breaking one log
+
+- Achievements friendly
+
+- No experimental gameplay required
+
+- Realms and multiplayer support
+
+- Works with other addons
+
+- Supports custom axes and hatchets
+
+- Does not use player.json
+
+- Multiple tree detection modes
+
+- Automatic replanting
+
+- Instant or progressive chopping
+
+- Configurable axe durability
+
+- Optional leaf breaking
+
+- Nether fungi support
+
+- Bamboo support
+
+- Performance modes for different devices
+
+- Every player can have their own configuration
+
+- World settings for operators
+
+- Drop mode options
+
+- Giant tree safety confirmation
+
+- Tree Preview before chopping
+
+- Custom block rules
+
+- Tool allowlist and blacklist
+
+- Fully translated interface
+
+Latest Update V4.1
+
+V4.1 focuses on control, safety and multiplayer worlds.
+
+The addon still works in a simple way for normal players, but now operators have more control over what players can do in the world.
+
+Main new changes
+
+- Added World Settings for operators
+
+- Added Gameplay & Drops settings
+
+- Added Tree Preview
+
+- Added Drop Mode
+
+- Added Giant Tree Safety
+
+- Added world control for Connected Blocks mode
+
+- Added world control for Custom Block Rules
+
+- Added world control for Custom Tool Rules
+
+- Added world control for Auto Collect
+
+- Added option to lock personal configuration
+
+- Added maximum world tree range limit
+
+- Improved actionbar summaries
+
+- Improved information pages inside the configuration book
+
+- Improved safety for large trees and big addon trees
+
+World Settings
+
+World Settings are made for hosts and operators.
+
+They let you control the main rules of the addon for the whole world, while players can still keep their personal settings if you allow it.
+
+World settings include:
+
+- Enable Tree Capitator in this world
+
+- Maximum tree search range
+
+- Allow Connected Blocks mode
+
+- Allow custom block rules
+
+- Allow custom tool rules
+
+- Allow Auto Collect
+
+- Allow players to change personal settings
+
+This is useful for Realms, servers and addon packs where you do not want every player changing things too freely.
+
+For example, you can allow normal tree chopping, but block Connected Blocks mode if you are worried about wooden builds or giant custom structures.
+
+Gameplay & Drops
+
+V4.1 adds a separate Gameplay section for things that affect how the tree operation feels after detection.
+
+Drop Mode
+
+You can choose how the drops behave when Tree Capitator breaks a tree:
+
+- Vanilla Drops blocks drop where they are broken.
+
+- Gather at Tree Base drops are moved to the base of the tree.
+
+- Auto Collect drops are gathered at the base and then added to the player's inventory when possible.
+
+If Auto Collect is disabled by the world settings, the addon falls back to Gather at Tree Base.
+
+Tree Preview
+
+Tree Preview shows what the addon detected before chopping.
+
+It can show information like:
+
+- Logs detected
+
+- Leaves detected
+
+- Estimated durability cost
+
+- If the target is not a valid tree
+
+- If the tree is considered large
+
+This helps avoid mistakes before chopping something huge.
+
+Giant Tree Safety
+
+Giant Tree Safety helps protect worlds from accidentally processing massive trees.
+
+You can choose when the addon should ask for confirmation:
+
+- Disabled
+
+- 500+ logs
+
+- 1,000+ logs
+
+- 1,500+ logs
+
+When a large tree is detected, you need to break another log within a short time to confirm.
+
+This is useful for jungle

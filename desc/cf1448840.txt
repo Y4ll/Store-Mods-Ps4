@@ -1,0 +1,89 @@
+The Advanced Tactical Gear Minecraft add-on brings a modern military aesthetic to player gear while maintaining a Minecraft style. This add-on focuses on individual operator gear, not vehicles or heavy weapons.
+
+DETAILED ARMOR
+
+Advance tactical has armor with good 3d model details with simple textures to keep vanilla Minecraft
+
+VARIOUS TYPE OF ARMOR
+
+Advance Tactical Gear has various types of armor to meet various types of missions ranging from light plate carriers to heavy full body armor, from light helmets to helmets with ballistic face shields.
+
+SURVIVAL FRIENDLY
+
+All armor and item can be crafted in survival Minecraft with just vanilla item. Make sure to have a lot of iron because it's the main material for a lot of armor
+
+Helmet :
+
+- Ops Core Fast with GPNVG18
+
+- Mich with Ballistic Face Shield
+
+- Crye Airframe with PVS-31
+
+- Crye Airframe with Chops
+
+- LShZ-2DTM v1
+
+- LShZ-2DTM v2
+
+Armor :
+
+- Cyre Precision JPC 2.0
+
+- Militech HG2 Full Body Armor
+
+- Ace Link Armor Skeletac Plate Carrier
+
+- 6b13 EMR
+
+- 6b13 Killa version
+
+- Defender 2 Emerald
+
+Other :
+
+- Ops Core AMP
+
+- M50 Gasmask
+
+- Goggles
+
+- Half Ghillie Suit
+
+- Spartan Face Mask
+
+Camo :
+
+- Black
+
+- Desert
+
+- Jungle
+
+Item :
+
+- Image intensifier Tube ( base item for making NVG)
+
+- GPNVG18
+
+- PVS-31
+
+- Armor plate
+
+- Hook ( for making the up version of ops core fast Gpnvg18)
+
+Texture :
+
+- Vant-VM Shield (as Minecraft shield)
+
+Tips :
+
+You can make unused/up version of night vision and face shield by place it into crafting table or in the inventory
+
+All armor are can be crafted in survival
+
+V1.1.4 UPDATE :
+
+There's no suit or uniform in this addon what you see in the picture is my personal skin maybe I'll add it in upcoming updates or make a skinpack for it
+
+the gun on the picture is my model and there's no mod for it

@@ -1,0 +1,49 @@
+Paradise.jar
+
+Inspired by Wonderland.jar
+
+Paradise.jar is a Minecraft Bedrock horror add-on that turns your world into a strange, unstable survival experience. Step into corrupted dimensions, survive stalking entities, manage your flashlight, and escape places that feel like they were never meant to exist.
+
+Join our discord: https://discord.gg/K5j5Y95tfn
+
+Enter the Backrooms of Paradise
+
+Paradise.jar adds multiple custom horror dimensions, each with its own atmosphere, dangers, and escape rules. You may find yourself lost in yellow halls, endless staircases, burning roads, dark catacombs, impossible libraries, and other distorted spaces.
+
+Every dimension is designed to feel unsafe. Some spaces trap you. Some punish movement. Some hide exits behind puzzles, sound cues, or environmental clues.
+
+The Watcher Is Always Near
+
+A scripted horror entity stalks the player throughout the experience. It reacts to behavior, pressure, noise, and tension. The longer you survive, the more unstable the world becomes.
+
+You are not just exploring. You are being observed.
+
+Features
+
+- Custom horror dimensions
+
+- Scripted stalker and Watcher behavior
+
+- Dynamic scares and random events
+
+- Working flashlight system
+
+- Battery and flicker mechanics
+
+- VHS-style visual effects
+
+- Custom ambience and horror sounds
+
+- Fog-based atmosphere options
+
+- Hidden exits and escape mechanics
+
+- Dimension-based traps and puzzles
+
+- Survival-focused horror gameplay
+
+Explore, Survive, Escape
+
+Paradise.jar is built for players who enjoy atmospheric horror, liminal spaces, survival pressure, and mystery-based exploration. Bring a flashlight, listen closely, and do not trust every safe room.
+
+Something is watching.

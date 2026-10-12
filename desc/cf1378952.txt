@@ -1,0 +1,19 @@
+Clear Lava resource pack is a simple yet essential tool designed to entirely eliminate the lava fog effect in Minecraft Bedrock Edition.
+
+Features
+
+- Fog Removal: Say goodbye to the blindness caused by vanilla lava fog.
+
+- Nether Navigation: Easily spot landmarks, ancient debris, and structures in lava oceans.
+
+- PvP/PvE Advantage: Gain a massive tactical edge against mobs and other players.
+
+Installation Guide
+
+- Download the .mcpack file from the CurseForge download page.
+
+- Open the .mcpack file to automatically import it into Minecraft Bedrock.
+
+- Go to Settings -> Global Resources or access your World Settings.
+
+- Activate the "Clear Lava" pack and ensure it is placed at the top of your resource pack list for maximum compatibility.

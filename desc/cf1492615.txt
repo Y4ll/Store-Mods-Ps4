@@ -1,0 +1,241 @@
+The add-on (I heard it too) based on the horror film is now finally here!
+
+- A huge amount of features has been added!
+
+- NEW events, separate modes,and many more!
+
+- This add-on doesn't need experimental
+
+- This add-on only works 1.21.70 and above
+
+- Achievement friendly
+
+- Multiplayer friendly
+
+- Supports (Crafting and building)
+
+-
+
+UPDATES
+
+Version 1.7
+
+- Added multi language support for custom items, it automatically translates depending on your language setting in Minecraft menu.
+
+Supported languages:
+
+English (United States)
+
+English (United Kingdom)
+
+Francais
+
+Deutsch
+
+Espanol (Espana)
+
+Espanol (Mexico)
+
+Italiano
+
+Portugues (Portugal)
+
+Portugues (Brasil)
+
+Nederlands
+
+Polski
+
+Turkce
+
+Cestina
+
+Magyar
+
+Svenska
+
+Dansk
+
+Norsk (Bokmal)
+
+Suomi
+
+Romana
+
+Bahasa Indonesia
+
+Tieng Viet
+
+Version 1.6
+
+- Fixed the missing texture when attacking or chasing
+
+-
+
+- Fixed entities that should despawn after a certain amount of time
+
+- Abnormal limbs can now be killed without using the portable saw
+
+-
+
+Version 1.5
+
+- Fixed the portable saw, walkie talkie and speaker that doesn't activate when being placed.
+
+-
+
+Version 1.4
+
+- Fixed missing texture when maternal wraith is in chasing mode.
+
+NEW DARKNESS LEVEL MECHANIC
+
+The darkness level is a new spawn mechanic, it's a hidden level that the entity can only detect, it targets players that usually spends their time in the darkness a lot.
+
+- Fixed the Morph suddenly getting TP
+
+- Added more improvements for various mechanics of the entity
+
+- Fixed the recipe for the Universal motherboard
+
+- Dual mini Speaker is now craftable to easily craft speakers
+
+SETTINGS AND APPS
+
+THE ADD-ON INCLUDES 2 SEPARATE MODES
+
+IN-GAME SCREENSHOTS
+
+NEW ITEMS AND TOOLS
+
+- Make sure to read the descriptions and guide book to learn what these can do!
+
+CRAFTING RECIPES
+
+- Battery
+
+Can be used to craft various devices
+
+- Dual mini Speaker
+
+Used to craft a speaker
+
+- Universal Motherboard
+
+Required to craft various machines
+
+- Portable Saw
+
+Can be used to (Saw) the abnormal corpses/body parts that the entity dismantles.
+
+Also drops useful loots.
+
+- Powerbank
+
+Can be used to recharge your phone's flash only if it's fully empty.
+
+- Mobile Phone
+
+Just in case you lost it, you can always craft another except that it's quite resourceful to craft another.
+
+So don't loose it!
+
+- Speaker
+
+A very useful device that distracts the entity instantly due to its very sensitive sounds which only affects the entity.
+
+- Walkie-talkie
+
+This isn't for calling but rather a device that lets you detect the entity nearby.
+
+It plays a static sound if none was detected,it also plays a very weird noise from the entity if it's nearby.
+
+HOW TO PLACE THE DEVICES
+
+HOW ITS ADAPTATION WORKS
+
+THE MATERNAL WRAITH
+
+- The different skins indicates the damage it has taken like iron golems
+
+WATCH THE TRAILERS
+
+Gameplay Vids and Clips
+
+Scroll down to see
+
+how the entity functions.
+
+DISCORD SERVER
+
+https://discord.gg/qgx9hjxMe6
+
+Spoilers ahead!
+
+- Where does it spawn?
+
+(The entity spawns everywhere
+
+except for dessert,ocean,caves,icy biomes
+
+and mountains but of course
+
+not in the end or nether.
+
+Try the forest or jungle.)
+
+- How does it function?
+
+(This is a progressive horror
+
+add-on and the entity that lurks
+
+is called the maternal wraith,
+
+the entity isn't exactly smart
+
+but it has a huge capability
+
+of adapting to certain attacks
+
+or environments)
+
+- How its adaptation works?
+
+(The entity can adapt but
+
+it's limited to what it can adapt to,
+
+when adapting the entity will
+
+dismantle itself for its new
+
+body to grow then roams
+
+again.. How it adapts is simple, example
+
+is attacking it using arrows afterwards it will then
+
+adapt to that attack making itself immune
+
+to the same attack.)
+
+- Does it have a weakness?
+
+(Yes, the entity may have a
+
+unique ability but it doesn't
+
+mean it cannot be killed.
+
+The phone that you received
+
+have an app called (Flash),
+
+upon activating the flash the
+
+entity will slow down for a bit
+
+and then it will cancel out
+
+its ability to 

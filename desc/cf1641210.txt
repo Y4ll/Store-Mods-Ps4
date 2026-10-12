@@ -1,0 +1,33 @@
+Whats up guys Racing Raftaar back again. Today i am bringing you something that will completely change how you play survival minecraft. Vanilla survival gets a bit boring when you max out your gear. You get netherite and then there is literally nothing else to do. I always loved RPG games where your character actually grows and gets stronger over time. So i spent a lot of time coding the RR RPG Stats addon. This addon adds a full leveling and skill tree system directly into your game. You literally turn your minecraft character into a RPG hero that gets more powerful the more you play.
+
+How the Leveling and XP Works
+
+You dont level up by just collecting green xp orbs from furnaces or mob spawners anymore. I coded a completely custom XP system. You get this custom XP by actually playing the game naturally. When you mine basic blocks like stone or dirt you get 1 XP.
+
+If you chop wood you get 2 XP. But if you mine valuable ores or deepslate you get 3 XP. Combat is also highly rewarded. Killing passive mobs gives 2 XP but hunting hostile monsters like zombies, creepers or endermen gives you 5 XP per kill.
+
+As you collect this XP, you will level up. The leveling scales up perfectly so it takes more effort as you get stronger. Level 1 to 2 needs 150 XP, the next one needs 250 XP and it keeps going up. Every time you level up, you hear a massive level up sound, a totem particle pops on your screen and you earn 1 Skill Point.
+
+Skill Points and Skill Tree
+
+Now what do you do with these Skill Points? This is definitely the best part of the addon. You can spend your SP to permanently upgrade your character. I added five different skills you can upgrade depending on your playstyle.
+
+First is Vitality. You can upgrade this up to 10 times. Every single point gives you 2 extra permanent hearts. So if you max it out you literally have 20 extra hearts on your health bar. You basically become a walking tank.
+
+Second is Strength. You can upgrade this 5 times. Each point gives you a permanent strength effect level. Maxing this out means you hit like a truck even if you are just punching with your bare hands.
+
+Third is Swiftness. Max level is 3. This gives you permanent speed boosts so you can run across the world super fast without ever needing to brew swiftness potions.
+
+Fourth is Defense. You can upgrade this 3 times to get permanent Resistance effects. This is super helpful against random creeper explosions or if you accidentally take fall damage in caves.
+
+And the last one is Crit Chance. This is my personal favorite. You can upgrade it 5 times. Each point gives you a 5 percent chance to land a critical hit. At max level you have a 25 percent chance on every single hit to do massive bonus damage. When a crit hits, you hear a punchy sound and see critical hit particles explode on the enemy.
+
+The Custom UI Menu and HUD
+
+To manage all these crazy stats you dont need to type any boring commands in the chat. I built a very clean UI menu. All you have to do is hold a normal book in your hand and sneak. This instantly opens the RPG Stats menu on your screen. Here you can see your current level, your exact XP progress bar and how many Skill Points you have left.
+
+You just click on the skill you want to upgrade and it applies instantly with a happy villager particle. I also added a live HUD on your action bar. It always shows your current level, an XP progress bar, your available SP and your current combat stats. It updates automatically every 2 seconds so you always know your progress while mining or fighting.
+
+How to Apply in Minecraft
+
+Installing this addon is very easy. First you need to download the addon file from the link below. Then you just tap on the file and it will automatically open and import into your minecraft game. After it says import successful on the top of your screen, go to your world settings. Click on behavior packs and activate the RR RPG Stats addon. Make sure it is at the very top of the list if you are using other addons so

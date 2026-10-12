@@ -1,0 +1,13 @@
+Never lose items on death again! Let your Gravestone hold them for you until you return. Now with Void protection!
+
+When you die a Gravestone will appear in your place, collecting all your items and half your XP for you.
+
+You will be given a Grave Finder that will tell you the Cords of your Gravestone in any Dimention.
+
+When you find your Gravestone, only you can access it, the Compass will give removed from your inventory.
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on
+
+100% Achievement Compatible

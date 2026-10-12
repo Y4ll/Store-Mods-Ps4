@@ -1,0 +1,66 @@
+One addon, every tool you actually need. World Utilities packs 9 powerful utilities into a single clean menu teleportation, waypoints, weather, time, tool repair, auto collect, flight, and smart mining features. All accessible from one item, no cheats required.
+
+What's Included
+
+- Waypoints save any location with a custom name and teleport back anytime, even across dimensions
+
+- Teleport Menu teleport to coordinates, to other players, bring players to you, or browse your full TP history (last 20 locations)
+
+- Teleport to Last Death instantly return to where you last died, across any dimension
+
+- Weather Control set Clear, Rain, or Thunderstorm instantly from the menu
+
+- Time Control jump to Day, Noon, Sunset, Night, Midnight, or Sunrise in one tap
+
+- Tool Repairer repair any damaged tool or armor piece instantly, one by one or all at once
+
+- Auto Collect automatically pull item drops into your inventory within range; toggle Ores, Crops, Logs, or build a custom list
+
+- Flight Feather a craftable item that launches you into the air with right-click and glides you safely down
+
+- Connected Glass all glass types automatically connect seamlessly when placed next to each other
+
+Feature Settings (Toggleable)
+
+- Tree Capacitor axe fells the entire tree in one break
+
+- Vein Miner pickaxe mines entire ore veins at once with Fortune support
+
+- Grid Miner pickaxe area-mines in a 33 to 99 grid (adjustable)
+
+- Offhand Torch dynamic light from any light-emitting item in hand or offhand
+
+- Auto Totem automatically equips a Totem of Undying to your offhand when available
+
+- Harvest Hoe any hoe harvests and replants an entire crop patch at once
+
+- Auto Smelt & Cook all raw ores and food automatically smelt the moment they drop, world-wide
+
+Commands
+
+- /wu:menu or /wu:m open the main World Utilities menu
+
+- /wu:get get the menu item and Flight Feather directly
+
+- /wu:waypoints open your waypoints list
+
+- /wu:teleport open the teleport menu
+
+- /wu:back teleport to your last death location
+
+- /wu:weather open the weather menu
+
+- /wu:time open the time menu
+
+- /wu:repair open the tool repairer
+
+- /wu:settings open feature toggles
+
+How to Use
+
+PC: Right-click the World Utilities menu item to open, or type any /wu: command in chat.
+Mobile: Hold screen with the menu item to open, or type any /wu: command in chat.
+
+Achievement Friendly?
+
+Yes fully achievement friendly. Use it without any worries.

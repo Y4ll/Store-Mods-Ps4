@@ -1,0 +1,87 @@
+v1.5 Patch Update Info
+
+- We bribed the bugs so they don't bother our add-on again... Hopefully
+
+- Added credits menu in the secret menu, so you can support and see other creators you know (seriously you need to know what our role here about this project lol)
+
+- Buffed Sans when he's fighting a mob; he is now stronger! Just like you guys asked :D
+
+- Buffed Undyne when fighting mobs also.
+
+- Now supports Vibrant Visuals.
+
+- Added Pluey secret...
+
+- Updated Undyne and Sans info please read them.
+
+- They can now spawn naturally in survival world (read the new info).
+
+- Added Papyrus (W.I.P.). You can try him out by typing this command in chat: /summon vj:papyrus
+
+Also one more things...
+
+HAPPY 10 YEARS UNDERTALE!!!
+
+Note
+
+You are not allowed to re-upload the files and assets to other websites, and you are not allowed to port this to Minecraft Java WITHOUT my permission
+
+Undertale Blockynovella brings Undertale characters and an original story to Minecraft, letting you interact with monsters, face bosses, and make choices that matter.
+
+About the Add-on
+
+Undertale Blockynovella not only brings your beloved characters from Undertale, but also adds an original story which explains why they're in the beautiful cubic world of Minecraft.
+
+Taking place in 202X, the humans and monsters finally live in harmony thanks to a human child! But not all humans are fond of that harmony as half of them are ready to use their axes, bows, and sorcery not only to take down the humans that live with the monsters, but to try bringing them back to the underground where they think they belong.
+
+UNDERTALE-Style Actions
+
+You can SPARE and FIGHT your way out! Maybe your choices matter?
+
+We shall see...
+
+SPOILERS AHEAD!!! if you want to play the add-on blindly(recommended btw) but you can read the info if you want to get straight into the point
+
+Undyne The Spear of JUSTICE (info)
+
+Undyne The Spear of JUSTICE
+
+Undyne is the leader of the newly formed Royal Guard, aiming to protect the villages from the illagers and the undead.
+
+Not only does she have her spear magic, but she now has a trident as well! She got it from a Drowned that tried dragging her down when she was sitting beside a lake. She uses it a lot in combat, and since it has the loyalty enchantment, she also uses it to grab her enemies from afar! She grabbed things from afar with it too when feeling lazy but she rarely does that now since it caused a lot of destruction back then (and that said destruction was breaking Sans' new chair which was just a brick that he sits on).
+
+Undyne's Stats
+
+- Health: 500
+
+- Attack: 10
+
+- Defense: 2
+
+- Chance of spawning: Rare
+
+- Where she spawns: Spruce Forest and near Sculk Cave (she visits there to feel nostalgic because Sculk Caves looks like Waterfall)
+
+- Can only spawn once; if you spare her she'll be back
+
+Note: You can't be-friends with them yet; we will add this feature soon.
+
+Hunting Phase
+
+"HEY, YOU, RIGHT THERE!"
+
+This is her phase when she's first spawned. She has Warden-like hearing and will attack zombies, illagers, and players that she hears and spots.
+
+She is invulnerable in this phase. Illagers and zombies will try to take her down with anything they have just to ultimately fail. She is also after you for a reason...
+
+Your only option is to HIDE and RUN. You can hide behind walls or in the tallgrass, and be quiet.
+
+There is another option however, if you are brave enough...
+
+To beat her you have to make her miss when she throws her Trident. After that you will see that little sword icon on top of her; when you see it ATTACK HER AS FAST AS YOU CAN. You have to hit her 10 times until she reaches her BOSS FIGHT PHASE. No need to worry about damage, just hit her 10 times.
+
+Hunting Phase Abilities
+
+- Spear Attack: Spears spawn in the air and aim at you. You can dodge them. When hit, it will cast Raining Spears, which are hard to avoid but possible.
+
+- Spear Floor Attack: Spears spawn on the floor. The attack is not too hard to avoid, so have fast reactio

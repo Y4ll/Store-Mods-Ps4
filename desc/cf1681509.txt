@@ -1,0 +1,51 @@
+Step into the darkness. The Warden Dimension is a massive underground world hidden beneath the Deep Dark filled with glowing Warden Trees, ancient ruins, new mobs, unique gear and a terrifying boss waiting to be awakened.
+
+Important
+
+This addon requires Beta APIs to be enabled in your world settings. Go to World Settings > Experiments and turn on Beta APIs. Nothing in this addon will work without it.
+
+How to Enter
+
+Find the Deep Dark biome and look for a sculk stone gateway. Right click the frame with an Echo Shard or Flient & Steel and walk through. You can also build your own frame using Sculk Stone if you cannot find one naturally.
+
+How to Get Out
+
+Use the portal inside the dimension to return home. Or dig through the world floor it is deepslate down there, not bedrock and fall back out into your own sky.
+
+What Is Down There
+
+- A vast roofed cavern filled with glowing Warden Trees
+
+- Ruins with loot chests waiting to be found
+
+- Echo Ore a new ore unique to this dimension
+
+- Sculk animals and Sculk Villagers living in the dark
+
+- Glowing lamps scattered across the cavern floor
+
+Echo Gear
+
+Diamond level protection and a unique perk mobs in this dimension will ignore you while you wear the full Echo set.
+
+Warden Gear
+
+- Sonic Beam Sword fires a sonic beam at enemies
+
+- Warden Armour detailed 3D armour set
+
+- Wearing the full set unlocks powerful bonus effects
+
+Warden Heart
+
+The Warden Heart is obtained only through crafting or found inside loot chests in the dimension.
+
+How to Summon the Boss
+
+- Craft the Heart of the Warden
+
+- Find a boss arena inside the dimension
+
+- Right click the altar to charge it
+
+- Right click again and the boss climbs out

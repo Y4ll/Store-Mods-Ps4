@@ -1,0 +1,137 @@
+Full description:
+
+When you create a new Minecraft world, the world's environment will change completely. Vanilla zombies and skeletons will be removed and replaced by the zombies added by this add-on.
+
+Fog will be generated in the world, preventing you from seeing enemies from afar.
+
+During rainy weather, there is a 5% chance of a storm occurring, which will cause thick fog and slow the player's movement when exposed to the storm.
+
+The appearance of the storm will depend on the biome you are in.
+
+Vehicles:
+
+Vehicles such as cars and motorcycles will be generated throughout the Minecraft world. All vehicles will need fuel, so interact with a vehicle that has no fuel using a gas can. You can get fuel at a gas station or in a supply box.
+
+Blowtorch:
+
+With the blowtorch, you can repair damaged vehicles. To do so, interact with a vehicle while holding the blowtorch. Use this recipe to obtain the blowtorch.
+
+Structures:
+
+New structures will be generated naturally throughout the Minecraft world:
+
+- Gas station
+
+- Latveria
+
+- Temple of Khonshu
+
+- Medieval castle
+
+- Cabins
+
+- Vibranium Ore
+
+- Scrap metal
+
+- DarkHold Castle
+
+- The raft
+
+- Wild West Towns
+
+Enemies:
+
+Some zombies will appear during the first three days, but only at night or in dark places. After three days, zombies will begin to appear during the day, and at night, new, more lethal zombies will begin to appear.
+
+Basic enemies:
+
+- Zombies
+
+- Zombies Skrulls
+
+- Mummies
+
+- Zombiotes
+
+- Skeletons
+
+- Talokan Zombies
+
+- Zombies Cowboys
+
+Super zombies:
+
+- Zombie Iron Man
+
+- Zombie Captain America
+
+- Zombie Wolverine
+
+- Zombie Hulk
+
+- Evil Ash Williams
+
+- Zombie Hawkeye
+
+- Zombie Doctor Strange
+
+- Zombie Cyclops
+
+- Zombie Mysterio
+
+- Zombie Spider-Ham
+
+- Zombie Spider-Man & Zombie Spider-Woman
+
+- Zombie Squirrel Girl & Squirrel
+
+- Zombie Wasp
+
+- The queen of the dead.
+
+- Zombie Namor
+
+- Zombie Abomination
+
+- Zombie Thanos
+
+Create your base:
+
+You can create your own base as a shelter to prevent zombies from approaching or spawning within the area. To do this, you must create the base point:
+
+Place the base point on the ground, then interact with it to level up:
+
+You will need materials in your inventory to level up.
+
+<button class="BsdQ3" type="button" data-hook="image-expand-button" aria-label="Expand image"></button>
+
+</figure>
+
+When you start leveling up, survivors will begin to spawn, and you can recruit them using the Avengers card.
+
+To obtain the Avengers card, use this recipe:
+
+After recruiting the survivor, you can interact with them to talk, give them a job, or have them follow you wherever you go. To interact, press the crouch button and interact with the survivor.
+
+When you give it a task, you will have to wait about 5 minutes for it to finish. It will notify you when it is done. You can cancel by interacting with it.
+
+If you have finished your work, return to the survivor, interact with him, and he will give you the items he has collected according to his work.
+
+If you order them not to follow you, you can only interact with them (without crouching) to trade for unique items. Also, if they don't follow you, they will start patrolling the area, and at night they will go looking for a bed to sleep in.
+
+Continue leveling up your base to unlock more survivors, each of whom will sell you different items, powers, and weapons.
+
+When you level up, zombies will not spawn in your base, and if a zombie tries to approach, it will freeze. This will depend on the level of your base, for which you will also need the Mind Gem, which can be obtained from yellow supply crates or by defeating the Queens of the Dead.
+
+Levels:
+
+- Level 5: No zombies will spawn within a radius of 40 blocks.
+
+- Level 7: Zombies will not spawn within a radius of 55 blocks.
+
+- Level 10 (Final): Zombies will not spawn within a radius of 80 blocks.
+
+When a survivor has fallen and is incapacitated, you must give them a first aid kit or bandages to revive them.
+
+If you fail to revive him, he will die instantly un

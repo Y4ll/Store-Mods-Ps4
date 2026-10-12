@@ -1,0 +1,169 @@
+How does Blockball Ultimate work?
+
+Blockball Ultimate transforms Minecraft into a completely dynamic and realistic soccer experience. The ball isn't just a simple object: it's a physical entity that reacts to the player's movement, creating an authentic sense of control and gameplay.
+
+TRAILER UPDATE
+
+BLOCKBALL ULTIMATE SOCCER UPDATE! AI GOALKEEPERS, PLAYERS & MORE!
+
+BLOCKBALL ULTIMATE SOCCER - MAJOR UPDATE
+
+Get ready for the most realistic soccer experience ever in Minecraft!
+
+NEW AI GOALKEEPERS
+Watch goalkeepers make incredible saves, react intelligently to shots, dive for the ball, and protect the goal like real professionals.
+
+NEW AI SOCCER PLAYERS
+Players now move around the field, support attacks, create plays, and make matches feel more alive than ever before.
+
+PLAYABLE UNIFORMS & KITS
+Equip your favorite national team and club uniforms. Become a true soccer star and represent your team on the field!
+
+MORE IMMERSIVE GAMEPLAY
+Experience improved matches, better animations, smarter AI behavior, and a much more realistic football atmosphere.
+
+NEW BALLS
+Play with multiple soccer balls inspired by legendary tournaments and iconic football moments.
+
+EPIC STADIUMS
+Compete in amazing stadiums designed to bring the excitement of world-class football to Minecraft.
+
+PLAY SOLO OR WITH FRIENDS
+Create your own tournaments, World Cup matches, Champions League battles, and unforgettable football moments.
+
+And this is just the beginning! More teams, players, animations, stadiums, tournaments, and features are coming in future updates.
+
+Download Blockball Ultimate Soccer and bring the beautiful game to Minecraft!
+
+TRAILER
+
+BALL CONTROL (Automatic Dribbling)
+
+When the player approaches the ball:
+
+The ball automatically sticks to their feet.
+It dynamically adjusts its position based on:
+Camera direction
+Player speed
+Actual movement (walking, running, jumping)
+
+The ball isn't static; instead:
+
+It moves forward when you run.
+It adjusts if you move slowly.
+It rises if you're in the air.
+
+This creates a realistic dribbling feel.
+
+MOVEMENT AND PHYSICS
+
+The system detects:
+
+Player speed
+Direction of movement
+Whether they are moving forward or backward
+If you move backward:
+You gradually lose control.
+After a certain distance you lose the ball.
+If the ball is floating:
+
+(e.g., you're in the air or on an edge)
+After A few seconds you automatically lose the ball
+DRIBBLING (plays with crouching)
+
+When the player crouches (sneak):
+
+Dribbing animations are activated
+Progressive effects are generated:
+
+Speed
+Jump
+
+The more dribbles you do in a row:
+
+The stronger the effects become
+The faster and more agile you are
+
+This allows you to:
+
+Perform feints
+Quick changes of direction
+Technical plays
+
+CONTROLLING ACTIONS WITH CROUCHING
+
+The system uses crouching as the primary control:
+
+1. Normal crouch (hold)
+
+Activates dribbling
+
+2. Quick crouch (double tap)
+
+Activates shooting mode
+
+SHOOTING MODE
+
+When you activate shooting mode:
+
+The player enters a shooting position
+They no longer control the ball while it's close to them
+
+When approaching the Ball:
+
+Executes shooting animation
+The ball receives realistic physical force
+SHOT TYPES
+
+The system differentiates between:
+
+Short Pass
+If you are stationary or slow
+Low power
+Ball is controlled
+Normal Shot
+If you are running
+More power
+High trajectory
+Super Shot
+If you run well aligned with the ball
+Or by probability
+Much more power and height
+
+The ball uses realistic physics (momentum), not simple teleportation
+
+PASSES
+
+No separate button:
+
+The pass depends on:
+Speed
+Camera direction
+
+You look towards a teammate you pass
+You run and shoot powerful shot
+
+HANDBALL FOULS
+
+If the player hits the ball with their hand:
+
+It is automatically detected
+A Missing:
+Message: FOUL! HAND BALL!
+
+Special Sound
+The ball rises
+
+Additionally:
+
+The player experiences temporary slowness
+The action is penalized
+
+Only occurs if you have nothing in your hand (clean hand)
+
+STEALS AND DISPUTES
+
+When two players are close:
+
+If both move:
+A d

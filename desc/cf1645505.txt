@@ -1,0 +1,29 @@
+Want to enjoy a clean, modern, and completely unobstructed view in Minecraft? This resource pack is designed to optimize your graphics by removing the thick borders and lines from all glass blocks and panes, making them seamlessly borderless and fully transparent.
+
+Perfect for modern builds, large skyscrapers, or simply improving your overall field of view!
+
+BEFORE VS AFTER COMPARING:
+
+BEFORE (VANILLA THICK BORDERS):
+
+AFTER (CLEAN BORDERLESS GLASS):
+
+KEY FEATURES:
+
+Borderless Normal Glass: Removes the borders and noise from standard glass blocks and panes, making them completely clean and borderless.
+
+Clear Colored Glass: Applies the borderless effect to all 16 colors of stained glass blocks and panes, maintaining the vibrant tint while maximizing visibility.
+
+Borderless Tinted Glass: Optimizes tinted glass blocks, letting you block light while enjoying a clear, edge-free view.
+
+Seamless Connected Look: Makes large window structures and glass walls look continuous and professional, perfect for architectural builds.
+
+No Lag Performance: Optimized texture files with zero redundant code or comments, ensuring fast loading and stable FPS.
+
+If you want to share the texture, be sure to send the MCPEDL or CURSEFORGE texture link.
+You can also find this content on the official ADDONS UNIVERSE App!
+Remember, this content is strictly exclusive to these 3 platforms.
+
+Thanks and have fun! :D
+
+|- Download Other Incredible Textures: HERE -|

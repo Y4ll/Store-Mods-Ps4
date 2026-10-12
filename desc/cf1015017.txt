@@ -1,0 +1,43 @@
+This addon allows players to craft or collect Teleport Stones for fast travel between locations, making exploration easier with custom waypoints and instant teleportation
+
+Check this video
+
+for better better understand
+
+https://youtu.be/iHklavdhKDI
+
+|||Free to use in Modpack, Map, YT Video, just give me creadit|||
+
+How to Use:
+
+- Craft a Teleport Stone Use the given recipe to create a teleport stone.
+
+- Set a Teleport Point Click the stone and enter a name to save the location.
+
+- Teleport Use the stone again to instantly return to the saved location.
+
+- Multiple Stones Craft and use multiple stones to set different teleport points.
+
+Note: Teleport Stones are rare but can be collected!
+
+UPDATE:
+
+Item Scroll Instantly bring your dropped items from your death spot to your inventory!
+Grave Scroll Teleport directly to your last death location!
+Teleport Stone Shears Uncraft variant stones (like Copper) back into the normal Teleport Stone!
+
+Change Texture of teleport Stone
+
+Added teleport through one dimension to another dimension system.
+
+Added public & private systems for multiplayer.
+
+Improve UI, now you can see location type.
+
+Crafting Recipes:
+
+Teleport Stone | Teleport Compass
+
+If you can't understand, just check my YT video:
+
+https://youtu.be/iHklavdhKDI

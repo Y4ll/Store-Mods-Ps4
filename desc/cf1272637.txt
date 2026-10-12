@@ -1,0 +1,113 @@
+<mark class="marker-yellow"></mark>
+
+<mark class="marker-yellow">IMPORTANT: This addon requires version 1.21.0 or higher to function correctly </mark>
+
+IMPORTANT: DOOWNLOAD AND INSTALL BOTH PACKS BEHAVIOR AND RESOURCE PACK
+
+-Blocks with inventory slots: clicking on any of these blocks will allow you to access there inventory.
+
+1.Kitchen Cabinet 3.Trash cans
+
+2.Drawer 4.Refrigerator
+
+- Chairs/Couch: You can click on any of the chairs or couches and you will be able to sit on them
+
+- TV: You can interact with the TVs and change there channels, there are 6 different channels available
+
+- Toaster: You can interact with the toaster by holding a piece of bread in your hand, this will add toast to it, if you click on it again it will cook the toast.
+
+- Plates: Small plates can be stacked by interacting with it using another plate, You can add a cooked chicken to the big plates, clicking on it again will eat the chicken.
+
+-Lamps: Lamps can be turned on and off by clicking on them.
+
+-Boom Box: Clicking on the boom box will start playing a song, to stop the music click on it again.
+
+-Gumball Machine: You can interact with the gumball machine using a minecoin and it will drop gumballs with special effects
+
+-Books: Interacting with a book with another book will allow you stack them up to 5 books high
+
+-For this addon you will need to install a behavior pack and a resource pack, make sure they are both installed or it will not function correctly.
+
+Survival:
+
+-All furniture can be crafted in the crafting table or work bench
+
+-To obtain any of this furniture in survival you have to find a wandering trader, they will trade all the furniture between 1-5 emeralds
+
+Creative:
+
+-You can also obtain all the furniture in the creative inventory
+
+-Papers -Phone -Piggy Bank -Wet floor sign -Toilet Paper -Dart Board -Toothbrush -Printer -Cereal box Arcade machine -Cat Tower
+
+<figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure> <figure class="image"></figure>
+
+-Bench(Can change wood type by interacting with hammer) -Blinds -Security Camera
+
+<figure class="image"></figure>
+
+-Tray -Soda Cup -Service Bell -Lights
+
+<figure class="image"></figure>
+
+-Tea Kettle -Cooking Pot -Pan -Cutting Board -Kitchen Utensils - Knives
+
+<figure class="image"></figure>
+
+-Work Bench -Exit Signs(3) -Power Outlet -Doorbell
+
+<figure class="image"></figure>
+
+-Posters: There are 5 poster blocks available and the image can be switched using the hammer
+
+<figure class="image"></figure>
+
+-Food Items/Blocks(9) All items/blocks can be eaten and placed in the small plate
+
+Sandwich/ Hamburger/ Egg/ Hotdog/ Sausage/ Cupcake/ Pizza/ Apple/ Donuts
+
+<figure class="image"></figure>
+
+-Chair 7 -Curtains -Salt & Pepper
+
+<figure class="image"></figure>
+
+-Wood Crate -Weights
+
+<figure class="image"></figure>
+
+-You can change the color of some of the furniture(Couches and chairs) by interacting with it using normal minecraft dye, all sixteen colors can be used
+
+<figure class="image"></figure>
+
+<figure class="image"></figure>
+
+<figure class="image"></figure> <figure class="image"></figure>
+
+-Bench -Plant 0 -Tv 0
+-Blender -Plant 1 -Tv 1
+-Boombox -Plushie Bear -Tv 2
+-Bottle -Plushie Panda -Xbox Series X
+-Ceiling Fan -Plushie Bunny
+-Ceiling Lamp 0 -Plushie Cat -Tv Stand
+-Ceiling Lamp 1 -Plushie Deer -Beach Chair 0
+-Gaming Chair -Plushie Dog -Beach Chair 1
+-Chair 0 -Plushie Elephant -Diving Baord 0
+-Chair 1 -Plushie Fox -Small Table 0
+-Clock 0 -Plushie Mouse -Chair 4
+-Coffee Table -Plushie Pig -Plate 0
+-Couch 0 -Plushie Raccoon -Plate 1
+-Couch 2 -Plushie Squirrel -Gaming Chair 0
+-Dog House -Shower 0 -Picnic 0
+-Gamer Desk -Small Lamp 0 -Drawer 0
+-Gamer Laptop -Small Lamp 1 -Toaster 0
+-Kitchen Cabinet 0 -Small Speaker 0 -Refrigerator 0
+-Kitchen Chair 0 -Big Speaker -Tall Lamp 0
+-Kitchen Counter 0 -Stool 0 -Small Lamp 2
+-Sink 0 -Stove 0 -Stop sign
+-Sink 1 -Toilet 0 -Books
+-Mailbox -Towel Rack -Traffic Cones 1,2,3
+-Pc 0 -Trash Bin -Shelf
+-Picnic Basket -Trashcan 0
+
+-Po

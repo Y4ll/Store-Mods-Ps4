@@ -1,0 +1,59 @@
+Advanced X-Ray
+
+Advanced X-Ray is a powerful yet fully vanilla-friendly resource pack designed for Minecraft Bedrock & Pocket Edition players who want maximum visibility without using any scripts, behavior packs, or cheats.
+
+As the creator, my goal with this pack was simple: give players a clean, efficient, and server-safe way to locate ores while keeping the gameplay smooth and achievement-friendly.
+
+Key Features
+
+Works in Vanilla Minecraft
+No mods, no code, no behavior packs this is a pure resource pack.
+
+Achievements Enabled
+Since this is only a texture/resource pack, achievements are NOT disabled.
+
+True X-Ray Effect (No Code Used)
+Stone and other common blocks are made invisible using textures only, allowing ores to stand out clearly.
+
+Server-Permitted
+Because it does not use scripts or game-breaking mechanics, this pack is allowed on most servers.
+
+Bedrock & Pocket Edition Support
+Fully compatible with Minecraft Bedrock Edition, including MCPE (Android/iOS).
+
+Recommended Settings (Very Important)
+
+For the best experience, make sure to apply these settings:
+
+- Brightness: 100%
+
+- Smooth Lighting: OFF
+
+- Night Vision: Highly recommended (Drink a Night Vision potion for maximum clarity)
+
+These settings ensure all ores are clearly visible, even at long distances.
+
+Why Advanced X-Ray?
+
+- Simple and lightweight
+
+- No risk of bans due to scripts
+
+- Clean visuals inspired by vanilla textures
+
+- Ideal for mining, speed-running, and survival gameplay
+
+This pack is built for players who want efficiency without breaking the rules.
+
+Due to Minecraft Bedrock limitations, resource packs cannot turn X-Ray ON/OFF dynamically in-game. X-Ray works by changing block visuals, which only load when the pack is enabled. UI buttons in some packs are visual only and do not control features. A real toggle requires a separate behavior-pack solution. This Feature Is Supported In Java Edition As it Supports Switching Shader And Resource Packs.
+
+- Help Me -
+
+Author
+
+Created by: Sycure Gaming
+All rights reserved.
+Redistribution or re-upload without permission is not allowed.
+
+Enjoy mining smarter, faster, and cleaner with Advanced X-Ray
+Happy Mining!

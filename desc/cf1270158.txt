@@ -1,0 +1,19 @@
+This addon adds an item called a Lodekey to Minecraft. The lodekey allows you to interact with a lodestone to activate it as a waypoint for fast travel. You can also fast travel to other players, your bed and across dimensions. This is a must for worlds with several locations that are far apart.
+
+Recipes
+
+All recipes can be created in a crafting table as seen below except the Netherite tier, which requires a Smithing Table just as other netherite items do.
+
+Usage
+
+Lodekeys cost XP to use. The lower the tier, the more XP cost and the lower the durability. As you upgrade the tier the XP cost is lowered and you'll have more durability. Items can be repaired with their respective tier item. If you're in creative mode then it costs nothing and no durability is consumed.
+
+When holding a lodekey, use it on a lodestone. A new dialog will open. Give your waypoint a descriptive name and decide if you want it to be public. Public waystones are visible to everyone, private are only visible to you. Those are good for secret bases!
+
+Next you'll be prompted to select an icon. Choose an icon that will help you find your location later. Don't worry, you can always change it by tapping an activated lodestone with your lodekey again.
+
+When you interact with the lodekey while NOT looking at a Lodestone you'll be shown a dialog with all the locations you can teleport to. You can teleport to the world spawn, your bed(if you have one), a respawn anchor(if set), and your list of waystones.
+
+Feedback
+
+I create addons for myself and my kids but I love this one so much that I wanted to share it. I'd love to hear feedback from the community to learn how I can improve.

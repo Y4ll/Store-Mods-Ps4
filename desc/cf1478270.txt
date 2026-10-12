@@ -1,0 +1,95 @@
+Ultimate Cheat Menu Minecraft Bedrock Addon
+
+Ultimate Cheat Menu is the only Minecraft Bedrock addon you will ever need. Whether you are playing Survival, Hardcore, or on an SMP server this pack gives you full control through a simple button-based menu. No commands to memorize. No complicated setup. Just hold a Stick and open the menu.
+
+What makes this pack truly unique is that it replaces dozens of separate addons with one single pack. Teleportation, enchantments, ore detection, mob tracking, crop automation, real-world clock, SMP tools all in one place, always ready.
+
+Works in Survival & Hardcore. Works on SMP servers. Achievement safe.
+
+How to Open the Menu
+
+- Get a Stick any standard Minecraft Stick and Rename it to UCM using anvil.
+
+- Mobile: Hold the Stick Long press anywhere on screen.
+
+- PC: Hold the Stick Right Click.
+
+Full Feature List
+
+Game Management
+
+- Game Mode Switcher Switch between Survival, Creative, Adventure, and Spectator instantly.
+
+- Gamerules Panel Toggle and control all world gamerules from one screen.
+
+- Time Control Set time to Day, Night, Noon, or Midnight with one tap.
+
+- Weather Control Switch between Clear, Rain, and Thunder instantly.
+
+- Commands Console Run any Minecraft command quickly without typing in chat.
+
+Combat & Survival
+
+- God Mode Resistance, Regeneration, and Fire Resistance 255. Completely invincible.
+
+- Auto Totem Automatically refills your offhand with a Totem of Undying when one is used.
+
+- No Fall Damage Slow Falling effect applied permanently.
+
+- Anti Knockback Never get knocked back by attacks or explosions.
+
+- Infinite Breath Water Breathing applied permanently underwater.
+
+- Lava Proof Fire Resistance and auto fire extinguish every tick.
+
+- Anti Hunger Hunger bar stays full at all times.
+
+- Auto Eat Automatically consumes food when hungry.
+
+Enchantments
+
+- Enchantment Menu Select any item from your inventory and apply any enchantment to it instantly. No XP required. No enchanting table needed. Supports all weapons, tools, armor, and special items.
+
+Teleportation
+
+- Teleport to Player All online players shown as buttons. Tap to teleport instantly.
+
+- Bring Player to Me Pull any online player to your exact location.
+
+- Teleport to Coordinates Enter X Y Z and select target dimension (Overworld, Nether, The End).
+
+- TP History Automatically saves your last 20 teleport locations with dimension info. Tap any entry to return.
+
+- Waypoints Save named locations permanently. Supports all dimensions. View distance to each waypoint. Data never lost on reload.
+
+- Step Assist Automatically step up 1 block without jumping.
+
+Mining & Resources
+
+- Vein Miner Mine an entire ore vein in one swing. Optional magnet pulls all drops directly to you.
+
+- Tree Capitator Chop an entire tree instantly with one hit.
+
+- Ore Highlighter Scans nearby area for ores and displays coordinates on your HUD or in chat. Supports all 19 ore types including Deepslate variants and Ancient Debris.
+
+- Chest Finder Quickly locate all chests and containers in your area.
+
+- Chest ESP Live HUD display of all nearby chests, barrels, shulker boxes, and ender chests with exact coordinates and distance.
+
+Farming & Automation
+
+- Crop Harvester Automatically harvests fully grown crops (Wheat, Carrots, Potatoes, Beetroot, Nether Wart) in a radius around you and replants them instantly.
+
+- Auto Cook Animals you kill automatically drop cooked meat instead of raw.
+
+- Loot Multiplier Multiply mob drops from 10x up to 100x. Does not apply to player drops.
+
+Navigation & Tracking
+
+- Coordinates Logger Save named locations with dimension info. Teleports to the correct dimension. Data persists after game reload.
+
+- Death Locations Automatically logs every death with coordinates, dimension, and time. Includes a teleport confirmation screen with safety warning.
+
+- Player Tracker Live real-time display of all online players with name, exact coordinates, and distance. Updates every tick.
+
+- Player Alert Sound and chat alert when another playe

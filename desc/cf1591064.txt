@@ -1,0 +1,47 @@
+A lightning-fast, script-based add-on that brings true dynamic lighting to Minecraft Bedrock [ any version 1.20 to 26.50+]. Hold any light source and watch your surroundings illuminate in real-time!
+
+Choose Your Edition
+
+LITE For Low-End Devices
+
+Hand-held dynamic lighting with zero lag. Perfect for mobile.
+
+PRO The Full Experience
+
+Everything in Lite + Flaming Arrows, Ghast Fireballs & Burning Mobs emit light!
+
+Features
+
+- Dynamic Lighting smooth, real-time light as you move
+
+- Offhand Support hold lights while mining or fighting
+
+- Underwater Glow Sea Lanterns, Glowstone, End Rods & more work underwater
+
+- Multiplayer Ready works on Realms & multiplayer worlds
+
+Offhand Usage
+
+- Hold a light source in your Main Hand
+
+- Double-Crouch (sneak twice within 1.3s)
+
+- Item swaps to your offhand automatically!
+
+To remove: empty your main hand and double-crouch again.
+
+Supported Items
+
+Bright (12-15)
+
+Torches, Copper Torches, Lanterns, Copper Lanterns, Glowstone*, Sea Lantern*, Shroomlight*, Jack o'Lantern*
+
+Medium (7-11)
+
+Campfire, Soul Campfire, Soul Torch, Soul Lantern, Froglights*, End Rod*, Lava Bucket, Redstone Torch, Amethyst Cluster*, Beacon*, Sea Pickle*
+
+Faint (3-6)
+
+Blaze Rod*, Glow Berries*, Glow Lichen*, Magma Block*, Crying Obsidian*, Glow Ink Sac*, Amethyst Buds*, Enchanting Table*, Firefly Bush*
+
+Join the Community

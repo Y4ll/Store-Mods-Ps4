@@ -1,0 +1,29 @@
+Minecraft, But It Rains Random Blocks..
+
+How to Change Rain Speed?
+
+- /rain start
+
+- /rain stop
+
+- /rain status
+
+- /rain slow
+
+- /rain fast
+
+Random Item Rain turns the world above you into a never-ending source of loot and chaos. Instead of blocks, random items from across Minecraft will fall from the sky at configurable intervals. You might receive valuable treasures, useful resources, or completely useless junk; the choice is left to chance.
+
+The mod includes adjustable rain speed settings, allowing you to create anything from a relaxed survival experience to complete item-filled madness. Whether you're playing solo, with friends, or creating content, every world becomes a unique adventure where luck plays a major role.
+
+Features
+
+- Random items rain from the sky
+
+- Adjustable rain speed settings
+
+- Multiplayer compatible
+
+- Great for challenge runs and content creation
+
+- Supports the latest Minecraft version

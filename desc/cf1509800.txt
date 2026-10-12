@@ -1,0 +1,17 @@
+OptiFPS is a next-generation FPS booster designed to give you maximum performance, smoother gameplay, and zero lag experience in Minecraft.
+
+Built with inspiration from popular optimization mods like Sodium, OptiFine, and Lithium, OptiFPS combines the best ideas into one lightweight and powerful solution.
+
+Features
+
+Massive FPS Boost (even on low-end devices)
+
+Smart optimization system (auto performance tuning)
+
+Smooth gameplay for PvP & survival
+
+Reduced lag spikes & stuttering
+
+Lightweight & compatible with most mods
+
+Perfect for low-end PCs and mobile setups

@@ -1,0 +1,149 @@
+What Is This
+
+FirmamentCraft Shader is a stylized rendering shader developed for Minecraft: Bedrock Edition in China. It supports MCBE version 1.21.120+
+
+Main Features
+
+Terrain Rendering
+
+-
+
+Basic diffuse lighting and shadows
+
+-
+
+Sky lighting
+
+-
+
+Surface specular highlights and bump effects
+
+-
+
+Metal block reflections of the sky
+
+-
+
+Ore emissive effects
+
+-
+
+Water waves and surface reflections of the sky
+
+-
+
+Underwater lighting and color absorption effects
+
+-
+
+Underwater total internal reflection (TIR) effect
+
+-
+
+Translucent block reflections of the sky and simulated subsurface scattering
+
+-
+
+Plant sway and simulated subsurface scattering
+
+-
+
+Smooth transitional fog effects
+
+-
+
+Artistic rain effects on surfaces
+
+Sky Rendering
+
+-
+
+Dynamic clouds
+
+-
+
+Sun, moon, and starry sky
+
+-
+
+Sky dome and horizon, simulating Mie scattering
+
+-
+
+Artistic representation of the End dimension sky
+
+-
+
+Artistic rain sky effects
+
+Entity Rendering
+
+-
+
+Basic diffuse lighting
+
+-
+
+Dynamic ambient light color variation by biome in the hell
+
+How to Use
+
+On Android, use tools such as MB Loader or Minecraft Patch to load the shader. Alternatively, manually replace the shader files inside the game's installation package.
+On Windows, it is recommended to use BetterRenderDragon to load the shader.
+Please ensure to use the resource pack provided by the author, otherwise the sky will not be displayed.
+
+(:FirmamentCraft), Minecraft ; MCBE 1.21.120+
+
+//:5.0 2;
+
+- ;
+
+- ;
+
+- ;
+
+- ;
+
+- ;
+
+- ;
+
+- ;
+
+- (TIR);
+
+- ;
+
+- ;
+
+- ;
+
+- (4.x);
+
+- /(5.0)
+
+- Cook-Torrance BRDF(5.0)
+
+- (FBM)(4.0);
+
+- (5.0);
+
+- (5.0);
+
+- ,;
+
+- ,;
+
+- ;
+
+- ;
+
+- ;
+
+- ;
+
+MB Loader,Minecraft Patch,;WindowsBetterRenderDragon;,~
+
+# 5.0:
+
+# 4.0:

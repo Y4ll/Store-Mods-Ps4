@@ -1,0 +1,160 @@
+PROJECT SILENT BREAKPOINT: GLOBAL CONFLICT
+
+Version 1.0.7 Early Access Fix | New Face!!
+
+In this update, the focus is on the Player uniforms & armor.
+
+What's new in this version?
+
+[FIX]
+
+- Support MC v26.40
+
+- Fixed bug where vehicles disappeared during crash.
+*
+
+- Fix bug where after reviving it doesn't stop lying down.
+
+[ADD]
+
+- New armor system.
+
+- Facecover raising system.
+
+- Traveling Arms Dealer.
+
+- Can friendly fire between players.
+
+- A backpack system that works as it should.
+
+- M18 Smoke Grenade.
+
+- GLI-F4 Tear Gas.
+
+- GHO2.
+
+- MBT T-90M.
+
+- 49 Countries Patch.
+
+[UPDATE]
+
+- Commander Buying and Selling System.
+
+- System admin and developer.
+
+- New way to lie down, check the guide.
+
+- Visual of missiles coming out of the M2Bradley and BMP2.
+
+- Better explosion particles and explosion sounds.
+
+- Item categorization.
+
+[REMOVE]
+
+- Old gear system.
+
+- Old gear items.
+
+- Old buying and selling system.
+
+- The system cannot allow friendly fire between players.
+
+OFFICIAL SHOWCASE & TRAILER
+
+v1.0.7
+
+Coming soon
+
+v1.0.6
+
+Coming soon
+
+v1.0.5
+
+Coming soon
+
+v1.0.4
+
+v1.0.3
+
+v1.0.2
+
+v1.0.1
+
+STORY & PURPOSE
+
+In the year 2047, the balance of power has shattered.The world is now ruled by three military super-blocs each convinced that their vision of peace is the only one worth fighting for.
+
+The Western Tactical Alliance (WTA) dominates through cyber warfare, drone intelligence, and precision strikes. Their ideology: maintain order through control.
+
+The Eastern Frontline Authority (EFA) believes in strength, unity, and discipline. Forged from the ashes of the eastern nations, they fight to rebuild the world through sheer force.
+
+And then theres Global Security Directorate (GSD) the so-called peacekeepers. A neutral faction with an army of their own, enforcing stability by any means necessary.
+
+Amid this fragile world, soldiers fight across dead cities, jungles reclaimed by nature, and deserts scorched by nuclear storms. There are no heroes left only factions chasing their version of peace.
+
+PREVIEW
+
+v1.0.7
+
+v1.0.6
+
+v1.0.5
+
+v1.0.4
+
+v1.0.3
+
+v1.0.2
+
+v1.0.1
+
+RECOMMENDED BATTLEFIELD: EASTERN FRONT
+
+For the most immersive experience, play this add-on on the official PSB: Eastern Front map.
+
+- Optimized Combat: Specifically designed to accommodate Elite NPC AI maneuvers and heavy vehicle logistics.
+
+- Infinite Warfare: Features the "Farmland" frontline where EFA and WTA forces engage in non-stop, large-scale combat.
+
+- Strategic Design: Includes urban ruins and open terrain perfectly scaled for the M2 Bradley, BTR-80A, and long-range SVD engagements.
+
+Project Silent Breakpoint Custom Maps
+
+MAIN FEATURES OVERVIEW
+
+- Global Faction War: Choose between EFA (RAF, PLA, KPA) and WTA (USAF, FRA, UAF) with accurate national gear.
+
+- Elite NPC AI: NPCs feature zig-zag maneuvers, cover-taking, and a full Prisoner of War (POW) & Revive system.
+
+- Strategic Commander: Use the UI System to join factions, recruit troops, and call in Paratrooper reinforcements.
+
+- Tactical Equipment: Includes Night Vision Goggles (NVG), 3D Medkits, Parachutes, and Walkie Talkies (120-block range).
+
+- Heavy Armor & Logistics: Operable vehicles: BTR-80A, M1296 Stryker, M2 Bradley, BMP-2, and more with repair & smoke systems.
+
+- Modern Arsenal: 12+ 3D weapons (AKM, M4A1, SVD, etc.) with an advanced Back-Holster system.
+
+- Immersive HUD: Custom Humanoid Health Silhouette HUD for a true military feel.
+
+TECHNICAL & SETUP GUIDE
+
+To ensure the map and add-on function perfectly, follow these steps:
+
+1.World Initialization Once the world is loaded, one player must run this command to start the simulation:
+
+/function developer - /newgame
+
+2.Experimental Toggles (CRITICAL) Ensure ALL Experimental Gameplay toggles are ON, specifically:
+
+- Upcoming Creator Features
+
+- Beta APIs
+
+- Experimental Creator Camera Features
+
+- Add-on layout when used with the custom map eastern front
+
+3.The add-on arrangement requirements if you play it on the eastern front map, make sure the main add-on is at 

@@ -1,0 +1,67 @@
+Loved the last Minecraft LIVE? This Add-On is for you! Dive into the mayhem of the new game drop Mounts of Mayhem and command the Nautilus but beware its undead counterpart, the Zombie Nautilus. Ride, build, and explore sunken ruins. Loot hidden treasures and brave the deep with the new "Breath of the Nautilus" effect as you uncover secrets beneath the waves.
+
+Nautilus
+
+The Nautilus is the focus of this content. You can find this cute partner in all ocean biomes! Nautiluses spawn in groups of 1 to 2. It will eat any fish you have and follow you, including fish in buckets, but youll need a Pufferfish or a Bucket of Pufferfish to tame it. Once tamed, you can breed it with any of its food items, put a saddle on your Nautilus, and travel the ocean astride it! While riding the Nautilus, you are granted the Breath of the Nautilus effect, which pauses your oxygen bar and allows you to mine blocks faster underwater.
+
+Nautilus Armor
+
+Dress your Nautilus in style! Equip it with one of five dazzling armors copper, iron, gold, diamond, and netherite each offering both protection and flair. Nautilus armors are not craftable and can be found exclusively in chests within ocean structures: search for buried treasures, shipwrecks, and ocean ruins to find them and make your companion truly shine beneath the waves!
+
+Nautilus armor found in oceanic ruin chest.
+
+Zombie Nautilus
+
+In addition to introducing a new mount to help you explore the oceans, the new Minecraft drop and the Nautilus of Mayhem Add-On bring an exciting underwater challenge: the Zombie Nautilus an undead variant of the Nautilus, always ridden by a drowned wielding a trident, forming a Zombie Nautilus Jockey. This hostile mob targets the same creatures as a drowned, including players, and attacks upon reaching them dealing the same damage as drowneds do in melee attacks. Zombie Nautiluses spawn in all ocean biomes under the same conditions as drowned in oceans, with a 20% chance relative to drowned spawns, and appear in groups of 1 to 2, just like the Nautilus.
+
+Acknowledgements
+
+Textures and models for the Nautilus & Zombie Nautilus, Baby Nautilus, and Nautilus Armors were faithfully recreated by MrDinster based on the designs showcased during the Minecraft LIVE. Thank you for making this Add-On possible! <3
+
+Notes:
+
+- This Add-On is compatible with Minecraft Bedrock version 1.21.111 or higher.
+
+- The ability to dash Nautiluses, shown during Minecraft LIVE, is not yet included in this Add-On due to current Minecraft Bedrock limitations.
+
+Nautilus of Mayhem v2.0 The Last Look
+
+A massive final visual and behavioral overhaul inspired by the latest Minecraft Java Snapshot (25w41a)!
+
+Aesthetic Updates
+
+- Updated the appearance of Nautilus, Baby Nautilus, and Zombie Nautilus to fully match the Java Edition visuals.
+
+- Reworked the Nautilus animations based on Minecraft Java.
+
+- Updated spawn eggs for all Nautilus variants to use the same look as in Java Edition.
+
+- Updated the Nautilus Armor icons and textures to the Java Edition visuals.
+
+- Added official Java Edition sound effects for the Nautilus, Baby Nautilus and Zombie Nautilus.
+
+Behavior Updates
+
+- Nautilus are now neutral mobs!
+
+- They will attack the player once if provoked.
+
+- Occasionally attack nearby Pufferfish.
+
+- Zombie Nautilus are now neutral mobs!
+
+- They will only chase and attack players when a Drowned is riding them.
+
+- If not being ridden, they remain neutral until provoked.
+
+- New Loot Tables!
+
+- Nautiluses now have a 5% chance to drop a Nautilus Shell when killed by a player or a tamed wolf.
+
+- Zombie Nautiluses now drop 03 Rotten Flesh when killed by a player or a tamed wolf.
+
+Experience the last & accurate concept of the Nautilus before it reaches the Bedrock beta preview! :D
+
+Installation:
+
+- Click the Download button, somewhere on this page. After a few seconds, a file called Nautilus of Mayhem Add-On v2.0.mcaddon will appear in your download history. Click this file and open it with Minecraft Bedrock, and 

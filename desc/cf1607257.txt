@@ -1,0 +1,10 @@
+This lightweight PBR resource pack adds proper emissive glow to every vanilla ore block coal, iron, copper, gold, redstone, lapis, emerald, diamond, quartz, nether gold, and ancient debris including all deepslate variants. Using true metalness/emissive/roughness (MER) maps, ores now light themselves up under RTX/PBR lighting instead of relying on texture tricks, so caves and mineshafts feel more alive and ore spots are impossible to miss.
+
+Features:
+- Full vanilla ore coverage, overworld + deepslate + nether
+- Real emissive lighting via PBR MER maps (RTX-ready)
+
+- Original block silhouettes and color identity preserved no visual overhaul, just enhancement
+- Lightweight, no performance impact on non-RTX devices
+
+Perfect for survival players, cave explorers, and anyone who wants mining to feel a little more rewarding.

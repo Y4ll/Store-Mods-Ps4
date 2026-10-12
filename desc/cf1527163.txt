@@ -1,0 +1,41 @@
+Simple minimal apocalypse elements survival-friendly to your Minecraft Bedrock with new weapons, foods and drinks.
+
+The Apocalypse is coming to Minecraft Bedrock! Mine Apocalypse brings apocalyptic-themed weapons and items to the Minecraft world!
+
+Classic and iconic zombie-killing weapons like the Fire Axe, Crowbars and Baseball Bat! As well as bandages and adrenaline syringes. Can you stay one step ahead of the zombies?
+
+The Mine Apocalypse add-on adds a total of 42 new items to the game, ranging from weapons and tools to new consumables such as food and medicine.
+
+This add-on DOES NOT require experimental options. Since it DOES NOT use player.json, then there's no problem with a mix of some addons.
+
+I haven't added any new mobs yet; if this add-on becomes popular, I'll add custom mobs.
+
+Screenshots
+
+THE RANGED WEAPONS IN THE SCREENSHOT IS NOT AVALIBLE YET, SORRY, JUST FOR FUTURE UPDATES, I NEED TO IMPROVE SOME STUFF IN THE SYSTEMS.
+
+You can see all the crafting recipes in the crafting table recipes book, just disable the non-craftable items icon on the crafting table to see all guns that can be crafted.
+
+If you liked the addon and want to support me and see more in the future, check out my website!
+
+Installation
+
+Installing the addon is easy! First download the latest version that can run on your version of Minecraft. Extract the downloaded zip files, and you should have a file called "mini-apocalypse-v0.0.3.mcaddon". The next step depends on your device.
+
+- On Windows just open the file with Minecraft.
+
+- Android users need to use a third-party file explorer such as File Manager to open the file.
+
+- iOS users should use Documents to open the file.
+
+License
+
+This addon is licensed under the CC BY-NC-ND 4.0 license. Heres what you need to know:
+
+- You CAN share the addon as long as you give proper credit.
+
+- You CAN use it for personal, non-commercial purposes.
+
+- You CAN'T modify the addon or use it commercially.
+
+Videos of the addon are also allowed, but you must link to either this page or the one in MCPEDL for downloading. And remember. Plagiarism is still plagiarism.

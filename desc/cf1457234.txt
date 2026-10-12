@@ -1,0 +1,10 @@
+This add-on makes your world look more saturated, colorful, and beautiful.
+You can set the resolution in the game settings.
+
+How to use? Enable Vibrant Visuals before installing this add-on.
+If you use a shader and it still isnt saturated, colorful, or beautiful enough, place this Saturated pack at the top.
+My recommendation: just use Vibrant Visuals without additional shaders if you have lag issues.
+
+SCREENSHOTS
+
+REQUEST ADDON ON DISCORD

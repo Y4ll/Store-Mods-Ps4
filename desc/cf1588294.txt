@@ -1,0 +1,65 @@
+Use the power rings and become the lanterns in minecraft!
+
+Currently the only rings that are obtainable in survival, the green, red and yellow rings.
+
+FOR A VIDEO TUTORIAL:
+
+To get the green power ring, you have to find this structure, near beaches, rivers and mangrove swamps:
+
+Interact with the entity and get your ring
+
+Functioning of the Ring
+
+Upon shifting + interacting with the ring you equip the suit. Upon equipping the suit, the suit and ring are locked into your inventory and cannot be lost on death.
+
+As you keep using your ring, the durability of the ring will go down, at a rate of 2 durability per 3 seconds and when it reaches one, the ring will stop working. To charge the ring again you have to take a charging lantern which you also get at the above structure and place it down
+
+(COLORED LIGHTING ONLY FOR VIBRANT VSUALS)
+
+You can put your ring in the slot in the lantern and it charges the ring at 4 durability per second, the total durabiltiy of the ring being 1000. You can pick up the lantern by shifting and interacting with the lantern with the ring of the same color as the lantern.
+
+ABILITIES
+
+Upon shifting and interacting with the ring again this menu pops up:
+
+TOOLS:
+
+The tools work as they do in normal minecraft, with each of them doing their normal functions as their diamond counterparts.
+
+MELEE:
+
+There are 3 melee weapons:
+Sword: Does 7 damage
+Boxing Glove: Gives the player extra reach
+Bat: Does extra knockback
+
+RANGED:
+
+There are 2 ranged weapons:
+Bazooka: Fires a missile which explodes on impact, has a cooldown, needs to be charged for 2 seconds by holding down interact and firing
+Beam: No cooldown projectile
+
+CONSTRUCTS
+
+There are 2 constructs:
+Grab: Shoot any entities within 3 blocks to move them around wherever you look, walking backward and forward also moves them, you can release them by interacting, or they will be let go on their own in 7 seconds.
+Spyglass: A spyglass.
+
+TRAVEL
+
+There are 3 places to travel currently:
+Earth: Takes you back to wherever you left from if on another planet
+OA: Planet to go to get the yellow power ring
+Ysmault: Planet to go get the red ring
+
+For now, that is all this addon has to offer, but I have HUGE plans for this addon, if you want to know what, join the discord for sneak peeks and announcements, or if you have an idea for a good construct, then you can put it in suggestions, I dont want the players to be limited so if you actually have an idea that is viable and has a real use, it WILL be added into the addon!
+https://discord.gg/bfRpDRzaBa
+
+CREDITS
+
+LEO: 3D Modeller and builder
+For Contact: Discord lordstar0104_39169
+
+GAMER99: For charging in the lanterns, and many other things around the addon: https://mcpedl.com/user/gamer-991/
+
+Alisson31br: For the durability manager template https://www.curseforge.com/minecraft-bedrock/addons/equipment-durability

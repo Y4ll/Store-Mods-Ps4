@@ -1,0 +1,39 @@
+The Sift is the next new dimension for Minecraft; this add-on aims to recreate the experience and mechanics associated with such dimensions. It is currently in BETAenjoy!
+
+If youd like to support my Add-Ons, you can download them directly from my official website, TRMC-Add-Ons. Thank you for supporting my work and enjoying my Add-Ons!
+
+- Sifters -
+
+- THE SIFT BIOMES -
+
+[ - Singer Meadow- ]
+
+The main biome, where the player appears alongside the singer, who can sing and dance. This biome is full of trees, floating islands, and ichor lakes.
+
+[ - Singer Canyon- ]
+
+Singer's Canyons is a mega-biome featuring unique flora and fauna.
+
+[ - Pink Meadow - ]
+
+The Pink Meadow is a biome that attempts to emulate the "pink biome" shown during Minecraft Live.
+
+[ - Carapace - ]
+
+The Carapace is a desert biome. It is filled with bulbs, large skeletal torsos, and piles of rocks.
+
+[ -Siftium - ]
+
+Siftium is a mineral added to the dimension! It has a tier equal to Netherite and is difficult to obtain and craft. If you wear the full set of armor, you will gain Sift effects!
+
+[ -Sift Portal - ]
+
+To enter the "The Sift" survival mode, you have to go to the Ancient City portal, Place note blocks and play them in harmony!
+
+To enter via commands, execute "/the_sift:travel" to enter automatically.
+
+Join my Discord to ask questions or make suggestions!
+
+Downloads at TRMC Add-Ons
+
+- Download The_Sift_0.7.mcaddon

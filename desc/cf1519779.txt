@@ -1,0 +1,11 @@
+D Lucid Light is a professional-grade technical utility designed specifically for Minecraft Bedrock Edition players who want the benefits of a "Fullbright" experience without sacrificing their ability to earn achievements. Unlike traditional texture packs that can look washed out or experimental mods that disable progress, this addon uses a logic-based "Smart Toggle" system to provide high-intensity Night Vision only when you need it.
+
+KEY FEATURES
+
+Zero-Experiment Compatibility Runs entirely on the vanilla engine, meaning your world remains "pure" and trophies/achievements stay active.
+
+Universal Off-Hand Activation No specialized modded items required; simply place any vanilla item (arrow, totem, shield) into your off-hand to trigger the effect.
+
+Sensory Feedback System Features custom audio "clicks" and Action Bar notifications to provide instant confirmation when the effect is toggled.
+
+Visual Clarity The Night Vision effect is applied with the "Hide Particles" flag, ensuring your screen remains clear of intrusive potion bubbles.

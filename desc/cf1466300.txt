@@ -1,0 +1,168 @@
+Racing Raftaar
+
+VEIN MINER
+
+Mine one ore, break the entire vein faster than ever before
+
+v2.0.0 Bedrock Edition Free Beta APIs Required
+
+What is Vein Miner?
+
+If you have ever mined a single diamond ore and then had to manually hunt around for the rest of the vein, you know how tedious that gets. Vein Miner solves that completely. The moment you break one ore with a pickaxe, the entire connected vein breaks with it all at once, no extra effort.
+
+It supports every ore type in the game including deepslate variants, nether ores and ancient debris. The items go straight to your inventory, and if you have auto smelt turned on, iron, gold and copper come out already smelted so you do not even need a furnace for basic processing.
+
+If you want to mine normally at any point, just hold sneak while mining and vein miner stays disabled for that block. Everything is configurable max vein size, XP multiplier, auto smelt, sounds all through an in-game settings panel.
+
+Features
+
++
+Full Vein Break mine one ore, entire connected vein breaks automatically
+
++
+20+ Ore Types coal, iron, copper, gold, lapis, redstone, diamond, emerald, quartz, ancient debris and all deepslate variants
+
++
+64 Blocks per Vein default cap of 64 blocks, configurable up to 128
+
++
+Auto Pickup all drops go directly into your inventory, nothing falls on the ground
+
++
+Auto Smelt iron, gold and copper come out pre-smelted as ingots automatically
+
++
+2x XP Multiplier bonus XP on every vein mined, configurable from 1x to 5x
+
++
+Disable Toggle hold sneak while mining to disable vein miner for that block
+
++
+Live HUD action bar shows current vein miner status and max block cap while holding a pickaxe
+
++
+Mining Stats tracks total blocks mined, total veins, biggest vein and per-ore breakdown
+
++
+Settings Panel configure max vein size, XP rate, auto smelt, auto pickup and sounds in-game
+
++
+Multiplayer Support per-player isolated data, works on servers without any conflicts
+
++
+Persistent Data all stats and settings save across sessions via Dynamic Properties
+
+Supported Ores
+
+All standard and deepslate variants included. Nether ores and ancient debris fully supported.
+
+Coal
+
++ Deepslate
+
+Copper
+
++ Deepslate
+
+Iron
+
++ Deepslate
+
+Gold
+
++ Deepslate
+
+Lapis
+
++ Deepslate
+
+Redstone
+
++ Deepslate
+
+Diamond
+
++ Deepslate
+
+Emerald
+
++ Deepslate
+
+Quartz
+
+Nether
+
+Nether Gold
+
+Nether
+
+Ancient Debris
+
+Nether
+
+How to Use
+
+No setup needed. Just install the pack, enable Beta APIs, and start mining. The addon activates automatically when you break an ore with a pickaxe.
+
+Action
+Control
+
+Break entire vein
+Mine any ore with a Pickaxe
+
+Disable vein miner temporarily
+Hold Sneak while mining
+
+Open Settings Panel
+Sneak + Use Name Tag
+
+View Mining Stats
+Sneak + Use Book
+
+Requirements
+
+Minecraft Version
+
+1.21.0 or higher
+
+Experiment Required
+
+Beta APIs ON
+
+Platform
+
+Bedrock Edition
+
+Pack Type
+
+Behaviour Pack (.mcpack)
+
+Terms of Use
+
+This addon is free to use but please respect the work that went into it.
+
+- Do not repost or republish this addon on any website, platform or app without permission.
+
+- Do not claim this addon as your own work.
+
+- You are free to use it in your worlds, servers and YouTube videos just give credit to Racing Raftaar.
+
+- Modifying and redistributing without permission is not allowed.
+
+More addons, updates and dev stuff on my blog and community:
+
+Blog YouTube Discord
+
+Blog YouTube Discord
+
+Beta APIs Notice
+
+This addon requires Beta APIs to be enabled in your world settings under Experiments. Without it the addon will not load at all. This is a Minecraft requirement for all Script API addons it is not a bug with the addon.
+
+AI Enhancement Notice
+
+The thumbnail and screenshots used in this post have been AI-enhanced for better visual presentation. In-game visuals may look different. All gameplay features shown are real and functional.
+
+Made by Racing Raftaar
+
+2026 Racing Raftaar All Rights Reserved

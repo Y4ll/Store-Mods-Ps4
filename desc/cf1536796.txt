@@ -1,0 +1,53 @@
+Ore Highlighter (also known as Ore Outline Border) is the ultimate lightweight survival utility texture pack for Minecraft Bedrock. Easily spot diamonds, netherite, and ancient debris in the deepest caves with clean, high-visibility colored outlines.
+
+NEW: IN-GAME SUBPACK SELECTOR! (Classic & Animated Glow)
+
+Now you can fully customize your mining experience! Click the gear icon in your global resources to switch between:
+
+- Classic Outline Mode: Clean, static colored borders around every ore block. Perfect for a traditional vanilla+ aesthetic.
+
+- Animated Glowing Mode: Features smooth, animated glowing borders that make valuable minerals pulse and stand out instantly, even in pitch-black caves or underwater!
+
+KEY FEATURES & GRAPHICS SUPPORT:
+
+- Vibrant Visuals Shader Support: 100% compatible with Minecraft Bedrock's new Deferred Technical Preview! Ores emit a brilliant, realistic emissive glow when using vibrant visuals or PBR shaders.
+
+- No X-Ray Needed: Keep your survival playthrough fair and square while boosting your mining efficiency.
+
+- Achievement Friendly: Does not disable Xbox/PlayStation achievements or world trophies. No experimental toggles required!
+
+- Realms & Multiplayer Ready: Works flawlessly on servers, local multiplayer, and official Bedrock Realms without causing performance drops or server tick lag.
+
+- Universal Compatibility: Blends perfectly with other texture packs, custom UIs, and major add-ons like Action and Stuff.
+
+LATEST NEWS
+
+For players who do not use Vibrant Visuals, after extensive research, analysis, and numerous attempts to make ores glow, we have reached the unfortunate conclusion that it is simply not possible without installing or directly modifying how Render Dragon works.
+
+Doing so would require third-party launchers or modifications that go beyond the scope of what this texture pack is intended to be.
+
+Vibrant Visuals is required for the Glowing Mode.
+
+Terms of Use & Credits
+
+You are ALLOWED to:
+
+- Modify this pack for personal use only.
+
+- Review or showcase this pack, as long as you provide the original download link.
+
+You are NOT ALLOWED to:
+
+- Claim this pack or its files as your own.
+
+- Distribute or publish modified versions of this pack.
+
+- Reupload this pack to other websites (9Minecraft, ModBay, etc.).
+
+- Share unofficial download links. Always use the original source.
+
+SUPPORT THE CREATOR
+
+If you'd like to support my work, you can complete a quick ad step through Linkvertise. It takes just a few seconds and directly supports future project updates!
+
+This is completely optional no downloads are required here, just a simple way to show your support if you appreciate the content.

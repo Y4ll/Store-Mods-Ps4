@@ -1,0 +1,87 @@
+Endless Fabulous is an add-on inspired by the Java mod Avaritia, bringing extremely powerful armor and tools. This is a playable BETA version.
+
+-----------------------------------------------------------
+
+**Enable the Beta APIs experiment and the Minecraft Education option.**
+
+-----------------------------------------------------------
+
+**The Recipe Book will include recipes for both the Extreme Crafting Table and the Neutronium Compressor.**
+
+Armor of Infinity
+
+Infinity Helmet:
+
+- Grants Night Vision when equipped.
+
+- Grants Water Breathing while in water.
+
+- Immunity to the effects of Blindness and Darkness.
+
+- By keeping your gaze fixed on a mob or player for 3 seconds, you deal 3 points of damage to the target.
+
+Infinity Chestplate:
+
+*It is mandatory to enable the Education Edition option.*
+
+- Grants the ability to fly when equipped.
+
+- Grants immunity to explosions.
+
+- Grants Regeneration while health is below maximum.
+
+Infinity Leggings:
+
+- Increases running speed.
+
+- Grants Slow Fall when falling from great heights.
+
+- Grants immunity to the Slowness effect.
+
+Infinity Boots:
+
+- Grants Jump Boost when equipped.
+
+- Grants immunity to fall damage.
+
+Full Armor:
+
+- Grants immunity to any type of damage.
+
+- Grants immunity to the /kill command.
+
+Sword of the Death:
+
+- Infinite Damage.
+
+- It kills players even in Creative mode.
+
+- It does not affect whoever is wearing the Armor of Infinity.
+
+Skullfire Sword:
+
+- 100% chance that, when killing any type of skeleton in Minecraft, it will drop a Wither Skeleton Skull.
+
+Reality Shatterer (Pickaxe):
+
+- Breaks Bedrock.
+
+- Fortune X
+
+- Breaks blocks extremely fast.
+
+- Hammer Mode: breaks a 777 area, and the items are stored in a Matter Cluster.
+
+Press and hold Shift on the screen or right-click to switch between Pickaxe and Hammer modes.
+
+Neutron Collectors:
+
+- Normal: Generates 1 Pile of Neutron every 10 minutes.
+
+- Enhanced: Generates 1 Pile of Neutron every 5 minutes.
+
+- Supreme: Generates 1 Neutronium Nugget every 1 minutes.
+
+Endest Pearl:
+
+When thrown, it creates a black hole.

@@ -1,0 +1,27 @@
+Arsenal adds a small but focused set of firearms to Minecraft Bedrock, designed to feel immersive while staying close to the vanilla style.
+
+It includes pistols, SMGs, assault rifles, and a sniper rifle, each with its own ammo type, reload system, muzzle flash effects, and basic third-person holding animations.
+
+Every item can be crafted using the vanilla crafting table. This addon does not modify player.json, item.json or player.entity.json, ensuring high compatibility with other addons.
+
+Weapons use a simple ammo system:
+
+- AWM Sniper Rifle uses Rifle Ammo
+
+- M4A1, MAC-10, Thompson SMG, and UMP-45 use Assault Rifle Ammo
+
+- Revolver uses Pistol Ammo
+
+Support the Project
+
+If you enjoy this add-on, consider supporting the project. Supporters receive:
+
+- Early access to updates
+
+- No waiting times
+
+- Access to all current and future addons
+
+Downloads at EndDev Studio
+
+- Download Arsenal Add-On.mcaddon

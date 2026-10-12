@@ -1,0 +1,17 @@
+A Minecraft Bedrock add-on that adds a soccer ball.
+
+Un addon para Minecraft Bedrock que anade una pelota de futbol.
+
+--- Mechanics / Mecanicas //
+
+It's recommended to play with the D-pad. If you press down, the ball will go high; if you press up, it will go low; the more you press it in the middle, the further forward it will go.
+
+Se recomienda jugar con cruceta. Si le das abajo a la pelota ira elevado, si le das arriba ira raso, mientras mas al medio le des mas adelante ira.
+
+--- Credits / Creditos ---
+
+- Morrocoy Studio
+
+- Gabriel10666
+
+- NebliGG - Santixby12 - Cuyplus (Testers)

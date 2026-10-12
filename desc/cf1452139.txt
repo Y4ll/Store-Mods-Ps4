@@ -1,0 +1,23 @@
+Better Glowing Ores adds glowing ores and night vision style visibility to caves, making mining easier without disabling achievements.Instead of using heavy mods that break immersion, this lightweight resource pack uses enhanced textures and subtle lighting tweaks so ores clearly stand out in Simple, Fancy, or any graphics setting, while the world still looks natural.
+
+Compatible with Actions & Stuff And Other Packs. Just place this texture on top of Actions & Stuff in your pack order.
+
+-Key Features
+
+Night-visionstyle visibility in caves for easier underground exploration
+
+Ores glow even more when Vibrant Visuals or similar lighting packs are enabled
+
+Keeps the game authentic and achievement-safe, no behaviour pack required
+
+Minimal, clean visuals so resources are easy to spot without clutter
+
+-Compatibility
+
+Designed for Minecraft Bedrock Edition / Pocket Edition
+
+Resource pack only
+
+Compatible with most visual addons
+
+For best results, place this pack at the highest priority in your resource pack list

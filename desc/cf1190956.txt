@@ -1,0 +1,113 @@
+Welcome! Do you play on Minecraft Bedrock, and want to do things like sculpt mountains? Carve rivers? Construct towers and castles and all that jazz? Then this is the addon for you! A port of the original Java mod, WorldEdit: Bedrock Edition will help make building things easier and more fun! You get tons of commands to use, as well as a handy kit for those who aren't as into typing.
+
+Note: This add-on relies on experimental features.
+
+Creations made with WorldEdit
+
+By: Hemuli - YouTube
+
+By: HuaLian (@HuaLian5459) / Twitter
+
+By: Gliese 118HD - YouTube
+
+By: MATHVR1
+
+By: SlagBluecup - YouTube
+
+Join the discord to get YOUR creation featured on this page!
+
+Installation
+
+Installing the addon is easy! First download the add-on. You should have a file called "WorldEdit.mcaddon". The next step depends on your device.
+
+- On Windows just open the file with Minecraft.
+
+- Android users need to use a third-party file explorer such as CX File Explorer to open the file.
+
+- iOS users should use Documents to open the file.
+
+Once there, choose a world you want to apply this addon to, and add the behaviour pack and resource pack together. The "Beta APIs" experiment toggle must also be enabled.
+
+And that's it! Your world is now ready for WorldEdit
+
+Usage
+
+Please read the quick start section in Settings > How to Play while playing in a WorldEdit enabled world, for a short guide on how the addon works.
+
+For more extensive information, please visit the addon's online documentation site (https://worldedit-be-docs.readthedocs.io). If you have questions, please visit the doc's FAQ page.
+
+Features
+
+WorldEdit: Bedrock Edition has many of the important features that the original mod has. This includes, but not limited to:
+
+- Clipboard manipulation (Cut, Copy, Paste)
+
+- Stacking and moving blocks and regions
+
+- Rotating and flipping regions
+
+- Making region selections
+
+- Powerful block patterns and masks
+
+- Navigation commands
+
+- Generating shapes; built-in and custom
+
+- Creating walls, lines and outlines
+
+- Smoothing terrain
+
+- Undo and redo
+
+- Filling and replacing blocks
+
+- Painting with brushes
+
+- Saving and loading structures across worlds
+
+- Modify biomes
+
+- A convenient WorldEdit kit to access common features
+
+Bedrock World Editor Support
+
+There is an app by 8Crafter with WorldEdit support that allows you to do more things than the addon can do alone! Currently it can help you with exporting structures to other worlds and changing biomes.
+
+Documentation and a Download link can be found here. https://worldedit-be-docs.readthedocs.io/en/latest/usage/worldedit_app/
+
+Contribution
+
+Bug Reports and Feature Requests
+
+If you've encountered a bug, or have a suggestion for this addon, please go to the issues page to see if your bug or request has already been reported. If not, feel free to do so!
+
+Translations
+
+Speak another language? Help the addon become more localized by going to the addon's Crowdin page here.
+
+License
+
+This addon is under the GPLv3 license. This means that you:
+
+- CAN modify, copy and distribute this addon.
+
+- CAN use it privately or for commercial use.
+
+- CAN'T change the license of your modified version.
+
+- CAN'T make the modified source code closed.
+
+- HAVE TO indicate any changes in the modified version.
+
+Videos of the addon are also allowed, but you must link to either CurseForge or MCPEDL for downloading. And remember. Plagiarism is still plagiarism.
+
+Special Thanks
+
+The backbone of this addon's code is a heavily modified version of notbeer's GameTest API Wrapper.
+
+And thanks to the original creator of the WorldEdit mod "sk89q" and EngineHub as a whole. They developed and excellent mod, and I'm just simply making a version of it work on bedrock. They're the real heroes. :)
+
+Support
+
+It took time and effort to make this addon, so if you can, please support me by donating via PayPal! You can also join Discord or follow me on Twitter to be notified of any new additions to the addon.

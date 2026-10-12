@@ -1,0 +1,11 @@
+About the Addon
+
+This add-on adds challenging castles and dungeons packed with valuable loot, turning your survival world into a tougher but far more rewarding adventure.
+
+Addon Preview
+
+(castles and dungeons)
+
+Important
+
+Dont forget to activate "Beta APIs" in your world like that!

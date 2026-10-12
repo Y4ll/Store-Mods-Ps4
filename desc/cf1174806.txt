@@ -1,0 +1,37 @@
+This addon allows you to have a working minimap, with shadows and a player locator, in your world without using any external tools!!!
+
+You can use the 16x or the 32x version according to your preference but I recommend you to only use the 16x version because this addon is very performance heavy.
+
+Please keep in mind that this addon is only in BETA right now so if you encounter any bugs, that's completely normal and please feel free to report them back to me.
+
+IF YOU WANT TO HELP ME DEVELOP THIS ADDON FURTHER, PLEASE SUPPORT ME ON PATREON: https://patreon.com/AyyStar
+
+Requirements:
+
+> Turn on "Beta APIs" experimental toggle.
+
+16X Image:
+
+32X Image:
+
+If you like our Addon, please do consider supporting us, you could do that by donating to us, spreading your word, or simply by downloading more addons through our website.
+
+SUPPORT ME ON PATREON: https://patreon.com/AyyStar
+
+Doubts or queries? Join our Discord: Star's Studio
+
+Our website: https://starstudios.tech/
+
+-------------------------------------------------------------
+
+Copyright Message
+
+All Rights Reserved
+
+If you want to showcase this addon in your video, that's fine.
+
+You cannot use any part of my addon, however little it may be, in your own addon without my permission.
+
+You cannot distribute my addon in any way, shape or form without my permission.
+
+---------------------------------------------------------------

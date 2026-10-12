@@ -1,0 +1,29 @@
+Arsenal Loot is a simple addon that integrates weapons, ammunition, attachments, gadgets, and other items from compatible gun addons into loot chests throughout your Minecraft world.
+
+This addon does NOT add any weapons by itself. Instead, it adds loot from other compatible gun addons to naturally generated chests.
+
+Explore villages, mineshafts, structures, and other locations to find weapons, ammunition, attachments, and more while exploring your world.
+
+It also works with custom worlds and maps, such as cities, survival maps, and other custom environments that use loot chests, making compatible gun addons feel more naturally integrated into the world.
+
+Currently compatible with:
+
+Aplok Guns
+
+TACZ PE
+
+EAC
+
+Blessed Guns
+
+AG2
+
+No image
+
+Loot Variants
+
+You can choose between 0.5x, 1x, and 2x loot chances, allowing you to make weapon loot rarer or more common depending on your preferred gameplay experience.
+
+The multiplier only affects the chance of items appearing and does not increase their maximum quantity.
+
+NOTE: Arsenal Loot requires at least one of the compatible addons listed above to be installed and enabled in your world. If used by itself, it will not add weapons or other gun-related items.

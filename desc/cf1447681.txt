@@ -1,0 +1,23 @@
+Fake Block is an add-on for Minecraft Bedrock that adds fake blocks. While they look like normal blocks, they are completely transparent in terms of collision, allowing you to create traps, secret passages, and much more.
+
+Utilities: The utilities focus on creating traps. One example is hallway trapswhen a player walks through and doesn't realize they are walking over fake blocks, they will fall. Another great utility is secret walls. For instance, walls in low-traffic areas where players would never think to pass through, making them ideal for hidden passages.
+
+To create the fake blocks, you will need to craft the falsifier
+
+This is the crafting recipe used to make this brand new block
+
+This new block lets you combine any block with lapis lazuli to create a fake version of itself
+
+When you create the block, you will notice that it is clearly different than the original, but do not worry, thats an easy way to not confuse yourself with real and fake blocks, once you place it, the "FAKE" label will dissapear.
+
+Currently, there are this many blocks added and many more on the go!
+
+Multiplayer: This block is fully compatible with multiplayer and servers, enabling its use without any issues in online worlds with friends.
+
+Visibility: The visibility within the block is as follows: the player inside can only see the area covered by fake blocks and cannot see the outside. From the outside, the fake block appears nearly identical to a normal block, presenting as a solid wall with no transparency, though with a slight, noticeable shadow.
+
+Texture packs: This mods adapts to any resource pack that you may have installed, the item may appear with the vanilla texture, but once you place it, it will adapt to your resource pack!
+
+Downloads | Official Site
+
+- Download Fake Blocks Here | Official Site

@@ -1,0 +1,3 @@
+The graphical texture pack that modifies certain aspects of the game's rendering pipeline without altering the textures themselves, aiming to maintain compatibility with other texture packs you're running. It relies on a shader loader to function, which is what makes the pipeline modifications possible in the first place. It implements distance-based vegetation culling and other rendering optimizations, using distance-based degradation to simplify GPU usage.
+
+- Credits for particles editor: https://www.curseforge.com/minecraft-bedrock/texture-packs/particle-core

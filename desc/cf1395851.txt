@@ -1,0 +1,195 @@
+Block Random Multiplier Loot - Minecraft Addon
+
+Overview
+
+Block Random Multiplier Loot is a Minecraft Bedrock Edition addon that revolutionizes block breaking by randomly multiplying the items dropped when players break blocks. Transform your mining and resource gathering experience with dynamically scaled rewards based on server performance or custom configurations.
+
+Features
+
+- Multiplied Block Drops: Every broken block can yield multiple items
+
+- Smart Performance Scaling: Automatically adapts to server memory capabilities
+
+- Fully Configurable: Customize min/max multipliers to suit your gameplay
+
+- Before-Event Integration: Uses playerBreakBlock event for seamless integration
+
+- Robust Error Handling: Protected item spawning with comprehensive error catching
+
+- Universal Block Support: Works with any block that has a loot table
+
+Configuration System
+
+The addon intelligently scales based on server memory tier:
+
+Memory Tier
+Maximum Multiplier
+Minimum Multiplier
+
+SuperLow
+10x
+1x
+
+Low
+30x
+1x
+
+Mid (Default)
+50x
+1x
+
+High
+100x
+1x
+
+SuperHigh
+255x
+1x
+
+Custom Configuration
+
+Override the automatic scaling in ./config:
+
+export const Block_Loot_Count = {
+max: 'default', // Replace with number for fixed maximum
+min: 'default' // Replace with number for fixed minimum
+}
+
+Installation & Setup
+
+- Download the addon package
+
+- Import into Minecraft Bedrock Edition (v1.20.50+)
+
+- Activate in your world settings
+
+- Configure preferences in the config file
+
+- Start Playing with multiplied block rewards!
+
+Technical Architecture
+
+- License: MIT (Open Source)
+
+- Event System: Utilizes playerBreakBlock before-event
+
+- Language: TypeScript for enhanced type safety
+
+- Execution: Asynchronous item spawning for optimal performance
+
+- Integration: Works with Minecraft's native loot table system
+
+System Requirements
+
+- Minecraft Bedrock Edition 1.20.50 or newer
+
+- Experimental Features enabled
+
+- World/Server with scripting capabilities
+
+- Sufficient memory for multiplied item entities
+
+How It Works
+
+- Player breaks any block with a loot table
+
+- System generates original loot items
+
+- Random multiplier selected (within configured range)
+
+- Items spawn at block location multiplied by random factor
+
+- Original block breaking continues normally
+
+Gameplay Impact
+
+Benefits
+
+- Resource Acceleration: Faster progression for solo players
+
+- Economic Boost: Enhanced resource economies on servers
+
+- Mining Excitement: Every break has potential for bonus rewards
+
+- Performance Awareness: Automatic scaling based on server capability
+
+Balance Considerations
+
+- Great for resource-poor worlds or accelerated gameplay
+
+- Can be balanced with custom min/max settings
+
+- Works alongside existing game mechanics
+
+- No interference with silk touch or fortune enchantments
+
+Compatibility Matrix
+
+Feature
+Support Status
+
+Vanilla Blocks
+Fully Supported
+
+Custom Blocks with Loot Tables
+Fully Supported
+
+Silk Touch Enchantment
+Compatible
+
+Fortune Enchantment
+Works Alongside
+
+Creative Mode Breaking
+Functional
+
+Multiplayer Synchronization
+Server-Side
+
+Important Notes
+
+- Items spawn at the exact block break location
+
+- Uses the block's original loot table definitions
+
+- Each item type in the loot table receives the same multiplier
+
+- Server administrators should balance multipliers for fair gameplay
+
+Advanced Configuration Tips
+
+- Economy Servers: Use lower multipliers (5-20x)
+
+- Creative/Sandbox: Higher multipliers (50-100x)
+
+- Performance Optimization: Match multipliers to server tier
+
+- Progressive Gameplay: Increase multipliers as players advance
+
+Performance Optimization
+
+- Asynchronous execution prevents lag spikes
+
+- Memory tier detection prevents overloading
+
+- Error handling maintains stability
+
+- Configurable caps prevent excessive entity spawning
+
+Troubleshooting & Support
+
+Common Issues & Solutions:
+
+-
+No Multiplied Drops
+
+- Verify experimental features are enabled
+
+- Check block has a loot table
+
+- Confirm addon is properly imported
+
+-
+Performance Issues
+
+- Lower max multipli

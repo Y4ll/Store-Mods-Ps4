@@ -1,0 +1,23 @@
+The Enhancer System provides various effects by using ingots. These effects are determined by the value of the ingots used, which influences the duration and level of the effect. Each mode of the Enhancer System offers distinct effects you can get.
+
+Crafting and Usage
+
+To craft the Enhancer System, you'll need 1 nether star and 4 iron ingots. Arrange the materials in a diamond pattern, placing the nether star at the center and surrounding it with the 4 iron ingots as illustrated in the picture below.
+
+The Enhancer System features various modes, each offering different effects. Users can switch between modes by interacting with the Enhancer System, triggering a form to appear where they can select their preferred effect.
+
+To activate the Enhancer System and access its effects, users need to provide fuel. Interacting with the system using blaze powder fills it with fuel, enabling the user to obtain their desired effect.
+
+Once the Enhancer System is fueled with blaze powder, it becomes visually evident by the appearance of smoke emanating from it. Additionally, the previously black rectangle on the system will change color, serving as an indicator of the amount of fuel the Enhancer System has.
+
+Once fueled, the Enhancer System is ready for use. You can utilize various ingots copper ingot, iron ingot, gold ingot, emerald, diamond, and netherite ingot to get an effects. The duration and level of each effect depend on the value of the ingots used. Upon activation, a corresponding amount of fuel will be consumed, the quantity of which also depends on the ingot used. The fuel capacity of Enhancer System is 8.
+
+Here's the table illustrating the full details below.
+
+Watch Showcase Here:
+
+Installation:
+
+- To make it work, enable Beta APIs Experiments in the world settings.
+
+- Install a file version according to your Minecraft version.

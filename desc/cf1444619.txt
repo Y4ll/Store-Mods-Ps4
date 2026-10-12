@@ -1,0 +1,135 @@
+Extensive Mob Heads adds over 1250 collectable mob heads to your game.
+
+That's a head for EVERY mob, their variants and more!
+
+Update 1.4.0 is here with tiny heads and BIG changes!
+
+What's New:
+
+Important:
+
+Permutations for all heads have changed making each head use 24 permutations instead of the previous 48. Because of this every head that was placed upside down angled will now return to a normal rotation.
+
+Some block IDs have been fixed for consistency.
+Changed block IDs include:
+
+Tamed Horse heads with golden armor
+Tamed Nautilus heads with golden armor
+Medium Pufferfish head
+Melting Snow Golem heads
+Colored Shulker Shell heads
+Existing heads in your inventory or placed in the world will automatically change to their new IDs.
+
+Heads work just like vanilla heads as of 1.26.30 and every head can now be worn!
+
+You are now also able to switch between using Vanilla textures or Custom textures inside your settings.
+
+1.4.1 Changelog
+
+Gameplay:
+
+Clownfish heads now give the wearer water breathing when worn.
+
+Melting Snow Golem heads play the correct placing and breaking sound.
+
+Visual:
+
+Fixed missing Shulker head lock icon inside the Head Index.
+
+Technical:
+
+Added language support for Vietnamese.
+
+1.4.0 Changelog
+
+Additions:
+
+Added the Head Index, a book that keeps track of which heads have been collected by the player.
+
+Added custom achievements for collecting various different heads.
+
+Added all baby variant heads. You can toggle baby mobs dropping their heads in the Head Settings.
+
+Added new crafting recipe for Tamed Decorated Llama heads, Copper Golem Poppy heads, Iron Golem heads, Snow Golem and Snow Golem Pumpkin heads.
+
+Villagers are now scared of any Zombie type heads.
+
+Added Clownfish head.
+
+Added Tamed Trader Llama heads.
+
+Added Sulfur Cube heads.
+
+Added Armored Wither heads.
+
+Added NPC heads.
+
+Gameplay:
+
+Wrench rotation has changed. You will now be able to rotate heads even when they are placed against a wall or upside down.
+
+Placing any head on top of a chest will no longer prevent the chest from opening.
+
+Updated mob note sounds to include the new sounds from the Tiny Takeover update.
+
+Fixed horse heads not playing their sound when put on a noteblock.
+
+Changed the way Tamed Wolf Armor heads store their armor durability.
+
+Updated Rabbit heads.
+
+Nautilus heads on noteblocks now play different sounds depending on whether they are waterlogged or not.
+
+Moobloom heads now have a 20% chance of dropping a sunflower when sheared.
+
+Moobloom heads can now be crafted with sunflowers.
+
+Slime heads got bouncier.
+
+Slime heads can now push entities.
+
+Slime heads no longer force /gamerule falldamage to be true.
+
+Any Zombie head will now damage surrounding Villagers and Players when worn.
+
+Warden heads will now detect jumping.
+
+Wither heads are bigger now, making it accurate to the actual Wither's heads.
+
+Enderman heads will teleport off of the player's head when it's raining or the player is in water.
+
+Enderman heads will teleport when they are exposed to rain.
+
+The Enderdragon head can now shoot its fireball if interacted with a bottle of dragon's breath.
+
+Collisions for Low Shulker Shell heads have changed.
+
+Fixed the agent sound playing when any magenta head was put on a noteblock.
+
+Removed Herobrine head.
+
+Visual:
+
+You can now toggle between using vanilla textures or custom textures in the resource pack settings.
+
+Added subtitles to all sounds.
+
+Head particles no longer block your vision.
+
+Fixed an issue where textures were failing to load for some players.
+
+Fixed translucent heads not rendering correctly as items.
+
+Horse heads will now display correctly in the inventory.
+
+Horse heads with armor display their armor correctly now.
+
+Squid and Glow Squid heads will now shoot ink when the wearer is taking damage.
+
+Tropical Fish heads can now have their 6th pattern, which was previously forgotten about.
+
+Moobloom head is now animated.
+
+Slime and Magmacube heads now have different item sizes making it easier to tell their sizes apart.
+
+W

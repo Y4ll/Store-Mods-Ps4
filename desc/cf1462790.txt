@@ -1,0 +1,65 @@
+Auto Enchantment Mod Description
+
+Auto Enchantment is a lightweight, achievement-friendly mod that streamlines the enchanting process in Minecraft. It automatically applies enchantments according to configurable rules while preserving in-game achievements and vanilla progression.
+
+Author: NeqGamerz
+
+Key Features
+
+- Automatic Enchanting: Applies enchantments to eligible items automatically based on rules you set (no manual enchanting required).
+
+- Achievement-Friendly: Designed to not block or disable in-game achievements play normally while enjoying automation.
+
+- Configurable Rules: Fine-grained control over which items can be auto-enchanted, allowed enchantments, and max enchantment levels.
+
+- Safe to Use: Minimal footprint, stable behavior with standard gameplay; no forced item removal or hidden mechanics.
+
+- Content-Creator Friendly: Reviewers and creators may showcase the mod, but distribution must use official links only.
+
+Compatibility
+
+Compatible with Minecraft Bedrock Edition v1.21.111 and above. Use on earlier versions is unsupported and may cause unexpected behavior.
+
+Installation (Quick)
+
+- Download the mod from the official distribution link provided by the author.
+
+- Place the mod file into your Bedrock com.mojang resource/behavior packs folder, or import using your device's import tool.
+
+- Enable the pack in the world settings (Resource and/or Behavior Packs as directed).
+
+- Restart the world to apply changes.
+
+Follow any additional installation instructions included with the official download.
+
+Configuration (Overview)
+
+- Access the mods configuration file or in-game settings (if provided) to:
+
+- Toggle auto-enchanting on/off.
+
+- Set permitted enchantments and maximum levels.
+
+- Whitelist/blacklist item types.
+
+- Adjust behavior for multiplayer/servers (if applicable).
+
+Specific configuration keys and examples are included with the official release.
+
+Notes for Content Creators
+
+- You may review, record, and demonstrate the mod.
+
+- You must only share the mod via the official distribution links supplied by the author; direct file sharing or unofficial mirrors is prohibited.
+
+- Always credit the mod to NeqGamerz when featuring it.
+
+Support & Contact
+
+For official downloads, updates, permission requests, or support, refer to the mods official page or the authors listed channels included with the release.
+
+Legal & Redistribution
+
+This mod is proprietary. Redistribution, repackaging, mirrors, or inclusion in third-party bundles/modpacks is strictly prohibited without explicit written permission from the author.
+
+Ready to simplify your enchanting while keeping achievements intact install from the official link and enjoy.

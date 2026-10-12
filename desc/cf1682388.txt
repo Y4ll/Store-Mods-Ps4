@@ -1,0 +1,13 @@
+Actions & Stuff is currently required to use this texture pack.
+
+ViewHands is a clean and customizable first-person view pack for Minecraft Bedrock Edition. It gives you more control over how your hands, blocks, tools, and held items appear on screen, allowing you to create a first-person view that better matches your preferences.
+
+Required Packs
+
+Credits
+
+Created and modified by Th6rkkj.
+
+Please do not redistribute, modify, or reupload this pack without permission.
+
+Note: This resource pack only changes the first-person appearance of hands, blocks, tools, and held items. It does not add or modify gameplay mechanics.

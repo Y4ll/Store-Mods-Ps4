@@ -1,0 +1,7 @@
+Fiena Visual Shade is a visual shader designed to create a comfortable and relaxing atmosphere. It focuses on soft, pleasant visuals rather than realistic lighting, making the world feel cozy and easy on the eyes.
+
+The shader blends calm blue tones with the gentle warmth of sunlight to produce a balanced and soothing environment. Instead of aiming for realism, it enhances colors and lighting in a simple, stylized way that keeps the game looking vibrant while still feeling natural. The result is a smooth, dynamic visual style that makes exploring the world feel more comfortable and enjoyable.
+
+This shader will enhance your visuals. It is equipped with PBR, ACE tone mapping, white balance temperature, and complex midtones.
+
+(All photos can be checked in the media or below)

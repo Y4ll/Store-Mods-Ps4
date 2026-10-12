@@ -1,0 +1,48 @@
+Turn the forest into your ultimate hiding spot! Wooden Troll Armor allows you to craft functional protective gear out of six different wood types. Its the perfect early-game survival gear that doubles as a master-class prank toolblend into the trees and watch your friends walk right past you!
+
+Become the Forest
+
+- Tree Camouflage: Match your surroundings perfectly using Acacia, Birch, Jungle, Oak, Cherry, or Spruce variants.
+
+- Classic Crafting: No complicated recipes! Use the standard armor patterns in a crafting table using refined wood planks.
+
+- Easy Repairs: Keep your troll suit in top shape by using the corresponding wood planks to repair durability.
+
+Armor Stats & Durability
+
+This set is designed for utility and stealth, offering lightweight protection for the clever player.
+
+Armor Piece
+Protection
+Durability
+Impact Resistance
+
+Helmet
+1
+25
+0.75
+
+Chestplate
+1
+25
+0.75
+
+Leggings
+1
+25
+0.75
+
+Boots
+1
+25
+0.75
+
+Pro Tip: With an enchantment value of 15, this armor is surprisingly easy to buff up with Unbreaking or Thorns!
+
+Future Updates
+
+Im already working on a Log Wood Troll Armor expansion! Soon youll be able to hide in plain sight among the forest and more.
+
+Need Help?
+
+Got a question or found a bug? Leave a comment below! I check them frequently and will respond as soon as I can to help you get back to trolling.

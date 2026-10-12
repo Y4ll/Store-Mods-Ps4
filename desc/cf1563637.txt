@@ -1,0 +1,97 @@
+Zombie Apocalypse
+
+Welcome to Zombie Apocalypse by FleetMc Studio a complete Minecraft Bedrock survival experience that transforms your world into a dangerous post-apocalyptic wasteland filled with infected creatures, survival loot, horror events, environmental threats, and unpredictable encounters.
+
+Explore the ruined world, search for valuable supplies, discover survivor camps and abandoned houses, survive zombie hordes, and prepare yourself for events such as Blood Moons, toxic acid rain, severe thunderstorms, and TNT rain. Every day can bring a new challenge, and every night can become a fight for survival.
+
+Zombie Apocalypse Survival
+
+- Zombie Hordes Large groups of infected zombies can appear around players.
+
+- Armed & Armored Zombies Zombies can spawn with different weapons and armor, including rare powerful equipment.
+
+- Blood Moon Zombies become stronger and the threat level rises during this dangerous event.
+
+- Zombie Infection Getting attacked by infected enemies can cause negative effects.
+
+- Blood Scent Injured players can attract additional danger from nearby infected creatures.
+
+- Dangerous Husks Husks can appear during different events and encounters.
+
+- Baby Zombies Even smaller infected enemies can become a serious threat.
+
+Survival Loot & Exploration
+
+Search the world for randomly generated survival loot chests. These chests contain a large variety of useful items, resources, food, weapons, armor, tools, ores, and rare rewards.
+
+The loot system includes more than 200 different possible items, giving you plenty of reasons to explore the world and search for abandoned supplies.
+
+- Food and farming supplies.
+
+- Weapons and tools.
+
+- Iron, Gold, Diamonds, Emeralds and other ores.
+
+- Armor and equipment.
+
+- Building materials.
+
+- Potions and survival items.
+
+- Rare resources and valuable loot.
+
+Survivor Camps & Abandoned Houses
+
+The apocalypse has left traces of the survivors behind. Survivor camps and abandoned husk houses can naturally appear around the world, giving you new places to explore and search for useful supplies.
+
+Camps can also provide temporary protection from the infected. Campfires act as safe zones where players can recover and defend themselves from nearby threats.
+
+Bandage System
+
+Survival isn't only about fighting zombies. Getting attacked can leave you bleeding, while falling from dangerous heights can cause a leg injury that slows you down.
+
+Use the new Bandage item to treat wounds, stop bleeding, recover from leg injuries, restore your health, and restore your hunger.
+
+- Heals bleeding.
+
+- Treats leg injuries.
+
+- Restores health.
+
+- Restores hunger.
+
+- Can be crafted and discovered as loot.
+
+Potion of Protection
+
+The new Potion of Protection gives you temporary protection when you need a break from the infected world. After using it, hostile mobs cannot approach within 5 blocks of you for 3 minutes.
+
+A live timer appears on your screen so you always know how much protection time remains.
+
+Dangerous World Events
+
+- Blood Moon Zombies become stronger and the world becomes significantly more dangerous.
+
+- Toxic Acid Rain A warning appears before the event begins. Find a roof or shelter because exposed players take damage during the acid rain.
+
+- Severe Thunderstorms Powerful storms bring lightning strikes and dangerous infected enemies. Charged creepers can also appear during these events.
+
+- TNT Rain TNT can fall from the sky while dangerous enemies appear around the impact area.
+
+- Sudden Time Shifts Day and night can change unexpectedly, making the world feel much less predictable.
+
+- Emergency Airdrops Supply drops can appear near players containing valuable survival loot such as Enchanted Golden Apples, Diamonds, and Iron Ingots.
+
+Horror Atmosphere
+
+- Dark apocalyptic zombie textures.
+
+- Reworked Zombie, Husk, and Baby Zombie appearances.
+
+- Random creepy ambient sounds.
+
+- Mysterious survival messages.
+
+- Unexpected horror sounds during exploration.
+
+- Cinematic introduction when enteri

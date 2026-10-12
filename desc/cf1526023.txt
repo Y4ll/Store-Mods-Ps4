@@ -1,0 +1,21 @@
+Project Description:
+
+Auto Enchantments allows players to apply random enchantments to any tool simply by interacting with it. If the initial roll of enchantments isn't what you are looking for, you can wash the tool in any water source to clear the current effects and try your luck again for a completely new set.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Random chance for any tool.
+
+- Balanced effects to fit the vanilla theme.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Sneaking while holding any tool instantly infuses it with up to four random enchantments, bypassing traditional enchantment tables and bookshelves for fast, field-ready upgrades.
+
+Interacting with any water source washes away a tool's current enchantments, clearing the slate so you can roll the dice again for a fresh combination of traits.

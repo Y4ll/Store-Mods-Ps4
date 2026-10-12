@@ -1,0 +1,177 @@
+Hammer Time
+
+Mine More. Dig Faster. Cut Trees. Harvest Crops. Fight Groups.
+
+Hammer Time expands Minecraft Bedrock with powerful tools designed to make repetitive Survival tasks faster while still giving you control over how their abilities work.
+
+Inspired by the Minecraft Java mod of the same name, Hammer Time adds Hammers, Great Swords, Great Axes, Sickles and Great Shovels, each with its own unique mechanics.
+
+Compatibility
+
+- Compatible with other Add-ons
+
+- Realms Compatible
+
+- No Experimental Features Required
+
+- Does NOT use player.json
+
+- Per-player configuration
+
+- Translatable configuration
+
+Visit My Official Website
+
+What Does Hammer Time Add?
+
+Hammer Time includes 5 main tool types:
+
+- Hammers Area Mining, Tunnel Mining and Vein Mining
+
+- Great Swords Knockback and Cleave/Sweeping attacks
+
+- Great Axes Fast tree cutting
+
+- Sickles Leaf clearing, crop harvesting and Auto Replant
+
+- Great Shovels Area digging, paths and farmland
+
+Each tool is specialized for different Survival tasks, and many of their abilities can be customized directly in-game.
+
+Hammer Time V3.1.0
+
+A Major Upgrade for Every Tool
+
+V3.1.0 greatly expands Hammer Time with new mining modes, a real-time mining preview, improved tools, better enchantment support, new combat mechanics, per-player settings and additional performance options.
+
+What's New?
+
+- Area, Tunnel and Vein Mining modes
+
+- Mining sizes from 1x1 up to 7x7
+
+- Configurable tunnel size and depth
+
+- Connected ore Vein Mining
+
+- New Safe Mining
+
+- Real-Time Mining Preview
+
+- Improved Fortune, Silk Touch and Unbreaking
+
+- Configurable durability cost from 0.5 to 10
+
+- Improved Great Axe tree cutting
+
+- Area crop harvesting
+
+- Auto Replant
+
+- Improved Great Shovel mechanics
+
+- New Cleave / Sweeping Attack
+
+- Per-player configuration
+
+- Independent settings for different tools
+
+- New performance options
+
+- Fully translatable new settings
+
+-Video Review-
+
+Full V3.1.0 Details
+
+Hammer Mining Modes
+
+Hammers now support three different mining modes, allowing you to change how your Hammer works depending on what you are doing.
+
+Area Mining
+
+Break multiple compatible blocks at once.
+
+Available sizes:
+
+- 1x1
+
+- 3x3
+
+- 5x5
+
+- 7x7
+
+Use smaller areas when you need precision or larger areas when clearing caves and large sections of terrain.
+
+Tunnel Mining
+
+Tunnel Mode is designed for quickly excavating underground passages.
+
+You can configure:
+
+- Tunnel Size
+
+- Tunnel Depth
+
+This allows you to create tunnels much faster without manually breaking every block one by one.
+
+Vein Mining
+
+Vein Mining detects connected ores and allows the Hammer to process them together.
+
+You can configure the maximum number of connected blocks that can be processed in a single action.
+
+Safe Mining
+
+Large mining areas are powerful, but sometimes you don't want every nearby block to be destroyed.
+
+Hammer Time now includes Safe Mining to help prevent certain important blocks from being accidentally broken.
+
+Additional options include:
+
+- Break only blocks of the same type
+
+- Configurable mining limits
+
+- Optional nearby ore protection
+
+- Nearby ore protection is disabled by default
+
+Quick Hammer Mode Switching
+
+You don't need to constantly open the configuration menu to change your Hammer mode.
+
+Use Sneak + Use while looking at a block to quickly switch between Hammer modes.
+
+Real-Time Mining Preview
+
+V3.1.0 introduces a new real-time mining preview.
+
+Before you begin mining, Hammer Time can show exactly which blocks will be affected by your current mining mode.
+
+The preview works when mining:
+
+- Walls
+
+- Floors
+
+- Ceilings
+
+- From different directions
+
+The preview does not interrupt or restart your normal block-breaking progress.
+
+A cleaner selection particle is also used to make affected areas easier to understand without filling the screen with unnecessary particles.
+
+Preview Settings
+
+- Preview Density
+
+- Maximum Preview Distance
+
+- Preview Update Frequency
+
+- Actionbar Information
+
+Preview information in the actionbar is enab

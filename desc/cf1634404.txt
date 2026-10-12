@@ -1,0 +1,79 @@
+Weather and Tornadoes is a Bedrock add-on inspired by Corosus's Weather1 for Java. It brings enhanced weather systems, items, tornadoes with stages, a weather radar, sensors, and a mini-boss. This is a beta port and may have bugs.
+
+________________________________________________
+
+Tornadoes
+
+Tornadoes are a core feature of this add-on: rapidly rotating columns of air that form from storms and can lift entities, damage terrain, and interact with other systems. Tornadoes have stages from 1 to 6; their strength depends on atmospheric conditions such as Wind Gust, Wind Gust Event, humidity, and Wind Strength. The tornado in this add-on moves in a very random direction and you can also set the direction of the tornado towards you.
+
+Storm System
+
+In this add-on, Minecraft Bedrock's original weather system has been replaced by a storm system. Storms regulate the weather in Minecraft, depending on the stage. Each Stage in the storm, has its nickname.
+
+Here are the nicknames with stages:
+
+"Drizzle Puff" - Stage 1
+
+"Sparkle Rumble" - Stage 2
+
+"Grumpy Cloudy" - Stage 3
+
+"Angry Storm" - Stage 4
+
+"Menace Muffin" - Stage 5
+
+"The End" - Stage 6
+
+You can set the Stage for this storm in the Weather Menu.
+
+________________________________________________
+
+Blocks
+
+The add-on adds several functional blocks for detecting and responding to tornadoes and weather events.
+
+Tornado Sensor
+
+The Tornado Sensor generates a redstone signal when a tornado is within a 128-block radius.
+
+Tornado Siren
+
+The Tornado Siren emits a siren sound when a tornado is detected within ~128 blocks.
+
+Weather Radar
+
+Weather Radar detects nearby tornadoes and Tracking Tornado position.
+
+________________________________________________
+
+Recipe
+
+Tornado Sensor
+
+Tornado Siren
+
+Weather Radar
+
+________________________________________________
+
+Mini Boss
+
+This add-on includes a mini-boss called the Fire Worm. In the original mod it could only move and turn into fire; in this port the worm is presented as a model-based entity that disappears at random times and can shoot fire blocks at players.
+
+________________________________________________
+
+ADDITION:
+
+If you are playing survival and you don't know the atmospheric conditions, you can enable Debug Info in the Weather Menu or you can tag yourself with the name debug_info.
+
+/tag @s add debug_info
+
+Later it will display like this
+
+________________________________________________
+
+Note:
+
+THIS ADD-ON IS STILL IN BETA EXPECT BUGS. EXPERIMENTAL FEATURES MUST BE ENABLED!!
+
+Some features were adapted from Corosus's Weather1 mod. This port aims to reproduce many original mechanics while adapting systems to Bedrock constraints. If you notice issues or have feedback, please include details about your Minecraft version and world setup when reporting bugs.

@@ -1,0 +1,61 @@
+Bring a Java-style Freecam experience to Minecraft Bedrock Edition!
+
+This add-on lets you leave a player dummy behind while freely exploring your world in spectator mode. Perfect for building, recording videos, inspecting terrain, checking redstone contraptions, and taking screenshots without moving your character.
+
+Features
+
+Java-style Freecam system
+
+Use /freecam or /fc to toggle Freecam
+
+Leaves a player-sized dummy behind
+
+Dummy displays your player name
+
+Automatically returns you to your original location
+
+Restores your previous gamemode when exiting
+
+Return instantly by toggling Freecam again
+
+If the dummy is damaged, you are automatically returned
+
+Designed for survival, creative, and adventure mode worlds
+
+Multiplayer compatible
+
+How It Works
+
+- Use /freecam or /fc
+
+- A dummy is left behind where you activated Freecam
+
+- You are switched into spectator mode
+
+- Fly around and explore freely
+
+- Use the command again to return
+
+If your dummy is damaged while in Freecam, you will automatically return to your body.
+
+Uses
+
+- Building large structures
+
+- Cinematic screenshots
+
+- Video recording
+
+- Base inspections
+
+- Terrain scouting
+
+- Redstone debugging
+
+- Server administration
+
+Notes
+
+This add-on is designed to recreate the feel of Java Edition Freecam as closely as possible within Bedrock Editions add-on system.
+
+You can add custom skins to the dummy based on name using this pack https://mcpedl.com/java-like-freecam-custom-dummy-skins/

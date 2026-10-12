@@ -1,0 +1,65 @@
+Pure driving pleasure brought to Minecraft Bedrock.
+
+Experience the power, precision, and iconic design of BMW vehicles in Minecraft like never before. This addon delivers a curated lineup of BMW performance cars and SUVs, combining sporty handling, immersive driving mechanics, and detailed animations built for players who value control, speed, and authentic driving feel on city streets and open highways.
+
+AVAILABLE MODELS:
+
+ENGINES:
+
+MECHANICS:
+
+GEAR SYSTEM:
+
+The addon features a functional gear system that directly affects vehicle behavior:
+
+Start Neutral
+
+Neutral 1st gear
+
+1st Neutral (only when stopped)
+
+1st 2nd 3rd 4th
+
+4th 1st (cycle reset)
+
+IGNITION SYSTEM:
+
+Vehicles can only be started from inside the car using a key.
+
+The engine can only be turned off while in neutral, increasing realism.
+
+EMISSIVITY:
+
+Simulates the cars headlights.
+
+COLORS:
+
+Paint your car using any Minecraft dye.
+
+SHOP:
+
+Shop system using iron ingots + the required engine.
+
+LANGUAGES:
+
+This addon is available in the following languages:
+
+Brazil (Portugues), Bulgaria (), Canada (English / Francais), China (), Czech Republic (Cestina), Denmark (Dansk), Finland (Suomi), France (Francais), Germany (Deutsch), Greece (), Hungary (Magyar), Indonesia (Bahasa Indonesia), Italy (Italiano), Japan (), Mexico (Espanol), Netherlands (Nederlands), Norway (Norsk), Poland (Polski), Portugal (Portugues), Russia (), Slovakia (Slovencina), South Korea (), Spain (Espanol), Sweden (Svenska), Taiwan (), Turkey (Turkce), Ukraine (), United Kingdom (English), United States (English).
+
+Some translations may not be 100% accurate and can be improved in future updates.
+
+If you find any translation issues, feel free to report them in the comments.
+
+ANIMATIONS:
+
+- Rotating and steering wheels.
+
+- Vehicle movement during acceleration, braking, cornering, and terrain changes.
+
+EXTRAS
+
+New mechanics and models will be added in future updates.
+
+Perfect for players who love cars, urban roleplay, or simply want to explore Minecraft roads in style!
+
+Turn your Minecraft world into a true BMW garage!

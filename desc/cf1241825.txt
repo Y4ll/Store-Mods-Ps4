@@ -1,0 +1,10 @@
+Cataclysmical is a large content Add-On that adds various blocks, items, weapons, mobs, dungeons, bosses and even a new trinket mechanic. Cataclysmical aims to add a fun and hard challenge to Minecraft. Some mobs and bosses are intended to be hard and challenging.
+
+## How to Install:
+1. Download the .mcaddon file
+2. Import into Minecraft
+3. Activate both packs (behavior + resource)
+
+experimental toggles are not required
+
+Make sure to join the project's Discord Server for the newest updates, betas & spoilers! You can also join our Community Discord for more awesome content & exclusive development sneak peeks!

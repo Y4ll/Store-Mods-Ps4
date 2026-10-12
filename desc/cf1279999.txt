@@ -1,0 +1,25 @@
+Are you tired of addons that add useful buttons but drastically change the UI? Well, here's the solution this addon adds only the essential buttons you need without modifying the original UI. Your game will remain just as you know it, with the useful additions you've been looking for
+
+Inventoy Buttons
+
+destroy Button
+
+drop one Button
+
+drop all Buttton
+
+auto place Button
+
+default Buttons
+
+Quick craft Button
+
+HUD Button
+
+This button controls the HUD visibility, functioning identically to the F1 key toggle
+
+Chat Buttons
+
+No need to explain, right?
+
+This mod was made using a simple mobile phone and a collection of different mods

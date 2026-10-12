@@ -1,0 +1,23 @@
+Structures Addon
+
+This addon introduces a whole new level of adventure to your Minecraft Bedrock world! With 40+ custom structures that can generate in the sky, on the surface, and deep underground, every exploration feels unique, dangerous, and rewarding. Each structure has its own design, secrets, and challenges, making survival far more intense and exciting.
+
+Features
+
+40+ New Structures: Explore ruins, dungeons, floating structures, camps, and mysterious builds scattered across the sky, overworld, and caves.
+
+Unique Loot: Many structures contain randomized loot chests to reward brave explorers willing to take risks.
+
+Deadly Traps: Unlike most addons, this one includes Redstone-based traps designed to surprise, challenge, or eliminate unprepared players.
+
+Achievements Friendly: This addon does NOT disable achievements, allowing you to continue earning them in survival worlds.
+
+Multi-Layer World Generation: Structures can appear at different heights and depths, encouraging exploration beyond just the surface.
+
+Balanced Gameplay: Every structure offers a balance between risk and reward, requiring strategy, caution, and preparation to survive.
+
+Why download this addon?
+
+If youre tired of plain and predictable exploration, this addon brings your world to life. From dangerous underground dungeons to floating sky structures and trapped surface ruins, it ensures no two adventures feel the same all while keeping vanilla achievements enabled.
+
+Explore, survive, loot, and beware of traps!

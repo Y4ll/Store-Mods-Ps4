@@ -1,0 +1,57 @@
+Welcome to the Minecraft World of Pokemon, Jump into Craftmon Legacy and start your epic adventure catching, battling and evolving to become the very best Pokemon trainer you can be.
+
+When you start your adventure you will have a Letter from Professor Oak! Open the Letter to choose your Starter Pokemon .
+
+You will have the choice of either Bulbasaur, Charmander or Squirtle.
+
+Wild Pokemon will spawn in all areas of your world and at different times.
+
+You can find Apricorn Tress in most Biomes in your world, harvest the Apricorns to craft Poke-Balls.
+
+Poke-Balls can not be crafted on a normal Crafting Table, you will need to craft yourself a Poke-Crafter to craft all the Poke-Balls.
+
+Each Pokemon will have it's own catch rate. The Poke-Ball has a 1x Catch Rate, the Great Ball has a 2x Catch Rate, the Ultra Ball has a 4x Catch Rate, the Premier Ball has a 1x Catch Rate, the Fast Ball has a 1x Catch Rate unless the Pokemon has a base speed stat of 70 or more then it has a 4x Catch Rate, the Heavy Ball has a 1x Catch Rate unless the Pokemon weighs more then 50kg then it has a 4x Catch Rate and the Master Ball has a 100% Catch Rate.
+
+You can craft some Apricorn Seeds from Apricorns
+
+Plant your Apricorn Seeds to grow Apricorn Trees, You can use Growth Mulch, Gooey Mulch or Damp Mulch on the Apricorn Trees to make them grow faster.
+
+You can find Dropped Items around your world, interact with the sparkles to get a random item which you can use or sell.
+
+Catching Wild Pokemon is the same as any Pokemon game, just throw a Poke-Ball and hope for the best, the better the Poke-Ball the better your chances.
+
+When you have caught a Wild Pokemon interact with the Poke-Ball to collect your Pokemon
+
+Craftmon Legacy does not use a Level System, instead we have designed it to be more like the Pokemon GO! Star rating system.
+
+When you catch a Wild Pokemon it will have a random Star Rating, 0 being the worst and 4 being the best. A 0 Star Pokemon will have a standard HP stat and with each Star more their HP stat will increase by 10%. A 4 Star Pokemon will 50% more HP then a 0 Star Pokemon meaning a 4 Star Pokemon will last longer in battle.
+
+When you want to battle a Wild Pokemon just send your Pokemon out by throwing their Poke-Ball near the target, when the Pokemon are within a radius they will lock on to each other ready for battle.
+
+Change the mode of your Pokemon to either Battle or Follow.Whilst in Follow Mode your Pokemon will not lock on to a target instead they will follow you around.
+
+When having a Battle with a Wild Pokemon it will work on a turn based system, you choose your attack then the Wild Pokemon will attack back.
+
+If your Pokemon faints, you can return it the same way as if it was healthy.
+
+Use a Max Revive on Fainted Pokemon to bring them back to full health.
+
+When a Wild Pokemon faints they will drop an item unique to them, for example: Wild Eevee will drop Eevee Fur.
+
+You can convert these items using a Material Converter into Pokemon Candy.
+
+When you have enough Pokemon Candy you can evolve your Pokemon as long as you have 2000 Stardust.
+
+Stardust is earned when you Faint or Catch a Pokemon, you can see how much Stardust you have when using your Trainer Card. Each Pokemon will need 2000 Stardust and the correct amount of Candy to evolve.
+
+If you head to the nearest Village you will be able to find a Poke-Mart Clerk to buy some useful items from.
+
+You can also find a Poke Maniac in Villages who will buy all the Dropped Items you find.
+
+If you come across any bugs or anything that seems out of place, please let me know on Discord!
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on
+
+Achievement Compatible

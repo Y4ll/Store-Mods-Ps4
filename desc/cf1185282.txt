@@ -1,0 +1,29 @@
+Vanilla Reforged brings a mixture of high quality lighting effects and high quality texture work to enhance your game through the power of Vibrant Viusals
+
+Join the discord for development updates!
+
+https://discord.gg/BQAJxnQHMb
+
+Join my patreon to support me or get some cool exclusive content!
+
+https://www.patreon.com/QuirkyPlague?utm_campaign=creatorshare_creator
+
+Features:
+
+Upscaled vanilla textures to 128x
+
+Utilizing custom normals at 128x resolution to create immersive levels of texture detail
+
+High quality pbr effects
+
+Custom hand-tuned color grading
+
+Per biome volumetric fogs for increased immersion
+
+High quality lighting effects
+
+Finely tuned water waves
+
+Stylized textured clouds
+
+Images:

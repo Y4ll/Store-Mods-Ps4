@@ -1,0 +1,103 @@
+Not Enough Enchantment Level
+
+This addon provides a list of enchant levels that cannot be obtained in Minecraft bedrock vanilla
+
+List of Available Enchantments
+
+- Aqua Affinity
+
+- Bane Of Athropods
+
+- Blast Protection
+
+- Breach
+
+- Channeling
+
+- Curse Of Binding
+
+- Curse Of Vanishing
+
+- Density
+
+- Depth Strider
+
+- Efficiency
+
+- Feather Falling
+
+- Fire Aspect
+
+- Fire Protection
+
+- Flame
+
+- Fortune
+
+- Frost Walker
+
+- Impaling
+
+- Infinity
+
+- Knockback
+
+- Looting
+
+- Loyality
+
+- Luck Of The Sea
+
+- Lunge
+
+- Lure
+
+- Mending
+
+- Multishot
+
+- Piercing
+
+- Power
+
+- Projectile Protection
+
+- Protection
+
+- Punch
+
+- Quick Charge
+
+- Respiration
+
+- Riptide
+
+- Sharpness
+
+- Smite
+
+- Soul Speed
+
+- Swift Sneak
+
+- Thorns
+
+- Unbreaking
+
+- Wind Burst
+
+Some enchantments may only have 1 level (Limitations)
+
+How to Use?
+
+- Craft the enchanted book first
+
+- The recipe is book + book
+
+- Hold the enchanted book, then interact/right click
+
+- The UI will open, with a list of all available enchantments
+
+- Ui select level using dropdown
+
+- Maximum enchant level up to X

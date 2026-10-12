@@ -1,0 +1,59 @@
+Have you ever wanted Dynamic Lighting like in Javas Optifine? Then this add-on is perfect for you! It makes every light source (torches, lanterns...) shine when you hold it. Now exploring caves is much more realistic and you will no longer have to constantly place torches.
+
+NEW: With Jump and Crouch you can quickly move the torch to your Second Hand.
+
+EXAMPLE VIDEOS:
+
+HOW TO MOVE THE TORCH TO THE OFFHAND (JUMP and SNEAK):
+
+You can move all types of Torches and Lanterns from your Main Hand to your Second Hand by clicking Jump and Sneak at the same time.
+
+LIST OF ALL ITEMS WITH DYNAMIC LIGHT:
+- Torch
+- Soul Torch
+- Redstone Torch
+- Lantern
+- Soul Lantern
+- Redstone Ore
+- Nether Star
+- Fire Charge
+- Sea Pickle
+- Glow Frame
+- Glow Ink Sac
+- Blaze Rod
+- Blaze Powder
+- Froglight
+- Amethist
+- End Crystal
+- Sea Lantern
+- Ender Eye
+- Skulk Catalyst
+- Glow Lichen
+- Magma Cream
+- Redstone Block
+- Ender Chest
+- Brewing Stand
+- Campfire
+- Glowstone
+- Beacon
+- Crying Obsidian
+- Magma
+- Shroomlight
+- Enchanting Table
+- End Rod
+- Totem of Undying
+- Lava Bucket
+- Glow Berries
+- Experience Bottle
+- Breeze Rod
+- Firefly Bush
+- Copper Torch [ 1.21.110+ Only ]
+- Copper Lantern [ 1.21.110+ Only ]
+
+If you want to share the addon, be sure to send the MCPEDL or CURSEFORGE addon link.
+You can also find this content on the official ADDONS UNIVERSE App!
+Remember, this content is strictly exclusive to these 3 platforms.
+
+Thanks and have fun! :D
+
+|- Download Other Incredible Addons: HERE -|

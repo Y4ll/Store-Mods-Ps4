@@ -1,0 +1,3 @@
+This is a simple mod that automatically enchants your equipment in Minecraft Bedrock. This mod is free for distribution and modification.
+
+If you modify and repost, I would appreciate it if you at least put "adapted" in the mod description

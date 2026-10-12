@@ -1,0 +1,20 @@
+Since the very first "Minecraft But" pack I dropped totally blew past my expectations (like seriously, you guys are insane), Im back with another chaotic twist for you all to sufferuh, I mean enjoy.
+
+So here it is, once again:
+
+MINECRAFT BUT!
+
+-
+sneaking = death
+
+No more bridging :(
+
+-
+if a player dies, everyone dies too
+Because why suffer alone when you can drag your friends down with you?.
+
+And don't worry about death loop in mobile because I added cool down before you (all) get stuck on death
+
+And old version? Yeah don't worry the script uses old module version so you're fine 1.17+
+
+Idea suggested by essa_rathore on MCPEDL

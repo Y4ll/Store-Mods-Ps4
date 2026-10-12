@@ -1,0 +1,65 @@
+Animated XP Bars
+
+Bring calm, minimal beauty to your Minecraft HUD with the Animated XP Bar.
+
+This pack replaces the default XP bar with a smooth, modern gradient design that adds a relaxing and stylish touch to your screen. Perfect for players who love clean visuals and a cozy, aesthetic vibe while exploring, building, or surviving!
+
+Features:
+
+- Soft gradient animation for a soothing look
+
+- Smooth 18-frame animated colour flow
+
+- Minimalist, modern design
+
+- 9 styles to choose from in pack settings
+
+- Works with shaders
+
+- Lightweight and performance-friendly
+
+Subpack Descriptions for Animated XP Bar
+
+1) Anemo XP Bar
+
+A cool, wind-themed XP bar with teal tones inspired by elemental aesthetics. Calm, refreshing, and perfect for a clean fantasy-styled HUD.
+
+2) Aesthetic XP Bar
+
+A soft, clean, and minimal glow-style XP bar designed for players who want a smooth and modern HUD without distractions.
+
+3) RGB XP Bar
+
+A vibrant, colour-cycling XP bar with smooth rainbow animation. Perfect for players who love stylish UI effects and a flashy gameplay vibe.
+
+4) Sakura XP Bar
+
+A pink, pastel-inspired XP bar with gentle Sakura-style highlights. Great for aesthetic builds, soft themes, and cozy gameplay styles.
+
+5) Purple XP Bar
+
+A purple XP bar with a gentle purple glow. Great for players who love a purple colour theme.
+
+6) Dark XP Bar
+
+A dark XP bar with a spooky vibe. Perfect for night players and dark UI lovers.
+
+7) Ocean XP Bar
+
+A deep ocean-inspired XP bar. Perfect for players who love a calm, immersive aesthetic inspired by the sea.
+
+8) Snowy XP Bar
+
+A snow-themed XP bar for those who love snow and cold biomes.
+
+9) Emerald XP Bar
+
+A fresh emerald-green XP bar inspired by Minecraft's classic XP colour, with the same smooth animated glow. Perfect for players who want a vanilla-friendly look with a modern touch.
+
+How to choose a style
+
+- Download and open the .mcpack Minecraft imports it automatically
+
+- Go to Settings Global Resources (or your world's Resource Packs) and activate Animated XP Bars
+
+- Click the gear icon on the pack and use the slider to pick one of the 9 styles

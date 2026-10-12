@@ -1,0 +1,29 @@
+Upon first playing the addon on a fresh world, you will not notice anything happen right away. This is because events will only begin to happen when the world is at least 60 minutes old, or after 3 in-game days. If your world is already 3+ in-game days old, then you will start noticing events right away.
+
+When players are in forest biomes, "The Shifter" will lurk and hunt when the time is right, while using other tricks to catch players when they least expect it.
+
+The Shifter will spawn mostly during the night, but can occasionally spawn during the day depending on different circumstances.
+
+Important:
+
+The addon is still in early stages and designs, sounds, and features may not be final.
+
+The add-on also comes with 3 settings to choose from:
+
+Normal Setting:
+-default attack damage
+-default health
+-default spawn rate
+
+Hard Setting:
+-increased attack damage
+-increased health
+-increased spawn rate
+
+Nightmare Setting:
+-further increased attack damage from Hard Setting
+-further increased health from Hard Setting
+-further increased spawn rate from Hard Setting
+-events will happen immediately when applying to a fresh world (no 3 in-game day or 60 minute wait)
+-commonly spawns during the day
+-spawns in any biome

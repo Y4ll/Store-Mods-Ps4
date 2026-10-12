@@ -1,0 +1,105 @@
+Now works for minecraft 1.21.71
+
+New interface!!
+
+-The backpack now has 45 spaces to store things.
+
+BACKPACK RECIPE
+
+HOW TO USE ?
+
+How to put the backpack on your back?
+
+If you want to see the backpack on your back, you have to place the backpack item in your inventory, NOT in the hotbar.
+
+If you can't deselect your backpack, stop holding it for a moment to put it in your inventory.
+
+Now that you have your backpack in your inventory it will now be visible!! Try all the designs you want and choose the one you like the most. Have fun!!
+
+NEW!!
+
+NOTEBLOCK:
+
+Cherry Leaves
+
+DEFAULT:
+
+Black:
+
+Blue:
+
+Cyan:
+
+Gray:
+
+Green:
+
+Light Blue:
+
+Lime:
+
+Magenta:
+
+Orange:
+
+Pink:
+
+Purple:
+
+Red:
+
+Silver:
+
+White:
+
+Yellow:
+
+Iron:
+
+Amethyst:
+
+Gold:
+
+Diamond:
+
+Copper:
+
+Blaze:
+
+Emerald:
+
+Snow:
+
+Sculk:
+
+Redstone:
+
+Turtle:
+
+Pumpkin Backpack:
+
+Soul Pumpkin Backpack:
+
+Cake:
+
+Crimson:
+
+Warped:
+
+Full Dark:
+
+Smile:
+
+Dark Brown:
+
+Dark Red:
+
+Light Red:
+
+Turtle backpack:
+
+It is made with pieces of tortoise shell
+
+Important:
+
+Many times, people who review this add-on do not read the features and terms before making a video about it. If you are a content creator and plan to review this add-on, please use the MCPDL link and refrain from providing direct links or creating your own. If you violate this rule, I will take action accordingly.

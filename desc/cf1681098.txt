@@ -1,0 +1,21 @@
+Mirai by Yuki
+
+That Mirai is an unofficial compatibility fork of the original Mirai shader created by bambosan (sad).
+
+This version updates the renderer and material pipeline for Minecraft Bedrock 26.45, with a focus on Android devices using MBLoader and Vibrant Visuals.
+
+Version 2.19 will take a while to update, including bug fixes, Windows support, and resolution of some conflicts.
+
+(Fixes to the Nether, The End, water, added rendering settings, and some other bugs that have been identified.
+
+Credits
+
+Original shader, source and assets:Mirai by bambosan (sad)
+
+Original website: https://bambosan.github.io/mirai/
+
+Original source: https://github.com/bambosan/mirai
+
+Bedrock 26.45 compatibility port, testing and maintenance: Yuki
+
+This is not an official release from the original creator. Please do not contact the original author for problems that only occur in this corrected version.

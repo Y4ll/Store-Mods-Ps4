@@ -1,0 +1,66 @@
+Members in my discord server get early access to all add-ons/packs, up to 2 days early for new content.
+
+https://discord.gg/UP86z5vkmv
+
+Donators to my Ko-fi get exclusive prelease content/sneak peaks through my discord server^ (and it helps support me wanting to keep these projects going)
+
+Side Info :
+
+If you are needing to report a bug, please do so in my discord server. I don't check my curseforge/mcpedl comments often, and most times if you report it in my server I will fix it and release a patch same day.
+If you have mob suggestions that are not on the backrooms wikidot entities section, please note that these will be the last ones added in seperate sections. Our plan is to add everything reasonable from the wikidot first before doing anything else. Doesn't mean they won't be added, but they are not our priority at this current moment.
+If you are leaving a star review on mcpedl, please leave a comment as well! I would love to know the reasoning on your review and how I can improve anything existing. A lot of times bugs slip past us, we don't intentionally try to release them.
+If you would like to work on this project and others you can also apply to our development team in my discord server. Most positions are paid besides beta testers.
+Sounds will not be added until I have a regularly available sound artist to create original sounds for this addon. (At a reasonable price)
+
+Please change the extension from mcaddon to .zip and install it through your development folders if you plan to modify the addon.
+
+This add-on works for most versions, from since I was testing it works as far back as 1.21.50 (minus any components I use in new versions, which should only limit behavior and not make it completely unfunctional)
+
+If new entities do not work on older versions this is something I cannot fix. A lot of the new entities we are creating depend on functionalities only found in newer minecraft versions.
+
+You only need to download the latest version which includes features and mobs from all previous version. Downloading a newer version after downloading and older one and importing it will just update the pre-existing content with the new content. I did this for your ease :)
+
+This add-on is intended mainly for maps. No mob spawns naturally, but their spawn eggs are located in the spawn eggs category and they are summonable with the tag "ve:", Currently has 16 Entities:
+
+#?? Bacteria 1.0.0
+
+#3 Smiler 1.0.0
+
+#4 Deathmoth - 1.0.1
+
+#5 Clump 1.0.0
+
+#6 Duller - 2.0.0
+
+#8 Hound - 1.0.8
+
+#10 Skin Stealer - 1.0.4
+
+#12 Dunks - 1.0.7
+
+#15 Wretch - 2.0.0
+
+#16 Nguithr'xurh - 1.0.8
+
+#29 Blub Cats - 2.0.0
+
+#38 Humanoid (Male and Female, 2 entities) 1.0.0
+
+#67 Partygoer - 1.0.1
+
+#68 Partypooper - 1.0.4
+
+#96 The Neighborhood Watch - 1.0.7
+
+#121 The Bone Thieves - 2.0.0
+
+the update numbers not next to any mob was a bugfix update.
+
+I've made each one act as they say in the wiki-dot, with plans to expand on it further.
+Things to note:
+This is still in progress and will recieve updates so keep a look out.
+The male deathmoths (smaller ones) can be tamed with sticks, you can change this in the deathmoth.json file where it says "minecraft:stick" change it to your item of choice.
+Yes, deathmoths and dunks were purposely made to spawn in with a name tag, this is because there is a minecraft bug where custom tamed entities will say "Unknown was killed by player" if the tamed entity were to die and this was my only fix.
+I am aware some mobs have animation issues. I am fixing them.
+
+You may use this add-on in your map for download, however you like. I personally just ask for credit, but the liscense doesn't require it. Please contact me if you would like to volunteer or contribute. Looking for animators, sound artists, and anyone to add to our language support for lauguages I don't already have.

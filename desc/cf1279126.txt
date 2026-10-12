@@ -1,0 +1,1 @@
+You can do /dupe to dupe items. It can dupe any item that you hold.

@@ -1,0 +1,111 @@
+Terror Ambient V2 Horror Atmosphere Add-On for Minecraft Bedrock Turn your Minecraft world into a dark and terrifying experience with Terror Ambient V2. This add-on adds immersive ambient horror sounds that play automatically depending on where the player is, creating tension, suspense, and a creepy atmosphere while exploring. Perfect for horror maps, survival worlds, cave exploration, and scary multiplayer experiences. Features Automatic ambient sound system Creepy horror sounds and dark piano effects Different sounds for caves and surface areas Immersive exploration atmosphere Lightweight and optimized Works in survival and multiplayer Compatible with Minecraft Bedrock Edition 1.21+ Included Sounds Horror Ambience Disturbing ambient effects Sudden scary sounds Dark environmental atmosphere Piano Ambience Multiple eerie piano tracks Suspenseful background music Psychological horror feeling Cave Sounds Special underground ambience Creepy cave echoes Exploration tension Default Ambient Sounds Ambient effects for normal world exploration Dynamic atmosphere while traveling How It Works The add-on automatically detects the players environment and plays different ambient sounds depending on the location: Surface ambience Cave ambience Horror events Random atmospheric effects No commands are required after setup. Installation Import the .mcaddon file into Minecraft Bedrock Edition. Activate both: Behavior Pack Resource Pack Enable: Holiday Creator Features (if needed) Enter your world and enjoy the horror atmosphere. Recommended For Horror maps Survival gameplay Multiplayer servers Cave exploration Roleplay worlds Scary adventure maps Creator Created by NexTorh Version Terror Ambient V2 Compatibility Minecraft Bedrock Edition 1.21+
+
+TerrorAmbient_V2 v2.4.6 Upda
+
+What's Ne
+
+The new v2.4.6 update has arrive
+
+Add
+
+7 new ambient horror sound
+
+New wolf sounds
+
+New cricket sounds
+
+New jump scare sounds
+
+New scream sounds
+
+More creepy and disturbing audio effects
+
+New Night Even
+
+A brand-new event has been added to the addo
+
+When the addon detects that it is nighttime, special sounds and music can start playing automaticall
+
+Night Featur
+
+Horror music plays during the nigh
+
+Crickets can be heard in the darkness
+
+New night ambient sounds
+
+Enhanced horror atmosphere
+
+Some sounds may also play randomly at night to create a more immersive experience
+
+Thank you for downloading and supporting TerrorAmbient_V2
+
+Created by NexTor
+
+Important To make the add-on work correctly, you must run this command once after entering the world: Mcfunction /function setup This command is required to initialize the ambient sound system and activate all horror events and atmosphere features properly. After running the command, the add-on will work automaticall
+
+TerrorAmbient_V2 v2.5.1 Update
+
+New Update Released!
+
+The new v2.5.1 update is now available and brings even more horror sounds to improve the atmosphere of your world.
+
+Added
+
+- 14 brand-new horror sounds.
+
+- 1 crying girl sound.
+
+- 1 crying baby sound.
+
+- 3 new alarm siren sounds.
+
+- New footsteps sounds.
+
+- New jump scare sounds.
+
+- Additional creepy ambient effects.
+
+Improvements
+
+- More immersive horror atmosphere.
+
+- Increased variety of random sounds.
+
+- Better nighttime experience.
+
+- New sounds can play randomly while exploring the world.
+
+Recommended
+
+For the best experience, play with sound enabled and explore caves, forests, and dark areas at night.
+
+Thank you for supporting TerrorAmbient_V2!
+
+Commands
+
+Use these commands to play the custom sounds included in TerrorAmbient_V2.
+
+/playsound ambient.piano @s
+
+/playsound ambient.cave @s
+
+/playsound ambient.default @s
+
+/playsound ambient.horror @s
+
+/playsound ambient.night.crickets @s
+
+/playsound ambient.night.wolf @s
+
+/playsound ambient.night.atmosphere1 @s
+
+/playsound ambient.night.atmosphere2 @s
+
+/playsound ambient.night.atmosphere3 @s
+
+/playsound ambient.night.jumpscare @s
+
+/playsound ambient.air_raid_siren1 @s
+
+/playsound ambient.air_raid_siren2

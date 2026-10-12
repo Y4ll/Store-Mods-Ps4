@@ -1,0 +1,77 @@
+Ghost Vision X-Ray Night Vision Edition
+
+This version enhances the original X-Ray experience by allowing players to clearly see ores and underground structures even in dark environments.
+
+This mod is designed to provide a clean, efficient, and achievement-friendly X-Ray experience while maintaining stable performance in your game.
+
+Features
+
+Integrated Night Vision
+
+- Easily see ores and underground caves even in complete darkness.
+
+Enhanced Ore Visibility
+
+- Blocks surrounding valuable ores are hidden to make mining more efficient.
+
+Achievement Friendly
+
+- This mod is designed so that Minecraft achievements remain enabled.
+
+Optimized Performance
+
+- Lightweight design ensures minimal performance impact.
+
+Clean Visual Experience
+
+- Clear underground view with minimal visual clutter.
+
+Important Settings (Required)
+
+To ensure ores are visible while using the mod:
+
+Turn OFF Smooth Lighting
+
+If Smooth Lighting is enabled, ores may not render correctly and could become invisible.
+
+How to Disable Smooth Lighting
+
+- Open Settings
+
+- Go to Video / Graphics Settings
+
+- Find Smooth Lighting
+
+- Set it to OFF
+
+After changing the setting, reload the world if necessary.
+
+Usage Restrictions
+
+- Singleplayer Only
+
+This mod is intended only for Singleplayer worlds.
+
+Using it in multiplayer environments is not supported.
+
+If you want to use this in multiplayer world, please use the original Ghost Vision X-Ray
+
+Redistribution Policy
+
+Redistribution of this mod is strictly prohibited.
+
+You are not allowed to:
+
+- Reupload this mod to other websites
+
+- Share modified versions
+
+- Include this mod in modpacks without permission
+
+Always download the mod from the official source.
+
+Creator
+
+Ghost Vision X-Ray with Night Vision is developed and maintained by:
+
+Neq Gamerz

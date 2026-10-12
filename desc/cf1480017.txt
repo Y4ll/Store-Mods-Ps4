@@ -1,0 +1,35 @@
+Kaiju Craft is a Minecraft Bedrock add-on that adds giant kaiju bosses, powerful weapons, and rare materials. Players can battle massive creatures like Wardenzilla and Golem Kong, collect their drops, and craft destructive gear and unique items. Some kaiju can even be calmed and tamed using special items, allowing players to turn these powerful monsters into allies. With new crafting materials, boss fights, and abilities, Kaiju Craft transforms Minecraft into a world of epic monster battles and kaiju adventures!
+
+Golem Kong:
+
+Wardenzilla:
+
+Mothlley:
+
+Rophan:
+
+Change log:
+
+-Add 11 New Item.
+
+-Add One New Armor
+
+-Add One New Weapon
+
+-Add Two New Kaiju
+
+Rophan
+
+Mothlley
+
+-New interaction with tame Kaiju
+
+-Add Two New Structure
+
+Mothlley Temple
+
+Sulfuric Volcano
+
+-New Quest Feature
+
+Performance Warning: Kaiju Craft adds large monsters, special abilities, and powerful effects that may cause lag on lower-end devices. For the best experience, it is recommended to play on mid-range or high-end devices. Performance may vary depending on your device and world settings.

@@ -1,0 +1,62 @@
+Tree Drops OP Items
+
+Turn every tree into an exciting surprise with Tree Drops OP Items for Minecraft Bedrock Edition. Instead of receiving ordinary logs, every time you break a Log, Wood, or Stem block, a completely random event is triggered. You might receive game-breaking loot, encounter dangerous traps, fight a powerful boss, unlock special shulker kits, or even gain a loyal companion.
+
+Every tree becomes a gamble. Will you become incredibly rich, or will the forest fight back? No two mining sessions feel the same, making survival worlds much more unpredictable and entertaining.
+
+Random Event System
+
+- OP & Game Beater Loot (65%)
+Receive between 3 and 8 random stacks of powerful items. Rewards include Beacons, Elytras, Totems of Undying, Heavy Cores, Crafters, Trial Keys, Netherite Blocks, Bedrock, Ender Pearls, Blaze Rods, Obsidian, Beds, Food, and much more. Any dropped armor, weapon, or tool automatically comes with powerful max-level enchantments.
+
+- Deadly Traps (15%)
+Not every tree is friendly. You may receive negative effects, useless loot, or trigger dangerous events such as falling anvils, cobweb traps, primed TNT, or the cursed Fool's Blade.
+
+- Tree Guardian Boss (5%)
+Lightning strikes as a powerful Tree Guardian appears wearing fully enchanted Netherite armor and wielding an enchanted Netherite Sword. It moves quickly, has high health, and regenerates rapidly, making it a serious challenge.
+
+- Auto-Filling Shulker Kits (10%)
+Special Shulker Boxes may appear containing powerful survival equipment, PvP gear, valuable resources, and many other exciting rewards. Some events even transform the surrounding terrain and grant temporary special effects.
+
+- Loyal Pet (5%)
+Sometimes a Wolf will instantly become your loyal companion while also rewarding you with several stacks of useful survival supplies.
+
+Why Use This Addon?
+
+Tree Drops OP Items completely changes the way survival progression feels. Every tree becomes a potential jackpot or a deadly mistake. Whether you're speedrunning, playing with friends, creating challenge worlds, or simply looking for chaotic fun, this addon keeps every moment exciting with unpredictable events and massive rewards.
+
+Compatibility
+
+- Achievement Friendly
+
+- No Experimental Features Required
+
+- Multiplayer Friendly
+
+- Works in Existing Worlds
+
+- Minecraft Bedrock Edition Supported
+
+- Optimized for Smooth Gameplay
+
+Installation Guide
+
+- Download the addon file.
+
+- Open it using ZArchiver or any file manager app.
+
+- Select Open With and choose Minecraft.
+
+- Wait for the addon to import.
+
+- Open your world settings.
+
+- Go to Behavior Packs.
+
+- Activate Tree Drops OP Items.
+
+- No Experimental Features are required.
+
+- Join your world and start chopping trees to trigger random events.
+
+Created by FleetMc Studio

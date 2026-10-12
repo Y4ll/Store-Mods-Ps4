@@ -1,0 +1,27 @@
+This addon introduces a shop system with categorized items, search functionality, custom prices and ZMC currency for shopping
+
+If you can't understand just check my yt video
+
+https://youtu.be/ju3xh-SkWLI
+
+Inventory Shop:
+
+||| Free To Use, Just Give Me Creadit|||
+
+- Added selling block for fast selling.
+
+- You can sell all inventory items at once on selling block.
+
+- Inventory shop and selling block Survival Craft able.
+
+- Multiplayer and achievement friendly
+
+Inventory Shop Item recipe
+
+Buy/Sell UI:
+
+Shopping UI:
+
+Quantity Selection:
+
+Sell All inventory items

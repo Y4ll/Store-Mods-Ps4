@@ -1,0 +1,63 @@
+YogMagica
+
+A unified magic system for Minecraft: Bedrock Edition. Tap the hidden vis that flows through the world, scan reality to uncover its hidden aspects, research forgotten lore, and craft your own spells, then face the dungeon warbands and world bosses that guard the deepest secrets.
+
+YogMagica fuses two classic Java Edition mods into one coherent system: Thaumcraft 2's world scanning and research progression, and Ars Magica 2's build your own spell philosophy. Instead of keeping those as two separate currencies, YogMagica ties everything, research, spellcasting, and character growth, to the same six primal aspects.
+
+The six aspects
+
+Every system in the game runs on six primal aspects, each with a true opposite:
+
+- Pyre, fire, heat, light, destruction (opposed by Tide)
+
+- Tide, water, cold, calm, healing (opposed by Pyre)
+
+- Gale, air, wind, lightning, speed (opposed by Loam)
+
+- Loam, earth, stone, growth, density (opposed by Gale)
+
+- Weave, order, magic, arcane, mind (opposed by Hollow)
+
+- Hollow, entropy, shadow, decay, void (opposed by Weave)
+
+These aren't just flavor text. The same six aspects are your research currency, your spellcasting cost, and the axis your character's affinity develops along. Lean into Pyre and Gale and you'll unlock different perks and different spells than a player who leans into Tide and Loam.
+
+Your first thirty minutes
+
+You'll be handed an Apprentice's Primer the moment you first enter a YogMagica world. Right click it any time to reopen the in game tutorial, which walks through everything below.
+
+- Mine Aetherite Ore. Its dust is the spark in nearly every early recipe.
+
+- Craft an Arcane Altar (deepslate, crafting table, copper ingot, aetherite dust), then use it to craft the Sage's Codex and the Theorist's Bench. Both are available from the start.
+
+- Scan the world with the Scry Glass. Right click blocks, items, and creatures to learn their aspects. Every scan feeds your research, with diminishing returns for rescanning the same thing over and over.
+
+- Research at the Theorist's Bench, surrounded by bookshelves to work faster. The Sage's Codex is your record of what you've discovered and where you spend perk levels. Researching Vis Attunement unlocks your first wand.
+
+- Claim your wand back at the Altar, then right click a vis node to drain into it. Keep an eye on your mana and burnout meters on the action bar.
+
+- Author a spell. Compose shapes, effects, and modifiers onto a blank parchment, then bind the result into a scroll or spellbook and cast it.
+
+- Take on the world. Lay out ritual circles to summon the affinity bosses, hunt dungeon warbands and world bosses for their rare drops, and watch for blight spreading from corrupted nodes before it reaches you.
+
+Systems
+
+- Vis and wellsprings. Nodes regenerate over time and can be corrupted by blight, so managing them is part of the long game, not a one time drain.
+
+- Aspect scanning. The Scry Glass reads aspects off blocks, items, and creatures, with diminishing returns built in to discourage grinding the same source.
+
+- Research. Work hypotheses at the Theorist's Bench to unlock new aspects, recipes, and lore entries; the Sage's Codex is your record of them.
+
+- Spell authoring. Compose your own spells from over a hundred interchangeable components (shapes, effects, and modifiers), then bind them to a scroll or spellbook.
+
+- Mana and burnout. Casting draws mana and accrues burnout. Overcast and you pay for it, so managing risk against payoff is part of every fight.
+
+- Affinity and the Mage's Path. Repeated casting in one element shifts your affinity, discounting that aspect's spells and unlocking permanent passive traits at 50%. A separate perk tree spends magic XP.
+
+- Blight. Corruption spreads outward from tainted nodes and has to be actively cleansed before it takes over an area.
+
+- Seals and rituals. Placeable Arcane Seals combine for different effects, and ritual circles are how you summon the affinity aligned bosses.
+
+Content
+
+- 294 

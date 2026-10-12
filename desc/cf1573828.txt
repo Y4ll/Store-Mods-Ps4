@@ -1,0 +1,41 @@
+Force Spectator Pack
+
+Force Spectator Pack adds a special Spectator Mode experience to Minecraft Bedrock while keeping achievements enabled.
+
+With easy-to-use Creator Settings toggles, you can switch between Survival Mode and Spectator Mode whenever you want, making it perfect for exploration, building inspections, map reviews, and cinematic recording without changing your world's core gameplay.
+
+Features
+
+Spectator Mode access in Survival worlds
+
+Achievements remain enabled
+
+Easy toggle controls in Creator Settings
+
+Switch between Survival and Spectator instantly
+
+Useful for exploring caves, structures, and builds
+
+No commands required
+
+How to Use
+
+Install and activate the pack.
+
+Open Creator Settings.
+
+Enable the Spectator Mode toggle.
+
+Use the provided toggles to switch between:
+
+Survival Mode
+
+Spectator Mode
+
+Enjoy free camera movement while keeping your world progression intact.
+
+Notes
+
+Designed for Minecraft Bedrock Edition.
+
+Make sure the pack is enabled in your world settings before playing.

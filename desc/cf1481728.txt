@@ -1,0 +1,92 @@
+QoL Enhanced
+
+The Bedrock utility toolkit that fixes the boring parts and keeps the fun.
+
+Tired of spending half your play session repairing Creeper craters, building temporary dirt bridges, or chasing dropped items across hills and caves?
+QoL Enhanced is designed to eliminate repetitive maintenance and give you clean, powerful tools that feel great in real gameplay.
+
+This add-on focuses on one goal:
+Less grind. More action. Better world flow.
+
+What Is QoL Enhanced?
+
+QoL Enhanced is a quality-of-life add-on for Minecraft Bedrock Edition that adds a curated set of utility tools for terrain control, mobility, cleanup, and resource convenience.
+
+It does not try to replace vanilla progression.
+It upgrades the moment-to-moment experience with tools that solve common world problems quickly and reliably.
+
+Feature Highlights
+
+Hole Filler
+
+Explosion damage? No problem.
+Throw the orb into a crater and it intelligently repairs the hole with nearby block context, helping terrain look natural again instead of patchy.
+
+Bridge Wand
+
+Need to cross a ravine, valley, or mountain gap?
+Use the wand to generate a bridge path that searches for a valid route and builds forward with practical placement logic.
+
+Leveling Wand
+
+Preparing a base area is now fast and clean.
+Flatten terrain over a large radius to make building platforms, farms, roads, or structured builds with minimal manual digging/filling.
+
+Magnet
+
+Activate it and pull nearby dropped items toward you.
+Perfect for mining sessions, mob farms, and high-chaos combat zones where loot scatters everywhere.
+
+Water Balloon
+
+Throwable utility projectile that creates flowing water at impact.
+Great for emergency falls, quick fluid placement, vertical movement setups, and terrain interactions.
+
+Lava Balloon
+
+The hot counterpart to the Water Balloon.
+Creates flowing lava on impact for traps, terrain control, smelting setups, or lava-based utility builds.
+
+Drain Sphere
+
+When water gets out of control, throw this and clear connected water areas efficiently.
+Useful for underwater prep, cave cleanup, and fixing accidental flooding.
+
+SHOWCASE V1.1
+
+SHOWCASE
+
+CRAFT
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+JOIN DISCORD --> Click Here

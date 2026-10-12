@@ -1,0 +1,11 @@
+Better Water Sounds enhances your underwater experience with immersive ambient audio and subtle bubble particles. Whether you're exploring oceans or swimming in lakes, this mod adds atmosphere and realism to every dive.
+
+This addon was made before minecraft added their own underwater ambience sounds. Newest release will disable all vanilla water loop sounds that minecraft plays.
+
+Showcase Video:
+
+https://youtu.be/-qhP7Ehbd6c
+
+Check out Better Water for a even nicer water experience
+
+For support, other projects or project requests join my discord: https://discord.gg/6PFMrzS3sG

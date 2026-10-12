@@ -1,0 +1,107 @@
+Socials
+
+Discord: Click here!
+
+Twitter: Click here!
+
+YouTube: Click here!
+
+This is the initial zombie type discovered at Rex Lab's B-1 Center. It temporarily enhances its muscular strength beyond the limits of the body by utilizing a pilfered, unstable sample of Actual Guns' gaslightoline serum - the same serum responsible for amplifying bullet damage and the player's default health.
+
+Now, what happens when an abused construction worker, or a Counter-Terrorist for that matter, gets injected with it against their will? Let's find out.
+
+https://cso.fandom.com/wiki/Regular_Zombie
+
+Brief Lore FAX
+
+This addon brings the iconic hostile zombie NPC from Counter-Strike Online into Minecraft the same one youve probably seen a thousand times on CS 1.6 zombie servers, and, depending on your childhood, maybe even in Counter-Strike Xtreme v7.
+
+Abilities
+
+Berserk
+
+A chance for the zombie to rage and be coloured with red mist as seen below, and start running at you with his arm trying to yank you. Damage is slightly increased, but damage taken is increased by 50% - so it's advised to attack him in this state. Lasts for 10 seconds for Origin, 15 seconds for Host
+
+Infection
+
+When killing a villager, the villager will turn into a regular zombie (3+ rage points for villager, +1 rage points for any other kill)
+
+Grenade
+
+A chance for the zombie to throw either a timed or impact zombie grenade at you. Did you think because they're dead, they can't operate a weapon?
+
+Healing
+
+If the zombie is not attacked for a couple of seconds, he will start to heal increasingly quickly. Learn a strat to stop him from healing and killing him fast!
+
+Evolution
+
+After obtaining 25 rage points (or 25 kills, it can be less if a villager was involved) zombies will evolve to their Host counter-part. Hosts have +5 damage, 50+ more base health, 25+ on every colour, berserk lasts +5 more seconds, follow range +35 blocks
+
+Origin Zombie
+
+Origin
+
+Weaker variant, follower.
+
+Origin zombies are weaker than their host counter-parts, and are more susceptible to fall and fire damage.
+
+- Comes in 3 variants (spawns randomly)
+
+- 150 base health, each colour variant adds 25 health on top (max is 225 health)
+
+- Spawns naturally, even underground
+
+- Doesn't burn in sunlight
+
+- Sight & Follow range is 35 blocks
+
+- Drops 3 XP levels, default zombie drop (but 10x)
+
+Host Zombie
+
+Host
+
+Stronger variant, leader.
+
+Host zombies are stronger than their origin counter-parts in many ways, and drop better loot.
+
+- Comes in 3 variants (spawns randomly)
+
+- 200 base health, each colour variant adds 25 health on top (max is 275 health)
+
+- Spawns naturally, even underground
+
+- Doesn't burn in sunlight
+
+- Sight & Follow range is 70 blocks
+
+- Drops 3 XP levels, default zombie drop (but 10x)
+
+Gamemodes & Options
+
+In Endless mode, the zombies behave a bit differently...
+
+- When hurt, it will bleed (and vice versa)
+
+- Comes without host, or variants
+
+- Spawns in day, too
+
+- Spawn rate is 200%
+
+- 50 base health, 3 damage
+
+- Can still throw grenades, but chances are very much lower
+
+- Doesn't have healing
+
+- Sight & Follow range is 256 blocks
+
+- Spawns naturally, even underground
+
+- Will attack only the player
+
+Credits
+
+AzozGamer936, Nexon, [matt], Mecha, DaffaTheOne, TheOdds

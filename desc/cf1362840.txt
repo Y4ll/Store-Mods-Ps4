@@ -1,0 +1,25 @@
+Blue Netherite
+
+Recolors Ancient Debris with a frosty light-blue hue, giving Netherite a cool, refined look unlike anything seen in the Nether before.
+
+Features
+
+- Recolors Ancient Debris to a glowing light-blue variant
+
+- Keeps original block detail and texture style
+
+- Fully compatible with Minecraft Bedrock v1.21x
+
+- Wont interfere with item or entity textures.
+
+Preview
+
+Installation
+
+- Download the .mcpack file.
+
+- Open the file with Minecraft to import automatically.
+
+- Go to Settings Resource Packs My Packs.
+
+- Activate Blue Netherite and enjoy!

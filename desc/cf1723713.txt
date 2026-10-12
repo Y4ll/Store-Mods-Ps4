@@ -1,0 +1,31 @@
+PSX Flashback Shader
+
+This Shader Developed by @PnTMC
+
+Inspired by Twixxel's SILAS and ckosmic's PlayStation 1 Graphics
+
+Reminder : This is RenderDragon shaders, so you need to use the correct tools to use this shader ( e.g. MaterialBinLoader, BetterRenderDragon, Minecraft Patch, or any shaderloader )
+
+Currently, only version 26.40 and earlier are supported; 26.50 will be available soon.
+
+When you use this shader, the Minecraft Bedrock version you usually play turns into a PSX-style game.
+
+This shader is suitable for add-ons with horror or medieval themes.
+
+Recommended video settings:
+
+The shader is still under development, so there are quite a few bugs; while some remain unfixed, none are major issues. If you come across any major bugs, please provide feedback.
+
+NOTES
+
+Supported Platforms:
+
+Android, Windows, IOS
+
+----------
+
+Do NOT reupload, redistribute, or publicly modify this shader without explicit permission.
+
+Please give feedback if you encounter any errors. Feedback on my YouTube channel is easier for me to read because I'm quite lazy about checking CursedForge comments XD
+
+WATCH THIS VIDEO FOR MORE

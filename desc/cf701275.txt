@@ -1,0 +1,66 @@
+NARUTO SHIPPUDEN
+Dive into the thrilling world of Naruto Shippuden with this comprehensive texture pack that brings a host of graphical enhancements to your Minecraft experience.
+
+| TRAILER
+
+MOBILE
+
+WINDOWS
+
+| EXAMPLE
+
+Joysick and Aim Crosshair
+
+D-Pad and Tap
+
+Joystick and Tap
+
+more examples in the picture gallery above
+
+| DESCRIPTION
+
+Dive into the thrilling world of Naruto Shippuden with this comprehensive texture pack that brings a host of graphical enhancements to your Minecraft experience.
+
+Enjoy a brand-new start screen overlay featuring iconic characters and locations from Naruto Shippuden. The GUI has been completely revamped with new overlays, including updated icons and buttons that immerse you in the Naruto universe.
+Watch the trailer or read on for more information about how this texture pack transforms your Minecraft gameplay into an epic ninja adventure.
+
+New! with this pack:
+- start screen - controls:
+- settings screen - joysick and aim crosshair
+- buttons - d-pad and tap
+- gui - joystick and tap
+- hotbar
+
+|INSTALL
+
+Note: If you encounter any issues, make sure that the texture pack is compatible with your version of Minecraft, and that you have followed all of the steps correctly.
+
+-
+
+- Open Minecraft: Launch Minecraft and click on the "Options" button.
+
+- Go to the "Resource Packs" section: In the options menu, select "Resource Packs" to open the resource packs screen.
+
+- Move the texture pack to the correct location: Locate the folder where your Minecraft resource packs are stored. The default location is usually in the "resourcepacks" folder under your Minecraft game directory. Move the downloaded .zip file to this folder.
+
+- Select the texture pack in Minecraft: Back in the resource packs screen, select the texture pack that you just moved to the resource packs folder. The texture pack should now be listed in the "Selected Resource Packs" section.
+
+- Apply the changes: Click on the "Done" button to apply the changes and enable the texture pack.
+
+- Enjoy the new texture pack: Start a new game or load a saved game, and the new texture pack should now be in effect.
+
+| COMMUNITY (^^)( )
+
+- YOUTUBE - DISCORD - TWITTER - INSTAGRAM
+
+Hey,
+
+We invite you to join our Discord community where you can connect with fellow players, share your ideas, and report any bugs you encounter. Whether you have suggestions for improving the hotbar or need support with any issues, our community is here to help. Lets build, explore, and create together!
+
+| LAST TEXTURE PACK BY ZNYGAMES
+
+Check out the latest pack! STEAM PUNK
+
+| THX!
+
+See you in the next pack!

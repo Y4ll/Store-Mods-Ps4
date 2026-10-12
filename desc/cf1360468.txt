@@ -1,0 +1,50 @@
+Works with Enchantments!
+
+Tired of chopping trees or mining ores one block at a time?
+Excavate lets you break multiple connected blocks instantly while keeping the experience completely vanilla-friendly and achievements-compatible.
+
+This addon introduces a smarter way to dig, mine, and chop, processing each block with a short delay to keep performance stable and prevent lag even during large excavations.
+Whether you want to clear entire ore veins, build tunnels, or fell trees in one go, Excavate gives you full control.
+
+Fully Configurable
+
+Every player can personalize their excavation behavior using the in-game menu or commands.
+You can choose what blocks are excavatable, how far the ability reaches, and which shape defines your digging pattern.
+
+Available Shapes:
+
+- Vein (Shapeless) Classic ore or tree vein mining mode.
+
+- Tree Capitator - Chops entire tree with 1 swing
+
+- Vein Miner - Mines a whole ore vein at once
+
+- Line Mines straight forward, ideal for quick tunnels.
+
+- Small Tunnel Perfect 12 tunnels for early exploration.
+
+- Large Tunnel Instantly clears a 33 path.
+
+- Stair Tunnel Up
+
+- Stair Tunnel Down
+
+Each shape can be toggled or fine-tuned to match your preferred gameplay.
+
+Configuration Menu
+
+The configuration menu allows you to:
+
+- Add or remove blocks from your personal whitelist
+
+- Change your current Shape Mode
+
+- Adjust your Block Limit
+
+- Enable or disable excavation on demand
+
+Everything is designed for simplicity, quick setup, no command knowledge required.
+
+Admin Controls
+
+Admins can fine-tune global excavation behavior using this menu. This ensures a fair, optimized, and lag-free experience for everyone.

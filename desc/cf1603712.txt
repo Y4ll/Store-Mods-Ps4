@@ -1,0 +1,23 @@
+Rise Of Viltrum
+
+The Viltrumite Empire has marked this Earth for conquest.
+
+Rise Of Viltrum lets you become a true Viltrumite, starting as a newly arrived warrior and climbing the ranks through dominance, trials, and battle. Grow from a New Viltrumite into a Soldier, General, Conqueror, Grand Regent, and eventually Emperor as your strength, speed, resistance, regeneration, stamina, and power scale with your rank.
+
+When you first become a Viltrumite, you can choose how you want to control your powers. Use Ability Items for hotbar-based combat and fast combo chaining, or switch to the Crouch System for a cleaner hotbar where double-crouch cycles abilities and crouch+jump activates them. You can change your control style later with the Power Switch.
+
+Being a Viltrumite means your body is the weapon. Viltrumites are proud warriors who rely on raw strength, speed, durability, and combat skill instead of cheap tools or protection. Because of this, Viltrumites cannot properly use normal weapons or wear normal armor. Using external equipment is seen as weak and dishonourable to the Viltrumite Empire, so players who try to rely on weapons or armor will be heavily punished and weakened.
+
+Unlock brutal Viltrumite abilities as you progress, including Dash, Grab, Flight, Thunder Clap, Hand Stab, Head Crush, Ground Pound, Super Sonic, Conquerors Rage, and more. Fight with your body as the weapon, build Dominance EP, complete rank-up trials, survive powerful enemies, and prove that Earth belongs to the Empire.
+
+World owners also get an Empire Config menu, allowing control over how new players become Viltrumites, whether Viltrumite origins are enabled, rank-up trial requirements, Dominance EP requirements, Sonic Smash block breaking, and limits for high imperial ranks like Grand Regent and Emperor.
+
+Rise Of Viltrum also includes Viltrumite raids, ranked invaders, Viltrumite armor visuals, progression tools, the Scourge Virus, and admin/dev controls for managing origins, ranks, raids, and player progress.
+
+This add-on is recommended to be paired with Compound V for the full crossover experience: Viltrumites versus Supes, combined origin systems, stronger world progression, and a much bigger powered sandbox. However, Rise Of Viltrum is also fully playable by itself, with its own start options, config menus, progression, abilities, raids, and standalone Viltrumite gameplay.
+
+DISCORD
+
+Join the Discord for issues, updates, and community help.
+
+Main Discord: https://discord.gg/YaqmSnSmwx

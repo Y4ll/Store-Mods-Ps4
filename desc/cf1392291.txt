@@ -1,0 +1,5 @@
+Relta Visuals is a clean and simple shader pack made to improve Minecrafts visual quality. It enhances lighting, color balance, and the overall atmosphere to give your world a smoother and clearer look.
+
+Development Status: This shader is currently in active development and will continue to improve with future updates, bringing better lighting, refined colors, and overall visual improvements.
+
+Important: For the shader to work properly, make sure to turn ON Vibrant Visuals in your game settings.

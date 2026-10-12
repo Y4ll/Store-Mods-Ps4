@@ -1,0 +1,15 @@
+Tired of struggling to transport mobs? Introducing the Mob Catcher! This innovative tool makes moving entities around the world effortless. No more frustration with villagers or losing your pet along the way. Simplify your life and take your companions wherever you want with ease and safety!
+
+Recipe:
+
+Crafting the item is quite simple: you will need 4 iron ingots, 4 purple dyes, and 1 Ender pearl.
+
+How it works:
+
+When holding the Mob Catcher in your hand, you will receive the Weakness effect. This ensures that you won't harm the entity during interaction, preventing it from losing health or being accidentally knocked back.
+
+When you hit an entity while under the Weakness effect, it will be stored inside the Mob Catcher. This allows for convenient and safe transportation of the entity.
+
+After saving the entity by hitting it, the description of your Mob Catcher will display the ID of the stored entity.
+
+To release the entity from the Mob Catcher, simply interact with any block in front of you.

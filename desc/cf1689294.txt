@@ -1,0 +1,33 @@
+This addon adds an Anomaly to your world that will haunt you every night. There are multiple anomalies that will progressively get stronger throughout the world, some being aggressive and others just stalking.
+
+Most anomalies prefer residing in the caves, tormenting anyone who delves deep into them. Stay awake or it might evolve over time.
+
+This addon is also meant for long playthroughs and you won't encounter it during the first few days, so make sure to make the most of it. The addon should also be played without much knowledge of it at all, so I won't be responding to most questions about the behavior of the anomalies.
+
+The BETA APIs EXPERIMENT IS REQUIRED FOR THE ADDON TO WORK. This means it won't work at all in realms and achievements will be disabled.
+
+There is also a config for controlling the addon's spawn rates, by using /anomaly:config. It is recommended to check all settings for important addon events and preferences.
+
+All credit goes to clorobored, the original Java mod creator:
+
+https://www.curseforge.com/minecraft/mc-mods/the-anomaly
+
+SPOILERS AHEAD - They won't be too revealing, but if you still want the full experience, DO NOT READ ON.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Upon spawning into the world for the first time, you will receive an item: the Totem.
+
+Using the totem will activate Deathmode: an extreme and fast paced mode of the addon.
+
+There are a total of 7 phases in the addon, each adding more anomalies to your world. Sleeping frequently will cause the phases to increase.
+
+The Anomaly will not spawn at all during phase 0, which lasts 7 in game days. This can be skipped by either running the command /anomaly:start or eating the Totem given at the beginning of the world.
+
+There are two special "nighttime" events that occur rarely. They won't be described in detail, but you will know they are happening if the moon changes its texture. Sleep events also occur when specific conditions are met, which won't be described. They ramp up intensity the higher the phase and serve a purpose instead of just being a random event.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+If you find any bugs, (even tiny ones) please report them in my discord server. You may not use any code from this project without messaging me (.bredman_) first for permission. Reuploading on other websites is also not allowed and will have action taken immediately.
+
+Enjoy the addon!

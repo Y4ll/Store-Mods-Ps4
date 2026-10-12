@@ -1,0 +1,92 @@
+Black Bird UI | Anime Girl Animated Menu
+
+Dark Fantasy Inspired Minecraft Bedrock UI
+
+Give Minecraft Bedrock a darker and more mysterious anime atmosphere with Black Bird UI, a custom interface built around a dramatic character-themed design and an animated menu presentation.
+
+This UI combines dark fantasy artwork, custom GUI styling, deep blue visual effects, and a shadowy room background to create a much more distinctive Minecraft menu experience while keeping navigation familiar and practical.
+
+Rather than acting as a simple background replacement, Black Bird UI is designed to give the entire interface a stronger visual identity, making the menus feel more immersive and character-focused every time you open the game.
+
+Animated Menu Experience
+
+The animated menu is one of the main highlights of this pack.
+
+Instead of opening Minecraft to a basic static screen, the interface introduces movement and atmospheric character visuals that make the main menu feel more alive from the moment the game starts.
+
+The featured anime girl, dark raven-inspired styling, glowing blue magical effects, and dimly lit interior setting give the UI a powerful fantasy tone that stands apart from brighter or more casual anime menu packs.
+
+Animated visuals, custom GUI elements, and a deep blue dark-fantasy atmosphere come together to give Minecraft Bedrock a bold and memorable Black Bird themed interface.
+
+Custom Interface Experience
+
+Black Bird Animated Main Menu
+
+Dark Fantasy Inspired Interface
+
+Custom Minecraft GUI Screens
+
+HD Anime Character Artwork
+
+Redesigned Main Menu
+
+Styled Inventory Interface
+
+Custom Pause Menu
+
+Customized Settings Screens
+
+Clean and Familiar Navigation
+
+Deep Blue Magical Visual Theme
+
+Character-Focused Anime Design
+
+Minecraft Bedrock and MCPE Support
+
+Designed Around the Black Bird Theme
+
+Black Bird UI gets its identity from its darker visual direction, mysterious character design, and the contrast between shadowy surroundings and glowing blue effects.
+
+The result is an interface that feels dramatic and cinematic while still remaining clean enough for normal Minecraft gameplay.
+
+This makes the pack especially suitable for players who want a dark anime UI, fantasy-themed Minecraft interface, anime girl animated menu, or custom Minecraft Bedrock GUI with a more serious and atmospheric style.
+
+Installation (Required)
+
+This UI Pack requires YashGameplay's Main UI to work properly.
+
+Download YashGameplay's Main UI:
+https://www.curseforge.com/minecraft-bedrock/texture-packs/yashgameplays-main-ui
+
+Setup Guide
+
+Download and import YashGameplay's Main UI.
+
+Download and import this Black Bird UI Pack.
+
+Open Settings Global Resources.
+
+Place this Anime UI Pack above YashGameplay's Main UI in the Global Resources list.
+
+Activate both packs and enjoy your new interface.
+
+Related
+
+This UI Pack is an add-on for YashGameplay's Main UI, so make sure both packs are enabled.
+
+Clean Design for Everyday Minecraft
+
+A custom interface should improve the visual experience without making Minecraft harder to use.
+
+Black Bird UI keeps the overall Minecraft menu structure recognizable while surrounding it with custom anime visuals and a stronger dark fantasy identity.
+
+It works naturally for Survival, Creative, PvP, multiplayer, screenshots, videos, and everyday gameplay, giving menus and interface screens a more distinctive appearance throughout the experience.
+
+Whether you are opening a world, adjusting settings, managing your inventory, or returning to the main menu, the Black Bird theme remains a noticeable part of the overall interface atmosphere.
+
+Made for Anime UI Fans
+
+This pack is designed for players who enjoy anime resource packs, dark fantasy aesthetics, custom GUI packs, animated menus, character-themed interfaces, and stylish Minecraft customization.
+
+It can also be combined with compatible anime skies, custom inventories, bed textures, totem textures, PvP packs, visual packs, and other themed resources to create a more complete dark anim

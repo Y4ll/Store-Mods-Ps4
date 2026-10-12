@@ -1,0 +1,96 @@
+More Information
+
+Looking to learn more or stay up to date with the latest UtilityCraft news?
+You can find detailed guides, documentation, and advanced setup instructions on our official Dorios Studios
+
+Wiki:
+
+UtilityCraft Official Wiki
+
+For updates, announcements, beta access, community projects, and idea sharing, join our official Discord server:
+
+Dorios Studios Discord
+
+Guide in Game! You can find it at the top of the How to Play Section in the pause menu.
+
+What Does UtilityCraft Add?
+
+UtilityCraft isnt just one addonits a bundle of systems that all connect together. Youll find:
+
+- Bountiful Bonsais Passive farming for wood and crops.
+
+- Bountiful Crops Grow ores and rare resources in fields.
+
+- Cobblestone Generators Infinite cobble, from basic iron speed up to blazing netherite.
+
+- Mechanical Spawners Customizable mob farming.
+
+- Dorios' Basics Core blocks, recipes, and progression tools.
+
+- Fluid Tanks Store and move huge amounts of liquids.
+
+- Paxels & AIOTs Multi-tools to save space and time.
+
+- Way Computer A step into automation and digital systems.
+
+Each piece on its own is useful, but together they create a complete tech progression for survival.
+
+Core Features
+
+UtilityCraft is built around a few core systems that tie everything together:
+
+- Energy System
+Everything runs on Dorios Energy (DE). Youll generate power with furnaces, lava, sunlight, and more, then store it in batteries and feed it into your machines.
+
+- Machines
+Crushers, infusers, presses, furnaces, harvesters, and more. Each machine has upgrades to speed it up, make it more efficient, or expand its range.
+
+- Item Transportation
+Move items with improved hoppers, uppers, and automation blocks, or go advanced with conduits and exporters.
+
+- Blocks and Items
+From compressed cobblestone to special crafting components, UtilityCraft introduces new building blocks and crafting materials that push progression forward.
+
+- Mechanics
+New farming systems, bonsai growth mechanics, mob spawning tweaks, liquid generation, and moreall designed to slot naturally into Minecrafts survival loop.
+
+- Useful Recipes
+Tons of new recipes and tweaks so that resources and progression always feel smooth.
+
+UtilityCraft is Compatible with Integrated Storage by Dingsel
+
+Integrated Storage is an aproach to solve the storage problem in Minecraft. It does that by providing an infinite extensible storage system that can be accessed through connected terminals.
+
+You can obtain Certus Quartz and Charged Certus Quartz by filtering sand in the sieve/autosieve.
+Crusher accepts: Certus Quartz, Charged Certus Quartz, Fluix and Skystone
+
+- CurseForge Page
+
+- MCPEDL Page
+
+Early Game Stuff
+The sieve filters blocks like gravel, sand, or dirt to extract useful drops such as ores or seeds.
+
+- Place a mesh inside the sieve.
+
+- Put the block you want to filter on top.
+
+- Placing sieves in a 5x5 group (up to 25) lets you use them all at once by interacting with just one.
+
+Passive Farming Tools
+
+UtilityCraft includes powerful tools for automated farming:
+
+- Bonsai Pots: Grow miniature trees over time, producing wood, leaves, and saplings
+
+- Ore Crops: Grow crop-based resources such as iron, gold, and diamonds
+
+- Hoeing Mechanic: Standard soils can be hoed to reduce growth time, while special soils offer unique bonuses and cannot be modified
+
+Bonsai growth and crop mechanics use real-time systems rather than fixed tick cycles, allowing for better balance and control over automation.
+
+Item Transportation
+
+Smart item handling and filtering system
+
+Tools: Paxels, AIOTs, and Drills

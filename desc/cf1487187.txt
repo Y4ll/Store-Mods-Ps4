@@ -1,0 +1,37 @@
+ACT GUNS MOD | Ultimate Bedrock Arsenal
+
+Take your combat to the next level with ACT GUNS, a high-quality weapon expansion for Minecraft Bedrock. Featuring 15+ craftable firearms, custom low-poly models, and immersive inspection animations.
+
+The Armory (Featured Weapons)
+
+From legendary classics to modern tactical gear, every weapon is designed for peak performance:
+
+* Assault Rifles: AKM & AKM1, M16A4 & M16A1, SCAR-H, AR-15, Lachman 556, CR-56 AMAX, AR-57
+
+* Submachine Guns: MP7 & MP71, P90
+
+* Sniper Rifles: Barrett MRAD
+
+* Pistols: M1911
+
+* Special Editions: "The Barrier" AR-15
+
+Why ACT GUNS?
+
+* Survival Crafting: No creative mode neededcraft your entire arsenal in your survival world.
+
+* Inspection Animations: Every gun features unique animations to check your weapon in-game.
+
+* Advanced Mechanics: Scoreboard-integrated tracking ensures smooth reloading and firing logic.
+
+* Optimized: High-detail low-poly models that won't lag your game on mobile or console.
+
+Installation & Setup
+
+To ensure all 15+ guns function correctly, initialize your world by setting up the scoreboard objectives.
+
+Join our Discord for the latest updates, download links, and community support:
+
+Join ACT MODS Discord
+
+Would you like me to write some specific "Weapon Stats" (like damage or fire rate) for these guns to help players choose which one to craft first?

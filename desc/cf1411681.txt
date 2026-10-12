@@ -1,0 +1,21 @@
+Mounts of Mayhem Panorama with Shaders (Bedrock)
+
+This is a really simple Resource Pack that adds shaders to the original panorama.
+
+The seed was discovered by the Minecraft@Home team.
+
+- Seed: -6464260789280200050
+
+- Coordinates: X=-408.647 Y=63 Z=-104.271
+
+- Version: Java Snapshot 25w45a/Bedrock Preview 1.21.130.26
+
+The shaders used are the Complementary Reimagined Shaders.
+
+Note: GUI not included.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+- Feel free to include this resource pack in your mod pack or server.
+
+- If you wish to use this pack in any form of content, please credit with a link to the original PlanetMinecraft/Modrinth/CurseForge page where you can.

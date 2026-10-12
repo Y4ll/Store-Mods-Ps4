@@ -1,0 +1,39 @@
+Hello,
+
+Let me introduce you to VOID-BORN CLIENT DEFINITIVE, already converted to black and red, varying view alternatives a client-style resource pack for Minecraft Bedrock created by TheKx. Designed to enhance your gameplay with visual improvements, quality-of-life utilities and performance options, while keeping the core Minecraft experience intact. Features:
+
+Tool & Armor Durability Display
+
+Enchantment Icons
+
+Food Stats (hunger & saturation)
+
+Inventory Counter
+
+Available Inventory Viewer
+
+Quick Buttons / Quick Crafting & Search
+
+Improved Chat (ChatPlus)
+
+Optimized & Custom Biome Fog Completely removed
+
+Cleaner Water Improved Lava Particles
+
+Enhanced Elytra & Mace Animations
+
+4 Game Modes:
+
+Default Pro: Full set of visual enhancements, utilities and HUD improvements.
+
+Viewer Chunks: Displays chunks, slime chunks, light ranges and technical references.
+
+Boosted FPS: Reduces particles, fog and visual effects for better performance.
+
+X-Ray Pro: Ore and structure vision with configurable night vision.
+
+Water arrows: Allows us to see which direction the water currents are flowing.
+
+VOID-BORN CLIENT DEFINITIVE aims to deliver a more complete, optimized and customizable Minecraft Bedrock experience without changing the soul of the game.
+
+.

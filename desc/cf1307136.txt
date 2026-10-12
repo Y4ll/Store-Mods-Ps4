@@ -1,0 +1,45 @@
+FEATURES:
+
+Undo Message:
+
+- Easily view and restore previously typed messages.
+
+- Switch between past and future chat inputs without retyping.
+
+Command Switcher:
+
+- Quickly cycle through different command variations with a single button.
+
+- No need to manually retype entire commands, saving time and effort.
+
+No Chat Typing Limit:
+
+- The chat input box has no character limit, allowing unlimited text.
+
+- Useful for long messages or complex commands.
+
+Better Coordinates Copy-Paste:
+
+- Easily copy and paste coordinates.
+
+- Improves navigation.
+
+Touch Chat Interaction:
+
+- Select commands directly from the chat box with a simple tap.
+
+- No need to manually type commands like /give @s, just tap and select.
+
+No Auto-Scroll on New Messages:
+
+- When a new message appears, the chat wont auto-scroll to it.
+
+- This allows you to read past messages without interruptions.
+
+Chat Stays Open When Hurt:
+
+- The chat screen will not close if your player takes damage.
+
+- Ensures seamless communication even in intense situations.
+
+PREVIEW:

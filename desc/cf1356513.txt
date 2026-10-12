@@ -1,0 +1,61 @@
+Liminal Craft is a Minecraft Bedrock Add-On that adds different Entities, Blocks and Items for Building a Backroom World, Apart from its Compatibility with the New Vibrant Visuals, Try to make each entity have its meaning in the Add-On and its Function, and apart from trying to have a style as Vanilla as possible.
+
+The Entities that the Add-on contains are mainly from Roblox Games, Wiki Pages or Custom, mainly from the Adysync, Reysync and Limbo, others would be like the Kane Parsons series, It also uses the original Backrooms Wikidot as a base for some ideas, because it is obviously the basis for everything.
+
+This Add-On is created mainly for the player to create maps, so it can be called Sandbox but in future versions a natural generation is planned, it mainly has 1 level blocks (+Biome) That its sections are under construction category.
+
+(WARNING! THE MCPEDL PAGE IS BUGGED, DOWNLOAD THE ADD-ON HERE. (Curseforge)
+
+Discord Server:
+
+Discord Link
+
+DISCLAIMER!
+
+Please give credit to the Addon page in case you are going to make a video/use it in your maps, As well as Activate the Experimental options of the Addon (Beta API and Upcoming Creator Features) Before Creating a new world and Make sure to put the both Packs, This addon is a Sandbox, if you don't want to build, you can wait for the map release, Thank you.
+
+Entity List:
+
+Entity (Mobs) List:
+
+- Lifeform
+
+- Marvin's Friend
+
+- Tripod
+
+- Vending mimic
+
+- Echo (Snatcher)
+
+- Mold Zombie
+
+- Swift Zombie
+
+- Mold Titan
+
+- Mold Clicker
+
+- Mold Spotlight
+
+- R&I Mold zombie
+
+- FMU Mold zombie
+
+- M-State Spotlight
+
+- M-State Titan
+
+- TSD Titan (Jefferson)
+
+- Radio Crab
+
+- Speaker Crab
+
+- Umbra Light
+
+- Mannequin Mimic
+
+- Skin Stealer
+
+- Carpet Bear

@@ -1,0 +1,87 @@
+Flatworld Villages [Bedrock]
+
+Bored of the endless empty flat world? Flatworld Villages completely changes the rules of survival! This addon adds lively, well-crafted villages that generate directly in flat worlds and at almost any height.
+
+Each settlement is assembled using the jigsaw system. Roads, buildings, decorations, and loot are distributed randomly. No two villages are the same every single spawn feels completely fresh!
+
+Key Features
+
+- Lively Flat World: True survival experience instead of empty space.
+
+- Jigsaw Generation: Unique structure and layout for every settlement.
+
+- Vanilla Loot: Balanced random items hidden inside chests.
+
+- Custom Flat Worlds: Works perfectly even in TNT worlds or custom layouts.
+
+- New Progression: Engaging goals for exploration and development.
+
+- Structures: 21 structures enabled.
+
+- [NEW] Custom Generation Height: Set it manually or let default AI handle it.
+
+Spawn Frequency Settings
+
+The addon features 5 generation modes to fit any playstyle. You can easily switch between them in the pack settings:
+
+- Extreme Rare ultra-rare and high-value discoveries.
+
+- Rare challenging search for hardcore survival fans.
+
+- Default classic and most balanced experience.
+
+- Frequent high density of villages for fast-paced gameplay.
+
+- Infinite an almost endless world made of settlements.
+
+Update 1.7
+
+Added a new structure: Cartographer's House
+
+Bonus for players:
+
+Join our Discord or Telegram to get the Elite Edition for FREE!
+
+It provides additional advantages compared to the standard version.
+
+The link is at the end of the add-on description.
+
+How to Install
+
+- Download and install the behavior pack.
+
+- Activate the pack in your world settings.
+
+- Enable all options in the Experimental Settings toggle.
+
+- Click the gear icon next to the pack to select your preferred spawn mode.
+
+- Recommended: Set your simulation distance to 812 chunks for optimal performance.
+
+Elite Edition (Community Bonus)
+
+Want to get the most out of the addon and beat the game? An exclusive Elite Edition is available for our community members!
+
+Elite Edition Features:
+
+- New building: Butcher's house.
+
+- Secret chest: Hidden inside every Blacksmith building containing End Portal frames.
+
+- Path to the End: Contains End Portal frames that allow you to reach the final boss and earn a reward.
+
+You can download the Elite Edition for FREE in our official channels!
+
+Join Our Community!
+
+Follow updates and download exclusive content here:
+
+- [Join our Discord] https://discord.gg/cawX2TfBE6
+
+- [Follow on Telegram] https://t.me/Obsitus_mods
+
+Also Download my other addon - Craftable Structures
+
+Craft Your Buildings! Gather every block, auto-deposit from chests, preview using visual particle outlines, and instantly deploy balanced structures in your survival worldcompletely custom API & survival friendly.
+
+Download Curse forge: https://www.curseforge.com/minecraft-bedrock/addons/craftable-structures-addon

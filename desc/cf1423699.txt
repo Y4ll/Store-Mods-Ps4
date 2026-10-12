@@ -1,0 +1,207 @@
+# English Description
+
+Terrain Landscapes Ultra V2 :https://ko-fi.com/s/787687b62f
+
+The Ultra version is more advanced, with more terrain and vegetation types, and 100% lag fix.
+
+Terrain Landscapes V7 and Terrain Landscapes Ultra V3.0 fix the bug where spawn trees overlapped, causing lag.
+
+Each tree spawn is spaced 70 to 130 blocks apart by default.
+
+**Terrain Landscapes** is a world generation addon that enhances Minecraft by introducing richer, more dynamic terrains across all dimensions.
+
+This addon completely improves **Overworld**, **Nether**, and **End** terrain generation, featuring:
+
+* More natural and varied landscapes
+
+* Higher mountains, deeper valleys, and smoother terrain transitions
+
+* Improved biome distribution
+
+* Enhanced environmental details that make exploration more immersive
+
+Terrain Landscapes focuses on performance-friendly world generation while still delivering visually impressive results, making every new world feel unique and alive.
+
+**Addon by FEBERNAISYSTUDIOS **
+
+Supports: Aos Happy1speed - Atllas trees
+
+Supports: Galilieu 15 - Terrain rework
+
+Guide New Update Tan's Huge Trees in Terrain landscapes V3.0: Sneak + sapling
+
+## Mo ta Tieng Viet!
+
+**Terrain Landscapes** la addon world generation giup nang cap ia hinh Minecraft, mang lai the gioi tu nhien va a dang hon.
+
+Addon bo sung va cai tien ia hinh cho **Overworld**, **Nether** va **End**, bao gom:
+
+* ia hinh phong phu va tu nhien hon
+
+* Nui cao hon, thung lung sau hon, chuyen tiep ia hinh muot ma
+
+* Phan bo biome hop ly hon
+
+* Canh quan sinh ong, tang trai nghiem kham pha
+
+Terrain Landscapes uoc thiet ke toi uu hieu nang nhung van giu chat luong hinh anh an tuong, khien moi the gioi moi eu tro nen oc ao va song ong.
+
+Addon boi FEBERNAISYSTUDIOS
+
+Huong dan su dung Tan's Huge Trees trong ban cap nhat terrain Landscapes V3.0: Ngoi + choi cay
+
+---
+
+FEBERNAISYSTUDIOS Add more notes: Background image and addon description created by artificial intelligence (AI).Because I see who is convenient in this regard.
+
+Link Youtube: https://www.youtube.com/@Nova_Sky_004
+
+Link video Youtube: https://youtu.be/kfYmCEWtGUM?si=A9f8ulVEVh04iLOb
+
+Link discord: https://discord.gg/CdjYgGN85d
+
+Terrain Landscapes Reforged Update:
+
+Works well with other biomes and terrain addons.
+
+New Update:
+
+Commands for automatic terrain generation(Not suitable for low-end devices)
+
+!disaster <type> <level>
+
+!disaster sinkhole 1
+
+!disaster sinkhole 2
+
+!disaster sinkhole 3
+
+!disaster sinkhole 4
+
+!disaster sinkhole 5
+
+!disaster sinkhole 6
+
+!disaster sinkhole 7
+
+!disaster earthquake 1
+
+!disaster earthquake 2
+
+!disaster earthquake 3
+
+!disaster earthquake 4
+
+!disaster earthquake 5
+
+!disaster earthquake 6
+
+!disaster earthquake 7
+
+!disaster earthquake2 1
+
+!disaster earthquake2 2
+
+!disaster earthquake2 3
+
+!disaster earthquake2 4
+
+!disaster earthquake2 5
+
+!disaster earthquake2 6
+
+!disaster earthquake2 7
+
+!disaster uplift 1
+
+!disaster uplift 2
+
+!disaster uplift 3
+
+!disaster uplift 4
+
+!disaster uplift 5
+
+!disaster uplift 6
+
+!disaster uplift 7
+
+!disaster uptower 1
+
+!disaster uptower 2
+
+!disaster uptower 3
+
+!disaster uptower 4
+
+!disaster uptower 5
+
+!disaster uptower 6
+
+!disaster uptower 7
+
+!disaster waterfall 1
+
+!disaster waterfall 2
+
+!disaster waterfall 3
+
+!disaster waterfall 4
+
+!disaster waterfall 5
+
+!disaster waterfall 6
+
+!disaster waterfall 7
+
+!disaster volcano 1
+
+!disaster volcano 2
+
+!disaster volcano 3
+
+!disaster volcano 4
+
+!disaster volcano 5
+
+!disaster volcano 6
+
+!disaster volcano 7
+
+!disaster ellipse_cyl_cone 1
+
+!disaster ellipse_cyl_cone 2
+
+!disaster ellipse_cyl_cone 3
+
+!disaster ellipse_cyl_cone 4
+
+!disaster ellipse_cyl_cone 5
+
+!disaster ellipse_cyl_cone 6
+
+!disaster ellipse_cyl_cone 7
+
+!disaster ellipse_noise 1
+
+!disaster ellipse_noise 2
+
+!disaster ellipse_noise 3
+
+!disaster ellipse_noise 4
+
+!disaster ellipse_noise 5
+
+!disaster ellipse_noise 6
+
+!disaster ellipse_noise 7
+
+!disaster hemisphere 1
+
+!disaster hemisphere 2
+
+!disaster hemisphere 3
+
+!disaster hemisphere 4
+
+!disaster hemisphere 5

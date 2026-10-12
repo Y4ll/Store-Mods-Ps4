@@ -1,0 +1,5 @@
+Fully grown kelp will grow flowers on the top and pumpkin and melon stems will be orange and green respectively. I find it also adds a little bit more color into your world.
+
+Later down the line i want to make each individual crop indicator toggable but I have to figure how to do that first. If you have anymore suggestions for indicators let me know and I might add them.
+
+Credits to Vanilla Tweaks, Bedrock Tweaks, and of course Actions and Stuff

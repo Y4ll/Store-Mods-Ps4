@@ -1,0 +1,25 @@
+Dark Souls Visuals
+
+A Vibrant Visuals Pack for Minecraft Bedrock, inspired by the fantasy world of Dark Souls, where every biome tells a story of a dying age.
+
+What is Dark Souls Visuals?
+
+Dark Souls Visuals is a complete atmospheric overhaul for Minecraft Bedrock using the Vibrant Visuals rendering system. Every biome has been individually crafted to reflect the weight, gloom, and haunting beauty of the Dark Souls universe, from the amber choked ruins of Lothric to the eternal frost of Irithyll. This is not a brightness filter. Every biome has its own unique atmosphere, fog, color grading, lighting, and sky built from the ground up.
+
+Whether you are wandering a fog drenched birch forest or standing beneath the dragon in the End, the world feels like it carries the memory of a fire that is slowly going out.
+
+Screenshots
+
+- Jungle
+
+- Cold Taiga
+
+- Cherry Grove
+
+- Taiga
+
+- Birch Forest
+
+- Mushroom Island
+
+- Dappled Forest

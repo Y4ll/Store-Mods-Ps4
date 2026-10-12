@@ -1,0 +1,97 @@
+Simple Capitator
+
+Make Minecraft survival faster, simpler, and more enjoyable with Simple Capitator by FleetMc Studio. This lightweight Minecraft Bedrock addon combines four useful survival features into one complete pack: Vein Miner, Tree Capitator, Leaf Capitator, and Crop Harvester.
+
+Whether you're mining connected ores, cutting down trees, clearing leaves, or harvesting large farms, Simple Capitator helps reduce repetitive work while keeping important vanilla survival mechanics such as tool durability, Fortune, Silk Touch, Unbreaking, experience drops, and crop replanting.
+
+Designed for smooth gameplay and mobile devices, this Achievement Friendly Minecraft Bedrock addon requires no complicated menus or Experimental Gameplay. Simply activate the Behavior Pack, enter your world, and start playing.
+
+Four Survival Features in One Addon
+
+Instead of installing separate Minecraft addons for vein mining, tree cutting, leaf removal, and crop harvesting, Simple Capitator combines all four features into one lightweight and easy-to-use survival addon.
+
+- Vein Miner for faster ore mining.
+
+- Tree Capitator for easier wood gathering.
+
+- Leaf Capitator for quickly clearing connected leaves.
+
+- Crop Harvester for harvesting and replanting connected crops.
+
+Vein Miner
+
+The built-in Vein Miner makes mining connected ores faster and more convenient. When you mine a supported ore while holding a pickaxe, all connected ores from the same ore family are automatically mined.
+
+Normal and Deepslate variants of the same ore work together, making the Simple Capitator vein mining system especially useful when exploring deeper Minecraft caves where ore veins can generate across different block variants.
+
+The Vein Miner also supports important survival mechanics. Fortune can increase applicable ore drops, Silk Touch can collect supported ore blocks, Unbreaking is supported, tool durability is consumed, and ore experience can drop where applicable.
+
+Supported Ores
+
+- Coal
+
+- Iron
+
+- Copper
+
+- Gold
+
+- Nether Gold
+
+- Redstone
+
+- Lapis Lazuli
+
+- Diamond
+
+- Emerald
+
+- Nether Quartz
+
+- Ancient Debris
+
+Tree Capitator
+
+Gather wood faster with the built-in Tree Capitator. When you break a supported Log or Wood block using an axe, connected blocks of the exact same wood type are automatically broken.
+
+The Tree Capitator supports regular Overworld trees, wood blocks, stripped variants, Mangrove, Cherry, Pale Oak, Nether Stems, Hyphae, and other supported vanilla Minecraft tree types.
+
+Only connected blocks of the exact same type are affected, helping the tree cutting system remain predictable and easy to use during normal Minecraft survival gameplay.
+
+Leaf Capitator
+
+Clear unwanted leaves quickly with the Leaf Capitator feature. Simply break supported leaves using Shears, and connected leaves of the exact same type will automatically be removed.
+
+Different leaf types are not mixed together. This makes Simple Capitator useful for clearing trees and gathering leaves without accidentally breaking nearby leaves from another tree type.
+
+Crop Harvester
+
+Manage large Minecraft farms more efficiently with the built-in Crop Harvester. When you harvest a fully grown supported crop using a hoe, connected fully grown crops of the same type are automatically harvested and replanted.
+
+Only fully grown crops are harvested, allowing you to collect large farming areas faster while automatically preparing the farm for its next harvest.
+
+Supported Crops
+
+- Wheat
+
+- Carrots
+
+- Potatoes
+
+- Beetroot
+
+- Nether Wart
+
+How to Use
+
+Simple Capitator is designed to work naturally during regular Minecraft Bedrock survival gameplay without unnecessary menus or complicated setup.
+
+- Mine a supported ore with a pickaxe to activate Vein Miner.
+
+- Break a supported Log or Wood block with an axe to activate Tree Capitator.
+
+- Break supported leaves with Shears to activate Leaf Capitator.
+
+- Harvest a fully grown supported crop with a hoe to activate Crop Harvester.
+
+- Sneak or crouch while breakin

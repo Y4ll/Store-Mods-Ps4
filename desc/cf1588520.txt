@@ -1,0 +1,23 @@
+X-ray Pickaxe
+
+This pickaxe transforms nearby stone and deepslate into glass while mining, creating an X-ray effect that reveals hidden ores and structures.
+
+Recipe
+
+How It Works
+
+To turn nearby blocks into glass just mine a block holding the X-ray Pickaxe and it will turn nearby cave blocks into glass which will expose nearby ores.
+
+Features
+
+- Turns nearby blocks into glass while mining
+
+- X-ray effect reveals ores clearly
+
+- Works with stone,granite,andseti,diorite, tuff block and deepslate
+
+- Suitable for survival/adventure maps
+
+- Achievement friendly
+
+Turn Glass Back Into Stone Upon Mining In Crouch Position (V3)

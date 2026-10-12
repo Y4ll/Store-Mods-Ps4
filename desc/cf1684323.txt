@@ -1,0 +1,48 @@
+Ascendant: Mastery brings skill-based progression to Minecraft Bedrock. Earn experience, spend skill points, unlock equipment and activities, and develop your character across twelve skills in a custom book interface.
+
+This is the core addon in the Ascendant series. Ascendant: Vocation expands its progression with professions, while Ascendant: Sustenance adds an optional nutrition system.
+
+- Twelve skills: Health, Strength, Agility, Defense, Stamina, Luck, Archery, Trade, Smithing, Mining, Farming, and Alchemy.
+- Twenty levels per skill with persistent player progression.
+- Skill bonuses for combat, movement, health, hunger, farming, mining, trading, smithing, brewing, and more.
+- Level requirements for equipment, blocks, entities, mining, brewing, and smithing.
+- Under-level players can still break restricted mining blocks, but receive no drops; the matching vanilla break sound still plays.
+- Alchemy restricts drinking and throwing potions, not ingredient collection. Ingredients and potions can be collected, stored, and traded freely; existing workstation-use requirements remain unchanged.
+- Extended potions require at least Alchemy 16, stronger potions 20, splash delivery 7, and lingering delivery 17. The highest applicable effect and delivery requirement wins.
+- Restricted non-stackable equipment keeps requirement lore visible as red unmet lines that disappear as each requirement is met.
+- Spears require both Agility and Strength; Netherite gear also requires Smithing in addition to its base skill requirement.
+- Custom items, blocks, and entities can require multiple skills together. Every listed requirement must be met.
+- Continuous unlock lists that show when content becomes available.
+- A custom Mastery interface opened by the Ascendant book.
+- Centered UI with fade-in/fade-out transitions only, without sliding or resizing.
+- Every player receives the Ascendant book on first join and after every death.
+- Craft another Ascendant book from one normal Minecraft book.
+- Integrated navigation for Ascendant: Sustenance and the Ascendant: Vocation expansion when installed.
+- Existing legacy save data is migrated automatically.
+
+- Use the Ascendant book received when joining or respawning.
+- Alternatively, run /asc:mastery.
+
+1. Import the included behavior pack and resource pack.
+2. Activate both packs on the same world.
+3. Place the behavior pack high enough in the stack to avoid another addon replacing its player definition.
+4. Back up an existing world before updating or changing addon stacks.
+
+- Minecraft Bedrock 1.26.40
+- Both the Ascendant: Mastery behavior pack and resource pack are required.
+
+Mastery modifies the player entity to provide skill-based health values. Addons that also replace minecraft:player may conflict unless their player definitions are merged. Sustenance is an optional standalone-compatible companion. Vocation is an expansion for Mastery and should be installed alongside it.
+
+Extensions now use simple, readable lists instead of versioned registration code. Add item, block, entity, mining, potion, and smithing requirements, and registered content appears in the matching unlock lists.
+
+Single requirement:
+{ item: "myaddon:ruby_sword", skill: "strength", level: 10 }
+
+Multiple requirements:
+{ item: "myaddon:swift_sword", requires: { strength: 10, agility: 5 } }
+
+Both Strength 10 AND Agility 5 are required. Lore shows each unmet requirement.
+
+An inactive, ready-to-copy extension_template is included inside the behavior pack. Edit scripts/lists.js; the supplied script handles registration, retries, and readable error messages automatically. Follow extension_template/START_HERE.txt to copy the template out, rename its manifest, and assign unique UUIDs. The template refers to existing content; it does not create items or blocks.
+
+The template includes Add-On metadata, an editable author field, and a direct dependency on Mastery 1.0.7. Metadata alone does not guarantee achievements; Minecraft world eligibility s

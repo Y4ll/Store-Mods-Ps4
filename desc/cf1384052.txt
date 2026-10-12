@@ -1,0 +1,23 @@
+Glowing Ores is a texture pack that makes all ores emit a gentle glow, making them easier to find while mining. It enhances visibility in caves while keeping the original Minecraft style.
+
+Benefits: You can easily find ores without using torches or night vision. Perfect for mining and exploring dark areas with improved visibility.
+
+Subpacks Included:
+
+- Outlined Ores: Adds a clean outline around each ore for better visibility.
+
+- Outlined Ores Glow+: Same as outlined version but with a stronger glow effect.
+
+- No Outline Ores: Keeps ores in their normal shape but adds a smooth glow effect.
+
+- Animated Glowing Ores: Adds a dynamic, moving glow effect to the ores for a more immersive feel.
+
+Compatibility: Works smoothly with most vanilla-style texture packs and doesnt affect other blocks or performance.
+
+Important: To use this pack, make sure Vibrant Visuals are turned ON in your game settings. Without this, the pack will not work properly.
+
+Want Animated Glowing Ores which offers more than 20+ animations?
+
+Checkout MCPEDL: https://mcpedl.com/animated-glowing-ores-voxen/
+
+CurseForge: https://www.curseforge.com/minecraft-bedrock/texture-packs/animated-glowing-ores-voxen

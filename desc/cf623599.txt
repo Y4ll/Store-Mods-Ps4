@@ -1,0 +1,9 @@
+if you have a pet wolf, parrot, cat, fox, llama, donkey, mule or horse you can train it to find ores and monsters nearby.
+
+Training is easy. rename the creature with a name tag to "Train Ore" or "Train Monster" and it's trained. You can train it for both if you like, and rename it after training to whatever you want. The pet's name isn't important after training.
+
+To use the trained pet. bring it along with you. Have a lead in your hot bar (the main selectable items) and whatever it is you want to find. for example, have a lead and a copper ingot to find copper ore, or gunpowder for creepers.
+
+If the ore or monster is near, every 10 seconds or so the pet will tell you. The pet can find ore up to 8 blocks away. and monsters up to 30 blocks away.
+
+You start out with a book that explains everything and gives you a list of what to hold for what ores and monsters.

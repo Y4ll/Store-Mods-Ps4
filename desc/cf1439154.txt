@@ -1,0 +1,65 @@
+Auto Totem Addon Smart Totem Safety System for Minecraft Bedrock 1.21+
+
+Auto Totem Addon is a survival focused Minecraft Bedrock quality of life addon that automatically equips a Totem of Undying when a players health drops to a critical level. It is designed to save lives, prevent unfair deaths, and keep gameplay smooth without requiring fast reactions or constant offhand management.
+
+If you are looking for a Minecraft Bedrock auto totem addon, totem swap mod, offhand safety system, or hardcore survival helper, this addon provides a clean and reliable solution while remaining fully balanced.
+
+What This Auto Totem Addon Does
+The addon continuously monitors player health.
+When health drops below a safe threshold, a Totem of Undying is instantly equipped to the offhand.
+This ensures the totem activates at the right moment without manual input.
+
+Smart Health Based Trigger
+The system activates when health falls below five hearts.
+If the player is already holding a totem in the main hand or offhand, no action is taken.
+This prevents unnecessary item swapping or interruptions.
+
+Safe Inventory Swap Logic
+The addon searches the player inventory for a totem.
+If found, it safely moves the totem to the offhand.
+Any existing offhand item such as a shield or map is moved back into the inventory instead of being deleted.
+
+Instant Feedback
+A sound effect plays when the totem is equipped.
+An action bar message confirms that Auto Totem has activated.
+The feedback is clear and non intrusive.
+
+Performance Optimized and Always On
+Runs on a fast but optimized interval for responsiveness.
+No commands, no menus, no configuration required.
+Automatically enabled for all players.
+
+Survival and Hardcore Friendly
+Perfect for hardcore worlds and high risk gameplay.
+Does not give unfair advantages.
+Only activates when a totem is already owned by the player.
+
+How to Use
+Carry a Totem of Undying in your inventory.
+Play normally in survival mode.
+When your health drops to a critical level, the totem is equipped automatically.
+Survive dangerous situations without manual swapping.
+
+Best For
+Survival worlds
+Hardcore gameplay
+PvE and PvP situations
+SMP servers
+Vanilla plus experiences
+
+Compatibility
+Minecraft Bedrock Edition
+Tested on version 1.21 and above
+Script based addon
+No resource pack required
+Works in singleplayer and multiplayer
+
+SEO Keywords Hidden but Powerful
+Minecraft Bedrock auto totem addon, auto totem swap mod, totem of undying addon, offhand auto equip Bedrock, hardcore survival addon, PvP survival helper, Bedrock Edition script addon, Minecraft 1.21 auto totem, no cheat survival addon, quality of life Bedrock mod, automatic totem system, life saving addon Minecraft, SMP safe addon, Realm compatible addon
+
+Why Choose Auto Totem Addon
+Prevents accidental deaths
+Hands free totem management
+Survival balanced and fair
+No setup required
+Optimized and server safe

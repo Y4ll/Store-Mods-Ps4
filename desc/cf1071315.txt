@@ -1,0 +1,15 @@
+Upon death, a grave will be automatically created at your location, and you will receive the coordinates so you can easily return and recover your items.
+
+V1.0.6
+
+-New Gravestone Texture
+
+-Gravestone Key: teleports you to your last death location
+
+Note: At the moment I have 2 versions of the addon, one with the gravestone key and another without. In a future update it can be configured in the game itself according to your preferences.
+
+Note:
+
+Don't forget to activate the beta-api from experimental options.
+
+Discord server comunity: https://discord.gg/YJ5v727bJH

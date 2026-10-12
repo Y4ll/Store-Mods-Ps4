@@ -1,0 +1,133 @@
+Newb Aetheris v1.1.2
+
+Newb Aetheris is a colorful and cinematic shader made for Minecraft Bedrock Edition. It focuses on beautiful lighting, vibrant skies, smooth color transitions, and a more atmospheric world.
+
+Enjoy colorful daylight, warm sunsets, cool and immersive nights, glowing blocks, improved clouds, and atmospheric effects that make the world feel more alive.
+
+Newb Aetheris is designed to keep Minecrafts original style while adding more depth, color, and atmosphere to your gameplay.
+
+FEATURED
+
+Colorful Lighting
+
+Dynamic Day & Night
+
+Atmospheric Sky
+
+Custom Sun & Moon
+
+Dynamic Clouds
+
+Aurora
+
+Realistic Water
+
+Water Waves & Reflections
+
+Atmospheric Rain
+
+Dynamic Fog & Mist
+
+Emissive Lighting
+
+Ore Glow & Shimmer
+
+Animated Vegetation
+
+Torch & Ambient Lighting
+
+Custom Nether Atmosphere
+
+Custom End Atmosphere
+
+End Black Hole
+
+Rainbow
+
+Underwater Effects
+
+Glint Effects
+
+Animated Particles
+
+Smooth Color Transitions
+
+SETTINGS
+
+Recommended Settings
+
+Graphics : Fancy
+
+Clouds : On
+
+Smooth Lighting : On
+
+Beautiful Sky : On
+
+Brightness : 50 - 90
+
+Subpacks
+
+Default : Main visuals, enables all effects, may be heavy on some devices.
+
+Low : Slightly reduces the quality of effects or disables them. Uses vanilla clouds. A lighter subpack for low-end devices.
+
+NOTES
+
+Compatible only with minecraft version 26.45+
+
+Compatible with Linux, Windows, Android, and iOS. need tools!! join newb community, get tools and tutorials (It's in the MCBE Patches section).
+
+Performance may vary depending on device specifications and Minecraft settings.
+
+Some visual effects may look different depending on graphics settings, render distance, and device performance.
+
+For the best experience, use the recommended Minecraft graphics settings.
+
+Clouds will only work if using beautiful graphics, turn them off if you're using simple graphics.
+
+CREDITS
+
+Thank you to Devendrn for giving me the space to create this newb variant.
+
+Thank you also to my friends in the newb community who helped put this shader together so it could be released so well.
+
+especially to these names:
+
+Devendrn
+
+REXYTMC
+
+SetBr0ken
+
+KrispyBRN
+
+Indeed
+
+Ale
+
+JesusMiguel Gamer
+
+nickellynx
+
+kurinkishi
+
+Ethereal
+
+And to those I can't mention, thank you again for helping me build this shader.
+
+COPYRIGHT
+
+Original source : Newb Shader
+
+Author : Devendrn
+
+Modified by : Goboyy22
+
+Proper copyright claims are prohibited!
+
+Users may only use this for personal use, or distribute it by including a link to the original CurseForge or MCPEDL, and including the modifier's name.
+
+Any shader development recommendations or bug reports? Please join Discord by clicking here.
+
+Enjoy guys.

@@ -1,0 +1,22 @@
+[ - Achievement-Friendly - ]
+
+This addon is fully achievement-friendly and does not require Experimental APIs, ensuring full compatibility with standard Minecraft Bedrock worlds.
+
+[ - Functionality - ]
+
+Mythical Items enhances gameplay by adding visual particle effects to items based on their rarity. Common items remain simple, while rarer and more valuable items emit unique particles that reflect their tier, making loot more immersive and rewarding to find.
+
+[ - Configuration - ]
+
+[ - Vibrant Visual Compatible - ]
+
+[ - Want your custom items with rarities? - ]
+
+If you want your addons items to have custom rarities and particle effects, feel free to contact @geokiller on Discord.
+
+The system is designed to be lightweight, performance-friendly, and fully compatible with vanilla mechanics and other addons. It works automatically without altering item behavior, crafting, or balancepurely visual enhancements for a more magical experience.
+
+Perfect for survival worlds, RPG-style servers, and players who want clearer visual feedback for rare loot without changing core gameplay.
+By Geokiller.
+
+Discord: https://discord.gg/3MNMR4STYc

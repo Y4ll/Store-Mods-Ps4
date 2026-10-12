@@ -1,0 +1,81 @@
+Vantage
+
+A natural, full-body first-person experience for Minecraft: Bedrock Edition!
+
+- Full body visible in first person (legs, torso, arms, armor, capes, held items).
+
+- Fully compatible with other addons whenever possible.
+
+- Compatible with texture packs without causing visual issues.
+
+- Works correctly with both touch controls and mouse & keyboard/controller.
+
+- Hit detection stays aligned with your crosshair interactions still come from your real eye position, so you won't notice any offset.
+
+- Smooth animations without affecting gameplay vanilla still drives the skeleton, Vantage moves the camera.
+
+- Multiplayer-friendly and survival-friendly no operator permissions, no cheats, and other players see you completely normally.
+
+- Lightweight and optimized for performance.
+
+- Compatible with the latest Bedrock version (built for 1.21.100 and up, including 1.26).
+
+- Configurable body visibility, with three body distances (Close / Normal / Far).
+
+- Adjustable camera position on all three axes.
+
+- FOV compatibility, with an optional FOV override.
+
+- Crawling, swimming, sneaking, and riding all handled sneaking and swimming are compensated automatically, and riding keeps your body visible.
+
+- Automatically steps aside for anything that needs the real first-person view: maps, spyglasses, gliding, crawling, and sleeping.
+
+- Support for custom player animations without conflicts.
+
+Controls
+
+- /vantage opens the main menu (toggle, settings, reset). Real custom slash command, permissionLevel: Any with cheatsRequired: false, so survival players without operator rights can use it. No experimental toggles required.
+
+- /vantage:toggle flips Vantage on/off directly. Bind it to a Command Macro under Settings Keyboard & Mouse for a true PC hotkey.
+
+- /vantage:config opens the settings form directly.
+
+- Vantage Settings item (vantage:config_tool) hold use for about a second to open the same menu. Works identically on touch (tap and hold), mouse (hold right-click), and controller (hold the use trigger). Obtainable from the creative Items tab or /give.
+
+- Sneak + Jump quick-toggle on by default; switch it off in the settings menu if you sneak-jump often enough to trip it by accident.
+
+Config options
+
+- First-person body master on/off. When off, Vantage clears the camera entirely and you get the engine's normal first-person view back exactly as if the pack weren't there, perspective key included.
+
+- Body distance (Close / Normal / Far) how far your torso and legs sit from the camera.
+
+- Camera left / right (-0.5 to 0.5 blocks) shifts the camera sideways.
+
+- Camera up / down (-0.5 to 0.5 blocks) raises/lowers the camera.
+
+- Camera forward / back (-0.5 to 0.5 blocks) pulls the camera slightly behind or in front of your eye point.
+
+- Override field of view off by default; leaves your video settings alone unless you turn it on.
+
+- Field of view (30 to 110) only applies while the body is actually being rendered, so spyglass zoom and the map view aren't affected.
+
+- Quick toggle with Sneak + Jump see above.
+
+- Vanilla view while gliding (on by default) a horizontal body sits between the lens and the horizon exactly when precision matters most.
+
+- Vanilla view while crawling (on by default).
+
+- Vanilla view with spyglass (on by default) the zoom overlay is drawn for a true first-person frustum.
+
+- Vanilla view while riding (off by default) your body stays visible on mounts unless you turn this on.
+
+Maps are not configurable: a held map always hands the camera back, because the first-person map view doesn't render under a camera preset. Happy Ghast mounts always hand back too.
+
+All settings are saved per player and persist across sessions.
+
+Licensing
+
+This add-on is licensed under ALL RIGHTS RESERVED. You are free to use and modify Vantage as long as you comply with the terms of the license. Please keep the original credits intact. Thanks :D
+
+This add-on was suggested by sick_0_0 on Discord; you can contact him here!

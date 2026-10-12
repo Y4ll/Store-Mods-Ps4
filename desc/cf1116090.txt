@@ -1,0 +1,41 @@
+This simple Add-On syncs your real life time into your Minecraft world.
+
+Customization Options
+
+The Add-On has built-in customization features:
+
+- Enable RealTime: toggles whether to use the Add-Ons features or not. This option allows you to have complete control of the time of the world should you wish to do so, without having to completely remove the Add-On.
+
+- Display time in actionbar: when enabled, your current real life time will be displayed for all players in the actionbar.
+
+- Set timezone: allows you to select which timezone the time should sync on
+
+- Time change easing time: determines the easing factor whenever the time changes. This can be drastically visible when the difference of the previous set time and the new time to set is great. Appropriately adjust this to suit your needs to avoid possible epileptic seizures.
+
+Installation Notes
+
+For the best gameplay experience, please take note of these before attempting to download the pack:
+
+- This Add-On works in multiplayer.
+
+- For Aternos, please refer to instructions here.
+
+- You need to have an active Realms subscription to use this in Realms. To install on Realms, please check on Minecraft's website.
+
+- Or locally via Wi-Fi or LAN.
+
+- This Add-On modifies the player.json. And may NOT work with other Add-Ons or packs.
+
+- This Add-On only supports Bedrock 1.20.70 or higher.
+
+License & Usage
+
+This Add-On is under MIT License. If you wish to attribute this work into your own, please refer to the license accordingly.
+
+Copyright 2024 r4isen1920
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

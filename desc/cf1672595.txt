@@ -1,0 +1,85 @@
+V 1.2.2
+
+Welcome to Ice Age, an add-on by Iced Fox Studios for the ModJam 2026 competition, themed "Echoes of the Past". The idea is simple: imagine a Minecraft where the world never fully warmed up. Where ice and permafrost never went away. Where survival isn't just about creepers and zombies, it's about not freezing to death.
+
+What does the add-on actually do?
+
+In short, it adds a whole survival-by-temperature layer to the game, plus the tools, items and places to deal with it (and more coming). Everything we add is built around one big idea: the world remembers the Ice Age, and so should you.
+
+You'll find:
+
+- A temperature system that reacts to where you are, what time it is, what the weather is doing, what you're wearing, if your you re standing near fire,...
+
+- Capes and clothes made of pleistocene animals, proper prehistoric armor that actually keeps you warm.
+
+- New biomes based on a real geological phenomenon from the far north.
+
+- And more!!
+
+The temperature system
+
+Every player has a personal temperature measured in degrees Celsius. It changes constantly based on:
+
+- Where you are. Cold biomes drop your temperature, warm ones raise it. The higher you climb, the colder it gets.
+
+- What time it is. Night is colder than day. Midnight is the worst.
+
+- What the weather is doing. Rain and thunderstorms push you further into the cold.
+
+- Where you're standing. Stand in water, in powder snow, or right next to a block of ice and you'll get colder. Stand near lava or a campfire and you'll warm up.
+
+If your temperature drops low enough, you start getting sluggish and eventually take damage from freezing. There are four states in total:
+
+State
+What it means
+
+Frozen
+You're freezing. You move slowly and take damage over time. This is dangerous.
+
+Cold
+You feel it. You're slow, but you'll survive if you find warmth or shelter soon.
+
+Neutral
+The default. Nothing is happening to you, and that's a good thing.
+
+The system is designed to be visualize with some mini icons on your hotbar. For the moment the show the neutral, and several level of cold and frozen. This will be changed in the feature, these are temporal icons for the moment.
+
+Tell us what you think about this icons!!!
+
+Blizzards system
+
+Blizzards are random natural events that sweep across the Mammoth Steppe region. The storm is shared by the world, but every player experiences it differently depending on:
+
+- Where you are. Exposed highlands suffer stronger winds, while sheltered hollows collect more blowing snow.
+
+- What is beneath you. Snow-covered ground gives the wind more loose snow to lift, creating dangerous ground blizzards.
+
+- How exposed you are. A roof blocks most of the storm. A wall facing the wind also protects you, but hiding on the wrong side offers much less shelter.
+
+- How strong the wind is. Gusts change in strength and direction, reduce visibility, push exposed players and can even move loose items.
+
+- How prepared you are. The blizzard feeds directly into the temperature system. Warm clothing, nearby heat and proper shelter can prevent freezing.
+
+Every blizzard develops naturally instead of appearing at full strength immediately:
+
+Phase
+What it means
+
+Warning
+The wind begins to rise and the first snow starts moving. It is time to find shelter.
+
+Onset
+Snowfall thickens, visibility drops and gusts become stronger.
+
+Mature
+The storm reaches maximum strength. Whiteouts, violent gusts and extreme wind chill make travelling dangerous.
+
+Decay
+The front weakens, although exposed areas remain hazardous.
+
+Residual
+The last drifting snow, fog and cold slowly disappear.
+
+Blizzards combine several layers of snow, ice crystals, ground drift, fog and directional wind sounds. On less powerful devices, particle density is reduced automatically without changing the storms physics or temperature effects.
+
+The system is designed to give you enough warning to react. A blizzard should feel like a real environmental threat that can be read, respected and survivednot just random

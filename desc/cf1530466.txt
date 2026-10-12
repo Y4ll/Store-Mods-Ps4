@@ -1,0 +1,7 @@
+This small quality-of-life Minecraft mod helps players avoid losing valuable tools and armor by providing automatic low durability warnings for both inventory items and equipped gear. When an item reaches a critical durability level, players receive an on-screen alert along with a sound notification, making it easier to repair or replace gear before it breaks. Simple, lightweight, and highly practical, this mod enhances everyday survival gameplay without changing core mechanics.
+
+Attention: To use this mod, please enable the Beta API in your world settings.
+
+Also, be sure to check out my other modifications you might find something else youll love!
+
+Join my Discord community to stay updated, get support, and connect with other players - https://discord.gg/UCrMnESjD

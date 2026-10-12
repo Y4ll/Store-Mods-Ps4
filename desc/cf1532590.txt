@@ -1,0 +1,31 @@
+A movie based on the well-known creepypasta Backrooms will be released soon, so I decided to start developing a new large-scale add-on.
+
+Backrooms add-on updated to version 3
+
+LIST OF NEW ADD-ONS
+
+1) Fixed Bacteria spawn
+
+2) Added a new level with pools
+
+3) Added 2 new entities
+
+4) Fixed some bugs
+
+5) Changed texture for broken block
+
+While this is not the final version of the add-on, I will still add new characters, a new level and fix bugs. I hope you enjoy this update.
+
+4) THE MOST IMPORTANT THING IS ADDED BY BECKROOMS HIMSELF. You can play with him in the normal world. To get there, you need to find a glitch block and by stepping on it you will find yourself in ENDLESS corridors.
+
+5) Also added pills that will help you survive. I hope you like this version, a LOT of time and effort was put into it. I will be glad to read your recommendations and reviews.
+
+List of additions
+
+1) Textures: the addon adds several of the most important textures from level 0 (rug, wallpaper, wallpaper with baseboard, wallpaper with socket, ceiling and lamp)
+
+2) Cabinet: A small cabinet is also added in which you can hide from the monster (you need to click on it and then you will hide, to get out of it you need to click on the bottom of the cabinet)
+
+3) Essence: so far this add-on adds only one monster from level 0. The essence has 1000 hp and attacks the player with a screamer, can crouch down for two blocks and has a very high running speed. To escape from the monster, you need to hide in a closet (if you hide in front of it, the essence can get you). You can also determine how far away the monster is by the sound of its movement in order to hide in time.
+
+For now, that's all this add-on adds, I hope you enjoy it. In future versions, you'll see new blocks, decorations, functionality, and much more.

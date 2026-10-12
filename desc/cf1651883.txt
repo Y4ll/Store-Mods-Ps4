@@ -1,0 +1,102 @@
+Free Cam
+
+Free Cam is a Minecraft Bedrock addon that lets you leave your body behind and explore the world in Astral Form. Your original body is replaced by a visible body dummy that keeps important information such as your name, health, and equipped armor.
+
+Explore freely, return to your body when you are ready, or face the consequences if your abandoned body is destroyed.
+
+Features
+
+Astral Projection
+
+Use:
+
+/freecam:leave
+
+to leave your body and enter Spectator Mode.
+
+Your body remains at your original position while you explore the world as a free camera.
+
+Body Dummy
+
+When you leave your body, a Body Dummy is created at your exact position.
+
+The dummy can display:
+
+- Your player name
+
+- Your current health
+
+- Your equipped armor
+
+- Your original position and rotation
+
+This makes your abandoned body easy to identify, especially in multiplayer worlds.
+
+Return to Your Body
+
+Use:
+
+/freecam:return
+
+to return to your original body.
+
+Your position, dimension, rotation, and game mode are restored automatically.
+
+200-Block Range Limit
+
+Astral Form has a maximum distance of 200 blocks from your body.
+
+If you travel too far away, Free Cam automatically pulls you back to your original body.
+
+Body Death System
+
+Your body is not invulnerable.
+
+If the Body Dummy is killed, Free Cam treats it as the destruction of your real body:
+
+- You are automatically returned to your original location.
+
+- The body dummy is removed.
+
+- Your player is killed.
+
+This adds an extra risk to exploring dangerous areas while in Astral Form.
+
+Multiplayer Support
+
+Each player receives their own individual body dummy.
+
+Multiple players can use Free Cam at the same time without sharing the same body data.
+
+Visual & Sound Effects
+
+Free Cam includes effects when entering and leaving Astral Form, including sounds and particles to make the transition feel more immersive.
+
+Commands
+
+Command
+Description
+
+/freecam:leave
+Leave your body and enter Astral Form
+
+/freecam:return
+Return to your original body
+
+The commands are available without requiring cheats.
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.26+
+
+- Requires both the Behavior Pack and Resource Pack
+
+- Supports multiplayer
+
+- Uses the @minecraft/server API
+
+Note: Free Cam is designed around Minecraft Bedrock's scripting system. Make sure both packs are enabled together for the Body Dummy to render correctly.
+
+Credits
+
+Created by HuyNacl

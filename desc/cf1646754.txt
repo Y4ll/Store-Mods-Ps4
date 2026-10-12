@@ -1,0 +1,54 @@
+CHOP OP DROPS
+
+Break Logs. Get OP Loot. Become Overpowered!
+
+About This Addon
+
+Chop OP Drops transforms the way you collect resources in Minecraft! Break a supported log or wood block and instead of receiving the normal wood drop, you will receive 1 random OP item.
+
+OP Rewards
+
+Netherite Ingots
+Totem of Undying
+Elytra
+Diamond Blocks
+Netherite Blocks
+Netherite Sword
+Netherite Pickaxe
+Netherite Axe
+Enchanted Golden Apple
+Beacon
+Shulker Box
+
+How It Works
+
+- Find any supported tree or wood block.
+
+- Break the log using any method.
+
+- Normal wood drops are removed.
+
+- Receive 1 random OP item!
+
+Features
+
+- One guaranteed OP reward per broken log
+
+- Normal wood drops removed
+
+- Multiple Overpowered rewards
+
+- Simple and lightweight system
+
+- Perfect for survival challenges and OP gameplay
+
+- Designed for Minecraft Bedrock Edition
+
+Credits
+
+Created & Developed by BAKU
+All addon concepts, implementation, testing and presentation credits go to BAKU.
+
+Please support BAKU by sharing the addon and giving feedback!
+
+Break a Log Get OP Loot Become OP!

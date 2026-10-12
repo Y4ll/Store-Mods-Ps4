@@ -1,0 +1,26 @@
+Omni Evolution!
+
+Welcome to Omni Evolution! This Minecraft Bedrock add-on delivers an immersive gameplay experience very similar to the game *Ben 10: Protector of Earth*right inside Minecraft Bedrock.
+Find all the crystals stolen from across the world and restore your full power.
+
+Detailed transformation interface for enhanced immersion and gameplay; transformation system fully integrated into the interface.
+
+Aliens:
+
+Heatblast
+
+four arms
+
+xlr8
+
+cannonbolt
+
+wildvine
+
+diamondhead
+
+stinkfly
+
+ghostfreak
+
+Upon starting the game, the player begins with two random aliens assigned by the system. To unlock other aliens, the player must locate structures generated at random coordinates throughout the world. Periodically, the Omnitrix sends a chat message notifying the player that a new crystal has been found; when used, these crystals unlock a random alien and can be found hidden within the pillars at the top of these structures.

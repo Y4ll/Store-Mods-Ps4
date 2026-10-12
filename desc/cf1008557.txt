@@ -1,0 +1,11 @@
+You can convert any non-raytraced texture pack to a raytraced compatible texture pack with the help of this texture pack, place it above and you will be able to turn on Raytracing hassle-free**
+
+(Non-RTX Faithful 64x can be made to be played with Raytracing on)*
+
+**This will not generate any PBR textures for the textures of that texture pack (which you intend to play with raytracing on). This will only merely let you enable raytracing with your non-RTX texture pack. RTX-enabled texture packs do not need this for the raytracing option to be available to be turned on.
+
+You will still however require an RTX card to enable raytracing. This texture pack won't automatically enable raytracing either, you'll need to manually enable it in the video settings panel.
+
+*On a side note, there is an actual RTX version of Faithful with PBR textures, hence this texture pack is not needed for this particular texture pack, however it can be used for any other non-RTX texture pack to make it compatible to be played with the raytracing setting set to 'on' on Minecraft Bedrock.
+
+Please don't use this texture pack with already RTX-capable texture packs you can, but it's unnecessary;

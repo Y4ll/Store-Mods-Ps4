@@ -1,0 +1,79 @@
+R135 Shader RD v2.1
+
+(R135 Shader Update)
+
+This is a realistic shader with improved world lighting, sun reflections, and low-end device support.
+
+Attention:
+
+- This shader is only supported on Android
+
+- Please use Minecraft Patched or MB Loader for shaders to work
+
+- Make sure your Minecraft version is 1.21.20 or above
+
+- If you want to review this shader please use the link from the creator, Don't Relink!!
+
+Images:
+
+- Day:
+
+- Sunset:
+
+- Night:
+
+Feature:
+
+- World Coloring
+
+- Tonemap(Aces Tonemap)
+
+- Torch Lighting(Cave and Night)
+
+- Shadow Blocks
+
+- Wave(Leaves, Grass, and Water)
+
+- FogColor(Day, Night, Sunset/rise, Rain)
+
+- Sun Rays
+
+- Sun Bloom
+
+- Glowing Ores
+
+- Cave Lighting
+
+- Sun Reflection On
+
+- Nether Lighting
+
+- Underwater(Lighting, Wave, and Caustics)
+
+- The End Lighting
+
+- Stars(Rand Stars)
+
+- Fbm Clouds(Realistic Clouds)
+
+- Sky Coloring(Day, Night, Sunset/rise, and Rain)
+
+- Round Sun
+
+- Entity Coloring(Default, EndSky, Rain, and Underwater)
+
+- EndSky(Aurora, and Stars)
+
+- End Clouds
+
+- And Others..
+
+About the Creator:
+
+- Created By Regi135
+
+- Youtube: @ItsRegi135
+
+- Tiktok: @itsr135
+
+Thank you for downloading this shader!!!

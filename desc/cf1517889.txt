@@ -1,0 +1,32 @@
+ClearVision X-Ray (1.26.x)
+
+A clean and optimized X-Ray texture pack for Minecraft Bedrock Edition.
+This pack improves underground visibility by making ores clearly visible while keeping gameplay smooth and stable.
+
+Features:
+Full ore visibility
+Clean and simple textures
+No lag optimized
+Works on low-end devices
+Supports latest versions (1.26.x)
+Outline selection support
+
+Compatibility:
+Survival Mode supported
+Achievements are NOT disabled
+Works in Realms & Servers
+
+Recommended Settings:
+- Turn OFF Smooth Lighting
+- Turn ON Outline Selection
+
+Installation:
+1. Download the pack
+2. Import into Minecraft
+3. Activate in Resource Packs
+4. Enjoy better mining visibility
+
+Note:
+This pack enhances visibility and may not work correctly with other texture packs that modify block rendering.
+
+Updated for Minecraft 1.26.x with improved stability and performance!

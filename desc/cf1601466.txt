@@ -1,0 +1,52 @@
+Extreme performance, Italian passion, and exotic design brought to Minecraft Bedrock.
+Enter the world of Lamborghini, where every detail is built around emotion, speed, and exclusivity. This addon brings legendary Lamborghini supercars and performance vehicles to Minecraft Bedrock, combining aggressive acceleration, precise handling, and immersive driving mechanics created for players who want to experience the feeling of driving a true Italian masterpiece.
+
+ATTENTION!!!
+
+This addon is an independent fan-made project created exclusively for use in Minecraft and intended solely for entertainment purposes.
+It has no official connection, partnership, authorization, sponsorship, or endorsement from Lamborghini or any other real-world automotive manufacturer, brand, or company.
+All trade names, trademarks, and references mentioned belong to their respective owners and are used strictly for informational and descriptive purposes.
+
+VEHICLES:
+
+CRAFTINGS:
+
+MECHANICS:
+
+SPEED: The addon features a smooth and progressive acceleration system, providing more realistic vehicle behavior and driving experience.
+
+GEAR: The vehicles now feature an automatic-style transmission system.
+
+RPM: The speedometer now includes an RPM bar that simulates the engines revolutions for a more immersive driving experience.
+
+ENGINE UPGRADE SYSTEM: Vehicles can be upgraded with different engine stages to improve overall performance. Each upgrade increases the cars top speed and acceleration, allowing for faster and more powerful driving. Upgrades are applied using special engine items and can significantly change how each vehicle performs.
+
+VEHICLE REMOVAL: Vehicles can now be despawned using the Wrench item.
+
+SOUNDS: Vehicles now feature immersive sound effects.
+
+IGNITION: Vehicles can only be started from inside the car using a key.
+
+FUEL: Each vehicle can be powered by different fuel types: Coal (Combustion), Redstone (Electric) and Hybrid (Coal + Redstone). Fuel consumption is now based on both distance traveled and vehicle speed. The faster you drive, the more fuel the vehicle consumes.
+
+SPEEDOMETER: A functional speedometer shows your current speed in km/h, the RPM bar, and the remaining amount of fuel, allowing precise control while driving.
+
+LIGHT EMISSION: Vehicles now feature emissive lights that simulate real headlights. Players can turn the lights on and off while driving.
+
+MOB COLLISION: Vehicles can now hit mobs. Damage is based on the vehicles current speed higher speed causes greater damage.
+
+COLORS: Paint your car using any Minecraft dye.
+
+SHOP: Shop system using iron ingots + the required engine.
+
+HOW TO PLAY:
+
+Fuel requirement: Before driving any vehicle, it must be fueled using coal or redstone.
+How to refuel: Hold the fuel item in your hand and interact with the vehicle.
+Refueling condition: The vehicle must be turned off before adding fuel.
+
+Key requirement: After refueling, a key is required to operate the vehicle. Otherwise, the message "No Key" will be displayed.
+Starting the vehicle: Hold the key in your hand and interact with the car. The "Start" option will appear.
+Driving the vehicle: After starting the engine, remove the key from your hand and drive normally.
+
+Turning off the vehicle: To turn it off, hold the key again and interact with the car. The "Stop" option will be displayed.

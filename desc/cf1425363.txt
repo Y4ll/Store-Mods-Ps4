@@ -1,0 +1,21 @@
+MY DISCORD
+
+(disclaimer the image is made by ai)
+
+Skills:
+Active Skill 1: Heroic Lightning: the lightning will heal you but attack the targets. (Attack)
+Active Skill 2: Heroic Punch: this skill has a chance to apply random effects to targets. (Attack)
+Active Skill 3: Heroic Boost: this skill will boost your stats. (Sneak)
+Active Skill 4: Fire Kinesis: this skill will set fire around your area. (Sneak)
+Active Skill 5: Lightning Kinesis: this skill will summon random lightning strikes on random targets. It does not work on nearby targets. (Sneak)
+Active Skill 6: Locked
+Active Skill 7: Locked
+Active Skill 8: Locked
+Active Skill 9: Locked
+
+This add-on is achievements friendly.
+This add-on does not include player.json.
+This add-on does not require experimental features.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

@@ -1,0 +1,45 @@
+Piglin Custom Barter v1.0.2
+
+Piglin Custom Barter allows you to choose what items Piglins drop during barteringbased on Minecrafts default barter loot table. All of this works without disabling achievements! No more wasting gold and time hoping for specific items. This addon gives you full control over Piglin trades, making it perfect for speedruns, survival farms, and resource collection.
+
+Its fully compatible with vanilla items and requires no scripts or commands. Whether youre grinding for ender pearls or building a bartering-based farm, this addon brings you faster, smarter results.
+
+Piglin Custom Barter with Chances Combines both modes: set one guaranteed item and boost chances for others.
+
+Need help choosing or using the addon?
+
+Watch this video guide:
+
+Maximize your bartering speed!
+
+Use it with Fast and Custom Piglin Barter for faster bartering and loot drop control. Why?
+
+- Make your barter with Piglins fast without waiting for 8 seconds.
+
+Server Compatibility Info:
+
+This addon may not work on servers (like Aternos or Realms) because servers often force the default version of the pack or load other conflicting Piglin behavior packs.
+
+If you want to use this on a server, please join our Discord and download the separated "Custom Options" version of the addon. These files are manually selectable to ensure they work as intended in server environments.
+
+Do not reupload or claim this addon as your own.
+If you want to share it, please link to this page or my profile instead.
+
+Got feedback? Join our Discord or leave a comment Id love to hear your thoughts!
+
+Follow me for more addons:
+
+- CurseForge: https://www.curseforge.com/members/itsmexd/projects
+
+- MCPEDL: https://mcpedl.com/user/itsmexd/
+
+- YouTube: http://www.youtube.com/@itsmexd890
+
+- Instagram: https://www.instagram.com/itsmexd890/
+
+- TikTok: https://www.tiktok.com/@itsmexd949
+
+- X (formerly Twitter): https://x.com/INoob10500
+
+Join our official Discord server!
+Discord: https://discord.gg/R2a6N7kTFb

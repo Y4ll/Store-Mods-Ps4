@@ -1,0 +1,31 @@
+Hi Everyone Today i am bringing you something that is going to make your multiplayer sessions with friends so incredibly fun and stressful. We have all seen those crazy minecraft manhunt videos on youtube where one guy tries to beat the game while his friends try to hunt him down and kill him.
+
+It looks so fun to play with your friends but trying to set that up manually with command blocks and giving compasses to everyone every time they die is a massive headache. It always breaks and ruins the fun. So i decided to code a complete automated Speedrunner vs Hunter behavior pack to do everything for you with just one click. You just invite your friends to the world and start the game and the addon handles all the tracking and items.
+
+Game Rules And Win Conditions
+
+The rules of the game are very simple but very intense. You need at least two players in the world to start a match but it is way better if you have four or five. When you open the menu and hit start it will run a 10 second countdown on the screen with scary sounds. Once it hits zero the game randomly assigns everyone a role. One person is chosen to be the speedrunner and everyone else becomes a hunter.
+
+The speedrunner has exactly one job and that is to go to the end dimension and kill the ender dragon. If the speedrunner dies even one time the game immediately ends and the hunters win with fireworks going off. If the ender dragon dies the speedrunner wins. The addon puts a live HUD right above your hotbar so you always know your role, the match timer and exactly how many hunters are chasing you.
+
+The Speedrunner And Normal Hunters
+
+So if the game randomly picks you to be the speedrunner it gives you a tiny head start. You spawn with a wooden sword, some cooked beef, oak planks to block off paths, and a few ender pearls to escape tricky situations. You also get an iron pickaxe so you dont waste time punching stone. As the speedrunner your compass actually works in reverse. It tracks the nearest hunters so you know if they are sneaking up behind you while you are mining iron.
+
+Now if you get picked as a normal Hunter your job is to chase. Hunters spawn with iron swords, axes, bows and shields. Your compass is your best friend because it constantly updates and points directly to the speedrunners exact location. The live HUD will literally tell you how many meters away the speedrunner is so you can track them down easily.
+
+Special Classes Teleporter And Juggernaut
+
+To make things super chaotic and balanced I added special hunter classes. If you have three or more players in your game it automatically spawns a Teleporter and a Juggernaut along with the normal hunters. The Teleporter is a hunter that automatically gets a free ender pearl directly in their inventory every 30 seconds. This means if the speedrunner does a crazy boat clutch or builds across a huge lava lake in the nether the teleporter can just pearl right behind him and keep the pressure on. Then we have the Juggernaut class which is terrifying.
+
+This player spawns with full netherite armor, a crossbow with lots of arrows and golden apples. To make it fair I made it so the juggernauts armor and weapons are permanently locked in their inventory slots. They cannot drop the netherite gear and give it to other hunters to make everyone overpowered.
+
+The Menu And Stats Tracking
+
+Managing the match is super easy for the host. You dont need to type any slash commands at all. Just hold a normal book in your hand and sneak to open the main control menu. From here you can manually start the game, force stop it if someone is lagging out, or check everyones assigned roles if someone is lying. I also added a really cool stats tracker.
+
+If you click on My Stats in the book menu you can see your lifetime games played, your overall win rate percentage, total kills and deaths. It even saves your fastest speedrun time so you can try to beat your own record next time.
+
+Beta APIs Setup
+
+You guys already know how this works. Becaus

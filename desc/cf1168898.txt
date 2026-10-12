@@ -1,0 +1,63 @@
+JOIN THE ADDONS DISCORD
+
+VIBRANT VISUSALS ISNT COMPATIBLE AND NO EXPERIMENTS ARE NEEDED
+
+to spawn the boss in the thumbnail, Use "Heart of Darkness" on the ancient city portal (dropped by the warden on death)
+
+Reworked Deep Dark Biome, Adding tons of new blocks and plants to the biome, and increased the biome size by 300%, all Lava has been replaced with a new block called Ghost Block, theres no longer any music and it has its own fog
+
+Reworked the Soul Sand Valley
+
+Added several new spikes to the biome, added plants that scatter across the whole biome, alongside new trees
+
+Soulsand Valley Structures:
+
+Important structure, this structure has the Soul Forge, an important crafting block
+
+other soul sand valley structures:
+
+Underground Structures:
+
+Important Structure: this one contains a Dark Spawner, which spawns Dark Zombie Villagers, if you cure them you get a villager with way better trades compared to the vanilla one, some even sell exclusive items, it also has a bee-creeper Hybrid called the Beeper, dont hurt it or break its hive or they will go up to you and explode
+
+MOBS:
+
+Sculk Creeper: the Sculk Creeper behaves like a normal creeper except when it gets near a target, it charges itself, if the target escapes, it uncharges itself
+
+Sculk Skeleton: Sculk Skeletons behave like a skeleton but fire weak sonic booms at you instead of arrows
+
+Sculk Zombie: Sculk Zombies will attack like normal, but once they hit you, they dash away and temporarly get a strength and speed boost
+
+Sculk Spider: when Sculk Spiders hit you, they spawn mini spiders that also attack, but will despawn after 5-20 seconds
+
+Sculk Centipede: This is a mob that has randomized sizes and damage, it spawns by a player stepping on Infested Sculk (Sculk with no animations)
+
+Soul Blaze: Soul Blazes are stronger versions of the Blaze that spawn in the Soul Sand Valley
+
+Beeper: Beepers spawn inside underground lab structures, they behave like bees but when made mad, they explode
+
+BOSSFIGHT:
+
+Sculk Monstrosity: This boss has a ton of attack, including transforming XP orbs to projectiles, teleporting all nearby sculk mobs (including wardens) to itself, punching and smashing you and many more attacks, hes spawned by placing a Heart of Darkness onto the Ancient City Portal
+
+ITEMS:
+
+theres 2 new weapon types, throwing knives and spears
+
+Throwing Knifes do a decent amount of damage but have a chance of being used up on hit:
+
+Spears have infinite pierce, can be thrown and can be used for melee damage, spears stack to 5-10 depending on the spear
+
+Bone Items: Bone items have as good durability as stone items but better damage and mining speed, the armor is slightly better than Leather
+
+Deepslate Items: Deepslate items are identical to stone except their durability is stronger
+
+Souling Gold Items: Souling Gold has an ability on every piece of equipment except tools, theyre an upgrade to gold items, Forging Template is found is soul sand valley structures and items are crafted in the Soul Forge
+
+Wither Bone Items: Wither Bone items are the upgrade to bone items, they have very high durability and have better damage than Netherite, however the armor is worse than diamond, Forging Template is dropped by the Wither, items are crafted in the Soul Forge
+
+Surge Items: Surge items are far better than Netherite and give immunity to most negative potion effects when the whole set of armor is worn, Forging template is found in Deep Dark Structures and items are crafted in the Soul Forge, Echo Stones are dropped by Wardens randomly when the ancient flute is used
+
+Echoed Copper Items: Echoed Copper is an item type thats made by combinding copper ingots with Sculk paste, then smelting the item crafted, Echoed Copper is meant to be an upgraded copper set (sculk paste is obtained from deep dark mobs and underground chests)
+
+Ghost Crystal Items: Ghost Crystal items are made from haunted quartz and ghost crystal, theyre meant to be a tier behind diamond and a tier in front of iron, Haunted Qu

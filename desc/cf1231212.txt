@@ -1,0 +1,35 @@
+The default, done right! Reintroducing Vanilla PBR for Vibrant Visuals (or Vanilla Vibrant Visuals for short)
+If you're looking for a corrected, definitive vanilla Vibrant Visuals experience, this pack is for you.
+
+Vanilla Vibrant Visuals provides Minecraft Bedrock Edition with enhanced resources and better-tuned configurations, addressing oversteps and misfires of the default Vibrant Visuals graphics.
+The result is a more grounded version that vastly improves Vibrant Visuals while retaining its core style and identity.
+
+Vanilla RTX Normals also now has a dedicated Vibrant Visuals version! Find Vibrant Normals at: curseforge.com/minecraft-bedrock/texture-packs/vibrant-normals
+
+Watch the release trailer for direct comparisons and a demonstration of the PBR textures:
+It is noteworthy that these textures build on the same PBR work as Vanilla RTX which has been honed and refined for five years and formed the complete reference vanilla materials for Minecraft Bedrock Edition.
+The pack also revises default Vibrant Visuals with greater restraint and artistic discipline, keeping it rich in detail, yet consistent and still grounded in the style of Minecraft.
+
+Optional High Resolution Lighting Patch
+Activate over the main pack for high definition caustics, water waves, lighting and tilted sun.
+
+Installation Guide:
+
+- Download the latest release from this page.
+
+- Make sure you are using at least Minecraft 1.21.90 or higher on a device that is supported by Vibrant Visuals (Requirements)
+
+- (Optional) If using Minecraft Preview, enable "Render Dragon Features for Creators" from experiments section.
+
+- Activate Vanilla Vibrant Visuals in your world or global resource packs.
+
+- Join any world, if Vibrant Visuals isn't enable it, check your video settings, scroll down and look for "Graphics Mode"
+
+- Set Graphics Mode to "Vibrant Visuals" from the menu, calibrate your brightness settings if needed and go back to your world, have fun!
+
+By default, use a gamma setting close to 50%
+
+Comment your issues & suggestions below, you can also find help over at the Vanilla RTX Discord server
+
+License: Vanilla-RTX/LICENSE.txt at master Cubeir/Vanilla-RTX
+GitHub: Cubeir/Vanilla-Vibrant-Visuals: An offshoot of Vanilla RTX for Vibrant Visuals graphics mode

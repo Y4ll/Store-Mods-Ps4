@@ -1,0 +1,68 @@
+Auto Smelt Datapack
+
+Automatically smelt ores, sand, clay, logs, and kelp as you mine!
+
+Overview
+
+Every block you break that can be smelted will automatically drop its smelted form instead of the raw material.
+
+What Does It Do?
+
+When you break certain blocks, they drop their smelted/cooked versions instead of raw materials:
+
+Block
+Normal Drop
+With Auto Smelt
+
+Iron Ore
+Raw Iron
+Iron Ingot
+
+Gold Ore
+Raw Gold
+Gold Ingot
+
+Copper Ore
+Raw Copper
+Copper Ingot
+
+Ancient Debris
+Ancient Debris
+Netherite Scrap
+
+Sand / Red Sand
+Sand
+Glass
+
+Clay
+Clay Ball (x4)
+Brick (x4)
+
+Kelp
+Kelp
+Dried Kelp
+
+Includes all Deepslate ore variants
+
+Skip the furnace entirely for common materials
+
+Carry ingots instead of raw ores (same stack size, more value)
+
+Get usable materials immediately
+
+Commands
+
+Command
+Description
+
+/function autosmelt/disable
+Disable auto-smelting
+
+/function autosmelt/enable
+Re-enable auto-smelting
+
+UI Toggle
+
+Mobile: Sneak and hold while holding gray die
+
+PC: Sneak and right-click while holding gray die

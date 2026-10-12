@@ -1,0 +1,183 @@
+Hide Armor v1.3.1
+
+Hide Armor (v1.3) is a modern resource pack that allows you to hide armor visually while keeping all gameplay mechanics intact.
+
+Designed for players who want a clean look without sacrificing protection, this pack introduces a full in-game configuration system.
+
+Compatible with Minecraft 1.21.130+
+
+Basic Information
+
+Hide Armor
+
+A lightweight and optimized texture pack that hides armor pieces individually, without affecting stats, enchantments, or effects.
+
+Perfect for:
+
+- Roleplay servers
+
+- Cinematic content
+
+- Skin showcases
+
+- Thumbnails and screenshots
+
+How it Works
+
+By default, all armor becomes invisible while still being equipped.
+
+You can still use the classic feature:
+
+- Crouch preview can be enabled to temporarily reveal armor.
+
+This allows quick previews without changing settings.
+
+Configuration System
+
+The pack includes a native configuration system, fully integrated into Minecraft's resource pack settings.
+
+Now you can choose exactly which parts of the body remain visible:
+
+- Head (Helmet)
+
+- Chest (Chestplate)
+
+- Left Arm
+
+- Right Arm
+
+- Left Leg
+
+- Right Leg
+
+- Elytra
+
+- Shield
+
+- Armor Trims
+
+Each part can be toggled independently.
+
+Settings System
+
+No subpacks. No external files. No commands.
+
+Everything is handled directly in the Resource Pack Settings menu:
+
+- Show or hide armor per body part
+
+- Toggle Elytra and Shield visibility
+
+- Show or hide Armor Trims
+
+- Configure crouch preview behavior
+
+- Combine partial visibility with crouch preview
+
+All changes apply instantly.
+
+New in v1.3
+
+Version 1.3 expands the customization system and improves compatibility with newer Minecraft versions.
+
+- Rendering system adjusted for newer game versions, improving compatibility before and after the Tiny Takeover update (26.10).
+
+- Shield visibility can now be controlled independently:
+
+- Show the shield permanently through settings
+
+- Or display it only while blocking
+
+- Armor Trims can now be shown or hidden separately from the armor itself.
+
+- Crouch preview behavior is now configurable:
+
+- Enable crouching to temporarily reveal armor
+
+- Or keep armor hidden even while sneaking
+
+This update gives even more control over how your equipment appears in-game.
+
+Versions & Migration
+
+Legacy Version (v1.1)
+
+The legacy version only supported full armor hiding and basic crouch preview.
+
+It may be included separately for compatibility purposes.
+
+Current Version (v1.3.x)
+
+This version adds a complete settings system and granular visual control.
+
+More flexible, more stable, and future-proof.
+
+In v1.3.1, compatibility with Adaptive Cape v1.5 or later was added.
+
+Also in v1.3.1, the resource pack import was fixed, allowing it to be installed and imported without problems.
+
+Notes & Compatibility
+
+Technical Notes
+
+- This pack is purely visual.
+
+- Does not affect gameplay balance.
+
+- Fully compatible with multiplayer servers.
+
+- Works with most modded armors that use standard rendering controllers.
+
+Usage & Redistribution
+
+Allowed
+
+- Modify content for personal use only.
+
+- Share the product with the Hide Armor official page link, along with the credits.
+
+- Use in texture packs as long as the resource owner allows it.
+
+Not Allowed
+
+- Reuploading or redistributing the code itself without permission.
+
+- Publishing modified versions of the resouce pack without permission.
+
+- Reposting this project on other platforms instead of linking to the official page.
+
+Credits
+
+- If you use Hide Armor as a source of public content, giving credit to the original author is greatly appreciated.
+
+- When sharing the resource pack, please link to the official project page instead of reuploading the files.
+
+Languages & Credits
+
+- English
+
+- Portugues (BR)
+
+- Portugues (PT)
+
+- Espanol
+
+- Francais
+
+-
+
+- Bahasa Indonesia
+
+-
+
+-
+
+-
+
+- If you want full visual control over your character while keeping your gear,
+
+- Hide Armor v1.3 delivers exactly that.
+
+- Hide Armor Developer: Athan213
+
+Leave your feedback so that the Hide Armor can continue imp

@@ -1,0 +1,14 @@
+Modified elements:
+
+- Hotbar (Wooden),
+
+- Food bar (Steak),
+
+- Armor bar (Netherite),
+
+- Heart bar (Orange hearts)
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

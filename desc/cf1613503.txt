@@ -1,0 +1,39 @@
+## Ultimate Vein Capitator (Veinminer & Treecapitator)
+
+**Ultimate Vein Capitator** is a highly-optimized, lightweight, and vanilla-friendly script-based addon for Minecraft Bedrock. It makes resource gathering a breeze by allowing you to mine entire veins of ores, chop down whole trees, or clear blocks instantlyall while simply sneaking!
+
+Designed with performance in mind, this addon removes unnecessary custom mod blocks, focusing purely on vanilla compatibility with seamless integration for custom additions.
+
+---
+
+### Key Features
+
+* **Treecapitator (Axe):** Chop down entire trees in one go! Fully supports all vanilla logs, leaves, giant mushrooms, and the brand-new **Poplar trees** (both logs and leaves).
+
+* **Veinminer (Pickaxe):** Mines whole veins of vanilla ores (Coal, Iron, Lapis, Gold, Emerald, Diamond, Copper, Redstone, Nether Gold, Quartz, and Ancient Debris). Supports Fortune and Silk Touch enchantments perfectly!
+
+* **Subpack Support:** Comes with 3 pre-configured subpacks**Treecapitator** (only axes), **Veinminer** (only pickaxes), and **Veincapitator** (all tools enabled: axe, pickaxe, shovel, hoe, shears, sword).
+
+* **Performance First:** Re-written from scratch to fix recursive loop-break bugs, preventing game lag or freezes during massive chain-destructions.
+
+* **Clean Vanilla Database:** No bloated custom mod/addon blocks. Purely optimized for vanilla Minecraft plus select custom tree variants (Poplar).
+
+---
+
+### How to Use
+
+1. Equip the appropriate tool (Axe, Pickaxe, Shovel, etc.).
+
+2. **Hold Sneak (Shift)** and break the block.
+
+3. Watch the entire tree or ore vein break instantly and teleport the drops directly to you!
+
+---
+
+### Subpacks Included
+
+* **Treecapitator Mode:** Active only for Axes (efficient woodcutting).
+
+* **Veinminer Mode:** Active only for Pickaxes (efficient mining).
+
+* **Veincapitator (Ultimate Mode):** Active for all tools, including Shovels (gravel/clay), Hoes, Swords (webs), and Shears (leaves/webs with Silk Touch).

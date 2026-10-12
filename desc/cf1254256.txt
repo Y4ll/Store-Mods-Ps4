@@ -1,0 +1,81 @@
+Sculker Weapons and Tools
+
+The Ultimate Deep Dark RPG Overhaul, Artifact Evolution & Soul Harvest Engine!
+Unleash the primordial power of the Deep Dark with a fully integrated, server-wide RPG progression ecosystem. Experience infinite procedural leveling scaling all the way to Level 1,000 across your entire Sculk tool and weapon arsenal. Slay monsters, elites, and world bosses to harvest lifetime souls climbing up to the monumental 100-Quadrillion milestone, sacrifice mastered weapons at the Dark Altar for Void Cores, splice over 30 permanent bodily genetic mutations, trigger devastating synergy combinations, and trade for god-tier relics and server-wide events in the Void Forge.
+
+Please subscribe we are trying to reach 500 subs all support is appreciated :)
+
+Video shows only New menu and no other features
+
+Ledger update
+
+You May Also Enjoy The Addon Below Created by @RemiAscott
+https://www.curseforge.com/minecraft-bedrock/addons/omni-simulator
+
+Artifact Evolution System (Levels 1 to 1,000)
+
+Every Sculk weapon and tool possesses an independent, persistent progression curve tracked live on your Actionbar interface:
+
+- Supported Arsenal: Sculk Sword, Normal Sculk Sword, Sculk Mace, Sculk Pickaxe, Sculk Axe, Sculk Shovel, Sculk Hoe, and the Lightning Book.
+
+- Procedural XP Acquisition: Earn randomized experience points through everyday gameplay:
+
+- Mining Blocks: Yields 3 to 12 XP (awards a 1.5x bonus when mining sculk-based blocks).
+
+- Striking Foes: Yields 1 to 6 XP per physical hit.
+
+- Eliminating Mobs: Yields 15 to 50 base XP per kill.
+
+- 100-Tier Kill Streak Engine: String together rapid mob eliminations within a 6-second window to trigger escalating kill streak tiers from Double Kill up to the legendary Tier 100 summit. Streaks award dynamic, procedural XP multipliers scaling up to 1,000x base experience.
+
+- Artifact Heat & Overload Management: Unleashing continuous magical attacks generates weapon heat. Monitor your heat gauge on the Actionbar to prevent weapon overload lockouts that temporarily disable magical procs and deal minor backlash damage.
+
+- Physical Milestone Loot Drops: Leveling up drops valuable items and rare materials directly at your feet, including:
+
+- Iron, Gold, and Emerald caches
+
+- Diamonds, Netherite Scraps, and Netherite Ingots
+
+- Nether Stars, Shulker Shells, and Dragon Eggs
+
+- Totems of Undying, Beacons, Heavy Cores, and Ominous Trial Keys
+
+- Massive stacks of Netherite Blocks at high-tier and Level 1,000 summits
+
+- Permanent Passive Buff Stacking: Simply holding a leveled Sculk weapon or tool courses void energy through your veins, permanently unlocking particle-free passive effects:
+
+- Speed: Scales from Speed I up to Speed V
+
+- Haste: Scales from Haste I up to Haste III
+
+- Resistance: Scales from Resistance I up to Resistance IV
+
+- Strength: Scales from Strength I up to Strength V
+
+- Jump Boost: Scales from Jump Boost I to Jump Boost II
+
+- Regeneration: Scales from Regeneration I up to Regeneration IV
+
+- Health Boost: Scales from Health Boost I up to Health Boost V (granting massive extra heart buffers)
+
+- Conduit Power, Fire Resistance, and Night Vision
+
+Active Skills, Sneak Abilities & Apex Powers
+
+Sneak and interact with your tools to unleash powerful active skills, utility spells, and devastating ultimate attacks:
+
+- Sculk Sword & Normal Sword:
+
+- Static Pulse (Sneak + Right-Click): Releases an expanding electric wave damaging and knocking back all nearby hostiles.
+
+- Abyssal Nova (Level 50+ / Sneak + Look Upward): Tears a localized dimensional rift, vacuuming all nearby entities toward your position before detonating for 40 magic damage.
+
+- Sculk Mace:
+
+- Sonic Smash (Sneak + Right-Click): Channels Warden acoustic energy into a direct, piercing sonic blast.
+
+- Apex Sonic Smash (Level 50+ / Sneak + Look Upward): Extends the acoustic beam to a massive 25-block piercing trajectory dealing devastating magic damage.
+
+- Sculk Pickaxe:
+
+- Resonance Scan (Sneak + Right-Click): Pings the subterrane

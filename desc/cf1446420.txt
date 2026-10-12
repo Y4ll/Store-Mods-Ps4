@@ -1,0 +1,17 @@
+A resource pack that adds dynamic, trailer-inspired animations for villagers, players, and more. This pack does not require any additional mods, as it is a texture pack.
+
+Supported Entities
+- Players (Jolly walk & run)
+- Villagers (including Wandering Traders) (Expressive movement)
+- Iron Golems (Dynamic idles)
+- Pillagers (Combat poses)
+- Ravagers (Improved movement)
+- Witches (Expressive movement)
+
+There are more animations to come! This project is designed to be texture-friendly and works with any pack that doesn't alter the base entity geometry.
+Key Information
+- Platform: Bedrock Edition (Win10, Mobile, Console)
+- Achievements: Safe (Client-side only)
+- Multiplayer: Compatible with Realms and Servers
+
+Feel free to use the comments section if you find a bug or have a suggestion for a new animation! ;)

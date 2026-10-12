@@ -1,0 +1,37 @@
+The Anomaly is the new entity added by the mod, and it seems to only appear at night. Stay awake or it might evolve over time.
+
+The addon is meant for long playthroughs, you might not encounter the entity during the first days, make sure to make the most of it. It is also meant to be played without much knowledge about the entity, so I won't respond to most questions about it.
+
+This addon also hasn't been fully tested in multiplayer, so feedback is appreciated!
+
+Original Java Mod: https://www.curseforge.com/minecraft/mc-mods/the-anomaly
+
+Credits: clorobored (Java Developer)
+
+The addon has been completely remade from scratch, improving many systems like phase progression and overhauling the spawning of the entity.
+
+Custom commands:
+
+/theanomaly:setphase # - Sets the current phase of The Anomaly (0-6)
+
+/theanomaly:anxietyeffect true/false - Toggles the anxiety screen effect (client)
+
+/theanomaly:crashenabled true/false - Toggles world crashing on phase 5
+
+/theanomaly:entityspawn viewer/deceitful true/false - Toggles natural spawning for anomaly_viewer/anomaly_deceitful
+
+/theanomaly:multipliedencounter # - Sets the multiplier applied to the progression counter each time an anomaly spawns. Overrides the default player count multiplier.
+
+/theanomaly:nametagged true/false - Toggles the AI freezing of mobs during phase 5
+
+/theanomaly:sleepdamage true/false - Toggles the damage dealt to sleeping players in phase 4 and 5
+
+/theanomaly:blockbreaking true/false - Toggles the attack entity breaking blocks such as glass, doors, and fences
+
+/theanomaly:entityrotation true/false - Toggles the AI freezing of mobs during phase 5
+
+Make sure to enable the beta APIs experiment, or the addon will not work properly.
+
+If you find any bugs, then please report them in my discord server so I can fix them as soon as possible: https://discord.gg/WPX5reRx8G
+
+Final thing, You may NOT remake my addons and then publicly share them without my permission. You can only modify them for private use only. If you have any questions or want to ask permission for modifying my addons then message me on discord, @.bredman_

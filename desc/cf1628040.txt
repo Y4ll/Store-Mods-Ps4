@@ -1,0 +1,125 @@
+OreSpawn Respawned
+
+OreSpawn Respawned is an addon that revives and expands upon the original OreSpawn remake created by TheLuke. After development on the original project stopped, I continued adding as many of the missing features as possible to make it feel like a complete OreSpawn experience.
+
+The goal of this addon is simple: bring back nearly everything that made OreSpawn legendary.
+
+Bonus: its fully compatilve with pretty much every single addon as it does not use the player.json file.
+
+You may modify this addon whatever way you want, just do publish it any where without my knowledge and permission.
+
+Lite Version
+
+For players looking for a more performance-friendly experience, OreSpawn Respawned Lite offers an alternative way to explore the Ant Dimensions.
+
+In the Lite version, all Ant Dimensions are limited in size rather than being generated infinitely. Each dimension also uses a fixed layout, meaning it will be exactly the same every time you create a new world.
+
+Despite the reduced world size, every Ant Dimension still contains all of its original structures, allowing players to experience the complete progression path without missing any important locations, resources, or encounters.
+
+This version is ideal for players on lower-end devices, multiplayer servers, or anyone who prefers a more optimized and predictable experience while still enjoying everything the Ant Dimensions have to offer.
+
+Hardmode Version
+
+For players seeking a much greater challenge, OreSpawn Respawned Hardmode makes every creature significantly more unpredictable and dangerous.
+
+Whenever an eligible mob or boss spawns, it has a 25% chance of receiving increased maximum health. The strength of this bonus is randomly selected, ranging from 1.5 to 4 its normal health.
+
+Health Multiplier
+Chance
+
+Normal health
+75%
+
+1.5 health
+8%
+
+2 health
+6%
+
+2.5 health
+5%
+
+3 health
+3%
+
+3.5 health
+2%
+
+4 health
+1%
+
+This system applies to 115 creatures and bosses, ranging from the Brown Ant all the way to the Ultimate King. There is no visual indicator showing whether a creature has received bonus healthyou will only discover how powerful it is once the fight begins.
+
+The health increase also works correctly with creatures that have multiple sizes, forms, shell stages, or transformations. Their bonus health is calculated using the health of their current form.
+
+For example:
+
+- An Allosaurus can spawn with up to 2,200 health
+
+- Mobzilla can spawn with up to 40,000 health
+
+- The King can spawn with up to 70,000 health
+
+The system is entirely data-driven and has no per-tick performance cost, making Hardmode suitable for both single-player worlds and multiplayer servers.
+
+Hardmode is recommended for experienced players who want less predictable encounters, stronger bosses, and a much more punishing OreSpawn adventure.
+
+Features
+
+This addon includes almost everything from the original OreSpawn mod, including:
+
+-
+
+Full progression system from beginning to end
+
+-
+
+Every major boss, including The King and The Queen
+
+-
+
+All custom dimensions with infinite terrain generation
+
+-
+
+Every structure generated throughout the dimensions
+
+-
+
+Every OreSpawn entity and creature
+
+-
+
+Fully working custom armor sets
+
+-
+
+Fully working custom weapon enchantments
+
+-
+
+Long-reach weapons, including the Royal Guardian Sword and other legendary swords
+
+-
+
+Duplication Trees
+
+-
+
+Ultimate Armor and other classic OreSpawn equipment
+
+-
+
+Custom ores, tools, weapons, food, and items
+
+-
+
+Countless bug fixes and improvements over the original remake
+
+Progression
+
+OreSpawn is designed around progression. As you become stronger, you'll unlock more powerful gear, explore dangerous dimensions, and challenge increasingly difficult bosses.
+
+Your adventure begins by collecting resources and crafting stronger equipment. Eventually you'll be able to explore the Ant Dimensions, gather rare materials, obtain powerful armor and weapons, and prepare yourself to face legendary enemies like The King and The Queen.
+
+Every 

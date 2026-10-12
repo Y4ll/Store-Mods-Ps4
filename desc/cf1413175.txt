@@ -1,0 +1,89 @@
+I know you've been waiting years for even just a half-decent npc addon to fight, so strap in, because your wait is finally over!
+
+The budget of the add-on is $485, that is real money coming out of my pocket that I will probably never see again without donations. Please share this addon everywhere, it is truly made with love.
+
+And if you can, please consider donating below (end of page)
+
+Features
+
+- Reload mechanics (& cancel reload)
+
+- Weapon swapping (& mid reload if in danger)
+
+- Crouching for extra accuracy when target is far
+
+- Draw/equip cooldown mechanics
+
+- Headshot mechanics
+
+- Knife Mode (slash & stab mechanics too)
+
+- Emotive eyes
+
+- Smooth animations
+
+- Radio chatter
+
+- Accuracy & damage increases based on difficulty
+
+- Dynamic death & hurt animations based on how and where the terrorist was killed (e.g backstab)
+
+- Dynamic blood spatter and gore features
+
+- Hard difficulty only: Ignores armor
+
+- Hard difficulty only: Strafes side-to-side
+
+Factions
+
+Phoenix Connexion
+
+"You are stupid to think you will win."
+
+Weapons: AK-47 & Seal Knife
+
+Health: 30
+
+Gun Damage: 7 (uncrouch), 5 (crouch)
+
+Melee Damage: 3 (slash), 7 (stab)
+
+Origin: Russia
+
+Naturally spawns in 1-3 groups.
+
+Drops its items upon death if you have the Actual Guns 2 Add-on enabled.
+
+Future Content
+
+- More factions: a handful of terrorists from CSO will make an appearance at some point, both male and female! CS 1.6 factions will also be here.
+
+- Gibs: Ability to shoot off NPC limbs or make them explode to pieces with grenades
+
+- Grenade: Be able to throw explosive, flashbang or smoke grenades depending on the situation
+
+- Zombie Plague: Terrorists will be able to turn into zombified versions of themselves wielding a knife to hunt you down
+
+- Secondary weapons: weapons like Desert Eagle, Glock-18, USP, whatever you can name, will make an appearance in the next updates!
+
+https://discord.gg/5zeEqwFbww
+
+Please join our Discord and let me know what you think of the addon!
+
+Development started: 2023 December (2 years ago!)
+
+Credits
+
+- AzozGamer936 (Main Developer)
+
+- Matt (Developer)
+
+- DaffaTheOne (Models & animations)
+
+Twitter: Click here!
+
+YouTube: Click here!
+
+Donations: PayPal or Kofi (clickables)
+
+Please consider donating so I can keep updating this addon

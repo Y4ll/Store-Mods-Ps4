@@ -1,0 +1,118 @@
+Tired of chopping wood block by block? Say goodbye to tedious work with Ultimate Tree Capitator, a smart Behavior Pack and Resource Pack for Minecraft Bedrock (v26+) that lets you fell entire trees with a single swing! Feel the satisfaction of watching a whole tree crumble in seconds with 8 spectacular breaking modes!
+
+What's Inside? The pack introduces a global "complete tree chopping" ability with an advanced in-game configuration menu. No new tools to craft! Simply use any axewood, stone, iron, diamond, netherite, or even axes from other addonsand customize your lumberjack experience!
+
+Key Features:
+
+8 Spectacular Breaking Modes:
+
+- Instant Break - All blocks vanish at once for maximum efficiency
+
+- Chopping Mode - Watch the tree fall progressively, block by block
+
+- Vein Miner - Tree breaks from top to bottom in a satisfying cascade
+
+- Spiral Mode - Blocks break in a mesmerizing spiral pattern
+
+- Layer by Layer - Tree disappears one height level at a time
+
+- Random Mode - Unpredictable and chaotic block breaking
+
+- Inside Out - Breaks from the center outward
+
+- Explosive Mode - Watch your tree EXPLODE dramatically with particle effects!
+
+Advanced Customization Menu:
+
+- 5 Speed Settings - From Very Fast to Very Slow, control the breaking animation
+
+- Smart Leaf Removal - Automatically removes only the leaves from YOUR tree, not nearby trees
+
+- Auto-Replant - Saplings automatically replant at the base after chopping
+
+- Durability Control - Toggle whether your axe takes damage per block
+
+- Visual Effects - Enable/disable particles and sounds
+
+- Easy Toggle - Sneak + Use to quickly enable/disable the mod
+
+- Jump + Use - Opens the full configuration menu mid-game
+
+Smart Technology:
+
+- Intelligent Tree Detection - Uses advanced BFS algorithm to find all connected logs
+
+- Works with Any Axe - Vanilla or modded axes, no complex recipes needed
+
+- Performance Optimized - Handles trees of any size smoothly
+
+- Custom UI Icons - Beautiful custom textures for all modes and settings
+
+- Tag-Based Config - Your settings persist across sessions
+
+How to Use:
+
+- Install both the Behavior Pack and Resource Pack
+
+- Equip any axe
+
+- Jump + Use to open the configuration menu
+
+- Choose your favorite breaking mode and settings
+
+- Start chopping and enjoy the show!
+
+Compatible with Minecraft Bedrock v1.20.30+
+
+Transform your wood gathering from a chore into an spectacular experience!
+
+Works with Any Axe:
+
+No complex recipes. Grab your favorite axe and start chopping! It works seamlessly with vanilla axes and most axes from other add-ons
+
+NEW FEATURES SHOWCASE
+
+LOOK THE SHOWCASE
+
+V2.4 SHOWCASE
+
+V2.3 SHOWCASE
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Best Addon
+
+Toggle Capitators : Activate/deactivate by crouching while using the items .
+
+Smart Notifications: Grab any item to receive instant toggle instructions
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+JOIN DISCORD --> Click Here

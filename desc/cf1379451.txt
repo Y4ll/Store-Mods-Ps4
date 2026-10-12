@@ -1,0 +1,34 @@
+<mark class="marker-yellow">This Halloween, Minecraft gets darker, creepier, and far more dangerous with the arrival of the Pumpkin Man. In this horror-themed mod, the sinister Pumpkin Man stalks the shadows, waiting to strike fear into the hearts of unsuspecting players. Are you brave enough to survive his wrath?</mark>
+
+<figure class="image align-center"></figure>
+<figure class="image align-center"></figure>
+<figure class="image align-center"></figure>
+<figure class="image align-center"></figure>
+
+<mark class="marker-yellow">Mod Features:</mark>
+
+<mark class="marker-yellow">Pumpkin Man: The Entity of Horror</mark>
+<mark class="marker-yellow">The Pumpkin Man is no ordinary enemy. With glowing pumpkin eyes and a twisted grin, he lurks in the darkest forests and creepiest biomes, waiting to pounce on those who dare wander too close. His appearance alone is enough to send shivers down your spine, but bewarehis attacks are swift and deadly.</mark>
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-yellow">Terrifying Encounters</mark>
+<mark class="marker-yellow">Pumpkin Man is more than a simple mob. He can appear without warning, hunt players in the night, and cause fear with his presence alone. His eerie laughter can be heard as he closes in, turning a peaceful night into a battle for survival.</mark>
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-yellow">Halloween Atmosphere</mark>
+<mark class="marker-yellow">This mod brings the ultimate Halloween vibes to Minecraft, with eerie pumpkins, ghostly environments, and the ever-present threat of the Pumpkin Man. Perfect for creating a spooky, heart-pounding gameplay experience during the Halloween season.</mark>
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-yellow">Challenging Survival</mark>
+<mark class="marker-yellow">Whether youre exploring the woods, mining in caves, or building your fortress, you are never safe. The Pumpkin Man is always lurking, and his unpredictable nature makes every encounter different. Can you gather the courage to defeat him, or will he haunt your dreams?</mark>
+
+<mark class="marker-yellow">Halloween-Themed Items & Blocks</mark>
+<mark class="marker-yellow">Along with the Pumpkin Man, this mod also includes spooky Halloween-themed decorations, items, and tools to enhance your survival experience. Light your path with jack-o-lanterns, craft unique tools, and defend yourself with new Halloween gear to stand a chance against this terrifying entity.</mark>
+
+<mark class="marker-yellow">Multiplayer Thrills</mark>
+<mark class="marker-yellow">Play solo for a nerve-racking experience or team up with friends in multiplayer mode. Can you work together to defeat the Pumpkin Man, or will he pick you off one by one? The ultimate Halloween horror challenge awaits!</mark>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+Project Description:
+
+Soaring high above the blocky horizon in a paraglider offers a breathtaking, bird's-eye view of jagged mountains and endless oceans, transforming a standard Minecraft expedition into an exhilarating aerial adventure. Beyond simply getting from point A to point B, taking to the skies completely redefines how you interact with your world. Coasting on thermal updrafts allows you to scout distant biomes, spot hidden cave entrances from above, and map out sprawling terrain in a fraction of the time it would take on foot or horseback. It shifts the gameplay experience from grounded survival to true aerial exploration, making every mountain peak a launchpad and every horizon an invitation to discover what lies just out of sight.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Real-time flying mechanics.
+
+- Simply up and down flying features.
+
+- Cheap crafting recipes.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+Paraglider Frame.
+
+Paraglider Fan.
+
+Paraglider Parachute.
+
+Paraglider Seat.
+
+Craft all the components together to craft a Paraglider.
+
+Simple up and down flying mechanics. Look where you want to go.
+
+Hit your Paraglider to strore it back in your inventory.
+
+All 16 colours available to craft and enjoy.

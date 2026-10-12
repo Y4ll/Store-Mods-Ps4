@@ -1,0 +1,43 @@
+While this is a creative tools addon you can totally use it in normal games/world . My mods do not require experimental settings.
+
+What can you do?
+
+Make some simple shapes (made from whatever you want)
+
+Sphere
+
+Cube
+
+Diamond - Octahedron
+
+Pyramid (like) - Also a Octahedron but with square base instead of diagonal sides
+
+Cylinder
+
+Column - diamond sides instead of circle like cylinder
+
+Pyramid,cylinder and column all have North-South and East-West version so you can turn them on their sides.
+
+All shapes can be solid or hollow.
+
+You can also use "air" as the building block to create negatives (or heck i guess light blocks or lava or water if you like)
+
+Also you can further filter them by doing half a shape: top,bottom, north, south,east and west.
+
+You can undo a placement if you made a mistake. (you can only undo back once)
+
+Okay how?
+
+When you start the addon you will be given a chest with a bunch of name tags, glazed terracotta and armor stands. These are the things you will use to create the shapes and copy and scale regions. There is also a book explaining in detail how to do everything.
+
+The short version is, place the correct terracotta down. put an armor stand on to of it and give it a name corresponding to what you are doing. For example to make a hollow top half of a sphere out of glass place the lime green glazed terracotta down at the center of the sphere (hollow structure indicator). put an armor stand on top of it and name the armor stand sphere. then go out the radius distance (any which way). then place the gray glazed terracotta down. under that place the block you want to use to construct (in this case glass) then on top place an armor stand and name it top.
+
+the game will count down from 5 then builds it. (so you can get out of the way)
+
+notes
+
+A demo video will be coming once i'm happy with everything.
+
+It would be nice to be able to specify the box region to to put the shape instead of just where the center is marked ... i'll probably do that too, but only after i get everything else working.
+
+this would allow you to have really thin tall columns or squished spheres and etc. Also copying an area and being able to resize the copy when placing is on the short list

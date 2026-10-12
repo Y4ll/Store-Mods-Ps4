@@ -1,0 +1,27 @@
+All the information you need to use this Add-On is listed below!
+
+Requirements
+
+- The Education Edition slider (found in settings under cheats) must be turned on in order for this Add-On to work!
+
+How to use this Add-On
+
+- Look in the recipe book to find what you need to craft the Infinity Gauntlet and the infinity stones!
+
+- In order to select which Infinity Stone you will use, put the stone in your offhand slot. The gauntlet will "glow" that particular color. You can switch between all 6 Infinity Stones. When you have all 6, and your offhand slot is empty, you gain access to some special abilities.
+
+- Sneak + right-click while holding the Infinity Gauntlet to switch between abilities. Right-click to use that specific ability. Your powers will change depending on what Infinity Stone is in your offhand slot. You can also use the infinity stones individually if you don't have all 6.
+
+- The Power Stone lets you fire bolts of energy, a pulse that knocks back mobs, and you can use it to detonate the area around you. When a Moon has been summoned, using the detonate ability makes the Moon crash down instead.
+
+- The Space Stone lets you "teleport", move things around, and you can use it to summon a Moon.
+
+- The Mind Stone lets you "stun" a mob. You can take control of a mob, right-clicking to spawn a marker of sorts that the mob seeks out.
+
+- The Soul Stone can be used to summon bats and to "capture" mobs turning them into orange particles that follow you around until you release them, almost like a weird Pokeball of sorts.
+
+- The Reality Stone lets you transform mobs into other mobs or blocks, turn invisible, and create an "illusion" (this is just for show).
+
+- The Time Stone lets you reverse time (turns mobs into babies), speed up time, and make a time loop.
+
+- When all 6 Stones are equipped and your offhand is empty, you can fire a beam of energy and also do the Snap!

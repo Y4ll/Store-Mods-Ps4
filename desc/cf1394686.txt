@@ -1,0 +1,9 @@
+WAYSTONE ADD-ON
+
+In this add-on, you can craft waystones which you can place, then you enter a name for that waystone and it will allow anyone at another waystone to teleport to that waystone, i've also recreated the Java Waystone UI for the nostalgic feeling:)
+
+WARNING: THIS VERSION REQUIRES BETA API ENABLED, DOWNLOAD V1.1 OR ABOVE!
+
+The UI is the image above and here is how to craft them!
+
+My Discord Server: https://discord.gg/CMKFGGdvJM

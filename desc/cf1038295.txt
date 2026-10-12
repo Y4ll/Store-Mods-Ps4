@@ -1,0 +1,17 @@
+Fly Ring
+
+The Fly ring item can be equipped offhand and allows the player to fly without having to activate the Education Edition.
+
+How to use
+
+- Place the item on the offhand
+
+- Hold the jump button without running
+
+- To fly, hold down the jump button
+
+- Look in the direction you want to go to fly
+
+New Fly System API
+
+This addon uses the New Fly System API made by myself (@pedro_denovo). This addon is just a demonstration of how it works and how to use the API in practice (although it is also an addon in its own right).

@@ -1,0 +1,29 @@
+Xiao Reimagined Visuals takes Bedrock from golden-hour sunsets into deep blue nights, blue skies fading through violet and rose at dusk, golden light breaking through the canopy, and volumetric fog written for all biomes.
+
+- Per-Biome Volumetric Fog - 17 Profiles Across 89 Biomes
+
+- Golden God Rays Through a Cool Blue Haze
+
+- Blue Skies with Violet & Rose Dusk, Deep Blue Nights
+
+- 109 Coloured Light Sources - Golden Flames, Royal Blue Soul Fire & Violet Amethyst
+
+- Deep Blue Water - Clear Depths, Animated Caustics, Multi-Octave Waves
+
+- Soft Shadows
+
+- Dedicated Nether & End Atmospherics
+
+- Two Resolution Subpacks - Lightweight Default & Full-PBR 32x
+
+- Compatible with other Packs
+
+Installation:
+
+1.Download the Xiao Reimagined Visuals.mcpack
+
+2.Open it to import
+
+3.Enable Xiao Reimagined Visuals in your resource packs
+
+4.Turn on Vibrant Visuals

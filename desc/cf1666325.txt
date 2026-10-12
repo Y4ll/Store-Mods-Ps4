@@ -1,0 +1,69 @@
+Nostalgic Textures
+
+Nostalgic Textures brings back the classic Minecraft feeling while keeping the modern Bedrock experience.
+
+This pack combines a large collection of nostalgic textures, visual changes and classic-style improvements into one complete resource pack.
+
+Features
+
+Classic & nostalgic block textures
+
+Classic-style weapons and tools
+
+Classic-style armor textures
+
+Updated item textures
+
+Nostalgic environment textures
+
+Classic-style sun, moon and sky elements
+
+Weather and environmental textures
+
+Particle textures
+
+Modified UI elements
+
+Nostalgic menu panorama
+
+Biome visual resources
+
+Controller/UI elements
+
+2,800+ resource files
+
+Designed to recreate the feeling of older Minecraft versions
+
+The Old Minecraft Feeling
+
+Nostalgic Textures is made for players who miss the old Minecraft aesthetic but still want to play on modern Bedrock versions.
+
+It doesn't completely change Minecraft's gameplay. Instead, it focuses on bringing back the classic visual style and nostalgia.
+
+Old textures. Classic feeling. Modern Minecraft.
+
+Credits
+
+This project contains assets and inspiration from several Minecraft resource projects.
+
+Credits:
+
+Vanilla Tweaks
+
+Bedrock Tweaks
+
+Classic Texture Pack original author unlisted
+
+Fusion integration and combination of resources
+
+Please support the original creators and their projects.
+
+Important
+
+This is a resource pack, not a behavior pack or gameplay addon.
+
+It mainly changes Minecraft's visuals, UI and textures.
+
+Version: 1.2.0
+
+Minimum Minecraft version: 1.20.0

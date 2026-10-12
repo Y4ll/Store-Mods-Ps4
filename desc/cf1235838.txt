@@ -1,0 +1,130 @@
+Debug Stick
+
+This add-on is a port of the infamous Debug Stick item that was
+exclusive to Minecraft: Java Edition.
+
+Skip to the download page
+
+Ever wish Bedrock had Java's debug stick? Yeah, me too so I made one.
+
+This add-on lets you mess with the "block properties" in-game, just like the
+Java-exclusive debug stick item. Tap blocks to change their states. Long-press
+to choose what you wanna change. Sneak and tap to get detailed info.
+
+What Can You Do?
+
+- Tap blocks to cycle through their states (e.g., waterlog chests, lit
+or unlit furnaces, make ladders stick on air, etc.)
+
+- Long-press to choose what you wanna change (e.g., direction of the
+block, type of wood, etc.)
+
+- Sneak + tap to show detailed info about a block (more on that below!)
+
+- Actionbar messages help you figure out what you're changing!
+
+Block Viewer (Bonus Feature!)
+
+This is a Bedrock-only thing I've added! Just sneak and tap a block to get all
+kinds of info you may need:
+
+- Block ID (i.e., minecraft:log)
+
+- Location (0 1 2)
+
+- Matter state (solid, liquid, gas)
+
+- Redstone power (amount of redstone, 0-15)
+
+- Hard block (passable by arrows?)
+
+- Property states (pillar_axis, waterlogged, etc.)
+
+- Tags (#wood, #log, etc.)
+
+Very useful for mapmakers, redstoners, or just curious players!
+
+(This feature requires Minecraft Bedrock 1.20.60 or higher)
+
+How To Get It?
+
+- Download the add-on for your Minecraft version.
+
+- Import the add-on to Minecraft.
+
+- Activate it in your world.
+
+- If your Minecraft version is lower than 1.20.30, enable
+Holiday Creator Features experiment.
+
+- If your Minecraft version is lower than 1.21.70, enable
+Beta APIs experiment.
+
+- Load up your world!
+
+- Type /give @s vyt:debug_stick, or find it in the Creative menu.
+
+- That's it!
+
+Where To Download?
+
+To get the correct version for your Minecraft, please use our CurseForge
+download page. It can easily help you sort and find the version that works
+with your game.
+
+You can also download directly here on MCPEDL, though it may be a bit
+harder to ensure you're selecting the right version.
+
+Important: Only download from CurseForge, the official MCPEDL page, or
+our official GitHub repo. Other sites may host unofficial, outdated, or
+unsafe copies that could contain malware or break your game.
+
+On CurseForge
+
+If you're on mobile, switch to "Desktop Mode" so the download button
+appears. Then:
+
+- Click "Filter By" (on the left)
+
+- Select your Minecraft version
+
+- Pick the matching add-on release
+
+- Click "Download" (the middle button, not the one on the far right)
+
+Version Compatibility
+
+This add-on supports Minecraft Bedrock 1.20.0 and above.
+
+- "Block Viewer" requires MCBE >=1.20.60
+
+- Enable Holiday Creator Features for MCBE <1.20.30
+
+- Enable Beta APIs for MCBE <1.21.70
+
+Make sure you download the version that matches your Minecraft version.
+
+Version Naming
+
+We've matched our add-on version numbers with Minecraft Bedrock since 26.0.
+
+- 1st & 2nd number: The Minecraft version the add-on works with. If
+your game is older, it might not work.
+
+- 3rd number: The add-on's patch number. It doesn't have to match your
+Minecraft version only the first two numbers matter.
+
+Have an older Minecraft version (1.20.0 1.21.132)? Check our
+old releases, which use use the old version style starting
+with 1.x.x.
+
+This new version system makes it easier to find the correct version.
+
+License
+
+This add-on is open-source! This means its source code is available to the
+public. You can find the source code here:
+https://github.com/vytdev/debug-stick
+
+Copyright 2023-2026 Vincent Yanzee J. Tan.
+Licensed under the MIT License.

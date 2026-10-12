@@ -1,0 +1,48 @@
+Catch. Train. Battle. Explore.
+
+CobbleDrock is a large-scale Pokemon add-on for Minecraft Bedrock Edition. Find Pokemon in the wild, build a party of six, catch and train partners, evolve them, complete a custom Pokedex, store Pokemon in a large PC system, and battle wild Pokemon or other players.
+
+The Core download is a server-ready Pokemon gameplay runtime. The Full download also includes the optional Content Pack, which adds licensed villages, world generation, Legendary Monument locations, and a complete ten-Gym challenge for single-player worlds and private servers.
+
+What is new in version 1.2.4?
+
+A complete Gym Challenge
+
+Ten Gyms can now generate naturally across the world. Challenge them in the Stone, Water, Electric, Fighter, Fire, Metal, Grass, Flying, Ghost, and Ground route, with each stage using its own structure, Leader, arena, team, and badge.
+
+Gym progress is stored separately for every player. The custom Badge Case shows earned badges in color, keeps unfinished badges gray, and displays the current level cap. The cap increases by 20 levels after every two badges, so players must complete the route to continue raising stronger Pokemon.
+
+The current Gym is assigned when progression advances. When the player comes within 384 blocks, the Locator Bar activates and displays that Gym Leader's portrait to guide the final approach without continuously searching the world.
+
+Gym Leaders use stronger cap-legal teams, competitive move combinations, improved move selection and switching, and fixed arena positioning. Leaders cannot use healing items.
+
+First clears register the badge, play a clear sound, and drop a staged reward at the Leader's position. Rematches award experience only, and defeating the tenth Leader rewards a level 50 Mew.
+
+The Master Ball
+
+The Master Ball is now part of the Core game with its own item, projectile, capture visuals, HUD icon, guaranteed capture behavior, and persistent caught-ball identity shown across supported Pokemon interfaces.
+
+Battle and progression improvements
+
+Gym battle presentation has been refined with more reliable side-view positioning, stable camera restoration when moving between battle menus, and cleanup of Leader Pokemon after battle.
+
+Experience items now name both the Pokemon and the move whenever a new move is learned.
+
+Version 1.2.4 keeps the stable public pack identity used by previous compatible releases, allowing supported Pokemon already stored in existing worlds to remain connected after updating.
+
+CobbleDrock 1.3.1 New Pokemon, Trading, and Fossil Revival Update
+
+- Added 146 Pokemon and form definitions compared with the 1.3.0 public pack, spanning Galar and Paldea Pokemon such as the three Paldea starter lines, Corviknight, Dragapult, Annihilape, and Clodsire.
+- Added player-to-player Pokemon trading with confirmation from both trainers and trade evolution support.
+- Added fifteen fossil items, archaeology fossil finds, and machines for analyzing and restoring fossil Pokemon.
+- Added Pokemon eggs, incubators, and wandering trader egg offers. Hatched and restored Pokemon can join the party or PC.
+- Added appropriately sized platforms for Pokemon battling over water.
+- Gave the held Pokemon Compass a 3D model with updated first- and third-person placement.
+- Removed 64 previously packaged Pokemon and Mega form definitions and their 20 associated Mega Stones from the public pack because their assets lack confirmed redistribution permission.
+
+CobbleDrock 1.3.2 Legendary Comeback Update
+
+- Added 93 Pokemon, including 52 Legendary and Mythical Pokemon, plus 50 regional forms: 18 Alolan, 14 Galarian, 14 Hisuian, and 4 Paldean.
+- Added Primal Reversion, Origin Formes, Black/White Kyurem fusion, Therian and Crowned forms, Plate- and Memory-based type changes, Hoopa and Keldeo's special forms, Mega Rayquaza, and Rapid-Strike Style Urshifu.
+- Added Alpha Pokemon with dedicated visual effects and more Mega Bracelet appearances.
+- Added discoverable raid dens, cooperative raid

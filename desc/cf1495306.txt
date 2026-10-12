@@ -1,0 +1,33 @@
+Created by: DarlyCraft
+
+NEW MOBS:
+
+EXPERIMENT SHEEP
+
+A failed experiment in sheep breeding, this creature appears throughout your world attacking sheep, villagers, and players.
+
+BLACK SHEEP
+
+Sheep when infected become aggressive and terrifying, attacking sheep, villagers and
+
+players.
+
+MUTAN SHEEP
+
+A new mutation of the sheep, it appears when a villager or player is infected, like the previous entities it is also aggressive and infects sheep, villagers and players.
+
+FROST SHEEP
+
+A variant of mutant sheep that appears in the ice biome.
+
+BENT SHEEP
+
+A mutant sheep variant that appears at night in desert biomes.
+
+MUTAN SHEEP
+
+A mini-boss appears in your world in a new structure.
+
+NEW STRUCTURE
+
+Follow me for more!

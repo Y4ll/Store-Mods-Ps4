@@ -1,0 +1,12 @@
+This resource pack updates farm animals to look more realistic.
+Each animal has a custom model with at least 2 different texture varieties.
+
+The following animals are updated:
+
+Actions and Stuff Compatibility Pack
+
+For the original Java Version:
+Better Farm Animals | MrBlueYeti's Profile
+Better Pigs, Better Chickens, Better Cows, Better Sheeps, Better Rabbits
+
+Owner's Permission:

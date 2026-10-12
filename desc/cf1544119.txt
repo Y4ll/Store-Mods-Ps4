@@ -1,0 +1,15 @@
+Creeper Request is a Minecraft Bedrock behavior pack that brings consent to chaos before any creeper can explode, it must first politely ask for permission.
+
+We've all been there. You spend hours building your dream base, mining deep into a cave, or simply enjoying a peaceful sunset and then boom. A creeper you never even saw coming reduces it all to a crater. No warning, no mercy, no apology. Just rubble and regret.
+
+When a creeper gets close enough to a player, it freezes in place, turns to face them, and opens a dialog: "Can I boom?" The player then has a choice:
+
+- Go ahead the creeper unfreezes and detonates normally (or with double the power if charged)
+
+- Not today the creeper lets out a defeated poof of smoke and vanishes without a trace
+
+Charged creepers are flagged clearly in the prompt, so you always know exactly what you're consenting to. A cooldown system prevents the same creeper from spamming the dialog, and a gentle cat purr plays when you spare one.
+
+Perfect for servers, minigames, or anyone who has ever lost a hours worth of progress to a creeper that had absolutely no business being there.
+
+Requires: Minecraft Bedrock 1.20.0+

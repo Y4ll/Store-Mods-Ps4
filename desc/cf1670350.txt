@@ -1,0 +1,49 @@
+Basic Visuals is a lightweight resource pack for Minecraft Bedrock that brings clean, balanced colors, lighting, skies, and atmosphere to the game a simple, vanilla-inspired upgrade with no shader pack or Vibrant Visuals toggle required.
+
+Reimagined Visual Style
+
+- Clean, balanced color identity that stays true to vanilla Minecraft
+
+- Simple and readable, without heavy stylization or oversaturation
+
+- Designed to feel refreshed and immersive without overwhelming builds
+
+- Subtle atmospheric depth added across all vanilla biomes
+
+Advanced Atmospherics System
+
+- Custom sky zenith and horizon color tuning for a smooth day-night gradient
+
+- Warm golden-orange sunrise and sunset horizon tones with strong blending
+
+- Rich blue-violet daytime zenith for added sky depth
+
+- Tuned Rayleigh scattering to prevent washed-out or overly dark skies
+
+Pink Atmosphere Variant
+
+- Alternate atmosphere option with soft magenta-to-lavender sky tones
+
+- Same clean lighting and horizon blending, reimagined in a dreamier palette
+
+- Easy to swap in for a different mood without changing anything else
+
+Aurora Effect
+
+- Subtle blue aurora that activates naturally during nighttime hours in the Overworld
+
+- Adds a quiet extra layer of atmosphere without distracting from gameplay
+
+Requirements
+
+Basic Visuals requires Minecraft Bedrock/PE version 1.21.80 or higher. No Vibrant Visuals or PBR support needed works on any device that runs vanilla Bedrock.
+
+Installation
+
+- Download the .mcpack file
+
+- Open to import into Minecraft
+
+- Enable Basic Visuals in Global Resources
+
+Basic Visuals Ghoulcat_studios

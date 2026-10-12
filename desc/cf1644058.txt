@@ -1,0 +1,71 @@
+Subscribe to my YouTube channel to get update notifications for this add-on.
+
+Preview on Youtube
+
+Lynx Quality Tools Addon
+
+Every item. Every quality. Every choice.
+
+Lynx Quality Tools adds a clean RPG-style Quality System to Minecraft Bedrock.
+
+Weapons, tools, shields, and armor can receive different Quality Tiers with effects designed around their purpose.
+
+Quality Tiers
+
+Poor 35% 1 Negative Effect
+
+Bad 25% 2 Negative Effects
+
+Common 20% No Effects
+
+Rare 12% 2 Positive Effects II
+
+Epic 6% 3 Positive Effects II
+
+Legendary 2% 3 Positive Effects III
+
+The higher the tier, the stronger the potential.
+
+Item-Based Effects
+
+Effects are designed around each item's role:
+
+Swords Combat
+
+Bows Ranged Combat
+
+Spears Melee & Mobility
+
+Tridents Aquatic Combat
+
+Shields Defense
+
+Tools Mining & Utility
+
+Fishing Rods Fishing & Aquatic Utility
+
+Armor Defense & Mobility
+
+Quality Reset
+
+Want to reroll your gear?
+
+Rename a normal Diamond to Reset using an Anvil.
+
+Slot 1 Reset
+
+Slot 2 Quality Item
+
+Interact/Use the Reset Diamond to reroll the item in Slot 2.
+
+One successful reset consumes one Reset Diamond.
+
+Built For
+
+Survival SMP RPG Adventure PvE Multiplayer
+
+Minecraft Bedrock 1.26.40+
+
+Find it. Keep it. Reroll it.
+
+Can you find the 2% Legendary?

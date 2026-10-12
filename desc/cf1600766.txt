@@ -1,0 +1,109 @@
+Looking for the Java version? It's here now!
+
+Characteristics of the entity:
+
+Settings:
+
+You can activate or deactivate the generation of waifus/husbands in the world. Regardless of this setting, you will always be able to craft the entities on the crafting table. Entities do not interfere with the spawning of other Minecraft entities (animals, monsters, etc.).
+
+Craft Entities:
+
+You can create ALL entities with a crafting table and the necessary materials. Once you have your spawn item, you just need to use it (the entity is automatically tamed by the player using the item).
+
+Entities Spawn:
+
+Entities will spawn naturally; some spawn only at night, others only in certain biomes, etc. Entities do not interfere with the spawning of other Minecraft entities (animals, monsters, etc.).
+
+Friendship (to tame):
+
+To make a friendship with a waifu/husbando, we must use some of the following objects: Poppy (and some more flowers), "Cookie," and "Apple." Depending on the character, it can cost us more or fewer objects. Also, if you are the owner, you will not be able to damage your own characters.
+
+When we are friends with a character, we can see his life (among many more things that are explained below).
+
+Behavior (Tame):
+
+If we are friends with a character, he will follow us and help us when facing enemies. The behavior can vary a bit depending on the character, but it is the same concept in all of them. (Note: Creepers don't like they.)
+
+Inventory:
+
+When we are friends with an entity, we can use its inventory to store objects. This inventory is private for the owner, but if the entity dies, it will drop all the objects. (The maximum number of objects may vary depending on the entity).
+
+Stats:
+
+Characters have different health and attack stats from each other, based on the following parameters. Depending on the power that the character has from his saga of origin, his statistics will be defined based on the most appropriate parameters for the character (there may be some variations, but for the most part there are not).
+
+Stats Levels
+
+Lv 1: MiniCharacter
+
+Atk: 0
+
+HP: 5
+
+Lv 2: Student
+
+Atk: 6 UAtk: 12
+
+HP: 20 UHP: 40
+
+Lv 3: Adventurer
+
+Atk: 9 UAtk: 16
+
+HP: 35 UHP: 65
+
+Lv 4: Knight
+
+Atk: 12 UAtk: 17
+
+HP: 45 UHP: 80
+
+Lv 5: Hero
+
+Atk: 14 UAtk: 22
+
+HP: 55 UHP: 100
+
+Lv 6: Angel
+
+Atk: 16 UAtk: 28
+
+HP: 65 UHP: 110
+
+Lv 7: DemiGod
+
+Atk: 18 UAtk: 30
+
+HP: 80 UHP: 130
+
+Lv 8: God
+
+Atk: 20 UAtk: 40
+
+HP: 100 UHP: 150
+
+The statistics with a "U" represent the amount of attack and health that the characters can have if we equip them with an improvement item; in this case, for the attack, it is an Attack Prism, and for life, a Life Prism. These objects can be crafted at any time, and by equipping them, the health and/or attack will go up.
+
+Equipment:
+
+We can equip armor and swords to the characters; for this, we will need them to be seated, and we will have to throw the armor at them to equip them. If it doesn't work, try to drop the armor in different ways, such as looking up; she will eventually take it.
+
+Armors can increase the waifu's/husband's defense statistics, just like swords, the attack. Entities decide the hierarchy of the armor they take and discard; for example, if an entity has a gold helmet and we give it a diamond one, it will take the diamond one and drop the other (this applies to all equipment). Entities will also benefit from the enchantments that the armor or weapon has.
+
+Feed:
+
+We can feed our characters with most edible foods in the game so that they recover health.
+
+>
+
+Sit and Stand:
+
+If we crouch down and interact with a character, he will sit down and if he is already sitting down, he will stand up.
+
+Mode Changes:
+
+Entities have 2 modes, peaceful and neutral. In addition, we will have an indicator that will tell us what mode it is in; blue is neutral and white is peaceful.
+
+By default, these are in neutral, only attacking hostile entities or those that the player has hit.
+
+On the other hand, in peaceful mode the entity will never 

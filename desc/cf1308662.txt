@@ -1,0 +1,43 @@
+Add-On for Minecraft bedrock edition adding essentially every Dalek from the TV show Doctor Who, as well as several other entities including the Weeping Angels and most Cybermen variants. Several structures have also been added to the mod in the new structure update.
+
+Requires experimental features and commands to be turned on.
+
+HOW TO GET THE TARDIS:
+
+The way in which the TARDIS works for this mod is so that there are 5 different versions of each interior/exterior per world. Which of these interior IDs you get depends on what colour of wool you use to craft your TARDIS (white=1, orange=2, magenta=3, light blue=4, and yellow=5).
+
+It is important to know that a TARDIS will not work properly unless it's placed in the overworld.
+
+TARDIS crafting recipes require a mix of vanilla and modded items.
+
+First you need zeiton-7, which can be found as an ore underground.
+
+Then you will need to make tardis coral. This are crafted using zeiton-7 surrounded by 8 chorus fruits.
+
+These are then crafted together with 4 crying obsidian and a nether star to create an eye of harmony.
+
+When you first click on a TARDIS exterior, there will be a 20 second period for the interior to finish generating, afterwards, you will be sent straight to the interior when clicking on your TARDIS.
+
+When entering a TARDIS, as long as you have space in your inventory you will receive a TARDIS key (you will lose this when you exit the TARDIS). Upon use, you will be shown a UI asking you where you wish to fly your TARDIS to. Input either coordinates or a player name and submit the form to teleport your TARDIS to those coordinates.
+
+(
+
+Features:
+
+TARDISs: Basic, Halloween, Coral, Christmas, Smith Toyota, Capaldi Toyota, Military, Season 8, Copper, 60th Anniversary
+
+Sonic screwdrivers: sonic whistle, 2nd Doctor's sonic screwdriver, 3rd Doctor's sonic screwdriver, 7th Doctor's sonic screwdriver, 9th Doctor's sonic screwdriver, 11th Doctor's sonic screwdriver, 14th Doctor's sonic screwdriver, 15th Doctor's sonic screwdriver. (Sonic screwdrivers function in the same way as projectile weapons, you need sonic batteries to use them and they fire an invisible projectile that will set air in a 3x3x3 radius to emit redstone for 5 seconds).
+
+Entities: all TV Daleks and some extended media Daleks, most TV Cybermen (including cybershades and 60s cybermats), Weeping Angels, Gell Guards, the Kandyman, the Nightmare Man, Voord, Moroks, Judoon, Chameleons, Carrionites, Vashta Nerada, Atraxi, Roboforms, Heavenly Host, Axons, Axos, War Machines, Law Machines, WOTAN, Zygons, Ogrons, Movellans, Kasaavin, Robot K1, Prisoner Zero, Dominators, Quarks.
+
+Blocks and items: lithium, steel, zinc, dalekanium, steel grates, stainless steel blocks, decorational control panels and levers, corrugated steel blocks, decorative books and bookshelves, ceiling lamps, quartz poles, courtesy nodes, Axos blocks, chairs, zygon blocks.
+
+Weapons: cyberneomorph guns, cyberisomorph guns, chameleon ray guns, animated chameleon ray guns, judoon pistols and rifles, standard ray guns, voord combat knives and Z-Bombs.
+
+Structures: silent libraries, graveyards, Chameleon space stations, Judoon ships, Morok flagships, Dalek supreme council ships, small time war Dalek saucers, time war Dalek saucers, Dalek Time Controller saucer, small modern cyberships, Voord rockets, Roboform rockets, the Kandy Kitchen, Axos spaceship, cities (can generate with highstreets, crossroads, military bases, or post office towers), Movellan ships, Zygon ships, Dominator saucers.
+
+Cracks in time: cracks in time generate frequently throughout the world. Interacting with them may reward you with diamonds or another rare mineral, however they may also spawn a hostile mob instead, including (but not limited to) weeping angels and Prisoner Zero.
+
+Reprogrammed War Machines can be tamed using steel ingots.
+
+Sometimes world loading errors can result in players falling into the void if their TARDIS doesn't generate in time. To counter this, I recommend ha

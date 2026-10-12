@@ -1,0 +1,72 @@
+The Wild Lands is Add-on that adds several prehistoric animals that lived on earth
+There are Shantungosaurus, Tarbosaurus, Oxalaia, Ornithomimus and more
+You need to survive in this dangerous wild lands
+Can You Survive?
+
+The Tyrant of Mongolia, Tarbosaurus
+The most dangerous dinosaur in this land..... Watch out for its theeth. It's very sharp.....
+Health: 190
+Damage: 9
+Tame: Use your shield and block the Tarbosaurus' attack. Then it will sometimes get stunned, and when it get stunned feed it meat, tendon, or ornithomimus' drumstick
+Spawn: Mesa
+
+The Gentle Giant, Shantungosaurus
+Shantungosaurus is large hadrosauridae. It's very peaceful when normal, but be careful, if you provoke it, it will stomp you with its giant feet
+Health: 300
+Damage: 5
+Tame: Feed it sweet berries
+Spawn: Plains
+
+The Ostrich like dinosaur, Ornithomimus
+Ornithomimus is Ostrich like dinosaur. It's quite fast, and will attack you if you attack it
+And it loves to eat some seeds
+Health: 20
+Damage: 4
+Tame: Feed it wheat seeds
+Spawns: Plains
+
+The Spiked Lizard, Styracosaurus
+Styracosaurus is spiked lizard which have a lot of horns. It's very peaceful when it's normal, but don't you dare provoke it first, or, There will be consequences....
+Health: 100
+Damage: 8
+Tame: Feed it some sweet berries
+Spawns: Plains
+
+The Ancestor of Whale, Pakicetus
+Pakicetus is ancestor of whale, who really likes to eat fish. It's really cute animal, and if you tame it, it will become your one of the most cute and trustful pet.
+Health: 10
+Damage: 3
+Tame: Feed it any kinds of fishes
+Spawns: Plains
+
+The Dangerous giant sailed predator, Oxalaia
+Oxalia is unique dinosaur which really similar to Spinosaurus. It's spawns in swamp and don't get close to it, it can attack you with its really fast attack speed...
+Health: 200
+Damage: 6
+Tame: Feed it any kinds of fishes
+Spawns: Swamp
+
+The Hunter with unique sail, Concavenator
+Concavenator is middle sized hunter that preys on any animals that smaller than it. It appears in taiga biome, and if you encountered with it, run fast as possible as you can, cause it will hunt you down with its really fast speed.
+Health: 35
+Attack: 5
+Tame: Feed it with meat, tendon, or ornithomimus drumstick
+Spawns: Taiga
+
+The Dangerous Ocean predator, Liopleurodon
+liopleurodon is middle sized predator that lives any kinds of ocean except for cold ocean. It will hunt down any animals that in the ocean and it will prey on player as well. So... good luck if you go to the Ocean
+Health: 50
+Damage: 4
+Tame: Not Tameable Currently
+Spawns: Any kinds of ocean except for cold Ocean
+
+This is still beta version of the addon, so there will be no a lot of funtions yet.
+But I will add new unique functions in every update as possible as I can
+So I hope You enjoy the this Add-on!
+
+Credits:
+Owner: BETA113
+Model: BETA113
+Texture: BETA113
+Animation: BETA113
+Code: BETA113

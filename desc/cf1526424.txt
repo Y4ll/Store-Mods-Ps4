@@ -1,0 +1,63 @@
+Faithful Nature is a Minecraft Bedrock resource pack that transforms how the natural world looks without changing how the game feels. Every tree, leaf, grass block, and biome has been carefully retextured to be sharper, richer, and more detailed.
+
+Lush Foliage
+
+- All tree leaves reworked with cleaner edges and deeper color Oak, Birch, Jungle, Acacia, Spruce, Dark Oak, Cherry, and Azalea
+
+- Leaves feel voluminous and layered rather than flat
+
+- Opaque leaf variants included for better performance without sacrificing looks
+
+- Cherry blossom leaves bloom in vivid pink, making Cherry Groves feel truly magical
+
+Natural Wood & Logs
+
+- Log tops retextured for Acacia, Cherry, Crimson, and Warped stems
+
+- Stripped Nether stem tops refined for a cleaner, more natural appearance
+
+- Wood grain details that feel hand-crafted and consistent
+
+Two Grass Modes Pick Your Style
+
+- Default (Normal Grass) Balanced, clean greens faithful to vanilla Minecraft's palette, just sharper and more refined
+
+- Lush (Greener Grass) Rich, vivid greens for players who want their world overflowing with life and color
+
+Switch between them anytime in your pack settings.
+
+How It Works
+
+Faithful Nature is a pure resource pack no behavior changes, no commands, no setup required. Simply install and your world instantly looks better. It works on top of any world, new or existing, and is fully compatible with your existing addons and saves.
+
+Install the pack Activate it in your world's Resource Packs Done. Every forest, grove, and biome looks better immediately.
+
+Important Note
+
+This is a resource pack, not a behavior pack. Activate it by going to Settings Storage Resource Packs or through your world's Resource Pack settings when creating or editing a world.
+
+How To Use
+
+- Download and install the .mcpack file
+
+- Open or create a world
+
+- Go to Resource Packs and enable Faithful Nature
+
+- Choose your grass subpack Default or Lush
+
+- Play every tree and biome looks better instantly
+
+Compatibility
+
+- Minecraft Bedrock 1.20.30+
+
+- Works in Survival and Creative
+
+- Multiplayer compatible
+
+- Fully compatible with other resource packs and addons
+
+- No gameplay or behavior changes purely visual
+
+The Faithful Nature Team

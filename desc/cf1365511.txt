@@ -1,0 +1,124 @@
+*FINALLY AN UPDATE YAY
+
+Now the mod works on new versions, everything was fixed by Zenitricious
+
+Support the original mod for java!!!
+https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites
+
+this addon changes how survival works in the game by adding new mobs, items and structures, inspired in Scape And Run Parasites this addon adds parasites that infect other mobs. This addon may contain scary content for a certain audienclarva parasite:
+
+5 life
+
+3 damage
+
+This parasite usually appears in your world and can
+
+evolve into a crawler or a flying parasite.
+
+the crawler:
+
+15 life
+
+6 damage
+
+This parasite is slightly stronger than the larva and
+
+lay parasite eggs,it can also evolve into a stinger
+
+flying parasite
+
+7 life
+
+shoots acid that gives 6 of damage
+
+This parasite is weak but it shoots acid that causes poison
+
+and it does a lot of damage
+
+stinger parasite:
+
+25 life
+
+8 damage
+
+shoots acid that gives 6 of damage
+
+This parasite lays eggs faster, shoots acid.
+
+Infected mobs:
+
+infected human:
+
+30 life
+
+9 damage
+
+this parasite is invoked when a zombie or husk is infected,
+
+He's strong and can break doors and makes some bizarre sounds
+
+Infected villager:
+
+30 of life
+
+9 damage
+
+this parasite is invoked when a villager is infected,
+
+He's strong and can break doors.
+
+Infected cow:
+
+25 life
+
+8 damage
+
+This parasite is quite simple, it can break some blocks.
+
+Infected pig:
+
+20 life
+
+5 damage
+
+as the cow this mob is very simple also being only the
+
+infection of a pig
+
+Infected sheep:
+
+25 life
+
+8 damage
+
+Like the pig and cow this parasite is just an infection of a sheep
+
+Infected creeper:
+
+20 of life
+
+This parasite is like a creeper but it infects a certain
+
+area when it explodes
+
+sholtery:
+
+200 of life
+
+he is an already adapted parasite that has a lot of life and
+
+is summoned when 3 walking meats are brought together,
+
+he breaks many blocks and has a jump as a special ability and is the
+
+strongest of the addon for now
+
+Beckons :
+
+State 1 and 2
+
+These "trees" appear on certain occasions, such
+
+as the death of a parasite for example, they are
+
+responsible for starting a parasite biome and can spawn infected.

@@ -1,0 +1,76 @@
+Say goodbye to lag and enjoy smooth, high-FPS gameplay with Ultimate FPS Booster.
+Formerly Indium FPS Boost, this lightweight Minecraft Bedrock optimization pack reduces visual overhead, streamlines rendering, and maximizes performance, while keeping the vanilla experience intact and shader-friendly.
+
+Built for players who want better FPS, less stutter, and improved performance on low-end and mid-range devices.
+
+What It Does
+
+Ultimate FPS Booster improves performance by reducing unnecessary visual load and optimizing how the game renders:
+
+- Silences 176 particle effects out of 186 only the ten that carry real gameplay information survive
+
+- Strips heavy UI and overlay textures down to transparent 11 images
+
+- Applies dimension-aware fog the Nether, the End and the overworld each get their own colour at the same aggressive distance
+
+- Ships fog definitions with no volumetric block at all, so the raymarched volumetric fog Bedrock renders under Vibrant Visuals never runs
+
+- Halves fire and soul fire animations from 32 frames to 16
+
+- Replaces weather, rain splash, snow, end sky, vignette, shadow, forcefield and nausea overlays with transparent 11 textures
+
+- Freezes 34 block textures to a single frame so they stop cycling every tick
+
+Result: Faster gameplay, less stutter, and smoother FPS even with shaders or large worlds.
+
+Key Features
+
+- Increased FPS and smoother gameplay across all dimensions
+
+- Two fog modes Default Fog leaves vanilla alone, Optimized Fog pulls the render range in hard
+
+- Every biome covered a catch-all fog entry means no biome is ever missed, including the new Dappled Forest, with the Nether, crimson and warped forests, soul sand valley, basalt deltas and the End each given their own colour
+
+- 176 particles disabled flames, smoke, rain, lava, redstone, sculk, dragon effects, candle flames, eyeblossoms, pale oak and poplar leaves, sulfur cave effects and more
+
+- Reduced animation overhead fire and soul fire halved, 34 block textures frozen to one frame
+
+- Environment textures optimized weather, rain splash, snow and end sky simplified
+
+- UI texture cleanup White, bg32, gradientbar and the HUD tip background all reduced to 11
+
+- Blocky Vibrant Visuals shadows snapped to a 16px grid instead of soft-filtering every edge
+
+- Clean, performance-friendly visuals with no pink sky tint
+
+- Lower device heat and power usage
+
+- Works with shaders and other texture packs
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.21+, updated for 26.50
+
+- Works in singleplayer and multiplayer servers
+
+- Compatible with shaders, UI packs, and texture packs
+
+- No experimental features required
+
+Installation
+
+- Download the .mcpack file
+
+- Open it Minecraft will import automatically
+
+- Go to:
+Settings Global Resources / Resource Packs My Packs
+
+- Activate Ultimate FPS Booster
+
+- Tap the pack and pick your fog mode Default Fog or Optimized Fog
+
+Support & Feedback
+
+If Ultimate FPS Booster improves your gameplay, please consider leaving a rating and a comment here on CurseForge.
+Bug reports, suggestions, and feedback are always welcome, your support helps improve future updates!

@@ -1,0 +1,77 @@
+# OneTouch Essentials
+
+A quality-of-life add-on that streamlines villager trading, crafting, and survival essentials with simple one-touch interactions.
+
+## Features
+
+- **One-Touch Trading** Quickly complete villager trades with a single tap, no more repeated clicking.
+
+- **Control Book** A custom item that gives you quick access to toggle the add-on's features in-game.
+
+- **Xray Tome** Craftable item that grants temporary X-ray vision to help locate ores and structures.
+
+- **Auto Armor** Automatically equips the best armor available in your inventory.
+
+- **Auto Totem** Automatically equips a Totem of Undying to your offhand when available.
+
+- **Auto Water Drop** Automatically places water to break your fall from height.
+
+- **Vein Miner** Mine entire ore veins in one go.
+
+- **Tree Capitator** Chop down entire trees with a single hit.
+
+- **Saturation HUD** Java-style saturation bar for better hunger management.
+
+- **RGB Experience Bar** A colorful animated XP bar for a fresh HUD look.
+
+- **Improved Villager Trade UI** Fixed trade screen so all tiers and offers are visible, not just the villager's current level.
+
+## Compatibility
+
+Works on **Mobile, PC, and Console** designed to work well across all control types (touch, mouse/keyboard, and gamepad).
+
+---
+
+## This add-on is 100% FREE
+
+This add-on has never cost money and never will.
+
+If you got it from a link that makes you pay, forces you through ad-links/URL shorteners, or sells it as "premium" **you are being scammed with someone else's work.**
+
+Please report any page or reupload doing this in our Discord:
+
+**https://discord.gg/5dMUBcVaG**
+
+## Open for modification
+
+This add-on is built using techniques shared across the Bedrock add-on community, so in that same spirit:
+
+You may modify this add-on freely
+
+You may reuse parts of its code for your own projects
+
+You may redistribute it modified
+
+**The only condition is giving credit to the original author:**
+
+> Based on OneTouch Essentials, created by **jozethdev**
+
+Not allowed:
+
+Selling it (modified or not)
+
+Removing credits and claiming it as your own
+
+Uploading it to pages with forced ads or shady monetization
+
+## Found a bug?
+
+Report it on our Discord, where support and suggestions are handled:
+
+**https://discord.gg/5dMUBcVaG**
+
+## Credits
+
+**Author:** jozethdev
+
+**Discord:** https://discord.gg/5dMUBcVaG

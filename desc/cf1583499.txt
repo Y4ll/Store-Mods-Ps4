@@ -1,0 +1,9 @@
+THIS PROJECT IS NOT SUPPORTED BY MOJANG OR NVIDIA. THIS IS A 3RD PARTY RESOURCE PACK. THE NAME OF THE PACK JUST REPRESENTS THE MAIN IDEA.
+
+Default RTX is the ray-tracing resource pack for Minecraft bedrock edition that mixes realism, beauty and vanilla style, creating the new style and the new way of experiencing game. The resource pack allows you to use ray tracing in Minecraft worlds, multiplayer (realms, servers, friend's world). Default rtx resource pack includes PBR for blocks, volumetric fogs, entity configurations, everything that you need to have to have fun playing with ray tracing with having vanilla textures.
+
+The resource pack is also focused on fixing visual bugs that are happening with Minecraft RTX. A lot of content is enhanced specifically for ray tracing, so your gameplay is going to be smooth.
+
+This resource pack is always updated to the latest game versions and game drops. Default RTX usually keeps up with the drops that haven't been released yet. For experiencing the fresh content, you can use beta-version of the resource pack, which are unstable variants of what the next update is going look like. If you have a feedback, feel free to share your opinion in the comments - I always read them!
+
+Please, note that this project is not related to vibrant visuals graphics mode, or to deferred pipeline in general. It only works for ray-traced graphics mode.

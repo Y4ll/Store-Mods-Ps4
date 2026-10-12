@@ -1,0 +1,92 @@
+Adds a variety of improved furnaces made from ores and other materials. Each new tier smelts faster and consumes less fuel, making item processing quicker and more efficient as you progress.
+
+More Information
+
+Looking to learn more or stay up to date with the latest news?
+You can find detailed guides, documentation, and advanced setup instructions on our official Dorios Studios Wiki:
+
+Better Smelters Official Wiki
+
+For updates, announcements, beta access, community projects, and idea sharing, join our official Discord server:
+
+Dorios Studios Discord
+
+Furnace Tiers & Stats
+
+Furnace Tier
+Fuel Consumption
+Smelting Speed
+
+Oak Wood Furnace
+1.0 (Normal)
+1x
+
+Copper Furnace
+1.0
+1.5x
+
+Iron Furnace
+1.0
+2x
+
+Netherrack Furnace
+0
+2x
+
+Gold Furnace
+0.8
+3x
+
+Emerald Furnace
+0.6
+5x
+
+Diamond Furnace
+0.4
+10x
+
+Amethyst Furnace
+0.4
+15x
+
+Netherite Furnace
+0.2
+20x
+
+Blazing Furnace
+0.1
+25x
+
+Nether Star Furnace
+0.01
+10x (1 Stack per Cycle)
+
+The Netherrack Furnace does not consume fuel.
+
+Wood furnace dissapear after a few seconds/minutes.
+
+Note: Lower fuel consumption means fuel lasts longer. For example, a furnace with 0.1 fuel consumption gets 10x more smelts per fuel item than a regular furnace.
+
+Upgrade System
+
+Better Smelters introduces an upgrade system that lets you improve your furnace without breaking or replacing it.
+Simply interact with the furnace while holding the corresponding upgrade item and it will automatically evolve to the next tier.
+Each upgrade enhances the furnaces speed, efficiency, and fuel usage to match the material used in its construction.
+
+How They Work
+
+Smelters can be used manually, just like regular furnaces place the input and fuel, then take out the output.
+
+But they also support full automation:
+
+- Input items: Pulled automatically from the container on the left (chest, barrel, or hopper).
+
+- Fuel: Pulled from the container on top.
+
+- Output: Sent to the container on the right, if there's one.
+
+So, just load the left and top containers with items and fuel, and as long as the output container has space, the smelter will handle everything on its own.
+
+Recipes Examples:
+
+Note: Netherite furnace can be crafted using the amethyst furnace and the diamond furnace.

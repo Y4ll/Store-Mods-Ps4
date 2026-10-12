@@ -1,0 +1,95 @@
+Expansive Biomes adds 18+ new biomes to the game for you to seek out and explore, aiming for a semi-vanilla feel. Expansive Biomes also includes some new mobs, items, and blocks!
+
+V1.7.0 Trailer
+
+May not work well on older/slower devices.
+
+May not work well with other biome addons.
+
+Known Bugs/Problems:
+
+Custom block destroy speeds aren't affected using vanilla tools.
+
+Wider custom trees will sometime hang over the side of the terrain.
+
+Custom leaves may render incorrectly from a distance.
+
+Wiki
+
+You can view the addon wiki here .
+
+IF USING IN A VIDEO, LINK TO ORIGINAL POST ON MCPEDL, ModBay or CurseForge, DO NOT REDISTRIBUTE YOUR OWN DOWNLOADS/LINKS, OR POST ANYWHERE ELSE WITHOUT MY PERMISSION!
+
+Biomes:
+
+Biomes
+
+Boggy Swamp
+
+Redwood Forest
+
+Pendula Forest
+
+Deciduous Forest
+
+Coniferous Forest
+
+Mystic Forest
+
+Lavender Plains
+
+Shrublands
+
+Jacaranda Forest
+
+Maple Forest
+
+Autumn Forest
+
+Desert
+
+Cherry Grove
+
+Jungle
+
+Aspen Forest
+
+Savanna
+
+Badlands
+
++ more to find!
+
+Mobs:
+
+Mobs
+
+Scorpion
+
+Scorpions are hostile mobs that spawn during the night in the desert, but can survive in the daylight. They can be found in 3 different sizes, each size having slightly different speed and attack values corresponding with their size. They inflict fatal poison for 5 seconds to whatever they attack making them more dangerous in a pack, and have a 20% chance of dropping their stinger when killed which can be crafted into a Stinger Knife using 3 stingers and a stick.
+
+Dweller
+
+A cave dwelling monster of, as of now, unknown origin.
+
+They lurk deep in caves, spawning between levels -63 through 8. While their eyesight isn't the best, they make up for it by using smell and sound. They will seek players periodically within a 24 block radius, then will attack when within 6 blocks of a player. Unless hit, running outside of the 6 block radius will cause them to temporarily lose sight of the player. They despise fire, so using torches, standing torches, campfires, and lanterns are a good repellent against them. However, they can and will break torches around them but are unable to break standing torches, campfires, and lanterns.
+
+Chimpanzee
+
+They can be found in Jungles, they are neutral animals and will only attack when provoked. They will pickup and eat dropped food and will even pickup majority of items. When picking up any tools and armor, they will equip and use them, so be careful not to lose your gear near them because they will not give it back willingly.
+
+Outlaw
+
+Outlaws are a new pillager/illager type found in Badlands biomes, they can ride horses and wield crossbows. Some will even use a new weapon called the Bola. Players and mobs hit by a bola will suffer slowness 5 and will take damage. When encountering Outlaws, it is wise to bring a ranged weapon as they can throw bolas pretty quickly, making you too slow to escape. When paired with other Outlaws wielding crossbows, it can get pretty dangerous.
+
+Deer
+
+Passive mobs that will avoid players, villagers, and pillagers. They will drop venison, deer antlers, leather and a rare chance to drop a deer trophy when killed.
+
+Warthog
+
+Warthogs are neutral animals that spawn in the Savanna biome, and will only attack the player if provoked. Players can equip a saddle on a Warthog and can ride them using a carrot on a stick, similar to pigs. Warthogs will periodically start searching for a nearby block and then will start digging in hopes to find food. During this process, there is a chance they can dig up other items other than food. If a desired food item is successfully dug up, they will eat the food. They have a striking resemblance to the Nether's Hoglins, and will convert to Hoglins if they are in the Nether for too long.
+
+Raccoons
+
+Adorable neutral mobs that will attack players if angered. They will avoid players, and are nocturnal and will sleep during the day similar to foxes. They will eat crops, and pickup most food items and eat them. They are afraid of carved pumpkins, so they are a good way to p

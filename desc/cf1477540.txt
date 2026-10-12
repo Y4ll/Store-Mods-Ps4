@@ -1,0 +1,10 @@
+This addon allows you to use Creative Mode without losing your Achievements. You can get unlimited blocks and fly while keeping your world's achievements active at all times!
+
+Your survival progress will stay 100% safe. You can use all creative features as much as you want without ever worrying about losing your trophies or progress.
+
+How to Use
+
+Step 1: Obtain a Stick from your inventory or a tree.
+Step 2: Hold the stick and Right-Click (PC) or Long Press (Mobile) to open the menu.
+Step 3: Click on the Creative button to switch modes instantly.
+Step 4: Once you are done, use the stick again to switch back to Survival.

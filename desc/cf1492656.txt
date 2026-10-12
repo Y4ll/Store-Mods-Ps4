@@ -1,0 +1,64 @@
+[h1]Holdfast[/h1]
+[b]WWII armor, squads, and arms for Minecraft Bedrock.[/b]
+
+Holdfast turns a Bedrock world into a living front. Spawn armor, call a squad, pick a side, and give orders over the radio. The name is the watch on the line: steel in the field, and a voice that keeps the unit together.
+
+[h2]Armor[/h2]
+[list]
+[][b]M4 Sherman[/b] for the Allies and [b]Tiger I[/b] for the Axis
+[]Fire, impact, and explosion effects
+[*]Sherman and Tiger wrecks after a vehicle is destroyed
+[/list]
+
+[h2]Infantry[/h2]
+[list]
+[]American and German soldiers, plus squads for both sides
+[]Paratrooper, medic, mortar, and flamethrower roles
+[]Anti-tank support: bazooka and Panzerfaust
+[]BAR and MG42 among the unit loadouts
+[*]Combat voice lines and grenade warnings
+[/list]
+
+[h2]The command wire[/h2]
+[list]
+[]Choose a side: [b]Allies[/b] or [b]Axis[/b]
+[]Commander radio for field orders
+[]Follow, hold, rally, dismiss, and check squad status
+[]Medic that can heal allies
+[/list]
+
+[h2]Player arsenal[/h2]
+[list]
+[]Colt M1911
+[]Thompson M1A1
+[]Mauser C96
+[]Karabiner 98k
+[]MP 40
+[]StG 44
+[]Combat shotgun
+[]Entrenching tool
+[]Mk 2 "pineapple" grenade and Stielhandgranate M24
+[]Pistol, SMG, rifle, and shotgun ammunition
+[*]Animations, recoil, and custom sounds
+[/list]
+[i]An AK-47 is also included as an extra weapon. It is post-war (1947), not a World War II firearm.[/i]
+
+[h2]How to install[/h2]
+[list]
+[]Download the [b].mcaddon[/b] file
+[]Open it with Minecraft Bedrock, or import it from Settings > Storage
+[]Enable both the behavior pack and the resource pack on your world
+[]Turn on [b]Experiments / Beta APIs (Script API)[/b] this addon uses scripts
+[*]Minimum game version: about [b]1.21.80[/b]
+[/list]
+
+[h2]Packs included[/h2]
+[list]
+[]WW2 Tanks & Combat
+[]WW2 Firearms Arsenal
+[/list]
+
+[h2]Credits[/h2]
+Created by [b]Rafael[/b] (redsorg / Rafael 1989).
+
+A fan-made Minecraft addon for entertainment. Not an official Mojang or Microsoft product.

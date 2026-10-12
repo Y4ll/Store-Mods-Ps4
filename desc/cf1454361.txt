@@ -1,0 +1,87 @@
+Agriculture Update
+
+Part of the Wheel of Creation Series
+
+Language / Idioma
+
+- English
+
+- Espanol
+
+- Portugues
+
+English
+
+A Realistic Farming Revolution for Minecraft Bedrock
+
+Agriculture Update is the first installment of a 3-part trilogy under the Wheel of Creation brand. Each major update in this series consists of two separate deliveries.
+
+Included in this Repository:
+
+- Agriculture Update I: The foundation. Introduces the core realistic farming system: biome-based climates, soil hydration, and plant growth cycles.
+
+- Agriculture Update II: The expansion. This version contains all the mechanics of Update I, expanded with a diet system and a wider variety of crops to master.
+
+What's Next?
+
+The second chapter of the trilogy will be the Wild Update. I am currently working on Wild Update I, which focuses on a complete mob rework. Following that, Wild Update II will further expand the experience.
+
+As for the third and final update of the trilogy... its details will remain a secret until Wild Update II is ready.
+
+Inspiration & Credits
+
+Inspired by TerraFirmaCraft This addon takes inspiration from some mechanics of the popular Java mod TerraFirmaCraft. However, this is NOT an official port. All systems have been completely reimagined and reinterpreted for Minecraft Bedrock Edition by HormigaDev.
+
+Documentation
+
+All technical details and guides are available here:
+https://github.com/HormigaDev/wheel-of-creation-addon
+
+Espanol
+
+Una Revolucion Agricola Realista para Minecraft Bedrock
+
+Agriculture Update es la primera entrega de una trilogia de 3 partes bajo la marca Wheel of Creation. Cada gran actualizacion de esta serie consta de dos entregas distintas.
+
+Contenido de este Repositorio:
+
+- Agriculture Update I: La base. Introduce el sistema central de agricultura realista: climas por biomas, hidratacion de suelo y ciclos de crecimiento.
+
+- Agriculture Update II: La expansion. Contiene todas las mecanicas de la primera version, pero expandidas con un sistema de dieta y una mayor variedad de cultivos.
+
+Que sigue?
+
+El segundo capitulo de la trilogia sera la Wild Update. Actualmente estoy trabajando en la Wild Update I, enfocada en un rework total de los mobs. Posteriormente, la Wild Update II expandira aun mas la experiencia.
+
+En cuanto a la tercera y ultima actualizacion de la trilogia... sus detalles se mantendran en secreto hasta que la Wild Update II este lista.
+
+Inspiracion y Creditos
+
+Inspirado en TerraFirmaCraft Este addon se inspira en algunas mecanicas del popular mod de Java TerraFirmaCraft. Sin embargo, NO es un port oficial. Todos los sistemas han sido completamente reimaginados y reinterpretados para Minecraft Bedrock Edition por HormigaDev.
+
+Documentacion
+
+Todos los detalles tecnicos y guias estan disponibles aqui:
+https://github.com/HormigaDev/wheel-of-creation-addon
+
+Portugues
+
+Uma Revolucao Agricola Realista para Minecraft Bedrock
+
+O Agriculture Update e a primeira parte de uma trilogia de 3 partes da marca Wheel of Creation. Cada grande atualizacao nesta serie consiste em duas entregas distintas.
+
+Incluido neste Repositorio:
+
+- Agriculture Update I: A base. Introduz o sistema central de agricultura realista: climas baseados em biomas, hidratacao do solo e ciclos de crescimento.
+
+- Agriculture Update II: A expansao. Contem todas as mecanicas da primeira versao, expandidas com um sistema de dieta e uma variedade maior de plantacoes.
+
+O que vem por ai?
+
+O segundo capitulo da trilogia sera a Wild Update. Atualmente estou trabalhando na Wild Update I, focada em um rework total dos mobs. Posteriormente, a Wild Update II expandira ainda mais a experiencia.
+
+Quanto a terceira e ultima atualizacao da trilogia... seus detalhes permanecerao em segredo ate que a Wild Update II esteja pronta.
+
+Inspiracao e Creditos
+
+Inspirado no TerraFirmaCraft Este addon inspira-se em algumas mecanicas do popular mod Java TerraFirmaCraft. No entanto, NAO e um port oficial. Todos os sistemas foram completamente reimaginados e reinterpretados para M

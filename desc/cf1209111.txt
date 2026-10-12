@@ -1,0 +1,18 @@
+Do you like coffee? then this addon is for you. This addon adds two new drinks that will make you run and mine faster. It will be very helpful on your survival worlds.
+
+This addon adds 2 types of coffee. Each of them gives movement and mining speed. Coffee mugs give more speed and last longer.
+
+First of all you have to gather and plant coffee cherries. You can obtain them by breaking grass
+
+<figure class="image image_resized"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+<figure class="media">
+
+</figure>
+
+Please let me know if you like it
+
+This addon does not use player.json

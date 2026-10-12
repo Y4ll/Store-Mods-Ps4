@@ -1,0 +1,40 @@
+Beharviors & Resources Packs Needed
+
+This addon does not disable achievements.
+
+Torches work in the Offhand by right-clicking or holding the screen with the item in your hand.
+
+Items Examples
+
+(The light level depends on the type of item)
+
+It works like a normal helmet with the particularity that it emits light all around!
+
+(You can use any type of torch to customize your helmet)
+
+Some Miner helmets are hidden from the Creative menu and recipes to reduce clutter, but every helmet can still be crafted with any torch combination.
+
+Added 16 new torch variants, one for each dye color.
+
+Torches but now in your favorite color!
+
+With Vibrant Visuals enabled, the light color changes depending on the item. For example, a Redstone Torch emits red light.
+
+This isn't limited to torches held in your hand, placed colored torches also emit their own colored light.
+
+Dynamic Light also works underwater using the new Sea Torch and other light-emitting items such as lanterns and glowing blocks.
+
+The Sea Torch is the only torch that can be placed underwater.
+
+Currently not working with the newest actions and stuff version (working on that)
+
+Added Actions & Stuff compatibility for colored torches.
+
+To use it, enable the compatibility resource pack. It requires the Actions & Stuff resource pack to be activated, as it depends on it to add compatibility. Otherwise, if used without Actions & Stuff, you may encounter visual issues.
+
+(Recommended settings for Actions & Stuff)
+
+Supported Languages:
+All
+Feedback
+If you think any mechanic needs adjustment or have new ideas, feel free to share them!

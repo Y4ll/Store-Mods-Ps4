@@ -1,0 +1,51 @@
+This resource pack removes the default borders from all glass blocks and panes in Minecraft Bedrock Edition, giving them a smoother, more modern, and visually appealing appearance.
+
+Its perfect for clean builds, modern architecture, or simply if you want a less obstructed view through glass.
+
+What does it change?
+
+Removes all borders from glass blocks and panes, giving them a cleaner and more minimalist look.
+
+Before & After Comparison:
+
+Before:
+
+After:
+
+Supported Languages
+
+This resource pack currently supports 16 languages for both its name and description. The supported language codes are:
+
+- en_US English (United States)
+
+- es_ES Spanish (Spain)
+
+- es_MX Spanish (Mexico)
+
+- pt_BR Portuguese (Brazil)
+
+- fr_FR French (France)
+
+- de_DE German
+
+- ru_RU Russian
+
+- ja_JP Japanese
+
+- zh_CN Chinese (Simplified)
+
+- zh_TW Chinese (Traditional)
+
+- ko_KR Korean
+
+- it_IT Italian
+
+- nl_NL Dutch
+
+- pl_PL Polish
+
+- tr_TR Turkish
+
+- ar_SA Arabic (Saudi Arabia)
+
+If youd like to see this pack translated into another language, feel free to comment which one youd like to see added!

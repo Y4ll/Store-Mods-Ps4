@@ -1,0 +1,31 @@
+This is a shaderpack that adds additional effects to vibrant visuals for Minecraft bedrock edition
+
+Features include
+
+Custom sky
+
+chromatic aberration
+
+fake depth of field
+
+enhanced volumetric fog
+
+aces tonemaping
+
+rain drop on screen during rain [see subpacks]
+
+Pixelation [see subpacks]
+
+THIS REQUIRES A SHADER LOADER AND VIBRANT VISUALS TO BE ENABLED
+
+examples of shaderloaders are: mb loader(android), betterrenderdragon/wyvern(windows)
+
+Installation:
+
+Follow this awesome guide on how to install shaders:
+https://faizul726.github.io/blog/how-to-use-renderdragon-shaders/
+
+If you need help or have suggestions, Join the bedrockgraphics discord
+https://discord.gg/yQvmHVacRT
+
+Recommended to use with vibrant visual texture packs

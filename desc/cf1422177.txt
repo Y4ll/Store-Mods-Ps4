@@ -1,0 +1,7 @@
+Before installing this addon, you had to place torches on every block to prevent monsters from spawning and to light your path.
+
+After installing this addon, you no longer need to place torches, and you can walk around at night or mine ores without placing torches on every block.
+
+Disclaimer: the thumbnail was made using an AI image generator.
+
+JOIN DISCORD

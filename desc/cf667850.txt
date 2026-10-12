@@ -1,0 +1,227 @@
+Console Aspects bridges the gap between Bedrock and Legacy Console Edition. It changes color grading, distance fog, explosion particles, zombie pigmen, menu sounds, and many other things. Now, you can enjoy the classic style of Legacy in modern Minecraft Bedrock.
+
+Check out Java Aspects for the Java Edition style on Bedrock.
+
+Creator: AgentMindStorm, Bluesky Account, YouTube Channel (Click here for more credits.)
+
+Pack Options
+
+Explore the different ways to use Console Aspects.
+
+Default Textures
+
+Matches the final update for PS4 Edition. Old mobs and potions, with updated block textures.
+
+Classic Textures
+
+The original look of Minecraft. You must apply the Minecraft Classic Texture Pack from the Marketplace below Console Aspects for the subpack to work correctly.
+
+Updated Textures
+
+The same Legacy style without outdated mob textures, sounds, or item names.
+
+Compatibility Mode
+
+Allows another resource pack to overwrite textures while keeping Legacy sounds, animations, and language changes intact. Apply the other pack above Console Aspects.
+
+(Note: Halo Mash-up Pack not included!)
+
+Feature List
+
+Read a comprehensive list of in-game differences when using Console Aspects.
+
+Recommended Game Settings:
+
+Accessbility:
+
+- Block Dithering: OFF
+
+- Player and Mob Dithering: OFF
+
+- Actionbar Background Opacity: 0%
+
+- Chat Background Opacity: 50%
+
+- Text Background Opacity: 0%
+
+Video:
+
+- Fancy Bubbles: ON
+
+- Outline Selection: ON
+
+====================
+
+Atmosphere:
+
+Color Grading
+
+- Light, warm color grading across the whole game
+
+Fog and Sky
+
+- Thicker distance fog in the Overworld and End
+
+- Lighter overworld fog color
+
+- Blue rain fog
+
+- Distant underwater fog
+
+- Biome-specific sky colors from Console Edition
+
+- Brighter End sky color
+
+Weather
+
+- Smaller snowflakes
+
+====================
+
+Block Changes:
+
+Textures
+
+- Original Sugar Cane color
+
+- Old Scaffolding textures
+
+- Darker Stripped Spruce Log side
+
+- Old Stripped Dark Oak Log side
+
+- Stretched piston arms
+
+- Old Kelp textures
+
+- Old Nether Wart Block
+
+- Old Cartography Table textures
+
+- Old Grass Block and Path side textures
+
+- Old Purple Glazed Terracotta sword outline
+
+- Old Ender Chest appearance
+
+- Old Double Chest lock outline
+
+- Old Barrel bottom texture
+
+- Old Lectern base texture
+
+- Old Smoker bottom texture
+
+- Pale Copper Torch and Lantern colors
+
+- Correct Nether Reactor textures
+
+- Missing texture is now pink and black
+
+Colors
+
+- Bed coloring
+
+- Shulker Box coloring
+
+- Darker Seagrass
+
+- Darker Bamboo Leaves
+
+- Smooth Grass Block side biome transitions
+
+- Carried Grass Block tint
+
+- Carried Leaves tints
+
+- Ominous Banner colors match Console Edition
+
+Models
+
+- Wider
+
+- Calibrated Sculk Sensor amethyst
+
+- Improved Texture Mapping
+
+- Torch
+
+- Redstone Torch
+
+- Soul Torch
+
+- Copper Torch
+
+Rotation
+
+- Removed random texture rotation from all blocks
+
+Ambient Occlusion and Brightness
+
+- Face dimming on most light sources (such as Glowstone)
+
+- Darker Sand shading to match Sandstone
+
+- Lighter Obsidian shading to match Crying Obsidian
+
+- Lighter Respawn Anchor shading to match Crying Obsidian
+
+- Darker Leaves shading to match all other blocks
+
+- Disabled shading on Composter
+
+Texture Animations
+
+- Faster Lava
+
+- Faster Magma Block
+
+- Removed frame blending for most animations
+
+Distant Rendering
+
+- Lighter Distant Leaves
+
+- Greener Grasses and Ferns
+
+- Improved color accuracy for:
+
+- Cornflower
+
+- Warped Roots
+
+- Smoother Solid Kelp
+
+Miscellaneous
+
+- Lighter block cracking animation
+
+====================
+
+Item Changes:
+
+General Changes
+
+- First Person
+
+- Smooth hitting animation for Bow, Crossbow, Trident, Shield, and Spyglass
+
+- Off-hand items render correctly for Bow, Crossbow, Trident, Spyglass, and Spear
+
+- Removed idle item bobbing for Bow, Crossbow, Trident, Shield, Spyglass, and Spear
+
+- Third Person
+
+- Consistent held item positions for most items
+
+Bow
+
+- First Person
+
+- Smooth drawing animation
+
+- Gradual shaking transition
+
+- Third Person
+
+- Arrow points straight ahead

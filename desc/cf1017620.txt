@@ -1,0 +1,65 @@
+Commands
+
+/infuse:cooldownsparkreset - [ADMIN COMMAND] Refreshes cooldowns for sparks
+
+/infuse:adminconfig - [ADMIN COMMAND] Allows to change global stuff like give a effect on spawn
+
+/infuse:spark1 & /infuse:spark2 - Ment for macros to use to activate abilities
+
+/infuse:drain1 & /infuse:drain2 - For withdrawing your effects when not in use
+
+/infuse:playerconfig - Allows to change some client only stuff
+
+How to Activate Abilities
+
+Method 1 - Command Macros
+
+Method 2 - Crouch use Sword [Slot One] & Axe [Slot Two]
+
+Method 3 - Ability Activator Item
+
+Extra Items
+
+- Ability Activator. This is used to activated the Spark ability of effects. Crafted with a piece of dirt.
+
+- Extractor. Will help to get equipped Effects/Sparks back to items. Crafted with 2 piece's of dirt.
+
+Effects/Sparks List
+
+This will say what they do of passives/abilities, and how to craft them
+
+Emerald
+
+Ocean
+
+Speed
+
+Fire
+
+Invisibility
+
+Thunder
+
+Regeneration
+
+Frost
+
+Feather
+
+Haste
+
+Strength
+
+Heart
+
+Ender
+
+Credits
+
+Infuse SMP Created by Doine4k and InfamousJJ
+
+Addon Created By Spork3r
+
+Spork Central Discord
+
+My Patreon

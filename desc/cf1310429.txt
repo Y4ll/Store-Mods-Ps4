@@ -1,0 +1,93 @@
+Welcome to : Thirst re hydrated !
+
+Absolutely everyone has been thirsty at some time, it is an irritating sensation, but once quenched it is phenomenal.
+
+Rehydrated Thirst is designed to be an awesome challenge for players, with the new thirst mechanics and high-level difficulty, it won't be long before you're dying of thirst. Will you join the challenge?.
+
+Espanol:
+
+Absolutamente todos hemos llegado a tener sed en algun momento, es una sensacion algo irritante, pero que una vez saciada es fenomenal.
+
+Thirst Re-hydrated es disenado para ser un desafio imponente para los jugadores, con la nueva mecanica de sed y una dificultad de alto nivel, no pasara mucho antes de que ya estes muriendo de sed. Te unes al desafio?.
+
++1k Downloads !
+
+Thank you all for download and try the Addon !.
+If you have suggestions or ideas that you think are excellent for the Addon, comment us !
+We have planned an update when the Addon reach 2k downloads, so we appreciate if you share our Addon.
+
+Dependences | Dependencias
+
+English:
+
+<figure class="image"></figure>
+
+Espanol:
+
+<figure class="image"></figure>
+
+Here you have the information in english !
+
+Recipes:
+
+To begin with, we must know that this addon is not designed to be easy, if there is something you will have for sure is that you are going to suffer.
+
+Purified water :
+
+For purified water, which will be our main tool to survive the first steps of the addon, we will have to heat normal water in bottles.
+
+<figure class="image"></figure>
+
+Once heated in an oven, smoker or any campfire, we will obtain a bottle of purified water which will quench 0.5 bars of thirst [Mechanics explained in Mechanics].
+
+<figure class="image"></figure>
+
+Canteen :
+
+the canteen will be our reliable tool to carry water everywhere, so it will be essential to craft it as soon as possible. To do this, we will first need to create the canteen pouch, which requires tanned leather, it is made with a flint and a leather.
+
+<figure class="image"></figure>
+
+Once we have obtained the tanned leather, we will proceed to craft the canteen bag with 4 tanned leather, 4 thread and an iron nugget.
+
+<figure class="image"></figure>
+
+To craft the canteen, we will need a filter which is essential when purifying water, it is made with one of charcoal, 2 of paper and 2 wheat seeds.
+
+<figure class="image"></figure>
+
+With this, we can finally craft our canteen. With 4 thread, 3 iron nuggets, a filter and the unsewed canteen we craft the canteen.
+
+<figure class="image"></figure>
+
+Purify the water:
+
+We already have our canteen, it is time to use it to survive, for this we will fill it with water bottles, this canteen will allow us to carry 3 sips of water. You should know that the more the canteen is damaged the less water you can carry.
+
+We refill our canteen (in this case we will not need a filter because we already added it when we created it, but you will need them to continue using the canteen and the metal thermos).
+
+<figure class="image"></figure>
+
+Once filled, we will not be able to drink the water, so we will have to clean it by putting it in an oven, smoker or campfire.
+
+<figure class="image"></figure>
+
+Metal thermos :
+
+As an advanced gameplay item, we have added the metal thermos, which will allow you to carry up to 8 drinks and will not suffer any damage when purifying water, although it will not be so easy to get it.
+
+<figure class="image"></figure> <figure class="image"></figure>
+
+Mechanics:
+
+Thirst :
+
+Thirst, as its name suggests, will be a bar that will keep us attentive to our survival. You have 10 predetermined thirst bars, which will gradually decrease until you die of thirst.
+
+Dehydration time:
+
+It will take you approximately 11 minutes to die of dehydration, but if you keep a good water administration it will not be a problem for you.
+
+Hydrated :
+
+The Hydrated status will indicate that you are sufficiently hydrated, you can continue drinking water but we recommend you to stay in this state whenever possible, if you hydrate too much

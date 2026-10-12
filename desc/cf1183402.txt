@@ -1,0 +1,31 @@
+Main Features
+
+Are you tired of wasting your materials to constantly craft torches every time you go into a cave looking for valuable ores? With this Add-on, that problem will be a thing of the past.
+
+This Add-on adds dynamic lighting to Minecraft Bedrock, juts like you're using OptiFine in Minecraft Java. Entities (such as Blazes, Glow Squids, or the Allay) can also naturally emit dynamic light.
+
+- Item Swapping: Easily swap items to the Off-hand slot in just a moment.
+
+- Dynamic Lighting: More than 40 vanilla items can emit dynamic lighting while held in your hand. Many other entities can also emit dynamic light, even while burning alive.
+
+- Performance Mode: Includes a special setting designed to improve performance on low-end devices.
+
+- Compatibility: Fully compatible with any Add-on or Texture Pack.
+
+KENAR's Dynamic Lighting Review
+
+Screenshots
+
+Installation Notes
+
+To enjoy this add-on comfortably, make sure you have correctly downloaded the following files in their corresponding versions:
+
+- Dynamic Lights [Bp].mcpack
+
+- Dynamic Lights [Rp].mcpack
+
+Both files are required for the add-on to function correctly. (One handles all behaviors and scripts, while the other provides the textures, so be sure to download both)
+
+Experimental settings
+
+This add-on does not require any experimental settings to be enabled. You can enjoy all of its content without disabling achievements in your world.

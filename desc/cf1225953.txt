@@ -1,0 +1,13 @@
+No Nether Fog, the best texture pack for removing fog in nether and increasing render distance without creating much lag.
+
+Note that this texture pack varies on your render distance. By default render distance is fixed in areas like water, lava etcetera, it doesn't matter that your render distance is 5 or 96 in lava or water.
+
+Screenshots:
+
+Before: In Lava:
+
+After: In Lava:
+
+Before: in air:
+
+After: In air:

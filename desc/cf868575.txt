@@ -1,0 +1,9 @@
+This has over 7 Armors and all are Survival Friendly which means they can be crafted and obtain in survival.
+
+Additional info:
+
+- Steel ingots can be crafted by puting iron ingots at a blast furnace.
+
+- Nightvisions and armor status are not working as intended right now.
+
+IMPORTANT NOTE: Download the BETA FIX file not the Main file for the new latest update thats working on all current latest version of minecraft.

@@ -1,0 +1,39 @@
+Symbiotes Addon
+
+This addon brings the iconic symbiotes from the movie Venom into your world, featuring Venom and Carnage. Both are powerful creatures with unique abilities and awesome attacks, making this addon feel intense, exciting, and fun.
+
+The Mobs:
+
+Venom:
+
+-Venom has a 900,000 health, and 9 unique attack animations/abilities.
+
+- 2 basic attacks
+
+- 2 heavy attacks
+
+- 3 special attacks
+
+- 2 Roar attacks
+
+-the roar attacks deals 100 damage per hit
+
+-the basic attacks deals 250 damage
+
+-The heavy attacks and the special attacks deals 300 damage
+
+Carnage:
+
+-Has 900,000 health, and 11 unique attack animations/abilities
+
+- 2 basic attacks
+
+- 7 special attacks
+
+- 2 movement attacks
+
+The basic attacks deals 250 damage
+
+The special attacks deals 300 damage
+
+The movement attacks deals 100 damage per hit

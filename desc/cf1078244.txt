@@ -1,0 +1,75 @@
+This pack makes some changes to how the in-game music plays and adds a music player. People who enjoy Minecraft's music will love the changes made by this pack! It's perfect for anyone who want a more pleasurable experience while playing the game.
+
+Check out Music Player UI Lite for a pack which includes the music player without any other changes.
+
+Creator: AgentMindStorm, Bluesky Account, YouTube Channel
+
+Special thanks to Snowstorm for creating the sidebar JSON UI and QuazChick for finding a stop button technique.
+
+Translations by Netongas NG (Mexican Spanish), moi (France French), Alex PNG (German), and (Mainland Chinese).
+
+Features
+
+- An in-game music player has been added to the emote screen.
+
+- Music plays constantly with no silent periods, except in the Pale Garden, Deep Dark, and Warped Forest.
+
+- Music volume has been rebalanced to match Java Edition.
+
+- End and Boss play interchangeably.
+
+- Jukebox music is audible from 256 blocks away instead of the default 64.
+
+- Up to 100 custom songs can be added. Requires the Custom Music Container companion pack.
+
+- Any individual song can be played with the command "/playsound song.[song_name/filename] @s".
+
+- Music discs will still play from the Jukebox regardless of the pack option chosen below.
+
+Extra Music
+
+Adds unused songs from the official Minecraft soundtrack to the game.
+
+- Door, Moog City, Equinoxe, Chris, Excuse, Beginning, Droopy Likes Richochet, and Droopy Likes Your Face from Minecraft Volume Alpha have been added.
+
+- Ki, Flake, Kyoto, and Intro from Minecraft Volume Beta have been added.
+
+- Earth and Sprouting from Minecraft Earth have been added.
+
+- Magnetic Circuit (calm4), an unused song, has been added for the music player.
+
+- Festive versions of Ballad of the Cats (xmasn1), Warmth (xmasn2), and The End (xmas_the_end) have been added.
+
+- Dog plays after the Cat music disc.
+
+- The "11" music disc has been replaced with Minecraft Volume Alpha's "Eleven", an actual song.
+
+- The "ward" music disc has been replaced with Minecraft Volume Beta's "Ward", a remixed version of the original disc.
+
+Pack Options
+
+There are multiple different pack options. Each one includes different features and music tracks.
+
+- Dimension-Based Music - Includes Extra Songs: Any song from the current dimension can play anywhere.
+
+- Terrain-Based Music - Includes Extra Songs: This option separates music more to give unique atmospheres to different places in the world. Underwater, Mountain, Cave, Swamp, Forest, Jungle, Desert, and Deep Dark music now play only in the relevant locations. Nether music is also split up by biome.
+
+- Total Music Mix (Any Song Plays Anywhere): This option lets any music, including Credits, End, Boss, Nether, Underwater, Biome-specific, Menu, Survival, Creative, Music Discs, Custom, and Extra music play at any time.
+
+- Old Music Only: This option limits music to songs from Update Aquatic and earlier.
+
+- Oldest Music Only: This option limits overworld music to songs from before the 2013 Music Update and Nether music to songs from before the Nether Update.
+
+- Festive Music Only: This option limits the music to festive songs. Requires the Extra Music companion pack.
+
+- Custom Music Only - Total Mix: This option limits the music to custom songs. If no custom songs have been added, it will be silent. Requires the Custom Music Container companion pack.
+
+- Custom Music Only - Terrain-Based: This option limits the music to custom songs separated by biome. Terrain types without custom songs will be silent. Requires the Custom Music Container companion pack.
+
+- No Ambient Music (For Music Player): This option stops music from playing automatically. It's meant for players who want to manually play songs with the music player or commands.
+
+You can switch the pack mode by going to Global Resources in Settings and selecting the gear.
+
+Music Player
+
+Music Plus adds an in-game music player to the emote screen. This menu allows you to play any song in Minecraft with the press of a

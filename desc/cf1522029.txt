@@ -1,0 +1,91 @@
+overview
+
+chaotic world is a bedrock addon that completely overhauls combat with multi-phase scripted boss fights, a deep gear progression system, skill-based weapons and armor, and 200+ custom crafting recipes. every weapon has passive effects and active skills. every armor set modifies how knockback works. defeating key bosses unlocks access to the Nether and the End. the world gets harder but the gear gets much stronger.
+
+in-game tutorial
+
+right-click the Tutorial Scroll for a full in-game guide book (built with ActionForm/MessageForm UI) browse boss info, weapon skills, and crafting chains without leaving the game.
+
+world progression dimension locks
+
+killing certain bosses now gates progression:
+
+- defeat the Giant Zombie unlocks the Nether portal
+
+- defeat Robot Crab + King Frog + Giant Zombie (all three) unlocks The End
+
+progress is tracked automatically and announced to all players in chat.
+
+bosses & enemies
+
+all bosses are fully scripted using @minecraft/server api. they have real-time skill systems, phase transitions with announcements, particle effects, and dynamic difficulty scaling.
+
+giant zombie the undead warlord
+
+- phase 1: 150 hp, 6 base attack
+
+- phase 2: 400 hp, 6 base attack
+
+skills (scripted): ground slam (aoe damage + slowness, lightning, lava ring) summon horde (3 zombies + 3 husks buffed with speed ii/strength i) leap attack (charges from 12 blocks)
+
+drops (phase 2): giant zombie hand, diamond block, iron block, gold ingot, rotten flesh, carrot, wheat, spider eye, skull, frozen heart piece (3)
+
+yeti the glacial titan (3 phases)
+
+the most complex boss in the addon. 14+ unique scripted skills split across 3 phases, each phase transition announced to all players.
+
+stats: phase 1 700 hp, 8 attack, 25-block range phase 2 500 hp, 14 attack, 35-block range phase 3 800 hp, 10 attack, 40-block range
+
+phase 1: ice ball, freeze ground, roar, jump slam, ice regen, giant ice ball, summon minions
+
+phase 2 (+ new): blizzard rain, frost spike, polar vortex, glacial wave, absolute zero, elite army, earthquake, upgraded ice ball
+
+phase 3 (+ new): upgraded roar (9 rings), critical ice regen (sub-25% hp emergency heal), ice chains, crystal barrage, frost nova, glacial prison, upgraded absolute zero, upgraded elite army (wither skeletons + husks + strays + yeti pets)
+
+drops: ice bar, ice ore, yeti fur, yeti meat, frozen heart piece, all ice block variants
+
+king frog new boss!
+
+hp: 800. guards its own drop table with a full themed armor set.
+
+drops: frog skin, giant frog leg, crown, and a chance at colored wooden buttons
+
+diamond golem hp 222, attack 12 drops diamond, sunflower
+
+the harvester the dark reaper (3 phases)
+
+hp 500, attack 10, 10 scripted skills. phase 2 (50% hp): strength i + speed i. phase 3 (25% hp): strength iii + speed ii + resistance ii.
+
+skills: summon minions, dash attack, ground slam, regen shield, clone, soul beam, life drain, death storm, teleport strike, ultimate
+
+drops: reaper skull, ender dust, end stone, soul
+
+robot crab mechanical terror (3 phases + berserk)
+
+hp 350, attack 10. phase 2 at 180 hp, berserk phase at 100 hp (resistance iii + speed iii + strength ii).
+
+skills: laser beam, energy shield, ground slam, summon minions, lightning strike
+
+drops: red ore piece, iron block, redstone block
+
+other enemies: zombie general (drops zombie heart, thitthoiran, diamond) black death skeletree phoenix mini crab ice villager ender skeleton yeti pet / yeti boss pet riu giraffe & butterfly (passive) lily pad hazard (king frog fight) ice spike hazard (yeti fight)
+
+weapons stats, skills & progression
+
+all weapons support enchanting. most have passive on-hit effects and active skills.
+
+tier 1: diamond spear (5 dmg, 2000 dur)
+
+emerald sword (6 dmg, 900 dur, poison on hit)
+
+steel sword (7 dmg, 200 dur)
+
+obsidian sword (7 dmg, 1300 dur, cuts cobwebs)
+
+long obsidian sword (7 dmg, 1500 dur)
+
+obsidian battle axe (7 dmg, 800 dur, active skill cd 3s)
+
+tier 2: updated diamond spear (7 dmg, 700 dur)
+
+big obsidian sword (

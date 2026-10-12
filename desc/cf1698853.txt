@@ -1,0 +1,51 @@
+oSkullo's Armor HUD
+
+Ever wanted to check your armor durability without opening your inventory mid-fight? oSkullo's Armor HUD puts your equipped armor right on your screen in first-person helmet, chestplate, leggings, and boots each shown as a clean hotbar-style icon with a live durability bar and percentage number underneath.
+
+No commands, no behavior pack, no inventory-checking. Just glance at your screen and know exactly how close your gear is to breaking perfect for PvP, survival, or any server where gear management matters.
+
+Features
+
+Live armor display automatically shows whichever pieces you have equipped, updates in real time
+
+Durability bar color-shifts red yellow green based on remaining durability
+
+Durability numbers exact percentage shown under each piece
+
+Two layouts vertical stack or horizontal row, your choice
+
+Fully repositionable move the whole group, the background cells, the bars, or the numbers independently
+
+Resizable separate size controls for icons, bar thickness, and numbers
+
+Lightweight resource-pack only, no behavior pack required, minimal texture footprint
+
+Customization
+
+Every option is controlled through the pack's own settings menu (Settings Global Resource Packs oSkullo's Armor HUD gear icon) no file editing needed:
+
+Toggle the hotbar background, durability bar, and numbers on/off individually
+
+Switch between vertical/horizontal arrangement
+
+Fine-tune X/Y position for the group, background, bar, and numbers
+
+Adjust icon size, bar thickness, and number size
+
+Installation
+
+Download the .mcpack file
+
+Open it with Minecraft (or import via Settings Global Resource Packs)
+
+Apply it to your world
+
+Open pack settings to customize to your liking
+
+Credits
+
+Made by oSkullo
+
+Discord: discord.gg/oSkullo
+
+YouTube: oSkullo

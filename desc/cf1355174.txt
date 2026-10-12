@@ -1,0 +1,47 @@
+How the addon works?
+
+The dismemberments have one simple rule: Break the armor.
+
+Every time you hit the mob, the game will a dice, If you are lucky two things can happen: Critical damage (not to be confused with vanilla critical) and Fatal blow. (You cannot choose which member you'll cut, its luck based)
+
+Critical hits currently have 2 variations:
+
+Decapitation: Self-explanatory, decapitation necessarily requires the mob to be without a helmet, otherwise the critical hit will not decapitate it, but will break the helmet. Decapitation has "bleed" damage (currently the highest inside the addon, 3 damage every 2.5 seconds).
+
+Arms: The arms require the mob to be without a chestplate, if the mob is wearing a chestplate, the critical hit will break it, but will not tear off the arms. You can tear off arms individually or both, by cutting off the right arm for example you can disarm a skeleton (He'll turn into a melee mob, like a zombie). Each arm will deal the mob 1+ damage over time. Removing one arm will reduce the mob damage, removing both of the arms will remove even more.
+
+Fatal blows are the rarest type of dismemberment, they instant K.O the mob.
+
+Currently, the following mobs have a fatal blow:
+
+Zombie, husk, drowned, piglin, pigzombie, piglin brute, ZVillager, Skeleton, parched, stray, bogged and wither skeleton.
+
+(next updates will add more mobs).
+
+Requirements: The mob must have all limbs. The damage must be equal or more than 35% of the mob health (it can be multiple hits)
+
+Current supported mobs:
+
+Zombie, ZVillager, Husk, Drowned, Skeleton, Bogged, Stray, Whiter Skeleton, Creeper, Piglin, ZPiglin, Piglin Brute, Spider , Cave spider and Parched.
+
+Essential mobs:
+
+This option enables or disables dismembering essentials mobs, such as Piglins, zombie villagers, etc. You can change it using the setting Button located at the behavior.
+
+Compatibility:
+
+This addon now uses primarily render controllers (we used textures, client entities and models prior to this update) because it allow a better compatibility with other addons (including animation and texture addons).
+
+Which addons will not work?
+
+If your addon do not use the vanilla render controllers, it will not work.
+
+The addon will change itself based on the texture you use.
+
+Some addons have 64x, 128x... Texture options, i'd recommend the 32x (It has more chances to work).
+
+How to use it with other textures/addons:
+
+First of all, not every addon will work.
+
+My addon must to be the First addon, otherwise it will not work, follow the image:

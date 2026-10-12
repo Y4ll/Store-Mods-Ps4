@@ -1,0 +1,31 @@
+Astralex Visuals turns Bedrock's sky into something worth stopping for. Deep navy nights bleed into burning orange horizons, sunlight breaks through in real volumetric god rays, and water finally reflects like it means it. Built on RenderDragon with ACES tone mapping and a warm, high-contrast cinematic grade this isn't a filter, it's a full atmosphere rebuild.
+
+Features
+
+- Volumetric God Rays Realistic light scattering through tree canopies and terrain geometry
+
+- Atmospheric Sky Rendering Smooth sky gradients with richly graded sunrise and sunset
+
+- Dynamic Water Reflections Real-time specular highlights and surface shimmer based on sun
+
+- Ambient Occlusion Soft shadowing for improved depth and spatial clarity
+
+- Warm Color Grading Enhanced saturation and warmth without sacrificing natural tones
+
+- Detailed Cloud Shadows Dynamic cloud shadows cast softly across terrain
+
+Compatibility
+
+- Minecraft Bedrock Edition
+
+- Requires: RenderDragon Engine (v1.16.200+)
+
+- Platforms: Windows, Android, iOS, Xbox
+
+Installation
+
+- Download the .mcpack file
+
+- Open it Minecraft will import it automatically
+
+- Apply it via Settings Global Resources

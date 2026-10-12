@@ -1,0 +1,111 @@
+Tired of typing commands in chat? This addon allows you to save any command and execute it with the click of a button! Multiplayer is supported! Compatible with all other addons!
+
+LIST OF FEATURES:
+
+Repeated command execution! By pressing one button, you can execute your command as many times as you want! The delay between executions is adjustable!
+
+Fully customizable! The color of commands in the buttons, the order of sorting, display the result of the execution in the chat and much more!
+
+Supports multiplayer! Only operators can get access the menu!
+
+Fully compatible with any other addons!
+
+Download BP and RP and put these 2 packs into your Minecraft world!
+
+- Enable these experiments: "Beta APIs"
+
+- Only stable Minecraft versions are supported. (not beta or preview)
+
+HOW TO USE:
+
+After entering the world with this addon, you will not have access to the menu. To gain access type: /function sirob_turbocommands
+
+After that you will get access and you will be given the "Turbo Commands" item:
+
+Use it (tap the screen or right mouse button) to open the Turbo Commands Menu:
+
+We pre-added some commonly used commands!
+
+Useless commands? You can delete or replace them with your own or add new ones! We'll look into that later
+
+Click on any command to execute it once
+
+ADDING A NEW COMMAND:
+
+In the main menu press the "Add command" button,
+
+In the input field enter your command
+
+And in the dropdown list select where to insert the new command
+
+REPEATED COMMAND EXECUTION:
+
+In the main menu press the "Repeated command execution" button,
+
+Select the command that will be executed repeatedly,
+
+Set the number of repetitions,
+
+And set a delay in ticks between executions (1 second = 20 ticks)
+
+MANAGING MY COMMANDS:
+
+In the main menu press the "Manage my commands" button,
+
+Select the command you want to edit or delete,
+
+And edit the command in the input field. To delete the command, leave the input field blank
+
+CUSTOMIZING MY PREFERENCES:
+
+In the main menu press the "My preferences" button.
+
+And here you can adjust your preferences:
+
+Note: these are not global addon settings, but your personal preferences. Each player can customize his preferences however he wants!
+
+Here you can configure:
+
+Bold buttons font. If enabled, all buttons in the menu except the command buttons will be in bold
+
+Bold commands buttons font. If enabled, the command buttons will be in bold
+
+Sort commands by frequency of use instead of sorting by recent:
+
+Sorting by frequency of use: the more times you use a command, the higher it will be in the list.
+
+Sorting "by recent": the last used command is moved to the top of the list.
+
+Show "/" before commands in buttons. If disabled, commands will be displayed without the "/"
+
+Show commands output in chat. If disabled, the command output will be hidden (this does not affect any /gamerule)
+
+Show in red failed commands in buttons. If disabled, the command in the button will not be colored red if its execution failed
+
+Reopen menu after selecting command. If enabled, the menu will reopen after you click on the command
+
+Color of commands in the buttons.
+
+{ Giving another player access to Turbo Commands }
+
+Just type /execute as playername run function sirob_turbocommands
+
+To revoke access, enter the above command again
+
+Warning: A player with access to Turbo Commands will be able to use all minecraft commands even if he is not an operator!
+
+FINALLY, HOW TO USE:
+
+After entering the world, type /function sirob_turbocommands
+
+Use the item given to you to open the menu!
+
+FAQ
+
+Does this addon work on realms? Download the world from your realm, enable the necessary experiments, add this addon to it, and upload it back to the realm. If it still doesn't work, then it's a realms bug
+
+I lost the "Turbo Commands" item, where can I find it? It can be found in the creative inventory in the "Construction" tab
+
+Your addon doesn't work! Please perform all actions listed below:
+
+- Make sure that the type of your Minecraft version is "release" (not beta or

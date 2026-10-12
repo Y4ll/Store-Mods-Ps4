@@ -1,0 +1,153 @@
+Step into the suspenseful world of A Quiet Place with our immersive addon, designed to enhance your experience in a thrilling atmosphere. Navigate through sound-sensitive challenges, evade terrifying creatures, and master the art of silence to survive. Explore new environments, encounter unique gameplay mechanics, and uncover hidden secrets that will test your instincts. Can you stay quiet and live to tell the tale? Join us and find out!
+
+New Updates
+
+New Structure:
+
+Venture into the ominous Death Angel's Lair, a chilling new structure that serves as the haunting domain of the Queen. This foreboding lair is not only home to the fierce protectors but also shelters the mysterious Carrier, who plays a crucial role in the ecosystem of this eerie world.
+
+New entity additions:
+
+The Death Angel is a fearsome creature that thrives in darkness. It moves silently and strikes quickly, hunting anyone who makes a sound. With its swift agility and keen senses, the Death Angel is a terrifying force, ensuring that silence is the only way to survive.
+
+Three Types of Variation
+
+Normal Death Angel
+
+- Has 20 health points
+
+- Deals 100 damage points
+
+- Can climb walls
+
+- Moves very fast
+
+- Despawns after 60 seconds of inactivity
+
+- Can't swim in water
+
+- Resistant to all kinds of damage
+
+- Weak to high frequency sounds
+
+- It dies when the queen dies
+
+Protector Death Angel
+
+- Has 20 health points
+
+- Deals 100 damage points
+
+- Can climb walls
+
+- Moves very fast
+
+- It doesn't despawn
+
+- Can float on water but drowns underwater if trapped
+
+- Resistant to all kinds of damage
+
+- Weak to high frequency sounds
+
+- Roams around the lair protecting the queen
+
+- Eats 1 time a day
+
+- It dies when the queen dies
+
+Carrier Death Angel
+
+- Has 1 health point
+
+- Doesn't attack
+
+- It doesn't despawn
+
+- Responsible for bringing back the flesh of the dead bodies back to their lair
+
+- Not affected by high frequency sounds
+
+- Can float on water but drowns underwater if trapped
+
+- It dies when the queen dies
+
+The Queen Death Angel is the fierce leader of the Death Angels. She is swift and powerful, instilling fear in anyone who crosses her path. With her chilling gaze, she protects her territory and ensures that silence reigns.
+
+Queen Death Angel
+
+- Has 500 health points
+
+- Deals 200 damage points
+
+- Can climb walls
+
+- Moves very fast
+
+- It doesn't despawn
+
+- Can float on water and does not drown underwater if trapped
+
+- Resistant to all kinds of damage
+
+- Weak to high frequency sounds
+
+- Responsible for taking care of their source of food
+
+- Sleeps during the night
+
+- Feeds its protectors every day
+
+The fungus is a crucial food source in the realm of the Death Angels. It thrives in the dark, providing essential nourishment for the protectors and the Queen. While vital for survival, this fungus is also a target for danger, as it plays a key role in the ecosystem of this shadowy world.
+
+Fungus
+
+- Source of food for the death angels
+
+- Only grows in the lair
+
+- Stops spawning after the queen dies
+
+- Takes 1 day to fully grow
+
+- Doesn't crack until it fully grows
+
+- When available for consumption it will release this steam
+
+- Contains this white gooey substance that the death angels eat
+
+The flesh is dropped when an entity dies which serves as a fertilizer for the fungus
+
+- After a few seconds it will start to rot causing hunger to those who are near around it
+
+- It will disappear after a some time
+
+Items and Tools:
+
+Items
+
+Netherite Shear
+
+- Used for removing the tough materials from the death angel
+
+- Made of netherite inggots
+
+Hearing aid
+
+- Releases high frequency sounds that weakens the death angels making them vulnerable
+
+- Made of different combinations of frequencies
+
+- Key to beating the game
+
+The Truth
+
+- Holds the mystery of the game
+
+- It is an endgame item that is dropped after defeating the queen
+
+Claw of The Death Angel
+
+- A dark claw used in feet armor to grant speed and jump boosts mimicking the agility of the Death Angel
+
+- Dropped by the death angel when i

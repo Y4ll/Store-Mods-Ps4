@@ -1,0 +1,13 @@
+WARNING: Setting the "MobGriefing" gamerule to "false" will stop the golem from doing absolutely anything.
+
+In collaboration with @RedTNT
+
+HAY GOLEM
+
+The golem doesnt need to sleep, but it will occasionally take short breaks to regain energy.
+
+You can also give "Bone Meal" to the Hay Golem to speed up the fertilization processmuch more efficient than a villager. Yes, sir!
+
+Watching it work is so fun! With "Bone Meal", it speeds up crop growth so you can get more resources, and it will prioritize this task. It doesn't need to sleep!
+
+The Hay Golem will look for a chest to store what it has collected, so remember to place a chest nearby for it to work properly.

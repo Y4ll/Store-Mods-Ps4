@@ -1,0 +1,125 @@
+Texture pack that adds a new dark interface, along with new features that will make your game easier. It's completely vanilla, as it doesn't include any modified textures. I designed it this way so you can combine it with different texture packs, such as Actions & Stuff (64x), Bare Bones, etc.
+
+FEATURES:
+
+- Dark Mode
+
+- New Menu Icons
+
+- Compass and Clock on Game Screen
+
+- New Menu Icons
+
+- Less intrusive item name
+
+- Haptic Button Invisible
+
+- Added F1 button
+
+- Added Durability and Inventory Viewer
+
+- Improved Coordinates and Days Played
+
+- Paper Doll Enabled at the Bottom
+
+- Haptic Button Invisible
+
+- Transparent Water
+
+- Invisible bright frame
+
+- White selection border
+
+- Enchantment levels with improved icons
+
+- Enchanted books with guide icons
+
+- More cubic clouds
+
+- Potion brewing guide
+
+- Translucent tooltip
+
+- Trade assistant
+
+- Quick Buttons
+
+- Quick Chat
+
+- No Game Instructions
+
+- Crosshair and Cross Stitch
+
+- Reduced Shield
+
+- No Pumpkin Overlay
+
+- No Spyglass Overlay
+
+- No Vignette
+
+- Discreet Rain
+
+- Discreet Snow
+
+- New menu sounds
+
+- New immersive game sounds
+
+SUBPACKS:
+
+- No Particles Mode
+
+- No Animations Mode
+
+COMPATIBILITY:
+
+- This texture pack is made to be combined with different packs, which only modify the game's textures.
+
+IMAGES
+
+IMPORTANT!
+
+Always place the package on top of the others.
+
+Complete 'Utility Dark' texture pack, with many more useful textures and features.
+
+TERMS OF USE
+
+IF ALLOWED
+
+You are allowed to modify my texture for personal use.
+
+You can use the contents of my texture pack for new creations but, you have to contact me first and credit me.
+
+NOT ALLOWED
+
+Claim the texture pack as yours.
+
+You may not upload my texture pack to other sites without first notifying me.
+
+You may not steal the content.
+
+CREDITS
+
+Thanks to each of the creators.
+
+Bedrock Tweaks
+
+D-uzi
+
+CTG153146561
+
+DimzCraft
+
+notnicto
+
+Yuka0745
+
+Parzival_
+
+Itzriyo157
+
+ADVERTISEMENT
+
+One click download

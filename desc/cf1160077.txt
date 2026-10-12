@@ -1,0 +1,41 @@
+With this addon, it will be enough to mine one ore for the others to break alone, and you will quickly obtain the items and the XP.
+
+# How to use the addon?
+
+You just have to have any type of pickaxe in your hand, then you just have to break the ore and the other blocks of ores will break in a chain reaction.
+
+# Things you have to know:
+
+- "VeinMiner" will work with all ores, including ores from other addons. (Only if the identifier contains "_ore")
+
+- Will work with pickaxes from other addons. (Only if the identifier contains 'pickaxe_', '_pickaxe', '_pickaxe_')
+
+- The durability of the pickaxe will be shown in the actionbar.
+
+- Unbreaking enchantment is compatible with the VeinMiner function.
+
+- The durability of the pickaxe will be reduced for each ore destroyed.
+
+- VeinMiner will stop when the pickaxe has 5 durability left.
+
+- The ability is disabled if you are crouching.
+
+- Works in survival and creative mode.
+
+- The "fortune" enchantment will not work when using the ability.
+
+# Screenshots:
+
+# How to install:
+
+- Download and install the behavior pack.
+
+- Activate the behavior pack in your world settings.
+
+# Showcase video:
+
+# Info:
+
+- Effect99: Report bugs to my Discord.
+
+- Any suggestions to add in the addon are welcome as long as you send them to me on

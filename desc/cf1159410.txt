@@ -1,0 +1,13 @@
+A modScript/Addon that allows you to have the same inventory as the rest of the players in your world, if a player dies and loses inventory you will also lose inventory, if a player gets diamonds you will also have those diamonds.
+
+How to play
+
+You just have to venture into a normal survival with your friends and learn to share your inventory.
+
+If a player dies and loses their inventory, you will also lose your inventory.
+The durability of the items will also be the same.
+Compatible with any Add-On/Script
+
+- Report error to my Discord Effect99 Community
+
+- Any suggestions to add in the addon are welcome as long as you send them to me on my Discord.

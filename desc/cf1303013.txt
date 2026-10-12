@@ -1,0 +1,53 @@
+A portal to an apocalyptic universe has unleashed the Cordyceps infection upon Minecraft, devastating the world and leaving survival only to the strongest.
+
+CORDYCEPS ADDON v13.2.1 is the biggest update yet, featuring new infected variants, massive hordes, terrifying Cordyceps nests, and fully explorable cities and structures inspired by The Last of Us. Stealth, strategy, and light are your only hopeinfected thrive in total darkness.
+
+Important: If you use this addon in videos, reviews, or other content, credit this post or the official YouTube trailer. Republishing on other sites or apps is not allowed without permission. This project took a lot of effortthanks for supporting it.
+
+1. Installation Guide:
+
+Cordyceps addon has 2 versions of RESOURCE and BEHAVIOR packs: FULL and LITE These are the characteristics:
+
+- Full Resource pack: Has all textures, sounds, particles, and full variations.
+
+- Lite Resource Pack: Keeps the necessary sounds, removes block variants (meaning 1 texture per block), reduces custom particles to the minimum, or eliminates them in certain cases.
+
+- Full Behavior Pack: Contains the complete experience regarding the gameplay of the addon, and the size of structures is at maximum. Here, cities, laboratories, and alcantarillas will feel colossal; sound events, infectados, and spawn probability will be original.
+
+- Lite Behavior Pack: It is a reduced experience but not incomplete. All items, blocks, and entities exist just the same. What changes is the size of structures, and mechanics related to ambiance and entities might be restricted to a minimum depending on their typelike the flash when shooting, for example, or the spawn frequency of mobs. Giant structures reduce their size by half.
+
+What should you install?
+
+If you want to play the full experience, install the FULL packs. (maximun)
+
+If you want to play the full experience at the level of behaviors and mechanics, you can combine the Full Behavior Pack with the Lite Resource Pack. (balanced)
+
+If your device cannot handle so much, you can install both Lite packs. (low)
+
+How does this affect multiplayer play?
+
+When playing multiplayer, it is crucial for every player to have the same BEHAVIOR pack. The RESOURCE pack can vary for each player without issues. As a recommendation, have the packs already on your devices individually if you are going to play multiplayer, since due to its size there could be errors or difficulty loading the world.
+
+2. Latest Global Update v13:
+
+After several years stuck on v12 of Cordyceps addon, I am glad to bring these things and ideas announced in 2023. The global update is called OUR BLOOD and will revolve around the cult cordyceps, the first part being SCARS OF THE DEEP. The reason for the name is simple: originally it was going to be a small patch improving the Scars (seraphites), a faction from TLOU, but in the end these improvements expanded to all NPCs and even complex new mechanics. And why the Deep? Well, the underground structures have been totally renovated after several years. Therefore, it introduces:
+
+-
+
+First improvements to NPCs: they now feature improved combat, each with a weapon type and faction, as well as improved dynamic models and textures.
+
+-
+
+Colossal cities: these structures have been in constant evolution since 2023, changing for the better.
+
+-
+
+Serwers v2: the alcantarillas in Cordyceps date back to the early updates with the mythical concrete cave entrance; now they have received a full overhaul and a dungeon-worthy size with lore and horrors in the depths.
+
+-
+
+Laboratory v2: although the old underground section still exists as it was, there are now gigantic rooms even further down if you take the correct route, containing records of the horror that happened there, besides being the only structure where you can get crucial objects to fight the cordyceps.
+
+-
+
+seraphite forest: originally, as mentioned, this last UPDATE was only going to bring this along with its faction. This biome is a variant of 

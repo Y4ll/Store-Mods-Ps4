@@ -1,0 +1,11 @@
+Minecraft, But Walking Spawns Structures...
+
+A simple Minecraft challenge with a twist: every 100 blocks you walk, a completely new structure will spawn in the world around you. The farther you travel, the more structures you encounter, turning your journey into a constantly changing adventure.
+
+Simulation Distance: 12 is necessary.
+
+To make sure structures spawn correctly, it is recommended to set your Simulation Distance to 12, which is the maximum. Structures need the chunks around them to be loaded in order to spawn properly. This is especially important for large structures, because they can extend across multiple chunks and may not load or generate correctly when the simulation distance is set too low.
+
+Once your simulation distance is set to 12, simply start walking and let the challenge begin. Every 100 blocks traveled will trigger another structure, meaning you never know what you are going to find next. You could suddenly come across a village, a massive castle, an ancient structure, or something completely unexpected.
+
+Keep walking, explore the world, and see how many structures you can discover!

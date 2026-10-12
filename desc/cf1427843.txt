@@ -1,0 +1,31 @@
+No Particles FPS
+
+Tired of lag spikes, screen clutter, and unnecessary visual effects? No Particles FPS removes all non-essential particles from Minecraft Bedrock, giving you a cleaner screen, smoother gameplay, and significantly improved performance, especially on low-end and mobile devices. This pack is designed for players who want maximum FPS and zero distractions, whether you're doing PVP, survival, or heavy exploration.
+
+What It Does Particles Disabled All unnecessary particle effects like: -Smoke -Fire sparks -Hit particles -Dust, animations, and ambient effects are completely removed. This reduces GPU and CPU load, making Minecraft run much smoother without changing the core visuals of the game.
+
+Three Subpacks - Pick Your Level
+
+Choose your particle removal level directly on the pack. Go to Settings Resource Packs, tap No Particles FPS, and use the slider to switch between three modes:
+
+Lite Removes 47 heavy particles (weather, block breaking, all 8 falling dust types, campfire smoke, all 6 leaf particle types, flames, lava drips and all 5 portal effects). Keeps everything else vanilla. Best for players who want a noticeable FPS boost without losing the game's visual charm.
+
+Balanced Removes 102 particles but keeps 90 essential gameplay particles like potion effects, redstone dust, fishing bobber, villager reactions, warden and sculk signals, trial chamber mechanics, breeze attacks, dragon fight effects, and crop growth feedback. On top of Lite it also clears bubbles, water splashes, explosions, drips and mob flames. Best for PVP and survival players who need visual cues but want smooth frames.
+
+Max FPS Removes 185 particles and blanks 15 more textures: the particle atlases, the environment sheets and the enchantment glint. Everything except crit, totem and mob-growth feedback is gone. The full nuclear option for absolute maximum performance. This is the original No Particles FPS behavior.
+
+Clean & Clear Screen With particles gone, your screen stays: -More readable in fights -Clearer while mining or building -Less visually noisy
+
+Every mode also clears the pumpkin blur, so wearing a carved pumpkin no longer covers your screen. Perfect for PVP, speedrunning, and low-end devices.
+
+Maximum FPS Boost By removing thousands of particle draw calls, this pack: -Improves frame stability -Reduces lag spikes -Keeps your device cooler -Prevents thermal throttling on phones and tablets You get higher FPS and more consistent performance.
+
+Performance Friendly Sixteen of the seventeen textures this pack ships are 11 transparent images, and the last one is a reduced-opacity 3232 weather sheet so it takes essentially nothing off your RAM or VRAM budget and only ever removes work, never adds any. It works smoothly on: -Android -iOS -Windows Bedrock -Low-end phones & PCs No scripts. No behavior packs. Just pure performance.
+
+Full Compatibility No Particles FPS works with: -PVP texture packs -FPS boosters -UI packs -Shaders and Vibrant Visuals
+
+It only overrides particle definitions and a handful of textures, so it stacks cleanly with almost anything. Just place it above other resource packs so its particle overrides load correctly.
+
+-Minecraft Bedrock 1.21+, tested on 26.50 -Works on existing worlds, single-player, servers and Realms -No experimental features required
+
+No gameplay changes. No visual breakage. Just cleaner visuals and more FPS

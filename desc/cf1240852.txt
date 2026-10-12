@@ -1,0 +1,75 @@
+Cracker's Wither Storm: Bedrock Port [CWSBP] is here! This addon is made by us (Decayed Team) to replicate the exact feel of Cracker's Wither Storm Mod, originally made by nonamecrackers2.
+
+The original mod can be found here, and we are allowed to make this addon by crackers himself!
+
+This Add-On was released originally on my Youtube Channel >@TazoLaTaza) yet after 2 years, the whole team and i decided to finally post it on CurseForge!
+
+CWSBP is still getting updated, the main goal of this is making a FULL replica of the original Java mod! for now, it has almost ALL main functions, only missing the bowels (yet you can still kill the storm by entering the wither storm) and the withered beacon!
+
+DEVELOPERS:
+
+Lead Developers (CWSBP) : Persom (Creator) and Spud, formerly Tazo.
+
+Developer(s): totallyapineaple, Cluster and Bibiboy.
+
+Models, Animations: Andel, Tazo, Spud and shadow_h7_65587.
+
+>Rest of the textures are from Nazaru! author and artist of the original mod.
+
+Discord CWSM Port Permission Proof
+
+>VIDEO SHOWCASING THE ADD-ON:
+
+Check it out! it showcases TONS of stuff more that isn't on this post!
+
+>So... how do we summon the storm? locate the rundown house at X: 0, Z: 0, and place the last wither skull on top of the incomplete wither-like structure! (or summon it using a REAL command block with the skulls)
+
+This add-on has ALL the functions from the original CWSM! check the original guide on >how to beat the mod< (the add-on has the same steps)
+
+CWSM Official Guide
+
+<mark class="marker-yellow">So... how do we summon the storm?</mark> locate the rundown house at X: 0, Z: 0, and place the last wither skull on top of the incomplete wither-like structure! (or summon it using a REAL command block with the skulls)
+
+<figure class="image"></figure>
+
+<mark class="marker-yellow">The Pre-Game:</mark>
+
+- Youll notice a platform with the blocks in a wither formation, this one is called the Rundown House!
+
+- <mark class="marker-yellow">On each biome, a new variant of this house exists! so don t get confused!</mark>
+
+- With the notable difference of the Command Block in the center. To summon the Wither Storm, place the final wither skull laying next to the structure on top of the Command Block
+
+- Once completed, the Wither Storm will spawn at phase 0 and youll have 50 seconds to get the heck out of there
+
+- The Wither Storm will, once summoned, chase you. Once you do escape, the next half hour or so mostly consist of the typical survival experience. During this time, I recommend getting plenty of food, tools and armor, boats (perhaps a horse?) while also be getting as much distance between you and the Wither Storm as possible. Soon enough,<mark class="marker-yellow"> the Wither Storm will hit phase 4</mark>
+
+<figure class="image"></figure>
+
+<mark class="marker-yellow">The Wither Storm:</mark>
+
+- With the new overhaul of 0.4, it grows and evolves by absorbing its surroundings.
+
+- Has the ability to track the nearest player from wherever, and may occasionally chase them.
+
+- The Wither Storm has the ability to chunk load, without the presence of a player, meaning the Wither Storm is always active.
+
+- The Wither Storm can pick up,consume and corrupt almost any mob
+
+- The Wither Storm can pick up clusters of blocks, which can be REALLY destructive
+
+<mark class="marker-yellow">ENABLE UPCOMING CREATOR FEATURES EXPERIMENT</mark>
+
+JUST FOR THOSE WHO NEED IT
+
+- Why is my Wither Storm an Ender Dragon?
+
+This is technically not a bug, it is just you using the addon incorrectly.
+
+The Wither Storm replaces the Ender Dragon so whenever you use other resource packs over the CWSBP: 0.4.7 resource pack, it changes the models back.
+
+Always remember to keep CWSBP: 0.4.7 on top of any other resource pack you are using!
+
+- "My device lags a lot"
+
+This add-on is intended for VERY powerful devices, so if you don t have one, make an aternos server and put it there! (any external server works) you can also join the Discord Server! <mark class="marker-yellow">we will

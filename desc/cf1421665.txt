@@ -1,0 +1,27 @@
+"XAIER'S APOCALYPTIC CITIES" adds cities that are generated using jigsaw blocks, so the buildings and houses will be random (it's a larger version of the cities from CORDYCEPS ADDON), perfect for combining with other apocalypse addons.
+
+The cities are comprised of a main highway that branches off into streets, which generate buildings. Along the edges of the streets, near entrances to the sewers, houses and lower structures appear. Beneath the cities are sewers and tunnels leading to caves where gunpowder ore can be found, which can be useful in addons that require it for ammunition.
+
+Cities are generated in the following biomes:
+
+Plains, Birch Forest, Forest, Desert, Savanna, Ice Plains.
+
+The blocks and melee weapons are the same as those in the Cordyceps Addon. They were included for aesthetic purposes and as part of the loot, which combines well with other addons.
+
+Blocks can yield loot when touched and can be mined using pickaxes.
+
+There are also environmental blocks, such as the "jelly bush," which appear mostly along highways, generating city sounds during the day and night, respectively, as well as particles like mosquitoes and butterflies.
+
+Functional radios are located in structures. To turn them on, right-click. To change the radio station, crouch with an empty hand and right-click. For more music on the radios, you can download the additional radio music pack.
+
+Melee weapons have axe and pickaxe abilities, respectively. Use them to your advantage to survive.
+
+Some decorative blocks have texture variations. In Creative mode, you can change their textures by right-clicking them with a stick. This is useful for creating maps.
+
+Two new NPCs have been added, survivors and hunters; be careful on your adventures through the cities.
+
+Gas cylinders and barrels can explode if you right-click them with a flint and steel.
+
+Additionally, an oil refinery has been added to the oceans. You could live there if you like.
+
+I will be adding more structures to cities and other areas in the future. Thank you for your support.

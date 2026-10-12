@@ -1,0 +1,25 @@
+This Shader is designed for Vibrant Visuals. Make sure to enable it in the settings.
+
+What is Levitas Visuals?
+
+It is a lightweight bedrock shader pack made for low-end PCs, and mobile devices.
+
+Version 1.1 now supports the Dappled Forest!
+
+Awesome Features
+
+- 1/16 Resolution, But Smooth: Downscales shadows and reflections for FPS boosts, using a filter to keep visuals smooth.
+
+- Cinematic Fog: Adds beautiful fog and light shafts (GODRAYS).
+
+Terms of Use
+
+- Redistribution: Prohibited.
+
+Dappled Forest
+
+The End
+
+Taiga Sunrise
+
+Jungle Night

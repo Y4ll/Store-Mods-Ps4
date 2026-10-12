@@ -1,0 +1,11 @@
+Changed the Armor HUD to match the current Armor textures
+
+...that's it
+
+This resource pack is guaranteed to work with Bedrock Edition.
+
+You can download the Java Edition resource pack here
+
+Before After
+
+This is unlikely to be updated, thank you for your understanding.

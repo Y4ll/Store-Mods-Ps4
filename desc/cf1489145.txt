@@ -1,0 +1,65 @@
+Phantasm expands survival with layered progression: new weapons, tools, enemies, bosses, upgradeable skills, structures, and a built-in in-game guidebook for balanced vanilla-friendly gameplay.
+
+Video Trailer:
+
+Overview:
+
+This add-on expands how survival works, adding more progression, more weapons, more tools and utilities, more enemies and more bosses while keeping most of the Vanilla aspects unchanged. This Add-On has a built-in Guidebook inside the world, so the progression is explained in-game to avoid spoiling content. This add-on introduces 3 major progression stages (early-game and post-Ender Dragon), 12 weapons, many items, three different passive skill with upgradeable statistics, 2 new structure, and 3 bosses.
+
+REMEMBER THIS ADD-ONS HAS A BUILT-IN GUIDEBOOK WHEN YOU FIRST TIME PLAYING THE ADD-ONS, AND THE SHOWCASE HERE IS INCOMPLETE FOR SPOILER PROOFING, EXPLORE THE ADD-ONS BY READING THE GUIDEBOOK AND FIGURE IT OUT YOURSELF TO GET THE MAXIMUM EXPERIENCE!
+
+Weapons
+
+There are 5 Legendary Weapons (obtained from boss drops) and 7 Epic Weapons (crafted or found):
+
+(This is the Collection of ALL EPIC WEAPONS!)
+
+- Spectric Bow
+
+This bow is obtained from crafting. It casts a custom projectile when the ammo used is Spectral Arrow, a custom arrow crafted from 1 Arrow and 4 Glowstone Dust.
+
+- Cruxshaper
+
+This mace weapon is obtained from crafting. You can use this weapon as a mace, enchantable as a mace. The weapon also has a skill that launches you upwards and plunges to the ground, dealing 50 damage to surrounding entities and causing faster weapon durability loss. 30s cooldown.
+
+- Charged Copper Axe
+
+Obtained by crafting. This axe features two mechanics: Charge and Auric Charges. Charge builds while holding the axe (unequipping doesn't reset it). Hitting an enemy resets Charge and deals extra damage depending on charge; at full charge it summons lightning. Skill: a slash that summons lightning in front of you; faster weapon wear. 5s cooldown. Auric Charge grants 1 Auric Charge when an entity dies; collect up to 256 for the Summoning Ritual of the Last Boss.
+
+- Nature Staff
+
+Craftable staff that shoots a slow but powerful laser projectile (1s cooldown). Alternate attack (crouch-interact) summons 4 spreading waves with massive damage and slower speed (3s cooldown).
+
+- Seiketsu
+
+This katana is obtained from crafting. This weapons has an Attack Pattern like Legendary Weapons, it doesn't have a special skill though but the interact event is making you do parry with much longer window, very good for parrying the boss attack
+
+- Thunder Gale
+
+This spear can be obtained from crafting, this spear is powerful as Cruxshaper even though they don't have any special mechanism, This weapons however, deals 12 jab damage, and 1.5x multiplier per movement speed when using the Charge Attack, also this weapons makes you goes faster.
+
+- Peacemaker Oath
+
+Craftable Pistol that shoots an Auric Charges, using 1 Auric Charges each time they have been shoot, having no cooldown and high damage is this weapon speciality.
+
+LEGENDARY TREE!
+
+- Animitta (Legendary)
+
+Obtained by defeating the Sealed Soul: Soul of Nature boss. This sword has 4 attack patterns and 3 skills themed around the Light of Nature. Deals primarily 12 damage.
+
+- Prism Weaver (Legendary)
+
+Obtained by defeating the Sealed Soul: Soul of Nature boss. This staff has 3 attack patterns and 3 skills themed around the Ocean Tide. Deals primarily 10 ranged damage.
+
+- The Bleeding Spire (Legendary)
+
+Obtained by defeating the Punicea : A Crimson Eye boss. This spear has 4 attack patterns and 3 skills themed around the Crimson. Deals primarily 14 melee damage.
+
+- Supercharged Copper Axe (Legendary)
+
+Obtained by defeating the Auric Automaton: Auric Mechanical Array boss. This axe has 4 attack patterns and 4 skills. Deals primarily 16 damage.
+
+- Auric Photonizer (Legendary)
+
+Obtained by defeating the Auric Automaton: Auric Mechanical Array boss. This sword has 5 attack patterns and 4 skills. Deals p

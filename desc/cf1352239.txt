@@ -1,0 +1,33 @@
+version 5.0
+
+After successfully crafting the Time Stop item, you can extract it to make a Temporal Fragment.
+
+(The 64 items that looks like the number 69 is a Temporal Fragment, which can be used to craft a Quantum Bomb.)
+
+(Unlike the Time Stop item, the Quantum Bomb works like a grenade but can freeze entities or items within a radius of 45 blocks.)
+
+you can upgrade quantum bomb lv 1 to quantum bomb lv 2 by using this recipes
+
+did you notice the different?
+
+another update informations:
+
+-
+
+Anyone holding the Time Stop item will be immune to the time stop effect, so you can stop other players if they dont have the time stop immunity.
+
+-
+
+The Quantum Bomb is also immune to time stop effects.
+
+-
+
+The daylight cycle will also stop in version 5.0.
+
+version 3.0
+
+version 1.0
+
+join discord
+
+Freeze time in Minecraft Bedrock! With the Time Stop Addon, mobs, arrows, and even water stop in place. Take control of timepause the world, escape danger, or pull off epic tricks before resuming the chaos!

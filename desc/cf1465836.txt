@@ -1,0 +1,17 @@
+Simple bedwars
+
+This is a texture pack for bedwars on bedrock (1.21+).
+
+The pack contains many features like :
+
+- Transparent inventory and Shop ui for clear vision
+
+- Custom sky
+
+- Blocks retexture
+
+- Smaller weapons
+
+- Low fire
+
+- Retextured items (e.g ender pearl, fireball etc)

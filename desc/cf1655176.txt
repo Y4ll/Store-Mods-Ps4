@@ -1,0 +1,88 @@
+Make combat feel more dynamic with Real Ragdoll, a physics driven death overhaul for Minecraft Bedrock.
+
+Instead of playing the standard death animation, supported mobs collapse into simulated ragdolls. Humanoid mobs use six part rigs, while animals, creepers, spiders, and cave spiders use custom rigs. Each body reacts to the direction and strength of the killing blow, tumbles across the environment, collides with blocks and its own limbs, and eventually settles into a natural resting position.
+
+Ragdolls can be pushed by nearby players, and optional experimental features let you drag bodies with leads, ragdoll the player, and show the armor a body died in. Bodies automatically disappear after a configurable period 30 seconds by default while the Settings menu also lets you keep bodies forever or clear them all at once.
+
+v1.3.0 Changelog
+
+- Moved Show Armor, Drag by Hand, Player Ragdoll, and Ragdoll Sensitivity from Experimental to Settings.
+
+- Added hand dragging feature. Sneak and interact with a ragdoll using an empty hand to grab and move a limb.
+
+- Switched the engine to OimoPhysics based engine for improved rigid body physics and collision.
+
+- Added player ragdoll sensitivity options.
+
+- Improved performance and fixed several physics issues.
+
+- Added vanilla compatibility Actions & Stuff mode.
+
+- Third person camera ragdoll can now move freely
+
+- Improved limb collision and reduced bodies passing through blocks.
+
+- Fixed collisions involving light blocks.
+
+- Improved armor rendering so armor follows moving ragdolls correctly.
+
+Check out my discord server to see update sneak peaks and my other project!
+
+https://discord.gg/877ZngmbE
+
+Features
+
+- Physics driven death reactions
+
+- Directional knockback from attacks and explosions
+
+- Terrain, limb, and self collision
+
+- Mob specific ragdoll models, textures, proportions, and variants
+
+- Bodies can be pushed by nearby players
+
+- Optional lead dragging for ragdoll bodies (experimental)
+
+- Optional player ragdoll, with falls, explosions, and the void (experimental)
+
+- Optional armor display on bodies (experimental)
+
+- Vanilla loot and supported player kill experience rewards
+
+- Configurable ragdoll toggle, corpse cap, despawn time, and quality presets
+
+- Optional Keep Bodies Forever setting
+
+- Automatic cleanup after a configurable duration, from 5 to 120 seconds
+
+Currently Supported Mobs
+
+Humanoids
+Zombies, Husks, Drowned, Skeletons, Strays, Wither skeletons, Bogged, Parched, Zombie villagers, Villagers, Wandering traders, Pillagers, Vindicators, Evokers, Witches, Piglins, Piglin brutes, Zombified piglins, Endermen
+
+Animals
+Cows, Mooshrooms, Pigs, Sheep, Chickens, Rabbits, Foxes, Wolves, Cats, Ocelots, Pandas, Polar bears, Goats, Llamas, Trader llamas, Horses, Donkeys, Mules, Skeleton horses, Zombie horses, Camels, Camel husks, Sniffers, Armadillos, Bats, Bees, Parrots, Turtles, Frogs, Tadpoles, Striders, Hoglins, Zoglins
+
+Aquatic
+Cod, Salmon, Tropical fish, Pufferfish, Squid, Glow squid, Dolphins, Axolotls, Guardians, Elder guardians, Nautilus, Zombie nautilus
+
+Hostile
+Creepers, Spiders, Cave spiders, Silverfish, Endermites, Slimes, Magma cubes, Blazes, Ghasts, Happy ghasts, Phantoms, Vexes, Shulkers, Ravagers, Breezes, Creakings, Wardens, Allays, Sulfur Cube
+
+Golems
+Iron golems, Snow golems, Copper golems
+
+NOTE: Lead dragging, player ragdoll, and armor display are experimental and disabled by default. Bosses and utility actors are not supported. More mobs are planned for future updates.
+
+Commands
+
+- /realragdoll:settings or /settings. open the Settings menu
+
+- /realragdoll:experimental or /experimental. open the Experimental menu
+
+- /realragdoll:clearall. remove every ragdoll in the world
+
+Extra Notes
+
+Held items are not displayed on ragdoll bodies. Armor display is experimental and disabled by default. On mobs it matches the armor type only, so enchantments, armor trims, and leather dye are not shown, and leggings currently sit wrong on a fallen body. A player's own armor is 

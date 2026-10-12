@@ -1,0 +1,33 @@
+NIGHT VISION++
+
+Permanent Achievement Friendly Lightweight
+
+About This Pack
+
+Night Vision++ is a simple and lightweight Minecraft Bedrock addon that automatically gives players permanent Night Vision while keeping the experience clean, smooth, and survival-friendly.
+
+The effect is automatically refreshed in the background, so you do not need to use commands, potions, cheats, or repeatedly reactivate anything.
+
+Achievement Friendly
+
+This pack is designed to work without requiring cheats or experimental gameplay settings, making it suitable for normal survival worlds where players want to continue earning achievements.
+
+Features
+
+Permanent Night Vision Automatic Effect Refresh No Visible Particles No Commands Required No Cheats Required No Experimental Settings Required Works After Respawn Works After Rejoining Lightweight Script System Perfect for Survival & Mining
+
+Perfect For
+
+Exploring caves, mining deep underground, travelling during the night, building in dark areas, exploring structures, and improving general visibility without constantly using Night Vision potions.
+
+How It Works
+
+Once the addon is activated in your world, Night Vision is automatically applied to the player. The effect is periodically refreshed so it remains active throughout normal gameplay.
+
+Important Note
+
+If achievements were already permanently disabled in a world because of previous cheats or incompatible settings, installing this addon cannot restore them. For best results, use it in an achievement-enabled survival world.
+
+Creator: Baku
+All Rights Reserved by Baku
+Reuploading, redistributing, modifying, or claiming this addon as your own without permission is not allowed.

@@ -1,0 +1,135 @@
+TokenSMP - Mob Ability Tokens for Minecraft Bedrock
+
+Turn yourself into any mob with powerful abilities!
+
+TokenSMP adds 20+ collectible tokens with 15 on joining random give and 5 one time craftable, that grant you special mob-themed powers when used. Each token has unique effects, particles, and cooldowns - from summoning wolf packs to shooting explosive sonic booms!
+
+Features
+
+20+ Unique Tokens - Each mob has its own signature ability
+
+Stunning Visuals - Custom particles and effects for every ability
+
+Balanced Cooldowns - Fair gameplay with carefully tuned cooldown times
+
+Rare Token System - tokens that are only 1 time craftable
+
+First Join Bonus - New players get a random token on their first spawn
+
+Multiplayer Ready - Works perfectly on servers/smps
+
+Token Abilities
+
+Token Ability
+
+Zombie : +8 hearts, Regeneration II, Absorption II + Poisons nearby enemies
+
+Skeleton Shoots : 192 arrows in all directions
+
+Spider : Web cage + Slowness VI + Jump Boost III
+
+Pig : +6 hearts, Absorption IV, Regeneration II, Resistance
+
+Creeper : Chain explosions in your line of sight
+
+Blaze : Fire aura + Ignites enemies for 8 seconds
+
+Guardian : Speed V + Water beam damage
+
+Snow Golem : Slowness VI + Blizzard of snowballs
+
+Wither Skeleton : Strength III + Wither III on all nearby
+
+Bat : Launches mobs into air + Night Vision
+
+Wolf : Summons 8 tamed wolves + Knockback howl
+
+Squid : Ink blind - Blinds and slows enemies
+
+Enderman : Teleport 50 blocks + Portal trail
+
+Bee : Summons 12 bees + Poisons enemies
+
+Horse : Speed VII dash + Trample damage
+
+Chicken : 6 lightning strikes + Massive explosion
+
+Ravager : Sonic boom rings + Massive knockback
+
+Warden : Long-range sonic beams following your gaze
+
+Witch : 4 random buffs + Potion explosion ( this power is a little op as this can grant randomly strength 5 or any other type of random buff )
+
+Ender Dragon : Creates a zone that gives Strength and the opponent entity wither effect
+
+Rare Token System
+
+Some tokens are limited in quantity! Chicken, Ravager, Wither Skeleton, Ender Dragon, and Warden tokens have configurable global limits. The limit is 1, If someone crafted it first and then another player tried to craft it the player will receive a material refund and a note that this is alr maded by someone else
+
+Commands:
+
+/tokensmp:token config - Configure rare token limits
+
+announce when ability made ( default = true )
+
+announce when ability dropped showing cords of location ( default = false )
+
+announce when ability destroyed ( default = false )
+
+Set the limit of the token
+
+Lives+ ( Subpack )
+
+There is lives too as a optional subpack, The addon used in this is my other project Lives+, What this mod does :
+
+Every player get 10 lives
+
+if 10 lives looses, player get banned / can be unbanned via craftable revive item
+
+you can see anyones lives beside their nametag
+
+you can craft live or withdraw it with item
+
+player can kill and loot another players live
+
+Installation
+
+1. Download the .mcaddon file
+
+2. Double-click to install in Minecraft
+
+3. Apply to your world or server
+
+5. Choose subpack (1. Only token 2. Token + lives+ )
+
+4. Join and receive your first token!
+
+Compatibility
+
+Minecraft Bedrock Edition 1.20+
+
+Works on Realms and servers
+
+Multiplayer optimized
+
+FAQ
+
+Q: How do I get tokens?
+
+A: New players receive one random token on first join. More tokens can be obtained through gameplay or commands.
+
+Q: Can I use multiple tokens at once?
+
+A: Each token has its own cooldown, so you can use different tokens while others are on cooldown.
+
+Q: Do tokens work in PvP?
+
+A: Yes! Most abilities affect nearby players and mobs.
+
+Q: Can I change certaij things about craftable tokens
+
+A: Token availability can be configured through the admin panel.
+
+Credits
+
+Created by Kaalu xD / Yannim

@@ -1,0 +1,126 @@
+ChatoTerra 1.1 SlugTerra Addon For Bedrock
+
+Inspired by SlugTerra. Bring the SlugTerra experience to Minecraft Bedrock with collectible slugs, blaster combat, storage.
+
+Discord:
+https://discord.gg/BuCPMpKdP7
+
+Included Slugs
+
+Seven playable species, each with its own element, habitat, and unique ability:
+
+-
+
+Infurnus Element:Fire Plateaus
+
+-
+
+Armashelt Element:Earth Underground caves
+
+-
+
+Bubbaleone Element:Water Beaches
+
+-
+
+Frostcrawler Element:Water Frozen areas
+
+-
+
+Electroshock Element:Energy Spruce forests
+
+-
+
+Polero Element:Earth Plains
+
+-
+
+Flaturlohinkus Air Plains
+
+All slugs can spawn in the wild, be tamed, and trained up to level 20. As they level up, they unlock improvements to damage, speed, and area effects.
+
+Slugpedia
+
+An interactive in-game book. Navigate through elemental type slug detailed entry, featuring health, damage, speed, biome, taming method, and abilities by level.
+
+It also includes a dedicated Tutorial with separate sections:
+
+-
+
+How to gain XP
+
+-
+
+Belt, Slug Carrier, and Shayne Backpack
+
+-
+
+Slug Radar
+
+-
+
+Slug Launcher
+
+-
+
+Taming and combat
+
+Blasters:
+
+Defender Slipstream XVL Eli Blaster
+
+Storage and Transportation
+
+-
+
+Belt 3 slots, equippable in the chest slot.
+
+-
+
+Slug Carrier 6 slots, equippable in the chest slot.
+
+-
+
+Shayne Backpack 6 slots + automatic pickup of your slugs within 2 blocks.
+
+-
+
+Tubes One for each species, plus an empty tube. Stores, transports, and displays the slug in your hand in 3D.
+
+-
+
+Slugrack Take your slugs into battle with the Slugrack.
+
+Utility Items
+
+-
+
+Slug Radar Craftable. Choose a species through its own menu using the same flow as the Slugpedia, with one species selected at a time. While held in the main hand or off-hand, it displays in the actionbar every 0.5 seconds whether a slug of that species is within 32 blocks, along with its distance [x,y,z].
+
+-
+
+Medicine Cures the blaster's slug status (powered-up slug).
+
+-
+
+Slug Kibble and Feeder Used to feed slugs for XP and taming.
+
+-
+
+Slug Rack A shelf used to transport and store up to 16 slugs.
+
+Progression
+
+Tame slugs using Slug Kibble, fight with them, and let them gain passive XP while stored in the Rack. Each slug saves its level, XP, owner, and variants.
+
+The leveling system is more demanding and balanced up to level 20, rewarding consistent use without requiring excessive grinding.
+
+Installation
+
+Enable both the Behavior Pack and Resource Pack in a world. Recommended for survival gameplay with friends.
+
+Equip your belt, load your blaster, and become the best slinger in ChatoTerra!
+
+Requirements
+
+Requires both the Behavior Pack and Resource Pack to be enabled together. Built for Minecraft Bedrock with Script API. The Beta APIs experimental toggle must be enabled.

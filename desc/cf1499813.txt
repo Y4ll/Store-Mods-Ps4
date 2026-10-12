@@ -1,0 +1,27 @@
+Auto Hold Totem Addon
+
+Never worry about dying again! This achievement-friendly addon automatically keeps a Totem of Undying in your off-hand whenever you need it, giving you instant protection in survival, PvP, and adventures.
+
+How to use
+
+- Activate Auto Hold Totem
+
+Equip a Totem of Undying in your inventory.
+
+This addon will automatically place it in your off-hand for instant protection.
+
+- Deactivate / Hold Shield
+
+Equip shield in your off-hand
+
+You can craft totems now
+
+Notes
+
+Works with all Totems of Undying in your inventory.
+
+Compatible with survival, adventure, and PvP gameplay.
+
+Lightweight, easy to use, and achievement-friendly.
+
+REPORT BUGS

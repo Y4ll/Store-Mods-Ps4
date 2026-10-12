@@ -1,0 +1,13 @@
+The Last Dragon - AddOn
+
+This AddOn adds a big tame and rideable dragon to your game!
+
+How to tame your own dragon?
+
+Wild dragons and dragon eggs spawn in the world!
+
+- wild dragons can be tamed with cooked chicken, cooked beef and cooked porkchop
+- A dragon egg must be lit with a flint and steel (right-click with flint and steel and wait 5 minutes);
+after that you can tame it!
+
+Equip your dragon with a saddle and fly through the air by looking up or down

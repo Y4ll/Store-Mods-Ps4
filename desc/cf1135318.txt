@@ -1,0 +1,63 @@
+The Hole Filler Add-on introduces a new item to Minecraft Bedrock Edition designed to instantly fill in holes created by TNT blasts, creeper explosions, and other destruction. Simply throw the Hole Filler item into any crater, and it will quickly fill the space with blocks.
+
+1.3.0 Changelog
+
+- Added support to Minecraft 1.21.90
+
+1.2.0 Changelog
+
+Alot has been changed, added and improved in this update. Following listed are few key changes:
+
+- The ability to choose what block to fill,
+
+- A lot of improvements regarding data saving and how how filling initiated by different players gets handeled,
+
+- Several players have reported that the they only get one hole filling item, which now has been fixe and you can simply keep typing ?hf in the chat and it will automatically detect which item you need and it will be given to you,
+
+- Fixed an bug in which filling a hole closer to the botton of the world such as in flat worlds caused some issues,
+
+- Much more has been chmaged some of that is more technical and I am little lazy to write it here as well, so I hope you will try this and found out by yourself........
+
+Installation
+
+- Download the latest Hole Filler Add-on .mcpack file.
+
+- Open the file with Minecraft Bedrock Edition to install the add-on.
+
+- In your world settings, enable Experimental Features, including:
+
+- Beta APIs
+
+- Make sure the Behavior Pack is applied to your world.
+
+Hole Filler Add-on Documentation
+
+After installing and activating the Hole Filler add-on you must type ?hf in the chat. This step is very important and this will give you the tools or items needed to use and customise the add-on.
+
+More spesifically you will get two items, Hole FIller and Hole Filling Setting. Simply throw the Hole Filler item into any crater, and it will quickly fill the space with blocks.
+
+This add-on offers extensive customization options,
+
+- multiple animations for the filling process, allowing you to choose your favorite style.
+
+- ability to customise the hole filling time or speed.
+
+- this add-on will automatically detect which block to fill, but you can also select any specific block you wanna fill.
+
+Note: The hole-filling logic may contain some bugs. Please report any issues you encounter, and if this pack receives your support, Ill work to improve the logic further!
+
+The idea for this add-on is inspired by a famous java mod called Hole Filler mod!
+
+Download & Support Me!
+
+Direct download is available but if you want to support me, you can download from here:
+
+Download & Support Me
+
+Feel free to directly download, but if you like it feel free to donate & support me:
+
+Donate Here
+
+Community Discord
+
+Need assistance or have questions? Join our community on Discord.

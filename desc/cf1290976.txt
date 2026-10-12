@@ -1,0 +1,5 @@
+This Lamborghini model is an evolution of my modeling style, choosing less cubes and more detail to be portrayed through the texture. This Add-On is well optimized, with a total cube count under 325. Thank you to JannisX11 for entity wizard base vehicle code. The car does fit one passenger and one driver, and the speed is low enough to be controlled on mobile easily.
+
+This Addon utilizes my most up to date code, with working sounds and vehicle climbing animations, alongside steering wheel angle corrections that I was previously unable to make work (Thank you to sk8torad3 https://mcpedl.com/user/sk8torad3/ for helping me fix the angles)
+
+This addon consists of 14 Color and Roof variations, coinsiding with the 20 roadster copies and 20 coupes produced in 2017, some of which are shown here:

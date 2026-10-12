@@ -1,0 +1,85 @@
+Description
+
+Backpacked Armor is a resource pack for Minecraft Bedrock Edition that adds custom backpack models to armor, enhancing the visual experience of your gameplay.
+
+This pack is purely cosmetic backpacks do not provide storage or gameplay functionality, but are designed to improve immersion for survival, adventure, and roleplay.
+
+Features
+
+Adds multiple unique backpack variants to armor
+
+Each variant has its own theme and detailed design
+
+Perfect for:
+
+-
+
+-
+
+- survival gameplay
+
+- cinematics / videos
+
+- roleplay & storytelling
+
+Backpack Variants
+
+Each armor set has its own style:
+
+Slasher compact & tactical
+
+Miner rugged with mining gear
+
+Archer equipped with a quiver and light gear
+
+Explorer travel and exploration equipment
+
+Builder packed with construction tools
+
+Farmer farming utilities and light storage
+
+Visual Details
+
+Each backpack includes small immersive elements such as:
+
+- themed tools & equipment
+
+- additional accessories (bottles, tools, etc.)
+
+- a style that stays vanilla-friendly
+
+Notes
+
+This is a resource pack, not an addon
+
+No inventory or gameplay features are added
+
+Only modifies the appearance of armor
+
+GO TO "FILES" TAB TO CHOOSE BETWEEN "WITH ARMOR" OR "WITHOUT ARMOR" IF YOU ARE IN CURSEFORGE
+
+Changelog v1.2 (Updated)
+
+New Content
+
+Added 4 new backpack variants:
+
+- Archer
+
+- Explorer
+
+- Builder
+
+- Farmer
+
+Fixes & Improvements
+
+- Fixed issue with with armor variant (copper armor was invisible)
+
+- Updated armor stand model to better match player proportions
+
+- Backpacks are now visible when armor is placed on armor stands
+
+- Fixed issue where leather backpack variants changed color when dyed armor was applied
+
+- Fixed texture glitch when applying armor trims

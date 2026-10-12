@@ -1,0 +1,25 @@
+1.19 Panorama with Shaders [Day] (Bedrock)
+
+This is a really simple Resource Pack that adds shaders to the original panorama.
+
+Click here if you want to download the Night Edition.
+
+The seed was discovered by the Minecraft@Home team.
+
+- Seed: -1696067516
+
+- Text Seed: thewildupdate
+
+- Coordinates: X=3820.872 Y=67.868 Z=553.455
+
+- Version: Minecraft Java Snapshot 22w15a
+
+The shaders used are the Complementary Reimagined Shaders.
+
+Note: GUI not included.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+- Feel free to include this resource pack in your mod pack or server.
+
+- If you wish to use this pack in any form of content, please credit with a link to the original PlanetMinecraft/Modrinth/CurseForge page where you can.

@@ -1,0 +1,240 @@
+Kaleidoscope Nether (Unoffical)
+
+Requires Minecraft Version 26.3+
+
+Port Permission
+This add-on is an unofficial Bedrock port of Kaleidoscope Nether, originally developed for Minecraft Java Edition by BmtUltra.
+
+The original Kaleidoscope Nether project is distributed under the MIT License, which permits modification and redistribution under its terms. Special thanks to the Kaleidoscope Nether team and the Kaleidoscope Cookery team for creating the original mods!
+
+Kaleidoscope Nether expands Kaleidoscope Cookery with a large collection of Nether-themed foods, ingredients, crops, mob drops, cooking recipes, tools, furniture, and special items.
+
+Explore the Nether for new ingredients from Piglins, Hoglins, Ghasts, Striders, Blazes, Wither Skeletons, Magma Cubes, and more. Grow new Nether crops such as Crimson Fruit, Warped Fruit, Poisonous Fruit, and Soul Peppers, then use Cookery equipment to turn them into a wide variety of dishes.
+
+The add-on also includes unusual mechanics such as throwable Blaze Hearts, the Blowgun, Primitive Machete, Ghast Pendant, Star Dust, teleporting foods, placeable dishes and drinks, and Nether-specific cooking equipment.
+
+For recipes, farming information, mob drops, special item behavior, preparation instructions, and explanations of the add-ons features, check the Nether section of the in-game Kaleidoscope Cookery Guidebook.
+
+REQUIRED DEPENDENCY and PACK ORDER
+
+You need Kaleidoscope Cookery for this add-on to work, v1.0.7 or Newer is required!! Download it HERE.
+
+Please put Kaleidoscope Nether ABOVE Kaleidoscope Cookery for best results!
+
+**YOU MAY HAVE TO CREATE THE WORLD, THEN LEAVE AND GO BACK TO WORLD SETTINGS TO GET THIS ORDER TO WORK CORRECTLY**
+
+Guidebook:
+
+The Kaleidoscope Nether Guidebook is contained within the Kaleidoscope Cookery Guidebook.
+
+All the new blocks and items:
+
+Click spoiler below to see a list of all foods and blocks added:
+
+All the new blocks and items:
+
+Click spoiler below to see a list of major foods, ingredients, blocks, and equipment added:
+
+Crops & Farming
+
+- Crimson Fruit
+
+- Warped Fruit
+
+- Poisonous Fruit
+
+- Soul Pepper
+
+- Nether Caterpillar
+
+Raw Foods & Ingredients
+
+- Blaze Heart
+
+- Ghast Meat
+
+- Ghast Tentacle
+
+- Ghast Hide
+
+- Gilded Fragment
+
+- Ham
+
+- Ham Slice
+
+- Hoglin Hide
+
+- Hoglin Tusk
+
+- Raw Piglin Meat
+
+- Raw Strider Meat
+
+- Strider Rock Shell
+
+- Wither Rib
+
+- Glowing Fruit
+
+- Star Dust
+
+Foods
+
+- Black Apple Salad
+
+- Blaze Soup
+
+- Blazing Kabob
+
+- Braised Lion Head
+
+- Braised Pork Rice
+
+- Braised Strider
+
+- Cantonese Rice Noodle Roll
+
+- Caramel Nether Caterpillar
+
+- Caramel Nether Caterpillar Rice
+
+- Carrot & Pork Rib Soup
+
+- Chongqing Noodles
+
+- Cooked Piglin Meat
+
+- Cooked Strider Meat
+
+- Couples Lung Slice
+
+- Crimson Kabob
+
+- Crimson Magma Stew
+
+- Crimson Salad
+
+- Everlasting Flame Steak
+
+- Forgetfulness Soup
+
+- Fruit Platter
+
+- Garlic Oysters
+
+- Ghast Kabob
+
+- Ghast Pasta
+
+- Ghast Pudding
+
+- Giant Beast Croissant
+
+- Gilded Barbaric Roast
+
+- Glowing Kabob
+
+- Glowing Pudding
+
+- Glowing Salad
+
+- Glowing Soup
+
+- Golden Kabob
+
+- Golden Roast
+
+- Ham Yogurt
+
+- Hoglin Tusk Braised Meat
+
+- Lava Jelly
+
+- Lava Roasted Chicken
+
+- Luosifen
+
+- Magma Cream Pudding
+
+- Magma Cream Soup
+
+- Magma Cream Stir Fry
+
+- Magma Cream Stir Fry Rice
+
+- Magma Sweet and Sour Pork
+
+- Mapo Tofu
+
+- Mapo Tofu Rice
+
+- Nether Caterpillar Sashimi
+
+- Nether Fries Platter
+
+- Nether Reed Stew
+
+- Pepper Pork Belly Chicken Soup
+
+- Poisonous Ghast Roast
+
+- Poisonous Soup
+
+- Roasted Ghast Tentacle
+
+- Roasted Ham
+
+- Roujiamo
+
+- Ruby Steak
+
+- Sauerkraut Fish
+
+- Soul Glazed Roast
+
+- Soul Lamb Chop
+
+- Soul Pepper Stir Fry
+
+- Soul Return Rice
+
+- Soul Soup
+
+- Soul Stir Fry Meat
+
+- Soul Stir Fry Meat Rice
+
+- Soul Strider Kabob
+
+- Spicy Hoglin Ramen
+
+- Spicy Pot
+
+- Spicy Pot Rice
+
+- Star Ghast Pasta
+
+- Star Stew
+
+- Star Stew Meat
+
+- Strider Nether Wart Stew
+
+- Strider Shell Stir Fry
+
+- Warped Cake
+
+- Warped Hoglin Tenderloin Stew
+
+- Warped Kabob
+
+- Warped Salad
+
+- Wither Bone Soup
+
+Drinks
+
+- Soul Brandy
+
+- 

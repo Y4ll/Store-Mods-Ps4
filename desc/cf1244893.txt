@@ -1,0 +1,77 @@
+To get started, craft a wand from a stick. Next, craft a regular bubble solution from an empty glass bottle, sweet berries, and a dye of choice. Bubbles come in all 16 colors! What's more, bubbles also come in glow-in-the-dark variants! Simply substitute glow berries for sweet berries.
+
+Recipes:
+
+Wand
+
+<figure class="image"></figure>
+
+Bubble Solutions
+
+Regular Bubbles
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+Glowing Bubbles
+
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+<figure class="image"></figure>
+
+How to Use:
+
+- Equip the bubble solution into your off hand, the wand in your main hand. When done correctly and the bubble wand is selected, the 'dipping' animation will play.
+
+<figure class="image image_resized align-center"></figure>
+
+2. The longer you hold, the bigger the bubble gets! But don't blow them too big, or they pop.
+
+<figure class="image image_resized align-center"></figure>
+
+3. Leash them to get balloons!
+
+<figure class="image image_resized align-center"></figure>
+
+4. Target an entity while blowing to have the bubbles swarm them relentlessly!
+
+<figure class="image align-center"></figure>
+
+For More Awesome Content...
+
+For fixes, updates, and other content, follow me on discord and patreon!
+
+Please share your thoughts and report bugs here too!
+
+<figure class="image image_resized align-center"></figure>
+
+Support me on Patreon!
+
+Join my Discord!

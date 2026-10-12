@@ -1,0 +1,443 @@
+TerraNova add-on works for Minecraft Bedrock version 26.10+ and higher.
+
+The TerraNova add-on explores another world, which fantastical elements and many mysteries bloom in the world of Terra. This will focus on adding those things to the world of Minecraft by with new items, blocks, mobs, equipment, armours, world generation, structures, and more!
+
+Development Trailer:
+
+Currently outdated.
+
+Fan Trailer:
+
+Currently unavailable
+
+Latest TerraNova Video:
+
+Mobs:
+
+Creatures
+
+Ammonite
+
+Health Points: 32 ( 16)
+
+Behaviour: Neutral
+
+Mob Type:
+
+- Animal
+
+- Aquatic
+
+Attack Strength: 5-10 ( 2.5-5)
+
+Spawn:
+
+- Cold Ocean
+
+- Lukewarm Ocean
+
+- Deep Lukewarm Ocean
+
+- Ocean
+
+- Deep Ocean
+
+- Frozen Ocean
+
+- Warm Ocean
+
+Useable items:
+
+- Raw Cod
+
+- Raw Salmon
+
+- Cooked Cod
+
+- Cooked Salmon
+
+- Tropical Fish
+
+- Bucket of Cod
+
+- Bucket of Salmon
+
+- Bucket of Tropical Fish
+
+- Lead
+
+Atelaiozoic Scarab
+
+Health Points: 40 ( 20)
+
+Behaviour: Neutral
+
+Mob Type:
+
+- Animal
+
+- Arthropod
+
+Attack Strength: 4 ( 2 | weakness effect: 7 seconds)
+
+Knockback Resistance: 30%
+
+Spawn: Arcane Desert
+
+Useable items:
+
+- Raw Rabbit
+
+- Cooked Rabbit
+
+- Rabbit's Foot
+
+- Slimeball
+
+- Spider Eye
+
+- Rotten Flesh
+
+- Sacrificed Flesh
+
+- Cactus
+
+- Cactus Flower
+
+- Lead
+
+Aurochs
+
+Health Points: 40 ( 20)
+
+Behaviour: Neutral
+
+Mob Type: Animal
+
+Attack Strength:
+
+- Baby: 2-4 ( 1-2)
+
+- Adult: 6-12 ( 3-6)
+
+Knockback Resistance:
+
+- Baby: 30%
+
+- Adult: 60%
+
+Spawn:
+
+- Plains
+
+- Sunflower Plains
+
+- Swamp
+
+Useable items:
+
+- Fibre
+
+- Stalk
+
+- Straw
+
+- Wheat
+
+- Lead
+
+- Bucket
+
+Crow
+
+Health Points: 8 ( 4)
+
+Behaviour: Passive
+
+Mob Type: Animal
+
+Attack Strength:1-2 ( 0.5-1)
+
+Spawn:
+
+- Flower Forest
+
+- Plains
+
+- Old Growth Pine Taiga
+
+- Old Growth Spruce Taiga
+
+- Roofed Forest
+
+- Snowy Taiga
+
+- Sunflower Plains
+
+- Taiga
+
+- May occasionally spawn near players in groups called a murder of crows
+
+Useable items:
+
+- Beetroot Seeds
+
+- Flax Seeds
+
+- Hortensia Seeds
+
+- Melon Seeds
+
+- Pterifarn Seeds
+
+- Pumpkin Seeds
+
+- Wheat Seeds
+
+- Yarrow Seeds
+
+- Bread
+
+- Flax Bread
+
+- Pterifarn Bread
+
+- Soy Bread
+
+Deer
+
+Health Points:
+
+- Baby: 16 ( 8)
+
+- Doe: 16 ( 8)
+
+- Stag: 32 ( 16)
+
+Behaviour: Neutral
+
+Mob Type: Animal
+
+Attack Strength:
+
+- No Antlers: 2-4 ( 1-2)
+
+- One Antler: 3-5 ( 1.5-2.5)
+
+- Two Antlers: 4-7 ( 2-3.5)
+
+Knockback Resistance:
+
+- Baby: 0%
+
+- Doe: 0%
+
+- Stag: 50%
+
+Spawn:
+
+- Birch Forest
+
+- Coniferous Forest
+
+- Deciduous Forest
+
+- Flower Forest
+
+- Forest
+
+- Old Growth Birch Forest
+
+- Old Growth Pine Taiga
+
+- Old Growth Spruce Taiga
+
+- Roofed Forest
+
+- Snowy Taiga
+
+- Taiga
+
+- Velanidia Forest
+
+Useable items:
+
+- Beetroot
+
+- Carrot
+
+- Fibre
+
+- Glow Berries
+
+- Potato
+
+- Short Grass
+
+- Straw
+
+- Sweet Berries
+
+- Tall Grass
+
+- Wheat
+
+- Wild Flax
+
+- Lead
+
+Direwolf
+
+Health Points:
+
+- Wild: 40 ( 20)
+
+- Tamed: 80 ( 40)
+
+Behaviour: Neutral
+
+Mob Type: Animal
+
+Attack Strength:
+
+- Wild: 6 ( 3)
+
+- Tamed: 8 ( 4)
+
+Knockback Resistance:
+
+- Baby: 0%
+
+- Adult: 40%
+
+Spawn:
+
+- Old Growth Pine Taiga
+
+- Old Growth Spruce Taiga
+
+- Snowy Taiga
+
+Useable items:
+
+- Raw Chicken
+
+- Raw Cod
+
+- Raw Beef
+
+- Raw Mutton
+
+- Raw Porkchop
+
+- Raw Rabbit
+
+- Raw Salmon
+
+- Raw Venison
+
+- Cooked Chicken
+
+- Cooked Cod
+
+- Cooked Beef
+
+- Cooked Mutton
+
+- Cooked Porkchop
+
+- Cooked Rabbit
+
+- Cooked Salmon
+
+- Cooked Venison
+
+- Pufferfish
+
+- Rabbit Stew
+
+- Rotten Flesh
+
+- Tropical Fish
+
+- Deer Antler
+
+- Lead
+
+- Shears
+
+- Doedicurus Scutes
+
+- Doedicurus Osteoderms
+
+- Direwolf Armours
+
+Doedicurus
+
+Health Points: 50-100 ( 25-50)
+
+Behaviour: Passive
+
+Mob Type: Animal
+
+Knockback Resistance:
+
+- Baby: 50%
+
+- Adult: 100%
+
+Spawn:
+
+- Eroded Badlands
+
+- Old Growth Birch Forest
+
+- Old Growth Pine Taiga
+
+- Old Growth Spruce Taiga
+
+- Savanna Plateau
+
+- Sparse Jungle
+
+- Swamp
+
+Useable items:
+
+- Hay Bale
+
+- Straw
+
+- Straw Bale
+
+- Wheat
+
+- Lead
+
+- Shears
+
+Grizzly Bear
+
+Health Points: 60 ( 30)
+
+Behaviour: Neutral
+
+Mob Type: Animal
+
+Attack Strength:4 ( 2)
+
+Knockback Resistance:
+
+- Baby: 0%
+
+- Adult: 80%
+
+Spawn:
+
+- Birch Forest
+
+- Coniferous Forest
+
+- Deciduous Forest
+
+- Fo

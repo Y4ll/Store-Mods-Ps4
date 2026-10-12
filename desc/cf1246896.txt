@@ -1,0 +1,53 @@
+Welcome to the Ultimate 2D Pokemon Adventure! Paper Pokemon!
+
+Paper Pokemon will bring the thrill and enjoyment of any Pokemon Add-on but in 2D, based around Paper, Paint and other Art Materials.
+
+When you start a world you will be given a Letter from Professor Oak, Open this letter to choose a Starter Pokemon.
+
+Anything Paper Pokemon Related will be crafted on an Easel.
+
+Around your World you will find Apricorn Trees, interact with these Trees to recieve an Apricorn of the colour shown. Apricorn Trees will grow back an Apricorn after sometime.
+
+You can place an Apricorn on a Crafting Table to get Apricorn Seeds to plant your own Apricorn Trees.
+
+Create Mulch to help your Apricorn Trees grow. Growth Mulch will grow your Trees by one stage, Gooey Mulch will grow you your Trees by two stages.
+
+Cook Apricorns to create Apricorn Dye, this is what will be used to create Paintbrushes.
+
+You can mix Apricorn Dyes to create all the colours.
+
+You will need to craft some Paintbrushes before you do anything else. Just change the colour of the Dye to change the colour of the Paintbrush.
+
+Create Coloured Paper using Paper and Paintbrushes.
+
+With the Coloured Paper craft your PokeBalls
+
+Catching Pokemon is simple, throw your chosen PokeBall at a Wild Pokemon and hope!
+
+Interact with the PokeBall to collect your Pokemon once it is caught.
+
+When you have a Pokemon you can start earning Experience Points by using your Pokemon to Fight Wild Pokemon.When you send out a Pokemon they will automatically look for a Wild Pokemon to fight, you can change this by interacting with your Pokemon and choosing the "Follow" button.
+
+When a Wild Pokemon is defeated it will drop an Experience Candy, you can then use this Candy to give yourself Experience Points.
+
+When you have 20 Experience Levels you can Evolve your Pokemon.20 Levels will be taken from you when you choose to evolve your Pokemon
+
+Some Pokemon require an Evolution Stone to Evolve, for this you will have to farm Pokestops for Painting Stones, Paint a Painting Stone with different Paintbrushes to create an Evolution Stone.
+
+If your Pokemon faints during a Battle you can use a Max Revive to fully Heal it back to full health.
+
+Healing a Pokemon does not require an Easel
+
+When exploring your World looking for Pokemon you will come across PokeStops. Interact with them to earn some Materials for Crafting PokeBalls, they will reset after 5 minutes.
+
+As well as PokeStops you will be able to find PokeGyms scattered around your world.
+
+When you interact with a PokeGym you will get some useful items just like a PokeStop. If the PokeGym has a Pokemon image above it then you can interact to start a Pokemon Raid.
+
+The Raid Pokemon will have more HP and more ATTACK so you may need more then one Pokemon to defeat it, if you do you will recieve that Pokemon as a reward with a high chance of a Shiny as well a good amount of reward loot.
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on
+
+Achievement Compatible

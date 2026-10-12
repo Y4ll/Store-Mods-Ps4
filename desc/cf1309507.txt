@@ -1,0 +1,40 @@
+This pack is for add-on creators!
+
+If you are an add-on creator and would like to add Dynamic Lighting to your pack,
+
+then you should use this add-on API.
+
+To use this API, you just need to put the pack on your world,
+
+and you need to initialize your dynamic lighting items in your pack with an API file listed before the downloads.
+
+This API allows your Entities and Items to give off dynamic lighting without much hassle.
+
+By default: enchanted items give off a light of 4.
+
+This is all you have to do in your script to register items/entities.
+
+The lightLevel parameter can only be set from 1-15.
+
+Setting the offhand parameter to true will make it where you can
+
+swap the item between your mainhand and offhand by crouching.
+
+Be careful! This will only transfer the stack amount data due to limitations.
+
+This API also supports dropped items now starting from v1.3.0.
+
+Setting the sendError parameter to false will make the pack not send the error if this pack isn't loaded.
+
+API files:
+
+JavaScript
+TypeScript
+
+Credits to LightyIsReal for the pack icon!
+
+There is a pack that already utilizes this API, and it's called Simple Dynamic Lighting.
+
+There is also an Example Pack that shows how to use the API.
+
+If you need help, or just want to keep up with me, here's my discord link: Edds' Addons

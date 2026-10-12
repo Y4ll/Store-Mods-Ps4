@@ -1,0 +1,3 @@
+Classic Iron Chests is a port of the Java 1.7.10 mod that adds chests of various sizes, this addon only adds the chests from the original version.
+
+LINK TO THE ORIGINAL MOD: https://www.curseforge.com/minecraft/mc-mods/iron-chests

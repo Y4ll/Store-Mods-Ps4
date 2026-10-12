@@ -1,0 +1,53 @@
+Disclaimer: Only one miraculous is implemented right now (The Ladybug-Miraculous), I don't know if and when I will implement the others, but I can only guarantee that I probably will make the cat-miraculous someday, since this addon would otherwise feel incomplete for me. (Don't ask me when please, after working on this non-stop the last while, constantly slamming my head into a wall because I can't figure something out, I feel pretty burned out)
+
+2. Disclaimer: I recommend making a backup of your world just in case I messed something up. This addon is very buggy right now.
+
+So one day I was messing around with the /camera command in Minecraft: Bedrock Edition. After messing around with it a lot, it ended up in me making a kind of animation for the player, and that spiraled into me making a full blown addon for the tv show "Miraculous: Tales of Ladybug & Cat Noir". When making this addon, I tried to concentrate on quality over quantity, fleshing out all the abilities and at the same time trying to also maintain a vanilla feel and the vanilla rules. (So you won't see them random 64x64 items here, or thousand cosmetics)
+
+(You also don't need to have a deep knowledge of miraculous, or even know it, I tried to hold it down to basic level and the first season, and every functionality is explained through descriptions)
+
+Features:
+
+- A rather expensive crafting recipe for the Ladybug-Miraculous as seen here:
+
+- Being able to set your mask height, so it fits your skin
+
+- Two full blown big animations when transforming or using the Lucky-Charm :D
+
+- The ability to skip said animations :(
+
+- A fully functional yoyo that you are able to throw or defend with
+
+- A Lucky-Charm ability that is able to summon 8+ different Lucky-Charms. It depends on your surroundings and your circumstances on what it will summon. (I've also tried to give each one a unique functionality and purpose, throwing my own ideas and lucky charms directly based on the show into the mix)
+
+- Yes, this works for mobile
+
+Lucky-Charm:
+
+I've spoilered this section just in case if you want to find them yourself. This just goes over each lucky-charm except some secret ones:
+
+Like I said, I tried to make them all unique, and some of these really took me a week or two just to implement on their own:
+
+Sword: This is the default lucky-charm you get when no condition is active. It's just a sword. It hits stuff. (Inspired by the swords often summoned by evil versions of ladybug in the show)
+
+Candy-Apple: Eating this Apple regenerates your health! It can be summoned by being low on health. (Inspired by the Candy-Apple used by ladybug from the episode "Dark Cupid")
+
+Axe: An axe on the level of netherite. It can be summoned by being near a log.
+
+Pickaxe: A pickaxe on the level of netherite. It can be summoned by being near an ore.
+
+Fertilizer: A fertilizer that can grow plants instantly in a 3x3 radius. It can be summoned by being near a crop.
+
+Powerstrip: A powerstrip that can be used as a second makeshift yoyo, so you can attack with two yoyos at once. It can be summoned by having your throwing yoyo active while activating the lucky charm. (Inspired by the lucky-charm from the show summoned in "The Puppeteer")
+
+???: This is one of the secret ones I talked about. I'll just give you this hint: You have to be nearby a vanilla block with a certain function.
+
+???: gun? gun?? gun??? gun.
+
+When there are monsters nearby, you activate a special function that lets you be able to select between multiple lucky-charm-weapons! (Since I could never evaluate a combat situation properly) These being:
+
+Sword: Because you are likely to not need an axe right now when meeting monsters in a forest, you can select the sword from before as an option.
+
+Rocket-Launcher: A rocket-launcher which lets you fire fireballs that ignite monsters. (Also inspired by a lucky-charm that is often summoned by evil ladybug versions in the show)
+
+Mirror: A mirror that lets you reflect the sun into enemies faces, blinding th

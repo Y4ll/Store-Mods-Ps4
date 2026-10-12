@@ -1,0 +1,17 @@
+About:
+Do you hate Minecraft's default light UI? Do you hope Mojang adds new themes to the game? This pack can change the user interface from Minecraft's default UI to a dark theme UI. Enjoy your experience!
+
+Features:
+- Changes the game UI into a dark theme
+- Makes the game UI more fancy
+- Supports Java & Bedrock versions
+Note:
+- If you are using another resource or texture pack, make sure you are activating the pack above the resource or texture pack
+- Make sure you download the latest version for a better experience
+
+Credits:
+- FeRaSs1454, the owner
+- ashyleafie, the partner
+
+Download for Java Edition
+Join our Discord for more support [Discord]

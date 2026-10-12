@@ -1,0 +1,17 @@
+This texture changes the search system, creating a "fuzzy search" that makes every search more convenient.
+
+Better Search RP supports all Vanilla Items, in:
+
+- ENGLISH (US)
+
+- BRAZILIAN PORTUGUESE
+
+Other cool things:
+
+- Works in Singleplayer, Multiplayer and Realms.
+
+- No need for additional addons or dependencies.
+
+- Compatible with PC and Mobile interface.
+
+- 100% FREE

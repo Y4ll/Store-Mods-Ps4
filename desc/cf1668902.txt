@@ -1,0 +1,19 @@
+Sneak + break a log to fell the whole tree instantly no more punching every block one at a time. Works on all vanilla logs (including stripped variants, crimson/warped stems, and pale oak), and automatically sweeps away the surrounding leaves so you're not left with a floating canopy.
+
+Bundled in the same pack is a matching Crop Capitator: sneak + break a crop and every connected crop of the same type nearby gets harvested with it wheat, potatoes, carrots, beetroot, nether wart, sweet berries, melons, pumpkins, cocoa, torchflower, and pitcher pods are all supported.
+
+Features:
+
+- Instant tree felling via 26-directional block search (catches diagonal branches, not just straight trunks)
+
+- Automatic leaf clearing in a configurable radius around each log
+
+- Same-type crop chain harvesting with slope-aware detection (handles crops on uneven farmland)
+
+- Fully script-API driven (@minecraft/server 1.17.0) no resource pack required, safe to run alongside other addons
+
+- Configurable limits: max logs/crops per swing, search radius, leaf clear radius, and an optional "require correct tool" toggle (axe for trees, hoe for crops)
+
+- Lightweight and reliable capped search radii and per-swing limits keep it from lagging on huge builds or farms
+
+Requirements: Minecraft Bedrock 1.21.50+, Beta APIs / @minecraft/server scripting enabled.

@@ -1,0 +1,91 @@
+One Punch Tree (Tree Capitator) | V3.2.0
+
+One Punch Tree is a Tree Capitator addon for Minecraft Bedrock Edition. Chop the bottom log of any tree and the whole thing falls with full enchantment support, per-player settings, and zero lag.
+
+The Ultimate Tree Capitator Experience for Minecraft Bedrock! (Compatible with 1.21.300+ and Realms)
+
+One Punch Tree V3.2 adds four distinct breaking modes with real tick-accurate animations, a streamlined single-screen settings menu, and internal performance improvements.
+
+WHAT'S NEW IN V3.2.0
+
+Choose how your trees fall from instant destruction to a cinematic falling animation all configurable per player.
+
+Breaking Modes (New!)
+
+- Instant: All blocks break as fast as possible. Classic behavior, zero delay.
+
+- Chopping: Blocks break one by one, bottom to top. Satisfying and immersive.
+
+- Layer: Breaks floor by floor with a short pause between each Y level.
+
+- Falling Tree: Leaves strip away first (top to bottom), then the trunk collapses simulating a real tree falling.
+
+In-Game Settings Menu
+
+- Breaking Mode: Select your preferred mode from a dropdown no submenus needed.
+
+- Animation Speed: Control how fast animated modes play out (120 ticks per block).
+
+- Toggle Options:
+
+- Break Leaves: Turn automatic leaf destruction ON or OFF.
+
+- Particles: Turn chopping particle effects ON or OFF.
+
+- Silk Touch Leaves: Choose if leaves drop as blocks or disappear naturally.
+
+- Configurable Limits:
+
+- Max Horizontal Spread: 116 blocks
+
+- Max Blocks Up: 164 blocks
+
+- Max Blocks Down: 010 blocks
+
+- Max Total Blocks: 1002000 blocks
+
+- Reset to Defaults: One toggle at the bottom of the menu restores all settings instantly.
+
+Toggle Mode
+
+- How to Toggle: Hold an Axe, Sneak + Right-Click in the air.
+
+- Visual Feedback: An Actionbar message tells you if the Tree Capitator is ENABLED or DISABLED.
+
+- Freedom: Once enabled, chop trees standing up, running, or flying!
+
+Advanced Durability & Enchantments
+
+- Silk Touch: When active, leaves drop as blocks instead of disappearing configurable via the Silk Touch Leaves toggle.
+
+- Unbreaking IIII: Fully calculated to match vanilla formulas.
+
+- "Save My Axe": The addon automatically stops chopping if your axe has only 1 durability left.
+
+Core Features
+
+- ZERO LAG Technology: Powered by the Job System (system.runJob) breaks trees in batches of 16 blocks per tick.
+
+- Smart Item Attraction: Dropped items are gradually pulled toward the base of the stump for a smooth, natural collection effect.
+
+- Universal Compatibility: Works with ANY Axe (Vanilla, Netherite, Custom Addons) and ANY Tree (Cherry, Mangrove, Nether Stems, custom addon trees).
+
+How to Use (V3.2)
+
+- Get the Config Item: Received automatically on first join.
+
+- Toggle Mode: Hold your Axe, Sneak + Right-Click. You will hear a sound and see "Enabled".
+
+- Chop: Break the bottom log of any tree. The whole thing falls!
+
+- Configure: Right-Click the config item to adjust your breaking mode, speed, and limits.
+
+Support / Apoyo
+
+One Punch Tree is 100% free.
+
+Creating quality code takes time. If you like the add-on:
+
+Support us on Ko-fi (Click Here)
+
+Works on Minecraft Bedrock 1.21.300+

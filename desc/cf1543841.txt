@@ -1,0 +1,33 @@
+Description:
+
+Are you looking for an add-on that allow you have to stack your totems of undying without lost slot in your inventory? You are in the correct place. :3
+
+Showcase
+
+How works
+
+Stacking
+
+only interact anywhere with a totem of undying, select "stack more totems" and you can stack all totems in your inventory (No detect totems in your offhand).
+
+Unstacking
+
+Only interact anywhere, select "Unstack totem", after you choose what amount you want Unstack and spawn a totem ahead you. (Please, no make this action in top of the dimension, or you lost your totem unstacked).
+
+Features
+
+V2.0.0
+
+- New feature: "Fast un-stacking", now can stack and Unstack totems easier.
+
+- Better coding for this addon.
+
+V1.1.0
+
+- Now support achivements, so you can't lose your achiv. in your worlds.
+
+- Now support Vibrant visuals and you can play with that feature.
+
+Community
+
+This add-on is limited, so, you can give me a feedback in the comments for improve and add features

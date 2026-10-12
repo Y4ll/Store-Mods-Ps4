@@ -1,0 +1,7 @@
+Real Tree Capitator allows you to break down entire trees quickly and efficiently.
+
+How to Use
+
+- Hold an axe before chopping the tree.
+- Always chop the tree from the bottom, not from the top.
+- Real Tree Capitator only detects and breaks floating trees. Trees that are still connected to the ground will not be affected.

@@ -1,0 +1,39 @@
+Blaze Armor:
+
+-Fire Thorns
+
+Protection:20
+
+Durability: Medium
+
+TOOLS:
+
+Sword
+
+-Damage: 6
+
+-Durability: 240
+
+Axe
+
+-Damage: 5
+
+-Durability: 240
+
+Pickaxe
+
+-Damage: 4
+
+-Durability: 240
+
+Hoe
+
+-Damage: 4
+
+-Durability: 240
+
+Shovel
+
+-Damage: 3
+
+-Durability: 240

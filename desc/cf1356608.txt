@@ -1,0 +1,23 @@
+Crafting:
+
+How To Use:
+
+- Craft the scanner item.
+
+- Use the item inside of a cave.
+
+- It will scan the sorrounding area for ores.
+
+- Then it will display the ores found and if there are monster threats.
+
+Images:
+
+Starting Scanning
+
+Finding Ores
+
+Contact Me:
+
+Contact me if you encountered problems or bugs.
+
+Discord: https://discord.gg/DZ7Q2ugEeg

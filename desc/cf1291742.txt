@@ -1,0 +1,9 @@
+Features:
+
+44 skins
+
+The Hive style recognizable pixel aesthetics
+
+Optimized colors do not merge in mini-games
+
+Clear ".mcpack" - just install and play

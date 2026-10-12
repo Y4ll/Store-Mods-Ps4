@@ -1,0 +1,77 @@
+OP Loot Kit (One-Time) | Minecraft Bedrock / MCPE
+
+Achievements Friendly Automatic One-Time Kit OP Netherite Gear Elytra All Enchantments: Included
+
+About This Addon
+
+OP Loot & Starter Kit is a Minecraft Bedrock addon designed to provide players with a powerful starter kit when they join or spawn in the world for the first time.
+
+The addon is ideal for survival worlds where players want a strong beginning while still maintaining balanced gameplay.
+
+Features
+
+- One-time starter kit for each player (multiplayer supported)
+
+- Full Netherite armor and tools
+
+- Fully enchanted weapons including sword, bow, and trident
+
+- Essential survival items such as food, torches, map, compass, and buckets
+
+- Elytra with fireworks for early mobility
+
+- Kit is granted only once and will not repeat after respawn or rejoining
+
+- Fully achievements friendly
+
+Kit Contents
+
+The starter kit includes:
+
+- Netherite armor set
+
+- Netherite tool set
+
+- Netherite sword, bow, trident, and shield
+
+- Cooked food and golden apples
+
+- Map and compass
+
+- Survival blocks and materials
+
+- Torches, ender pearls, and obsidian
+
+- Elytra with fireworks
+
+Note - To Get All Enchantments, Hold All items in hand once. They will be enchanted automatically.
+
+How It Works
+
+When a player joins or spawns in the world for the first time, the addon automatically grants the starter kit.
+
+After the kit has been received, the player is marked as already claimed, ensuring the kit is never given again even after respawning or rejoining the world.
+
+Multiplayer Support
+
+- Each player receives their own one-time kit
+
+- Fully compatible with multiplayer worlds, realms, and servers
+
+- No commands or cheats required
+
+- Help Me -
+
+Achievements Compatibility
+
+This addon is designed to remain fully achievements friendly.
+
+It does not change game modes, apply constant effects, or use mechanics that would disable achievements in survival worlds.
+
+Creator
+
+Sycure Gaming
+
+Dont forget to check my YouTube channel: @SycureGaming
+
+Enjoy the addon and start your survival world with a powerful loot kit.

@@ -1,0 +1,21 @@
+Night Vision Universal
+
+Explore dark caves and survive nights clearly without torches or potions using this client-side FullBright behavior and resource pack setup.
+
+Features
+
+- No Effects/Commands Needed: Works without potion effects or commands.
+
+- Universal Compatibility: Works in personal worlds, Realms, and most multiplayer servers on Windows, Android, and iOS.
+
+- Enhanced Visuals: Improves cave, nighttime, and underwater visibility while reducing rain and distance fog without breaking block colors or achievements.
+
+Showcase
+
+Socials
+
+Terms of Use
+
+- You Are Allowed To: Use the pack in personal worlds and compatible multiplayer servers; showcase it in videos or streams with proper credit; edit it for personal use and share the official project page link.
+
+- You Are Not Allowed To: Re-upload, redistribute, or sell the pack; claim the pack as your own or edit and publicly re-share it; use monetized download links or reuse its logo and assets without permission.

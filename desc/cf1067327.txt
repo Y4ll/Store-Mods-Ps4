@@ -1,0 +1,15 @@
+Do you want to get the dropped item instantly whenever you break a block or kill a mob? Well this addon is suited for you, this addon functions just like that.
+
+The addon uses the non-experimental version of the gametest scripts meaning it does not break when minecraft updates. However I would still be updating it for further improvements.
+
+How To Use:
+
+- Import the addon in the behavior pack and then open your world.
+
+- Break some blocks or kill mobs you will notice their loot will go to you.
+
+This addon will not work for the Wither and The Ender Dragon.
+
+Demo Video:
+
+Visit my discord for more addon: https://discord.gg/TchBCRcaaG

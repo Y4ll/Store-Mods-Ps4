@@ -1,0 +1,11 @@
+This addon does not add new trees! These are Vanilla Trees and can be grown from vanilla saplings!
+
+The Birch Tree:
+
+The Jungle Tree:
+
+The Oak Tree:
+
+The Acacia Tree:
+
+The Swamp Tree:

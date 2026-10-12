@@ -1,0 +1,19 @@
+Medieval Structures is a Minecraft Bedrock add-on that adds dozens of new medieval structures to your world, powered by our own Feudal Furniture add-on!
+
+These structures are designed to enrich your world in a more natural way. Currently, many structure add-ons suffer from overcrowded builds, excessive loot, and designs that dont fit Minecrafts vanilla style. This add-on is made to fix all of that.
+
+- Loot: Reduced by design. The best loot youll find is arrows, iron, or basic food. This is fully intentional to preserve the natural vanilla resource progression.
+
+- Design: Fully vanilla-friendly. Structures are small, compact, but carefully decorated and built using blocks from the Feudal Furniture add-on.
+
+- Frequency: Very low. These structures are meant to complement the world, not replace it. They blend into their surroundings by embedding into mountains, mimicking trees, or appearing in small, hidden areas across different biomes.
+
+Main Structures
+
+Dependencies
+
+For Medieval Structures to work, Feudal Furniture is required (Add-On available on this page)
+
+Downloads at TRMC Add-Ons
+
+- Download Medieval Structures.mcaddon

@@ -1,0 +1,83 @@
+TreeSnap - Instant Tree Harvesting
+
+Efficient tree chopping with automatic replanting for Minecraft Bedrock Edition
+
+TreeSnap simplifies forestry by automatically harvesting entire trees when you break a single log block. All logs and leaves are removed instantly, drops are generated with proper enchantment support, and a sapling is automatically replanted at the tree base.
+
+Core Features
+
+Instant Tree Harvesting
+Break one log and the entire tree falls. All connected logs and leaves are removed automatically using an optimized breadth-first search algorithm.
+
+Full Loot Generation
+All items drop exactly as they would in vanilla Minecraft. Logs, saplings, sticks, and apples are spawned at their block locations for easy collection.
+
+Enchantment Support
+Fortune increases sapling and apple drops from leaves. Silk Touch preserves leaf blocks instead of generating drops. All vanilla mechanics are respected.
+
+Automatic Replanting
+The correct sapling type is planted at the tree base after harvesting, ensuring sustainable forestry.
+
+Universal Tree Support
+Works with all vanilla tree types: Oak, Spruce, Birch, Jungle, Acacia, Dark Oak, Mangrove, Cherry, Crimson, and Warped.
+
+Technical Details
+
+Performance Optimized
+Handles trees up to 512 blocks with configurable search limits. Uses efficient algorithms to prevent lag on most tree sizes.
+
+Cross-Platform Compatible
+Works on all Bedrock platforms: Windows, Android, iOS, Xbox, PlayStation, and Nintendo Switch.
+
+Script API Implementation
+Built using the official Minecraft Bedrock Script API (minecraft/server 2.3.0), ensuring stability and compatibility.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.21.130 or newer
+
+- Behavior Pack support must be enabled in world settings
+
+- The pack must be activated before creating or loading the world
+
+Installation
+
+- Download the behavior pack
+
+- Import the .mcpack file or place in your behavior_packs folder
+
+- Create a new world or edit an existing world
+
+- Activate TreeSnap in the Behavior Packs section
+
+- Start playing and break any log block
+
+How It Works
+
+When you break a log block, TreeSnap detects all connected logs within a 32-block radius, removes them along with nearby leaves (7-block radius from logs), generates loot using vanilla loot tables with enchantment support, and plants the appropriate sapling at the lowest log position.
+
+Configuration
+
+The addon includes configurable constants for search distance and maximum block limits. Advanced users can modify these values in the script file to customize behavior.
+
+Known Limitations
+
+- Maximum tree size: 512 blocks (configurable)
+
+- Maximum search distance: 32 blocks (configurable)
+
+- Logs must be directly connected (no gaps)
+
+- Custom modded tree blocks are not detected (only vanilla block types)
+
+- Tool durability is consumed only for the first log break
+
+Support
+
+For issues or questions, verify that your Minecraft version is 1.21.130 or newer, the behavior pack is activated in world settings, and you are breaking a log block (not planks or wood blocks).
+
+License
+
+Free for personal use. Modification permitted for personal projects. If you redistribute or reupload this mod, your upload will be subject to takedown and you must provide the official CurseForge download link in your mod description. Redistribution must include proper credit to the original author.
+
+Version 1.0.0 - Built with the latest Minecraft Bedrock Script API for reliability and performance.

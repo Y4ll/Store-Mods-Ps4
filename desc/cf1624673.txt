@@ -1,0 +1,9 @@
+# Acuity Horror Addon
+
+Acuity is a psychological horror mod that adds a lost cousinwhom Verity cannot rememberto the game.
+
+### Features:
+- **New Entity:** Custom Acuity monster model and behavior.
+- **Atmosphere:** Eerie visual blur effects and green-themed horror mechanics.
+- **Custom Audio:** Atmospheric sound effects and scary custom music.
+- **Survival Challenge:** Try to survive against the entity!

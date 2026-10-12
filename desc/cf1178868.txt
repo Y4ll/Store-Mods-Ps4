@@ -1,0 +1,313 @@
+NOTICE: UNAUTHORIZED FILE DISTRIBUTION OUTSIDE OF MCPEDL IS NOT ALLOWED. IF YOURE PLANNING TO MAKE VIDEO OR REVIEW WITH THIS ADDON, GIVE PROPER CREDIT BY LINKING OUR DISCORD SERVER (CAN BE FOUND AT THE END OF THIS PAGE) AND LINKING THIS MCPEDL DOWNLOAD PAGE. DO NOT USE OUR MODELS, CODES, OR ANY ASPECT WITHOUT PERMISSION.
+
+Check out the trailer
+
+Creatures
+
+XS
+
+Callichimaera Perplexa
+
+- Name: Callichimaera Perplexa
+
+- Nature: Peaceful
+
+- Biome: Lukewarm Ocean/Deep Ocean/Cold Ocean
+
+- HP: 4
+
+- Bleed Def: 2
+
+Cruralispennia Multidonta
+
+- Name: Cruralispennia Multidonta
+
+- Nature: Peaceful
+
+- Biome: Dark Forest/Taiga/Jungle
+
+- HP: 5
+
+- Tamable with: Wheat Seeds and Sweet berries
+
+- Trait:
+
+- Warning Call: Emits a special call when near M-XL Creatures
+
+- Paradise Dancer: Male Dances when breeding with Female/ Dances occasionally with Female around
+
+- Bleed Def: 2
+
+Yi-Qi
+
+- Name: Yi Qi
+
+- Nature: Peaceful
+
+- Biome: Taiga/Forest
+
+- HP: 6
+
+- Ability:
+
+- Slow Falling (glide)
+
+- Gatherer: When tamed and not made to sit, Yi-qi will "yield 1-7 berries" every morning when the owner sleep in a bed
+
+- Tamable with: Spider eye
+
+- Bleed Def: 1
+
+Anchiornis Huxleyi
+
+- Name: Anchiornis Huxleyi
+
+- Nature: Peaceful
+
+- Biome: Taiga/Forest/Dark Forest
+
+- HP: 6
+
+- Ability:
+
+- Slow falling (Glide)
+
+- Tamable with: Spider eye and Pumpkin seeds
+
+- Bleed Def: 1
+
+Haikouichthys Ercaicunensis
+
+- Name: Haikouichthys Ercaicunensis
+
+- Nature: Peaceful
+
+- Biome: All Ocean
+
+- HP: 2
+
+- Bleed Def: 5
+
+Hallucigenia Sparsa
+
+- Name: Hallucigenia Sparsa
+
+- Nature: Peaceful
+
+- Biome: Warm Oceans/Lukewarm Ocean/Ocean
+
+- HP: 2
+
+- Ability:
+
+- Damage reflect: Deal 1 Dmg and 8 Bleed to the attacker when directly hit
+
+- Bleed Def: 5
+
+Sharovipteryx mirabilis
+
+- Name: Sharovipteryx mirabilis
+
+- Nature: Peaceful
+
+- Biome: Savanna/Desert/Forest
+
+- HP: 4
+
+- Ability:
+
+- Slow falling (Glide)
+
+- Bleed Def: 1
+
+Dollocaris ingens
+
+- Name: Dollocaris ingens
+
+- Size: XS
+
+- Nature: Peaceful
+
+- HP: 3
+
+- Biome: All Oceans
+
+- Bleed Def: 5
+
+Cretophengodes azari
+
+Adult
+
+- Name: Cretophengodes azari
+
+- Size: XS
+
+- Nature: Peaceful
+
+- HP: 2
+
+- Biome: Swamp/Plains
+
+- Trait:
+
+- Glowing tail
+
+- Bleed Def: 5
+
+Larvae
+
+- Name: Cretophengodes azari larvae
+
+- Size: XS
+
+- Aggressive: XS creatures
+
+- HP: 2
+
+- ATK: 1
+
+- Biome: Swamp/Plains
+
+- Ability: Deal [Slowness 3] and [Weakness 4] for 1 sec every attack
+
+- Bleed Def: 5
+
+Nesonektris aldridge
+
+- Name: Nesonektris aldridge
+
+- Size: XS
+
+- Nature: Peaceful
+
+- HP: 2
+
+- Biome: Warm Ocean/Lukewarm Ocean
+
+- Bleed Def: 5
+
+Didazoon haoae
+
+- Name: Didazoon haoae
+
+- Size: XS
+
+- Nature: Peaceful
+
+- HP: 2
+
+- Biome: Warm Ocean/Lukewarm Ocean
+
+- Bleed Def: 5
+
+Yuyuanozoon magnificissimi
+
+- Name: Yuyuanozoon magnificissimi
+
+- Size: XS
+
+- Nature: Peaceful
+
+- HP: 6
+
+- Biome: Warm Ocean/Lukewarm Ocean
+
+- Bleed Def: 5
+
+Nyctosaurus lamegoi
+
+- Name: Nyctosaurus lamegoi
+
+- Size: S
+
+- Nature: Peaceful
+
+- Biome: Beach, Oceans (Surface)
+
+- HP: 5
+
+- Tamable with: Tropical fish, cod
+
+- Trait:
+
+- Fish Hunter, only do damage to fishes
+
+- Messenger: Can spawn in with a pouch on its neck that drops 1 of any PA creature material or 1 emerald when interacted with
+
+- Bleed: 1
+
+Batrachognathus volans
+
+- Name: Batrachognathus volans
+
+- Size: XS
+
+- Aggressive: XS Insects
+
+- HP: 6
+
+- ATK: 1 (6 for XS insects)
+
+- Tamable: Honeycomb
+
+- Biome: Warm Ocean/Lukewarm Ocean
+
+- Trait:
+
+- Climber: Can Climb vertical surface
+
+- Bleed Def: 1
+
+Chimerarachne yingi
+
+- Name: Chimerarachne yingi
+
+- Size: XS
+
+- Aggressive: XS creatures
+
+- HP: 3
+
+- ATK: 1
+
+- Biome: Jungle
+
+- Trait:
+
+- Tail slicer: Deal [Slowness I] 5 sec to the target]
+
+- Bleed: 1
+
+- Bleed Def: 5
+
+Erismatopterus levatus
+
+- Name: Erismatopterus levatus
+
+- Size: XS
+
+- Nature: Peaceful
+
+- HP: 2 / 5 / 10 (dependent on schooling size)
+
+- Biome: River/Swamp/Lukewarm ocean
+
+Palaeophis casei
+
+- Name: Palaeophis casei
+
+- Size: XS
+
+- Aggressive: XS creatures/Cod/Tropical Fish
+
+- HP: 5
+
+- ATK: 1
+
+- Biome: Warm Ocean/Coral Reef
+
+- Trait:
+
+- Semi-Aquatic
+
+- Let

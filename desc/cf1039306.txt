@@ -1,0 +1,71 @@
+New Shields
+
+Beharvior & Resources Packs Needed
+
+This addon does not disable achievements.
+
+Variants of the base shield for each type of wood have been added!
+
+(You can still craft a standard shield with mixed wood types)
+
+Every 3 blocked hits, performs a sonic attack similar to the Warden.
+
+(Can block the Wardens sonic attacks)
+
+On Melee: On contact burns with Dragon's Fire.
+
+On Projectiles: Shoots a fireball infused with Dragon's Fire.
+
+On Melee: Every 3 blocked hits stun nearby mobs with a vibration.
+
+On Projectiles: Sends a vibration back to the attacker.
+
+On Melee: Burns on contact.
+
+On Melee: Launches mobs into the air.
+
+On Projectiles: Fires a wind charge back to the attacker.
+
+Every 2 blocked hits summons a shulker bullet that protects you.
+
+On Melee: On contact deals damage.
+
+Copper Shield oxidize as durability decreases. Use honeycomb to prevent oxidation.
+
+(Blocking axe attacks remove oxidation, like on copper blocks)
+
+On Wield: lights up the surroundings.
+
+(The higher the oxidation level, the lower the light intensity)
+
+On Melee: When oxidized applies the Oxidation, increasing the attackers damage taken for a few seconds.
+
+(This scales with the oxidation level, boosting damage from 45% up to 75%)
+
+Every 3 blocked hits grants Absorption for a few seconds.
+
+(Also makes piglins neutral, like gold armor)
+
+On Wield: summons an Emerald Vex to protect you.
+
+(Can block magic attacks)
+
+On wield: Increases max health by 2 hearts.
+On block: Every 3 hits regenerates health for a few seconds.
+
+On wield: Increases max health by 4 hearts and temporary protects from fire.
+
+On melee: On contact wither for a few seconds.
+
+The addon is compatible with Actions & Stuff, no setup needed!
+
+Supported Languages:
+English
+Spanish
+Portuguese
+If your language isnt supported, English will be used by default.
+
+Feedback
+If you think any mechanic needs adjustment or have new ideas, feel free to share them!
+
+This addon does not disable achievements

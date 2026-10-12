@@ -1,0 +1,162 @@
+The past has not disappeared. It has left echoes.
+
+on Structures is an addon for Minecraft Bedrock that focuses on rare structures inspired by forgotten eras, lost civilizations, alternate histories, and Minecraft's own past.
+
+Scattered across your survival world are locations that should have been lost to time.
+
+Ancient monuments. Forgotten strongholds. Fossilized ruins. Mysterious machines. And fragments of Minecraft's own history.
+
+Explore them. Discover what remains
+
+on Structures is built around exploration and discovery.
+
+Structures appear naturally and rarely throughout the world, giving you a reason to travel beyond the familiar.
+
+You may find:
+
+Monumental ancient structures
+Fossilized remains from a forgotten world
+Forgotten castles and strongholds
+Hidden structures inspired by Feudal Japan
+Age Of Sail
+Mysterious clockwork sites
+- Echoes of Minecraft's own forgotten past
+
+But these places are more than landmarks.
+
+Some hide dangers. Some hide secrets. And some simply make you wonder how they got there.
+
+PREHISTORIC
+
+Before kingdoms. Before empires. Before recorded history.
+
+The oldest echoes come from a world where the remains of enormous creatures still lie buried across the landscape.
+
+Fossil Discoveries
+
+From small remains to enormous skeletal structures, the prehistoric era leaves behind traces of a world that existed long before civilization.
+
+Giant Ribcage
+
+Titan Ribcage
+
+Fossil Whale
+
+THE ANCIENT WORLD
+
+Civilizations built to outlive their creators.
+
+The ancient world leaves behind some of on's largest and most recognizable structures.
+
+Its enormous structure is built from multiple sections, creating a location designed to feel like a true discovery rather than a simple decorative building.
+
+Structures:
+
+EGYPTIAN PYRAMID
+
+A monumental pyramid rising from the landscape
+
+LIBRARY OF ALEXANDRIA
+
+A legendary center of knowledge brought back into the world of Minecraft
+
+An ancient sanctuary of knowledge filled with forgotten books, scholarly records, maps, and rare treasures. Explore its halls to uncover ancient writings and secrets preserved by the scholars of Alexandria.
+
+SANDSTONE OBELISK
+
+A solitary monument standing as another remnant of the ancient world
+
+ANCIENT NETHER PORTAL
+
+Items:
+
+Explore the Egyptian pyramids and search the treasure chambers for a chance to obtain:
+
+Pharaoh Armor
+
+- + 13 Armor
+
+- Durability: 640
+
+Khopesh Sword
+
+- Attack Damage: 7
+
+- Attack Speed: 1.6
+
+- Durability: 650
+
+- Repair: gold Ingot
+
+GREEK
+
+Explore the ruins of a civilization shaped by mythology, temples, and ancient architecture.
+
+The Parthenon
+
+MEDIEVAL
+
+The medieval echoes bring forgotten fortifications and strongholds into the wilderness.
+
+CASTLE
+
+A rare castle hidden among the natural landscape
+
+MillhouseLarge
+
+BoardedManor
+
+FEUDAL JAPAN
+
+Where silence hides what history forgot.
+
+Explore structures inspired by the architecture and atmosphere of Feudal Japan.
+
+NINJA HOUSE
+
+A secluded structure hidden among forests and bamboo.
+
+Found rarely in:
+Cherry Grove and Bamboo Jungle biomes
+
+This structure has three variants.
+
+GONG
+
+Japan House
+
+Aztec
+
+Explore the temples and ruins of the Aztec world.
+
+Aztec Temple
+
+AGE OF SAIL
+
+When the world opened to the sea.
+
+Explore the age of exploration, trade, and naval power through ships scattered across the world.
+
+From imposing flagships to vessels touched by the supernatural, the Age of Sail brings a maritime chapter to on Structures.
+
+Flagship Giant
+
+Undead Pirate Ship
+
+Flagship Elora
+
+Ship Illager
+
+STEAMPUNK
+
+Not all echoes belong to actual history.
+
+The Steampunk era unfolds along a divergent path, shaped by machinery, industry, and gear-driven mechanisms.
+
+INDUSTRIAL GEAR RUINS
+
+These mechanical ruins have bestowed upon the world a fictional industrial history, woven from steam and the clatter of gears.
+
+MINECRAFT'S LOST ECHO
+
+The past is not limited to human history; some memories belong to Minecraft itself. Before the game we know today, it passed through unfinished ideas, early conce

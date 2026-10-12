@@ -1,0 +1,63 @@
+One Punch Man Addon (Bedrock Edition)
+
+Become the strongest hero in Minecraft! This lightweight script addon grants you the overwhelming power of Saitama, allowing you to defeat any enemy in a single punch and move at god-like speeds.
+
+Unlike other overpowered mods, YOU are in control. This addon uses a unique Hotbar Scaling System that lets you adjust your power level simply by switching slots in your inventory.
+
+Key Features
+
+One Punch Kills: instantly kill any entity you hit. No potion effects neededjust raw power.
+
+Invincibility: You are immune to all damage (Resistance 255).
+
+Infinite Stamina: Never get hungry again (Saturation).
+
+Super Speed & Agility: Run faster than a horse and jump over houses.
+
+No Destruction: This version is "Safe Mode" friendly. You get all the physical powers without accidentally destroying your world or buildings.
+
+How It Works (The Hotbar System)
+
+Your power scales based on which Hotbar Slot you are currently holding. You don't need commands or menusjust scroll!
+
+Slot 1 (Far Left): SERIOUS MODE
+
+Speed: Maximum (God Speed)
+
+Jump: High
+
+Damage: Infinite (Instant Kill)
+
+Defense: Invincible
+
+Slot 5 (Middle): HERO MODE
+
+Speed: Fast
+
+Jump: Medium
+
+Damage: Infinite (Instant Kill)
+
+Defense: Invincible
+
+Slot 9 (Far Right): NORMAL MODE
+
+Power: OFF
+
+Stats: Vanilla / Normal Player
+
+Use this slot when you want to build, trade, or play survival normally.
+
+Installation & Requirements
+
+Download the .mcpack and open it to install.
+
+Apply the Behavior Pack to your world.
+
+IMPORTANT: You must enable Beta APIs in your world settings under "Experiments" for this addon to work.
+
+Credits
+
+Created by: crownbossyt
+
+Don't just survive. Dominate.

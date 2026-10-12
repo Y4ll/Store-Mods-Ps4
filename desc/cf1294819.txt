@@ -1,0 +1,77 @@
+THLanguage Bedrock - Minecraft Bedrock
+
+Minecraft: Bedrock Edition MineGarp ()
+
+(Open Source) MIT License
+
+This project is the most complete and up-to-date Thai Language Resource Pack for Minecraft: Bedrock Edition, created and maintained by the MineGarp (or MineGarp.PED) community. Its goal is to provide the most accurate and natural Thai-language experience for all players.
+
+This project is open source. Everyone can access the source code, use it, and contribute to its development under the MIT License
+
+(Disclaimer)
+
+Mojang Studios Microsoft
+
+This project is a fan-made community project and is not affiliated with Mojang Studios or Microsoft.
+
+(Download)
+
+Releases
+
+(Installation)
+
+: (Setting) -> (Language) -> ()
+
+/ Minecraft 1
+
+: Noto Sans Unicode Font ( JsonUI)
+
+i (Known Issues)
+
+- Unicode (MCPE-166005) - MCPE-224612
+
+(References)
+
+Java Edition :
+
+- Minecraft Wiki () -
+
+- Crowdin (Minecraft) - Minecraft: Java Edition
+
+: AI
+
+& (Compatible Add-Ons & Resource packs)
+
+Add-Ons Resource Pack !
+
+Discord
+
+(Thai Language Add-Ons Support in Marketplace)
+
+- Over Mob Add-On Overtales Studio
+
+- FARMING Add-On Podcrash
+
+- GARDENING Add-On Podcrash
+
+- RPG Skills Add-On Podcrash
+
+- None - :3
+
+(Contributing)
+
+:
+
+- : , Issue GitHub
+
+- (Pull Request): Fork Pull Request
+
+- : Discord
+
+(Font Details)
+
+- MinecraftTenTH () - ImNotSus555
+
+- MinecraftTen () - Mojang Studios
+
+- Noto Sans Thai - (Monotype),

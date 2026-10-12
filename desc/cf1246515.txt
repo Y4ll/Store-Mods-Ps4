@@ -1,0 +1,121 @@
+After a year, a new update of the Newb Complementary Shaders has arrived, bringing them more realistic and similar to the Complementary Shaders in Minecraft Java. They have new features and functions for greater similarity to Java shaders. Give these shaders a try; you won't regret it.
+
+Newb Complementary REIMAGINED
+
+- Day
+
+- Shadows
+
+- Sunrise
+
+- Sunset
+
+- Night
+
+- Night Glow Minerals
+
+- End Ilumination
+
+- End
+
+- UnderWater
+
+- Nether
+
+Comparison
+
+- Here's a comparison of the night sky as it looks in the original Java shader and how it looks in the Newb Complementary Bedrock.
+
+Featured
+
+- End Purple.
+
+- Subpack Low.
+
+- Shiny blocks.
+
+- Colorful vanilla skies.
+
+- Clouds Complementary.
+
+- Realistic water.
+
+- Warm lighting.
+
+- Java-like lighting
+
+- Beautiful sunrises, sunsets and night sky.
+
+- Movement in plants.
+
+- Realistic shadows.
+
+- Wet effect when it rains.
+
+- Acoustics, sun rays and movement under water.
+
+- Sun rays.
+
+- End Complementary.
+
+- Bright minerals.
+
+- Compatible with Android, WIndows and iOS
+
+- Aurora Complementary Reimagined
+
+- Stars Complementary
+
+- Performance improvements.
+
+- Some important details have been clarified
+
+Changes
+
+- New complementary auroras have been added to the sky.
+
+- New colors in the sky, more similar to Complementary Reimagined.,
+
+- Implemented the Low Subpack
+
+- Stars identical to those in the Complementary Shader have been implemented.
+
+- The white pixels in the textures have been removed.
+
+- Glow effect on minerals and glowing blocks.
+
+- The lava has been improved for a more realistic appearance.
+
+- The terrain color has been improved, making it similar to that of the Complementary Shader.
+
+- New Complementary End.
+
+- Itemhand, itemtextured, itemcolor, and actorglint have been added
+
+Notes
+
+- Need Patched Minecraft apk 1.21.100+ or MBLoader.
+
+- Need IPA File in iOS.
+
+- You need BetterRenderDragon for Windows, in case it does not work, use the method of replacing material.bin files with Matject.
+
+- I recommend that you the old version of this shader if you have it installed to avoid errors.
+
+- This shader is only compatible with Android,Windows and iOS
+
+- Use this mcpedl link if you want to share this shader.
+
+- Please do not create another link for this shader.
+
+- This shader may not be supported on some devices, if so tell me about the error on my Discord.
+
+- I will temporarily remove the Unbound and Lite versions as they consume a lot of my time, which I don't currently have.
+
+- I uploaded this shader around this time of year as a Christmas gift to thank everyone who has supported this project from the beginning.
+
+- Credits: Ale
+
+If you want to have better quality content, I invite you to donate your grain of sand.
+
+MERRY CHRISTMAS :D

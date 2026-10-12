@@ -1,0 +1,215 @@
+Lilys Money v3.3.0
+
+Bedrock Economy, GUI Shop, Jobs, and Admin Tools
+
+Lilys Money is a Minecraft Bedrock behavior pack that adds a full scoreboard-based economy system with custom commands, a GUI shop, configurable jobs, money displays, personal settings, and admin tools.
+
+It is made for survival worlds, realms, servers, roleplay worlds, adventure maps, and anything that needs a simple money system that still works with Minecraft scoreboards.
+
+Showcase video:
+https://youtu.be/Z3is4G2NZig
+
+Discord / Support:
+https://discord.gg/mVJmmAuQeX
+
+Important :
+
+Features listed here are for the latest version.
+
+Older versions may not include every feature.
+
+To become an admin, use:
+
+/tag @s add admin
+
+Use /moneyhelp in-game to see all help pages.
+
+the addon does NOT require beta apis since the last updates (v3.3 and after)
+
+Economy System :
+
+Lilys Money stores money using two scoreboards:
+
+money - dollars
+moneycent - cents
+
+Cents are automatically normalized, so values like $1.50, $0.25, and $10.01 work correctly.
+
+Example:
+
+- 150 cents becomes $1.50
+
+- 99 cents stays $0.99
+
+- 100 cents becomes $1.00
+
+This makes the economy simple, readable, and compatible with other scoreboard systems and command blocks
+
+Player Commands :
+
+/balance
+Shows your current balance.
+
+/bal
+Short version of /balance.
+
+/balance [player]
+Shows another players balance.
+
+/pay <playerName|@s|@p|@r> <amount>
+Pays another player. This command cannot make you go negative.
+
+/shop
+Opens the GUI shop.
+
+/shop <search>
+Searches the shop by item name, item ID, category, custom name, lore, and enchantments.
+
+/job
+Opens the jobs UI.
+
+/moneysettings
+Opens personal money settings.
+
+/moneyhelp [page]
+Shows the full in-game help menu.
+
+/ah <sell - search> <price>
+
+Auction House
+
+Buy and sell items with other players using the built-in Auction House! List items, search auctions, manage your listings, and collect items that have expired. Sellers can even receive their money while offline.
+
+Admin Commands :
+
+Admins are players with the admin tag.
+
+Give yourself admin:
+
+/tag @s add admin
+
+Remove admin:
+
+/tag @s remove admin
+
+Admin commands:
+
+/setmoney <player> <amount>
+Sets a players balance. This can set negative money.
+
+/addmoney <player> <amount>
+Adds money to a player.
+
+/removemoney <player> <amount>
+Removes money from a player. This can push players negative.
+
+/topmoney [page]
+Shows the money leaderboard.
+
+/baltop [page]
+Alias for /topmoney.
+
+/balancetop [page]
+Alias for /topmoney.
+
+/buy <playerName|@s|@p|@r> <item> <amount> <priceEach>
+Makes a target player buy a simple item by item ID. The player cannot go negative.
+
+/sell <playerName|@s|@p|@r> <item> <amount> <priceEach>
+Makes a target player sell a simple item by item ID.
+
+Debt Rules :
+
+Some commands allow negative money and some commands block it.
+
+Can go negative:
+
+- /setmoney
+
+- /removemoney
+
+Cannot go negative:
+
+- /pay
+
+- /buy
+
+- Shop purchases
+
+This means admins can create debt if they want, but normal players cannot accidentally buy or pay more than they have.
+
+GUI Shop :
+
+/shop opens a full UI shop.
+
+Players can:
+
+- Browse categories
+
+- Buy items
+
+- Sell items
+
+- Search items
+
+- View custom item details
+
+- Buy only if they have enough money
+
+- Sell only if they have the correct items
+
+The shop supports:
+
+- Buy prices
+
+- Sell prices
+
+- Categories
+
+- Normal item IDs
+
+- Custom item names
+
+- Enchantments when Minecraft allows them
+
+- Exact hotbar item copying
+
+- Lore
+
+- Durability
+
+- Lock mode
+
+- Can place on data
+
+- Can destroy data
+
+- Custom item data
+
+Admins can edit the shop directly in-game.
+
+Shop admin features:
+
+- Add categories
+
+- Add normal items by ID
+
+- Add custom named items
+
+- Add enchantments when Minecraft accepts them
+
+- Copy exact items from your hotbar
+
+- Set buy and sell prices separately
+
+- Make items buy-only, sell-only, or both
+
+- Move items between categories
+
+- Remove items
+
+- Restore the default shop
+
+- Clear the entire shop
+
+Note: Exact shulker boxes are blocked because Minecraft Bedrock hides their

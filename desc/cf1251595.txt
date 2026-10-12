@@ -1,0 +1,189 @@
+Socials
+
+Discord: Click here!
+
+Twitter: Click here!
+
+YouTube: Click here!
+
+Introduction
+
+"AG2" is a 3D-only weapon addon based on its iconic predecessor, Actual Guns CSO (a project originally released 7 years ago), with the goal of becoming the largest Minecraft Bedrock gun addon ever made in terms of weapon quantity without compromising quality.
+
+Check just how big our scope is for this addon: https://docs.google.com/spreadsheets/d/1gKeDW8Ky9K_OibBefXF4z-PaFsj4ZSgGJRBnmzMbAGQ
+
+Budget of the addon
+
+All weapons are made with commissions, meaning I spend money out of my own pocket to update this addon to get the models and animations, and I'm currently at ~$786 loss. Please manage your expectations.
+
+I do not take any percentage of donations. All donations go directly to the developer who creates the weapon models & animations (DaffaTheOne). I only do the coding part of the addon. In some cases, I may help cover small funding gaps or support custom requests, such as rare animation preferences. So far, 9 people have donated.
+
+The Money Spent section is updated every time I spend money on the addon, even if what I paid for hasn't been added yet. So if the amount spent seems really high compared to the number of guns or features currently in the addon, don't worry about it. A lot of the bigger things I've paid for are still being worked on and haven't made it into the addon yet, this is because of the massive remake that's being currently worked on.
+
+You can donate and choose a weapon of your choice from the Google Docs above to get it added much sooner!
+
+- Money Spent: $2,421.91 (Doesn't include donations. Includes Terrorists NPCs in the future.)
+
+- Budget needed: $10,030
+
+- Donations: $1,232.97
+
+Donations: PayPal, Kofi, (clickables)
+
+Developer Note (1/2)
+The addon will go undergo a massive remake and we are currently working on it. There's no release date so far. It will release alongside a movie animation. The point of the remake is to decrease addon size by ~80% and make it friendly for every single device and add much-needed features. This update is one of a kind!
+
+Developer Note (2/2)
+
+Remake release date = 2027, TBA
+
+Movie release date = 2027 / 2028, TBA
+
+Features
+
+- 3D drops
+
+- Weapon skins
+
+- Survival friendly
+
+- Stylish animations
+
+- Inspects (by attacking)
+
+- Optimized for any device
+
+- Synced & fluid animations
+
+- Unique direction & artstyle
+
+- Advanced melee mechanics
+
+- Rare random weapon animations
+
+- No damage immunity (every shot matters)
+
+- Advanced Terrorist NPCs with brutal blood effects
+
+Content
+
+= Will be changed in the remake
+
+AK-47
+Model will be changed
+
+Default Skins Variants
+
+AKM
+Model and animations will be changed
+
+Default Skins Variants
+
+F2000
+
+Default Skins Variants
+
+M16A1
+Model and animations will be changed
+
+Default Skins Variants
+
+M4A1
+Model will be changed
+Skins will be temporarily be removed
+
+Default Skins Variants
+
+AK-12
+Texture will be changed
+
+Default Skins Variants
+
+AK-60
+Model will be changed
+
+Default Skins Variants
+
+Mk16 Mod 0
+
+Default Skins Variants
+
+AS Val Coming Soon!
+Donated by Deadrin
+
+Default Skins Variants
+
+G36C Coming Soon!
+Donated by Sakatoto
+
+Default Skins Variants
+
+M1 Garand NEW!
+Donated by WishWaddle
+
+Default Skins Variants
+
+MP5
+
+Default Skins Variants
+
+Benelli M3 Coming Soon!
+Donated by Sakatoto
+
+Default Skins Variants
+
+SPAS-12 Coming Soon!
+Donated by GoofyAhBeing15
+
+Default Skins Variants
+
+AMT Automag V
+
+Default Skins Variants
+
+M1911 A1 Coming Soon!
+Donated by Sakatoto
+
+Default Skins Variants
+
+M2011 Pitviper Coming Soon!
+Donated by WishWaddle
+
+Default Skins Variants
+
+Anaconda Coming Soon!
+Donated by Hesy
+
+Default Skins Variants
+
+Desert Eagle
+
+Default Skins Variants
+
+Dual Infinity
+Variants will be converted to skins
+
+Default Skins Variants
+
+Dual Infinity Final
+
+Default Skins Variants
+
+SVI Infinity
+Variants will be converted to skins
+
+Default Skins Variants
+
+MR6
+Weapon will be removed!
+
+Default Skins Variants
+
+USP
+
+Default Skins Variants
+
+AWP
+Model will be changed
+
+Default Skins 

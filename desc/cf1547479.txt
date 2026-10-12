@@ -1,0 +1,139 @@
+Cuarentine Parasites
+
+A lightweight parasite survival add-on inspired by Scape and Run: Parasites.
+
+Currently in Beta
+
+Cuarentine Parasites is designed for players who want a parasite survival experience on low-end devices. While it contains fewer features than The Dark Infection, it focuses on smooth performance without sacrificing the core gameplay of an evolving parasite outbreak.
+
+The infection spreads across the world as contaminated creatures appear, stronger parasite variants emerge, and the outbreak gradually becomes more dangerous.
+
+Optimized for Performance
+
+Unlike my larger parasite projects, Cuarentine Parasites prioritizes:
+
+- Better performance on low-end phones and tablets
+
+- Lower memory usage
+
+- Simplified systems
+
+- Stable Survival Mode gameplay
+
+This makes it ideal for players who want an infection experience without heavy lag.
+
+Survival Progression
+
+The parasite evolves naturally while you survive.
+
+As the outbreak grows:
+
+- New parasite variants appear.
+
+- The infection becomes more aggressive.
+
+- Stronger contaminated creatures begin roaming the world.
+
+- Players must adapt or be overwhelmed.
+
+Phase System
+
+The add-on includes a progression system that controls parasite evolution.
+
+As parasites spawn, the outbreak becomes stronger.
+
+Defeating parasites slows their evolution, allowing players to temporarily delay the next phase.
+
+Infection System
+
+The parasite is capable of infecting living hosts.
+
+When players die to parasites, they can become infected and transform into contaminated forms.
+
+The infection system also includes:
+
+- Parasite Organs
+
+- Parasite Reborn
+
+- Random parasite transformations
+
+- Integration with the phase progression system
+
+Parasite Variants
+
+Current contaminated creatures include:
+
+Common Hosts
+
+- Contaminated Cow
+
+- Contaminated Pig
+
+- Contaminated Sheep
+
+- Contaminated Horse
+
+- Contaminated Villager
+
+- Contaminated Wolf
+
+- Contaminated Human
+
+Advanced Parasites
+
+- Contaminated Player
+
+- Contaminated Larvae
+
+- Parasite Spider
+
+- Contaminated Enderman
+
+- Contaminated Creeper
+
+- Patroller
+
+- Stalker
+
+- Crackler
+
+- Wendigo
+
+- Slammer
+
+- Boomer
+
+- Tank
+
+- Disaster
+
+- Parasite Organs
+
+- Parasite Reborn
+
+Features
+
+- Lightweight parasite survival gameplay
+
+- Fully supported Survival Mode
+
+- Progressive phase system
+
+- Infection mechanics
+
+- Player transformation system
+
+- Parasite evolution
+
+- Optimized for low-end devices
+
+- Regular updates
+
+- Inspired by Scape and Run: Parasites
+
+Warning
+
+The infection never stops evolving.
+
+The longer you survive, the stronger the parasites become. Eliminate them early before the outbreak spreads beyond your control.

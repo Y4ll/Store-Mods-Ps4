@@ -1,0 +1,33 @@
+The Stalker Nightmare More Night Events
+
+It already knows where you sleep.
+
+Something is standing at the treeline right now, and it has been there longer than you think. It doesn't blink. It doesn't get tired. It doesn't care how thick your walls are, because it was already inside your head long before it reached your door.
+
+This addon drops nine new horrors into your world. Not the cute kind. Not the "spooky reskin" kind. The kind that stands too tall, moves too wrong, and waits at your window until the exact moment you slip up.
+
+WHAT YOU'RE GETTING INTO
+
+- 9 original creatures Stalkers, Tormentors, a biped that looms unnaturally tall, a double-threat variant, and a window-crawler that studies you through the glass before it decides you're worth the trouble
+
+- Custom night events ("More Night Events" module) isolated, standalone encounters you can drop into any world without needing the rest of the pack
+
+- Custom scripted AI and animations these things do not move like vanilla mobs. No pattern. No mercy. No warning.
+
+- Original models and textures built to be wrong in ways you can't quite explain, not to be liked
+
+- Original Textures BY @LCrandom (YouTube)
+
+My tiktok link:https://www.tiktok.com/@ttk.invert?_r=1&amp;_t=ZS-994jNpGlkOb
+
+FAIR WARNING
+
+This is not background horror you can tune out. It hunts. It learns your habits. It waits for the night you forget to be careful. Sleep with one eye open or don't sleep at all, because it makes no difference to what's coming for you.
+
+REQUIREMENTS
+
+- Minecraft Bedrock Edition 1.26.40+
+
+- Enable both Behavior and Resource packs in world settings
+
+- Beta APIs experiment required (for the custom scripts to run)

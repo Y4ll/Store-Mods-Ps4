@@ -1,0 +1,60 @@
+Never get lost again.
+
+A live minimap in the corner of your screen, drawn from blocks around you. Rivers, beaches, forests and cliffs, with shading, water depth and tree tops, so the land actually looks like land.
+Mobs show up as their own faces, your friends show up with their names, and every place you have been is kept on a world map you can open at any time.
+
+This Addon is Achievements Friendly & Does not require any Experiments on!
+
+Getting started
+
+You get the Cartographer's Compass the first time you join.
+Lost it? Craft a new one from a compass + paper.
+
+Use the compass to open the menu, right there in the world in front of you.
+Sneak + use the compass to open the world map.
+On mobile, just hold the compass and tap Open Map.
+
+Mob faces
+
+Over 90 mobs, each with its own face rendered from its real 3D model. Spot the creeper behind the hill before it spots you.
+The frame glows red when hostile mobs get close.
+
+Multiplayer
+
+See where your friends are, with their names under their faces.
+Share waypoints with everyone, or keep them to yourself.
+Server owners get Admin Limits: cap graphics, detail and update rates for every player, and switch any feature on or off for the whole world.
+
+Waypoints
+
+Flag any spot in six colours and pick a name, or type your own.
+Each waypoint can shine a beam into the sky so you can find it from far away.
+Guide me draws a line on the map to the waypoint you choose and counts down the distance as you go.
+Your bed, your last death (with the path you took) and pings from friends are marked too.
+
+World map
+
+Everywhere you have explored, saved with your world.
+Walk with your movement keys to scroll it, zoom in and out, and drop a waypoint anywhere with the cross in the middle.
+
+Caves
+
+Go underground and the map switches to show the cave around you, then switches back when you see the sky again.
+Prefer it always on, or never? It is one setting.
+
+Places you discover
+
+Villages, Nether portals and mob spawners you walk past are pinned on the map for you.
+
+Make it yours
+
+Square or round, in any corner of the screen.
+24 frame themes, with a different one for the Nether, the End and underwater if you like.
+7 plate styles showing your coordinates, the biome and the time.
+3 detail levels, 5 zoom levels, north-up or turning with you.
+Chunk lines and slime chunks at the press of a button.
+
+Runs on anything
+
+One click presets: Performance, Balanced or Quality, plus four graphics levels for each player.
+Works on PC, mobile and console.

@@ -1,0 +1,87 @@
+THIS IS VOLTNETWORKS FLOATING CUSTOM TEXT ENTITY.
+
+YOU NEED THIS PACK PAIRD WITH THE FLOATING TEXT GUI TO GET THE FLOATING TEXT.
+
+IF YOU DO NOT HAVE THIS PACK THE TEXT WONT DISPLAY.
+
+this version is in beta but want to release it so you guys can test it and report any bugs on my discord.
+
+VoltNetworks Floating Text Premium Hologram Addon
+
+The most advanced floating text / hologram system ever made for Minecraft Bedrock.
+
+VoltNetworks Floating Text gives you powerful, fully customizable holograms perfect for:
+
+- Crates
+
+- Events
+
+- Server labels
+
+- NPC replacements
+
+- Spawn decorations
+
+- Skyblock, Prison, SMP & Minigames
+
+Built entirely using the Script API, this addon lets you create and edit holograms in-game with a clean HD UI no commands required.
+
+Features
+
+- Fully custom hologram entity
+
+- Smooth, stable floating text that never moves
+
+- Unlimited characters per hologram
+
+- Multi-line support using simple syntax
+
+- Edit text in real time
+
+- Move holograms instantly using built-in teleport tools
+
+- Clean, modern UI with HD icons
+
+- Supports unlimited holograms
+
+- Perfect for Realms, servers & multiplayer
+
+- Optimized for 1.20+ Script API
+
+Script-Powered Customization
+
+Create, edit, delete, and reposition holograms with a fast and intuitive UI:
+
+- Add text
+
+- Format lines
+
+- Apply spacing
+
+- Teleport holograms to you
+
+- Manage all holograms from a single menu
+
+No commands. No structure blocks. No behavior pack editing.
+
+Why VoltNetworks?
+
+This is not a simple name-tag addon its a full professional hologram system with:
+
+- Zero lag
+
+- Zero flicker
+
+- Zero entity drift
+
+- Zero commands
+
+- A clean UX made for server owners
+
+Includes
+
+- Floating Text Script Pack
+
+- UI Pack
+
+- Custom Hologram Entity Resource Pack

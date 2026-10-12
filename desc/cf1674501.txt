@@ -1,0 +1,77 @@
+Dan's Waystones brings a flexible and immersive Waystone teleportation system to Minecraft Bedrock Edition. Discover, craft, and place Waystones throughout your world to create a convenient network of fast-travel locations.
+
+---
+
+Whether you're exploring distant lands, building large settlements, or simply looking for a better way to travel between your favorite locations, Dan's Waystones provides a simple and reliable solution.
+
+---
+
+What's Included:
+
+- Multiple Waystone variants
+
+- Supporting teleportation items
+
+- Waystone structures always appear in villages.
+
+- Custom crafting recipes
+
+- A simple and easy-to-use teleportation system
+
+- Survival-friendly gameplay
+
+- Achievements friendly
+
+Features:
+
+Multiple Waystone Variants:
+
+- Build your Waystones using a variety of materials and styles. Different variants allow you to match Waystones with your builds and create unique fast-travel points throughout your world.
+
+Fast Travel:
+
+- Activate Waystones and use them as destinations for quick transportation between different locations.
+
+Supporting Items:
+
+Recall Necklace:
+
+- It will return you to your most recently saved Waystone location or your set bed, provided your health is below 20%.
+
+Warp Scroll ( has an 'active' status):
+
+- When you click on an activated waystone, it enters an active state, allowing you to teleport to a previously selected location.
+
+Warp Stone:
+
+- It allows you to open the waystone menu and teleport to your desired location without needing a waystone.
+
+Survival Friendly:
+
+- Waystones and their supporting items are integrated into the survival experience with crafting recipes designed to fit naturally into Minecraft gameplay.
+
+Recipes:
+
+Explore Without the Hassle:
+
+- Travel further, establish distant bases, and connect important locations without having to constantly travel long distances on foot.
+
+Designed for Adventure:
+
+- Dan's Waystones is designed to enhance exploration without changing the core Minecraft experience. Create your own network of Waystones and connect villages, bases, structures, mines, and other important locations across your world.
+
+Explore more. Travel faster. Build your own network.
+
+----------------
+
+Compatibility:
+
+- Novelty API:Recall Necklace
+
+- There is more to come in the future.
+
+Community:Dan's Craft
+
+Credits:
+
+The icons for the structures are inspired by the icons on the Minecraft Wiki.

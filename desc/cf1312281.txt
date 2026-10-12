@@ -1,0 +1,54 @@
+Important Notice
+
+To ensure the addon works correctly, you must download and import both the Behavior Pack (BP) and the Resource Pack (RP).
+Downloading only one of them (BP or RP) will cause the addon to not function as intended.
+
+Find more information and updates at Endev Studio : )
+
+If you'd like to support the content, you can do so on Patreon: EndXenoc MCPE!
+
+On Patreon, you'll enjoy an ad-free experience, no waiting times, and early access to all updates before anyone else.
+
+Your support helps keep the project going and growing thank you! :)
+
+IMPORTANT: If you share this content, BE SURE to use official links from Endev Studio, MCPEDL, ModBay or CurseForge. You are NOT allowed to redistribute it with links of your own.
+
+DecoDrop is a decoration-focused addon that brings your builds to life with hundreds of new blocks including chairs, tables, lamp posts, street lights, and more! Whether you're designing a cozy home, a bustling city, or a medieval village, DecoDrop has what you need to enhance your world with detail and style.
+
+How to Create Terracotta Blocks?
+
+Create beautiful terracotta items like teapots, mugs, toilets, and more through our ceramic system:
+
+Crafting Process:
+
+- Selection: Open the Ceramics Station interface while holding clay blocks and choose your desired item
+
+- Firing: Place the crafted clay items on top of the Rustic Furnace to bake them into terracotta (this process takes time with random results)
+
+- Coloring: Customize your terracotta blocks by combining them with any dye on a crafting table - you can also use brushes for detailed color patterns
+
+New Kitchen Interfaces
+
+In addition to decorative blocks, DecoDrop also introduces a variety of new food items and functional cooking blocks:
+
+- Pot used to prepare hearty stews and soups
+
+- Teapot perfect for brewing warm drinks
+
+- Oven ideal for baking and roasting recipes
+
+How to Use:
+
+- The oven is always lit and ready for use
+
+- Copper pots and teapots must be placed on top of the Rustic Furnace to function
+
+- Open the interface to view available recipes
+
+- Simply place your ingredients and cooking will begin automatically
+
+Enjoy creating delicious meals with these new kitchen additions!
+
+Downloads at EndDev Studio
+
+- Download DecoDrop V6.0.3.mcaddon

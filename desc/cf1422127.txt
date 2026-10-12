@@ -1,0 +1,90 @@
+Hybrid Optimizer
+
+Most lag clear addons are bad. They delete your pets, clear your farms, and make a big lag spike when they run. Hybrid Optimizer is not like that. It cleans up monsters and junk, but it leaves your pets, villagers and farm animals alone. And now you can change everything from an easy in game menu. No file editing.
+
+What it does
+
+Smart mob check (works with other addons)
+
+- It finds hostile mobs (zombies, creepers and more) by their type family.
+
+- Works with custom mobs too. If you add a "Mutant Zombie" addon, it sees it as a monster. If you add a "Cute Pets" addon, it sees them as safe. You do not have to set anything.
+
+- Safe list built in for iron golems, villagers, allays, bees and all normal pets.
+
+- Boss safe. Any mob with very high hp (like the warden, wither, or addon bosses) is never removed.
+
+In game menu (new)
+
+- Open the menu with /hyop:menu. Sliders and toggles for every setting.
+
+- Fast commands: /hyop:on, /hyop:off, /hyop:stats, /hyop:reload.
+
+- You can add or remove protected mobs and farm animals right in the menu.
+
+- Your settings get saved. They stay after you close the world.
+
+Low lag cleanup
+
+- Junk (items, arrows, falling blocks) gets a delete timer when it spawns. No heavy scan.
+
+- Mobs are checked on a timer in small steps. So redstone and physics keep running. No big lag spike.
+
+Monster cleanup
+
+- Far away: removes monsters far from all players (128 blocks by default).
+
+- Too many: caps monsters at 8 per chunk (you can change it) so mob farms do not overflow.
+
+- AFK: removes monsters that did not fight for some time.
+
+Item cleanup
+
+- Merge: pulls same items that are close together so they stack into one. Less items = less lag.
+
+- Cap: max 20 items per chunk to stop drop lag.
+
+- Despawn: old dropped items and far xp orbs get cleaned on a timer.
+
+- Also cleans stuck arrows, falling sand/gravel, and potion clouds.
+
+Live stats
+
+Open the Live Stats page (or /hyop:stats) to see it work: mobs removed, items removed, items merged, projectiles cleaned, items on the ground now, and items that can still merge.
+
+How it works
+
+- Pets, cows, villagers: it leaves them alone. They follow normal Minecraft rules. This addon will never delete them. Farm animals in a crowd stay safe.
+
+- Zombies, skeletons and monsters: it manages them. They go if they are too far, too old (afk), or too many.
+
+- Items and xp: merged and cleaned up to keep fps high.
+
+Visual part (client side)
+
+This runs on your device to give more fps.
+
+- Lighter particles (explosions, smoke, potions) that still look good but render faster.
+
+- Smaller textures for leaves, water and ui to use less memory.
+
+- Custom fog to hide far chunk loading without ruining the view.
+
+- Smoother water, fire and portal animations that use less gpu.
+
+Two options in video settings: Performance (best fps) and Quality (lighter changes).
+
+Settings
+
+It works right away. Just run /hyop:menu and change things with sliders:
+
+- Despawn Distance, Max Per Chunk, Min Age, HP Threshold, Idle Timeout
+
+- Item Despawn Time, Merge on/off, Merge Distance, Max Items Per Chunk
+
+- Projectile, falling block and xp cleanup, Cleanup Interval, and more
+
+No json editing needed. But the code is open (MIT) if you want to look.
+
+Made for Minecraft Bedrock 1.21+ (Script API)
+License: MIT (free to use in modpacks)

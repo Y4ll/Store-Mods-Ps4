@@ -1,0 +1,177 @@
+EARDING WEAPON V4.0
+
+EARDING WEAPON is a Minecraft Bedrock combat addon that adds powerful weapons with unique abilities, custom effects, cooldowns, dashes, projectiles, and special domains.
+
+Each weapon has its own playstyle and 4 unique skills, allowing you to create different combos and fight enemies in your own way.
+You can explore the world and discover unique structures in specific biomes, such as the Taiga.
+
+Weapons
+
+Blood Cleaver
+
+A weapon focused on bleeding effects, mobility, and close-range combat.
+
+-
+
+10 base damage
+
+-
+
+Applies Bleeding to enemies
+
+-
+
+Pulls enemies toward you
+
+-
+
+Launches Blood Orbs
+
+-
+
+Powerful dash ability
+
+-
+
+Creates a special Blood Domain
+
+kinfe
+
+A fast and mobile weapon designed for quick attacks and ranged projectiles.
+
+-
+
+8 base damage
+
+-
+
+Throws multiple daggers
+
+-
+
+Fast dash ability
+
+-
+
+Ranged attacks
+
+-
+
+Air mobility
+
+-
+
+Creates a 2020 block Domain
+
+Withered Diamond Axe
+
+The most powerful weapon in the addon, focused on high damage, Wither effects, and area control.
+
+-
+
+20 base damage
+
+-
+
+Applies Wither
+
+-
+
+Skill 1: Dash forward and deal 32 damage
+
+-
+
+Skill 2: Launch into the air and slam down, dealing 45 damage + Wither
+
+-
+
+Skill 3: Creates the Withered Domain
+
+-
+
+Skill 4: Dash backward and create a 1010 area that inflicts Nausea and Wither
+
+Skill System
+
+Every weapon has 4 unique skills with individual cooldowns.
+
+Skills can be activated using different combinations of:
+
+-
+
+Use Item
+
+-
+
+Sneak + Use Item
+
+-
+
+Sneak + Jump
+
+-
+
+Sneak + Swing
+
+A cooldown display helps you keep track of your abilities during combat.
+
+Effects & Visuals
+
+Each weapon has its own visual effects and particles.
+
+-
+
+Blood-themed effects
+
+-
+
+Dash effects
+
+-
+
+Custom projectiles
+
+-
+
+Special Domains
+
+-
+
+Wither effects
+
+-
+
+Custom particles for different abilities
+
+Some dash abilities also check for obstacles, preventing you from simply passing through walls.
+boss in the end....
+
+Addon Information
+
+-
+
+Minecraft Bedrock Edition
+
+-
+
+Addon Version: 3.0
+
+-
+
+Weapons: 3
+
+-
+
+Unique Skills: 12
+
+-
+
+Type: Combat / Weapons
+
+music Kharvex
+"Crusade - Heavy Industry" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+Created by ModioMC
+
+If you enjoy the addon, consider leaving a review and sharing your feedback!

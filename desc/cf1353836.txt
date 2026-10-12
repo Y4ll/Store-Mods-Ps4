@@ -1,0 +1,75 @@
+# Night Prowler Horror Mod
+
+**Night Prowler** is a horror-inspired Minecraft mod that brings a new level of fear and tension into the game.
+
+Originally created for **Minecraft Java Edition by PamitaMC**, this terrifying experience has now been **ported to Bedrock Edition** (port author currently unknown), allowing players from both editions to face the same horrifying challenge.
+
+---
+
+## The Monster Who is the Night Prowler?
+
+The **Night Prowler** is not just another hostile mob. It is a supernatural predator designed to embody fear itself. Its tall, twisted form, glowing white features, and sinister grin make it an unforgettable sight in the dark.
+
+* It lurks in the shadows, waiting for the perfect moment to strike.
+
+* It doesnt behave like a normal Minecraft creatureits **goal is to stalk and hunt you down**.
+
+* Its mere presence changes the atmosphere, turning the quiet night into a heart-pounding experience.
+
+---
+
+## Behavior & Abilities
+
+The Night Prowler is built to surprise, scare, and overwhelm players:
+
+* **Spawning**: Appears naturally during the night or in very dark areas. Can also be summoned in certain conditions (such as through special items like the *Orb of Chaos* in Java-related modpacks).
+
+* **Hunting Instincts**: Unlike passive mobs, it actively chases the player once detected. It moves with speed, stealth, and aggression.
+
+* **Powers**:
+
+* **Deadly Attacks** Deals heavy damage, forcing players to prepare for battle.
+
+* **ECLIPSE Ability** A unique move where it summons a dark portal above itself, creating a truly horrifying encounter.
+
+* **Psychological Pressure** Uses sudden appearances and chilling sound effects to build tension before the fight even begins.
+
+---
+
+## Survival Impact
+
+Installing this mod completely changes how you approach nighttime in Minecraft:
+
+* Exploring caves or the overworld at night becomes a deadly risk.
+
+* Players must build **safe shelters** and keep areas **well lit** to survive.
+
+* Going outside without preparation means facing the **Night Prowlers wrath**.
+
+* Multiplayer servers become even more thrilling, as friends can warn each other, team up to fight, or panic together when the Prowler appears.
+
+---
+
+## Why Play Night Prowler?
+
+* Adds a **new horror-survival layer** to Minecraft.
+
+* Perfect for players who love thrill, suspense, and unexpected challenges.
+
+* Great for **custom maps** and **multiplayer events** looking to add a creepy twist.
+
+* Works especially well with **shaders and sound packs**, enhancing the terrifying atmosphere.
+
+---
+
+## Credits
+
+* **Original Java Edition Mod**: PamitaMC
+
+* **Bedrock Edition Port**: Unknown creator (community port, credits to the author if identified)
+
+Without the work of PamitaMC, this horror experience would not exist. The Bedrock port makes it accessible to an even wider player base, keeping the spirit of the original alive.
+
+---
+
+In short: **Night Prowler is a horror mod that transforms ordinary Minecraft nights into terrifying survival encounters. A relentless supernatural creature stalks you, making every step into the dark a test of courage.**

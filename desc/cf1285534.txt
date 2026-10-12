@@ -1,0 +1,69 @@
+Only Works with Version 1.26.0 and above
+
+Neo Elementals makes Survival mode harder in many ways, dividing progression into 9 revamped encounters that will change the game from start to finish, in addition to new Gear to collect and new Bosses and Mobs to encounter. This addon also improves and rebalances several things like the Sniffer, Shield or even Enchantments. While Difficulty is the focus, ensuring it's balanced and fun is just as important
+
+YouTube Guides on Encounters
+
+Discord - for any questions, issues, or bugs
+
+This addon no longer uses Player.json
+
+No Experiments Required
+
+Compatibility: Anything that also needs to change vanilla mobs and loot tables of existing structures will not perform well with this pack.
+
+Any Obtainable Tool in this Addon is also Compatible with Actions & Stuff
+
+Contains Emissive Support for Vibrant Visuals
+
+Supported Languages: English, Espanol (ES), (JP)
+
+REALMS and Performance: 3 Player Realms runs smoothly and is tested for up to 5 Players for normal worlds
+
+This addon adds and changes a TON of stuff. See the Media gallery for more. ALSO use there's an in-game item you spawn with that gives even more Information!
+
+Summary
+
+- Progress through 9 Revamped Vanilla Encounters to finish the game
+
+- New Weapons and Gear, and some changes to vanilla items to make them usable
+
+- 8 Mini-bosses with unique movesets
+
+- Over 20+ New Mobs, all with unique abilities, along with changes to most vanilla mobs
+
+- Certain parts of the game are inaccessible until progressing far enough
+
+- Reworked Enchantments
+
+- Can't skip consecutive nights
+
+IMPORTANT: keep the "Neo Elementals Current Progression" Item on you, it contains a bunch of information About the Addon, where to go, an Item Finder and Settings
+
+IF you have a Question it's probably already in there! If you're looking to disable something, it's probably there in settings. If not ask me on Discord! Depending on what it is, I'll add it! There is NO ONLINE WIKI (By Me) for this Addon
+
+Overview
+
+HOW is Survival harder? Most monsters in the game have been changed in some way to make them tougher to deal with, Creepers are more precise before they try to explode, Zombies hit a bit harder, Skeletons are more accurate, Spiders come in different sizes, Witches apply Resistance to nearby Monsters, Husks will slow you down if your too close, the Enderman can warp you if your too close (only in the overworld) and anything tied to Progression/Bosses have been given movesets so they're more diverse.
+
+Its not just Monster changes that make the game harder. You can't access certain parts of the game immediately due to progression. The big ones are the Nether and Deepslate regions. Completing the first 3 progression Bosses will unlock these areas (USE THE "Neo Elementals Current Progression" Item), and there are a total of 9 things tied to progression. The reasoning for Progression Blocks is to prevent going after the strongest items immediately and breaking the rest of the game. It's also there to tie parts of the game together instead of things just existing.
+
+Night Skip: The first 3 Nights can't be skipped, and afterwards, whenever you do decide to sleep the next night won't be skipped. In the base game, you can skip the challenging parts of the game by just sleeping you can still do that just every other night. There's also Night Fog in the early game, done to obstruct your vision, maybe that'll keep you inside at Night. Comments talking about Herobrine? This is a Survival Addon not a Horror one don't listen to them!
+
+Neo Elementals: along with the progression Bosses getting unique mechanics and moves, as the pack name suggests, there are a total of 7 Elemental Nymph Minibosses scattered throughout the game. Their difficulty varies
+
+Water Elemental
+
+Sand Elemental
+
+Ice Elemental
+
+Lava Elemental
+
+Storm Elemental
+
+Forest Elemental
+
+Void Elemental
+
+Water is the weakest. Void is the Strongest. Each of them drops a unique gear and an item called a Tera-Shard (except f

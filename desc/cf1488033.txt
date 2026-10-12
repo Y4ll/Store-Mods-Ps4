@@ -1,0 +1,87 @@
+A complete survival overhaul that adds two interconnected systems to your world: thirst and temperature. Stay hydrated, dress for the weather, and watch your environment, every biome, every block, and every decision matters.
+
+Features
+
+Guide Book
+
+Every player gets a Water & Temperature Guide on their first join, with a chapter on each system: thirst and what drains it, finding and purifying water, the five temperature states, which armor actually keeps you warm, and how weather works.
+
+Lost it? Craft it back from a book and paper at a crafting table.
+
+The difficulty selector lives at the top of the guide.
+
+Difficulty
+
+Thirst and temperature have their own difficulty, chosen in the guide book and shared by everyone on the world.
+
+- Easy Thirst drains slower, hot and cold extremes are pulled in, and freezing and heat damage are halved. Ordinary rain will chill you but won't freeze you.
+
+- Normal The pack as designed.
+
+- Hard Thirst drains faster, the extremes are pushed further out, and temperature damage is increased.
+
+- Match World Difficulty The default. Follows your world's difficulty setting, exactly as previous versions did.
+
+Temperature System
+
+Your body temperature changes dynamically based on the world around you. A thermometer HUD displays beside your water bar, shifting through five states: Very Cold, Cold, Normal, Hot, and Very Hot.
+
+What affects your temperature:
+
+- Biome detection The system scans 100+ block types around you to determine the biome temperature. Deserts and badlands scorch you, snowy tundras freeze you, and forests keep things mild.
+
+- Day/night cycle Midday is warmest, night is coldest. Plan your expeditions accordingly.
+
+- Altitude High mountains are freezing. Deep underground is warmer.
+
+- Shelter A roof over your head insulates you, pulling temperature back toward normal.
+
+- Heat sources Campfires, lava, torches, lanterns, furnaces, and fire all radiate warmth with realistic distance falloff.
+
+- Weather Rain, storms and snowfall chill you under open sky, and the longer you stay out the worse it gets.
+
+- Water exposure Swimming makes you colder over time. Deeper water is worse. Stay in too long and hypothermia sets in progressively.
+
+- Armor Leather is the best cold-weather gear. But heavy metal armor in a desert? That traps heat and makes you even hotter. Netherite is the exception it insulates poorly, but it won't cook you.
+
+- Activity Moving warms you a little. Sprinting warms you more.
+
+- Dimension-aware The Nether is always scorching. The End is always cold.
+
+Temperature States:
+
+- Very Cold Slowness II, mining fatigue, freezing damage over time. A frost overlay covers your screen.
+
+- Cold Slowness I. A warning to find warmth.
+
+- Normal No effects. You're comfortable.
+
+- Hot Hunger effect. You're sweating.
+
+- Very Hot Hunger II, weakness, fire damage over time. A heat overlay fills your screen edges.
+
+Transitions between states are smooth and gradual, no jarring instant swaps.
+
+Fire Resistance blocks heat damage and its debuffs outright useful for Nether trips.
+
+Weather & Getting Wet
+
+Weather is a real threat, not a backdrop.
+
+- Rain builds Standing under open sky in rain gets colder the longer you stay in it, rather than hitting a cap straight away. A full soak takes around a minute.
+
+- Storms are worse Thunderstorms chill harder than plain rain, night is colder than day, and rain falling as snow in a cold biome is colder than either.
+
+- You stay wet Getting under cover doesn't dry you instantly. The chill lingers at half strength while you dry off.
+
+- Fire dries you faster Standing near a campfire or furnace dries you several times quicker than waiting it out.
+
+- Shelter works Any solid roof keeps the rain off you entirely. Leaves and glass don't count.
+
+Thirst System
+
+A thirst bar appears on your HUD alongside the default hunger bar. It depletes as you move, sprint, and jump, faster in hot biomes, slower in cold ones.
+
+How thirst works:
+
+- Movement drains thirst Walking, sprinting, and ju

@@ -1,0 +1,68 @@
+Wheel of Creation: Geographic Mining
+
+A Minecraft Bedrock Edition Behavior Pack
+
+English
+
+Wheel of Creation: Geographic Mining completely reimagines how mineral ores generate in your Minecraft Bedrock world. Forget the old vanilla system where every ore appears randomly everywhere underground. Now, each ore is tied to specific biomes, making exploration not just rewarding but necessary.
+
+- Diamonds: Exclusively found in the Deep Dark.
+
+- Iron: Forms the bones of the Mountains.
+
+- Gold: Buried deep in Deserts and Mesas.
+
+- Emeralds: Hidden beneath the Jungle floor.
+
+- Farms Nerfed: Iron Golems and Zombie Piglins no longer drop ingots/gold. You must mine for your wealth!
+
+This transforms the geopolitical landscape of any server. Borders, trade routes, and alliances will form naturally based on who controls which biome.
+
+Full Documentation & Ore Guide
+
+For the complete list of Y-levels, exact biome distributions, and server gameplay tips, please visit our official repository:
+Read the Official Documentation on GitHub
+
+Espanol
+
+Wheel of Creation: Geographic Mining reimagina completamente como se generan los minerales en tu mundo de Minecraft Bedrock. Olvidate del sistema vainilla donde todos los minerales aparecen aleatoriamente bajo tierra. Ahora, cada mineral esta ligado a biomas especificos, haciendo que la exploracion no solo sea recompensante sino necesaria.
+
+- Diamante: Exclusivo de los biomas Deep y Deep Dark.
+
+- Hierro: Forma los huesos de las Montanas.
+
+- Oro: Enterrado en lo profundo de Desiertos y Mesas.
+
+- Esmeralda: Oculta bajo el suelo de la Jungla.
+
+- Granjas Nerfeadas: Los Golems de Hierro y Zombie Piglins ya no sueltan metales. Debes minar tu propia riqueza!
+
+Esto transforma el panorama geopolitico de cualquier servidor. Las fronteras, rutas comerciales y alianzas se formaran naturalmente segun quien controle que bioma.
+
+Documentacion Completa y Guia de Minerales
+
+Para ver la lista completa de niveles Y, distribuciones exactas por bioma y consejos para servidores, visita nuestro repositorio oficial:
+Lee la Documentacion Oficial en GitHub
+
+Portugues
+
+Wheel of Creation: Geographic Mining reimagina completamente como os minerios se geram no seu mundo de Minecraft Bedrock. Esqueca o sistema vanilla onde todos os minerios aparecem aleatoriamente pelo subsolo. Agora, cada minerio esta ligado a biomas especificos, tornando a exploracao nao apenas recompensadora mas necessaria.
+
+- Diamante: Encontrado exclusivamente no Deep Dark.
+
+- Ferro: Forma os ossos das Montanhas.
+
+- Ouro: Enterrado nos Desertos e Mesas.
+
+- Esmeralda: Escondida sob o solo da Selva.
+
+- Farms Nerfadas: Golems de Ferro e Zombie Piglins nao soltam mais metais. Voce deve minerar sua propria riqueza!
+
+Isso transforma o cenario geopolitico de qualquer servidor. Fronteiras, rotas comerciais e aliancas se formarao naturalmente de acordo com quem controla qual bioma.
+
+Documentacao Completa e Guia de Minerios
+
+Para ver a lista completa de niveis Y, distribuicoes exatas por bioma e dicas para servidores, por favor visite nosso repositorio oficial:
+Leia a Documentacao Oficial no GitHub
+
+Made with by BBEL Studios

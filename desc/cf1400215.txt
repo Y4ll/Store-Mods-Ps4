@@ -1,0 +1,105 @@
+(ENGLISH)
+
+(SPANISH)
+
+IMPORTANT:
+
+- Does NOT require experimental features.
+
+- Requires version 1.21.60+ or newer.
+
+- Achievements are enabled.
+
+- Make sure you download and install both packs Resource and Behavior.
+
+HOW TO WEAR:
+- To wear the backpack place the backpack item in the off-hand slot.
+- If the backpack is placed on the ground hit the backpack and this will auto
+equip it to your off-hand slot, if you are already wearing a backpack it will
+drop the item.
+
+HOW TO UPGRADE:
+- To upgrade your backpack there are two ways to access the menu.
+- Metho 1: Place down the back pack sneak and interact with it, this will
+open the upgrade menu.
+
+- Method 2: Hold the backpack in your hand and interact with the item this
+will also open the upgrade menu.
+
+Upgrade: Extra Storage
+Not enough room? Get the Storage Upgrade!
+This upgrade adds extra pages to your backpack,
+letting you carry even more items on your adventures.
+
+How it works:
+When Placed: You'll see arrows inside the backpack.
+Click them to flip between your inventory pages.
+
+Upgrade: Magnet
+Tired of running to pick up items? Let them come to you!
+This upgrade automatically pulls all nearby items right to you,
+so you don't have to pick them up one by one.
+
+How it works:
+- Purchase: Buy the Magnet upgrade from the backpack's
+upgrade menu.
+- Toggle: After buying it, you can turn the magnet ON or OFF
+from the same menu.
+
+Upgrade: Security Lock
+- Keep your items safe and sound!
+- This upgrade locks your backpack so only you, the owner, can open it
+or pick it up. No one else will be able to get inside.
+
+How it works:
+- Purchase: Buy the Security Lock from the backpack's upgrade
+menu. This will also set you as the owner.
+- Toggle: After buying it, you can make your backpack LOCKED or
+UNLOCKED from the same menu. (Be careful! Unlocking it lets anyone
+get inside!)
+
+Upgrade: Auto-Sort
+Is your backpack a mess? Clean it up with one click!
+
+This upgrade gives you a new button in the upgrade menu that letsyou
+instantly sort all the items on your backpack's current page. It will
+stack everything together neatly.
+
+How it works:
+Purchase: Buy the Auto-Sort upgrade from the backpack's menu.
+Sort: Go back into the menu and choose how you want to sort: by
+Name or by Amount.
+Note: This upgrade only works on a backpack that has been placed in
+the world.
+
+Void Filter
+This upgrade deletes selected items from the backpacks inventory.
+
+Auto Totem
+This upgrade allows the player to use the totem of undying directly
+from the backpacks inventory
+
+Tombstone
+
+This upgrade automatically places your offhand
+backpack at your death location and collects your
+dropped inventory items directly into its storage pages.
+
+- When the player spawns they will also reive a paper with the coordinates of where they died, and when held in hand the paper will show a waypoint to the location of the backpack.
+
+Upgrade: Dynamic Lights
+
+The Dynamic Lights upgrade causes the backpack to emit full brightness (light level 15) around the player
+while held or equipped in hand/offhand, illuminating the surrounding area as they move.
+
+CRAFTING RECIPES:
+
+HOW TO CHANGE BACKPACK COLOR:
+
+- For now only the first backpacks color can be changed but others will be added in the future.
+
+- To change the color simply place the backpack and hold any dye in your hand and interact with it.
+
+Support the Channel Donate SOL:
+
+IMPORTANT: Download and install both files Behavior and resource packs

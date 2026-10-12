@@ -1,0 +1,61 @@
+Named after the second largest moon of Uranus, Oberon is a boss from Counter-Strike Online. He's an alien zombie hybrid that escaped his planet as it was destroyed alongside his species, and now seeks revenge on any planet he lands on. Are you ready for the challenge?
+
+https://cso.fandom.com/wiki/Oberon
+
+Abilities
+
+Backfist: this is his common attack, deals 13 damage
+
+Ground Smash: Uncommon but not rare, this attack happens when you're within 8 blocks range, or he's angry that you're very far away. Deals 27 damage, sends entities flying little high, and has 1/5 chances to clear whatever you're holding!
+
+Disturbance: When walking, he shakes the ground
+
+Blackhole: Rare, this attack mostly happens when you're further than 8 blocks range. Pulls everything from a 40-block radius towards him, then spins around to do a blow, dealing 21 damage
+
+Claw Strike: When his health is 50%, he will grow claws that deal increased damage, have longer range and deal 19 damage. While the sequence is active, all attacks will be ignored and he will be healing. The time it takes for random attacks to be selected will be shorter by 1 second.
+
+Super Slam: Guaranteed, this attack happens when you're 44+ blocks far. He leaps towards you and kills everyone in a 15 block radius. You cannot escape him
+
+Bombardment: Rare, this attack happens when you're further than 8 blocks range. Sends out deadly bombs in a 3 wave burst
+
+Crushing Uppercut: Common, this attack happens when the player within 3 blocks range, and the Oberon isn't in the Claw Strike mode. Overall attack is fatal without "good" armour, and you cannot escape this sequence - you will still be damaged.
+
+Giant Bite: Common, this attack happens when the player is within 3 blocks range, and the Oberon is in the Claw Strike mode. Regardless of armour, health, or whatever you are, you will DIE and you cannot escape this sequence - you will still die. After death, the Oberon will regain some of his health back due to eating you.
+
+Drops
+
+- 50-70 XP levels
+
+- Netherite blocks
+
+- Dripstone blocks
+
+- Netherite smithing templates
+
+General Information
+
+- Spawns in an asteroid in Mesa or Desert biomes, extremely rare
+
+- All attacks by Warden or Iron Golem will be decreased by 70%
+
+- 100% knockback resistance
+
+- 10,000 health
+
+- Has music
+
+- Will set time to night and red fog (fog name is "red" if you want to remove it), until you defeat him
+
+General Information - Asteroid
+
+- Has alert messages that are random
+
+- Has music until the Oberon appears out of it
+
+- Causes a chunk of damage when it lands
+
+- Lots of particles
+
+Credits
+
+AzozGamer936, Nexon, R4isen1920, JustAsh, Mecha, Rehiga, DaffaTheOne, TheOdds, vlucid

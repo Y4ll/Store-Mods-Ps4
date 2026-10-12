@@ -1,0 +1,83 @@
+About
+
+Deploy and drive your own battle tank in Minecraft Bedrock.
+
+The tank drives like a real tracked vehicle: move forward and backward with your movement keys, pivot the hull in place, and aim the turret independently just by looking around. Fire explosive shells from the cannon and watch them arc toward the target.
+
+Features
+
+- Craftable, deployable battle tank
+
+- Realistic tank controls: forward/reverse throttle with inertia, pivot turns on the spot
+
+- Raised over-turret third-person camera while driving, restored to your normal view on dismount
+
+- Free-look turret that smoothly follows your camera, with rate-limited traverse
+
+- Cannon elevation follows your view, clamped like a real tank gun
+
+- Crosshair-aware aiming converges on nearby targets and compensates for shell drop
+
+- Smoothed, color-coded impact marker, alignment indicator, and bright shell tracer
+
+- Explosive shells with ballistic arc (no block damage)
+
+- 3-second reload with an on-screen reload indicator
+
+- Compact combat HUD with aim and cannon status
+
+- Tank climbs single-block steps smoothly and slows down in water
+
+- Both tracks kick up dust and smoke and produce ground-contact sounds
+
+- Layered muzzle flash, recoil shake, dynamic flash lighting, and rich impact effects
+
+- Visible damage stages: damaged tanks smoke, while critically damaged tanks emit heavy smoke, flames, and sparks
+
+- Field repairs with iron ingots restore 10 HP per ingot when the tank is empty and fully stopped
+
+- Critically destroyed tanks burn briefly before a layered final explosion and leave no recoverable item
+
+- Compatible with Vibrant Visuals
+
+How to use
+
+- Craft the Tank item at a crafting table.
+
+- Use the item on open ground to deploy the tank a few blocks ahead of you.
+
+- Interact with the tank to climb in the camera automatically switches to third person.
+
+- Drive with your movement keys; look around to aim the turret.
+
+- Put the crosshair on a block or entity and wait for ON TARGET, then press attack/left-click. Ordinary block breaking and melee attacks are disabled while driving.
+
+- Sneak to dismount; your normal camera and controls are restored automatically.
+
+- To repair a damaged tank, make sure it is empty and completely stopped, then interact with it while holding an Iron Ingot. Each ingot restores 10 HP.
+
+Crafting
+
+Recipes use the ingredients and quantities shown below.
+
+Tank
+
+Notes
+
+- Shells explode on impact but do not break blocks.
+
+- A tank cannot damage itself with its own shell, but shells still damage other tanks.
+
+- The tank is immune to fire and fall damage, but weapons and explosions damage it.
+
+- The tank's health persists while it stands in the world.
+
+- Repairs have a short cooldown between ingots.
+
+- Lethal damage triggers a brief warning fire before the tank's final explosion; the explosion does not break blocks.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.30 or newer
+
+- No external add-on dependency required

@@ -1,0 +1,183 @@
+Economy System by Baku
+
+Official Video Showcase
+
+Watch the official Economy System by Baku showcase to explore the addon, banking features, missions, shops, and multiplayer economy system.
+
+Watch Now: Economy System by Baku - Official YouTube Video
+
+Economy System by Baku is a complete multiplayer economy addon designed for Minecraft Bedrock Survival worlds, SMPs, and multiplayer servers. It adds a secure virtual banking system where every player has their own persistent balance, missions, shop access, transaction history, statistics, and money transfer features.
+
+Complete Bank System
+
+- Persistent virtual currency: Dollars ($)
+
+- Separate bank account for every player
+
+- Balance survives death, logout, world reload, and server restart
+
+- Secure server-side transaction validation
+
+- Recent transaction history
+
+- Player statistics and richest-player leaderboard
+
+Bank Card
+
+The Bank Card is the main controller of the addon. Use it to open the complete banking interface.
+
+- Cannot be dropped
+
+- Cannot be moved into chests or other containers
+
+- Kept safely after death
+
+- Automatically restored if missing after joining or respawning
+
+- Your money is stored in your account, not inside the card
+
+Mission System
+
+Earn Dollars by completing different mission categories:
+
+- Daily Missions smaller objectives with regular rewards
+
+- Mega Missions difficult long-term challenges
+
+- Monthly Missions major monthly objectives
+
+- Yearly Missions extremely difficult high-reward challenges
+
+Missions can track activities such as mining, harvesting crops, killing mobs, defeating bosses, travelling, dealing damage, placing blocks, collecting resources, playtime, and more.
+
+Mission rewards include claim protection to prevent duplicate rewards and common farming exploits.
+
+Buy Shop
+
+Spend your Dollars directly through the built-in shop.
+
+- Blocks
+
+- Tools
+
+- Weapons
+
+- Armor
+
+- Food
+
+- Farming items
+
+- Resources
+
+- Mob drops
+
+- Special items
+
+Choose different quantities and purchase items securely using your bank balance.
+
+Sell System
+
+Sell supported Vanilla items directly from your inventory and receive Dollars.
+
+- Inventory is checked before every sale
+
+- Items are removed before payment is finalized
+
+- Renamed, enchanted, or damaged items are protected from accidental selling
+
+- Sell 1, 16, 32, 64, or Sell All when available
+
+- Sell prices are normally lower than buy prices to prevent infinite money loops
+
+Player Money Transfers
+
+Send Dollars securely to other online players.
+
+- Select an online player
+
+- Enter a transfer amount
+
+- Confirm before sending
+
+- Sender and receiver both receive transaction records
+
+- Self-transfer, negative values, duplicate confirmations, invalid amounts, and insufficient balance are protected
+
+Transaction History
+
+View your recent economy activity, including:
+
+- Mission rewards
+
+- Shop purchases
+
+- Sold items
+
+- Sent money
+
+- Received money
+
+- Admin balance adjustments
+
+Bank Statistics
+
+- Current Balance
+
+- Total Earned
+
+- Total Spent
+
+- Total Money Sent
+
+- Total Money Received
+
+- Daily Missions Completed
+
+- Mega Missions Completed
+
+- Monthly Missions Completed
+
+- Yearly Missions Completed
+
+- Items Purchased
+
+- Items Sold
+
+Richest Players Leaderboard
+
+Compete with other players and see who has the highest bank balance in the world.
+
+Security & Anti-Exploit Protection
+
+The addon includes protection against common multiplayer economy exploits:
+
+- Duplicate mission rewards
+
+- Repeated transfer confirmation
+
+- UI button spam
+
+- Negative or invalid money values
+
+- Integer overflow
+
+- Buying without enough balance
+
+- Selling items that are not owned
+
+- Placed-block mining mission farming
+
+- Several generated-block farming methods
+
+- Duplicate Bank Cards
+
+- World reload abuse
+
+Multiplayer Ready
+
+Every player's balance, missions, statistics, claims, and transaction history are stored separately. The system is designed for Survival multiplayer worlds and SMP gameplay.
+
+Admin Controls
+
+World owners and authorized admins can acc

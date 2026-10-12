@@ -1,0 +1,5 @@
+This mod makes your crosshair display different when an entity is in reach like players, zombie, sheep etc, this is useful in PvP and servers.
+
+Credits: Codes are made by Yannnim so I do not claim full ownership of this mod.
+
+Warning: Do not use the first file that you see, that could be a mistake or maybe not I maybe added the wrong one so kindly check if the first file use the same pack icon as given on CurseForge and MCPEDL and check if the file contains a .md file called "credits.md"

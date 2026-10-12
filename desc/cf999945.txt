@@ -1,0 +1,49 @@
+This addon adds 28 new ores, 28 armors and tools. It is compatible with other addons. Supported languages: English, Spanish and Portuguese.
+
+Starting with version 1.6.7, achievements will no longer be disabled when using the add-on
+
+New textures
+
+Platinum
+
+Garnet
+
+Malachite
+
+Scheelite
+
+Ruby
+
+Adamantite
+
+Infernal
+
+Axinite
+
+Kunzite
+
+Alexandrite
+
+Cyanite
+
+Onyx
+
+Beryl
+
+Topaz
+
+Malachite
+
+Apatite
+
+Fluorite
+
+Pyrite
+
+Zircon
+
+Tools and armor information
+
+Suggestions or report errors on my TikTok: @sangtp0
+
+It is necessary to download the behavior pack and the resource pack for the addon to work correctly.

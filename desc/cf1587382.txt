@@ -1,0 +1,27 @@
+ADS PVP BOT
+
+https://ads-pvp-bot.carrd.co/
+
+Do you want to improve your PvP skills in Minecraft Bedrock? The ADS PVP BOT is here to help you master your combat techniques!
+
+Features:
+
+Advanced Combat Training: Practice against a bot to sharpen your aim and reaction time.
+
+Realistic Movement: The bot mimics real player movements to give you a challenging experience.
+
+Easy Setup: Simple to use, just load the world/addon and start practicing!
+
+Performance Optimized: Designed to run smoothly without lag on your device.
+
+How to use:
+
+Download the file.
+
+Import it into your Minecraft Bedrock game.
+
+Start the game and spawn the bot to begin your training.
+
+Feedback:
+
+If you like this mod, please leave a rating! If you face any issues or have suggestions to make it better, let me know in the comments.

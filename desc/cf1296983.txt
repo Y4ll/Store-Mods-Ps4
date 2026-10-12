@@ -1,0 +1,77 @@
+Food Expansion - Food Expanded - More Food - New Food - New Crops - New Plants - New Berries - Sushi - Survival Food Addon - Minecraft Bedrock Edition Achievement Friendly Farming Addon No Player.json Changes
+
+This addon introduces over 150 brand-new food items, 9 new berry bushes, 23 new crops, 18 new plants and multiple new block and mob drop to give your survival world more variety and purpose. Whether you're baking cookies, rolling sushi, or accidentally burning your steak, each recipe brings a unique combination of hunger restoration and saturation effects. Some foods offer fast eating, some give better saturation, and others are just fun alternatives to whats already in the game. Its a simple, balanced way to make farming, cooking, and exploring feel more rewarding.
+
+There are no required mods for this pack to work! Experiments are also not required. The pack works well by itself and with others (Such as Farmer's Delight or Better on Bedrock). Click through the tabs below to read about and see all the new food in this addon!
+
+This pack also works on Realms and Servers!
+
+Overview of New Foods:
+
+Image of New Crops (and Plants):
+
+Image of New Ore:
+
+Image of Turkeys:
+
+Image of Placeable Foods (Pies and Turkey):
+
+Image of New Guidebook (Crafted with 1 book nad 1 blue dye. One is provided first time world is entered):
+
+Guidebook contains images, recipes, tips and tricks, nutrition + saturation values, and biome locations for plants.
+
+I strongly recommend using bundles if you play with this addon in survival. Youll accumulate a lot of items! The addon is great in both survival and creative mode!
+
+New Foods, Items, Plants, and Crops (in Detail)
+
+New Base Items:
+
+Base Items are Non-edible items that are required for other recipes.
+
+Steel Bowl Steel Bowls are used to craft numerous new stews, soups, and rice dishes. When soup is consumed, you get the empty bowl back.
+
+Empty Jar Empty Jars are used to craft Jelly. When Jelly is consumed, you get the Empty Jar back.
+
+Empty Milk Bottle Used for carrying milk more easily. Can be used directly on a cow.
+
+Bucket of Salt Obtained from smelting a water bucket. Used to craft Salt.
+
+Salt Can be crafted from a Bucket of Salt and is used in various dishes. Salt also drops from underwater animals and monsters and has its own ore variant.
+
+Butter Used for various baked goods.
+
+Raw Rice Obtained from Wild Rice found in Swamps and Jungles (in shallow waters). You can plant Raw Rice in shallow water to grow more rice. Used to craft Prepared Rice. A crop and wild variant will be added in future versions.
+
+Prepared Rice Crafted from Raw Rice. Used to craft many sushi rolls.
+
+Ramen Noodles Used to craft Ramen Stew.
+
+Ginger Root Found by digging dirt (1/64 chance). Can be planted on farmland to grow more ginger. Not consumable. Has a 1/4 chance of dropping from rooted dirt.
+
+Cinnamon Obtained by breaking jungle logs. Uses coming in future updates.
+
+Pinecone Can be obtained by breaking Spruce Leaves. Uses coming in future updates.
+
+Acorn Can be obtained by breaking Oak Leaves. Uses coming in future updates.
+
+Barley Can be obtained from wild grain (plant) or grown from seeds.
+
+Rye Can be obtained from wild grain (plant) or grown from seeds
+
+Gelatin Can be obtained from smelting bones.
+
+Turkey Feather Can be obtained from Turkeys when slain. Can be used instead of chicken feathers in crafting recipes.
+
+Turkey Egg Can be obtained from Turkeys randomly. Can be used instead of chicken eggs in recipes.
+
+Crafting Recipes:
+
+New Berries:
+
+Berries are a new type of natural harvestable plant found scatetred throughout the world. All berries restore 3 Hunger Points and can be eaten twice as fast as normal food. Some berries can be crafted into other food items and dyes.
+
+Inkberries - These berries can be found in Swamps and Mangrove Swamps.
+
+Raspberries - These berries can be found in Forests (all standard forest types).
+
+Blackberries - These berries can be found in Birch Forests (including hills and mutated varia

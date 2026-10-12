@@ -1,0 +1,29 @@
+What's in my Shulker?
+
+Preview the contents of your Shulker Boxes directly from your inventory.
+
+This addon adds a tooltip displaying the items stored inside each Shulker Box.
+
+How to use?
+
+It works out of the box!
+
+No setup or toggles required. However, Both the resource and behavior pack has to be applied to a given world for the addon to work.
+
+The tooltip of the items appears as soon as you hover over the shulker!
+
+Coloring Shulkers
+
+To color shulkers interact with them while holding a dye!
+
+Features!
+
+Custom name!
+
+Multiple preview colors!
+
+Colors can be changed by renaming the shulker in the anvil.
+
+start the name with these to change the color
+
+0 1 n 3 8 2 9 a 5 6 d u 4 7 f e

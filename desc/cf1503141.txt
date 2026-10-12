@@ -1,0 +1,51 @@
+If you can't get the latest version of this texture pack on MCPEDL, You can try download with Curseforge
+
+If you are using a "lag fixer" or "no particle" resource pack, you have to activate and put 'Mace mas effect' above on all of them
+
+For example:
+
+As the description said: this texture pack focuses on enhancing the experience of using the Mace by introducing a brand-new, satisfying impact effect.
+
+Every successful hit now feels more powerful and immersive, with improved visual feedback that emphasizes the strength and impact of the weapon. Whether you're smashing enemies or testing it out for fun, the upgraded effect makes each strike more rewarding and dynamic.
+
+Perfect for players who want their combat to feel heavier, cleaner, and more visually engaging.
+
+Features
+
+simple mace effect
+
+Customizing ability
+
+You can change the circle for effects, style.
+
+I recommend use light colored circle because of the glow in the dark effect
+
+</>Compatibility
+
+- compatible with Action and Stuff
+
+- compatible with Raiyon's Java Combat and Blurry's Java PvP
+
+- useable on any server
+
+Installation
+
+- Download the resource pack
+
+- Move it into the 'resource packs' folder
+
+- Open Minecraft Settings Global Resources
+
+- Activate Mace mas effect
+
+Disclaimer
+
+This texture pack use ZERO asset or code from the original mod!
+
+respect to the original dev still, they made a good work that my small project can't compare to or replace
+
+Feedback & Support
+
+If you have suggestions, feedback, or encounter any issues, feel free to leave a comment. Your feedback helps improve the pack even further
+
+Feel free if you want to use this in your texture pack and post it on curseforge or somewhere, I would very appreciate if you give me a proper credit.

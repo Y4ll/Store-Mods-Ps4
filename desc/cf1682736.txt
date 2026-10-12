@@ -1,0 +1,111 @@
+Newb X Mike Shader makes Minecraft Bedrock look alive without changing the vanilla feel. Soft clouds drift across the sky and drag their shadows over the ground, sunrises and sunsets burn orange around the sun, and the night fills with stars that twinkle on their own.
+
+Requirements
+
+MB LOADER IS REQUIRED TO RUN THIS SHADER
+THIS IS NOT A VIBRANT VISUALS PACK
+
+You need MB Loader and a patched Minecraft. This is a real shader, not a Vibrant Visuals pack. Vanilla Minecraft cannot load it. Installing it on an unpatched game does nothing at all.
+
+Do not turn Vibrant Visuals on for this one. It is a separate renderer and this shader is not built for it.
+
+If you are looking for something that works on normal unpatched Minecraft, all of my other packs are Vibrant Visuals packs. Links are further down.
+
+What this changes
+
+Volumetric clouds
+
+Soft, fluffy clouds that move across the sky and drag their shadows over the ground as they pass. This is the part I spent the most time on.
+
+Sunrise and sunset
+
+The sky turns orange in a band around the sun while the rest of it stays blue, instead of the whole sky changing color at once.
+
+Night sky
+
+Cyan night sky with stars that twinkle on their own rather than sitting flat.
+
+Rain
+
+The ground goes dark and soaked while rain is falling, and fog rolls in around you.
+
+Thunderstorms
+
+Grass and trees sway much harder than they do in normal rain, so a storm reads as a storm before you hear the thunder.
+
+Waving plants
+
+Grass, leaves, flowers and saplings all move in the wind.
+
+Glowing blocks
+
+Torches, lanterns, glowstone and ores give off light in their own color instead of everything glowing the same orange.
+
+Colors and shadows
+
+Stronger shadows and richer colors through the whole day, without pulling the world away from the vanilla look.
+
+Subpacks
+
+Pick a cloud style in the pack settings:
+
+- Default
+
+- Rounded Clouds
+
+- Box Clouds
+
+- Realistic Clouds
+
+There are also two lighter options if you care more about frames than looks:
+
+- No Fog drops the fog and the rain haze.
+
+- No Wave stops plants and leaves from moving.
+
+On a weaker phone, start with No Wave. It is the cheapest thing to give up and you keep the clouds and the lighting.
+
+Credits
+
+This shader is built on Newbsl. The base rendering work is not mine and full credit goes to its developers. What I have done here is my own tuning on top of it: the clouds, the sky colors, the storm behavior and the overall look.
+
+Installation
+
+- Install MB Loader first. Without it nothing below will do anything.
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate the shader
+
+- Pick your cloud subpack, or a No Fog / No Wave option if you want more frames
+
+- Leave the world and load it again once if nothing looks different
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link this CurseForge page in the description.
+
+- Use the shader in your own gameplay videos and streams. No permission needed, go ahead.
+
+- Modify it for your own personal use. Tweak whatever you want on your own device. The modified version has to stay with you though. It cannot be uploaded or shared publicly anywhere.
+
+- Share this page with friends or in servers.
+
+YOU ARE NOT ALLOWED TO
+
+- Upload a modified version. Editing my work and releasing it under your own name, or claiming it as your own, is not allowed.
+
+- Put the download behind your own link. If you make a review video, link my official project page and nothing else. No monetized links, no link shorteners, no ad links, and no direct download that you host yourself.
+
+- Reupload it anywhere else.
+
+FAQ
+
+The shader is not working. Nothing changed after I installed it.
+You almost certainly do not have MB Loader installed.
+
+This is a shader, not a resource pack. Normal Minecraft cannot render it. If you import it into an unpatched game it will show up in your pack list and th

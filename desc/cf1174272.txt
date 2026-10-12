@@ -1,0 +1,9 @@
+are you bored with the vanilla graphics on Minecraft bedrock?
+
+well u're in the right place
+
+Newb X LMI is a variant of Newb shader with some configuration to make it look better and it has aesthetic style for Android and Windows devices, although it only changed terrain lighting and others and doesn't have dynamic shadow effect, this shader can be run a little bit smooth on low end devices and run smoothly on high end
+
+this shader need a specific action in order to make it work
+
+if you had a problem with installing the shader contact me on discord @enoughrise11

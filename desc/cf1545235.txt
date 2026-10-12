@@ -1,0 +1,61 @@
+Super TNT Addon for Minecraft Education & Bedrock
+
+Take explosions to the next level with the Super TNT Addon! This addon massively upgrades TNT in Minecraft, creating huge explosions, extreme destruction, and chaotic gameplay moments.
+
+Whether you want to destroy entire landscapes, prank your friends, or create explosive YouTube content, Super TNT makes Minecraft far more intense and entertaining.
+
+Perfect for:
+
+- Survival chaos
+
+- TNT experiments
+
+- Challenge worlds
+
+- Multiplayer fun
+
+- Content creators and videos
+
+- Minecraft Education lessons and demonstrations
+
+Features
+
+- Extremely powerful TNT explosions
+
+- Massive destruction effects
+
+- Works in Minecraft Bedrock Edition
+
+- Compatible with Minecraft Education Edition
+
+- Easy .mcaddon installation
+
+- Fun and chaotic gameplay
+
+Installation
+
+- Download the .mcaddon file
+
+- Open the addon with Minecraft
+
+- Activate both the behaviour pack and resource pack
+
+- Enable the addon in your world
+
+- Light the TNT and enjoy the chaos!
+
+Warning
+
+This addon creates very large explosions and may cause lag or crashes on lower-end devices if too many TNT blocks are activated at once.
+
+Download & More Information
+
+You can also download this addon directly from the LWME website:
+
+LWME Super TNT Addon Download Page
+
+Creator
+
+Created by Learn with Minecraft Education (LWME)
+
+More Minecraft Education addons, tutorials, mods, maps, and resource packs can also be found on the LWME website and YouTube channel.

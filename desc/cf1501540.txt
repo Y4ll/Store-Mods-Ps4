@@ -1,0 +1,13 @@
+TC Star Visuals is a shader pack in development for Minecraft Bedrock/PE, designed to be fully compatible with Vibrant Visuals and take the game's graphics to a new level. Its aim is to redefine how worlds are perceived in Bedrock, offering a more immersive and realistic atmosphere.
+
+Among its main features already available are:
+
+Realistic water with dynamic reflections, adding greater depth and naturalness to rivers, seas, and lakes.
+
+A revamped sun, abandoning the classic square shape for a more organic and immersive look.
+
+Improved lighting on blocks and in nighttime environments, bringing every structure and landscape to life even in the dark.
+
+The most exciting thing is that TC Star Visuals is just getting started. The project promises to add many more features in future versions: from more detailed skies and atmospheric effects to dynamic shadows and a unique visual style that will set it apart from other shaders available in the community.
+
+The vision behind this shader is clear: to become one of the most complete and aesthetically pleasing options for those looking to transform their Minecraft PE experience, combining performance with visual beauty.

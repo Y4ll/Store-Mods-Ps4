@@ -1,0 +1,31 @@
+Advanced Economy Shop (2.0.2)
+
+Advanced Economy Shop transforms the way you buy and sell in Minecraft Bedrock by introducing realistic, supplyanddemandbased pricing. Watch prices fluctuate in real time based on what your players are buying and selling!.
+
+in this add-on you can see the price movement of an item or block based on available supply and demand You can also see indicators that the item or block is experiencing price changes or not, then for items such as mace he can be influenced by 2 things, namely supply, demand and price movements which are getting more and more expensive and very volatile.
+
+How to Use or Instal
+
+- Turn on the Experimental Beta-API while you creating the world.
+
+- Type /shop in the chat menu then enter, after that close the chat menu and the shop UI will be appear by itself
+
+Some screenshot in the game
+
+Black UI Version
+
+Normal Version
+
+What's new?
+
+- Supported minecraft version 1.26.51.1
+
+Note : if you have a previous version, you need to delete it and replace it with new version
+
+I recommend you to join my discord, because I have the intention to provide updates only on my discord server.
+
+Join the Community
+
+Have questions, want updates, or see what I'm working on?
+
+> Join our Discord: Zepai Community

@@ -1,0 +1,7 @@
+This is a simple addon that makes explosions more realistic
+
+and gives them physics.
+
+This is very fun to mess around with, not recommended for survival cause there may be bugs.
+
+Showcase video:

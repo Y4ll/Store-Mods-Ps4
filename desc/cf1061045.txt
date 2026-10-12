@@ -1,0 +1,141 @@
+Item Info+ for Minecraft Bedrock
+
+Check out my personal website! :D https://honkit26113.com/
+
+Follow me on Twitter (X) for exclusive sneak peeks & announcements! x.com/honkit1103
+
+4 different subpacks are available!
+
+Go into Global Resources, activate the pack, and click on the cog next to the Deactivate button.
+
+Then, simply choose what information you want to see on item names. You must restart Minecraft for the changes to take effect.
+
+Mode 1: Hunger & Saturation Points Only
+
+Hunger & Saturation Points Only
+
+Only the following will be shown in item names:
+
+- the amount of hunger points & saturation given after being consumed
+
+- a warning icon if the food is harmful
+
+In this mode, all saturation bars are rounded off to 1 or 0.5 due to technical and design reasons.
+
+^ Cooked Beef: gives 8 Hunger Points (4 Hunger Bars) & 12.8 Saturation Points (6.4 Saturation Bars, rounded off to 6.5 bars)
+
+^ Baked Potato: gives 5 Hunger Points (2.5 Hunger Bars) & 6 Saturation Points (3 Saturation Bars)
+
+Please note: Some foods give extremely low amounts of saturation, so it will be rounded to 0 bars.
+
+Don't know how the saturation system works? The Minecraft Wiki has got you covered: https://minecraft.wiki/Hunger#Mechanics
+
+Mode 2: Detailed Item Names
+
+Detailed Item Names
+
+The following will be shown in item names & descriptions:
+
+- Hunger, Saturation & Armor Points
+
+- Time To Use Consumables & Warning Icons for Harmful Foods
+
+- Max Item Durability
+
+- Tools' Default Attack Damage
+
+- Mob HP & Hostility on Spawn Eggs
+
+- Duration of Music Discs
+
+- Banner Pattern & Firework Pattern Icons
+
+- Enchantment & Light Level Icons
+
+- Potion & Tipped Arrow Stats
+
+^ Poisonous Potato: fills 1 Hunger Bar, fills 0.6 Saturation Bars, takes 1.6 seconds to eat, and gives you harmful effects
+
+^ Netherite Chestplate: gives 4 Armor Points. It has a maximum of 592 durability.
+
+^ The Netherite Sword does +8 attack damage when unenchanted, and has a maximum of 2031 durability. Sharpness I - V gives 1, 2, 3, 5, and 6 additional attack damage respectively.
+
+^ Spawn Eggs show the mob's HP and hostility.
+
+^ All Enchantments now have icons showing you what tool they can be applied to.
+
+^ All Music Discs now show the duration of respective songs.
+
+^ All Blocks & Items that emit light now have icons showing you their light level emission.
+
+^ Items that can be used as furnace fuel now show the amount of items that can be smelted.
+
+^ Firework Rockets & Firework Stars now have icons next to their pattern names!
+
+^ All Banner Patterns now have an icon next to their name.
+
+^ Potions & Tipped Arrows now have stats displayed next to their names! Please note: Some potions do not have any stats displayed, as their effects are self-explanatory.
+
+Minecraft Earth Style Icons
+
+If vanilla style icons are too boring for you, you might like these icons! These icons are all in the style of Minecraft Earth. Some icons are replicated from Minecraft Earth itself!
+
+This icon style is only available for Mode 2: Detailed Item Names.
+
+Monochrome Icons
+
+Prefer a simpler, cleaner look? These Monochrome Icons are only in black, gray, and white.
+
+This icon style is only available for Mode 2: Detailed Item Names.
+
+Additional Features
+
+There is now a new section in How to Play! This section includes an explanation of all the icons and the changelog of the latest update, so you can check without having to revisit this site every time.
+
+You can access this section in game easily by going to the Pause screen.
+
+Supported Languages
+
+This pack supports all languages in the game in addition to Vietnamese, for a total of 30 languages!
+
+- English (US, UK)
+
+- Deutsch (Deutschland)
+
+- Espanol (Espana, Mexico)
+
+- Francais (France, Canada)
+
+- Italiano (Italia)
+
+- ()
+
+- ()
+
+- Portugues (Brasil, Portugal)
+
+- ()
+
+- (, )
+
+- Nederlands (Nederland)
+
+- ()
+
+- Cestina (Cesko)
+
+- Dansk (Danmark)
+
+- ()
+
+- Suomi (Suomi)
+
+- Magyar (Magyarorszag)
+
+- Indonesia (Indonesia)
+
+- Norsk bokmal (Norge)
+
+- Polski (Polska)
+
+- Slovencina (Slo

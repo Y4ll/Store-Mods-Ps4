@@ -1,0 +1,181 @@
+Nico's Item Expansion is an add-on that focuses on adding useful, convenient, and suitable items for your survival game. It introduces more food, weapons, armor, and recipes for previously uncraftable items. Additionally, this mod adds a new crafting table, evaporator, and pots.
+
+(v1.14.5)
+
+NEW UPDATES:
+
+Version: 1.14.5:
+
+Version: 1.14.5
+
+NOTE:
+
+- This update only works with Minecraft version 26.40 and higher.
+
+BLOCKS:
+
+- Custom blocks now have assigned instrument sounds when played by a Note Block.
+
+RECIPES:
+
+- Added the missing Fried Egg recipes for Blue Eggs and Brown Eggs.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.40 version.
+
+Version: 1.14.4:
+
+Version: 1.14.4
+
+NOTE:
+
+- This update only works with Minecraft version 26.30 and higher.
+
+ITEMS:
+
+- Added the Copper Apple, which can be crafted in the Artifacture Table.
+
+- Fixed the effect levels of all consumable items with status effects.
+
+- Fixed the Pea Stew consumption effect chance.
+
+- Removed the Golden Chain. It is now included in Nico's Block Expansion Add-On.
+
+- Removed the Cocoa Powder.
+
+- Changed the recipes for the Chocolate Bar, Bamboo Cup with Chocolate, and Jar of Chocolate. They are now crafted using Cocoa Beans instead of Cocoa Powder.
+
+BLOCKS:
+
+- Removed the Cocoa Spore Pot.
+
+- Evaporators now have a proper collision box, allowing entities to fit inside them.
+
+- Evaporators with Water now have the same transparency and color as Vanilla water.
+
+- Evaporators with Crying Obsidian now emit light.
+
+VISUALS:
+
+- Added local lighting effects to custom light-emitting blocks:
+
+- Artifacture Table
+
+- Bamboo Cup with Glow Berry Juice
+
+- Evaporator with Crying Obsidian
+
+- Evaporator with Lava
+
+- Evaporator with Tearing Lava
+
+- Jar of Glow Berry Juice
+
+- Spore Pots
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.30 version.
+
+Version: 1.14.3:
+
+Version: 1.14.3
+
+ITEMS:
+
+- Added Copper Powder, crafted using Copper Nuggets in the Artifacture Table or by smelting copper items in a Blast Furnace. It can be used as ammunition for the Powder Staff or sprinkled into a Spore Pot.
+
+- Added Beetroot Pie.
+
+- Powder Staff:
+
+- Increased area damage radius.
+
+- Increased projectile particle effects; they no longer expire when hitting a block.
+
+BLOCKS:
+
+- Added the Copper Spore Pot, created by sprinkling Copper Powder into a clear Spore Pot.
+
+RECIPES:
+
+- Items that can now be smelted in a Blast Furnace to produce Iron Powder:
+
+- Activator Rail
+
+- Chains
+
+- Compass
+
+- Detector Rail
+
+- Heavy Weighted Pressure Plate
+
+- Iron Bars
+
+- Iron Door
+
+- Iron Trapdoor
+
+- Lantern
+
+- Minecart
+
+- Rail
+
+- Shears
+
+- Soul Lantern
+
+- Items that can now be smelted in a Blast Furnace to produce Gold Powder:
+
+- Bell
+
+- Clock
+
+- Golden Rail
+
+- Golden Dandelion
+
+- Light Weighted Pressure Plate
+
+- Diamond Nautilus Armor can now be smelted in a Blast Furnace to produce Diamond Powder.
+
+- Smelting Chain Links in a Blast Furnace now produces Iron Powder instead of Iron Nuggets.
+
+- Smelting Diamond Horse Armor in a Blast Furnace now yields 8 Diamond Powder instead of 1.
+
+Version: 1.14.2:
+
+Version: 1.14.2
+
+NOTE:
+
+- This version may no longer be able to update over older versions.
+
+- This update only works with Minecraft version 26.10 and higher.
+
+TECHNICAL CHANGES:
+
+- Changed the UUID to fix importing issues on Realms. (Note: This will prevent the add-on from updating over older versions.)
+
+ITEMS:
+
+- Removed the Copper Scrap.
+
+- Sweet Berry Pie saturation increased from 2.8 to 8.4.
+
+RECIPES:
+
+- Improved recipe unlocking: custom block recipes are now unlocked when any of their crafting ingredients are obtained.
+
+- Wooden Club, Dripstone Club, & Magma Club can now be crafted using any type of Planks.
+
+- Copper Evaporators can now be crafted using Copper Nuggets instead of Copper Scrap.
+
+- Jar Openers can now be crafted using Copper Nuggets instead of Copper Scrap.
+
+- Prismarine Rods can now be crafted using Copper Ingots instead of Copper Scrap in the Artifacture Table.
+
+- Added the Golden Dandelion recipes using

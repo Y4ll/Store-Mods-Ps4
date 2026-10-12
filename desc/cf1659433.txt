@@ -1,0 +1,32 @@
+activate all experimentals
+
+This addon adds the wither storm from Minecraft storymode
+
+with some original takes
+
+--------
+
+mainly what the addons adds:
+
+new bosses
+
+new mobs
+
+new weapons
+
+new items
+
+--------
+
+-> Important <-
+
+This is the full release of the addon, unlike its demo
+
+it fixes lots of bugs adds more features and is more accurate to Minecraft storymode
+
+This is a 2 year project,
+All art, models and some textures created by PixeltrashMc
+
+Disclaimer: This Minecraft add-on is a fan-made project and is not affiliated with, endorsed by, or associated with Microsoft, Mojang Studios, or Telltale Games. Minecraft is owned by Microsoft, and all non-original characters, names, designs, and other intellectual property featured in this add-on belong to their respective owners. Only the original content created specifically for this add-on belongs to its creator.
+
+Copyright Notice: The original code, models, textures, animations, sounds, and other assets created specifically for this add-on are Pixeltrashmc and may not be copied, redistributed, or claimed as your own without permission. This project is a fan-made work and is not affiliated with, endorsed by, or associated with Microsoft, Mojang Studios, or Telltale Games. Minecraft and all non-original characters, names, and other intellectual property belong to their respective owners.

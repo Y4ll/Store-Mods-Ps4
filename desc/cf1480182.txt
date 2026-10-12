@@ -1,0 +1,53 @@
+We are working hard on BR v1.1. This v1.1 update will be a MASSIVE content overhaul and it will release on the Minecraft Marketplace first, and then for free afterwards. Join our discord for updates.
+
+JOIN OUR DISCORD FOR UPDATES!
+
+Bedrock Reimagined transforms the vanilla Bedrock experience with new mobs, bosses, structures, magic systems, and a completely new way to beat the game on top of a full custom resource pack with enhanced mob animations, textures, and Vibrant Visuals.
+
+Bedrock Reimagined Features
+
+- Epic Bosses & Mini-Bosses to challenge powerful adventurers
+
+- Custom Structures scattered across the world
+
+- Procedurally Generating Mineshafts full of mobs and loot
+
+- New Hostile Mobs to battle across every biome
+
+- Pets, Passive Animals, and Ambient Creatures that bring the world to life
+
+- Magic & Mana System with powerful magical items
+
+- Machines, Pipes, Quaries, and Automation Systems
+
+- World Events like Sandstorms, Meteor Showers, and the Maple Event
+
+- New Ores, Armor, Weapons, and Tools with progression integrated into vanilla gameplay
+
+- Custom Backpacks, Hats, and Charms to enhance your adventure
+
+- Hundreds of Decorative Blocks, including beds, banners, lamps, and more
+
+- RPG-Style Quest System with unique quests and rewards
+
+- Custom Biome Generation with new biomes and enhanced vanilla generation
+
+- Custom UI Elements, including WAILA (What Am I Looking At) and a Minimap
+
+And so much more to explore in one of Bedrocks largest FREE expansions!
+
+Minimap / What Am I Looking At (WAILA)
+
+Dynamic Quest System / Custom Gameplay
+
+FAQ / Device Settings:
+
+Bedrock Reimagined is a large pack requiring hefty hardware. You may lag on low-end devices. There is currently a stutter on most mobile devices. We are working to fix this issue. We are working on ALL optimizations to make the pack better to play.
+
+For a smooth mobile experience, we recommend at 8GB+ of memory, Vibrant Visuals disabled, and a 7-chunk render distance.
+
+Bedrock Reimagined is compatible with Actions and Stuff. Please disable the Bedrock Reimagined Resource Pack for full functionality.
+
+Join our Discord:
+
+Bedrock Reimagined has a lot to it, and it can be confusing at times. Find others to play with, ask for tips, and make suggestions for future updates!

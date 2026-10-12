@@ -1,0 +1,21 @@
+Armor trims in vanilla Minecraft are subtle and easy to miss. Glowing Armor Trims makes every single trim pattern glow Netherite, Diamond, Iron, Gold, Chainmail, and Leather, all trim patterns included. Your armor now stands out exactly the way it should.
+
+Features
+
+- All armor types supported Leather, Chainmail, Iron, Gold, Diamond, and Netherite all included
+
+- All trim patterns glow every trim pattern in the game gets the glowing effect applied
+
+- Both equipped and held rendering trims glow when worn on your body and when held in hand
+
+- No gameplay changes purely visual upgrade with zero performance impact
+
+- No setup required just install and activate, glowing trims apply automatically
+
+Known Bug
+
+When holding a trimmed armor piece in your hand, the area where the trim is applied may appear as a cutout or gap on the armor model. This is a Bedrock engine limitation with attachable rendering and only occurs when the item is held it looks correct when worn.
+
+Achievement Friendly?
+
+Yes fully achievement friendly. Use it without any worries.

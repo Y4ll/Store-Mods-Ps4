@@ -1,0 +1,33 @@
+Do you always want a way to store your levels for use later? Always dying and you want to save your levels? This addon just adds that! with the use of 2 new blocks the Level drain and the Level infuser.
+
+These 2 new blocks will help you store and gain your levels back. The levels are not stored inside the block itself but the level stored is different per player.
+
+How to use:
+
+Standing on top of the Level Drain block will drain your levels.
+
+Standing on top of the Level infuser will gain back the levels you stored.
+
+To see how many levels you have stored simply hit the block.
+
+Crafting:
+
+These 2 blocks are easy to craft:
+
+Level Drain:
+
+Level Infuser:
+
+Enjoy the addon! :D
+
+Credits: Jayly - Calculations for exp
+
+Reminder:
+
+You are not allowed to repost this resource/addon.
+
+You are not allowed to create your own download link.
+
+You are not allowed to share the direct link.
+
+Feel free to make videos just credit.

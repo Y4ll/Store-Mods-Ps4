@@ -1,0 +1,20 @@
+Vors FPS Booster is a lightweight optimization pack built to strip away the visual overhead that quietly drags your framerate down without turning your world into a flat, lifeless mess. Every swap is tuned to look clean while costing your GPU less.
+
+Compatible With: Most shader and texture packs stack it on top of your existing setup for an instant performance boost.
+
+What's Optimized:
+
+- 131 particle effects neutralized fire, smoke, explosions, spells, drips, bubbles, dust, the works. Combat and mob fights stop drowning your GPU in overdraw.
+
+- Streamlined ore & deepslate textures same readability at a fraction of the texture complexity.
+
+- Lightweight enchant glint the animated shimmer on your gear and shield no longer tanks FPS in your inventory or mid-fight.
+
+- Simplified sky & weather sun, moon phases, and weather textures trimmed for a smoother day/night cycle.
+
+- Faster glass & terrain blocks tinted glass, observers, dirt, grass, cobblestone, and friends, reworked to render quicker.
+
+- Biome color left untouched grass and foliage colormaps are unmodified, so the world still feels alive, not bleached out.
+
+Built For:
+Low-end and mid-range devices struggling to hold steady FPS, and high-end setups pushing shaders or high render distance who want extra headroom.

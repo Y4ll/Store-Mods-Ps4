@@ -1,0 +1,1 @@
+A lightweight and beautiful shader for Minecraft, focused on providing soft lighting and pleasing eye effects. Special thanks to Adolfo "Emanuel" for the photos and "Flavio" for the videos, tests, and evaluation. Hope you enjoy it!

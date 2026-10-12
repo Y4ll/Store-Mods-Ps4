@@ -1,0 +1,31 @@
+What is this?
+
+This is an addon of the famous Lifesteal where if you kill someone you get +1 Heart, and if you die you lose 1 heart.
+
+Recipes.
+
+The Heart has 3 recipes:
+
+The Beacon of Life:
+
+Items
+
+The Heart:
+
+Gives you +1 extra heart.
+
+The Beacon of Life:
+
+Revive banned players after they lost all their Hearts.
+
+Commands:
+
+- /lifesteal withdraw <amount>: Withdraw hearts.
+
+- /admin-lf: Operator only command that opens Admin Menu where you can edit Config and Player Hearts.
+
+Thanks for downloading :D
+
+Check out my discord server! https://discord.gg/RMp3Wvfn4M
+
+Donate to me on https://ko-fi.com/cennac

@@ -1,0 +1,15 @@
+Saturated
+
+Saturated is a Resource Pack for Minecraft Bedrock Edition that makes the game look slightly more vibrant!
+
+This pack is also available for Java Edition.
+
+All types of textures are more vibrant including:
+
+- GUIs
+
+- Items
+
+- Blocks
+
+- Entities

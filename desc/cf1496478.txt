@@ -1,0 +1,45 @@
+Structures Plus is a Minecraft Bedrock add-on focused on adding new, immersive structures to your world while staying true to the vanilla experience.
+
+Unlike many other structure add-ons, Structures Plus avoids generating oversized builds that feel out of placesuch as massive 50-block towers spawning in the middle of a plain. Instead, every structure is carefully designed to blend naturally with its surrounding biome.
+
+- Loot: Balanced and progression-friendly. You wont find overpowered rewards like full diamond armor at the start of your world. Loot is intentionally modest, including items like basic tools, food, or small supplies to maintain Minecrafts survival balance.
+
+- Design: Vanilla-style and immersive. Structures are compact, detailed, and built to feel like they belong in the world, enhancing exploration without breaking immersion.
+
+- Generation: Natural and well-integrated. Structures spawn in appropriate locations and are designed to complement the terrain rather than dominate it.
+
+These structures can be found across a variety of biomes, including:
+
+- Plains
+
+- Mountains
+
+- Forests
+
+- Savannas
+
+- Taiga
+
+- Snowy and Ice Biomes
+
+- And more across the Overworld
+
+Structures Plus is designed for players who want more to explore without sacrificing the core Minecraft feeloffering new discoveries that enhance your adventure instead of overwhelming it.
+
+Structures Plus adds the following structures for you to explore:
+
+- Mines: Small mining outposts to rest and resupply.
+
+- Houses: Villager homes with gardens.
+
+- Outposts: Watchtowers combined with ruins from another time.
+
+- Ruins: Abandoned structures from the old world, partially buried.
+
+- Temples: Ruins still in use by villagers and other entities.
+
+- Secrets: Many more structures that only you can discover!
+
+Downloads at TRMC Add-Ons
+
+- Download Structures Plus.mcaddon

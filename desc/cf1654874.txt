@@ -1,0 +1,29 @@
+Pirate's Life Add-On
+
+Time to set sail! Pirates Life is an add-on that brings the pirates life to your oceans. Hunt for buried treasure, find new sea creatures, and watch out for pirate mobs ready to attack at any moment!
+
+Key Features v1.0 Beta 1
+
+Please note: This build is an early beta release. Many more features are currently in development for future updates including decorative blocks, dungeons, bosses, and much more!
+
+All Features
+
+Blocks
+
+Items
+
+Weapons
+
+Entities
+
+Structures
+
+Events
+
+Bug Reports & Feedback
+
+Found a bug or have a suggestion to improve the add-on? Join our community and let us know on our Discord: discord.gg/altermonster
+
+Notice
+
+Pirate's Life Add-On is owned by ALTER MONSTER under management of ALTER Co., Ltd. All rights reserved.

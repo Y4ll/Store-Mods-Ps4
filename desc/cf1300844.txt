@@ -1,0 +1,55 @@
+*New Update!
+
+Sit On Player [1.1.2]
+
+Sit on Player is an unofficial Minecraft Bedrock Edition port of the popular Java mod Player Ladder by ForwarDNerN.
+
+It allows players to sit on top of each other, forming fun and chaotic player towers perfect for multiplayer
+
+Created with full permission from the original mod author
+
+How to Use
+
+To ride another player:
+
+- Make sure the player you want to ride is doesn't sneaking
+
+- Use right-click (mouse) or tap the Use button (mobile)
+
+To stack more players:
+
+- Each new rider must interact with the topmost player in the stack
+
+- You can keep stacking as high as you can!
+
+To dismount or drop riders:
+
+- Any player who is being ridden can sneak/crouch to remove the passenger(s)
+
+- Riders can also dismount manually (with sneaking too)
+
+Don't forget turn on Experimental Beta-APIs
+
+What's New?
+
+- Supported minecraft version 1.26.51.1
+
+Compatibility Note
+
+- This add-on using player.json, It may conflict with other behavior packs that also using player.json
+
+- Place this add-on at the top of the behavior pack list
+
+- Avoid combining with other packs that include their own player.json
+
+This add-on was inspired by the Java mod Player Ladder, developed by ForwarDNerN.
+
+Thanks to them for granting permission for this Bedrock port
+
+> Player Ladder on Modrinth
+
+Join the Community
+
+Have questions, want updates, or see what I'm working on?
+
+> Join our Discord: Zepai Community

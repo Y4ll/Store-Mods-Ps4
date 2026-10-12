@@ -1,0 +1,71 @@
+INSTANT Fullbright Night Vision (Achievement Friendly)
+
+INSTANT Fullbright Night Vision is a Minecraft Bedrock mod by Neq Gamerz that provides a fullbright/night-vision-style visual experience, making dark areas significantly easier to see.
+
+This pack is designed To work properly in vanilla minecraft.
+
+Features
+
+- Fullbright Night Vision See clearly in dark areas.
+
+- Instant Visibility No need to place torches just to see.
+
+- Minecraft Bedrock Compatible Designed for Vanilla MCPE/MCBE.
+
+- Lightweight Pack Focused on improving visibility without unnecessary content.
+
+- Created by Neq Gamerz
+
+Requirements - Any Minecraft Version Above 1.21.80
+
+Compatibility may vary depending on your Minecraft version and loader configuration.
+
+Installation
+
+- Download the ".mcpack" file.
+
+- Open the file with Minecraft Bedrock Edition.
+
+- Wait for the pack to be imported.
+
+- Go to World Settings Enable It from Behaviour Packs section.
+
+- Activate INSTANT Fullbright Night Vision.
+
+- Launch your world and enjoy improved visibility in dark areas.
+
+Redistribution Policy
+
+Created by Neq Gamerz.
+
+- Do not copy this project.
+
+- Do not re-upload this pack to other websites or platforms.
+
+- Do not redistribute modified or unmodified copies without permission.
+
+- Do not claim this project as your own.
+
+- Do not extract, reuse, or republish the pack's contents as another project.
+
+- Do not create derivative packs based on this project and distribute them without permission.
+
+- You may share the original project page/link so users can obtain the pack from its official source.
+
+Copyright
+
+Copyright 2026 Neq Gamerz.
+
+All rights reserved unless otherwise stated by the creator.
+
+Creator
+
+Neq Gamerz
+
+- Pack: INSTANT Fullbright Night Vision
+
+- Type: Minecraft Bedrock Behavior Pack
+
+- Purpose: Fullbright / Night Vision
+
+- Support: Vanilla/cracked/patched Minecraft.

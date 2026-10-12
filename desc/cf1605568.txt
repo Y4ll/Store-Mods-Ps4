@@ -1,0 +1,35 @@
+Bare Bones X Spectral Vanilla
+
+This pack takes the smooth, custom tool animations from SpectralPumpkinV4 and gives them the minimalist Bare Bones aesthetic. Unlike the Pumpkin version, this edition restores the original vanilla colors for a clean, nostalgic, and vibrant experience.
+
+Designed to transform your Minecraft Tool Set into a visually engaging and authentic experience.
+
+Special Thanks & Credits
+
+Huge thanks to Justpals for the original SpectralPumpkinV4 and for giving permission to my friend Regzinx to make a Bare Bones remake. Regzinx created the original version (Regzinx Version: Bare Bones X Spectral Pumpkin), and with his agreement, I created this vanilla-colored edition (My Version: Bare Bones X Spectral Vanilla).
+
+JUSTPALS (ORIGINAL OWNER PROFILE) | REGZINX (PARTNER PROFILE)
+
+Tools Showcase
+
+Wood
+
+Stone
+
+Copper
+
+Iron
+
+Gold
+
+Diamond
+
+Netherite
+
+IMPORTANT WARNING
+
+This pack will NOT work without Action And Stuff For everything to function correctly, you must use the exact load order below:
+
+1. Bare Bones X Spectral Vanilla
+2. Bare Bones
+3. Action And Stuff

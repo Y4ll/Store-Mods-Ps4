@@ -1,0 +1,135 @@
+Bosses of Mass Destruction: Bedrock Edition
+
+Face four massive bosses, discover their lairs, and fight your way through a faithful Bedrock adaptation of Bosses of Mass Destruction.
+
+Bosses of Mass Destruction: Bedrock Edition is an unofficial adaptation of the original Java Edition mod created by Barribob and its contributors.
+
+The goal of this project is to bring the experience of the original mod to Minecraft Bedrock Edition, recreating its bosses, structures, progression, combat, animations, effects, sounds, rewards, and atmosphere while carefully adapting mechanics where Bedrock behaves differently.
+
+Current Release: 1.6 If you would like to contribute to the project, join here, you would make me happy: https://discord.gg/4ahVdaFtg
+
+Four Boss Encounters
+
+Night Lich
+
+High above the Overworld stands the Night Lich Tower, home to a powerful flying undead sorcerer.
+
+Prepare for a highly mobile battle filled with magical projectiles, summoned phantoms, teleportation and increasingly aggressive attacks as the fight progresses.
+
+Use the Soul Star to begin your journey toward confronting the Night Lich.
+
+Nether Gauntlet
+
+Deep within the Nether, an enormous enchanted hand waits inside its ancient arena.
+
+The Nether Gauntlet fights with devastating punches, spinning attacks, magical effects and a powerful tracking laser.
+
+Watch its movements carefully and strike when its vulnerable eye is exposed.
+
+Void Blossom
+
+Hidden deep underground, the Void Blossom has taken root inside a forgotten cavern.
+
+This enormous plant controls the battlefield with spores, flying petals, erupting spikes and dangerous waves of thorns.
+
+As the battle continues, the Void Blossom changes its behavior and can recover its strength through special healing phases.
+
+Obsidilith
+
+A massive construct of obsidian and ancient power, the Obsidilith is one of the most dangerous encounters in the addon.
+
+Its battle revolves around powerful magical attacks, environmental hazards and different combat phases that force you to remain constantly on the move.
+
+Defeating it will require preparation, awareness and some of the strongest equipment available to you.
+
+Explore and Discover
+
+The bosses are not simply spawned for you.
+
+Explore the world, discover their structures and follow the progression required to reach each encounter.
+
+You can find locations such as:
+
+- Night Lich Tower
+
+- Nether Gauntlet Arena
+
+- Void Blossom Cavern
+
+- Obsidilith encounter
+
+- Additional structures and progression-related locations
+
+Special items such as the Soul Star and Void Lily can help guide you through your journey.
+
+Boss Rewards
+
+Defeating these creatures rewards more than experience.
+
+Bosses can drop unique materials and items inspired by the original mod, opening access to special equipment and new possibilities after each victory.
+
+Among them are items such as:
+
+- Blazing Eye
+
+- Crystal Fruit
+
+- Void Thorns
+
+- Earthdive Spear
+
+- Brimstone Nectar
+
+- And more
+
+More Than Boss Fights
+
+The addon also brings additional content from Bosses of Mass Destruction into Bedrock Edition, including:
+
+- Unique boss structures
+
+- Custom weapons and items
+
+- Utility blocks
+
+- New crafting recipes
+
+- Custom loot
+
+- Boss animations
+
+- Particles and visual effects
+
+- Original-inspired sounds
+
+- Multiplayer support
+
+- English and Spanish language support
+
+The objective is to make each encounter feel like a natural part of Minecraft rather than an isolated scripted fight.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.30 or newer
+
+- Install both the included Behavior Pack and Resource Pack
+
+- No additional addons are required
+
+For the best experience, use the latest supported Minecraft Bedrock version.
+
+Installation
+
+- Download the .mcaddon file.
+
+- Open it with Minecraft.
+
+- Wait for the Behavior Pack and Resource Pack to finish importing.
+
+- Create a new world or edit an existing one.
+
+- Enable the Bosses of Mass Destruction: Bedrock Edition Behavior Pack.
+
+- Make sure its Resource Pack is also active.
+
+- 

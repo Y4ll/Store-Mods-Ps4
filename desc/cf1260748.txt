@@ -1,0 +1,3 @@
+For this add-on I added a custom command to get to the old UI. You can do "/scriptevent traye:ui" to access the form. This form also shows up on join. If you wanted to still play your world you can simply just hit the cancel button to do so. ALSO when you click the transfer button JUST WAIT until it says you can press OK
+
+VIDEO FOR PEOPLE WHO NEED HELP HERE: https://www.youtube.com/watch?v=oTPlYZfbEKY

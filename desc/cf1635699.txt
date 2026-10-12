@@ -1,0 +1,19 @@
+Changes
+
+-
+
+Every block you mine now drops a completely random item or blockyou'll never know what you're going to get!
+
+-
+
+The random drop pool resets every 5 minutes. (Reset version only.)
+
+Notes
+
+-
+
+Feel free to modify the addon to better suit your own playstyle.
+
+-
+
+Thank you for trying out my addon! I hope you enjoy it.

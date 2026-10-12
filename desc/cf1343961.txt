@@ -1,0 +1,47 @@
+Modular Fences is a Minecraft Bedrock Add-On featuring over 10 fully functional modular fences, these fences are part of my other Add-Ons, but now they come with extra features and brand-new content!
+
+For now, Modular Fences includes only a few variations and fence models. The available designs are:
+
+Glass Panel Fence:
+
+The glass fence comes from the Modern Furniture Add-On. It currently includes 1 model: a modular glass fence with black or silver aluminum joints.
+
+Detailed Wooden Fence:
+
+This wooden fence comes from the Feudal Furniture Add-On and includes 12 variations (one for each wood type). Unlike regular fences, this one features a more medieval design, with cut log details and a more intricate structure.
+
+Outdoor Fence:
+
+This fence comes from the Modern Furniture Add-On. It features a tall geometry and is designed to block visibility from one side only. Its style comes in a pale black finish.
+
+White Fence:
+
+This fence replicates the classic American-style white picket fence, featuring the traditional upward-pointed tips.
+
+Metal Fence:
+
+This fence comes from the Modern Furniture Add-On. As its name suggests, its made of metal, featuring a simple, arcade-style design with straightforward slats. For now, it includes only one variant.
+
+All of these fence types are modular and, most importantly, fully connectable with each otherallowing you to mix and match different styles seamlessly.
+
+Crafting
+
+Creative:
+
+To get it in Creative mode, youll find the fences in the Items section some are grouped inside catalog accordions. If you prefer commands, you can use /give with the ms: prefix, like: mfc:"fence name".
+
+Survival:
+
+In Survival, you can craft it at the crafting table! Here are the crafting recipes:
+
+Detailed Wooden Fence:
+
+Glass Panel Fence:
+
+Support me on Patreon to continue developing my addons!
+
+Share your suggestions for creating better add-ons!
+
+Downloads | Official Site
+
+- Download Modular Fences Here | Official Site

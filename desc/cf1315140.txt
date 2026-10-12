@@ -1,0 +1,129 @@
+Requires "The Epic Knights Mod" by TheMightyChim to be installed
+
+Download Link Below
+
+https://mcpedl.com/the-epic-knights-mod/
+
+THIS IS A PORT OF THE JAVA MOD CALLED EPIC KNIGHTS : ADDON (adds additional gear to the epic knights mod made by the same person)
+
+THOUGH I AM ONE OF THE DEVELOPERS WHO WORKED ON THE ORIGINAL JAVA MOD (as a modeller and texturer for armour), ALL THE TEXTURES AND MODELS BELONG TO THE JAVA OWNER MAGISTU.
+
+I HAVE PERMISSION TO PORT IT, I ASKED MAGISTU FOR PERMISSION AND HE AGREED.
+
+YOU ARE ALSO NOT ALLOWED TO USE ANY OF THE ASSETS WITHOUT OUR PERMISSION.
+
+THIS INCLUDES TAKING TEXTURES OR MODELS AND "MODYFYING" THEM AND USING THEM FOR YOUR OWN ADDON WITHOUT OUR PERMISSION AND WITHOUT CREDITING US
+
+REPOSTING THIS ADDON TO ANOTHER SITE OR THROUGH A NEW DOWNLOAD LINK WITHOUT OUR PERMISSION AND WITHOUT CREDITING US
+
+YOU ARE HOWEVER ALLOWED TO :
+
+1.ADD THIS TO A MOD PACK
+
+2. EDIT THE CODE FOR PERSONAL USE
+
+( but you ARE NOT ALLOWED to post the edited version online)
+
+The addon allows you to dive deeper into the atmosphere of the Middle Ages, as it adds a ton of additional armour, weapons and decorations from all over Europe XIII - XVI centuries to the original mod.
+
+NEW FEATURES
+
+- DYEABLE ARMOURS and DECORATIONS (through couldron)
+
+- 48 NEW WEAPONS
+
+- NASSAL BARBUTE
+
+- BROWED BARBUTE
+
+- CONDOTTIERO CAP
+
+- DARK HEAVY BRIGADINE
+
+- HEAVY BRIGADINE LEGGINGS (normal, gold and dark)
+
+- ENGLISH SALLET
+
+- GILDED CHAINMAIL ARMOUR SET
+
+- CHAINMAIL HOOD (comes wity gilded version)
+
+- DARK PLACKART
+
+- RETEXTURED GOLD PLACKART
+
+- ADDED BREASTPLATES
+
+- FIXED SMALL HELMETS CLIPPING THROUGH HAT LAYER
+
+- FIXED SOME RECIEPES
+
+- REMOVED USELESS FUNCTIONS HOPEFULY IMPROVING PERFORMANCE
+
+PICTURES OF SOME OF THE NEW STUFF
+
+Animations are not yet added and is currently under development, will release a beta at the server soon.
+
+MAGISTU
+
+Java owner and creator of
+
+The Epic Knights Mod and Epic Knights : Addon
+
+JAVA DEVS, ARTISTS, AND HELPERS
+
+SuperAmogus
+
+SANTUSIO
+
+APOCX
+
+SKYDOG
+
+BORKI
+
+BLACKCHIMERA
+
+HOESTISTIC
+
+ALHENDAHU
+
+STAXIHD
+
+SYNTHKNIGHT
+
+FLAVIUS
+
+STEVEMC
+
+MIGHTY CHIM / BLACK CHIMERA
+
+Owner and maker of the Bedrock Port of
+
+The Epic Knights Mod
+
+PUCHININ
+
+Developer and helper for Bedrock port of
+
+The Epic Knights Mod
+
+STEVEMC ( Me )
+
+Owner and Maker of the Bedrock port of
+
+Epic Knights : Addon
+
+(Epic Knights Plus)
+
+HONOURABLE MENTIONS
+
+Paper (Table)
+
+Suggested the codpiece :D
+
+Join the Epic Knights Bedrock Server for Update news , Sneak Peeks, Beta Testing, Suggestions, and Bug Reports!
+
+Discord Link Below
+
+https://discord.gg/JgrRjCZY

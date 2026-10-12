@@ -1,0 +1,95 @@
+Alan Becker Stickman Add-On for Minecraft Bedrock Edition
+
+VERSION 1.1.0 IS HERE !!!
+
+YOUTUBE VIDEO ON THIS ADDON (version 1.1.0)
+
+DESCRIPTION OF VERSION 1.1.0 (24 SEPTEMBER, 2026) :
+
+NEW FEATURES :
+
+Added 8 new Stick Figures, Stick Figure Items and their corresponding items on stick and crafting recipes :
+
+- Victim
+
+- The Chosen One (TCO)
+
+- The Dark Lord (TDL)
+
+- Corn Dog Guy (CDG)
+
+- Purple
+
+- King Orange
+
+- Pink (Purple's Mother)
+
+- Deep Blue (Purple's Father)
+
+Divided the 13 StickFigures into 3 Categories :
+
+[1] Hollow Headed Stick Figures (Victim,TCO,TDL,TSC) :
+
+Head is Ring Shaped, Has no feet. StickFigure Items Are Crafted from 3 colored wool, 2 sticks, 1 Armor Stand, and 1 Bowl.
+
+[2] Solid Headed Stick Figures (Red,Green,Blue,Yellow,Purple,Pink,CDG)
+
+Head is Sphere Shaped, Has feet. StickFigure Items Are Crafted from 3 colored wool, 2 sticks and 1 Armor Stand.
+
+[3] BIG Solid Headed Stick Figures (Deep Blue and King Orange)
+
+Exact Copy of the 3D Model of Solid Headed Stick Figures, but the size is 1.1 times greater than that of the 3D Model of Solid Headed Stick Figures. StickFigure Items Are Crafted from 5 colored wool, 2 sticks,1 Armor Stand and 1 wooden planks.
+
+Added Corresponding Crafting Recipies for the stickman items on stick
+
+Added Durability to Shears on Stick
+
+Added Sit Down Animation Function For Pets (Tamed Wolf, Tamed Parrot, Tamed Cat, Fox, Panda and Camel)
+
+BUG FIXES :
+
+Fixed Running Animation Glitch that happened every half seconds.
+
+Re-Adjusted the 3D Model of TSC (Hollow Headed Stick Figures) for more accuracy
+
+Transformed Mobs Now Drop their equipped Stickman Item Upon Death
+
+Transformed Mobs Now Drop their previously equipped Stickman Item when a new transformation is attempted.
+
+Transformed Mobs no longer accept transformation from Stickman on a Stick item whose corresponding stickfigure item is already equipped by the mob.
+
+Extended the Mob Transformation Support to more mobs such as Creaking, Camel, Camel Husk, Nautilus, Zombie Nautilus.
+
+YOUTUBE VIDEO ON THIS ADDON (version 1.0.0)
+
+DESCRIPTION OF VERSION 1.0.0 (29 AUGUST, 2026) :
+
+This add-on brings the iconic stick figures from Alan Becker's Animator vs. Animation universe into Minecraft Bedrock Edition, allowing players to transform themselves or Minecraft mobs into animated stick figures. It features five characters: Red, Yellow, Green, Blue, and The Second Coming (TSC), with each character having its own appearance, texture, item, and animation-compatible model. TSC uses a separate model and texture from the other four stick figures.
+
+The addon uses Minecraft's armor/attachable rendering system to display the stick figures. The stickman items occupy the head armor slot, while the original player or mob is made invisible through continuously refreshed invisibility effects. This makes the stick figure effectively replace the appearance of the player or mob while preserving the underlying entity's movement, AI, health, attacks, abilities, and other normal behavior. The stick figures therefore animate according to the movement state of whatever entity is wearing them rather than being completely independent mobs.
+
+Stickman characters and items
+
+There are five wearable stickman items:
+
+Red, Green, Blue, Yellow, The Second Coming
+
+Each has a maximum stack size of 1 and can be equipped in the head slot. They have their own colored textures and attachable definitions.
+
+There are also five corresponding Stickman on a Stick items:
+
+Red Stickman on a Stick
+
+Yellow Stickman on a Stick
+
+Green Stickman on a Stick
+
+Blue Stickman on a Stick
+
+The Second Coming on a Stick
+
+These items are deliberately not wearable. Instead, using one on a Minecraft entity transfers the corresponding stickman into that entity's head slot. The original item is consumed when successfully applied. This allows practically any supported mob to be converted into a moving stick figure while retaining the mob's normal behavior.
+
+Transform item / Gauntlet
+
+The addon also contains a Tr

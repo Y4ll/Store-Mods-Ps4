@@ -1,0 +1,113 @@
+|||No Limited Island, Infinite Dimension|||
+
+Showcase Video
+
+(Watch it for better understanding)
+
+https://youtu.be/lUgX_1j0_Fc
+
+Inspired by The Twilight Forest by Benimatic,
+
+but fully original this addon does NOT use or copy anything from the original mod. Only the portal concept is inspired; the rest uses completely different blocks, mechanics, and bosses
+
+Quest Book
+
+When you join the world, you will automatically receive a Quest Book.
+
+The book guides you through the addon and explains how to Play
+
+New Quest Advancements Pop-up
+
+Twilight Guardian
+
+Your journey begins by crafting the Twilight Guardian Altar.
+
+Place the altar and offer a Diamond to summon the Twilight Guardian.
+
+Defeat the Guardian to obtain the Twilight Abyss Diamond.
+
+Twilight Gurdian Armour & Sword
+
+Portal Light Up
+
+Defeat the Guardian to obtain the Twilight Abyss Diamond
+
+- Dig a 22 hole (4 blocks deep), fill it with water
+
+- You can decorate it using flowers
+
+- Then craft the Twilight Abyss Diamond
+
+- Hold it and click ONLY on the water bottom block (not the sides!) to activate the portal
+
+Twilight Abyss Biomes
+
+The dimension features infinite world generation with no limited islands.
+
+Umbra Birch Biome
+
+A mysterious forest biome filled with strange creatures and dark exploration areas.
+
+Natural mobs:
+
+- Big Sheep
+
+- Deer
+
+- Blue Goblin
+
+Maple Biome
+
+A colorful maple-themed biome with its own unique wildlife.
+
+Natural mobs:
+
+- Wild Pig
+
+- Chill Mouse
+
+- Brahma Chicken
+
+Natural Structures:
+
+Explore 12 unique structures across the two biomes.
+
+- 6+ structures in the Umbra Birch biome
+
+- 6+ structures in the Maple biome
+
+These structures contain dangerous encounters and special rewards.
+
+New Hostile Mobs
+
+The addon introduces 3 new hostile mobs and 2 custom Zombie variants.
+
+These enemies can be found spawning from Structure Spawners, making exploration much more dangerous.
+
+Crypt Weaver
+
+A strange one-eyed spider-like creature with a funny but creepy chasing animation.
+
+Spectral Seeker
+
+A ghost-like enemy capable of throwing dangerous projectiles at players.
+
+Forgotten Knight
+
+A powerful armored knight equipped with a shield. Be careful when fighting it!
+
+Dimension Boss
+
+Umbra Birch biome -
+
+Maple Biome
+
+This biome contains two powerful bosses, each
+
+spawning in their own dungeon They are tough, dangerous, and not for beginners
+
+Home Key System
+
+When you enter the dimension, youll receive a Home Key Use it anytime to return safely to your world spawn
+
+Thanks for downloading Twilight Abyss! Your feedback helps shape future updates dont forget to comment and support the project

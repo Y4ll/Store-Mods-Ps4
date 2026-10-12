@@ -1,0 +1,57 @@
+Introduction:
+
+If you want realistic web-swinging physics, this is the absolute best addon for you. Hop into any world with a couple of friends and swing around the city, or combo them into oblivion with the intuitive combo system. If you're looking for a more progression-based playstyle, it's got that too! A full skill tree system with unlockable abilities, and a custom web modification menu to edit how your webs work (both have a fancy custom UI)!
+
+How to use:
+
+Each of your different hotbar slots represents a move. To activate (do) the move, jump while in the air with your selected slot. A name tab on the side of your hotbar will indicate what that slot is used for. For each slot, you can also hold sneak to use its charged activation, which is different from its normal one. By jumping while next to a wall, you can wall jump. You get 3 of these for every wall, but reset this by jumping back and forth. By holding sneak on your 8th slot, you can open a customization menu to edit your suit and abilities. You can change everything: it even supports custom colors for the suit's base layer, secondary layer, pattern, and your web color when swinging around! By holding sneak on your 9th slot, you can toggle the suit!
+
+The combat in this addon is very dynamic. There are over 25 unique special combos and tons more just waiting to be discovered.
+
+When you're swinging around, aim (look) in the direction you want to swing, but also in the opposite direction of the wall you're swinging along. This will steer you away from hitting the wall, making swinging much easier. There's a learning curve, but it's so much fun once you get it! Trust me, I spent hours fighting with friends to test out the addon, and it's entertaining!
+
+Current Moves:
+
+- Swing - Hook onto a block to swing (Hotbar Slot #1)
+
+- If the swing normally swings you into the ground, it shortens the swing and launches you with great force.
+
+- If the swing normally swings you into a wall, it steers away from you automatically.
+
+- If you swing into an entity, it deals damage and knocks it back.
+
+- Charged Attack: No charged attack for this move
+
+- Grapple - Grapple onto an entity or block and pull yourself towards it (Hotbar Slot #2)
+
+- If the entity is falling, you pull up to it and stall in the air for a combo.
+
+- If the entity is not falling, you pull yourself toward it, deal damage, and spawn webs, getting a bit of kickback to avoid the webs.
+
+- If you're in the air and grapple with an entity, it pulls it toward you and stalls in the air for a combo.
+
+- If you're in the air and grapple directly down, you slam into the ground and spawn webs, shooting entities up into the air.
+
+- If you grapple down into an area you shot webs into, you create a much larger shockwave that spawns a circle of webs.
+
+- Charged Attack: If you hold the crouch button on this slot, your web fluid bar will start to decrease. When it hits zero, stop sneaking to unleash a massive shockwave after it pulls nearby entities toward you. It pulls your opponents in and then shoots them out with a massive impact!
+
+- Web Shot - Shoot a web that travels in a straight line and explodes into webs on impact (Hotbar Slot #3)
+
+- If you shoot a web at the ground, it launches you up and spawns webs around the impact location.
+
+- If you shoot a web at an entity, it deals damage and spawns webs around the impact location.
+
+- If you shoot a web at the ground and then shoot another web, the second web will create a large shockwave with more webs.
+
+- Charged Attack: If you hold the crouch button on this slot, your web fluid bar will start to decrease. When it hits zero, stop sneaking to unleash 8 individual web shots off in different directions, effectively damaging and stunning all nearby opponents in a wide radius!
+
+Current Passives:
+
+1. Wall Climb - Climb up walls and jump off of them
+
+-
+
+- If you jump while on a wall, you'll get sent in the direction you're facing.
+
+- If you jump while on a wall and look up, you'll get sent u

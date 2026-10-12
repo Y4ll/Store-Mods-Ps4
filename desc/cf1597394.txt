@@ -1,0 +1,192 @@
+FPS DISPLAY
+
+Achievement-Friendly Real-Time FPS Counter for Minecraft Bedrock Edition
+
+A lightweight, smooth, and accurate FPS display designed for Minecraft Bedrock Edition. Monitor your current frame rate in real time without cluttering your screen, helping you optimize your gameplay and device performance.
+
+Overview
+
+FPS DISPLAY is a clean and performance-friendly Resource Pack that adds a live FPS counter directly to your in-game HUD.
+
+Unlike bulky debug screens, this pack provides only the information you needyour current Frames Per Secondwhile keeping the game immersive and distraction-free.
+
+Whether you're testing shaders, texture packs, worlds, or simply monitoring performance, FPS DISPLAY gives you a convenient way to keep track of your game's rendering performance.
+
+Features
+
+Feature
+Description
+
+Real-Time FPS
+Displays your current FPS live while playing.
+
+Achievement Friendly
+Resource Pack only no Behavior Pack required.
+
+Lightweight
+Designed with minimal performance impact.
+
+Mobile Friendly
+Optimized for Android & iOS devices.
+
+Windows Compatible
+Works on Minecraft Bedrock for Windows.
+
+Clean HUD
+Minimal design that blends naturally with Minecraft.
+
+Multiple Positions
+Includes different HUD position subpacks.
+
+Automatic Updates
+FPS updates continuously while you play.
+
+Included Subpacks
+
+Subpack
+Position
+
+Top Left
+Default Position
+
+Top Center
+Center HUD
+
+Top Right
+Right Corner
+
+More positions may be added in future updates.
+
+Requirements
+
+- Minecraft Bedrock Edition
+
+- Resource Packs Enabled
+
+- No Behavior Pack Required
+
+Installation
+
+Mobile
+
+- Download the pack.
+
+- Open the .mcpack file.
+
+- Minecraft will import it automatically.
+
+- Activate the Resource Pack.
+
+- Enjoy!
+
+Windows
+
+- Double-click the .mcpack file.
+
+- Minecraft imports it automatically.
+
+- Activate it in your world or globally.
+
+Frequently Asked Questions
+
+Does this disable achievements?
+
+No.
+
+This is a Resource Pack only and does not require a Behavior Pack, so it is achievement-friendly.
+
+Does it work on Android & iOS?
+
+Yes.
+
+It works on Android, iOS, Windows, and other Bedrock Edition platforms that support Resource Packs.
+
+Does it reduce FPS?
+
+No.
+
+The pack is designed to be lightweight and has a negligible impact on performance.
+
+Does it work in Multiplayer & Realms?
+
+Yes.
+
+Since it is a client-side Resource Pack, it works in single-player and most multiplayer sessions where Resource Packs are allowed.
+
+Can I change the HUD position?
+
+Yes.
+
+Choose your preferred position by selecting one of the included subpacks before enabling the Resource Pack.
+
+How often is the FPS updated?
+
+The FPS value updates continuously while you play, providing a smooth real-time reading.
+
+Is this a Behavior Pack?
+
+No.
+
+This project is a Resource Pack only.
+
+The FPS counter isn't showing. What should I do?
+
+- Make sure the Resource Pack is enabled.
+
+- Place it above other HUD/UI packs in the Resource Pack order.
+
+- Restart Minecraft after enabling the pack if needed.
+
+Can I use this in my own videos?
+
+Yes! You're welcome to showcase the pack. A link back to the CurseForge page is appreciated but not required.
+
+How Does It Work?
+
+FPS DISPLAY uses Minecraft Bedrock's built-in client rendering system to monitor frame timing and continuously update the on-screen FPS value.
+
+Everything runs locally on your device without requiring commands, scoreboards, or external applications, allowing the HUD to stay lightweight while providing smooth real-time updates.
+
+Why Choose FPS DISPLAY?
+
+Clean Interface
+
+Lightweight Design
+
+Easy Installation
+
+Achievement Friendly
+
+Multiple HUD Positions
+
+Smooth Live Updates
+
+Mobile Optimized
+
+No Commands
+
+No Behavior Packs
+
+No External Apps
+
+Author
+
+PrabhatPie
+
+Passionate Minecraft Bedrock Creator focused on creating lightweight, useful, and high-quality Resource Packs for the community.
+
+Future Updates
+
+- More HUD Themes
+
+- Custom Colors
+
+- Additional Positions
+
+- Better Animations
+
+- More Customization
+
+- Optional Performance Statistics
+
+Suppor

@@ -1,0 +1,61 @@
+A Good Place Bedrock Edition
+
+A high-quality Bedrock port of the popular Java Fabric mod A Good Place. When you place a block, it smoothly scales up from a small size with a satisfying pop and slight translation toward the player.
+
+Features
+
+228+ full-cube blocks supported (stones, ores, deepslate variants, all planks, stripped woods/hyphae, all 16 wools, concretes, terracottas, bricks, mud, nether blocks, metal blocks, and more)
+
+Special jelly/squish effect for slime_block and honey_block
+
+Pure vanilla textures only no custom PNGs
+
+Smooth scale + translation animation
+
+Works in Creative and Survival
+
+Requirements
+
+Minecraft Bedrock 1.21.90 or higher
+
+Beta APIs experiment must be enabled
+
+Both the Behavior Pack and Resource Pack must be activated
+
+Installation
+
+Download the .mcaddon file
+
+Open it Minecraft will import both packs automatically
+
+Create or edit a world enable Beta APIs
+
+Activate both the Behavior Pack and the Resource Pack
+
+Place any supported block and enjoy the animation!
+
+Credits
+
+Inspired by the original Java Fabric mod A Good Place. This is an independent Bedrock recreation using only vanilla textures and the official Scripting API. No assets from the original Java mod are included.
+
+License: All Rights Reserved.
+
+Port de alta calidad del popular mod de Java Fabric A Good Place. Al colocar un bloque, este crece suavemente desde un tamano pequeno con un efecto satisfactorio y una ligera traslacion hacia el jugador.
+
+Caracteristicas
+
+Mas de 228 bloques full-cube soportados (piedras, minerales, variantes de deepslate, todos los tablones, maderas sin corteza, las 16 lanas, concretos, terracotas, ladrillos, lodo, bloques del Nether, metales, etc.)
+
+Efecto especial de gelatina en el bloque de slime y el bloque de miel
+
+Solo texturas vanilla
+
+Animacion de escala + traslacion suave
+
+Requisitos
+
+Minecraft Bedrock 1.21.90 o superior
+
+Experimento Beta APIs activado
+
+Activar tanto el Behavior Pack como el Resource Pack

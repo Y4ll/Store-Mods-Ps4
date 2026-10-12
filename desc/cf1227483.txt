@@ -1,0 +1,161 @@
+Mythical Biomes is an add-on that introduces new biomes to your world, creating a fantasy-like environment. It includes new mobs, features, and blocks. Mythical Biomes currently replaces some vanilla biomes due to a Minecraft bug (MCPE-100700) that prevents custom biomes from generating alongside vanilla ones. As a workaround, some biomes had to be replaced to ensure the new biomes generate properly.
+
+(v1.12.1)
+
+NEW UPDATES:
+
+Version: 1.12.1
+
+Version: 1.12.1
+
+NOTE:
+
+- This update only works with Minecraft version 26.40 and higher.
+
+BLOCKS:
+
+- Custom blocks now have assigned instrument sounds when played by a Note Block.
+
+- Fixed Custom Walls attaching to non-full solid blocks.
+
+MOBS:
+
+- Deopard:
+
+- Fixed a bug where Baby Tamed Deopards could not grow up.
+
+- Added 3 new color variants: Orange, Black, and Green, bringing the total to 4 variants.
+
+- Improved its animations.
+
+- Tamed Deopards now also play the begging animation.
+
+- Tamed Deopards now have a slightly larger scale and lighter textures compared to Wild Deopards.
+
+- Can no longer be tamed by feeding them Cooked Chicken, Cooked Rabbit, Cooked Rat, or Cooked Squirrel. They can now be tamed by feeding them any cooked fish-type food.
+
+- Can now be tempted, healed, bred, grown, or tamed by feeding them fish-type foods.
+
+- Selvander:
+
+- Added 3 new color variants: Melanoid, Albino, and Chimera, bringing the total to 8 variants.
+
+- Can now slowly regenerate health while sitting or sleeping.
+
+- Improved its animations and added a begging animation when holding food that it is interested in.
+
+- Added geometry model changes to the baby variant.
+
+- Tamed Selvanders now have a slightly larger scale and lighter textures compared to Wild Selvanders.
+
+- Troots:
+
+- Improved its animations and added a begging animation when holding food that it is interested in
+
+- Tamed Troots now have a slightly larger scale compared to Wild Troots
+
+VISUALS:
+
+- Tweaked the textures of Bales.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.40 version.
+
+Version: 1.12.0
+
+Version: 1.12.0
+
+NOTE:
+
+- This update only works with Minecraft version 26.30 and higher.
+
+BIOMES:
+
+- Custom biomes now once again completely replace their respective vanilla biomes. They no longer blend with the surrounding vanilla biomes, improving biome consistency and reducing world generation lag.
+
+BLOCKS:
+
+- Added Chiseled Corrupted Stone Bricks
+
+- Added Corrupted Stone Tile blocks:
+
+- Corrupted Stone Tiles
+
+- Cracked Corrupted Stone Tiles
+
+- Corrupted Stone Tile Slab
+
+- Corrupted Stone Tile Stairs
+
+- Corrupted Stone Tile Wall
+
+- Added Smooth Corrupted Stone blocks:
+
+- Smooth Corrupted Stone
+
+- Smooth Corrupted Stone Slab
+
+- Smooth Corrupted Stone Stairs
+
+- Smooth Corrupted Stone Wall
+
+- Added Corrupted Stone Lanterns:
+
+- Cracked Corrupted Stone Brick Lantern
+
+- Cracked Corrupted Stone Brick Soul Lantern
+
+- Smooth Corrupted Stone Lantern
+
+- Smooth Corrupted Stone Soul Lantern
+
+- Revamped the textures of Corrupted Stone blocks.
+
+- Fixed the map colors of Overgrown Jungle blocks.
+
+- Plants without collision can now be snowlogged.
+
+MOBS:
+
+- Corrupted Oak Troot:
+
+- Fixed a bug where it could not naturally spawn in the Corrupted Forest.
+
+- Corrupted Raven:
+
+- Reduced spawn rates.
+
+- Selvander:
+
+- Can now also spawn underwater.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.30 version.
+
+Version: 1.11.0
+
+Version: 1.11.0
+
+NOTE:
+
+- This update only works with Minecraft version 26.20 and higher.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.20 version.
+
+BIOMES:
+
+- Custom biomes no longer completely replace Vanilla biomes:
+
+- Wooden Badlands and Corrupted Forest can now both generate naturally and located in command.
+
+- Swamp and Mossy Forest can now both generate naturally and located in command.
+
+- Jungle and Overgrown Jungle can now both generate naturally and located in command.
+
+MOBS:
+
+- Custom mobs with Wild Baby, Tamed Baby, Wild Adult, and Tamed Adult render variants now have different health values and knockback resistan

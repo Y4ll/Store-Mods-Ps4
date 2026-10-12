@@ -1,0 +1,20 @@
+The cooldown, wich is a certain time when a tool can deal the maximun damage and can be visually seen below the cursor.
+
+Swords with full cooldown bar triggers a sweep attack, damaging nearby mobs.
+
+In Java, axes deals more damage than swords but have longer cooldowns.
+
+Works with tools from any other addon!
+
+Shields no longer push back when blocking.
+Shields now block charged mace attacks, just like in Java!
+Blocking animation updated to match Java edition.
+
+Damage matches Java mechanics, including Sharpness, Strength, Weakness and tools.
+Fully compatibility with tools from other addons.
+
+Try my new Java Saturation & Regeneration Addon! MCPEDL Link
+
+Cooldown Animation
+
+Place the Cooldown Animation below other resource packs if you are using Actions and Stuff or similar.

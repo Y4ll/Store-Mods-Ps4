@@ -1,0 +1,136 @@
+Mike Shader is a Render Dragon style shader for Minecraft Bedrock. Waving vegetation, a choice of custom skies, real fog and brighter fire.
+
+No Vibrant Visuals needed. No MB Loader. No patched game. Import it and it works.
+
+Requirements
+
+NONE. THIS ONE RUNS ON PLAIN MINECRAFT BEDROCK.
+
+This is the only shader on my page with no requirements at all. You do not need the Vibrant Visuals toggle, you do not need MB Loader, and you do not need a patched or modified game.
+
+If Vibrant Visuals is not available on your device, or you did not want to patch your game just to run a shader, this is the one for you.
+
+What this changes
+
+Waving vegetation
+
+Leaves, grass, flowers and crops all move in the wind with smooth animation. This is the biggest single change and the reason the GIFs below exist, because screenshots cannot show it.
+
+Custom skies
+
+You choose what goes above you. Aurora, soft clouds, or leave the vanilla sky alone. See the subpacks below.
+
+Fog
+
+Real atmospheric fog that gives distance actual depth instead of terrain just ending.
+
+Fire
+
+Fire burns brighter and moves more. Campfires, torches and lava all read as a live flame rather than a looping texture.
+
+Wind
+
+The whole world moves together rather than each plant animating on its own, so nothing looks like it is twitching in isolation.
+
+Subpacks
+
+Pick one when you activate the shader. You can switch any time.
+
+- Aurora puts an aurora in the night sky.
+
+- Clouds gives you a custom cloud layer.
+
+- No custom sky keeps the vanilla sky and only applies the waving, fog and fire.
+
+Waving animations
+
+These are GIFs, so you can actually see the movement. Screenshots are further down.
+
+- Forest Cliffside Day
+
+- Rainy Flower Meadow
+
+- Aurora Village Farm
+
+- Forest Night
+
+- Forest Day
+
+- Rainy Aurora Village
+
+- Sunny Flower Meadow
+
+- Aurora Night Plains
+
+Screenshots
+
+- Forest Cliffside Day
+
+- Rainy Flower Meadow
+
+- Aurora Village Farm
+
+- Forest Night
+
+- Forest Day
+
+- Rainy Aurora Village
+
+- Sunny Flower Meadow
+
+- Aurora Night Plains
+
+About my other packs
+
+I have several other shader packs on my page, and they are not recolors of this one. Each is built with its own style. The atmospherics, lighting, color grading, water and PBR are set up separately in every pack, so no two of them behave the same way in game.
+
+If you want to explore the rest, everything I have made is here:
+
+- My CurseForge profile
+
+- My MCPEDL profile
+
+Installation
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate Mike Shader
+
+- Pick your subpack. Aurora, Clouds, or No custom sky.
+
+- That is it. Nothing else needs turning on.
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link this CurseForge page in the description.
+
+- Use the shader in your own gameplay videos and streams. No permission needed, go ahead.
+
+- Modify it for your own personal use. Tweak whatever you want on your own device. The modified version has to stay with you though. It cannot be uploaded or shared publicly anywhere.
+
+- Share this page with friends or in servers.
+
+YOU ARE NOT ALLOWED TO
+
+- Upload a modified version. Editing my work and releasing it under your own name, or claiming it as your own, is not allowed.
+
+- Use assets from this shader in your own pack. If you want to use something from it, contact me on Discord first and ask.
+
+- Put the download behind your own link. If you make a review video, link my official project page and nothing else. No monetized links, no link shorteners, no ad links, and no direct download that you host yourself.
+
+- Reupload it anywhere else.
+
+FAQ
+
+Do I need Vibrant Visuals for this one?
+No. This is the one shader of mine that works without it. Leave the toggle however you like.
+
+Do I need MB Loader or a patched game?
+No. Plain unmodified Minecraft Bedrock is all you need.
+
+I installed it and nothing changed.
+Check that Mike Shader is actual

@@ -1,0 +1,41 @@
+if you're looking for player to look like mob vote character, i made another pack for it. Check that out here
+
+i make it in different pack because of minecraft limitation on that pack.
+
+this pack will change player size from big to small. but, it's just visually. you still can't enter any hole that's 1 block tall :)
+
+just for fun :p
+
+SUBPACKS
+
+the subpacks is just a slider of range number for you to choose which size you want from range 2x of normal size to 10% of normal size
+
+LIMITATION
+
+CONTENT LIMITATION
+
+- This pack can only use 2D custom skin. it CAN'T use skin from character creator, also some of skin from marketplace having an UV error, so it'll look weird. if you're choosing skin from character creator, even from the base one, it'll change it to steve skin
+
+- Some item in player hand first person view will disappear or placed lower than it's should be. that's because you're smoll XD
+
+- Also, you can't enter a hole that's 1 block tall, your model still having
+
+YOU'RE ALLOWED TO
+
+Edit this pack for your private/personal use
+
+Make videos & media content with this pack as long as you leave a link to my CurseForge or MCPEDL page
+
+Distribute the pack using your own or new download link (this pack already using direct link that's safe)
+
+YOU'RE NOT ALLOWED TO
+
+Monetise the pack download. Doing so will result in a copyright takedown.
+
+FEEDBACK & SUPPORT
+
+if you have any issues with this pack, please consider to tell me either on web comment or my discord server here https://discord.gg/mdsM6W5jmg
+
+it'll be very helpful reading all of your feedback, so i can be better and better next time.
+
+You can also follow me on another social media here IG : 4sterx_ | YT : Asterx

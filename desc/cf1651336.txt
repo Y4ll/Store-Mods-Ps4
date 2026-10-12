@@ -1,0 +1,5 @@
+Speed up chunk loading in Minecraft Bedrock by using invisible entities that detect unloaded chunks and activate them for you. These entities scan the world, keeping the visible terrain active regardless of your simulation distance or render distance. In addition to increasing the loading speed of chunks as shown in the tutorial below, clicking here will teach you how to increase your rendering distance in Visuais Vibrantes .
+
+How to use the addon (video dubbed in English | Video doblado al espanol):
+
+How to add more render distance in Fancy graphics (video with English dubbing):

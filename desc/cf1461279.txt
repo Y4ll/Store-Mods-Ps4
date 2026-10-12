@@ -1,0 +1,13 @@
+Natural Visual is a high-quality shader designed to bring realistic lighting, atmospheric depth, and cinematic visuals to Minecraft Bedrock Edition. Built with Vibrant Visual support, this shader delivers a smooth RTX-style PBR experience without requiring official ray tracing hardware.
+
+With carefully balanced global lighting, enhanced atmosphere settings, and refined color grading, Natural Visual creates:
+
+Realistic sunlight and soft shadow transitions
+
+Cinematic sky tones and immersive fog
+
+Enhanced PBR surface reflections
+
+Smooth ambient lighting balance
+
+Stable exposure between bright and dark areas

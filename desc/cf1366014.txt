@@ -1,0 +1,63 @@
+XenoCraft the Return
+
+Join my Discord server so you can get any beta test/update before than any other place for free! :D
+
+https://discord.gg/QEJJg6vqhR
+
+WRITE THE NEXT COMMAND TO DIABLE ACID BLOOD: "/scriptevent xenos:toggle_acid"
+
+NOW YOU CAN CHOOSE IF OVOMORPHS CAN SPAWN UNDERGROUND NATURALLY OR NOT!
+
+Link to the original addon:
+
+https://mcpedl.com/xenocraft-remastered-addon/
+
+This addon is being made with pure love to this amazing franchise, so from a fan, i really hope you enjoy this project! <3
+
+NO EXPERIMENTAL FEATURES REQUIRED! JUST TO HAVE MINECRAFT BEDROCK UPDATED
+
+MAKE SURE TO READ THIS DESCRIPTION, I WON'T BE ANSWERING QUESTIONS I ALREADY ANSWERED HERE!
+
+STRUCTURES
+
+Structures are kew during your adventure, these possess important loot and blocks inside, from guns to any kind of tool you would need.
+
+There's plenty of structures, seriously, you'll never get bored!
+
+There's a very important structure buried underground, this one contains the black goo, you'll be able to find it under 60 blocks at the surface level, not layer 85 or -85, 85 blocks underground.
+
+Also, hidden underground, you'll be able to find some Xenomorph hives, these are not that big, containing some Drones and a bunch of Ovomorphs, but i'd destroy it if i were you before they infect the whole cave.
+
+Brand new structures can be found inside the nether!
+
+-Special thanks to Silly Billy for helping me building the structures!-
+
+XENOMORPHS
+
+The best part of this addon, Xenomorphs!
+
+Xenos have a whole new evolution system, these can build their own hives in any place! yes, even the nether and the end!
+
+To make your own hive grow you just need an Ovamorph, once it finds any prey nearby, it will infect it and give birth to a Chestburster, once the Chestburster grows it will turn into a Xenomorph Drone, this stage is the responsible of building a hive, if you dont keep them controlled, they may infect whole caverns or even the surface! all they need to make bigger the hive are preys to eliminate, they'll use them as material to place the resin or due to the eggmorphing process lay an ovamorph and infect another poor victim.
+
+Runners also enter in this category, being able to spawn from animals!
+
+From the Drone stage they need a certain population to reach the second part of this process, the Warrior, guardians of the hive, this variant doesn't build nor place eggs, they just have one mission, protect and eliminate, even alone, a single Warrior can start a real massacre! They can now regen 8% of their health after a kill!
+
+Runners also have their own variant, sentries! Unfortunately for them, they cannot regen their health like warriors do.
+
+Praetorians appear once the hive has enough Warriors, these goliaths destroy anything in their path, if you find one eliminate it at any cost!
+
+Crushers are the evolution of a Sentry, basically the same as a Praetorian.
+
+Finally, the final stage, the Xenomorph Queen! this cosmic horror is the strongest creature in this addon, you dont want to fight it alone, a Queen appears once the hive reaches the Praetorian stage and a certain general population of Xenomorphs, this monster does not fight or place resin, she just sits on her Ovipositor and starts laying Ovamorphs, do whatever is necessary to take her down, burn the hive at any cost!
+
+YOU CAN STOP THE EVOLUTION PROCESS BY NAMING A XENOMORPH, THAT WILL MAKE THEM STUCK IN THEIR CURRENT EVOLUTION STAGE
+
+XENOMORPHS ALSO DROP ACID WHICH CAN CORRODE ANY BLOCK, EXCEPT FOR: HIVE BLOCKS, POLISHED IRON BLOCK, NETHERITE BLOCK, DIAMOND BLOCK, EMERAL BLOCK, BEDROCK, OBSIDIAN, REINFORCED DEEPSLATE AND DEVELOPER BLOCKS LIKE COMMAND BLOCKS.
+
+ROYAL JELLY IS SUPER USEFUL NOW, ACCELERATING CROPS AND MULTIPLYING THE ITEMS DROPED, YOU CAN ALSO CRAFT XENO ZIP, A VERY STRONG POTION.
+
+You can also accelerate their evolution with Royal Jelly, an special item which can be obtained by Xenos that evolved at least one stage, the higher the stage the higher the ammount of jelly you can obtain.
+
+Xen

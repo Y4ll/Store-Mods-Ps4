@@ -1,0 +1,75 @@
+Armor or Elytra? Why not both?
+Weve all been there: stuck choosing between the flight of an Elytra or the protection of a Chestplate. Its a tough call when you're exploring dangerous terrain.
+
+Armored Elytra 2.0 is here to solve that.
+This isn't just a texture packit is a complete mechanical overhaul. Soar through the skies without giving up your defense. No more scrambling through your inventory mid-air. Just gear up and go.
+
+NEW IN V2.0: Full Enchantment Preservation & Realistic Durability!
+
+How it Works
+
+It's simple! Combine a standard Elytra with any Chainmail, Iron, Gold, Diamond, or Netherite Chestplate in a crafting table. The result is a brand new Armored Elytra that gives you the armor points of the chestplate AND the flight ability of the Elytra.
+
+CRAFTING WARNING:
+
+> The crafting process creates a FRESH item.
+> Do NOT use pre-enchanted chestplates in the crafting recipe, as their enchantments will be lost! Apply your enchantments (via Anvil/Enchanting Table) AFTER you have crafted the Armored Elytra.
+
+Key Features (V2.0 Overhaul)
+
+Smart Enchantment Preservation (NEW!)
+In previous versions, you couldn't enchant these items. Now you can.
+
+- Apply Protection, Thorns, Unbreaking, Mending, etc., to your Armored Elytra just like any other armor piece.
+
+- They stay safe: Our new 2.0 script system ensures that when you switch between "Flight Mode" and "Armor Mode," your enchantments are safely stored and restored every single time. Mending and Unbreaking work seamlessly!
+
+Balanced Durability System (NEW!)
+Gone are the days of "infinite flight" exploits. The addon now features a smart durability conversion system:
+
+- Flight Costs Durability: Flying wears down the armor, just like taking damage would.
+
+- Balanced Rates: Higher-tier armor (like Netherite) allows for longer flights than lower tiers (like Iron) before needing repairs.
+
+- Unbreaking Works: Having Unbreaking III on your Armored Elytra significantly extends your flight time!
+
+- Full Protection
+Your Armored Elytra retains the exact armor points of the chestplate used to craft it. A Diamond Armored Elytra protects you exactly like a Diamond Chestplate.
+
+Maximum Compatibility
+Built using Pure Scripting (API).
+
+- No `player.json` Editing: This addon does NOT touch the `player.json` file.
+
+- Works with Everything: Compatible with almost any other addon, biome mod, or custom armor mod.
+
+- Texture Pack Friendly: Uses your existing texture pack resources. If you have a texture pack that changes Diamond Armor, your Armored Elytra will use that texture automatically!
+
+Important Notes
+
+1. Experimental Settings Required
+You MUST enable "Beta APIs" in your world settings for the scripting engine to work.
+
+2. Visual Limitation (The "Ghost" Wings)
+To maintain 100% compatibility with other addons, there is a minor visual quirk:
+
+- While Standing/Walking: You look exactly like you are wearing your Chestplate + Elytra wings.
+
+- While Flying: Due to engine limitations, the armor texture temporarily vanishes, and you will look like you are wearing a standard Elytra.
+
+- Rest Assured: Your Armor and Enchantments are still active! As soon as you land, the visuals return to normal.
+
+3. Supported Armors
+Currently supports: Chainmail, Iron, Gold, Diamond, Netherite.
+(Leather is currently not supported).
+
+4. Takeoff Requirement (Jump Height)
+
+Because the addon physically swaps your items the moment you jump, there is a split-second delay (about 1 tick) before the Elytra becomes active.
+
+- Do not jump from flat ground: You will likely hit the ground before the flight engages.
+
+- The Fix: Always jump from a ledge, block, or tower that is at least 2 blocks high. This gives the script enough time to activate your wings for a smooth takeoff.
+
+Streamline your adventures and conquer the skies with confidence.
+Download the V2.0 Update now!

@@ -1,0 +1,167 @@
+Created by VinzzLynMC
+
+I come from Indonesia
+
+Sorry for the delay, I'm using my brother's cell phone because my cell phone is broken and I don't have the money to repair it. I would be very grateful if you would be a donor to help me.
+
+If the donations are sufficient, I will immediately release the update because the Xentium Utilities files are on the damaged cellphone.
+
+https://saweria.co/VinzzLynMC
+
+Maaf atas keterlambatannya, saya menggunakan ponsel saudara saya karena ponsel saya rusak dan saya tidak punya uang untuk memperbaikinya. Saya akan sangat berterima kasih jika Anda bersedia menjadi donatur untuk membantu saya.
+
+Jika donasi sudah mencukupi saya akan segera merilis update nya karena files Xentium Utilities ada di handphone yang rusak itu
+
+https://saweria.co/VinzzLynMC
+
+Click Here New Showcase
+
+How to Use
+
+If you don't know the command list, you can type /xh or /xhelp to open this command list.
+
+Open Menu:
+
+- Type this command in chat to open the settings menu:
+
+- /menu
+
+- or
+
+- /xm
+
+- If you use "/xentium:" then it won't work because it requires cheats so you only need /menu and /xm to open it
+
+Open Warps:
+
+- You can open the warp list if there are already Warps filled in the Lodestone by typing
+
+- /warp
+
+- or
+
+- /warps
+
+- If you use "/xentium:" then it won't work because it requires cheats so you only need /warp and /warps to open it
+
+Short Changelog
+
+If it doesn't reach 10k downloads on CurseForge I will close this addon
+
+Xentium Utilities v1.4.7
+
+Minor fixed:
+
+- Fixed a bug that caused any effects to be removed.
+
+- Temporarily removing the RPG system until an unspecified time, because I still need to fix a lot of things.
+
+Xentium Utilities v1.4.5
+
+New Feature
+
+- Infinite Vault
+
+- Items Beam
+
+- Sword Blocking
+
+Improve existing features
+
+Sorry for any inconvenience if there are errors in the previous version because I worked on this alone. I hope players can report errors or bugs in this add-on. I will handle them later.
+
+Storage+:
+
+- Fix when player takes many items and inventory is not enough unreasonable items are returned to storage
+
+System RPG:
+
+- Fixed Lv stat resetting after leveling up
+
+Veinminer:
+
+- Repairing the sculk that was destroyed
+
+Veinminer:
+
+- Improved the UI to make it simpler for players to set up.
+
+- Fixed Fortune not working when destroying ore
+
+- Repairing the sculk that was destroyed
+
+- Fixed when using a pickaxe with the silk touch enchant and destroying a block but not destroying the original block.
+
+Xentium Utilities v1.4.2
+
+New Feature
+
+- Add settings to manage modules that can be set with /tag @s add admin
+
+Improve existing features
+
+Sorry for any inconvenience if there are errors in the previous version because I worked on this alone. I hope players can report errors or bugs in this add-on. I will handle them later.
+
+Carry System:
+
+- Fixed an error when a player was carrying a mob and teleporting using a lodeston
+
+Smart Wolf:
+
+- Fixed a script error that resulted in wolf being unresponsive.
+
+Xentium Utilities v1.4.0
+
+New Feature
+
+- Armored Elytra
+
+- Auto Fishing
+
+- FreeCam
+
+- Smart Wolf
+
+Improve existing features
+
+Sorry for any inconvenience if there are errors in the previous version because I worked on this alone. I hope players can report errors or bugs in this add-on. I will handle them later.
+
+Main Menu:
+
+- Adding contribution list and Command List
+
+- Add Prioritize Enabled Features
+
+- And fixed a minor issue in the menu
+
+Afk Cinematic:
+
+- Fixed error that can't set afk time
+
+Elytra Plus:
+
+- Added Armored Elytra support
+
+Enchanted Shop:
+
+- Changing sho to Enchanting Table
+
+- Open UI if: Sneak + (Empty Hands / Book) OR Not Sneak but holding Book
+
+- Empty hands without sneak Open original UI of Enchanting Table
+
+- Holding another item/block Can equip/normal without
+
+Healthbar:
+
+- Fixed when turning off Healthbar the health status still doesn't disappear
+
+Ore Scanner:
+
+- Added 6 new Particles
+
+- Fixed diagonal ore scans
+
+Storage+:
+
+- Added Inventory Check menu: allows players to sel

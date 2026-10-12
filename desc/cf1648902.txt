@@ -1,0 +1,42 @@
+Custom Music is a fully customizable addon for Minecraft Bedrock that allows you to turn your own songs and audio files into functional music discs in the game. Through our web editor, you can upload your songs (MP3, WAV, M4A, AAC, FLAC, or OGG), listen to them before exporting, customize the title, artist, and square cover art for each disc, and automatically generate your own ready-to-install .mcaddon file.
+
+Main Features:
+
+Custom Music Discs:
+Each song added in the editor generates its own music disc with customized cover art, title, and artist.
+
+Custom Music Player:
+Special player to listen to your discs in-game. Place the player and use it holding a disc to play, or with an empty hand to stop the music.
+
+Record Shop:
+Open an in-game interactive catalog to buy any of your custom discs for 5 emeralds.
+
+undefined
+
+Rockola:
+Create a loop playlist with up to 10 music discs. Interact to control playback, skip tracks, or remove songs.
+
+Crafting Recipes
+
+Custom Music Player: 6 iron ingots, 2 note blocks, and 1 redstone.
+Record Shop: 7 obsidian, 1 emerald, and 1 crafting table.
+
+How to Download
+
+Since each addon is unique and customized with your audio files, there is no standard download. Use the web editor below to upload your music tracks, customize their cover art, and export your own .mcaddon file.
+
+TUTORIAL: Using the Editor
+
+To get your customized addon, follow these simple steps in our web editor:
+
+1. Add your songs: Upload one or more audio files (MP3, WAV, M4A, AAC, FLAC, or OGG) from your device.
+
+2. Preview and Edit: Use the built-in audio player to listen to each track. Adjust the song title, artist name, and upload a square image for the disc cover art.
+
+3. Configure the Addon: Assign a custom name, creator, version, and namespace for your pack.
+
+4. Export your Addon: Click on "Export .mcaddon". The editor will convert your audio files to OGG Vorbis format at 48 kHz and automatically generate the downloadable .mcaddon file to open directly with Minecraft Bedrock.
+
+Downloads | Official Site
+
+- Download Custom Music addon Here | Official Site

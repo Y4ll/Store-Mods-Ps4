@@ -1,0 +1,53 @@
+Dead by Daylight Add-On [Bedrock Edition]
+
+Official Release by Zero Squad
+
+You can watch a full review of this addon on the official YouTube channel MidoriyaMC:
+
+Showcase DbD Add-On
+
+We have fully recreated the iconic asymmetrical horror experience of Dead by Daylight right inside Minecraft Bedrock! Forget clunky command blocks - this add-on runs on a high-performance JavaScript engine. Physics, animations, health states, and the UI are all processed in real-time, delivering a seamless and terrifying survival experience.
+
+Core Gameplay Mechanics:
+
+Fluid Vaulting & Chase System:
+
+Survivors: Press [JUMP] near window frames or dropped pallets to smoothly slide over obstacles in just 0.5 seconds. Vaulting features a 1-second global cooldown to prevent spamming, and dropping a pallet safely pushes the survivor to the correct side.
+
+Killers: Vault significantly slower (1.1 seconds) with heavy-breathing audio. Breaking dropped pallets takes a rapid 2.6 seconds.
+
+Entity Window Blocker: To prevent infinite loops, if a survivor vaults the exact same window 3 times within 30 seconds, the Entity will temporarily block it with spikes.
+
+Generator Protocol & Skill Checks:
+
+To escape, Survivors must repair 5 fully modeled generators by holding [SNEAK]. An on-screen UI counter tracks your remaining objectives. Random, script-driven skill checks will pop up on your screen. The system includes input lag compensation, allowing you to hit the success zone smoothly. Once all generators are powered, opening the exit gates will trigger a map-wide alarm horn.
+
+The Killer's Arsenal & Terror Radius:
+
+Step into the boots of the Trapper, complete with his iconic mask, permanent speed boosts, and fully functional Bear Traps that instantly injure trapped survivors and require an 8-second struggle to escape. The Killer's presence is broadcasted through a dynamic Terror Radius - a rhythmic heartbeat pulse and screen shake that scales at 32m, 16m, and 8m distances (stealth killers can bypass this using the Undetectable tag).
+
+Health State Machine & Hooks:
+
+Character statuses change dynamically: Healthy Injured Downed (featuring a custom crawling animation). Healing takes 16 seconds, and interrupted healing slowly decays rather than resetting instantly. Injured survivors leave dynamic blood trails while running, but bleeding stops completely when hiding in a locker, on a hook, or while being carried.
+
+Features a classic 3-Stage Sacrificial Hook system. Rescued survivors automatically receive a 10-second base Borrowed Time (Endurance and Haste) to prevent tunneling.
+
+Lockers & Wiggle System:
+
+Survivors can hide in lockers for complete immunity against basic attacks. However, hiding for over 30 seconds spawns loud AFK crows to alert the Killer. Killers can grab survivors out of lockers mid-animation, immediately injuring healthy players. If carried, escaping the killer's grasp takes ~16.5 seconds. Dropping a carried survivor no longer resets their struggle meter; it grants them an instant 25% wiggle boost.
+
+Map Maker & Admin Setup:
+
+Role Selector: Before the trial begins, players must use the Selector item to register their baseline database tags ("survivor" or "killer").
+
+Window Vault Trigger: Place the mi:window_vault_trigger block inside window frames. It is completely invisible, phase-through, and unbreakable in Survival/Adventure mode (100% grief-proof).
+
+Automated Match Reset: Admins can run the /function reset command to instantly wipe player states, clear script metadata, reset hook counters, and purge active entities across the Overworld, Nether, and The End for a fresh round.
+
+In-Game Manual: Hand out the Addon Guide item to give players access to an interactive, multi-layered UI manual explaining all the rules.
+
+System Requirements:
+
+Compatibility: Compiled and optimized for Minecraft Bedrock 1.26.40+.
+
+Experimental Toggles: You MUST enable the Beta APIs (GameTest Framework) toggle in your world settings, or the physics and generator logic won't functi

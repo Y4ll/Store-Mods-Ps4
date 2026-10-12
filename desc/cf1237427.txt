@@ -1,0 +1,19 @@
+pack.png Panorama with Shaders (Bedrock)
+
+This is a really simple Resource Pack that adds shaders to the most iconic of all Minecraft seeds!
+
+The seed was discovered by the Minecraft@Home team.
+
+- Seed: 3257840388504953787
+
+- Coordinates: 116, -31
+
+- Version: Minecraft Java Alpha 1.2.2
+
+The shaders used are the Complementary Reimagined Shaders.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+- Feel free to include this resource pack in your mod pack or server.
+
+- If you wish to use this pack in any form of content, please credit with a link to the original PlanetMinecraft/Modrinth/CurseForge page where you can.

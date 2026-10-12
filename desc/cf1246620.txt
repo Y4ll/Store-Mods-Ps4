@@ -1,0 +1,66 @@
+This addon tries to update every part of the game. During your survival you will find new mobs, new food, new structures, new biomes.
+
+The updates of this addon are based on vanilla concerts and fan and author's own ideas.
+
+Throughout your survival you will be able to find new items or find uses for old ones, mainly by learning new crafts in the workbench or finding hints on what can be smelted into a new item.
+
+join the telegramm: https://t.me/ccguardiandeep739cc
+
+Subscribe and get more for youtube: youtube.com/channel/UCDhi5cTpQpIEA6-F2I_l8lw?sub_confirmation=1
+
+Added A Chest With Things
+
+/function all_items
+
+There are a lot of things from the addon in the chest.
+
+Added HALLOWEEN EVENT!!!!
+
+From October 10th to 31st, the game will host a Halloween event. Monsters will drop exclusive rewards, and all mobs will sport pumpkins on their heads.
+
+Added Scorpion
+
+A shadow in the sand, a whisper of death. The scorpion is a dangerous monster, perfectly designed for life in the harsh deserts.
+
+===========================
+
+Credits
+Author: Depth Guardian
+
+German translations and some contributions by Legendary Creeper
+
+Helped with the addon: ananasbedrock59
+
+Suggested function: BigGuy_with_a_big_fish
+
+Helped with the armor fix: Egor Frolov
+
+Suggested crafting recipe: MystPG3D
+
+Created structure: SpydoroCRAFT
+
+Suggested mob: Haydencraft2008
+
+Suggested mob: DevastatorX5Told
+
+About the mistake: KillerTatsumi
+
+Suggested mob: GhastlyGauntlet
+
+Suggested mob: Crash door 207
+
+Suggested mob: Mine Dragon
+
+Textures: FixEnd zPRO
+
+Lots of ideas: Du duf du
+
+Lots of ideas: AREAN
+
+Translated: LineXic
+
+Coding: TwoT2T
+
+===========================
+
+You do requeire any experemental toggles to play this addon

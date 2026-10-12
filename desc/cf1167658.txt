@@ -1,0 +1,37 @@
+<header class="header main-menu" data-v-12e418de="">
+
+</header>
+
+If you have played any of Call of Duty Black Ops games then you are very familiar with Zombies. The very first, and most iconic wonder weapon in zombies is the Raygun!
+
+This texture pack allows you to use the Raygun in minecraft! It is simply a retexture of the Bow in minecraft, so no experiments needed!
+
+<figure class="image"></figure>
+
+In the photo above you can see the Ammo (Arrows), Raygun (Bow), and Elemental Ammo (Tipped Arrows)
+
+<figure class="image"></figure>
+
+Third Person View
+
+<figure class="image"></figure>
+
+First Person View Uncharged
+
+<figure class="image"></figure>
+
+First Person View Charged
+
+This texture pack also changes the names of things in English
+
+Bow -> Raygun
+
+Arrow -> Ammo
+
+Power -> Charged
+
+Punch -> Blast
+
+Flame -> Engulf
+
+Infinity -> Infiniclip

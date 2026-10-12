@@ -1,0 +1,71 @@
+Death Corpse & Coords is a Minecraft Bedrock addon that saves your items inside a skeleton corpse when you die and shows your death coordinates in chat. No more losing your stuff to lava, the void, despawns, or forgetting where you died.
+
+What it does
+
+When you die:
+
+- A skeleton corpse (Death Corpse) spawns at your death location
+
+- All your items and XP are saved inside the corpse
+
+- Died in lava or fell into the void? The corpse is placed where you last stood, so you can always reach it
+
+- Your death coordinates and dimension are shown in chat
+
+- After respawn, you get a reminder message with the corpse location
+
+When you find your corpse:
+
+- Point your crosshair at it to see the player name and distance
+
+- Tap/interact to collect all your items instantly
+
+- Every item goes back to the exact slot it came from, hotbar included
+
+- Your armor, elytra and off-hand item go back on, while spare armor stays in your inventory
+
+- Your XP is restored once the corpse is empty
+
+- If your inventory is full, overflow items drop at your feet
+
+- The corpse disappears once all items are collected
+
+Features
+
+- Items move straight from your inventory into the corpse, safe from lava, fire and the void
+
+- Void protection - fall into the void and your corpse waits where you last stood instead of falling in after you. In The End, if you were flying and never landed, it floats at island height where you fell
+
+- Lava protection - the corpse is placed on the shore you walked in from, and items that already fell into the lava are pulled in before they burn
+
+- Exact inventory restore - every stack, armor piece, elytra and off-hand item returns to its original slot
+
+- XP saved and restored along with your items
+
+- Death coordinates shown in chat with dimension name (Overworld, Nether, The End)
+
+- Respawn reminder message with corpse location
+
+- Custom skeleton corpse model lying on the ground
+
+- Player name tooltip appears when looking at the corpse (works on all platforms)
+
+- "Collect Items" interact button on mobile/touch
+
+- Any player can open a corpse, so a friend can collect your items for you
+
+- Works in all dimensions Overworld, Nether, and The End
+
+- No Beta APIs, no experiment toggles, uses stable Script API
+
+- Lightweight, works on 1.21.0+
+
+Important note This pack will not appear in the main Settings Packs menu. To activate it, edit or create a world, go to the Behavior Packs section, and enable the addon there. The Resource Pack will activate automatically.
+
+How to use
+
+- Your items are saved in the Death Corpse when you die
+
+- Follow the coordinates shown in chat to find your corpse
+
+- Point at the corpse and tap/interact to collect everything

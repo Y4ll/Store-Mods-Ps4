@@ -1,0 +1,35 @@
+The Crouching Gives OP Loot addon adds a new challenge to Minecraft Bedrock Edition by allowing players to obtain amazing loot by just crouching, where the loot ranges from basic to legendary items!
+
+Old update video:
+
+Example of loot you can get:
+
+All you have to do is activating the back in your world's behaviour pack section!
+
+Frequently Asked Questions & Support:
+
+Does this addon use player.json
+
+- Yes, it does.
+
+Will I add more features?
+
+- Maybe in the future, but not unless there is enough attention to this pack for it to be worth updating!
+
+Term of Use:
+
+You may:
+
+- Use the pack in your own worlds and servers,
+
+- Showcase the pack in videos as long as you credit me with the link to this page,
+
+- Edit the pack for private use.
+
+You cannot:
+
+- Share the pack with your own download links,
+
+- Edit the pack and say it's your own,
+
+- Sharing the edited pack without permission.

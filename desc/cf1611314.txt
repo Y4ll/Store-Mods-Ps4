@@ -1,0 +1,1 @@
+Real Health Bar UI adds an RPG-style health bar above entities, allowing you to easily monitor their remaining health during combat for a more immersive gameplay experience.

@@ -1,0 +1,69 @@
+A simple RenderDragon shader for Minecraft Bedrock, built on Newb Shader with its own sky, sunrise, sunset and clouds.
+
+What it changes:
+
+- Beautiful yellow/orange sunrise and sunset
+
+- Cool blue sky
+
+- Fluffy smooth cloudy clouds, it moves smoothly across the sky
+
+- Beautiful night with aurora in sky
+
+- Beautiful water, its waves changes according to wheather.(you will see speed and huge waves during rain or thunderstroms)
+
+- Wavey leaves, plants, crops ( waves strength changes based on weather)
+
+- Glowing ores
+
+- Every light source like torch, lantern etc emits more saturated color, making the villages look more lively
+
+- Rain with dark clouds. Terrain/blocks reflects during rain and terrain looks wet
+
+- End dimenions has purple auorura with cool starry cubemap
+
+- Nether looks more bright and firey
+
+In-Game Screenshots:
+
+- Sunrise
+
+- Clouds
+
+- Rain
+
+- Day
+
+- End
+
+- Portal
+
+- Rainy clouds
+
+- Portal in rain
+
+- Sunset
+
+Installation:
+
+- Download pack
+
+- Load the downloaded pack into your game
+
+- Activate the pack from Global Resources and play
+
+Since, it is a render dragon shader you will need mb loader or patched minecraft in order to use this shader
+
+How to install in Windows: (easiest way)
+
+Locate this folder C:\XboxGames\Minecraft for Windows\Content\data\renderer
+
+Extract my pack, in pack there is a folder "renderer" copy it and past it at this location C:\XboxGames\Minecraft for Windows\Content\data\
+
+Replace all files
+
+But before doing this, i recommend you to have a backup of that renderer folder, so you can remove the shader whenever you want without any problem
+
+Feedback:
+
+If you have any suggestion, or encounter any bugs, please let me know in comments :)

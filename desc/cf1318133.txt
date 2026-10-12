@@ -1,0 +1,58 @@
+ABOUT THE EPIC KNIGHTS MOD
+
+The Epic Knights mod is a historically accurate medieval armour and weapons mod. The addon currently has 25+ different armour sets and 30+ different weapon types in all vanilla resources plus a new material steel!
+The mod is heavily based around Javas Epic Knights Mod which we have ported and built upon to deliver an awesome medieval atmosphereto the game, to further advance the combat most weapons in the addon have the ability to block attacks. More info on this can be found below!
+
+Permissions
+
+From Magistu,the mod developer for the Java Mod.
+
+HOW TO PLAY
+
+In Epic Knights the main resources are leather,wool and iron,these are essential if you want to progress quickly within the addon.
+
+Lets start with leather, leather can be used to make leather strips which are then used to make hilts and poles.Also in the addon the boot slot is reserved for surcoats and capes/other decorational items.
+
+These can then be combined with gold,diamond,iron,steel,wood and stone to make weapons! Netherite like in vanilla is crafted through the smithing table.
+
+Next is wool,wool can be used to craft woollen cloth which is used to craft surcoats,capes and the Gambeson armour set.
+
+Lastly, we have iron.Iron is as usual in minecraft an essential resource.Iron can be smelted to obtain the most best resource in the addon steel. Steel in terms of weaponary is worse than diamond but is better than iron having higher durability but the same attack damage.
+
+However steel is used to craft every armour in the addon,so procuring it is a must if you wish to advance quickly. Samurai related items are often forged with lacquered iron which is a seperate material to steel.
+
+There are 100s of different armour combinations and many ways to suit up as a medieval warrior in this addon, many ways to decorate and many weapons to vanquish your foes!
+
+Info Book
+
+This is a new item that acts like a guide book for the addon. Inside you can learn the addons recipes, mechanics and attributes of each armour and weapon all in one place!
+
+To Turn Pages right ckick to move forward, crouch right click to move backwards and left click to pick up the book
+
+TERMS OF USE
+
+Do not upload this addon to any other websites
+
+You are not allowed to use any of the Addons assets or models without my permission if you wish to talk add me on discord @theblackchimera#1260 or join our discord server
+
+When making videos please link the mcpedl/CurseForge page DO NOT create your own links
+
+CREDITS
+
+-theblackchimera#1260-Owner/Modeller/Texturer/Coder
+
+-pixelleddoki-Creator of Minced Combat
+
+-Puchinin#2286-Advisor/Coder
+
+-Freezefire#6714- Particle Dev
+
+-Smaug049#3831-General Help/Support
+
+-Magistu-Original Java Edition Developer/Owner
+
+https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons
+
+Also if you like the addon and want to contribute ideas or need help or just interested join our discord server!
+
+ENJOY THE ADDON!

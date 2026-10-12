@@ -1,0 +1,9 @@
+This addon adds the first generation of the Mustang, This is a classic muscle car from 1964, This is a car with a lot of power due to its V8 engine,
+With this addon you can have one of the best classic cars and be able to drive it in Minecraft
+
+Characteristics
+Passenger capacity: 4
+Maximum speed: 180km/h
+Engine: V8
+
+How to craft

@@ -1,0 +1,20 @@
+Commands Macros work only in Minecraft Preview 26.0.24+
+
+NEW UI (1.0.3)
+
+How to setup
+
+Enable command macros in creator settings (Only for minecraft preview)
+
+Set the /quick:menu command to the bind you want to use to open the menu.
+
+Set the /quick:step command to the bind you want to use to cycle trough gamemodes.
+
+Hold Right-Alt.
+Press the menu bind to open the menu.
+Press the step bind to choose the gamemode.
+Press the menu bind again to confirm.
+
+JOIN DISCORD!
+
+For support, reporting bugs or to see new updates.

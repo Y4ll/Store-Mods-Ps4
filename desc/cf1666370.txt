@@ -1,0 +1,65 @@
+# More Body Animation and Effects
+
+**By Lumenx2009**
+
+### Summary (short tagline, ~1 sentence)
+
+Replaces 20+ vanilla player animations (idle, walk, run, swim, climb, and more) with smoother custom ones, plus ambient particle effects glowing items, critical hit sparks, sleep/water splashes all in one lightweight add-on.
+
+---
+
+## Description (main body)
+
+**More Body Animation and Effects** brings extra life to your world with two systems working together:
+
+** Body Animations**
+
+- 20+ custom replacement animations that play automatically based on what you're doing: Idle, Walk, Run, Sneak, Jump, Crawl, Swim, Climb, Fall, Bow, Fishing Rod, Eat, Drink, Minecart, Melee, Sit, Hurt, Crossbow, Map, and Fly
+
+- These are passive/contextual they trigger on their own, there's no emote wheel or menu to "play" one manually
+
+- An in-game info panel lists what each animation does, plus admin controls to enable/disable animations globally or for specific players
+
+- No changes to your player skin/model works with any skin, persona, or cape
+
+** Particles & Effects**
+
+- Glowing particle effect on dropped items (Overworld, Nether, and The End)
+
+- Critical hit particle effects
+
+- Sleep and water splash particle effects
+
+- Custom glow-item render effects
+
+### Requirements
+
+- Minecraft Bedrock **1.26.20+**
+
+- No experimental toggles needed runs on stable scripting APIs
+
+- Enable both the Behavior Pack and Resource Pack in your world
+
+### Installation
+
+1. Download the `.mcaddon` file
+
+2. Open it (or double-click) Minecraft will import both packs automatically
+
+3. Go to your world settings **Behavior Packs** activate "More Body Animation and Effects"
+
+4. Repeat for **Resource Packs**
+
+### Notes
+
+- Version: 1.0.0
+
+- No changes to vanilla player model/skin
+
+- Compatible with most other add-ons; if you run into script errors, check for conflicts with other scripting-based add-ons in the same world
+
+### Credits
+
+Built and maintained by **Lumenx2009**.
+
+---

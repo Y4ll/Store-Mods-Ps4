@@ -1,0 +1,43 @@
+About The Add-On
+
+HighTide's Bedrock Additions is an add-on for Minecraft Bedrock Edition that aims to add new content to the base vanilla game whilst keeping the charm of vanilla Minecraft. So far, HighTide's Bedrock Additions adds new things like; items, blocks, commands, functions, entities, weapons, and more! This add-on will also add some recipes that just should be in the game for quality of life purposes.
+
+This image you are looking at right now is an image that showcases some (not all) new items added in HighTide's Bedrock Additions. If you want more details on the items that you can see on the image, check the spoiler below.
+
+REQUIRED EXPERIMENTAL OPTIONS
+
+In order for this add-on to work at all, you will need to enable the following experiments:
+
+- Beta API
+
+- Upcoming Creator Features (Holiday Creator Features)
+
+- Creation of Custom Biomes
+
+Localization
+
+I have spent a lot of time translating this add-on to many different languages so people from different countries can experience the glory that is this add-on. Below, I will write a list of all the languages I've translated this mod to and you might just be able to find yours here.
+
+- English
+
+- Francais (French)
+
+- Espanol (Spanish)
+
+- (Japanese)
+
+- (Ukrainian)
+
+- Nederlands (Dutch)
+
+- Polski (Polish)
+
+- Deutsch (German)
+
+- (Korean)
+
+Final Words
+
+I want to thank you for downloading or at least looking at my add-on. It really means a lot to see my projects being downloaded. And viewed by other people who enjoy Minecraft. I cannot wait to release more updates for HighTide's Bedrock Additions along with many more add-ons in the future.
+
+Have a great rest of your day!

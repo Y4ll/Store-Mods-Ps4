@@ -1,0 +1,163 @@
+The Howler Official version is finally here!
+
+- New behaviors, settings, recipes,and many more has been added!
+
+- This add-on doesn't need experimental toggles
+
+- Doesn't use player.json (Which means add-ons with custom behaviors for the players are supported)
+
+- Multiplayer compatible
+
+- And ton of bug fixes!
+
+- After joining the world make sure to hold or right click the (Computer Menu) and (Survival notes) for more info and tips!
+
+UPDATES
+
+Version 1.1
+
+- Added multi language support for custom items it automatically translates depending on the language setting in Minecraft menu.
+
+Supported languages:
+
+English (United States)
+
+English (United Kingdom)
+
+Francais
+
+Deutsch
+
+Espanol (Espana)
+
+Espanol (Mexico)
+
+Italiano
+
+Portugues (Portugal)
+
+Portugues (Brasil)
+
+Nederlands
+
+Polski
+
+Turkce
+
+Cestina
+
+Magyar
+
+Svenska
+
+Dansk
+
+Norsk (Bokmal)
+
+Suomi
+
+Romana
+
+Bahasa Indonesia
+
+Tieng Viet
+
+The structure plugin is now available outside of discord!
+
+The Howler Structures Plugin adds additional structures that lets players obtain other items in survival!
+
+- Now supports achievements
+
+- Greatly Reduced the size from 7mb to 68kb
+
+- Now it's only a behavior structure pack and longer has the unnecessary texture pack
+
+- Required The latest (The Howler official) add-on to work properly
+
+- Required Minecraft bedrock 1.21.70 and above for the achievements to work
+
+- The structures are also different depending on the biomes
+
+- Don't need experimental toggles
+
+1. New different damage output for each of its behaviors-
+
+-----------------
+
+Hostile -> 3
+
+Aggressive -> 5
+
+-----------------
+
+2. Players can now morph as Howler (Code can be seen in my discord server)
+
+------------------
+
+3. Fixed custom items (due to the manifest that broke everything earlier is now fixed)
+
+FULLY CUSTOMIZABLE SETTINGS!
+
+CAMPFIRE RECIPES
+
+STRUCTURES+ PLUGIN
+
+- Recommended if you want to obtain additional loots
+
+- This includes the VHS tapes, Decorative blocks,and many more
+
+Latest Preview
+
+VHS TAPES AND EASTER EGGS!
+
+- To obtain the vhs tapes the structures+ plugin needs to enabled
+
+- After obtaining the vhs tapes click the block and put them in the vhs player
+
+- Also they need to be in order!
+
+IN-GAME SCREENSHOTS
+
+WATCH THE TRAILER!
+
+RECOMMENDED SETTINGS
+
+DISCORD SERVER
+
+https://discord.gg/qgx9hjxMe6
+
+SOCIAL
+
+- Very long spoilers ahead!
+
+1 - You can disable those annoying blindness effects and darkness or what not in the settings.
+
+2 - Howler can trap players and overtime howler can learn more and deadly ones
+
+3 - It gets aggressive a lot if you get too close more often, especially the LR rate is set to (short) so it means immediate aggressiveness if a player gets close.
+
+4 - The more the ambience sound effects play the more aggressive he is.
+
+5 - Howler is a curious creature,you might encounter him in a cave before and was just staring waiting if you'll do something and then go away.
+
+(Sometimes howler actually goes to you and roars aggressively,if you don't move it will walk away)
+
+6 - Howler doesn't immediately break blocks,it adapts to break it.. An example is how much you keep placing blocks in front of him overtime it will learn to break blocks.
+
+7 - Using shields or totems often when fighting howler will end up for the howler to grab you and force you to drop the item.
+
+8 - If you build up and break the block beneath you Howler will then climb up either way and break the block on the top to get to you.
+
+Same thing when digging straight down, Howler will then follow and learn to dig down and break the blocks underneath to get its way to the target.
+
+9 - Some more skills it can learn:
+
+- Cover (It will cover itself with its arms getting a huge defense) It will learn this if the player is hitting it too much or by using arrows.
+
+- Howler can stomp (Pushing the enemies away)
+
+- Howler speeds up if the player tries to run away
+
+- Howler can detect if the wolves are targeting him or the golems,it will then call some friends of their own.
+
+- Howler sometimes fakes its way of

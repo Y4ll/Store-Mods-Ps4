@@ -1,0 +1,29 @@
+Improve your Minecraft survival experience with the Archaic Fantasy Addon! This addon includes a wide variety of enemies, mobs, items, and bosses, with more to come in future updates, as this addon will be updated regularly. From Undead Sand Serpents to Ice elementals and skeletal mermaids, this addon includes 30 new mobs and many new challenges and rewards for all Minecraft players to enjoy.
+
+This latest update introduces a new final boss, Necropolosis, alongside additional mobs, items, and numerous bug fixes and improvements.
+
+Due to the size and scope of the mod, not all information can be listed here. Extra information can be found on the WIP Wiki.
+
+Archaic Fantasy reimagines survival Minecraft with new progression, bosses, tools, mobs, and challenges for both new and experienced players to overcome.
+
+Archaic Fantasy Trailer:
+
+FEATURES:
+
+An 8 Wave invasion event triggered by using the new "Cosmic Whistle", the Piglin Invasion requires you to fight through hordes of Piglins, Piglin Brutes, Hoglin Brutes, War Ghasts, and finally, the Piglin Orc. These piglins have all found a cure to the zombie virus, and will not be infected when they enter the overworld. Beating the invasion will give you lots of gold, netherite, and the new Netherite Sickle, dropped by the Piglin Orc. Beating the Invasion event is extremely challenging, so the player should come equipped with the best gear and potions they can find.
+
+Currently the strongest mob of the mod, Necropolosis is extremely powerful and dangerous. A summoning guide can be found on it's wikipedia page: It is extremely powerful, and players should only attempt to fight this boss if they are extremely well prepeared with proper armour, potions and weapons. A shield is also mandatory to bring to this fight, as Necropolosis deals extremely high damage, and has a high intensity, exploding laser beam attack. Upon death, Necroplosis drops a Catastrophic Star, which can be used to craft a Catastrophic Beacon, which the player can use to shoot laser beams at opponents.
+
+The Prime Guardian is a mid-game boss, capable of shooting fireballs, shooting Guardian Bombs, jumping over targets, swimming through lava, and creating a massive shockwave attack. The Guardian only spawns in the new Bastion Castle, and upon death drops a Prime Core, which can be used to craft a Staff of Prime, which can be used to shoot out wither skulls.
+
+A gigantic, possessed pair of Dentures, Catastrophe is the earliest boss that players can face. It attacks by summoning skeletons and Watchers, but also by charging through the air and biting it's targets. It is very durable and doesn't burn during the day. If Catastrophe is killed while the player has the Deactivated Totem of Necroplosis in their offhand, it will become charged.
+
+The Terrible, undead sand serpent, this creature can only be summoned by playing a tune out of the Desert's Flute, but you must be wary, this creature is extremely dangerous and powerful. It's body deflects most projectiles, and it has a wide variety of attacks, including a sandstorm, bite and roar attack. It is also capable of summoning the new elemental The Blast, and will summon great sand tornados to aid in battle. While the husk is immobile, it's bite can still pierce the strongest of armor, so it is recommended to bring a shield, and time it's attacks in order to block them. Upon death, the Husk drops the Desert's Club, a very powerful, but heavy, weapon.
+
+The Ender Dragon also recives an improvement in this addon, as it gains a retexture, emmissive wings, and now drops Dragon Scales, which can be used to craft Dragonscale Bow, Swords, and Armour.
+
+There are 26 other mobs in this mod. I won't go into an extreme amount of detail, so if you want all of the information, be sure to check the wiki.
+
+Ender Beast: Spawns commonly in the end, they are the stronger, more dangerous version of endermen. They have a chacne to drop Dragon Scales upon death.
+
+Void Slime: Spawns in the end, drops void sl

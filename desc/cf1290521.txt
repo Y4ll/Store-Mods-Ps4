@@ -1,0 +1,54 @@
+DG Chunk Loader Keep Your Farms Running Anywhere (Supports Iron Farm, Gold Farm)
+
+Have you ever built a farm, planted your seeds, then gone mining or exploring... only to return and realize that nothing has grown and your farms didnt work at all?
+
+Well, that problem ends here
+
+Introducing the DG Chunk Loader Addon. a simple but powerful tool that keeps your farms active even when youre far away
+
+Special Thanks To @tunekeshi2304 For Letting Me Use His Codes.
+
+Key Features:
+
+Keeps crops growing and farms working even if you're not nearby.
+Unique Feature: Works with Iron Farms, which most other chunk loader addons dont support.
+
+How To Use:
+
+1. Activate the Behavior Pack and Resource Pack
+2. In world settings, enable "Beta APIs" under Experiments:
+
+3. Open an existing world or create a new one
+4. Craft the DG Chunk Loader using the recipe shown below:
+
+5. Place it near any build or farm that you want to stay active
+
+Thats it! Now your farms will keep working, and seeds will continue growing no matter where you go
+
+Important Note:
+
+Do not place too many chunk loaders doing so may cause glitches or lag
+
+How To Use With Iron Farms:
+
+Just place the DG Iron Farm Loader block 3-4 blocks above water inside your iron farm
+For extra safety, place a leaf block on top sometimes iron golems may spawn on it
+
+Now, even if youre far away, your iron farm will still produce iron
+
+(Make sure you place the Chunk Loader near the farm first)
+
+How To Use With Gold Farms:
+
+Just place the DG Gold Farm Loader block on top of the Nether as shown in image below:
+(Make sure you place the Chunk Loader near the farm first)
+
+You can place multiple if your gold farm is multi-portal:
+
+Watch This Video For Better Understanding:
+
+Future Plans:
+
+If you want this addon to support gold farms, mob farms, XP farms, etc.,
+leave a comment and share this addon as much as possible
+If the response is good, Ill release an update soon!

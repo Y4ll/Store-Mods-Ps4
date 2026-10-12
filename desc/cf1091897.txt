@@ -1,0 +1,110 @@
+The Ty-el's Vietnamese Language Pack is a little yet helpful resource pack that adds Vietnamese Language support to Minecraft Bedrock. This pack also adds proper supports of the vanilla "Mojangles" (or MinecraftSeven) to make it compatible with Vietnamese characters too. Most translations are in parity with Minecraft: Java Edition.
+
+Credits: @tlgm2308 (X/Twitter), @fromgate (X/Twitter, creator of the original Minecraft Unicode font pack, remastered by tlgm2308), @CrisXolt (VDX UI translation supports), @ZouChenyunfei (X/Twitter, Custom Pack Info in Pack Settings Screen)
+
+Preview Video
+
+(Some translations may differ in the future)
+
+Features
+
+- 17,000+ "translatable translations" are translated and matches Java Edition of Minecraft's Vietnamese language with more than 95% accuracy!
+
+Start screen
+
+Video Settings screen
+
+Create New World/Experiments screen
+
+Update World screen
+
+Achievements/All Tab screen (Please note that achievements are untranslatable)
+
+Loading screen with random loading messages translated
+
+Inventory with Sulfur Cube Spawn Egg item name
+
+Inventory with Polished Cinnabar Stairs item name
+
+Chat screen, with message samples
+
+Marketplace Pass/Home screen
+
+- Fully translated How to Play sections
+
+How To Play/Inventory
+
+How To Play/Encyclopedia/Trading
+
+- Supports Chemistry Mode
+(can be enabled by turning on Education Edition in World Settings)
+
+Material Reducer screen
+
+Lab Table screen with "Bleach" item name
+
+- Supports Editor Mode
+
+To be able to apply Vietnamese in Editor Mode, first in Minecraft Preview, activate the pack and set language to Vietnamese first, then open Minecraft Editor, go to world settings, activate the pack through World Resource Packs and enter the world. The game language will automatically change to Vietnamese as soon as the game load the world.
+
+Selection Pane
+
+Keyboard Settings Dialog
+
+- Text-to-Speech supports!
+
+And more!
+
+Things that can't be translated:
+
+- Achievements
+
+- Marketplace Contents
+
+- Realms/Realms Plus/Marketplace Pass terms, EULA, purchase info
+
+- Credits, Ending Messages
+
+- Add-Ons & custom translations in other packs (some might be supported out-of-the-box)
+
+This pack follows Minecraft translating rules, which means, special names like Creeper, Redstone, Realm(s), Ghast, Piglin... will not be translated, and Minecraft Java Translation Project on Crowdin, but there might be some exceptions.
+
+Fonts
+
+This pack comes with 4 variations of font types (4 subpacks) you can edit it in pack settings. If you don't like custom fonts from this pack, you can always change subpack settings to "none".
+
+- MinecraftSeven (left page) and Unifont (right page)
+
+MinecraftSeven was made by @fromgate and remastered by tlgm2308, to keep your Minecraft experiences nostalgic with some small changes to how texts were rendered.
+
+- MinecraftSeven (Smooth Variant)
+
+This font is the smoothed version of MinecraftSeven, very ideal if you are using high-resolution texture packs or want a "cleaner" PvP experiences.
+
+How To Play/Build a Shelter
+
+How To Play/Encyclopedia/Banners
+
+- None (for custom font pack purposes)
+
+How to change fonts (Restart game is required!)
+
+Step 1: Press Pack Settings button next to the Deactivate button
+
+Where's the Pack Settings button?
+
+Step 2: Change pack settings by swiping the slider
+
+Choose "MinecraftSeven" to apply MinecraftSeven font (default subpack)
+
+Choose "MinecraftSeven (Smooth Variant)" to apply MinecraftSeven font (Smooth Variant)
+
+Choose "Unifont + Noto Sans" to apply Unifont + Noto Sans
+
+Choose "None" to ignore fonts from this pack, and you can place your own custom font packs at the top of Ty-el Vietnamese
+
+Step 3: Exit Settings and Restart game!
+
+Known Issues
+
+- MinecraftSeven (both normal and smooth variants) font: Unicode characters may get "smoother", bolder or distorted than normal, this can be fixed easily by changing game's GUI scale or switch back to "Unifont + Noto Sans" or "None" font. This is due to some screen's resolutions don't support custom fonts 

@@ -1,0 +1,97 @@
+No Limits: Break Vanilla Limits!
+
+Achievement Friendly
+
+Realms Compatible
+
+Compatible With Other Add-on
+
+No Player.json
+
+Take your Minecraft Bedrock survival world beyond the normal limits with No Limits! This add-on pushes enchantments far past vanilla caps
+
+How It Works:
+
+To upgrade an enchantment, you need:
+
+- Level 30+ to start. The cost goes up every 10 enchant levels.
+
+- An Enchanting Table to interact with.
+
+- A max vanilla enchant on the item. For example, Sharpness 5 or Mending 1.
+
+Available Enchantments:
+
+These enchantments are currently supported:
+
+- Mending
+
+- Unbreaking
+
+- Sharpness
+
+- Smite
+
+- Bane of Arthropods
+
+- Fire Aspect
+
+- Knockback
+
+- Looting
+
+- Power
+
+- Flame
+
+- Punch
+
+- Piercing
+
+- Multishot (Not working on fireworks)
+
+- Impaling
+
+- Channeling
+
+- Riptide
+
+- Protection
+
+- Projectile Protection
+
+- Blast Protection
+
+- Fire Protection
+
+- Respiration
+
+- Swift Sneak
+
+- Feather Falling
+
+- Frost Walker
+
+- Soul speed
+
+- Thorns
+
+- Fortune
+
+- Lunge
+
+- Density
+
+- Wind burst
+
+Settings:
+
+- Customize max enchant level to fit your world.
+
+- Cheat mode toggle that ignores the XP requirement. With cheat mode on, players only need to set the enchant level they want when using the Enchanting Table.
+
+- Level Currency customize level needed to upgrade enchant
+
+Start breaking the limits and make your gear stronger than ever with No Limits!
+Join in my discord server you can also report if there any bug -> https://discord.gg/D6pEZpWrH
+Buy me a coffee -> Donate

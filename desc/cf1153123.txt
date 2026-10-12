@@ -1,0 +1,75 @@
+This addon introduces hammers that overhaul your mining experience by breaking blocks in a 3x3x1 area. Whether you're searching for ores or clearing out large spaces, these tools have been created to fit perfectly into Vanilla Minecraft. Perfect for players looking to speed up their mining adventures without compromising the authentic feel of the game!
+
+Features
+
+The hammers will break a 3x3x1 area depending on which side you break the central block. Each hammer will be able to break certain blocks depending on their ore tier.
+
+- Stone Hammer (330 durability)
+
+- Copper Hammer (474 durability)
+
+- Golden Hammer (79 durability)
+
+- Iron Hammer (624 durability)
+
+- Diamond Hammer (2601 durability)
+
+- Netherite Hammer (3385 durability)
+
+Each hammer can break the same blocks that can make a pickaxe of the same ore.
+
+Enchantments
+
+Hammers are functional with all vanilla pickaxe enchantments.
+
+Unbreaking
+
+Breaking a 3x3x1 area will check block by block if Unbreaking enchantment is applied. This means that a normal hammer spends 9 durability points when breaking a complete 3x3x1 area. By having this enchantment, breaking the same area would spend 4 durability points (randomly).
+
+(Durability loss depends on how many blocks are mined in the 3x3x1 area)
+
+Silk Touch
+
+When the area is broken, all blocks will be affected by the enchantment.
+
+Fortune
+
+When the area is broken, all blocks will be affected by the enchantment.
+
+Compatibility with other addons
+
+Hammers will be able to break blocks of other addons as long as they meet these criteria:
+
+- The blocks have at least one of these tags: ('stone', 'minecraft:stone_tier_destructible', 'minecraft:iron_tier_destructible', 'minecraft:diamond_tier_destructible', 'minecraft:netherite_tier_destructible', 'minecraft:is_pickaxe_item_destructible').
+
+- For the fortune enchantment to work on ores, it must only have in its type id '_ore'.
+
+An addon that is compatible with 'Simple Hammers' for example is 'Better on Bedrock'.
+
+Balance adjustments
+
+Some blocks cannot be broken in quantity with the hammer to keep a balance in the game. For example, if you mine a stone block and next to it there is a spawner, it will break all the blocks that are allowed except the spawner.
+
+These blocks are:
+
+- Mob Spawner
+
+- Ancient Debris
+
+Recipes
+
+Stone Hammer
+
+Copper Hammer
+
+Iron Hammer
+
+Golden Hammer
+
+Diamond Hammer
+
+Netherite Hammer
+
+Known Issues
+
+- When holding the mining button and change direction with the hammer, it will take the previous direction (To change direction just release the button and tap again in the other direction).

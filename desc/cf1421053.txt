@@ -1,0 +1,229 @@
+Ever wanted more TNTs in Minecraft? This addon is for you!
+
+TNT Destructive adds 55 new TNTs to your Minecraft Bedrock game (with even more coming soon ):
+
+TNT x5
+
+Explodes with the power of (x5) normal TNT
+
+TNT x20
+
+Explodes with the power of (x20) normal TNT
+
+TNT x50
+
+Explodes with the power of (x50) normal TNT
+
+TNT x100
+
+Explodes with the power of (x100) normal TNT
+
+TNT x500
+
+Explodes with the power of (x500) normal TNT
+
+Nuke TNT
+
+Boom.
+
+Fire TNT
+
+Explodes with fire (who could've guessed)
+
+Napalm TNT
+
+Generates a large lava pool
+
+Mining TNT
+
+Gets rid of dirt and stone. Does not destroy ores. Automatically places a torch for lighting too!
+
+Fake TNT
+
+Haha get pranked!1!!1
+
+Fast TNT
+
+Explodes half a second after it's ignited
+
+Fast TNT x15
+
+Explodes half a second after it's ignited with the power of (x15) normal TNT
+
+Glitched TNT
+
+Help
+
+Small TNT
+
+Explodes with the power of (x0.5) normal TNT. About as much as a creeper explosion.
+
+Knockback TNT
+
+Gives crazy knockback to mobs and players (yeet)
+
+Ocean TNT
+
+Generates a massive water pool
+
+Enderman TNT
+
+Randomly teleports itself before exploding (like an enderman!)
+
+Lightning TNT
+
+The power of Zeus :o
+
+Black Hole TNT
+
+Absorbs entities before exploding
+
+Snow TNT
+
+Covers the surrounding terrain with snow.
+
+Digging TNT
+
+Drills a 3x3 hole straight down to bedrock.
+
+Drilling TNT
+
+Drills a chunk-sized hole straight down to bedrock.
+
+Cubic TNT
+
+Creates a perfectly cubic explosion.
+
+Spherical TNT
+
+Creates a perfectly spherical explosion.
+
+Negative TNT
+
+sdrawkcaB
+
+Firework TNT
+
+Huge TNT firework :o
+
+Ascending TNT
+
+Makes nearby mobs and players levitate into the air.
+
+Flat TNT
+
+Flattens the surrounding terrain.
+
+Mining Flat TNT
+
+Flattens a large area while preserving ores. Places torches, too!
+
+Wood Cutter TNT
+
+Chops nearby trees.
+
+Duplicator TNT
+
+2^6
+
+Drought TNT
+
+Removes nearby water and ice.
+
+Nether TNT
+
+Turns the surrounding terrain into the Nether.
+
+Arrow TNT
+
+Fires a lot of arrows in every direction.
+
+Animal TNT
+
+Spawns a bunch of mobs.
+
+Erupting TNT
+
+Erupts TNT everywhere upon exploding.
+
+Nature TNT
+
+Creates trees.
+
+Meteor TNT
+
+Starts a meteor rain.
+
+Day TNT
+
+Awake
+
+Night TNT
+
+Sleep
+
+Sentient TNT
+
+Comes alive after ignition and chases you down
+
+Random TNT
+
+Transforms nearby terrain into completely random blocks that are definitely not predetermined because I was too lazy to code it properly.
+
+House TNT
+
+Builds a house upon exploding.
+
+Static TNT
+
+Ignores gravity and remains suspended exactly where it was ignited.
+
+Smoke TNT
+
+Smoke bomb.
+
+Slime TNT
+
+Bounces across the ground like a slime.
+
+Frozen TNT
+
+Freezes everything.
+
+XRay TNT
+
+Turns surrounding terrain into glass.
+
+Ore TNT
+
+Spreads all kinds of ores throughout the surrounding terrain.
+
+Gambling TNT
+
+Has a 50/50 chance of either doing nothing or exploding.
+
+Earthquake TNT
+
+Creates a ravine.
+
+Floating Island TNT
+
+Creates a floating island.
+
+Cannon TNT
+
+Rapidly fires a barrage of explosive fireballs that arc through the sky and fall back down.
+
+Unbreakable TNT
+
+Turns the surrounding terrain into bedrock.
+
+GOD TNT
+
+It's up to you to find out. WARNING: This will destroy the entire world >:)
+
+Additionally, there's also projectile versions of all these, which are great for long distance combat and survival!
+
+This addon was inspired by the Too Much TNT mod & others for Java Edition!
+
+Thanks for downloading!

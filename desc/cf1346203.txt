@@ -1,0 +1,1 @@
+The animation library required for Caeliron produced projects as dependency. Provides the functionality for the poses and movement made by the mermaid tails, wings, tails and other miscellaneous things.

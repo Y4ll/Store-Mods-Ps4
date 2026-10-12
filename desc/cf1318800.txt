@@ -1,0 +1,38 @@
+- Showcase Animation!!
+
+Link> Burned Netherite Showcase Animation
+
+This addon contains 1 set of 3d armor with animated texture, 3 3d tools with animated textures each (Sword, Axe, Pickaxe) , 1 block 1 item and The sword and axe attack have a custom animation (The armor glows in the night)
+
+- Hydra Dominatus
+
+V1.0.1 New!!!!
+
+-No burn in lava
+
+-Smithing template & easier to craft
+step 1
+
+step 2
+
+step 3
+
+Warning
+
+yor dispositive may not have the ability to render the addon, this is an error that happens on your dispositive (Phone, PC, Console)
+
+Now to fix the error you will have to edit the addon files manually either on PC or Android/IOS to fix it just open the con.mojang folder (look for tutorial to find the folder)
+
+Check the Behavior pack and Resource pack folder
+
+In each 1 you should make only 1 file with the name Burned Netherite (if you see that there is more than 1 or you see that there is not one you can manually move the addon to that folder) If it still fails, delete the folder and start again.
+
+By: Hydra Team
+
+Models by: Vulak/Rex
+
+Code by: AngelosoYT
+
+Recode by Hamleth/Arena
+
+The Burned Netherite v1.0.1 Team

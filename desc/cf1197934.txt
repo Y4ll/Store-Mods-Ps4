@@ -1,0 +1,23 @@
+This addon brings Java's saturation system to Bedrock, making regeneration faster and more useful overall, showing your current saturation amount above the hunger bar.
+
+With Java Saturation Addon:
+(Faster health regeneration, just like Java Edition)
+
+Minecraft Bedrock Vanilla:
+(Slower health regeneration, default behavior)
+
+How Does Saturation Affect Regeneration?
+
+The amount of health you regenerate depends on your saturation level, which varies based on the food you eat.
+For example:
+
+Golden Carrots provide 14 saturation points, while
+Bread only provides 6 saturation points.
+
+This means that golden carrots restore more than twice as much health as bread, without needing to eat multiple times.
+
+Java Saturation NEW: Adds Java saturation and regeneration, plus the saturation counter.
+
+No-UI Version: Adds Java saturation and regeneration without the saturation counter, for better compatibility with other UI addons or if you simply prefer not to display the UI.
+
+This addon does not disable achievements

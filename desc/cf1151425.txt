@@ -1,0 +1,11 @@
+MelodyCraft is a feature-packed Minecraft Bedrock Edition addon designed for music enthusiasts and creative builders alike! This addon introduces exciting new instruments and stage pieces to enhance your gameplay experience, allowing you to bring the joy of music into your Minecraft world.
+
+- Electric Guitar Perfect for rocking out on stage or adding some edgy vibes to your builds.
+
+- Acoustic Guitar & Black Acoustic Guiatar A versatile instrument ideal for laid-back tunes around a campfire or for creating a relaxed ambiance.
+
+- Microphone
+
+- Drumset
+
+In addition to the instruments, the addon includes various stage elements to help you design your dream concert venue. From lights and decorations to customized setups, you can create stages that are as visually stunning as they are functional. Whether you want to host a lively music festival or a cozy acoustic session, MelodyCraft provides the tools to make it happen.

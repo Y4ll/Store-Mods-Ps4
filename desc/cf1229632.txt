@@ -1,0 +1,127 @@
+Looking for a new way to spice up your Minecraft playthrough? Progression Craft, heavily inspired by Java mods like Sevtech and RLcraft, changes how you progress through the game, requiring much more focus into progressing, and feels much more rewarding when you unlock the simplest of items! This addon has a dedicated Quest Book that'll help you guide through the ages. Craft it with 2 dirt! Keep recipe unlock on! Progression Craft will focus on showing off Bedrock specific addons, giving a different experience than Java name brand mods! Updated to 26.3x+!
+
+(Age 1 Header)
+
+(Age 2 Header)
+
+(Age 3 Header, using VV w/ Luminous Dreams)
+
+For Crit Combat, In settings Turn Text Background Opacity to 0% under Accessibility to get rid of a black box when in combat.
+
+Add-ons Used:
+
+Age 1 List
+
+- Backpack Plus
+
+- Bean Vanilla Plus
+
+- Create
+
+- Bum_Crops [1.8.23]
+
+- Craig's Cosmetics + (Halloween/Chinese New Year)
+
+- Fuel Overhaul
+
+- Leather Tanner
+
+- Man Made Structures
+
+- Natural Structures Redone V4
+
+- Finally Otters
+
+- Tinker's Legacy + Armory
+
+- Upgradeable Chests
+
+Age 2 List
+
+- Critical Combat
+
+- Gloomy Update
+
+- Bony Update
+
+Age 3 List
+
+- Bedrock Energestics
+
+I have permission to use all!
+
+Open to any suggestions: Twitter or on the Vatonage Server
+
+Still in WIP
+
+- If anyone would like to translate the questlines let me know! There is leftover translated quest code for Japanese, Chinese and Spanish. Now made easier as its all in one file!
+
+Age 3
+
+Iron --> Nether --> Basic Machinery --> Steel
+
+In age 3 progress past the iron age to unlock more durable steel! Go into the nether pre-diamond grab the resources needed and create a machinery circuit powerful enough to melt steel. Disclaimer: I'm not responsible for any deaths in the nether. Features reworked mobs, early game rebalancing, and incorporating features from Sulfur drop below!
+
+*warning machines will make the chunk laggy when placing many so watch out
+
+Age 2
+
+Primal --> Bone --> Bronze --> Iron
+
+In Age 2 use the power of natural magic to get the necessary heat to melt those tough ores! Age 2 also unlocks quality of life items, like the needed storage and sleeping!!! Also added multiple new threats at night! Updated to include the Pale Gardens.
+
+Age 1 has been reworked, so your experience will be different than just the Age 1 version!
+
+Age 1
+
+Nothing --> Leather --> Primal
+
+At age 1, you will get a good feel of your land. Prepared to explore the land before wooden tools and find your way through the limited crafting recipes! Leather will be your halfway point before mining. By then you will have run into multiple survival issues ;)
+
+This first age varies massively from Progression Craft Redone, so it will be a new playthrough for those who played the original!
+
+Tutorial Section
+
+Age 1
+
+Campfire Creating
+
+Charcoal Block Creating
+
+Creating Brick
+
+Creating Porcelain
+
+Age 2
+
+Altar Setup
+
+Age 3
+
+Smashing Barrel
+
+*Addon Creators Note: This modpack is still in script v1 and utilizes outdated scripts, most likely will revamp back end for v2 script in the next update
+
+Permissions
+
+Fuel Overhaul:
+
+Bean Vanilla+
+
+Create/Others (Vatonage)
+
+Bum_Crops
+
+Backpack+
+
+\
+
+Craigs Cosmetics
+
+Leather Tanner
+
+Finally Otters
+
+Tinker's Legacy + Armory/Crit Combat
+
+Bony/Mossy Update

@@ -1,0 +1,34 @@
+Stay close or get pulled. Chained Together links every player on the server with a visible rope or chain wander too far and you get yanked back. A chaotic, fun multiplayer experience where teamwork is not optional.
+
+Features
+
+- Rope or Chain style each player picks their own visual style on join; switch anytime from the menu
+
+- 6-block leash length move too far apart and the rope starts pulling you back toward each other
+
+- Hard snap at 24 blocks get too far and you are instantly teleported back together
+
+- Manual connect/disconnect choose exactly which players to chain together, or cut specific connections
+
+- Chain Everyone mode instantly links all players in a line with one tap, no manual setup needed
+
+- Cross-dimension pull if a chained player enters another dimension, they get pulled back automatically
+
+- Remove All Chains instantly free everyone with a single button
+
+- No cheats required works fully in survival mode
+
+Commands
+
+- /voxen:ct open the Chained Together menu
+
+How to Use
+
+PC: Type /voxen:ct in chat or right-click to open the menu. Pick your style and connect to players.
+Mobile: Type /voxen:ct in chat to open the menu. Pick your style and connect to players.
+
+On first join, a style picker will appear automatically choose Rope or Chain and you are instantly linked.
+
+Achievement Friendly?
+
+Yes fully achievement friendly. Use it without any worries.

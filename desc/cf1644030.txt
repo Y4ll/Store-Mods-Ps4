@@ -1,0 +1,17 @@
+Realism Enhanced Visuals turns Bedrock into a world that feels lived in - warm god rays through the canopy, skies hand-tuned from dawn to midnight, and fog built biome by biome.
+
+- Per-Biome Fog, Lighting & Colour Grading
+
+- Volumetric God Rays
+
+- Rich Day-to-Night Skies
+
+- Ambient Particles Leaves, Butterflies, Birds, Shooting Stars, Northern Lights
+
+- Coloured Light Sources
+
+- Full PBR Textures (Default & High)
+
+- Compatible with other Packs
+
+[ ! ] This pack only works with Vibrant Visuals turned on

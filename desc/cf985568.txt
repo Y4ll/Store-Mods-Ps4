@@ -1,0 +1,35 @@
+Tired of missing important details in the heat of battle or walking right past valuable resources in dark caves? Recognizable Textures optimizes the most important visual elements of your Minecraft world to give you complete control over your gameplaywithout ruining the classic look.
+
+Whether youre digging deep into the mines for diamonds, keeping an eye on your effects, or diving into thrilling PvP battles: This pack gives you the decisive visual edge while preserving the beloved vanilla charm!
+
+Customize the resource pack to suit your personal playstyle by clicking the gear icon when you activate the resource pack and choosing from the following categories:
+
+Minimal Play with ore outlines only (always active)
+
+Redstone Utility Play with Redstone indicators
+
+PvP/Combat Get effect borders, potion indicators, and an improved mining UI
+
+Pure Gameplay Get Redstone indicators, potion indicators, and effect indicators
+
+Full Experience Play with all Recognizable Textures
+
+Clear Vision, Better Reaction Time
+
+Put an end to visual chaos and get the most out of your gameplay:
+
+Distinct Ore Outlines: Find diamonds, gold, and ancient scrap in the blink of an eye. The clear outlines make ores stand out immediately, even in the darkest caves.
+
+Precise Interface: Optimized arrows and clearer UI indicators ensure you can grasp your menus, navigation, and stats in a flash.
+
+Smart Redstone Indicators: Build faster and smarter! Enjoy distinct side and back indicators for Pistons, Sticky Pistons, Observers, Daylight Sensors, Repeaters, and Comparatorsno more guessing block orientations in tight circuits.
+
+Improved mining animation: The revamped destruction animation shows you the progress of mining blocks much more clearly, without blocking your view of your surroundings.
+
+Technical Highlights & Features
+
+Visible Effect Borders: Keep a perfect eye on your active potion and status effects thanks to optimized visual borders.
+
+Tactical Edge: In PvP or Hardcore Survival mode, every second counts. With this enhanced overview, youll spot dangers and resources faster than ever before.
+
+Performance-Friendly: No heavy mods required! This resource pack is extremely lightweight, runs absolutely smoothly on all Bedrock platforms (console, mobile, PC), and preserves your FPS.

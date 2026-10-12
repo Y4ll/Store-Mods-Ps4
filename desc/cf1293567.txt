@@ -1,0 +1,8 @@
+Created by Car4ctere
+
+Anywool Beds is a simple behavior pack addon that makes possible the creation of any bed with any wool!
+The middle wool of crafting will always define the color of bed.
+
+EXAMPLES:
+
+YOU DON'T NEED TO ENABLE EXPERIMENTS!

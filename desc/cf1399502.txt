@@ -1,0 +1,35 @@
+So yeah, this addon lets you zoom without a spyglass, making it way easier to look far away in survival.
+
+Using it is pretty simple. You just need to add /zoom to the Macro Command (read the note below), then set the key you want, for example Alt + Z.
+For mobile players, just sneak 2x.
+You can also set other triggers by typing /setting in chat and just pick the trigger you like.
+
+There is also an option to turn off the zoom sound effect or cinematic effect!
+
+Note: Macro commands are now available in Minecraft release version v1.26.0.2 and above, please use that version for the macro command feature :) (macro command is in keyboard and settings then just scroll because it is located below)
+
+Available Zoom Triggers:
+
+- Right-click + hold a Stick
+
+- Right-click + hold any item named "zoom"
+
+- Sneak
+
+- Double sneak
+
+Required Dependencies(Optional!)
+
+optional if you use my other addons like DAV or CAB
+
+UI Neck
+
+Showcase Video
+
+watch if you don't understand or want to know how it works!
+
+Join Our Community
+
+discussions, submit suggestions, report bugs and more
+
+Discord Server | Telegram Group | Whatsapp Group(+62 only)

@@ -1,0 +1,79 @@
+The mod has its first development in 2024 may 25 and i abandoned it for months after finished making it. I have many simulation mods such as TT Aircraft, armored vehicles, araths gun and more, this is one of them. Since i made many mods without creators permission i don't really just share those mods to everyone cuz its illegal only whats legal plus i don't interested meanwhile MyoHtet @bmheades main creator of the addon accepted reverse engineering his own mod unless proper credits so i decided share and continue development to make it complete cuz why not:). This mod works perfectly without any experiments contained one of the most powerful entity ever known exist in minecraft bedrock, lets get back to details.
+
+M1A2 abrams SEPV3 Base (Beast) chart
+
+Health: 200k speed:72km/h(45mph)
+
+main gun damage:50k (m1147 AMP round)
+
+Turret damage:30(m240c) speed:853m/s
+
+Protection: Absolute superior
+
+Can crush mobs with its weight
+
+Can break through some block
+
+Credits
+
+MyoHtet aka @bmheades
+
+https://mcpedl.com/m1a2-abrams-tank-addon
+
+Janjaa_suld
+
+Case
+
+10 wither (Bedrock) takes 3:46 hours to mission kill M1A2 when no one is driving
+
+Counter mods
+
+1.Soviet afghan war by 4uXoh
+
+2.VAIF_5.7 by anhemsteve
+
+3.Villager soldier pirate ship by anhemsteve
+
+Counter mobs
+
+Beast vs Beast
+
+wither storm
+
+Small tanks (Piglin tank, ravager tank from VAIF etc)
+
+Piglin tank from VAIF_5.7 status
+
+HP:2500
+
+Damage: 1200
+
+Mod details
+
+2.6Mb size
+
+minimium support 1.16.10 or above
+
+Non experimental
+
+Origin
+
+Inspired by the original M1A2 Abrams Tank addon by MyoHtet first published in March 2021
+
+First exists in may 25 2024
+
+Notes
+
+You can only obtain this tank using commands or in creative mode
+
+Activate both resource and behavior pack it doesn't need experiments
+
+Legendary line
+
+Other tanks: I'm Balanced
+
+This tank: I am the Balance
+
+Find out more on my discord
+
+https://discord.gg/zxFUhpNaFT

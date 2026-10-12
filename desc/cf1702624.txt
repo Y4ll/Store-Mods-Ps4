@@ -1,0 +1,65 @@
+Verxhade Client is a clean PvP pack. It helps you fight and practice better with clear menus, helpful screen info, fast kit loaders, arena map spawn, and smart training bots.
+
+Features:
+
+Durability Tracker
+
+Item Counter
+
+Player Radar
+
+Kill & Death (K/D) Tracker
+
+Killstreak Tracker
+
+Hit Damage Indicator
+
+Fight & Potion Timer
+
+Crystal-Style Health Hearts
+
+Clean Armor Shield Icons
+
+Golden Food Icons
+
+1-Pixel Crosshair
+
+Clear Menus & Chests
+
+No Dark Background
+
+4 Bot Difficulties
+
+Practice Dummy
+
+Bot Enhancements Switch
+
+5 Custom Kit Slots
+
+Save & Load Inventory
+
+Ready-to-Use Kits (Sword, Bow, Mace, Spear, Crystal, Anchor, Soup)
+
+Auto-Enchanter
+
+Two-Player Spawns
+
+Arena Map Spawner & Reset
+
+How to Open the Menu
+
+- Triple-Sneak: Tap your sneak button 3 times quickly.
+
+- Heavy Core: Hold a Heavy Core and click or tap your screen.
+
+- Chat Command: Type /scriptevent verxhade:toggle in chat.
+
+"Turn on Beta APIs in World Settings under Experiment Tab(Optional if non problems occur)"
+
+Notice - Please Report Bugs and if you have any Map/Item/Fix Suggestions just leave it on comment sections i will look forward to it thank you!.
+
+Permissions & Usage (made for noticing about my projects uses)
+
+Modpacks: Free to use in public or private modpacks with proper credit and a link back to this official CurseForge page.
+Videos & Streaming: Feel free to feature this project in your YouTube videos, TikToks, or live streams. Please credit vyuxfell or include a link back to this page in your video description.
+Re-Uploading & Redistribution: Strictly prohibited. Do not re-upload, re-host, or distribute modified versions elsewhere. All downloads must originate exclusively from this official CurseForge project page by vyuxfell.

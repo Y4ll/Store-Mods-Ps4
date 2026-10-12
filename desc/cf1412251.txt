@@ -1,0 +1,5 @@
+Zero Deferred, a demanding mid-range, high-performance solution, includes the new implementation of local lighting for the Minecraft Beta and Preview (26.0.25/26).
+
+We have added local lighting so it can be enabled and used in your world, previously known as light points. This is the modern lighting system we will be using from now on.
+
+This Deferred is not my own idea; it has been recreated from scratch using the new configuration and will receive continuous updates.

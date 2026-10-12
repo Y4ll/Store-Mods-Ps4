@@ -1,0 +1,13 @@
+Clear Pixels 128128 HD Texture Pack
+
+Clear Pixels sharpens and cleans Minecraft's default textures while keeping the original look and feel. All textures are upscaled to 128128 so you get a crisp, HD appearance that works smoothly on most devices.
+
+- Preserves Minecraft's original style only higher detail and clarity.
+
+- All textures resized to 128128 for consistent HD quality.
+
+- Optimized for performance made to run on a wide range of devices.
+
+Suggestion: Use this pack with any shader to make it look even better. (In the preview, Ive used the default Minecraft shaders.)
+
+If you find any bugs or something that needs fixing, please comment on this post I will fix it ASAP.

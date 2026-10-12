@@ -1,0 +1,18 @@
+MY DISCORD
+
+(disclaimer the image is made by ai)
+
+This Health Bar add-on has color variations so you can detect enemy health without needing to see numbers.
+
+Health color meanings:
+Green = 80%+ (still plenty)
+Yellow = 50%+ (about half)
+Orange = 25%+ (1/4 health left)
+Red = below 25% (almost dead)
+
+This add-on does not include player.json.
+This add-on does require experimental features. (please use API)
+If you are missing dependencies, it means you havent downloaded the BP or RP.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

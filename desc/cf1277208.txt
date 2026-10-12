@@ -1,0 +1,3 @@
+[ES]Aplica el efecto de regeneracion a la Zanahoria Dorada para imitar el efecto de absorcion tan rapido como la version Java.
+
+[MX]Aplicacion el efecto de regeneracion a la Zanahoria Dorada para imitar el efecto de absorcion tan rapido como la version Java.

@@ -1,0 +1,45 @@
+Moogs Voyager Structures - Bedrock Edition
+
+Now available for Minecraft Bedrock Edition!
+
+ABOUT
+
+Moogs Voyager Structures transforms your Minecraft experience with dynamic and engaging new structures. Crafted using vanilla blocks and entities, these structures seamlessly integrate into the game, offering exciting loot, challenging enemies, and villagers. Compatible with all other addons, this behavior pack enhances your world while preserving the classic Minecraft feel. Dive into a world of adventure and discovery with Moogs Voyager Structures for Bedrock!
+
+To see some of the structures, check out the screenshots section below.
+
+Installation Instructions
+
+- Download the .mcpack file
+
+- Double-click the file to automatically import it into Minecraft
+
+- Create a new world or edit an existing one
+
+- Enable the "Moogs Voyager Structures" behavior pack in the world settings
+
+- IMPORTANT: Enable data driven jigsaw structures in the Experiments tab.
+
+- Enjoy your enhanced Minecraft world with new structures!
+
+Features
+
+- Over 100 unique structures seamlessly integrated into the Minecraft world
+
+- Structures spawn naturally across various biomes
+
+- Exciting rewards and treasures to discover
+
+- Vanilla-friendly design ensures the structures blend with the Minecraft aesthetic
+
+Videos
+
+Support
+
+The best and fastest way to get replies is to join our Discord server.
+
+Report any issues or bugs on our Discord or in the addon's review section.
+
+Java Edition
+
+Looking for the Java Edition version? Find it here.

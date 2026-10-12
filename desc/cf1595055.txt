@@ -1,0 +1,47 @@
+Travel Backpacks
+
+Travel Backpacks is a simple addon to help with your full inventory problem.
+
+See below how to craft it and use:
+
+Social Links:
+
+<More upgrades soon>
+
+> Craft:
+
+Using 1 chest, 4 leather and 4 strings you can craft a Leather Backpack the first tier of others backpacks.
+
+With a Backpack in hands, you can interact to open it.
+
+To place your Backpack on the ground you just need to crouch and interact with a block.
+
+> Inventory UI:
+
+Each backpack has a custom UI that is compatible with other custom UIs.
+
+If you are playing in a cell phone your UI will be changed, to use a scrolling panel.
+
+> Paint Backpack:
+
+Using a dye on your backpack on the ground you can paint it.
+
+> Upgrade Template:
+
+To craft any upgrades you will need an Upgrade Template.
+
+> Upgrade Tiers:
+
+To increase the storage space of your backpacks you can craft Upgrades Tier.
+
+Hold the upgrade on your hand and interact with the backpack to upgrade its tier.
+
+TIP: You don't need to follow the tier progress, you can craft the last tier and apply it in a Leather Backpack.
+
+> Craft Upgrade:
+
+The Craft Upgrade unlock an craft panel on your backpack that works as a vanilla crafting table (It's compatible with any addon's recipes).
+
+> Funace Upgrade:
+
+The Furnace Upgrade unlock an furnace panel on your backpack that works as a vanilla furnace. (It's compatible with any addon's recipes).

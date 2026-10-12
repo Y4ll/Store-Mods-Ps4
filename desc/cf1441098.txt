@@ -1,0 +1,68 @@
+Beyond's Java PvP introduces the weapon attack speed and combat system from Minecraft Java to Minecraft Bedrock in a clean and simple way. Here are all the features this addon contains :
+
+REQUIREMENT:
+
+This addon required the latest version of UI Stacker to run. Download The UI Stacker addon from here.
+Download Link: https://www.curseforge.com/minecraft-bedrock/addons/ui-stacker
+
+Compatible Addons:
+
+Hoplite Weapons: Hoplite Weapons is a remake of SpeedSilver Weapons addon that adds the legendary weapons from the popular Java server hoplite.gg. This addon is perfect for multiplayer play, PvP and for SMP or just a simple way to spice up your survival world. Here are all the features from this addon
+
+Download Hoplite Weapons [Click Me]
+
+Make sure that Beyond's Java PvP addons bp and rp are bellow all the other addons. It will work otherwise but keeping it bellow is recommended.
+
+.
+
+Use the command /bjp:config to modify and configure the settings of the addon to your linking. You need bey:bjp_admin or bey:bjpvp_owner tag to access advanced settings.
+
+Features:
+
+- Java Weapon Attack Speed: Each weapon have their own attack speed. After each sweep you will have to wait untill your weapon is ready to do another attack. If you keep on spamming your weapon it wont do the full damage.
+
+- Java Weapon Rest Animation: After you swing a weapon that weapon will be on cooldown which will be shown as its in Minecraft Java
+
+- Working With Enchantments: Each weapon works with their own enchantments. These include Sharpness, Bane of Arthopod and Smite
+
+- Effect Detect: Streght and Weakness effects item damage the same way it does in Minecraft Java
+
+Weapons that are affected:
+
+- Netehrite sword, Diamond sword, Iron sword, Copper sword, Gold sword, Stone sword, Wooden sword
+
+- Netehrite axe, Diamond axe, Iron axe, Copper axe, Gold axe, Stone axe, Wooden axe
+
+- Mace
+
+- Trident
+
+- Quick Switch: Using this feature you can quickly switch items from you mainhand to offhand and vise versa. You can select from "Double Sneak", "Sneak and Interact" or "Both Settings"
+
+- Offhand Golden Apple and Golden Apple Rebalancing: Golden apple has been rebalanced so when consuming multiple your absorption heart dosent go up. Also you can equip golden apple in your offhand and by interact with any sword or axe you can consume the golden apple from your offhand
+
+[NEW] Java Saturation:
+
+Displays the player saturation like in "AppleSkin" Mod for minecraft java edition. Saturation also works the same where each 0.5 s half of your saturation will be used to heal you by one heart. Saturation is also used when running or jumping.
+
+[NEW] Offhand Blocks:
+
+You can now equip set blocks in your offhand and place them while using any weapons in the mainhand. You cannot directly equip the block you need to use the quick offhand switch feature of the addon to switch the block in your offhand.
+Blocks Included Are: All planks, Stone, Cobblestone, All leaves, All ice, TnT ...more would be added in new updates
+
+WARNING: This addon uses player.json file for the resource pack and behaviour pack.
+
+Want Beyond's Java PvP To Be Compatible With Your Addon. Contact Me On Discord.
+
+REQUIREMENT:
+
+This addon required the latest version of UI Stacker to run. Download The UI Stacker addon from here.
+Download Link: https://www.curseforge.com/minecraft-bedrock/addons/ui-stacker
+
+Credits:
+
+- Beyond64: Programmer and Creator
+
+- Blurry Face: Inspiration
+
+For more updates or any additional questions reach us on Discord.

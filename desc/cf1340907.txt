@@ -1,0 +1,119 @@
+DRILLS ADDON (Bedrock) Heat Modes Balance Boom! Stop wasting pickaxes and start drilling smarter. This nerfed-for-survival addon adds 11 drill tiers with a heating/cooling system, 4 switchable modes, smart drop toggle, flavorful particles/sounds, and clean English in-game messages. Built for performance, balanced for long worlds.
+
+NEEDS BETA API ACTIVATED
+
+V1.9 Showcase
+
+V1.8 Showcase
+
+V1.7 Showcase
+
+V1.6 Showcase
+
+V1.5 Showcase
+
+V1.4 Showcase
+
+UPDATE 1.3 - New Menus & Systems
+
+UPDATE 1.1 - New Drills & Features
+
+New Drills:
+
+- PRISMARINE DRILL Conduit Power underwater Aquatic cooling Oceanic speed boost
+
+- CHORUS DRILL Teleportation forward (3-5 blocks) End dimension bonus cooling
+
+Crafting:
+
+- Prismarine: 3 Prismarine Crystals + 2 Redstone Blocks + 1 Conduit
+
+- Chorus: 3 Popped Chorus Fruit + 2 Redstone Blocks + 1 End Rod
+
+Core Features
+
+Heating & Cooling System manage heat and cooldowns
+
+4 Modes: Precision Standard Excavation Tunnel
+
+Drops Toggle: Double-sneak or type !!drops (starts OFF for performance)
+
+Balanced (Nerfed): Survival-friendly progression
+
+Stats & HUD: !drillstats shows ratings, heat & speed
+
+Entity-Safe: Warnings if misused as a weapon
+
+Drill Tiers
+
+IRON starter
+
+GOLD fast but fragile
+
+COPPER cools quicker
+
+AMETHYST precision bonus
+
+EMERALD lucky drops
+
+SKULK stealthy
+
+DIAMOND balanced
+
+NETHERITE fireproof endgame
+
+MULTI-DRILL the ultimate
+
+Controls
+
+Shift + Right Click: cycle modes
+
+Double Sneak: toggle drops
+
+SHOWCASE
+
+Whats new 1.2: Pyramid mode + chaining fix
+
+Why Try It?
+
+Survival-balanced (nerfed values)
+Drops OFF by default smoother servers
+Epic progression curve, not OP from the start
+Fun particles, sounds, and English action-bar feedback
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Best Addon
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+JOIN DISCORD --> Click Here
+
+By Iced Fox Studios Rate & share if you enjoy it, and fuel future updates!

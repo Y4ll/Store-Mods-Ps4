@@ -1,0 +1,3 @@
+Disclaimer: the image was created by AI
+
+Health Bar Indicator lets you clearly see the health of every mob you fight. A visible health bar appears above mobs, allowing you to track how much damage you deal and how close they are to being defeated. This feature makes combat easier to understand and more strategic, similar to the system used in the game Hytale.

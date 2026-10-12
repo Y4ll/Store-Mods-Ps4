@@ -1,0 +1,29 @@
+NoierUi - Noier_x7
+
+A visual and thematic texture pack for your Minecraft game, it changes the entire interface of the start screen and loading screens. It also adds a dark mode for better viewing.
+
+Modified
+
+- start_screen
+
+- proguess_screen
+
+Compatibility
+
+- It works perfectly on mobile devices. / It may exhibit visual bugs on tablets.
+
+- It may display a very small interface on a PC.
+
+Requirements for the Animated version.
+
+-
+8 gb ram.
+
+-
+50 MB.
+
+-
+MT g99 Equivalent or higher.
+
+-
+Created by Noier_x7 / All the creative work was done on mobile.+

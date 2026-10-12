@@ -1,0 +1,105 @@
+Simply RPG Statistics (Update 1.1.0)
+
+Simply RPG Statistics turns your Minecraft Bedrock world into a classic RPG adventure. Now featuring the new Specialist Mode (Adaptive Stats), Mana, and Sword Skills!
+
+Start your adventure, kill mobs to earn XP, level up, and build your character. Will you manually assign your points, or let your actions define your class?
+
+New Key Features
+
+- Specialist Mode (NEW): An optional progression where your stats increase automatically based on what you do (Fighting, Running, or Tanking). [ V1.1.0 ]
+
+- Automatic Leveling: Kill mobs to gain XP! The stronger the mob, the more XP you get.
+
+- Addon Compatibility: This system works with mobs from other Addons too! XP is calculated based on the entity's Max Health. [ V1.1.0 ]
+
+- Mana System & Skills: Unlock powerful Sword Skills that consume Mana.
+
+- Immersive HUD: A custom Actionbar UI displays your Level, XP, Health, and Mana.
+
+- Interactive Menu: Use the Menu Item (Right-click) to manage stats (Classic Mode) and configure skills.
+
+Specialist Mode (Adaptive Stats) [ V1.1.0 ]
+
+Want a realistic challenge? Use the command /scriptevent rpg:mode to toggle this mode. Manual points are disabled, and your stats evolve organically:
+
+- Offensive Focus: Attacking enemies raises STR but slowly lowers Defense/Vitality. (Glass Cannon playstyle).
+
+- Defensive Focus: Taking damage or blocking raises RES/VIT but lowers Agility/Strength. (Tank playstyle).
+
+- Mobility Focus: Sprinting raises AGI but lowers combat stats. (Speedster playstyle).
+
+The 6 Statistics
+
+- Resistance (RES): Increases your Health Regeneration speed. [ V1.1.0 ]
+
+- Strength (STR): Increases melee damage. Required to unlock Sword Skills.
+
+- Vitality (VIT): Increases your Max Health (Hearts). [ V1.1.0 ]
+
+- Intelligence (INT): Increases your Max Mana and Mana Regeneration.
+
+- Agility (AGI): Boosts movement speed.
+
+- Luck (LUCK): Increases Critical Hit chance and dodge probability.
+
+Sword Skills
+
+- Thrust: A powerful dash attack.
+
+- Activation: Sprint + Hit an enemy.
+
+- Requirement: 15 Strength.
+
+- Cost: 15 Mana.
+
+Commands
+
+- /scriptevent rpg:menu - Opens the main menu.
+
+- /scriptevent rpg:mode - (New) Toggles between Classic Mode and Specialist Mode. [ V1.1.0 ]
+
+- /scriptevent rpg:reset - Resets your character to Level 1.
+
+- /scriptevent rpg:levelup - (Admin) Forces a level up.
+
+- /scriptevent rpg:points <amount> - (Admin) Gives free stat points.
+
+Version en Espanol
+
+Simply RPG Statistics transforma tu mundo de Minecraft en una aventura RPG. Ahora con el nuevo Modo Especialista (Stats Adaptables), Mana y Habilidades!
+
+Mata mobs, gana XP y decide: Asignaras tus puntos manualmente o dejaras que tus acciones definan tu clase?
+
+Caracteristicas Nuevas
+
+- Modo Especialista (NUEVO): Un sistema opcional donde tus stats suben automaticamente segun lo que hagas (Pelear, Correr o Tanquear). [ V1.1.0 ]
+
+- Nivel Automatico: Mata criaturas para ganar XP y subir de nivel!
+
+- Compatibilidad con Addons: El sistema funciona con mobs de otros Addons! La XP se calcula segun la Vida Maxima de la entidad. [ V1.1.0 ]
+
+- Mana y Habilidades: Desbloquea Sword Skills que consumen Mana.
+
+- HUD Inmersivo: Interfaz en la Actionbar con Nivel, XP, Vida y Mana.
+
+- Menu Interactivo: Usa el Item de Menu para ver tu progreso.
+
+Modo Especialista (Stats Adaptables) [ V1.1.0 ]
+
+Buscas realismo? Usa el comando /scriptevent rpg:mode para activar este modo. Los puntos manuales se bloquean y tus stats evolucionan solas:
+
+- Enfoque Ofensivo: Atacar enemigos sube Fuerza pero baja Defensa/Vitalidad poco a poco.
+
+- Enfoque Defensivo: Recibir dano o bloquear sube Resistencia/Vitalidad pero baja Agilidad/Fuerza.
+
+- Enfoque de Movilidad: Correr (Sprint) sube Agilidad pero baja stats de combate.
+
+Las 6 Estadisticas
+
+- Resistencia (RES): Aumenta la velocidad de Regeneracion de Vida. [ V1.1.0 ]
+
+- Fuerza (STR): Aumenta el dano cuerpo a cuerpo. Requisito para Skills.
+
+- Vitalidad (VIT): Aumenta la Vida de Maxima. [ V1.1.0 ]
+
+- Inteligencia (INT): Aumenta

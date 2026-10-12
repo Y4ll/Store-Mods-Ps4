@@ -1,0 +1,189 @@
+PROJECT LUNA
+
+Warning: This addon is still in development, but it is already very stable and has minimal bugs. If you find any bugs, please report them to me through the link below.
+
+Project Luna is a Minecraft Bedrock addon focused on expanding the gameplay experience through new mechanics, entities, biomes, weapons, and structures all while keeping the vanilla feel intact. From a soul-based trading system to legendary weapons with unique skills, Luna aims to add depth and replayability to your world. The addon is actively developed and updated regularly, either monthly or weekly depending on the size of the update.
+
+This addon features a soul collection system, passive player skills, custom entities, unique biomes, epic and legendary weapons with attack patterns and skills, craftable armor sets, and procedurally generated structures. More content is continuously being added with each update.
+
+Special thanks to Expler HD for helping create this addon.
+
+Changelog
+
+Luna 1.3.3 bug fix
+
+Bug Fixes
+
+- Fixing all script error bc of mc latest update
+
+- added some sneakpeek to next update
+
+luna 1.3.1 bug fix
+
+Bug Fixes
+
+- Fixed Quick Craft not carrying over enchantments from inventory weapons items deposited via Quick Craft now preserve the original enchantments instead of depositing a blank copy.
+
+- Localized forging success message to English.
+
+- Remove all the old Glacier armor set recipes in crafting table
+
+Luna 1.3 the forgotten ones
+
+Combat Overhaul
+
+- Completely reworked the combat system.
+
+- Rebalanced all custom weapons.
+
+- Damage output is now affected by player stats.
+
+- Epic and above weapons can now parry by crouching.
+
+- Reworked the parry mechanic.
+
+- Failed parries no longer consume weapon durability.
+
+- Rebalanced attack radius for all custom weapons.
+
+- custom weapon now support strength/weaknes, and all enchantment including fire aspect
+
+- Direct cursor damage is now disabled while holding custom weapons
+
+- improving custom weapon info about base damage, cr and cdm
+
+-
+
+New Progression Systems
+
+- Added a brand-new stat system:
+
+- Critical Rate (CR)
+
+- Critical Damage (CDM)
+
+- Attack%
+
+- HP%
+
+- Max Mana
+
+- Mana Regen%
+
+- Mana Regen Speed
+
+-
+
+to unlock skill now has been change to /stat, then unlock passive
+
+-
+
+- Completely reworked the mana system.
+
+- Added the Accessories system.
+
+Forge System
+
+- Added the Forge as a new crafting station.
+
+- Reworked all armor recipes to be crafted at the Forge.
+
+- Forge can now preserve and transfer enchantments, similar to the Smithing Table.
+
+- Sneak + Right Click on the Forge to open the recipe list.
+
+- Added a recipe menu with Quick Craft and Manual Craft options.
+
+- Right Click the Forge with an empty hand to retrieve all inserted items.
+
+- If the Forge entity is missing or gets killed, placing the Forge again will automatically restore its functionality.
+
+-
+
+Weapons & Enchantments
+
+- Added two new Legendary weapons:
+
+-
+
+Kagetsu Luna's first full support weapon.
+
+-
+
+-
+
+-
+
+-
+
+Kosetsu An assassin-style DPS weapon with continuous damage
+
+-
+
+-
+
+- All custom weapons now fully support:
+
+- Vanilla enchantments (Sharpness and similar enchantments)
+
+- Strength and Weakness effects
+
+- Fire Aspect on sweep attacks
+
+- Every Epic+ weapon now includes an in-game description.
+
+New Bosses & Enemies
+
+- Added a new boss: Forgotten Shogun.
+
+- Added two new Undead Ronin variants.
+
+-
+
+-
+
+- Added Sake Cup, a summon item for the Forgotten Shogun
+
+-
+
+World Generation
+
+Added two new structures:
+
+- Ronin Bunker
+
+- Generates almost everywhere except rivers.
+
+- Identified by a well on the surface.
+
+-
+
+- Forgotten Shogun Altar
+
+- Generates around X: -1600 y z: 1600
+
+-
+
+Armor Progression
+
+- Glacier Armor is now crafted at the Forge using:
+
+- 1 Iron Armor Piece
+
+- 1 Glacier Upgrade
+
+- 1 Glacier Shard
+
+- Samurai Armor is now crafted at the Forge using:
+
+- 1 Iron Armor Piece
+
+- 1 Gold Ingot
+
+- 1 Samurai Template
+
+- demonic Armor is now crafted at the Forge using:
+
+- 1 Netherite Armor Piece
+
+- 1 Demonite Ingot

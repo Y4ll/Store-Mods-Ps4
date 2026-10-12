@@ -1,0 +1,21 @@
+Enhance your survival gameplay with sneak-activated vein mining, area digging, and tree felling for pickaxes, shovels, and axes full tool-tier, enchantment, and durability support!
+
+This AddOn respects tool durability, and normal single-block mining still works exactly as before when you're not sneaking.
+
++ You can earn achievements with this AddOn!
+ATTENTION: Achievements have been disabled since the Minecraft 26.50 update. I'm working on a solution.
+
+Sneak while mine one ore and the whole connected vein comes with it!
+
+Sneak while shoveling to clear a 3x3 patch of dirt, sand, gravel, clay and more!
+
+Sneak while chopping to fell an entire tree, trunk and canopy, without touching the tree next to it.
+
+NEW v1.2 - Dynamic Lightning Update!
+
+Terms of use:
+
+You can use all my projects for non-commercial purposes if you credit the original download page.
+(This also includes monetized social media videos / livestreams and small servers up to 20 players)
+
+Any other use, especially commercial, must be discussed with me in advance!

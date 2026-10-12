@@ -1,0 +1,89 @@
+Elemental Swords Addon
+
+Unleash the power of the elements!
+Elemental Swords is a thrilling Minecraft addon that introduces powerful new weapons, dynamic leveling systems, skill trees, and legendary elemental buffs. Master the elements, clash with terrifying titans, and become a god of combat.
+
+Note: The Youtube video below does not showcase the massive new Leveling Systems and Tactical Boss events and mana spells recently added. new video coming soon
+
+Subscribe and help me reach 500 subs all support is appreciated
+
+Survival Friendly & Multiplayer Ready
+
+You May Also Enjoy The Addons Below!!
+[Realm Compatible] RPG Skills & Prestige: Evolved - Minecraft Bedrock Addons - CurseForge
+
+The Elemental Mastery System Added in (v7.3.0)
+
+Gone are the days of just clicking and swinging!
+
+- Dynamic Leveling: Attacking and killing enemies with any Elemental Weapon generates Magic XP! Track your growth and reach Level 100 to achieve Grandmaster status, giving you unique combo multipliers and the ultimate chance to double-cast all your magic spontaneously!
+
+- Tactical Combat Arts (Classless Spells): Spend your Magic XP by typing /scriptevent nas:shop! You can buy permanent Combat Stances like the Savage Leap, Field Medic, Berserker's Rage, and Ground Slam! Use /scriptevent nas:cast to fire these off, no matter what weapon is in your hand!
+
+- Attunement & Ascensions: Continue swinging a single specific blade to build up its unique Attunement Record. Pushing it past 1,000 XP will "Awaken" it, and reaching 3,000 XP "Ascends" the blade to god-tier, unlocking hidden magic parameters and massively expanding your explosive radiuses.
+
+Ancient Relic Socketing
+
+Has your weapon fully Ascended? Open the hub (Crouch + Use with your sword) and access the Relic Forge! Spend pure Magic XP to slot dynamic runic enchantments permanently into your blade.
+
+- Echo Rune: 20% chance for a spell to echo back on enemies twice in rapid succession.
+
+- Plague Rune: Corrupt your enemies in fatal clouds of gas.
+
+- Vampiric Rune: Siphon 15% life continuously per strike.
+
+- And 9 more including Magma, Frostbite, Oceanic, and Static Runes!
+
+Devastating Magic Combos & Perfect Parrying
+
+Elementals flow together. If you trigger an ability, you have 2.0 seconds to hot-swap to another Element and fire it off to cause an unimaginable combination. Example: Fire + Earth yields an expanding "Magma Eruption."
+
+Wait, parries? YES. Crouch exactly right when a mob strikes you, and your sword will clash dynamically. A Perfect Parry will nullify incoming damage entirely, summon an immediate Lightning Bolt directly onto the attacker, grant a small healing burst, and give a surge of Bonus XP!
+
+The Elemental Ability Swords (Base Setup)
+
+These swords provide a default strength buff and grant special abilities when held or used (Shift/Sneak and right-click/interact). Crafting Requirement: Most require 2 Netherite Ingots + 1 Corresponding Ore/Item.
+
+- Lightning Sword (Cyan): Summons a tight cluster of four powerful lightning bolts.
+
+- Purple Sword: Unleashes a 360-degree lightning strike around you.
+
+- Green Sword: Summons a single, precise lightning bolt.
+
+- Red Sword: Calls down an explosive lightning bolt.
+
+- Blue Sword: Summons a bolt of chilling energy.
+
+- Yellow Sword: Calls down a rapid, scattered volley of three smaller strikes.
+
+- Elemental Sword: Unleashes a chaotic storm of five lightning bolts.
+
+- Emerald Sword: Summons a single lightning bolt.
+
+- Copper Sword: Creates a short-range electrical shock.
+
+- Amethyst Sword: Summons a bolt that bursts into harmless purple particles.
+
+Sword Stats & Effects
+
+Note: Please ignore the Attack Damage shown in the older images below. The values listed in the text are the correctly updated mechanics.
+
+Green Sword
+
+- Damage: 18
+
+- Effects: Invisibility, Strength, and more.
+
+Red Sword
+
+- Damage: 20
+
+- Effects: Fire Resistance, Strength, and more.
+
+Yellow Sword
+
+- Damage: 16
+
+- Effects: Slow Falling, Strength.
+
+- Recipe Update: Now uses a Blaze Rod in

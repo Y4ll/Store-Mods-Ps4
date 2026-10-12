@@ -1,0 +1,57 @@
+Introduction
+
+With this script, you can monitor your progress in different categories like the number of blocks broken by every player, the number of blocks placed, and more through a simple and customizable interface.
+
+How to Use
+
+To view the script's interface, you will have to write down the following command:
+
+<mark class="marker-yellow">/scriptevent cmc:ui</mark>
+
+<mark class="marker-yellow"></mark>
+
+Options
+
+- Display Counter allows you to choose a counter to be displayed at the sidebar, and you can also choose the "Shuffle Counters" which will constantly loop through the available counters.
+
+- Reset a Counter allows you to choose a counter to reset its value to 0.
+
+- Reset All Counters allows you to reset all the available counters' values to 0.
+
+- Hide Counter makes you hide the currently visible counter. To show it again, you have to choose it again from the "Display Counter".
+
+Available Counters
+
+Counter MC currently supports the following counters:
+
+- Blocks Broken
+
+- Blocks Placed
+
+- Mobs Killed
+
+- Player Deaths
+
+- Minecraft Day
+
+- Time Passed (in real-time)
+
+- And a special "Shuffle Counters" option!
+
+Customizability
+
+You can access several options that can allow you to customize your experience through "Settings".
+
+- "Colors": Change the color of the counter (names and counter title).
+
+- "Separator": The space between a player's name and the value Ex: when the player Steve breaks 13 blocks and the separator is set to "$", Steve's score will be displayed as "Steve$13".
+
+- "Player Name Letters Count": Change the amount of the letters picked from each player's name to be shown at the sidebar (due to limitations in Minecraft Bedrock/Pocket Edition's scoreboards, it is recommended to keep it low Ex. 5-6 letters)
+
+With the "Shuffle Settings", you will be able to customize your experience with the "Shuffle Counters" option from "Display Counter":
+
+- "Shuffle Cooldown": The number of seconds between every counter shift when having chosen the "Shuffle Counters" option from "Display Counter".
+
+- Turn on the counters you want to be shuffled
+
+- <mark class="marker-yellow">Don't forget to click on "Submit" so that you save the changes you have made!</mark>

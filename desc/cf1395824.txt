@@ -1,0 +1,28 @@
+This pack, named "YouTuber Totems", was originally made by JerryJace for Java Edition as a separate pack for every totem and was ported and complied by me to Bedrock Edition.
+
+Toggle the subpack settings of the pack to change the totem texture, Totem Textures:
+
+- BadBoyHalo
+
+- Dream
+
+- Fyranix
+
+- GeorgeNotFound
+
+- Grian
+
+- Mr Beast
+
+- MumboJumbo
+
+- Paddington
+
+- Sapnap
+
+- Technoblade
+
+For the original Java Version:
+YouTuber Totems | JerryJace's Profile
+
+Owner's Permission:

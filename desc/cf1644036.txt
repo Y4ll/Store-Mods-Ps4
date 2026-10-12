@@ -1,0 +1,65 @@
+Welcome to the world of Dear Family V3!
+
+This custom life-simulation update brings your Minecraft Bedrock roleplays to life with new family dynamics, functional nursery furniture, and detailed character mechanics.
+
+Reminder! This addon is still under maintenance; make sure to be alert for new updates ~ ~~
+
+This addon includes 35 Items in total. Make sure to always have the Dear Phone Item in your inventory as it is essential for your roleplay to run smoothly.
+
+- All entities are under the eggs arrays in minecraft
+
+- All Items are under equipments array
+
+- The rest can be search by names!
+
+Family Life Cycle Life Stages: Experience family life with newborn babies, toddlers, children, teens, spouses, and grandparents!
+
+Growth Timeline: Feed your baby milk to activate their growth system. It takes 2 full in-game days for a baby to grow into a toddler, 2 days to become a child, 2 days to reach teenhood, 4 days to grow into an adult, and 4 days to become a grandparent.
+
+Growth Acceleration: Use growth pill to fasten their growth! Use stunted growth pill to pause their growth (Still under maintenance and is not working yet)
+
+How to Tame Your Family?
+
+- Taming Babies: Tame newborn babies using milk!
+
+- Taming Other Entities: Use the Dear Phone item to bond with toddlers, children, teens, spouses, and grandparents.
+
+-
+
+Dear Phone Functions
+
+- Teleportation: Instantly bring family members to your position.
+
+- Health Check: Monitor the health status of your loved ones.
+
+- Family Menu: Access special settings and interaction menus on demand.
+
+Fashion customization
+
+- 8 Clothing Styles: Dress your family in Casual, Academia, Sports, Pyjama, Costume, No Outfit, Dress, or Suits!
+
+- Baby Wardrobe: Newborn babies feature 3 adorable outfits: Pyjama, Casual, and No Clothing.
+
+- Spouse Customization: While clothes are fully functional for other entities, spouses feature full customization directly through the Dear Phone systemallowing you to change their skin tone, hair color, and outfits seam lessly!
+
+Baby Care System Feeding & Movement:
+
+Feeding milk is essential to initiate growth! Giving a baby their second bottle feed will allow them to crawl around (otherwise, they will start crawling naturally after 1 day).
+
+Hygiene Care:
+
+Babies get dirty very easily! Use Baby Wipes to wipe them clean and keep them happy.Work In Progress Items: Items like pacifiers, strawberry milk, stunted growth pills, and diapers are currently undergoing updates and do not function just yet.
+
+Nursery Furniture Nursery Decor:
+
+Set up your room with functional items like a Wardrobe, Crib, Baby Bathtub, Baby Table, Baby Highchair, Baby Twin Holder, and Baby Stroller! (Most furniture pieces are functional, while minor fixes are actively being worked on)
+
+Socials
+
+Check out my socials for more info about the add-on! ~ ~ ~
+
+YouTube: @b_dear
+
+TikTok: @dearbd
+
+Enjoy building your dream home and creating cozy memories with your cute Minecraft family!

@@ -1,0 +1,27 @@
+Do you want to hide your base from players you don't trust? or just want to keep your valuables safe from players who steals them. This can make sure your base stays hidden.
+
+Ghost Blocks
+
+Camo Doors
+
+This blocks automatically changes texture based on the block near it.
+
+This is what the Ghost Block and Camo Door looks like when they are no compatible blocks near
+
+All planks as blocks to camouflage to.
+
+More Blocks to camouflage to
+
+Recipe to make Ghost Block and Camo Door:
+
+NEW UPDATE
+
+Added Smooth Quartz Block and Sand as a block to camouflage to
+
+----------------------------
+
+Leave suggestions on the comments.
+
+Only modify for personal use.
+
+----------------------------

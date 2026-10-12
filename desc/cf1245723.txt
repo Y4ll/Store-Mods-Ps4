@@ -1,0 +1,61 @@
+Break the mob spawner with a pickaxe enchanted with Silk Touch, and it will drop! Now you can take it with you and place it wherever you want! The mob inside will be preserved!
+
+By default, it only works with a Netherite pickaxe (to make it difficult to obtain), but you can customize it to work with any pickaxe! This addon is highly customizable!
+
+LIST OF FEATURES:
+
+Fully compatible with almost all addons! Without any player.json or anything else!
+
+Supports multiplayer! This addon works great on Realms, BDS, and other servers, and can handle thousands of online players!
+
+Fully customizable! You can enable it only for specific pickaxes (Netherite, Diamond, Iron, etc.), and even specify the drop chance!
+
+Handling all edge cases! Rest assured that no fool or cheater will break this addon!
+
+Translated into many languages! You can even translate it into your own language!
+
+Reliable stuff! Each version is thoroughly tested, and any bugs are eliminated with a 95% probability before publication! However, if you still manage to find a bug, feel free to report it in the comments!
+
+Download BP and RP and put these 2 packs into your Minecraft world!
+
+- Enable these experiments: "Beta APIs"
+
+- Only stable Minecraft versions are supported. (not beta or preview)
+
+HOW TO USE:
+
+Apply this addon to your world, take a Netherite pickaxe enchanted with Silk Touch, and start mining mob spawners!
+
+As you can see, the mob inside is preserved, and you can take it along with the mob inside!
+
+Don't have a netherite pickaxe yet? Let's configure the addon to work with other pickaxes:
+
+ADDON CONFIGURATION:
+
+Just enter this command: /function config_silkspawners
+
+And you will open the settings window for this addon:
+
+Here you can configure:
+
+Enable addon Allows you to quickly enable or disable the addon without reloading the world.
+
+Enable for [...] Allows enabling or disabling the drop of mob spawners for specific pickaxes. If the pickaxe is enabled, when mining with that pickaxe, the spawner will be dropped (if the pickaxe is enchanted with Silk Touch). However, if the pickaxe is disabled, the spawner will never be dropped, regardless of whether it is enchanted with Silk Touch or not.
+
+The chance of dropping a mob spawner... Allows specifying the drop chance in percentage from 1 to 100 for obtaining a mob spawner when mining with any of the enabled pickaxes with Silk Touch. By default, the chance is set to 100 (always drops).
+
+FAQ
+
+Does this addon work on realms? Download the world from your realm, enable the necessary experiments, add this addon to it, and upload it back to the realm. If it still doesn't work, then it's a realm bug
+
+Your addon doesn't work! Please perform all actions listed below:
+
+- Make sure that the type of your Minecraft version is "release" (not beta or preview), and that the version matches the one indicated in the checklist above.
+
+- Make sure that in the settings of your world, you have enabled all the experiments listed in the checklist above. If the world is uploaded to a server, check the server control panel for experiments. If they are not available there, download the world, import it into Minecraft, enable all the necessary experiments, and then upload it back to the server.
+
+- Make sure that in the world settings, only one version of the addon is active in both "behavior packs" and "resource packs," and there are no duplicates or previous versions. If there is at least one duplicate or previous version active at the same time, the addon will not work. The same applies to the world that is uploaded to the server.
+
+Your addon works in a local world but does not work on the server! Make sure that you have followed all the steps in the previous point. If you are using Aternos, try "turning off and on again" the experiment toggles, as there is a known issue where they sometimes do not activate on the first attempt. Also, ensure that your hosting provider supports script execution in addons (Beta APIs)
+
+Download BP and RP and p

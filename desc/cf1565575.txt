@@ -1,0 +1,29 @@
+Clear Sight
+
+See clearly in caves, underground tunnels, and during the darkest nights. All without turning off achievements.
+
+Clear Sight is a lightweight, achievement-friendly resource pack/addon designed to improve visibility in dark environments while preserving Minecraft's vanilla feel. Whether you're exploring massive cave systems, mining for rare resources, surviving your first night, or building in low-light areas, Clear Sight helps you see more of the world around you.
+
+Unlike many visibility-enhancing packs, Clear Sight is built to work seamlessly with Vibrant Visuals, allowing you to enjoy improved visibility while still benefiting from Minecraft's modern visual enhancements.
+
+Features:
+
+Enhanced visibility in caves and dark environments
+
+Compatible with Vibrant Visuals
+
+Preserves the vanilla gameplay experience
+
+Works without turning off achievements
+
+Installation:
+
+- Download the pack.
+
+- Import it into Minecraft Bedrock Edition.
+
+- Open the world where you want to use Clear Sight.
+
+- Enable the pack in the world's Resource Packs settings.
+
+- Join the world and enjoy improved visibility.

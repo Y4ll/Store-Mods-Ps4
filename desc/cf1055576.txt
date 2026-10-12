@@ -1,0 +1,17 @@
+Showcase
+
+This addon adds more immersive physics to your Minecraft world, making items on the ground appear realistic and allowing you to pick them up at will.
+
+How To Use
+
+To pick up an item on the ground, you can either hit the item or hold the right-click.
+
+You can also sneak to pick up nearby items.
+
+Items retain their properties, such as not burning in lava if they are made of netherite or floating in water.
+
+Renamed items on the ground will display their name.
+
+As in vanilla Minecraft (the base game), items take 5 minutes to despawn. This will not happen if the item is named or if it is a Nether Star.
+
+This addon does not disable achievements

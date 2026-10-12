@@ -1,0 +1,49 @@
+Video:
+
+Mommy Long Legs:
+
+Health: 1600
+
+Damage: 38 (Maybe I don't remember)
+
+Speed: Normal
+
+this mommy long legs has new model,new animation, new everything
+
+so in the previous update, mommy long legs was unkillable, but in this update she is killable
+
+Bunzo Bunny:
+
+Health:200
+
+Speed :Normal
+
+Damage : 39
+
+this is the bunzo bunny, i don't what to say about him, i mean he is a bunny with (i don't know whats the name)
+
+Huggy Buddies:
+
+Health: 200 (all the huggy buddies has the same health)
+
+Speed : Normal
+
+Damage : 32
+
+there are different variations of huggy buddies as you can see above, the huggy buddies attack anything except for mommy long legs,kissy missy, bunzo bunny
+
+Kissy Missy:
+
+Health:200
+
+Speed : Normal
+
+kissy missy is friendly, she doesn't attack anything so no need to worry, for now..
+
+New mobs:
+
+The Prototype:
+
+Catnap
+
+Yarnaby:

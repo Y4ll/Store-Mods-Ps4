@@ -1,0 +1,23 @@
+My Totem Doll
+
+This resource pack transforms the regular totem into a 3D Totem Doll, where you can even apply your own custom skin!
+
+This pack is inspired by the original Java Edition version made by LopyTwich. You can check it out here: My Totem Doll (Java)
+
+How to add your own custom skin:
+
+- Download and extract the pack.
+
+- Go to the folder: NeBux/Totem/
+
+- Inside, youll find a file named skin.png.
+
+- Replace this file with your own Minecraft skin.
+
+After that, the Totem Doll will appear with your custom skin in-game!
+
+If you enjoy my packs and want to support my work
+
+Support Me on Ko-fi
+
+Your support means a lot thank you!

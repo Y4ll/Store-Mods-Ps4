@@ -1,0 +1,27 @@
+This is the bedrock version of a texturepack made for a youtuber named Bunji for his 4k subs on youtube.
+
+This 1.21 PvP texturepack features a light blue theme on most crystal PvP related items and gui alongside a lot of quality of life features like invisible explosion particles and a lot of nice animations.
+
+Everything changed
+
+- Short Retextured Swords
+
+- Iron, Diamond and Netherite Armor
+
+- Diamond Set, Blocks and Ores
+
+- Various PvP-Related Items like Ender Pearls, Exp Bottles, Wind Charges, Golden Apples
+
+- Mace, Trident, End Crystals and Anchors
+
+- Enchant Glint and Enchanting Table
+
+- GUI and HUD
+
+- Animated Totem of Undying, Fireworks, Potions and Tipped Arrows
+
+- Invisible Explosion Particles, Block Breaking Particles, Eating Particles and Smaller Totems
+
+- No Explosion Sounds
+
+JAVA VERSION --> https://www.curseforge.com/minecraft/texture-packs/bunji-4k

@@ -1,0 +1,57 @@
+WOC Natural Trees Add-on
+
+![Status](https://img.shields.io/badge/Status-Active Development-green)
+
+A Minecraft Bedrock add-on that reimagines forest generation with "Natural Trees," featuring organic shapes and procedural growth animations.
+
+Disclaimer
+
+Not an Official Port: This add-on is a complete reinterpretation inspired by the Java mod "Dynamic Trees." It is not an official port; it has been built entirely from scratch by the author.
+
+For Developers & Code Diggers
+
+No Decryption Needed: If you are interested in how this works, please put away your decryption tools! You don't need them. The code is provided clean, fully commented, and is Open Source (GPL v3).
+
+You are welcome to learn from it, improve it, or contribute at the repository: GitHub: HormigaDev/woc-natural-trees-addon
+
+Experimental features are required
+
+Features
+
+This add-on replaces the standard vanilla tree generation with new "Natural Trees." These trees offer a more organic look while staying true to the game's mechanics.
+
+- 100% Blocks: Every part of the tree consists of blocks. No entities are used in the construction of the trees themselves.
+
+- Prefabricated Structures: Due to current technical limitations in Bedrock world generation, the trees are currently spawned as structures. If future updates allow for deeper procedural generation, this add-on will be updated.
+
+- Physics: Currently, there are no "falling tree" animations like in the original Java mod due to engine limitations, but minimal animations are planned for the future.
+
+World Generation Status
+
+- Overworld: Most wood variants and biomes are fully replaced.
+
+- Dark Oak Forest: Currently not replaced (Work in Progress).
+
+- Pale Garden: Trees are replaced, but Creakings do not currently spawn in these modified areas (Compatibility fix in progress).
+
+Survival & Crafting
+
+To maintain gameplay balance and player choice, Vanilla Leaves still drop Vanilla Saplings. If you want a Natural Tree, you must craft it explicitly.
+
+Recipe
+
+Surround a Vanilla Sapling with 8 Bone Meal (forming a ring) to create a Natural Sapling.
+
+Growth Mechanics
+
+Once placed, the Natural Tree features a visual procedural growth animation. It requires approximately 12-14 Bone Meal to fully mature.
+
+Gallery
+
+License
+
+This project is licensed under the GPL v3 License - see the LICENSE file for details.
+
+Support
+
+If you find this project helpful and want to support its development, consider making a donation:

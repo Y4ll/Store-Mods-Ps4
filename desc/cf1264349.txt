@@ -1,0 +1,9 @@
+This pack change all paintings and painting item
+
+not required any mods or whatever
+
+Java Versions:
+
+Modrinth: https://modrinth.com/resourcepack/benimtablolar
+
+Curseforge: https://legacy.curseforge.com/minecraft/texture-packs/benim-tablolar

@@ -1,0 +1,29 @@
+This addon adds an entity named Siren head into minecraft. It can be found in any taiga biome at night, making its presence know with Siren sounds.
+
+This addon was made by Ramses, Sinnies, and A15_Producions!
+
+(Model & spawn egg texture by Ramses, textures and animations by Sinnies, code by A15_Productions)
+
+https://youtube.com/@ramsesrobles6676?si=HHsZQeSDRF-DugBK
+
+This is my YouTube channel, this is here because there is someone on youtube trying to say that this addon is theirs, when its not true. So hopefully this will resolve this issue
+
+This addon is based on Siren Head, a creature created by [Trevor Henderson].
+
+Siren head's description:
+
+Health = 7800
+
+Does 35 damage with its stomp attack
+
+It can Break wood & leaves
+
+It can also start to roar, causing every mob within its vicinity to be effected with the wither effect for 5 seconds.
+
+When it dies, it will become its second stage where its enraged.
+
+It will only have 200 health, but it is more of a challenge as it crawls towards its prey with faster speed.
+
+There are a few ways of countering Siren heads attacks, but saying that would be to easy :)
+
+We hope yall have fun with this addon!

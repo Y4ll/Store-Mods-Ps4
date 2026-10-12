@@ -1,0 +1,71 @@
+Jerry's Colonies Supplement Pack - Empire Expansion
+
+Take your game to the next level with this official Jerry Colony expansion! Turn your humble colonies into a thriving, heavily organized civilization with advanced military hierarchies, complex economic mechanics, and deep administrative control.
+
+REQUIRED BASE MOD: This is an extension pack and does not work on its own. You must first install the Jerry's Colonies base add-on. Join our Discord Server for support, community chat, and exclusive update teasers!
+
+Global Features & Translations
+
+Empire Expansion is now fully accessible to players worldwide! The addon includes native, full multi-language support for 10 languages:
+
+- English (en_US) | Francais (fr_FR) | Espanol (es_ES) | Portugues (pt_BR) | Deutsch (de_DE)
+
+- (zh_CN) | (ar_SA) | (ru_RU) | (ja_JP) | (ko_KR)
+
+Tables Obtention & In-Game Wiki
+
+The core evolution of your empire revolves around three major workstations: the Army Table, the Infirmary Table, and the Dashboard Table.
+
+How to get them: Craft a CraftStation block using iron and logs, then link a citizen to it. Bring the required resources and currency to your Craftsman NPC, and he will build your specialized tables!
+
+NEW: In-Game Wiki Book: Lost in the mechanics? We have added a dedicated Wiki Book item directly in-game to guide you through every feature on the fly!
+
+Centralized Economy & Resource Crates
+
+Managing your civilization requires strict logistics. Resources are automatically tracked and stored into four main strategic categories:
+
+- Minerals: Used for industrial growth, heavy weapons, and military equipment.
+
+- Organic: Essential for feeding your citizens, funding healthcare, and medical treatments.
+
+- Construction: Required to build infrastructure, fortify walls, and expand towns.
+
+- Technological: Needed for upgrading advanced tables and training elite Knight classes.
+
+Resource Crates: Specialized storage blocks that link directly to your colony treasury. Each crate holds up to 1,000 points of its specific resource type.
+
+Banking & Coin Exchanges: Your colony runs on actual currency (Copper, Iron, and Gold coins). Trade your emeralds with the Banker NPC at the Bank to fund your Treasury.
+
+New Economic Features:
+
+- Convert All Button: A brand new button allows you to instantly convert your massive pile of resources into treasury coins.
+
+- Diamond Conversion: You can now exchange high-value Diamonds directly into colony coins through the Banker!
+
+- Banker Range Fix: Increased the Banker's detection radius so the withdrawal buttons always display correctly for colony leaders.
+
+Advanced Military Logic & Regiments
+
+Defend your borders and showcase your supremacy with a heavily reworked tactical combat system!
+
+Military Classes & Ranks:
+
+- Soldier: Cheap, basic baseline unit. Weak without custom gear but perfect for early defense.
+
+- Archer & Arbalestier: Ranged defenses. Handing a bow or crossbow to a standard soldier upgrades them for free. (Ranged AI has been buffed to target and shoot enemies from a much longer distance!)
+
+- Assassin: Extremely fast and deals lethal damage, but highly vulnerable with only 15 HP. Use tactically!
+
+- Knight: Well-balanced elite units that earn combat XP. Level them up by interacting with them using Paper to permanently boost their stats.
+
+- Tank: Massive health pools, slow movement, built to hold choke points and absorb damage.
+
+- Royal Guard: Elite multi-role protectors with incredibly high stats, trained via the Barracks Trainer NPC.
+
+- General: The supreme commander. Only ONE General is allowed per colony. He provides passive Strength and Resistance buffs to all surrounding troops. Protect him at all costs!
+
+New Army Mechanics & Balancing:
+
+- Aggressive Combat AI: Soldiers and Knights are now highly proactive! They will take the immediate initiative to target and attack enemy mobs entering the territory without waiting around.
+
+- Patrol & Hold Guard: Knights will automatically engage hostile mobs while on a designa

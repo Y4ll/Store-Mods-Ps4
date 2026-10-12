@@ -1,0 +1,63 @@
+The Weapon Combiner addon revolutionizes Minecraft gameplay by introducing a system that allows players to merge standard weapons with various materials, resulting in enhanced weaponry with unique abilities. Central to this system is the Materia Conflux, a custom crafting block where these combinations are forged.
+
+Players can infuse their weapons with materials like TNT, Redstone, Amethyst, and more, each imparting distinct abilities. For instance:
+
+FEATURES:
+
+- Custom Crafting Block - The Materia Conflux serves as the core for combining weapons with special materials.
+
+- Weapon Infusion System - Combine weapons with materials to unlock special abilities.
+
+- Upgrade Mechanic - Enhance existing special weapons to add new effects.
+
+- Randomized Abilities - Each crafted weapon gains unique abilities from a predefined set.
+
+- Dynamic Gameplay - Custom weapons provide buffs, special attacks, and unique interactions.
+
+How It Works
+
+- Players use the Materia Conflux block to fuse specific materials with weapons.
+
+- Upon fusing, weapons gain unique properties, including passive, active, and on-hit abilities.
+
+- Players can further enhance weapons by adding additional abilities, up to a maximum of six per weapon.
+
+- If a player removes their weapon from the crafting block, the original material is returned.
+
+Combinable Item:
+
+Amethyst Weapons Grants Regeneration on right-click. Duration scales with the base weapon.
+
+Beacon Weapons Provides passive effects: Jump Boost, Speed, Resistance, and Strength.
+
+Camouflage Weapons Enables Invisibility on right-click, with a cooldown.
+
+Crying Weapons Hitting mobs collects tears, granting temporary buffs.
+
+Deepdark Weapons Passively grants Speed and Resistance.
+
+Dragon Egg Weapons Enables flight on right-click.
+
+Ender Pearl Weapons Shoots Ender Pearls on right-click, with a cooldown.
+
+Froglight Weapons Passively provides Jump Boost and Speed.
+
+God Apple Weapons Grants passive effects: Absorption, Regeneration, Resistance, and Fire Resistance.
+
+Magma Weapons Inflicts damage over time when hitting enemies. Intensity scales with the base weapon.
+
+Redstone Weapons Passively increases Speed, based on the base weapon.
+
+Sea Weapons Passively grants **Conduit Power
+
+Spore Weapons Increases damage while poisoned and spreads poison through hits and damage taken.
+
+Clock Weapons Slows enemies over time, can freeze them briefly, and rewinds some taken damage.
+
+Soul Weapons Absorbs souls from enemies to heal and steal health, with souls dropping on hurt or kill.
+
+[Click Me] To Join Our Community Discord
+
+<figure class="image align-center"></figure>
+
+[Click Me] To Join Our Community Discord

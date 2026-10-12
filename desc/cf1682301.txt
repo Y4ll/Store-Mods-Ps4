@@ -1,0 +1,23 @@
+Something's Off is a Bedrock psychological horror addon that progresses the more the player stays awake during the night.
+
+Nothing seems normal anymore, you just have to accept it. This addon adds a player-like entity with multiple forms to slowly make you go insane. Unlike others, this addon gets more intense the more you stay awake.
+
+The addon is intended to be used as a side or background addon because the entity never gets aggressive, it will always be an anomaly in your world and something you won't be able to get rid of. This makes a great opportunity to combine it with addons that punish the player for sleeping.
+
+This addon does not require experiments.
+
+SPOILERS AHEAD - The information ahead explains the addon in detail, so if you want the full experience, DO NOT CONTINUE
+
+There is one entity added into the game by this addon, the UNKNOWN:
+
+The UNKNOWN has 3 variants:
+
+The first one can stalk you from a distance, and gets closer the more you stay awake. If you get too close... then you will wake up at your bed, as if it was a nightmare.
+
+The second one can appear behind you and ensures it will make itself noticed. There aren't too many people who have reported why though...
+
+The third one can create aggressive footsteps behind the player. This may seem harmless, but it can be a fright if you find yourself in a quiet cave.
+
+The UNKNOWN can spawn at both day and more commonly nighttime as well as caves. It features a few custom cave noises that play to signify its presence...
+
+This addon was minimally tested and there may be bugs. I made it in just a few days as a break from more complicated addons. Any bugs can be reported here on my discord server, and you can message me (.bredman_) for permission to put this addon in an addonpack.

@@ -1,0 +1,113 @@
+Morphing Bracelet
+
+The Morphing Bracelet gives players the ability to morph into different mobs. Simply kill a mob while keeping a bracelet in your inventory to collect its soul and morph into it. To craft this item, you need four Soul Soil blocks and one Soul Glass block.
+
+Morphing Bracelets have durability, and every time you morph into a mob, it consumes some of the bracelet's durability. To repair it, hold your bracelet and stand on Soul Sand or Soul Soil to harness their energy.
+
+Soul Glass
+
+Soul Glass is an "active" variant of Soul Sand, obtainable by smelting Soul Sand in a furnace. It produces a very faint glow in the dark and can be used as a decorative block in builds. It is one of the key ingredients for the Morphing Bracelet and serves as the main energy source for morphing.
+
+Soul in a Bottle
+
+An item that can contain a mob's soul, allowing you to morph into it. You can store a collected soul in an empty bottle (Soul Glass Bottle), allowing players to trade mobs with each other.
+
+To use this item, morph into the desired mob and use the bottle to store the soul of the mob you are currently morphed into. The mob type stored in the bottle is indicated in the item's tooltip.
+
+Mobs Information
+
+Allay
+Visually glows in the dark and has the ability to fly in survival mode.
+
+Armadillo
+Rolls up when sneaking and scares away any spiders and cave spiders.
+
+Axolotl
+Comes in five different types. Can breathe underwater but slowly suffocates out of water.
+
+Bat
+Can see in the dark and has the ability to fly in survival mode.
+
+Bee
+Has the ability to fly in survival mode. Can sting and poison other mobs.
+
+Blaze
+Shoots fireballs and takes damage upon contact with water. Can also fly in survival mode.
+
+Bogged
+Has a bow that shoots poisonous arrows. Can be sheared to drop mushrooms.
+
+Breeze
+Shoots infinite wind charges and has the ability to perform long jumps.
+
+Camel
+Moves slower and is tall. Can be ridden by up to two players.
+
+Cat
+Takes no fall damage and scares away any creepers and phantoms. Comes in eleven different breeds.
+
+Cave Spider
+Can climb walls and poisons other mobs.
+
+Chicken
+Falls slowly and takes no fall damage.
+
+Cod
+Can breathe underwater and suffocates on land.
+
+Cow
+Can be milked by other players.
+
+Creaking
+Can be frozen by other players when looked at (survival mode only). Interact with an inactive Creaking Heart block to gain invulnerability.
+
+Creeper
+Ignites when sneaking. Transforms into a charged creeper when struck by lightning.
+
+Dolphin
+Swims faster underwater. Unlike other aquatic mobs, they can't survive without getting air every once in a while.
+
+Donkey
+Runs faster and has the ability to jump over fences. Can be ridden by players.
+
+Drowned
+Can breathe underwater and burns in daylight.
+
+Elder Guardian
+Can curse nearby players with mining fatigue. Inflicts damage similarly to the Thorns enchantment when its spikes are out.
+
+Ender Dragon
+A boss mob that can fly and shoot dragon fireballs. Can destroy blocks in its path and damage mobs in contact.
+
+Enderman
+Takes damage upon contact with water and has the ability to teleport.
+
+Endermite
+Endermen attack you without provocation. Doesn't take damage upon contact with water, unlike endermen.
+
+Evoker
+Spell-casting illager that can summon fangs. Currently lacks the ability to summon vexes yet.
+
+Fox
+Immune to sweet berry bushes. Can pounce by holding the sneak button.
+
+Frog
+Can jump higher by sneaking and has a reduced fall damage. Comes in three biome-dependent types.
+
+Ghast
+Has the ability to fly and shoot fireballs. And is resistant to fire damage.
+
+Glow Squid
+Breathes underwater and suffocates on land. Glows visually in the dark.
+
+Goat
+Has a reduced fall damage. Can jump higher by holding the sneak button.
+
+Guardian
+Inflicts damage similarly to the Thorns enchantment when its spikes are out. Breathes both water and air.
+
+Hoglin
+Has a knockback resistance of 50% and transforms into a zoglin outside the Nether.
+
+Horse
+Can run very fast and can jump high. Comes in s

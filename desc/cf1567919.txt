@@ -1,0 +1,29 @@
+Project Description:
+
+The Actual Vein Miner Add-On significantly speeds up your survival gameplay by allowing you to mine an entire ore vein by breaking just a single block. Instead of tedious block-by-block harvesting, breaking any connected ore triggers a chain reaction that instabreaks the entire cluster. It reduces early-game grind, saves tool durability management time, and seamlessly integrates into vanilla mechanics.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Real-time multiple block breaking.
+
+- Sneak toggle on & off system.
+
+- Vein guide for multiple settings.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Sneak while holding a pickaxe to activate the vein miner ability and sneak again to turn it off before you start mining standard stone.
+
+Once the Vein Miner is active, you will be able to mine any matching ores within range all at once, triggering a recursive chain reaction that instantly shatters the entire connected vein.
+
+Craft a comprehensive Vein Miner Settings book to effortlessly navigate and customize your ore-harvesting options.
+
+Using the Vein Miner Settings book, you can easily toggle XP drops and Mixed Veins on and off to customize how you want to play the add-on.

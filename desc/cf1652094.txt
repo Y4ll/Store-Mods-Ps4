@@ -1,0 +1,11 @@
+Keep XP On Death
+
+Keep XP on Death is a simple Minecraft Bedrock add-on that prevents players from losing their hard-earned experience when they die. Your XP level and progress are preserved after respawning, allowing you to continue playing without having to regain the XP lost from death.
+
+The add-on also includes a small XP bonus after respawning, giving players a little extra experience after death.
+
+The add-on is designed to keep the original Minecraft gameplay intact while making XP loss from death less frustrating. No custom items or complicated systems are required.
+
+Min Ver: 1.21+
+
+Created by: MrDavid13

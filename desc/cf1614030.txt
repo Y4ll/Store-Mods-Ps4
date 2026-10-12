@@ -1,0 +1,184 @@
+Infinity Craft
+
+Collect the six Infinity Stones, forge the Infinity Gauntlet, defeat powerful bosses, travel to distant worlds and gain control over the universe.
+
+Infinity Craft transforms an ordinary Minecraft Bedrock survival world into a massive adventure inspired by the Infinity Stones.
+
+Each Stone has its own unique progression path. You may need to investigate abandoned laboratories, survive ancient rituals, battle dangerous guardians, explore alien worlds or make the ultimate sacrifice.
+
+Once collected, the Stones can be inserted into the Infinity Gauntlet, unlocking powerful abilities that allow you to control space, manipulate time, alter reality, dominate minds, command souls and unleash destructive cosmic energy.
+
+By default, each Infinity Stone has only one natural source per world. This makes every Stone incredibly valuable, especially in multiplayer worlds where players may choose to cooperate, trade, steal or fight to complete the Gauntlet.
+
+Feel Free to Combine this with my other addons such as compound v and Rise Of Viltrum, just be sure you always have compound v above all other addons to work, and you have beta apis on.
+
+Expect Some Lag At World Creation for like a min
+
+Main Features
+
+Infinity Craft includes:
+
+-
+
+All six Infinity Stones
+
+-
+
+A fully functional Infinity Gauntlet
+
+-
+
+24 unique Stone powers and combination abilities
+
+-
+
+A custom Infinity Gauntlet HUD
+
+-
+
+Multiple custom structures and worlds
+
+-
+
+boss fights
+
+-
+
+Custom rituals and world even
+
+-
+
+The Morag Vault and its five-wave trial
+
+-
+
+A complete Vormir world
+
+-
+
+The Soul Stone sacrifice
+
+-
+
+Optional configuration and Stone-source reset tools
+
+Getting Started
+
+For the best experience:
+
+-
+
+Enable both the Infinity Craft Behavior Pack and Infinity Craft Resource Pack.
+
+-
+
+Use Minecraft Bedrock 1.26.30 or newer.
+
+-
+
+Explore newly generated terrain.
+
+Forging the Infinity Gauntlet
+
+Before collecting the Stones, you must forge the Infinity Gauntlet.
+
+1. Find the Smithing Template
+
+Infinity Gauntlet Smithing Templates have a 1% chance of appearing inside an weaponsmith chest, desert temple, jungle temple and mineshaft.
+
+2. Mine Dwarven Steel Ore
+
+Dwarven Steel Ore generates:
+
+-
+
+In newly generated Overworld chunks
+
+-
+
+Inside deepslate
+
+-
+
+Between Y -58 and Y -16
+
+-
+
+In small and uncommon deposits
+
+The ore can only be collected using a:
+
+-
+
+Diamond Pickaxe
+
+-
+
+Netherite Pickaxe
+
+Iron and weaker tools will destroy the ore without dropping it.
+
+Fortune does not increase the amount dropped because the ore drops as a complete ore block.
+
+3. Smelt Dwarven Steel
+
+Place Dwarven Steel Ore inside a Furnace or Blast Furnace.
+
+Dwarven Steel Ore Dwarven Steel
+
+4. Craft Dwarven Gold
+
+Surround one Dwarven Steel with eight Gold Ingots at a Crafting Table.
+
+This creates one Dwarven Gold Ingot.
+
+5. Craft the Infinity Gauntlet
+
+Combine the following items at a normal Crafting Table:
+
+-
+
+1 Infinity Gauntlet Smithing Template
+
+-
+
+1 Dwarven Gold Ingot
+
+This is a shapeless recipe, meaning the ingredients can be placed anywhere in the crafting grid.
+
+The empty Gauntlet deals 10 attack damage. Every inserted Infinity Stone adds another two damage, allowing a completed Gauntlet to deal 22 attack damage.
+
+Obtaining the Infinity Stones
+
+Every Stone has a different challenge and cannot simply be crafted.
+
+Space Stone
+
+Colour: Blue
+Source: Fallen Space Meteor
+
+The Space Meteor can begin appearing from world day 50.
+
+After day 50, every new in-game day has a 10% chance to trigger the event while at least one player is in the Overworld.
+
+When the event begins:
+
+-
+
+A meteor crashes near an Overworld player
+
+-
+
+Explosions, thunder, particles and camera shake announce the impact
+
+-
+
+The meteors coordinates are shown to every player
+
+-
+
+The Space Stone appears on the meteors surface
+
+Travel to the announced location and interact with the Stone to collect it.
+
+The Space Stone is especially important because its Space Rift ability provides the normal survival route to both Vormir and Mo

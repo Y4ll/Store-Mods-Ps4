@@ -1,0 +1,79 @@
+Build the defence line
+
+LBR Defence: Missile Launcher & Turrets adds a complete, craftable defence system to Minecraft Bedrock.
+
+Deploy a missile launcher, load its bay, lock target coordinates through the fire-control console, and launch either a ballistic missile or a multi-warhead strike. Protect your base with an automated machine-gun turret, ammo boxes, and interceptor rockets.
+
+Features
+
+Craftable missile launcher with an interactive fire-control console
+
+Ballistic missile for a single long-range strike
+
+Multi-warhead missile with nine dispersed warheads
+
+Coordinate targeting and launch countdown
+
+Automated MG turret for hostile targets
+
+Ammo box system with 500 rounds per box
+
+Two interceptor-rocket tubes for anti-missile defence
+
+Crafting recipes for every core item
+
+Wrench retrieval system for deployed equipment
+
+Compatible with the Trooper 4x4 and RXII Spacecraft modules
+
+Full in-game localization: English, French, and Spanish
+
+How to use
+
+-
+
+Craft a Missile Launcher at a crafting table.
+
+-
+
+Deploy it on clear ground.
+
+-
+
+Interact with the launcher to open the fire-control console.
+
+-
+
+Load a ballistic or multi-warhead missile.
+
+-
+
+Set the target X and Z coordinates.
+
+-
+
+Sneak and interact with the launcher to begin the launch sequence.
+
+To arm the Machine Gun Turret, interact with it while holding an Ammo Box. Load interceptor rockets one at a time into its rocket tubes.
+
+Requirements
+
+Minecraft Bedrock Edition 1.26.0 or newer
+
+No external dependency required
+
+Import the .mcaddon file, then enable the included packs in your world
+
+Languages
+
+English, French, and Spanish are supported for item names, interactions, menus, HUD messages, and chat feedback.
+
+Version 1.1.0
+
+First public release
+
+Crafting recipes added for all armament systems
+
+Localized EN/FR/ES menus, HUD, chat, and interactions
+
+Missile launcher, turret, ammunition, rockets, and logistics systems included

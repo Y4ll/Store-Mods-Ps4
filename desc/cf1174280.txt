@@ -1,0 +1,67 @@
+This is an Add-On, not a Texture Pack!
+
+- IMPORTANT NOTE
+
+There are two different version of this Add-On (YOU ONLY HAVE TO INSTALL ONCE FOR BOTH):
+
+- The [Compatibility Version] allows you to use the Add-On with every other pack you want (Action&Stuff for example), but it does not have the mob/entities xray upgrade
+
+- The [Standalone Version] has the mob xray, but its not compatible with certain other Add-Ons
+
+- NEW VERSION 1.2.0 (24/08/2025)
+
+Added a Configuration Panel to freely set the block radius
+
+Optimized code to be less laggy on low end devices
+
+Added Vibrant Visuals Compatibility
+
+Unified downloads into one singular .mcaddon file
+
+Modified UIs to use DDUI (Ore UI)
+
+Added more settings regarding the Goggles
+
+Added a craftable Guide book that is also given on spawn
+
+- VERSION 1.1.0 (8/01/2025)
+
+Crafting the XRay Goggles will allow you to wear them, but absolutely nothing will happen at first, because you will also have to craft the various upgrades.
+
+You have to craft them with glow ink sac because the in-game effect on the blocks and entities is similar to vanilla, i.e. it gives them an outline and lights them up.
+
+- Craftings:
+
+Goggles
+
+Coal Upgrade
+
+Copper Upgrade
+
+Iron Upgrade
+
+Gold Upgrade
+
+Redstone Upgrade
+
+Lapis Upgrade
+
+Diamond Upgrade
+
+Emerald Upgrade
+
+Netherite Upgrade
+
+Quartz Upgrade
+
+Chest Upgrade
+
+Spawner Upgrade
+
+Mob Upgrade - ONLY AVAILABLE IN THE STANDALONE VERSION
+
+Player Upgrade - ONLY AVAILABLE IN THE STANDALONE VERSION
+
+Shulker Upgrade
+
+If you want to leave feedback, feel free to use the comment space below or the dedicated channel in the WanMine Discord server.

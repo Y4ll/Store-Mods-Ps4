@@ -1,0 +1,93 @@
+Soul Weaver
+
+This is a basic add-on that introduces a brand-new creature to your Minecraft world: a small, curious mushroom-like creature thats shy, adorable, and loyal.
+
+Though timid at first, it will become your faithful companion if you offer it a golden apple or golden carrot. Once tamed, it will follow and assist you in battles.
+
+Features:
+
+-
+
+The creature attacks by launching poisonous projectiles that explode on impact, creating toxic clouds.
+Be careful not to get caught in them yourself!
+
+-
+
+Comes with 3 unique animations, giving it even more charm and personality.
+
+Version 0.0.2 Whats New
+
+Development is ongoing, and this update lays the groundwork for lots of upcoming features.
+
+Additions:
+
+-
+
+New naturally generating blocks:
+
+-
+
+Ethereal Husk: found in the Soul Valley, drops Soul Echo.
+
+-
+
+Enderite: found throughout the End biome.
+
+These blocks currently have no use but will be important in future updates.
+
+Balancing:
+
+-
+
+Toxin Bomb explosion radius reduced from 5 to 3 blocks to avoid damaging the player.
+
+Future Plans
+
+More creatures, blocks, and mechanics are already planned. This add-on is just getting started!
+
+BR: Tecelao de Almas
+
+Este e um suplemento basico que adiciona uma nova criatura ao seu mundo no Minecraft: uma pequena criatura-cogumelo curiosa, medrosa, mas extremamente fofa e leal.
+
+Ela pode se tornar sua companheira fiel caso seja presenteada com uma maca dourada ou cenoura dourada. Com isso, ela passara a te seguir e ajudar nos combates.
+
+Habilidades:
+
+-
+
+A criatura lanca projeteis venenosos que explodem ao atingir o alvo, deixando nuvens toxicas espalhadas pelo ambiente.
+Tome cuidado para nao ser envenenado ao se aproximar dessas nuvens.
+
+-
+
+Conta com 3 animacoes unicas, trazendo mais vida e personalidade para essa criaturinha encantadora.
+
+Versao 0.0.2 Novidades
+
+Atualizacoes ja comecaram a ser implementadas, preparando o terreno para muito mais conteudo no futuro.
+
+Adicoes:
+
+-
+
+Novos blocos gerados naturalmente:
+
+-
+
+Carcaca Eterea: encontrada no Vale das Almas, dropa o item Eco da Alma.
+
+-
+
+Enderite: encontrada no bioma do End.
+
+Esses blocos ainda nao tem funcao, mas serao importantes em futuras atualizacoes.
+
+Balanceamento:
+
+-
+
+Bomba de Toxina teve seu raio de explosao reduzido de 5 para 3 blocos, diminuindo o risco de atingir o jogador acidentalmente.
+
+Planejamento Futuro
+
+Varias funcionalidades, criaturas e mecanicas ja estao planejadas para as proximas atualizacoes. Este addon esta apenas comecando!

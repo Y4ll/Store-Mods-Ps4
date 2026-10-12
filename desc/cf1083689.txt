@@ -1,0 +1,146 @@
+The Supreme Anti-Cheat Solution for Minecraft Bedrock
+
+Introduction
+
+We offered a totally free anticheat services for realm and bds server.
+
+What we're special is we don't rely on player.json and compatible with different addon.
+
+We have slash command and UI design, aim to provide a lite, easy-to-use anticheat.
+
+You can do /commandlist to gain anticheat's command list.
+
+Multi-languges Support
+
+We support different language to let anticheat display!
+
+- English (default)
+
+- Traditional Chinese
+
+- Simplified Chinese
+
+- French
+
+- Japanese
+
+- Italian
+
+- Spanish
+
+- Korean
+
+- Portuguese
+
+- Russkiy yazyk
+
+- Vietnamese
+
+You can use /language to adjust the language.
+
+Admin GUI
+
+Don't know how to use slash command? We have Admin GUI that fully support multi-languges.
+
+Anti Xray (Experimental)
+
+We also developed a working anti-xray system (configurable). Without any resource pack or other custom block JSON.
+Do /antixrayenable to enable anti xray feature.
+
+Detection
+
+Tired of useless detection which cannot patch most of the cheater? Matrix anticheat is your best choice.
+
+You can do /detection <detection> true to enable the detection you want.
+
+We can detect following type of cheat:
+
+- AutoClicker
+
+- Fly, Glide, Spider...
+
+- EntityFly, EntitySpeed
+
+- ElytraFly
+
+- Speed, Jetpack, Bhop...
+
+- Killaura, Ghosthand, Criticals
+
+- Scaffold
+
+- ZipLine
+
+- Chestaura
+
+- Chest Stealer
+
+- Fucker (Breaker)
+
+- Extinguisher (Auto-break-fire)
+
+- AutoTool
+
+- Surround
+
+- Shulker box nesting
+
+- Aim Assist
+
+- Fast Throw
+
+- Auto Sprint (InvalidSprint)
+
+- Xp Hack
+
+No anticheat is perfect, if you found any bypass you can report in our discord support server!
+
+We strongly suggest you to use serverAuthWithRewind instead of serverAuth in bds server to prevent 100% of movement cheaters.
+
+Other extra features
+
+Although we aim to provide a lite anticheat, we also provide some extra useful features to help you run your server.
+
+You can enable those feature by slash command and change the related setting by /setnumber, /setstring and /setboolean commands.
+
+- Chat Rank
+
+- AntiSpam
+
+- Dimension Lock (You can choose both, end or nether)
+
+- Ore Alert
+
+- World border (With particle effect!)
+
+- Auto Mute (Anti ARAS bot)
+
+- Custom item banning
+
+- Lock down
+
+Some extra functional command
+
+- Invsee command which can view directly.
+
+- Ban, mute command.
+
+- Watch command (Not discoverable by player even esp, nametag cheater).
+
+- Freecam command (Observe player and move the camera freely without being discovered).
+
+- Inventory copying
+
+- Enderchest wipe
+
+Discord Support
+
+We provide a free support to our free anticheat. Join our discord server to get fast notification once updated or get help for the anticheat!
+
+Our official website: https://jasonlaubb.github.io/Matrix-AntiCheat/
+
+You can download extension in our discord!
+
+With new slash command: /vanish and /tempkick
+
+Click the screaming peach to join the support server ->

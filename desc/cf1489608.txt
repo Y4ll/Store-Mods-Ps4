@@ -1,0 +1,81 @@
+Hello! The addon is just a modification of the original Guard Villagers mod for Java, adapting it to work in Bedrock!
+
+Yes, there is an original page to consult, but Bedrock has some limitations that can affect this addon, so the description should be read to see the real experience with this addon.
+
+Did you ever felt alone, without allies? Don't worry, the villagers now have guards to join your cause!
+
+LET'S BEGIN!
+
+Guards are villagers with weapons and armor that are trained to fight any threat to their village, mostly being monsters and illagers.
+
+(They have free arms, a bandana, a light leather armor and sometimes a quiver.)
+
+guards mostly appear with axes, swords, and crossbows as their main weapons.
+
+And even shields and armor!
+
+They spawn in squads depending on the size of the village (a small village= 3 or 4 guards) and also spawn randomly in villages (but once an squad spawns, there won't spawn another), they are the village's main combat force, so when the irongolem dies, there still is a surviving chance.
+
+Guards can also pickup better equipment leaved on the ground
+
+Example: better weapons, shields and better armor
+
+Juggernaut
+
+Juggernauts are like the heavy version of an normal melee guard, they are mostly found with tridents or diamond swords, also they have a bigger chance to spawn with iron armor
+
+"But how do recruit more guards?"
+
+Well, don't be sad.
+
+Recruiting villagers is simple.
+
+To recruit a melee guard, interact on a weaponsmith using an iron sword.
+
+To recruit a ranged guard, interact on a flecher using an crossbow
+
+To recruit a juggernaut, give to an melee guard a trident or an diamond sword.
+
+MOBS ADDED:
+
+Melee Guard
+
+Ranged guard
+
+Juggernaut
+
+Medic
+
+Wait a minute... did I just talk about the medic...?
+
+The medic!
+
+A Medic is a villager with alchemist/cleric characteristics. They throw regeneration potions on allies, such as guards, villagers, players, and golems.
+
+To recruit a medic, give to a cleric a redstone block
+
+Can i hire guards?
+
+Yes, you can tame/hire guards by using emeralds.
+
+Also, i recommend you to not hit guards, they are very emotional after being enlisted in the village's army.
+
+THINGS THAT MAYBE WILL BE ADDED/UPDATED:
+
+custom equipment of other addons
+
+translations for 10+ languages
+
+guard overhaul 3.0!
+
+Fun fact! guards are good fighters, so if you ever want to pvp, hit a guard, and now you are an enemy to him! (I wouldn't recommend you to hit a guard when he's next to other guards).
+
+FaQ:
+
+"Is it compatible with other addons?" No, guards will not use other addon's equipment, texture (only their items) or features.
+
+"Is it achievement friendly?" Not for a while.
+
+"Can you do guards that make formations?" No, it is very hard.
+
+"Add a guard that summon herobrine and then kills it using it's full netherite set that shoot lasers?" No.

@@ -1,0 +1,95 @@
+Sweep 'N Slash is an add-on that introduces parts of the combat aspects from Java Edition's 1.9 Combat Update into Bedrock Edition.
+
+Starting from v3.0.0, Beta API is no longer required for stable releases.
+
+Gametest version is for compatibility with add-ons that use Gametest API (such as Understudy and Sandbox), which is NOT compatible with Aternos.
+
+Please download stable release if you do not know what this means.
+
+This add-on is available exclusively on GitHub, CurseForge, MCPEDL and PlanetMinecraft.
+
+Main features
+
+Sweep Attacks for Swords, No Shield Knockbacks
+
+Sweep 'N Slash adds sweep attacks for swords and disables shield knockback.
+
+Java Edition Damage Calculation
+
+Sweep 'N Slash converts damage calculation into the one Java Edition uses.
+
+The GIF below demonstrates the player dealing 36.5 damage to a husk, which is the maximum non-mace damage possible to undeads or arthropods. (Netherite axe, Strength II, Critical hit, Smite V)
+
+Nearly Accurate Knockbacks
+
+Sweep 'N Slash uses custom knockback mechanics to bring knockbacks from Java Edition into Bedrock as close as possible.
+(Please note that Bedrock Edition's knockback mechanics in general are different than the one in Java Edition.)
+
+Saturation Healing
+
+Sweep 'N Slash introduces accurate saturation healing mechanics into Bedrock.
+(Note: This feature forces Natural Regeneration gamerule off. You have to enable it back when you disable this feature. Also, it is not recommended to use this feature if you have other saturation healing addons enabled.)
+
+Attack Indicator Styles
+
+Sweep 'N Slash allows you to pick the indicator styles. There are Crosshair, Hotbar, Geyser styles. (Available in config menu)
+
+Customizable Sweep Attack Colors
+
+You can customize sweep particle colors, and it even shows for other players! (Available in config menu)
+
+Additional Features
+
+- Serverside configurations: Mid-game add-on toggle, Debug Mode ('sweepnslash.config' tag)
+
+- Axe vs. Shield option toggle, saturation healing toggle for players with operator permission
+
+- Attack Animations (Can be toggled in resource pack settings)
+
+- Java Essentials' Team mechanics compatibility ('ae_je:team:' is the prefix of team tags)
+
+- Projectiles inheriting shooter's velocity
+
+- Global configuration menu for server operators ('/sns:globalconfig')
+
+- Configuration menu for changing the gameplay vibe in the way you like:
+
+- Personal semi-clientside particle visibility toggles
+
+- Enchanted hit particles (Sharpness, Smite against undeads & Bane of Arthropods against arthropods)
+
+- Bow hitsound in PvP
+
+- Ignoring tamed pets from sweep attacks
+
+Compatibility Patch Guide
+
+Customizable weapon stats and scripting support is available for anyone who wishes to make compatibility patches, such as basic compatibility like attack damage, or porting weapons with gimmicks, etc.
+
+The guide will be available in GitHub Wiki. It is currently work in progress.
+
+Supported Add-Ons
+
+Incompatibilites
+
+This is a list of confirmed incompatibilites which cannot be fixed for reasons.
+
+- Java Aspects (Resource Pack): Crit and sprint knockback sounds will play regardless of conditions because the sounds are handled via Molang in the pack's sounds.json. No workarounds.
+
+- VDX: Java/Desktop UI (Resource Pack): Incompatible UI.
+
+- True Weapons: Uses hit events for handling item functions, which makes it impossible to recreate functions.
+
+- EmptyCoso's Dungeons Content: Uses hit events for handling item functions, which makes it impossible to recreate functions. Might work on that in the future.
+
+- RLCraft (Marketplace): Uses player.json, which makes it incompatible.
+
+Frequently Made Suggestions
+
+This is a list of frequently made suggestions.
+
+Ability to use items in Offhand: Not from this add-on
+
+Adding Offhand support for mobile users is very tricky. It is simply not possible for us to implement it in a way that everyone would like.
+
+Mojang developers are considering implementation of Offhand support. But it hasn't been fully planned ye

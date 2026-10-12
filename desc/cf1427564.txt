@@ -1,0 +1,90 @@
+After YEARS OF WORK, Decayed Reality V2 is the next major evolution of the Decayed Reality Add-On.
+
+This Add-On focuses on recreating and expanding the Wither Storm experience for Minecraft Bedrock, inspired by Minecraft Story Mode while introducing original mechanics, systems, and progression that make the Storm feel alive, reactive, and dangerous, drifting slowly away from the 1:1 idea :D
+
+Unlike other Wither Storm Add-Ons, We made the Storm a entity that evolves, adapts, and reshapes the world around it, being the most destructive, scary and advanced mob yet.
+
+THE ADD-ON
+
+WARNING, IF YOU CONTINUE, YOU WILL GET SPOILERS.
+
+here is an non-spoiler summary!
+
+THE DEVELOPERS:
+
+seriously, without you guys, i couldn't have reached this far.
+
+Creator: Tazo! (yep, thats me!!)
+Lead Devs: Tazo! & ArthurTheBg
+
+Music Remixer: Korkeus & (Ex Remixer, Amulet)
+With used "Devour" Ost made by @Aeronoxtic (Vertic)
+
+Coders: ArthurTheBg, Tazo!, Refracted (v) MakerAdam, Persom & Spud!
+
+Original Content Modellers: Doofus (Xeno1056) , asdfg1114, MarioBigFan, Tainted, Spud!, witherstorm 0.0 & Tazo!
+
+Wither Storm Modellers: Doofus, Tazo! & ArthurTheBg
+
+Texturing & Animation: ArthurTheBg, NeonCactus, asdfg1114, Pandaboii, Tainted, hungry_fellow_ & Spud
+
+|FORMER EX-MEMBERS
+XDTS23, BibiBoy, FireSG, Shagster
+
+- HOW DO YOU EVOLVE THE STORM MANUALLY? -
+
+To do so, you must ensure certain stages are active, for example.
+
+COMMANDED WITHER:
+
+/event entity @e[family=main_wither_storm] stage.....
+
+WITHER STORM (Destroyer):
+
+/event entity @e[family=main_wither_storm] phase.....
+
+(after you explode the formidibomb on phases bigger than 5.1) >
+
+WITHER STORM (Devour):
+
+/event entity @e[family=main_wither_storm] devour_phase....
+
+(you CAN do a "devour_phase1" on destroyer to omit the wither storm play dead, however, it MUST be devour_phase1, going to another devour phase won't summon severeds.)
+
+(also, if the Devour Wither Storm is active, doing once again "devour_phase1" will duplicate the severeds!)
+
+ENABLE VORTEX DEBRIS:
+
+/event entity @e[family=main_wither_storm] devour:debris_vortex_level...
+
+KEEP IN MIND that these stages (except debris vortex level) are only a temporary change! the storm will still evolve to the phase it was supposed to.
+
+The Basics.
+
+The Wither Storm begins as a modified Wither fused with a Command Block.
+
+you must PERSONALLY summon it to bring this creature to the world.
+
+As the Storm evolves, it gains new abilities such as tentacles, tractor beams and charged abilities, Destroying it's heads is not always the correct solution, as doing so can trigger accelerated evolution for a short period of time.
+
+The Storm actively tracks players (specially groups of players), adapts its altitude, regenerates health over time, and responds differently depending on player actions. Ignoring it or allowing it to feed uncontested can quickly turn the world into a wasteland.
+
+THE CONTENT.
+
+Different flint & steels of The Order Of The Storm exists! creating unique fire types, along with an special one that you obtain from the Storm.
+
+There are more than 60+ Building blocks with texture variations including more than 200+ fecorative banners, all of them are used on Endertown.
+
+There are also multiple items you are able to obtain, like the Withered Nether Star, The Commanded Star, The Tendril, Storm Flesh, Decayed Bone, Decayed Flesh, Storm Dust, Decayed Human Eye & Spider Eye.
+
+Most of these aren't obtainable for now, except the Flesh, Tendril & Stars!
+
+We have MULTIPLE music discs with the OST! these are only able to be used on the Decayed Jukebox, which also supports Vanilla Discs.
+
+Along with it and as i previously mentioned, there are 10 possible craftable armors (and a tall armor stand) on Decayed Reality!
+
+some of these don't appear on the reinforced anvil, this is an known bug.
+
+ENDERTOWN:
+
+Endertown is a civil town located near the origin of the world, around X| 0 and Z| 0. At first glance, it appears calm and untouched. Houses, shops, and small points o

@@ -1,0 +1,124 @@
+Re-imagined Visuals is a per-biome lighting pack for Minecraft Bedrock. Every biome gets its own sky, atmosphere and lighting instead of one look stretched across the whole world.
+
+What this changes
+
+Per-biome atmosphere
+
+This is the whole point of the pack. Each biome has its own tuning, so a desert does not carry the same light as a jungle and a meadow does not look like a swamp. Walking from one biome into another actually changes what you are looking at.
+
+Skies
+
+Every biome gets its own sky tones. Deserts run hot and orange at dusk, meadows stay soft at sunrise, oceans go deep and cold.
+
+Night sky and auroras
+
+Nights get a real starfield, with an aurora borealis running across it if you use the Aurora subpack. Best seen over open water or from above a village.
+
+Water
+
+Shallow water stays clear enough to see the floor through it, while open ocean goes deep and reflects the sky.
+
+Clouds
+
+Two completely different cloud styles ship with the pack, cubic and soft. Which one you get is your choice, see the subpacks below.
+
+Subpacks
+
+This pack ships with three versions. You pick one when you activate the pack, and you can switch any time.
+
+- Aurora puts an aurora borealis in the night sky.
+
+- Reimagined Clouds gives you cubic 3D clouds with real volume to them.
+
+- Unbound Clouds gives you soft realistic clouds instead.
+
+None of them is the "correct" one. Try all three and keep whichever you like looking at.
+
+Requirements
+
+THIS PACK IS FOR VIBRANT VISUALS ONLY
+IT DOES NOT WORK WITH MB LOADER
+
+Vibrant Visuals must be ON. This pack is built for Bedrock's Vibrant Visuals renderer. The pack will not do anything if it is off.
+
+Where to turn it on: Settings > Video > Graphics > Vibrant Visuals
+
+If that toggle is not there, your device or version does not support Vibrant Visuals yet.
+
+Showcase
+
+- Lakeside Village Shallows
+
+- Reimagined Cloud Deck
+
+- Night Village Aurora
+
+- Lakeside Village Clouds
+
+- Desert Sunset
+
+- Meadow Sunrise
+
+- Village Golden Hour
+
+- Lake Sunset Reflection
+
+- Plains Daylight
+
+- Clear Water Shallows
+
+- Open Ocean
+
+- Jungle Canopy
+
+- Desert Dunes
+
+- Night Clouds Over Water
+
+- Night Village Boat
+
+About my other packs
+
+I have several other shader packs on my page, and they are not recolors of this one. Each is built with its own style. The atmospherics, lighting, color grading, water and PBR are set up separately in every pack, so no two of them behave the same way in game.
+
+If you want to explore the rest, everything I have made is here:
+
+- My CurseForge profile
+
+- My MCPEDL profile
+
+Inspiration
+
+This pack is heavily inspired by Complementary, the Java shader. The cubic cloud style and the general direction of the lighting come from spending a lot of time looking at what that shader does well and asking why Bedrock could not have something similar.
+
+To be clear about what that means: this is not a port and it does not contain anything from Complementary. Nothing was taken from it. Every part of this pack was built from scratch for Bedrock's Vibrant Visuals, by me.
+
+Installation
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate Re-imagined Visuals
+
+- Pick your subpack. Aurora, Reimagined Clouds or Unbound Clouds.
+
+- Turn on Settings > Video > Vibrant Visuals
+
+- If the lighting still looks the same, leave the world and load it again once
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link this CurseForge page in the description.
+
+- Use the pack in your own gameplay videos and streams. No permission needed, go ahead.
+
+- Modify the pack for your own personal use. Tweak whatever you want on your own device. The modified version has to stay with you though. It cannot be uploaded or shared publicly anywhere.
+
+- Share this page with friends or in servers.
+
+YOU ARE NOT ALLOWED TO
+
+- Upload a modified version. Editing my pack and releasing it under your own 

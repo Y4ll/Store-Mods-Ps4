@@ -1,0 +1,136 @@
+Sorcerers Beyond Jujutsu Kaisen Addon
+Update 3.3 The Ultimate Jujutsu Overhaul
+
+Created by Onyx
+
+Unleash the power of Jujutsu Sorcerers in Minecraft Bedrock!
+Four origins, multiple clans, nine cursed techniques, and a completely rebuilt progression system, Sorcerers Beyond has never been bigger.
+
+SHOWCASE & TUTORIAL WATCH BEFORE REVIEWING
+https://youtu.be/22aCa0NdDnY
+
+JOIN THE OFFICIAL DISCORD CLICK HERE
+
+SUPPORT ON PATREON
+https://www.patreon.com/cw/onyxproductions
+
+VERSION 3.1 FULLY OVERHAULED
+
+New progression system, four unique origins, clan bloodlines, nine cursed techniques with ultimates, and a brand new item system. This is the biggest Sorcerers Beyond update yet.
+
+PROGRESSION & LEVELING
+
+Earn Cursed Energy XP by fighting hostile mobs, exorcising curses, and using abilities in combat. Maximum level cap: Level 30.
+
+Key Milestones:
+
+-
+
+Level 5 Minor passive physical boosts
+
+-
+
+Level 8 Clan Admissions unlocked. Open your Jujutsu Manual to join Zenin or Kamo
+
+-
+
+Level 10 Technique Awakening. Permanently select your Innate Cursed Technique (options depend on your Origin and Clan)
+
+-
+
+Level 20+ Ultimate Abilities unlocked. Charge and unleash Domain Expansions, Maximum Techniques, or Awakenings
+
+-
+
+Level 30 Peak Jujutsu. Maximum base stats and CE reserves. Exclusive techniques like Angel's Technique become available
+
+THE FOUR ORIGINS
+
+Choose your origin when you first spawn. This choice is permanent and dictates your entire playstyle.
+
+Modern Jujutsu Sorcerer (Cursed Energy)
+The standard and most versatile path. Start as a clanless sorcerer with full access to Cursed Energy.
+
+-
+
+Level 8 Join Zenin or Kamo clan
+
+-
+
+Level 10 Technique Pool Boogie Woogie - Divergent Fist - Cursed Speech - Yuta's Katana (+ clan technique if applicable)
+
+Zenin Outcast (Heavenly Restriction)
+Born with zero Cursed Energy. In exchange, your body is pushed to absolute physical perfection.
+
+-
+
+Permanent Speed + Strength + Resistance + Jump Boost
+
+-
+
+Completely immune to guaranteed-hit effects of Domain Expansions
+
+-
+
+No Cursed Techniques or Domains relies entirely on physical combat and Cursed Tools
+
+Incarnated Heian Sorcerer
+An ancient sorcerer reborn in the modern era. You do not regenerate power naturally you must hunt and consume Cursed Relics dropped by hostile mobs and JJK curses.
+
+-
+
+Level 10 Technique Pool Idle Transfiguration - Sky Manipulation - Cursed Energy Discharge
+
+-
+
+Consume 5 Cursed Relics + reach 20 CE Output unlock Cursed Spirit Manipulation
+
+-
+
+Level 30 unlock Angel's Technique
+
+Cursed Spirit
+A manifestation of negative human emotion. Power scales heavily off Cursed Energy Output.
+
+-
+
+Weakness Takes massive, fatal damage from Reverse Cursed Technique (RCT) output
+
+-
+
+Level 10 Technique Pool Idle Transfiguration - Cursed Speech - Cursed Energy Discharge
+
+CLANS & BLOODLINES
+
+-
+
+Zenin Clan (Join at Level 8) Adds Projection Sorcery to your technique pool
+
+-
+
+Kamo Clan (Join at Level 8) Adds Blood Manipulation to your technique pool
+
+-
+
+Cursed Womb: Death Painting Eat a Death Painting item before Level 10 to mutate your biology and instantly gain access to Blood Manipulation
+
+CURSED TECHNIQUES
+
+Hit Level 10 to permanently select your technique. Sneak to cycle moves | Right-click to cast.
+To charge your Ultimate, deal 100 damage (50 hearts). A tracker appears on screen and alerts you when ready.
+
+Blood Manipulation
+Control blood for immense offense and defense. Taking damage builds Blood Heat when full, gain massive Speed + Strength buffs.
+Moves: Piercing Blood - Supernova - Blood Edge
+Ultimate: Awakening Slicing Exorcism
+
+Projection Sorcery
+Move at blinding, hyper-fast speeds and trap enemies in 2D space during your frames.
+(If you suffocate inside a wall due to speed, the game automatically teleports you to safety)
+No Ultimate all abilities unlock immediately at Level 10. Infinite stacking system.
+
+Boogie Woogie
+Instantly swap positions with any entity by clapping.
+No Ultimate all abilities unlock immediately at Level 10
+
+Divergent Fist

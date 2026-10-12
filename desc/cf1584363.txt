@@ -1,0 +1,194 @@
+Become Either a Viltrumite or a human.
+
+Yeah, Viltrumate addon with some custom abilities.
+
+NO NEED TO TURN ON EXPERIMENTAL FEATURES
+
+Enjoy!
+
+I also added level system! You'll become stronger as your level get higher.
+
+Don't forget to look at pictures for guide!!!!
+
+Make sure to watch full videos to know how it work.
+
+Btw compatible with most addons, achievement friendly(only if your Minecraft version is below 1.26.50)
+
+What's new in v1.4.6:
+
+The bug fix update,
+
+1. Jump over block auto activate flight - fixed
+
+2. Fly Upward straight Delay - fixed
+
+3. When creeper died while grabbing, the grab start bugging - fixed
+
+4. Stuck after beating the game - fixed
+
+5. Soft Release for Grab is Added (sneak + attack)
+6.Fixed lag when flying through blocks
+
+hat's new in update v1.4.5:
+
+Mainly
+
+- Flight Rework
+
+- Double jump to activate/deactivate flight
+
+- Hold the Jump Button to change into Fast flight mode
+
+-Bug - auto activate flight when jumping over blocks sometimes...
+
+- Flight Explosion optimized
+
+- Sneak + Attack to Grab mobs and hit them to throw into wall and it will explode!!
+
+- Homelander laser activate logic has changed into a skill that you can choose and use with combat item.
+
+- Some bugs fixed
+
+- and more...
+
+What's new in update v1.4.0:
+
+- New ability for homelander.
+
+- New voice pack for homelander.
+
+- Better Laser for homelander.
+
+- Super Jump for both ( sneak + look up + jump ).
+
+You can't break blocks by flying with just a little bit of speed anymore,
+
+Try flying for 1-2 seconds first before going through blocks to break
+
+- More levels for more break blocks destruction.
+
+- Body heat effect added for Viltrumite ( when flying a little too long )
+
+- A cheap Space added(beta)
+
+(You can't do anything except flying around in space)
+
+- Auto Counter On/Off item added
+
+- New Hovering mode landing for both
+
+( sneak + jump + looking straight ).
+
+- Impact frames For thragg uppercut finisher added
+
+- 2 new suits added
+
+- Fixed some bugs
+
+- Some logic, particle rework...
+
+- And more...
+
+What's new in v1.3.5 update:
+
+- Level difference more matter now
+
+(If lvl 1 hit lvl 100, lvl 1 will get itself killed)
+
+- Damge and Durability enough footing with Kaiju mods or Mods that have 1M+, 1B+ health.
+
+- New emperor Title + Scene
+
+- New skills
+
+Hand knife (unlock at lvl 5)
+
+Thunder Clap (unlock at lvl 20)
+
+Destroyer Punch (unlock at level 40)
+
+# Sneak/Crounch to Select
+
+# Long press/Right click to use
+
+- New voice lines item (some voice line of thragg)
+
+- Better flight landing Mech
+
+Now you need to deactivate flight to Land
+
+Landing have explosion, More heightv = More explosion
+
+(no explosion -> small -> medium -> large)
+
+- New particles effects in certain skills
+
+And More...
+
+What's new in V1.3.2 update:
+
+- Updated Thragg suit model
+
+- Fixed Some bugs
+
+- Buffed defense
+
+- Added projectiles deflect
+
+- Added auto counter
+
+have chances to automatically counter attack(more level = more chances)
+
+- Max level at level 100
+
+What's new in V1.3 update:
+
+- Fixed some bugs
+
+- Fixed pvp one hit bug
+
+- Combat update + finisher
+
+(Finisher happen at x6 combo with 20 second cooldown)
+
+- Flying animation update
+
+- Sprinting animation update
+
+- Some particles update
+
+- Level 50 max added
+
+- Grand Regent Title added(Claim at 50 level)
+
+- Summon Allies item added( You'll get this ability once you've become Grand Regent )
+
+- Hearts scaled with level, up to 50 hearts added
+
+- Effects scaled with level added
+
+- Homelander laser changed
+
+- (Forced Players to level up first)
+
+- And more...
+
+What's new in V1 update:
+
+-Removed Laser eye for Viltrumite
+
+-Added new grab skill
+
+-Added Hovering mode
+
+-Buffed Viltrumite Overall
+
+-Added Homelander
+
+-Changed menu
+
+-Easy Level command(/set:levels [target amount])
+
+-Animations changes and fixed bugs and more
+
+Try it out, you'll see.

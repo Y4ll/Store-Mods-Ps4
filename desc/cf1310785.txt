@@ -1,0 +1,125 @@
+Sharp's Awaken The Void v1.1.4.2
+
+MCADDON File
+
+Behavior and Resource depend on each other. Enable all experimental gameplay options for this add-on to work!
+
+Features :
+
+v1.1.4.2 - "Discover Recover"
+
+First Trailer (1.0.0) :
+
+Chorus Garden
+
+A garden of growths enclosed by pink leaves and purple spores of Chorus Fungus.
+
+Incarnat
+
+Incarnat lives among the fungal groves and carries the Incarnat Pearl, which can be dropped upon death.
+
+Enderwart Forest
+
+A grove of tall teal fungi that obscure turquoise shoots growing among teal spores and Enderwart Vines.
+
+Here live creatures that depend on the nutrients of its turquoise soil, such as the Wander.
+
+Wander
+
+A species of frog that feeds on Float Roots.
+
+Here, interesting creatures and structures may be found!
+
+Wartman
+
+He has a scar on the back of his neck that reminds him of past attempts to adapt to other biomes. When killed, it can drop Wartman Pearl.
+
+Endermoss Forest
+
+A simple, golden grove filled with Ender Leaves and Endermoss.
+
+Its appearance is enchanting, as its leaves consume the Striped Ender Trees.
+
+Stripedoo
+
+Lives and camouflages itself among the various stripes of the forest. Hates Incarnat and Wartman. When killed, it can drop Stripedoo Pearl.
+
+Pale Chorus Garden
+
+This garden is ominous... It has an aura that's simultaneously calm, angelic, and frightening.
+
+Harmless animals like Enderjelly and Smokedfly appear here.
+
+But soon, creatures far from calm will appear.
+
+Enderjelly
+
+A jellyfish that floats above the trees in this biome.
+
+It sometimes drops jelly blocks.
+
+Smokedfly - (no sounds)
+
+A type of firefly. (For now, it's a huge cockroach, lol.)
+
+It wanders alone or in pairs throughout this garden. It will drop interesting items for brewing interesting things soon!
+
+Void Valley
+
+As you say, an empty valley, with a beautiful ash-filled atmosphere. Piles of black rocks, and some light ones, create a hostile landscape for Skeletons, Wither Skeletons, and Hollows.
+
+Hollow
+
+Are skeletons possessed by the manifestation of the void. They are controlled by this energy, becoming masters of powerful summons and magic. Sometimes they summon Wraiths.
+
+Wraith
+
+Specters, or tormented souls who are now brought back to life by the Hollow's influence.
+
+Purpur Islands
+
+generation of islands made of Purpur Stone above the heavens. Here we may soon find interesting structures and plenty of adventure! But for now, we have:
+
+Shulko
+
+A primitive version of Shulker. It lives alone or in Purpur Settlement with other Shulkos. When angry, it closes its shell and launches itself at anyone who hits it. Muted for now...
+
+Archipelagos
+
+Floating patches of land with small clusters of Enderwart or Endermoss generations. A way to fill the VERY EMPTY sky of The End.
+
+Plates
+
+A category of interesting items, useful for various crafting activities in Echoclock and Enderclock.
+
+Agathe Plate
+
+Everything starts somewhere! Agathe Plate is the starting point for diving into the Plate arsenal!
+
+Craft an Agathe Plate with 6 Agathe Shards.
+
+Iron Plates & Obsidian Plates
+
+Right after crafting your first Plate, you can use it as a non-durable mold to produce Iron Plates or Obsidian Plates.
+
+Craft them by surrounding Iron Ingots or Obsidian Plates, respectively, around an Agathe Plate on a crafting table.
+
+Echo Plate
+
+They are made with 8 Iron Plates and 1 Echo Shard.
+
+Useful for crafting special items!
+
+Clocks
+
+Echoclock
+
+These are cages containing a crushing energy within, shaped by the ticking and ticking of the Obsidian Clock, mixed with pure manifestations of Sculk and Void.
+
+When items are placed inside, they begin to be crushed and eventually fused into one magically.
+
+To craft Echoclock you need 2 Echo Shards, 2 Echo Plates, 3 Iron Ingots and 1 Obsidian Clock.
+
+Make an Obsidian Clock with 6 Obsidian Plates, 1 Amethyst Shard, 1 Netherite Ingot and 1 Clock.
+
+However, to function, Echoclock requires an Echo Key to unlock its lock. Once opened, three items must be selected to create a new one. Echoclock can

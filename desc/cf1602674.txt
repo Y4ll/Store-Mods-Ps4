@@ -1,0 +1,15 @@
+Item Physics +
+
+Breathe new life into your Minecraft world! This pack overhauls the way dropped items, armor, and shields behave, adding a layer of realistic physics that makes every object feel tangible and alive, all without breaking your advancements or achievements.
+
+Core Features:
+
+Realistic Item Physics: Dropped items no longer float stiffly in mid-air. They now tumble, spin, and settle on the ground with natural momentum, mimicking real-world physics.
+
+Showcase Video:
+
+Dynamic Armor & Shields: Armor pieces and shields will now fall and land with weight, showing off their 3D form as they clatter to the ground
+
+Fluid Waving Effect: Experience a serene, organic "waving" or "breathing" effect on dropped items, making them look as if they are gently swaying in a breeze. This adds a subtle, magical ambiance
+
+100% Achievement Friendly: This modification affects only the visual presentation of items. It does not alter gameplay mechanics, item data, or player interactions, ensuring that all your achievements and advancements will still trigger as intended.

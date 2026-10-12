@@ -1,0 +1,45 @@
+About
+
+Miner's Helmet adds the classic Terraria utility headwear to Minecraft Bedrock.
+
+This item supports two ways of being equipped:
+
+- As Armor: Wearing it in the helmet slot renders a custom 3D model of a miner's hard hat on your head and emits a dynamic light beam.
+
+- As an Accessory: Equip it through the Accessory Pouch to gain the dynamic light beam without using your head armor slot or showing the model.
+
+Features
+
+- Adds the Miner's Helmet item
+
+- Beautiful custom 3D model when worn in the helmet slot
+
+- Dynamic, smooth light beam emitting in the direction you look (acts like a headlamp)
+
+- Supports equipping through the Accessory Pouch
+
+- Only replaces air/cave-air blocks (liquids and blocks are perfectly safe)
+
+- Automatic cleanup of light blocks on logout, dimension change, or death
+
+- Inspired by Terraria's accessory system
+
+How to use
+
+Craft the Miner's Helmet at a crafting table. Equip it directly as a helmet to display the model, or open your Accessory Pouch and place it there to use it as a silent helper.
+
+Open the Accessory Pouch with the pouch item or /accessories. For the optional reactive menu, use /accessories-ddui.
+
+Crafting
+
+Recipes use the ingredients and quantities shown below. The Accessory Pouch recipe is included for equipping accessories.
+
+Miner Helmet
+
+Accessory Pouch
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.50 or newer
+
+- Terraria Accessories Core (already built-in)

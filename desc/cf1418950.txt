@@ -1,0 +1,27 @@
+From the creators of Haptic Shader and Enlight Shader, Haptic Visuals is a mobile-focused visual enhancement pack for Minecraft Bedrock on iOS, iPadOS, and Android, crafted with a nature-centered design philosophy that emphasizes atmosphere, environmental depth, and organic lighting.
+
+Built upon Minecrafts modern rendering system, Haptic Visuals refines the games default Vibrant Visuals by boosting light, color, and contrast to better reflect natural environments. Rather than prioritizing brightness alone, Haptic Visuals focuses on how landscapes feelfrom the softness of morning light across plains, to the dense, filtered glow of sunlight within forests.
+
+Vegetation, terrain, water, and skies are tuned to work together as a cohesive environment. Forests feel deeper and more enclosed, open fields feel warmer and more breathable, and water surfaces reflect light in a calmer, more grounded manner. These adjustments create a world that feels more alive and immersive, while remaining unmistakably Minecraft.
+
+Designed specifically for mobile devices, Haptic Visuals balances visual atmosphere with performance stability, offering a refined, comfortable experience for long play sessions without relying on heavy post-processing or exaggerated effects.
+
+Supported Platforms
+
+- Android : Adreno 640, Mali-G68, Mali-G77, or Xclipse 530 or newer GPUs
+
+- iOS / iPadOS : Apple A12 Bionic or newer
+
+Compatibility Notes
+
+- Texture Packs : Compatible with most texture packs of up to x128, including Marketplace-verified.
+
+- Add-Ons : Limited compatibility to Marketplace-verified with Vibrant Visuals. Learn More
+
+Haptic is designed specifically for mobile Bedrock. Visual output may vary depending on device model, Minecraft version, and rendering settings. This pack is not intended for Windows 10/11 and Console Editions.
+
+Screenshots shown on this page were taken on A16 Bionic with Vibrant Visuals enabled and Visuals Preferred selected.
+
+Learn More from Haptic Visuals!
+or visit
+https://hptx.uk

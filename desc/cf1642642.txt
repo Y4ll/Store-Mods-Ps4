@@ -1,0 +1,27 @@
+Auto Replant
+
+Tired of replanting your farm after every harvest? Auto Replant does it for you the instant you break a fully grown crop, a fresh one is planted right back in its place. No more walking rows of dirt clicking seeds one by one.
+
+Features:
+
+Automatically replants crops the moment you harvest them but only if they were fully mature (breaking an unripe crop behaves exactly like vanilla)
+
+Works with wheat, carrots, potatoes, beetroot, nether wart, sweet berry bushes, cocoa pods, torchflower crops, and pitcher crops
+
+Drops and Fortune enchantment behave exactly like vanilla this addon only handles the replanting, not the loot
+
+Pure add-on, no resource pack, no texture changes fully compatible with other add-ons
+
+Lightweight scripting-based logic with virtually no performance impact
+
+Works on singleplayer, Realms, and dedicated (BDS) servers
+
+Requirements:
+
+Minecraft Bedrock 1.26.40 or later
+
+"Beta APIs" experimental toggle must be enabled in world settings
+
+How it works:
+
+Auto Replant listens for block-break events. When you harvest a crop that had reached its final growth stage, it instantly resets that spot back to the seedling stage so all you have to do is keep harvesting.

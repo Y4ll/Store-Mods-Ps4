@@ -1,0 +1,31 @@
+CubeVisage UI is a full interface overhaul for Minecraft Bedrock Edition, designed for a cleaner and more comfortable experience. More importantly, it adds a range of practical features on top of Minecraft's original screens.
+
+Discord: Join our Discord
+
+Website: cubevisage.top
+
+Video preview
+
+Feature
+
+- One-click delay for command blocks
+
+- One-click restock & stack for chests
+
+- Furnace and brewing recipes (latest versions supported)
+
+- /summon command icon
+
+- Bundle remaining capacity text
+
+- World advanced settings
+
+Plus multiple Ore UI themes, 500+ customizable options, multi-version & multi-language support, and proper accessibility.
+
+Screenshots in the Gallery tab. For an in-game walkthrough, check More > Features.
+
+License
+
+Copyright WiseBreeze. All rights reserved
+
+For the full license terms, please refer to the README.md file included in the resource pack, or view it in-game via More > License Agreement.

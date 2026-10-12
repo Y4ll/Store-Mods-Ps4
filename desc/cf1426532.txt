@@ -1,0 +1,69 @@
+Hello everyone. I created one of the best addons for the movie Stranger Things in my opinion. This addon adds many new characters with whom you can even survive in the regular Minecraft world.
+
+THIS IS A NEW VERSION OF THE ADD-ON.
+
+LIST OF CHANGES:
+
+1) Added final boss
+
+2) Demogorgons drop teeth from which you can craft a dagger
+
+3) The final boss drops his heart which when used gives invulnerability for a while
+
+4) Now all mobs have climbing animation
+
+5) Also fixed the main flaw. Now all mobs have their own damage during an attack and they no longer throw the player.
+
+6) You can download the transformation into a demogorgon as a separate file
+
+7) Added demogorgon head
+
+8) Added particles for the portal and during the demogorgon spawn
+
+9) Demogorgon now has 2 types of attacks
+
+10) Improved animation for Mind Flayer
+
+Sorry for the short description. I will write a more detailed update later.
+
+LIST OF WHAT THIS ADDON ADDS:
+
+1) New weapons:
+
+-Wooden bat: It has not very strong damage, only 5 units, but it is quite easy to create in survival and definitely will not become a nuisance in battle.
+
+-Pipe: A regular pipe that deals 6 damage
+
+2) One of the weakest mobs in this addon is demobat: From time to time in survival it can spawn from a portal. It has 20 units of health and 21 units of damage like all mobs in the addon.
+
+3) Egg: also spawns in the regular Minecraft world, has 12 health, after 1 minute the first phase of the demopes will hatch from it.
+
+4) Demodog Stage 1: it is difficult to call this mob scary and dangerous. It does not attack the player at all, has only 12 health.
+
+5) Demodog Stage 2: also does not react to the player, has 50 health and can climb walls.
+
+6) Demodog Stage 3: This is the first stage that is aggressive towards the player. Has 60 health and can also climb walls.
+
+7) Demodog: Very dangerous mob, has 90 health, high movement speed (also climbs walls)
+
+8) Demogorgon: A very dangerous mob, has 110 health, high movement speed (but less than demops). Spawns in the normal world from a portal.
+
+9) Portal: will spawn all over the Minecraft world. Every 50-100 seconds a demogorgon will emerge from it. The portal has 1000 health, so it is quite difficult to get rid of it with a regular weapon, but with a lighter you can set fire to the portal, which will make it disappear instantly (after the portal disappears, 5 demobats fly out of it, so be careful).
+
+10) Vekna 1: one of the strongest mobs in this expansion. It has as much as 500 health points, when it sees the player, it starts lifting him up the mountain and then instantly kills him, but if during the climb you exceed its strength, it will start chasing you. The mob can be summoned using a clock that can be created in survival
+
+11) Vecna 2: After killing the first phase, a second one appears. Now it can attract nearby mobs to itself, and has 800 health.
+
+12) Mind Flayer: So far the last character in this add-on (also does not appear in the Minecraft world). It has 10000 health but it is almost impossible to kill it, although the mob has little damage it has a large interaction radius which instantly knocks it back upon contact.
+
+13) Mouse: A peaceful mob that does not attack the player or other peaceful mobs, spawns in the Minecraft world. The mouse does not drop anything when killed, and can also be fed a piece of cheese.
+
+14) Decorative hats: allow you to slightly edit the player's appearance, and can also be crafted in survival mode.
+
+15) New food: The addon also adds a small amount of new food, namely chocolate and cheese. Cheese can be fed to the mouse and chocolate to the second version of the demo dog. Sorry I couldn't take good pictures of the food
+
+16) Vecna's Clock: Can be crafted in Survival Mode to summon Vecna. Requires 7 wood blocks, 1 clock, and 1 netherite ingot to craft.
+
+17) The first stage of the meat monster: after killing the rat, a meat monster appears with 50 health.
+
+18) Hospital monster: if you give two small meat monsters the opp

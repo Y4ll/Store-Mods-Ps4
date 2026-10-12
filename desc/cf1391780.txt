@@ -1,0 +1,47 @@
+Project Description:
+
+Travel through your world where, if you're lucky enough, you'll find an abandoned vehicle. Craft fuel and fill it up to make exploration much easier. Featuring a rusty, abandoned aesthetic perfect for horror maps, these vehicles deal damage to any entity they crash into.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Vibrant Visuals will need to be activated for some features.
+
+- Actual real-time speedometer.
+
+- Dynamic Light features.
+
+- Custom sound effect features.
+
+- Realistic gasoline crafting method.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Don't leave those rusty wrecks behind! With a full can of gasoline in your inventory, you can easily refuel and restore an abandoned vehicle to get back on the road.
+
+Jump in your Abandoned Vehicle to get around your world faster. Your fuel will start dropping as you drive. You will also see a realtime speedometer, no two vehicles are the same they will all have a different max speeds so keep filling up Abandoned Vehicles until you find a really fast one.
+
+As soon as you slide into the driver's seat of an abandoned vehicle, the automatic headlights activate, casting a bright beam across the dark terrain to dramatically improve your nighttime visibility.
+
+If you are searching for limestone, scour the arid sands and unearth it naturally generating underground in desert biomes between Y-levels 0 and 40.
+
+Smelt Limestone to create Crude Oil.
+
+Smelt Crude Oil to create Distilled Crude Oil.
+
+Smelt Distilled Crude Oil to create Unrefined Bitumen.
+
+Smelt Unrefined Bitumen to create Bitumen.
+
+Craft Empty Jerry Cans.
+
+Use a Brewing Stand to turn Bitumen into Gasoline.
+
+If your Vehicles takes to much damage you can repair it with a Spanner.

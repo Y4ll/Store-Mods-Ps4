@@ -1,0 +1,27 @@
+Features
+
+- Random Loot Every time you open a chest, its contents will be randomly generated.
+
+- 5 Luck Levels Your loot can fall into one of five categories:
+
+- Terrible Your luck is truly suffering.
+
+- Bad Not great, but at least you got something.
+
+- Normal The loot stays roughly as expected.
+
+- OP Your luck is looking pretty good!
+
+- Super OP Congratulations, you've hit the jackpot!
+
+- Structure Chests Only The feature only works with chests naturally generated inside structures.
+
+- Achievement Friendly The addon does not disable Minecraft achievements.
+
+Notes
+
+- Do not copy, redistribute, or re-upload this addon to any platform.
+
+- You may customize the addon to better suit your own playstyle.
+
+- Thank you for trying out the addon!

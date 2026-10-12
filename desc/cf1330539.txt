@@ -1,0 +1,104 @@
+WELCOME TO
+
+WARNING! This addon is a sandbox, it does not add the ikea store itself to the world, if you do not want to build, then you can download a ready-made map and project:
+IKEA: 3008 CLOSING TIME CHRISTMAS UPDATE
+
+The SCP IKEA 3008 ADDON is an addon that will allow you to make your own scp ikea 3008. The mod features over 500+ new furniture blocks, over 20+ types of food, new mobs, and many new items.
+
+FORGOTTEN HALLS UPDATE BLOCKS:
+
+"The Forgotten Halls update added a large number of new blocks and decor"
+
+here is some list of new blocks:
+
+- wooden spikes
+
+- burning steel barrel (and extinguished version)
+
+- burning plastic barrel (and extinguished version)
+
+- concrete barrier
+
+- garland of jars (copper, iron, rusty wire version)
+
+- satelite dish
+
+- torn sleeping bag
+
+A lot of textures have also been updated
+
+You can change the texture of the garlands of jar by clicking on them with a specific type of jar
+
+Radio
+
+The radio displays and announces key map locations in the chat, such as basement entrances or floating houses. Now you won't have to search for them for so long just craft a radio and head to the designated column. However, keep in mind that the radio has a delay between messages, and part of the message will be encrypted. And yes, it will be craftable!
+
+example:
+
+New Worker Heads!
+
+Worker Heads are a new type of decor for your home. What's more, you can wear these heads! To collect all of them, you'll have to fight the workers themselves.
+
+A complete rethink and redesign of all workers!
+
+All workers from the addon have been completely reworked, given a visual overhaul, and significantly improved. You can find detailed information about all new workers in the workers section below
+
+next is an article about the old blocks that are also present in the addon
+
+BLOCKS:
+
+Furniture
+
+There is enough furniture in the addon to make any room or interior for a home. Starting from tables ending with stools. Work on the addon is still underway, so wait for new furniture if this is not enough for you
+
+Plush toys
+
+Plush toys are an important part of any ikea store, including its scp version. There are plenty of toys for any room, but new ones will also be added, so keep an eye on our addon.
+
+Lamps
+
+Apart from the furniture, there is also a category with lamps.
+
+CLOSETS
+
+There is also a category with closets, here is an example of the construction of closets:
+
+DECOR
+
+Decor - is the largest category in the addon, which is updated regularly with new blocks. Everything is available here, from pallets to computers and aquariums.
+
+IKEA BLOCKS
+
+this category of blocks is needed simply for ordinary blocks for the construction of IKEA. There are also unusual blocks here.
+
+SOFAS
+
+As it is not difficult to guess, this group is designed for all types of sofas. As you can see, there are more than 7 kinds of different colors here.
+
+CHARACTERS
+
+This group is designed to create various signage in the store, such as this sign:
+
+CAFETERIA BLOCKS
+
+This category was made so as not to get confused by the large number of blocks. In this category you can find kitchen drawers, tables, and other cafeteria items. By the way, many of the blocks in this category are functional
+
+Placable food blocks
+
+It's just a category with placable food, I think the builders will be happy with such a feature (yes, you can also interact with food, for example, like with a pizza box)
+
+BLOOD STORE BLOCKS (WIP)
+
+*WIP - work in progress
+
+This category of blocks has not been completed and is still being finalized. We do not recommend using these blocks for any buildings, as they may be deleted or changed.
+
+PANELS
+
+there are just a huge number of panels in the addon, starting with the letter A and ending with the letter M. Use them to mark columns like this:
+
+FOOD:
+
+This is some food from the addon, some products can have positive effects, and some are just a lot of saturation. For example, a bottle of water gives regeneration, and bloxy cola gives speed.
+
+ITEMS, ARMOR, EQUI

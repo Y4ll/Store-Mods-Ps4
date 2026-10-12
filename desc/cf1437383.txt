@@ -1,0 +1,45 @@
+MobileFPS+ is a performance-focused Minecraft Bedrock resource pack made especially for mobile players and low-end devices. This pack improves FPS and reduces lag while keeping the game visually clean and close to vanilla.
+
+Key Features
+
+Add new stlyel ore
+
+Real life custom sun
+
+Real life custom moon
+
+Quieter mobs, blocks, and ambient sounds for smoother gameplay
+
+Removed cave sounds, Wither spawn sound, and Ender Dragon death sound
+
+Clean and simple visuals (wool, armor, elytra, glass doors & trapdoors)
+
+Full-sided terrain blocks (grass, snow, podzol, mycelium, nylium, paths) !
+
+Useful visual utilities:
+
+Ore borders
+
+Budding amethyst borders
+
+Visual waxed copper items
+
+Optimized For
+
+Mobile / Android devices
+
+Low-end phones & tablets
+
+Long survival and building sessions
+
+Why MobileFPS+?
+
+Better FPS
+
+Less audio distraction
+
+Clean Vanilla+ look
+
+No gameplay changes
+
+Perfect for players who want smooth performance without mods

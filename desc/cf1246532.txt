@@ -1,0 +1,13 @@
+After many months of development, the Infinite Adventure Addon has finally been released! Once this addon is activated in your world, over 20 unique structures will generate throughout your world. These structures contain valuable lootbut also hidden dangers.
+
+Biomes where custom structures will generate:
+
+Badlands, Dark Forest, Desert, Nether, Sky, The End
+
+In addition, over 50 new items have been added, including 20+ accessories. These items can be found in chests within the custom structures, and some also appear in vanilla structure chests. They are designed to enhance your adventure experience, allowing you to forge powerful gear and better prepare for intense boss fights.
+
+If you run into any problems, refer to the Adventurer's Handbook for guidance.
+
+Lastly, you're welcome to share your ideas, suggestions, or report bugs in the comment section.
+
+Infinite Adventure V1.0 showcase video

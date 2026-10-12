@@ -1,0 +1,183 @@
+Craftpunk is an alternative-futuresinspired Minecraft add-on that blends futuristic technology, robotics, and structures into survival gameplay. Build with advanced materials, craft electronic components, and encounter new robotic mobs while exploring the Overworld.
+
+This add-on is still a work in progress and was created for participation in CurseForge ModJam 2025. It currently brings a mix of cyberpunk technology and solarpunk design into your world. Since the project is still under development, not all planned features are included yet but new content is steadily being added.
+
+(v1.3.1)
+
+Version: 1.3.1
+
+Version: 1.3.1
+
+HOTFIX:
+
+- Fixed the bug where mobs don't spawn inside of structures.
+
+- Added the PBR capabilities.
+
+- Updated min engine version to 1.26.40.
+
+Version: 1.3
+
+Version: 1.3
+
+NOTE:
+
+- This update only works with Minecraft version 26.40 and higher.
+
+STRUCTURES:
+
+- Improved structure generation.
+
+MOBS:
+
+- All custom mob Spawn Eggs now have unique visuals.
+
+BlOCKS:
+
+- Custom blocks now have assigned instrument sounds when played by a Note Block.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.40 version.
+
+Version: 1.2
+
+Version: 1.2
+
+NOTE:
+
+- This update only works with Minecraft version 26.30 and higher.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.30 version.
+
+VISUALS:
+
+- Metal blocks now have PBR or Vibrant Visual texture support.
+
+- Added local lighting effects to custom light-emitting blocks:
+
+- LED Blocks
+
+- LED Panels
+
+- LED Rods
+
+- Light Diodes
+
+- Monitor
+
+- Pulse Emitter
+
+- Solar Drone Deploy
+
+- Solar Laser Drone Deploy
+
+- Supply Capsule
+
+Version: 1.1
+
+Version: 1.1
+
+NOTE:
+
+- This version may no longer be able to update over older versions.
+
+- This update only works with Minecraft version 26.10 and higher.
+
+TECHNICAL CHANGES:
+
+- Changed the UUID to fix importing issues on Realms. (Note: This will prevent the add-on from updating over older versions.)
+
+STRUCTURES:
+
+- Fixed an issue where Vaults inside structures would not activate.
+
+Version: 1.0
+
+Version: 1.0
+
+TECHNICAL CHANGES:
+
+- Custom mobs and Laser Blades now support PBR textures (Vibrant Visuals).
+
+STRUCTURES:
+
+- Tweaked loot tables for chests and barrels in custom structures.
+
+- Decreased the durability and enchantment chance of equipment items.
+
+- Spears, Horse Armor, Nautilus Armor, Harnesses, Golden Dandelions, and more items are now included in loot pools.
+
+- Improved structure generation. Structures are now generated using jigsaw structures.
+
+- Structures now generate more naturally, blending better with the terrain and no longer appearing buried.
+
+- Decorated Pots in structures may now contain different types of items.
+
+- Structures can now be located using the /locate command in Creative Mode with their identifier names:
+
+- ntk:apartment_tower
+
+- ntk:blue_metallic_building
+
+- ntk:commercial_building
+
+- ntk:contiguous_building
+
+- ntk:greenhouse_dome
+
+- ntk:greenhouse_dome_solar_field
+
+- ntk:metal_scrap_house
+
+- ntk:mounting_solar_panel
+
+- ntk:mounting_solar_panel_solar_field
+
+- ntk:solar_field_house
+
+- ntk:solar_field_house_solar_field
+
+- ntk:solar_panel
+
+- ntk:solar_panel_solar_field
+
+- ntk:wind_turbine
+
+- ntk:wind_turbine_solar_field
+
+Version: 0.9
+
+Version: 0.9
+
+NOTE:
+
+- This update only works with Minecraft version 26.0 and higher.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.0 version.
+
+MOBS:
+
+- Robot mobs spawned from Deploys will no longer despawn.
+
+- Corruptor:
+
+- Decreased the chance to drop the mainhand equipment on death.
+
+- Tamed Corruptor will no longer pick up and equip items automatically; they can now be equipped only through owner interaction.
+
+- Fixed a bug where tamed Corruptor could not equip leggings through interaction.
+
+- Equipped items on tamed Corruptor can now be removed using Shears.
+
+- Smasher Bot:
+
+- Tamed Smasher Bot pwill no longer pick up and equip items automatically; they can now be equipped only through owner interaction.
+
+- Equipped items on tamed Smasher Bot can now be removed using Shears.
+
+ITEMS

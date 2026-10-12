@@ -1,0 +1,88 @@
+RPG Logic is a progression addon for Minecraft Bedrock. It adds player levels, free stat allocation, life skills, scaling enemies, a mana system, potions, and wand magic while keeping vanilla survival and exploration intact.
+
+Progression
+
+- Gain EXP from hostiles; level up for free stat points (default 3/level; world setting 1100)
+
+- Level cap 99, or optional permanent 999 at first-join World Setup
+
+- Stats: VIT (HP) / STR (damage, uncapped) / DEF (mitigation up to 85%, optional Resistance milestones) / AGI (Speed) / DEX (crit)
+
+- Free respec from Lv.30+
+
+- Optional XP soft cap after Lv.50; craftable XP Boost (2x / ~10 min)
+
+Combat & world
+
+- Hostile levels from area, world age, clear bonuses, variance; optional distance-from-spawn scaling
+
+- End Dragon / Warden clears permanently strengthen those regions
+
+- Mob HP / damage / speed scaling (damage & speed toggles in settings)
+
+- Rare Boss variants (~2.5%): much higher HP/stats/EXP
+
+- Nametags show level and HP
+
+Magic (Magic Wand)
+
+Craft: shaped diagonal 1 Amethyst Shard + 2 Sticks
+Controls: Use = cast / Sneak+Use = cycle spell
+
+- Fireball Unlock Lv.7 / MP 12 Custom projectile look; STR scales
+
+- Torch Unlock Lv.9 / MP 10 Temporary light that dims and fades
+
+- Heal Unlock Lv.11 / MP 22 About 14% of max HP
+
+- Blink Unlock Lv.13 / MP 14 Short teleport along look direction
+
+- Lightning Unlock Lv.15 / MP 18 Strike + AoE damage; STR scales
+
+- Mana Shield Unlock Lv.17 / MP 16 Short Resistance / Absorption
+
+- Frost Nova Unlock Lv.19 / MP 20 Large slow AoE + FX
+
+- Drain Unlock Lv.21 / MP 22 Large damage AoE + self-heal; STR scales
+
+Spell damage scales with STR. Magic kills grant EXP. Max MP is 40 + Lv2, regenerates +1/s. Eating food restores +10 MP over time (potions excluded).
+
+Crafting recipes (all custom items)
+
+- Magic Wand shaped diagonal: Amethyst Shard + 2 Sticks
+
+- XP Boost shapeless: Lapis Lazuli + Sugar + Gold Nugget (2x EXP / ~10 min)
+
+- Healing Potion I (+10 HP) Sugar Cane + Poppy + Water Bottle
+
+- Healing Potion II (+25 HP) Sugar Cane + Healing Potion I + Glowstone Dust
+
+- Healing Potion III (+50 HP) Sugar Cane + Healing Potion II + Glowstone Dust
+
+- Mana Potion I (+15 MP) Sugar Cane + Blue Orchid + Water Bottle
+
+- Mana Potion II (+35 MP) Sugar Cane + Mana Potion I + Glowstone Dust
+
+- Mana Potion III (+60 MP) Sugar Cane + Mana Potion II + Glowstone Dust
+
+Healing / mana potions: 5s cooldown per category. Vanilla Instant Health scales with max HP.
+
+HUD & skills
+
+- Top-right status HUD; hotbar-side HP/MP bars
+
+- Life skills: Mining, Farming, Husbandry
+
+- First-join World Setup. Hub via /rl:menu, or rename an item to menu and use it
+
+Commands
+
+- /rl:st allocate stats
+
+- /rl:set world settings (operators)
+
+- /rl:hu HUD toggle
+
+- /rl:menu hub
+
+- /rl:setup world setup

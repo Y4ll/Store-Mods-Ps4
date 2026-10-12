@@ -1,0 +1,83 @@
+VulkanCore Facts
+
+All In One No Fog - No particles - simplified animation - = FPS
+
+New update v9: Fixed chat bug, added clean UI, Added See Durability items, REWORK.
+
+: Experiencing LAG or Slutter on Ultra / Pro set ur Render at 8-9 chunks or "STANDARD" Mode
+
+Mode:
+
+Standard: All full shader/addon support No-full-Grass
+
+Pro: Vivid/fluid + Opti Fog Faster FPS + better stability mid add-on friendly No-full-Grass
+
+Ultra: Vivid/fluid visuals + optimized fog, max performance for low/mid devices, full grass
+
+Mode: Ultra patched (alpha) / Standard - Fully supports all shaders and holds stable even with Vibrant Visuals enabled
+
+[ more better efficient on "snapdragon | Apple | mediatek" chipset phones ]
+
+Performance:
+
+- Pushed you're FPS to the max refresh-rate in you're device, it depends on you're device limit.
+
+- Eliminates FPS drops, stutters, and lag.
+
+- Delivers stable, smooth frame rates at all times.
+
+- Built to handle heavy graphics without slowing down
+
+- Stabilized fps and maximum speed
+
+Visuals & Colors:
+
+- Rich, vibrant, and enhanced color palette.
+
+- Sharp, clear, and striking visuals across all biomes.
+
+- Balanced brightness and contrast for better visibility.
+
+Effects & Details:
+
+- Zero unnecessary particles.
+
+- Reduced or simplified animations.
+
+- Optimized, lighter fog rendering.
+
+- Clean, uncluttered, and lightweight graphics.
+
+Optimization:
+
+- Low resource usage, no extra load on device.
+
+- Smooth performance even on low/mid-end hardware.
+
+- Balances great looks with top-tier efficiency.
+
+What this does:
+
+No murky underwater fog see clearly deep down
+
+No lava haze or distortion see clearly deep down or up
+
+Removes distance fog in Overworld biomes
+
+Clear view in the Nether (no thick smoke/fog layers)
+
+Full visibility in the End (no purplish fog or blur)
+
+Improves FPS while keeping visuals natural
+
+Works on all render distances and device types
+
+Perfect for survival, Smp, exploration, building, and spotting mobs from far away no more hidden terrain or limited sightlines!
+
+Origin of VulkanCore Began:
+
+"VulkanCore wasnt made to be public at first. It started out as my own private optimizer an all-in-one collection of tweaks that I built and used only for myself during my streams for a very long time.
+
+VulkanCore wasn't named VulkanCore at first the first name of this was Lithium_Optimizer before changed the name as it grew into something bigger and more reliable and powerful.
+
+I chose to publicly share it because of my loyal and supportive followers who kept asking where I got my performance settings. I polished it up for everyone, so what began as my personal setup can now help anyone run Minecraft Bedrock smoother and better."

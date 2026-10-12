@@ -1,0 +1,31 @@
+- Sunflower Delight is an addon for the popular food mod "Farmer's Delight (Bedrock Port)". The mod adds sunflower seed products and a little more!
+
+- Developed by Karobka8
+
+- Karobka8, thank you for giving permission to port your mod
+
+- Modrinth and CurseForge
+
+- Discord Karobka8 server: [link]
+
+- My Discord server [link]
+
+- If you have any questions, you can write to me in Discord(maxis_shellgryphon)
+
+For the addon to work, you need to download Farmer's Delight
+
+Mod License/Port Permission:
+
+All copyrights are reserved.
+
+You do not have the right to use at least any code from this add-on. Since Bedrock edition meets the standards of the Java version of the mod.
+
+To create a port on Bedrock, I needed to get permission from an official representative of the mod
+
+Permission
+
+Permission from Karobka8
+
+<figure class="image"></figure>
+
+All necessary information about the addon [link]

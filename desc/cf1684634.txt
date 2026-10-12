@@ -1,0 +1,13 @@
+Description
+
+What does this Addon do?
+
+Chisel adds a huge variety of decorative blocks to the game. The Addon is very useful for people who like the construction aspect of Minecraft.
+
+Access to new blocks is provided mostly through one tool, the chisel. The iron chisel is created with a iron ingot and a stick in a diagonal pattern.
+
+Shift + clicking opens the chiseling interface.
+
+Place a block in the chiseling slot (top left) and you may turn it in the same group.
+
+You can also use a stonecutter to make different variations

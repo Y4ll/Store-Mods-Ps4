@@ -1,0 +1,115 @@
+It is recommended to DOWLOAD this addon
+
+LINK HERE to support addons from other developers.
+
+UPDATE 4.8.1
+
+Requires Minecraft Bedrock 26.50 or newer (26.52+ to keep achievements). No experiments needed.
+
+Achievements
+
+- Achievement friendly again on 26.52+. Minecraft 26.50/26.51 disabled achievements for every external add-on; Mojang reverted that in 26.52.
+
+- Uses the latest stable Script API (@minecraft/server 2.10.0), no Beta APIs.
+
+Shield
+
+- Right-click to raise or lower the shield, Java style. Bedrock can't tell add-ons that right-click is being held on vanilla items, so it toggles: press once to raise, press again to lower. Works with the shield in your main hand, or in your off hand while holding a sword, axe, tool or nothing (with an empty hand, aim at a block). Sneaking still blocks too.
+
+- The shield pose shows in first person and third person.
+
+- No knockback while blocking. Blocks players, mobs and arrows coming from the front.
+
+- Blocking slows you down to 20% speed, like Java.
+
+- Axe hits disable the shield for 5 seconds, and heavy hits cost shield durability.
+
+- The shield lowers by itself when you attack or switch items.
+
+Damage now matches Java Edition
+
+- Java charge formula: damage (0.2 + 0.8 charge2). Spam-clicking no longer does almost nothing.
+
+- Fixed hits sometimes doing only ~2 damage.
+
+- Exact Java stats for every weapon and tool (see the table below).
+
+- Sharpness, Smite and Bane of Arthropods scale with charge. Weakness is 4 per level.
+
+- Fire Aspect and Knockback enchantments work.
+
+- Sprint hits knock back further. Critical hits need a charged attack.
+
+- Java sweep: 1 damage to mobs right next to the target, on charged sword hits.
+
+- Armor, Protection and Resistance are handled by the game, with no more double reduction.
+
+- The item tooltip shows the Java damage, including enchantments.
+
+Animations
+
+- Java cooldown animation on every sword, axe, pickaxe, shovel, hoe and the mace: the weapon dips after a hit and rises back up as it recharges.
+
+- Java-style item swing.
+
+Compatibility
+
+- Skills from other add-ons deal damage again.
+
+- Player skins and vanilla player animations are no longer changed by the add-on.
+
+- For testing: /scriptevent jpvp:debug shows each hit's damage and the shield state in chat.
+
+UPDATE 4.3.0
+
+Fix Achievements Friendly
+
+UPDATE 4.1.9
+
+fix bug shield
+
+UPDATE 4.1.8
+
+Fixed the attack swing animation playing in the wrong/reversed direction now correctly follows the swing direction, and made it slightly bigger.
+
+Fixed Sulfur Cube not being killable while it's holding a block.
+
+UPDATE 4.1.7
+
+FIX bug dame spear & trident
+
+UPDATE 4.1.4
+
+FIX BUG EFFECT
+
+UPDATE 4.1.3
+
+Fix bug cooldown when break block
+
+Fix bug dame
+
+UPDATE V4.1.0
+
+fix bug the mace
+
+Update v4.1.0
+
+(Achievements Friendly)
+
+Java PvP Core Update v4.0.0
+
+Want it to work with weapons from other addons, no tags needed? Install PvP Weapon Support automatically detects weapons from any other addon.
+
+What's New
+
+This release focuses on API compatibility fixes and opens up integration with other addons combat formulas are unchanged.
+
+Critical fix (was crashing the entire addon)
+
+- Removed the CommandPermissionLevel import this export doesn't exist in some resolved @minecraft/server versions when playing alongside other addons, which caused main.js to crash on the very first line, running nothing at all (losing all damage/cooldown/sweep). Now uses a raw numeric permission level instead, no longer dependent on that export.
+
+- Bumped the @minecraft/server dependency from 1.15.0 to 2.1.0 the old version was missing the beforeEvents.entityHurt API in some world configurations, preventing the core from cancelling vanilla damage to compute Java-style combat. The new version ensures it resolves to a build with the required API.
+
+- All critical event/command registration blocks are now wrapped in try/catch if any single API is missing in the world's resolved version, only that one feature is lost, instead of crashing the entire addon.
+
+Th

@@ -1,0 +1,252 @@
+Addon Species
+Archelon
+
+- Tameable with jellyfish
+
+- 6 Variants
+
+- created in the Masrani Cultivator
+
+- It can be commanded to follow its owner using the controller.
+
+Quetzalcoatlus
+
+- Tameable with salmon
+
+- 3 Variants
+
+- created in the InGen Cultivator
+
+Quetzalcoatlus Biosyn
+
+- Tameable with salmon
+
+- 3 Variants
+
+- created in the Byosin Cultivator
+
+Leedsichthys
+
+- 4 Variants
+
+- created in the InGen Cultivator
+
+Megalodon
+
+- 3 Variants
+
+- created in the Masrani Cultivator
+
+Mosasaurus
+
+- 4 Variants
+
+- created in the Masrani Cultivator
+
+Mosasaurus Rebirth
+
+- 3 Variants
+
+- created in the Rebirth Cultivator
+
+Spinosaurus Rebirth
+
+- Tameable with salmon
+
+- 9 Variants
+
+- created in the Rebirth Cultivator
+
+- It can be commanded to follow its owner using the controller.
+
+Titanosaurus
+
+- Tameable with sweet berries
+
+- 4 Variants
+
+- created in the Rebirth Cultivator
+
+- It can be commanded to follow its owner using the controller.
+
+Tyrannosaurus Rebirth
+
+- Tameable with cooked beef
+
+- 6 Variants
+
+- created in the Rebirth Cultivator
+
+- It can be commanded to follow its owner using the controller.
+
+NEW SPECIES
+
+Deinocheirus
+
+- Tameable with sweet berries
+
+- 6 Variants
+
+- created in the Masrani Cultivator
+
+- can be mounted with a saddle
+
+- It can be commanded to follow its owner using the controller.
+
+Desmatosuchus
+
+- Tameable with sweet berries
+
+- 4 Variants
+
+- created in the Masrani Cultivator
+
+- lays a single egg within a certain period of time
+
+- It can be commanded to follow its owner using the controller.
+
+Distortus Rex
+
+- It cannot be tamed.
+
+- 2 Variants
+
+- It can only be obtained via the egg incubator.
+
+- Extremely aggressive and can break blocks.
+
+Nothosaurus
+
+- Tameable with salmon
+
+- 5 Variants
+
+- created in the Mantah Corp Cultivator
+
+- It can be commanded to follow its owner using the controller.
+
+Olorotitan
+
+- Tameable with sweet berries
+
+- 6 Variants
+
+- created in the Masrani Cultivator
+
+- can be mounted with a saddle
+
+- It can be commanded to follow its owner using the controller.
+
+Purussaurus
+
+- Tameable with salmon
+
+- 1 Variant
+
+- created in the Rebirth Cultivator
+
+- can be mounted with a saddle
+
+- It can be commanded to follow its owner using the controller.
+
+Quetzalcoatlus Rebirth
+
+- Tameable with salmon
+
+- 5 Variants
+
+- created in the Rebirth Cultivator
+
+Spinosaurus InGen
+
+- Tameable with cooked beef
+
+- 28 Variants
+
+- created in the InGen Cultivator
+
+- It can be commanded to follow its owner using the controller.
+
+Torvoneustes
+
+- Tameable with salmon
+
+- 1 Variant
+
+- created in the Rebirth Cultivator
+
+- can be mounted with a saddle
+
+- It can be commanded to follow its owner using the controller.
+
+Tyrannosaurus InGen
+
+- Tameable with cooked beef
+
+- 38 Variants ( 20 Female | 18 Male )
+
+- created in the Ingen Cultivator
+
+- It has separate spawn eggs for males and females.
+
+- It can be commanded to follow its owner using the controller.
+
+Addon Decorations
+
+- PCs
+
+- DNA suitcase (REMODEL)
+
+- DNA combiner
+
+- DNA exposure (NEW)
+
+- Banners
+
+- Table (NEW)
+
+- Amber Stand
+
+- Copal Stand
+
+- Freezer (REMODEL)
+
+- Chair
+
+- Crates (NEW)
+
+- Decorative Incubators (NEW)
+
+- Soda (NEW)
+
+New Itens
+
+- Soda
+
+- Coffe
+
+Addon Machines
+
+- Cultivators
+
+- DNA Extractor
+
+- Amber Extractor
+
+- Copal Extractor
+
+- Incubator
+
+- Egg Incubator (NEW)
+
+Thanks a lot for the support, and see you next time!
+
+Credits
+Code: Math
+Programming assistance: P3dro
+Scripting assistance: Theri
+Models: Math
+Textures: Math
+Animations: Math
+Assistance with items, blocks, and concepts: Lokizinho
+Blue Spinosaurus: Based on Springmorb's Spinosaurus from "The Archive" addon.

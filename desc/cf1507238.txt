@@ -1,0 +1,19 @@
+Trailer dreams resource pack is ray-traced resource pack that brings official trailer block textures, trailer-styled entity textures, good looking PBR and fogs! The resource pack also work with entity models, rendering and animations!
+
+Let's take a look what Trailer dreams do with your game.
+
+1. Trailer textures and PBR for them
+
+2. Good looking fogs, that follow Minecraft trailer style
+
+3. Entities enhancements specifically for RTX
+
+If you want to see how Trailer dreams looks like in the game, you can look trough screenshots in media!
+
+Notes:
+
+This resource pack contains trailer textures of blocks made by Mojang. Trailer entity textures are fully made by me.
+
+This project is not connected to deferred rendering or vibrant visuals graphics mode.
+
+This project is new, so you can find some bugs and issues during gameplay. If you found one, please report it, so I can fix it in future updates.

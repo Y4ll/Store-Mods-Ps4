@@ -1,0 +1,40 @@
+The Xp Crystal is an item that can store your experience until you need it later.
+
+Features:
+
+- Store / Retrieve XP
+
+- Use stored XP for mending
+
+- Save XP upon death
+
+Controls
+
+- Use => Store experience
+
+- Sneak + Use => Retrieve experience
+
+- Sneak + Use + Look Straight Down => Spawn XP Orbs
+
+Crafting Recipe
+
+Ingredients
+
+- Amethyst Cluster (x1) (the fully grown one found in geodes)
+
+- Bottle of Enchanting (x4)
+
+- Glowstone Dust (x4)
+
+<figure class="image"></figure>
+
+Technical
+
+Storage
+An Xp Crystal can hold up to 10,252 experience. That will get you from level 0 to 64 with one full crystal.You can view the amount stored by hovering over the item in your inventory. The crystal must be interacted with first to display the amount stored.
+Storing / Retrieving
+When you store experience, the crystal first captures the portion of XP that the player has towards their current level (for example, if theyre at level 4 and have 25% of the way to level 5, it stores that 25%). After that, it stores full levels of XP.When you retrieve experience, the crystal first gives back any XP needed to fill up the players current level (so, if theyre at 75% of level 4, it will give back the remaining 25% to complete the level). Then, it starts giving full levels of experience.There are cases where you will jump from a full XP bar to two levels up (for example, from 9/9 XP at level 1 to 0/13 XP at level 3). This is supposed to happen, no extra XP is gained or lost from this.
+Spawning XP Orbs
+When the player sneaks and uses the Xp Crystal while looking straight down, up to 100 experience points will spawned at the players feet. The points will be removed from the Xp Crystal. This is useful for using the stored XP to repair armor and tools that are enchanted with mending. Each experience point repairs 2 durability, so 100 experience points will repair 200 durability.
+Saving XP Upon Death
+If a player has any Xp Crystals in their inventory upon death, any lost experience will be stored in the remaining storage of the Xp Crystals.

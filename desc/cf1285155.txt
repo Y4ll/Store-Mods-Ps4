@@ -1,0 +1,51 @@
+Ytils offers a clean and efficient Modmenu UI texture pack for Minecraft Bedrock Edition, featuring numerous modules to enhance your gameplay experience. MCPEDL Ytils is an open source and one of the cleanest and best utility Modmenu UI texture packs for Minecraft Bedrock Edition. It contains many useful modules and utilities to improve your overall gameplay experience. You can visit our Website.
+
+Features
+
+Ytils has one of the smoothest touch controls friendly mod menu:
+
+MCPEDL
+
+Utility Features
+
+- Hotbar switcher: for switching your hotbar quickly
+
+- Inventory HUD: for seeing your inventory without opening it
+
+- Armor HUD: to see what armor you are wearing
+
+- In-game crosshair changer: select over 25+ crosshairs while still being in-game
+
+- Gamma: to see in the darkness, useful for finding ores etc.
+
+- Debug menu: small debug menu on the top left of your screen, useful in survival
+
+And many more features
+
+Fun Features
+
+- Waifu display: displays a waifu PNG on the top left of your screen
+
+- Fake hacks: unbannable fake hacks such as horion, vape, packet, meteor, etc.
+
+Currently, Ytils is on its version 0.7 alpha. Stay tuned for further updates.
+
+Permissions
+
+You're allowed to:
+
+- Make videos on this pack
+
+- Review this pack
+
+- Make private changes and use it
+
+- Use the code if you can code and make appropriate changes
+
+You're not allowed to:
+
+- Make small changes to it and republish it
+
+- Steal the code without credits
+
+- Present the pack as your own

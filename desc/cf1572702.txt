@@ -1,0 +1,39 @@
+Hold a light in one hand, use anything in the other. Offhand Torch lets you keep a torch, lantern, or any light source in your offhand slot so your main hand stays completely free for tools, weapons, or whatever you need.
+
+How to Equip
+
+Hold your torch or light source in your main hand, then:
+
+- PC: Right click in the air while holding it
+
+- Mobile: Hold the screen while holding it
+
+It moves straight to your offhand. That's it.
+
+Supported Light Sources
+
+- Torch
+
+- Lantern
+
+- Soul Torch & Soul Lantern
+
+- All other placeable light items
+
+Features
+
+- Dynamic lighting follows you as you move
+
+- Main hand completely free use any tool or weapon
+
+- Works with all light source items, not just torches
+
+- Simple equip method no commands, no menus
+
+- Bedrock compatible works around offhand slot limitations natively
+
+Why You Need This
+
+Bedrock normally doesn't let you place torches directly into your offhand from inventory. This addon solves that completely. Mine, fight, and build all while staying fully lit. No compromises.
+
+Light in one hand. Freedom in the other.

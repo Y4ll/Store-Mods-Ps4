@@ -1,0 +1,123 @@
+| Sneak Harvest
+
+Crouch + tool = chain harvest. Chop whole trees, mine full veins, clear canopies, and harvest crops, sugar cane, and bamboo in one swing with full vanilla rules intact.
+
+Achievement-friendly does NOT disable achievements, and runs without enabling any experiments.
+
+- Settings -
+
+Two ways to open the in-game menu:
+
+- No cheats needed: you receive an SH Config stick when you first join. Sneak + use it to open the menu. Lost it? Rename any stick to "SH Config" in an anvil.
+
+- With cheats: send /scriptevent sh:menu in chat.
+
+Toggle any feature, sneak requirement, replanting, tool-swap, and more. Saved per-world; works on Realms.
+
+How it works
+
+Sneak with the right tool on a supported block:
+
+Sneak +
+Block
+Result
+
+Axe
+Logs / stems / wood
+Whole tree falls (branches connected through leaves included)
+
+Pickaxe
+Ores or glowstone
+Full vein breaks (deepslate + normal count as one)
+
+Shears
+Leaves
+Connected same-type leaves break
+
+Hoe
+Wart blocks / shroomlight
+Full nether canopy clears (crimson & warped stay separate)
+
+Hoe
+Mature crops
+Area harvest + auto-replant
+
+Hoe
+Sugar cane / bamboo
+Column + nearby columns harvested, base left to regrow
+
+Release sneak or switch tools for normal vanilla breaking.
+
+- Vanilla-faithful -
+
+Fortune works exactly like vanilla (drops handled by the game's own loot system, not faked):
+
+Enchant
+Drops per single-drop ore
+
+None
+1
+
+Fortune I
+1-2
+
+Fortune II
+1-3
+
+Fortune III
+1-4
+
+Redstone, lapis, copper, and glowstone follow their own vanilla Fortune behavior automatically. Ancient debris ignores Fortune, as in vanilla.
+
+- Silk Touch disables the chain - sneak with a Silk Touch tool for vanilla single-block drops.
+
+- Tool tier enforced - a wooden pickaxe on iron ore drops nothing.
+
+- Unbreaking respected, and ore XP drops exactly as in vanilla.
+
+- Copper tools fully supported (axe, pickaxe, hoe).
+
+- Tree replanting -
+
+Fell a tree and a sapling is automatically replanted at the base if you have one in your inventory. Mega trees (2x2 spruce, jungle, dark oak) replant all 4 saplings. Works with oak, spruce, birch, jungle, acacia, dark oak, cherry, and pale oak.
+
+- Sugar cane & bamboo -
+
+Sneak + hoe on sugar cane or bamboo harvests the whole column plus nearby columns (area scales with hoe tier, same as crops). The bottom block is always left standing so the plant keeps growing. An optional toggle lets Fortune boost sugar cane yield (off by default to stay vanilla).
+
+- Crop harvesting -
+
+Sneak + hoe on a fully grown crop harvests an area. Auto-replants if you have the seed.
+
+Hoe tier
+Area
+
+Wood / Stone
+3 in a line
+
+Copper / Iron / Gold
+6 in a line
+
+Diamond / Netherite
+3x3 square
+
+Diamond / Netherite + Efficiency
+5x5 square
+
+Supports wheat, carrots, potatoes, beetroot, and nether wart. An optional toggle lets Fortune boost wheat/beetroot yield (off by default). Player-placed leaves and Adventure mode are respected.
+
+- Auto-swap broken tools -
+
+When a tool breaks mid-chain, a backup of the same type (or higher tier) is pulled from your inventory into the same slot - keep harvesting without opening your inventory.
+
+Install
+
+- Download and open the .mcpack.
+
+- Enable the behavior pack in your world.
+
+No experiments required - works out of the box and keeps achievements enabled.
+
+Requires Minecraft Bedrock 26.0 or newer. Still on an older version? Download Sneak Harvest V3.3 from the Files tab. Not for Java Edition.
+
+Made by Thony

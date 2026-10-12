@@ -1,0 +1,11 @@
+The "Falling Minerals and Trees" addon for Minecraft Bedrock makes resource collection more efficient and dynamic. With it, when breaking a block from a tree, all the wooden blocks fall at once, making it easier to cut down trees. The same principle applies to ores: when mining a block, adjacent blocks of the same type also fall. This feature optimizes mining and cutting time, providing more fluid and practical gameplay.
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-yellow">When cutting a tree using any axe, the tree falls completely</mark>
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-yellow">When breaking any ore, all interconnected equal ores will also be broken.</mark>
+
+<figure class="image align-center"></figure>

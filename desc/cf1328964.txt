@@ -1,0 +1,21 @@
+My Mini 3D Totem
+
+This pack replaces the boring default Totem of Undying with a fun 3D mini version of your player! You can even use your own custom skin to make the totem look like a tiny version of you.
+
+How to add your custom skin:
+
+- Download and extract the pack.
+
+- Open the folder: NeBux/Totem/
+
+- Find the file skin.png.
+
+- Replace it with your Minecraft skin.
+
+Now your Totem of Undying will appear as a mini 3D version of yourself in-game!
+
+If you enjoy my packs and want to support my work
+
+Support Me on Ko-fi
+
+Your support means a lot thank you!

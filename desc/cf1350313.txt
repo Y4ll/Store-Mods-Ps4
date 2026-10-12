@@ -1,0 +1,44 @@
+This add-on brings a Realistic Truck with Functional Storage to your world! Behind the truck, you will find a Container packed with Chests to store and transport massive amounts of items. The Truck also comes with realistic Dynamic Headlights that illuminate the road while driving at night, custom Sounds, and smooth Animations.
+The Truck is fully Craftable in Survival Mode, making it the ultimate mobile warehouse for long expeditions, transporting building materials, and exploring your world in style.
+The Truck has many seats, so you can use it in Multiplayer with your friends.
+
+TRUCK PICTURES:
+
+VIDEO SHOWCASE:
+
+Thanks to WALTER Minecraft for allowing me to feature his video! :D
+
+HOW TO CRAFT THE TRUCK:
+
+1. Craft the Engine.
+
+2. Craft the Container.
+
+3. Craft the Truck (change the dye to change the color of the Truck).
+
+OTHER FEATURES:
+
+- Repairable: You can repair the Trucks health at any time using Iron Ingots or Iron Nuggets.
+
+- 16 Unique Colors & Shared Mobile Warehouses: By changing the dye during crafting, you can create 16 Different Truck Colors. Each color has its own independent container data saved across the world. The contents of a container cannot be loaded in two places at once to prevent item duplication.
+
+- Safe Parking & Smart Container Deployment: When you step out of the truck and leave it stationary, a safe countdown begins before opening the container. If you move the truck or get back inside before it finishes, parking is smoothly cancelled.
+
+- Smart 3D Obstacle Detection System: Before deploying the container, the truck automatically scans the 3D space behind it. It intelligently ignores natural foliage (grass, flowers, vines, moss...).
+If solid blocks (such as stone, wood, or walls) are blocking the area, the truck will not deploy and will send a detailed chat report telling you exactly which blocks are in the way (e.g., Blocking blocks: 14 stone, 6 dirt).
+
+- Anchored & Immobile While Parked: Once the container deploys, the truck is firmly anchored: it cannot be driven, pushed by mobs or pistons, or knocked around, protecting your container from glitching.
+
+- Easy Pickup & Hit to Store: Hitting the truck once safely saves the container, clears the blocks from the world, and drops the truck as a spawn item. You can place it down elsewhere and pick right back up where you left off.
+
+- Fully Customizable Container: The container layout is completely yours to modify! You can remove the default chests and replace them with crafting tables, furnaces, barrels, or any blocks you want. All modifications are automatically saved and reloaded whenever you park the truck again!
+
+FLYING VERSION HERE:
+
+If you want to share the addon, be sure to send the MCPEDL or CURSEFORGE addon link
+You can also find this content on the official ADDONS UNIVERSE App!
+Remember, this content is strictly exclusive to these 3 platforms.
+
+Thanks and have fun! :D
+
+|- Download Other Incredible Addons: HERE -|

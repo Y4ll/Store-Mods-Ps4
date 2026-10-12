@@ -1,0 +1,43 @@
+This add-on adds new kind of TNT :
+
+x10 TNT :
+
+This TNT is 10 times more powerful than standard TNT :
+
+The recipe of this TNT :
+
+Diamond TNT :
+
+This TNT transforms blocks around it into diamond blocks when it explodes :
+
+The recipe of this TNT :
+
+Instant TNT :
+
+This TNT will explode as soon as it is interacted with :
+
+The recipe of this TNT :
+
+Ice TNT :
+
+This TNT transforms blocks arount it into ice, packed ice, or blue ice when it explodes :
+
+The recipe of this TNT :
+
+Lightning TNT :
+
+This TNT spawns Lightning Bolts on impacted blocks!
+
+This recipe :
+
+Black Hole TNT :
+
+This TNT pull in surrounding items/entities during their fuse time.
+
+The recipe of this TNT :
+
+This add-on adds Dynamites :
+
+Dynamite can be thrown and explode ! And there is a dynamite for each TNT variant (including the vanilla one) ! :
+
+The recipe of a Dynamite :

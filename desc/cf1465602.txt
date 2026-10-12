@@ -1,0 +1,11 @@
+BS Shader (Zephyr)
+Makes your Minecraft gameplay look like an RPG game.
+
+This shader is not just an ordinary shaderit also gives an ocean-blue sky atmosphere, deep dark blue water that looks realistic like in real life, and realistic shadow effects. Your world will feel more alive with this shader. everything will look pop and warm and dynamic with this shader.
+
+turn on vibrant visual to activate this shader.
+
+credits: block_craft_addons
+
+REQUEST ADDON ON DISCORD
+(See the in-game screenshots below)

@@ -1,0 +1,91 @@
+The Newb X Dawn is back after a long time, now compatible with version v26.50+. It comes with improved skies and new features that I'm sure you'll like if you take a look.
+
+Newb X Dawn REIMAGINED
+
+- Sunset
+
+- Rain
+
+- Day
+
+- Water
+
+- Night.
+
+- Nether
+
+- End City.
+
+Featured
+
+- Skies similar to those of an RTX package.
+
+- Beautiful sunset and sunrise.
+
+- Reflection of the sky on the ground.
+
+- Water with realistic waves.
+
+- Shining Armor.
+
+- Support iOS
+
+- Nice End Sky.
+
+- Lighting a little similar to that of the RTX.
+
+- RTX-style volumetric clouds.
+
+- Beautiful nights and days.
+
+- Bloom on torches.
+
+- Glowing particles.
+
+- Movement in plants, crops, lanterns.
+
+- Complementary Clouds Reimagined.
+
+- Colorful environment based on my favorite RTX package.
+
+- Variety of shiny blocks.
+
+- Water depths with sun rays.
+
+- Sun rays.
+
+Changes
+
+- Mojang broke the shaders in v26.50, I've already fixed it.
+
+- Better fog in End and Nether.
+
+- New Sunset and Sunrise.
+
+- Better perfomance.
+
+Notes
+
+- One other little thing I forgot to mention, Newb X Dawn is in name only and because it is based on an RTX package, you don't need to have an RTX to use this variant, you can run it on any device.
+
+- You must place this shader above the other active packs to avoid errors.
+
+- Need Minecraft v26.50 and MBLoader.
+
+- Need Minecraft Hynis in iOS.
+
+- You need Wyvern for Windows, in case it does not work, use the method of replacing material.bin files with Maject.
+
+- I recommend that you the old version of this shader if you have it installed to avoid errors.
+
+- This shader is only compatible with Android,Windows and iOS
+
+- Use this mcpedl link if you want to share this shader.
+
+- Please do not create another link for this shader.
+
+- This shader may not be supported on some devices, if so tell me about the error on my Discord.
+
+- Credits: Ale
+
+If you want to have better quality content, I invite you to donate your grain of sand.

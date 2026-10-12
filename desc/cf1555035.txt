@@ -1,0 +1,146 @@
+"More TNT (rework)" is a rework for update "More TNT Addon" by CodanRaigen.
+
+More TNT add-on adds more than 20 new explosives to the game! Molotovs, grenades, missiles, and even a black hole!
+
+This add-on finally adds new explosive blocks that range from twice the power of your regular TNT to the massive nuclear blast.
+
+Crafting
+
+You can craft the new items using the recipe tab. Due to a bug, custom blocks recipes can't be viewed (Hopefully, this will be fixed in the future).
+
+Blocks
+
+There are a total of 12 blocks of new TNT added by this add-on. Some of the newly added TNT have differing fuse duration so keep that in mind. You need flint and steel to trigger all of them (except for the C4).
+
+TNT x2, x4, x8
+
+These are pretty self-explanatory, the power is multiplied by two, by four, or by eight.
+
+Bedrock buster
+
+This TNT has the special ability to blow up bedrock!
+
+Cryocharge
+
+This TNT has the special ability to freeze nearby entities, as well as freeze surrounding water into ice and lava to cobblestone.
+
+Dynamite
+
+This TNT has the special ability to turn into a cluster and destroy an even larger area
+
+Napalm
+
+This TNT is the polar opposite of the Cryocharge (mentioned above). It has the ability to set an area ablaze and continuously explode its area.
+
+C4
+
+This TNT cannot be lit by flint and steel, instead it can be activated by interacting with its detonator. The range of the detonator is 60x60x60 blocks, you can detonate this bomb from a safe distance, it will activate any C4 placed within that area! After a C4 is activated, it will sound an alarm to anyone nearby. The more C4 activated, the louder the alarm becomes.
+
+## Nuke
+This is by far the most destructive bomb in the previous version. Complete with a radioactive sickness effect from within the range of the blast and a dark mushroom cloud.
+![image](https://media.forgecdn.net/attachments/description/null/description_57c87576-1d26-403b-84a6-c671f87b783a.png)
+![image](https://media.forgecdn.net/attachments/description/null/description_53ff437d-24d7-48ed-8f26-e4d45a1f55e9.png)
+## Hydrogen bomb **not fully implemented**
+The utmost destructive bomb that this add-on has to offer! It's three times more destructive than the nuke, it also has a white-out mushroom cloud. No radioactive sickness from this bomb but a 20-second fuse should allow you to escape in time
+
+Sticky bomb
+
+This is a normal TNT that is stuck to a cobweb when triggered. It sticks to any surface and won't be coming down.
+
+Tesla Bomb
+
+This is a powerful bomb that can generate lightning bolts in a medium-sized area. The destructive explosion will burn an area and the lightning bolts won't be helping either.
+
+Throwable bombs
+
+These are bombs that you can throw for yourself.
+
+Throwing them
+
+To throw them, simply aim and interact with the item as if you were throwing a snowball. Note that some of these bombs have varying weights so be careful when using them.
+
+Caber
+
+- power 3
+
+TNT sticks
+
+- power 3 - 24
+
+Frag grenade
+
+- power 5
+
+- breaks no blocks
+
+- fragment particles
+
+- fuse is lit when it lands
+
+Smoke grenade
+
+- no explosion
+
+- blinds entities near explosion
+
+Stun grenade
+
+- power 1
+
+- breaks no blocks
+
+- freezes entities within explosion
+
+Dynamite stick
+
+- power 5
+
+Tear gas
+
+- No explosion
+
+- entities near the explosion gets blidness and nausea
+
+Generic bomb
+
+- familiar shapre
+
+- power 5
+
+- fuse is lit when it lands
+
+Molotov
+
+- power 2
+
+- spreads fire
+
+Potassium charge
+
+- power 4
+
+- explodes on condition getting wet (weather, water, etc)
+
+Phosphorus charge
+
+- no explosion
+
+- entities near explosion get blindness and damage
+
+Singularity grenade
+
+- inspiration taken from Pixel Gun 3D
+
+- breaks no blocks
+
+- sucks entities in (including players)
+
+- entities inside the hole gets killed
+
+Missile launchers
+
+You can activate these items by using it like a bow ( and make sure to aim too ).
+
+You can reload them by placing an empty launcher in a crafting grid with the rocket of your choice.
+
+Using these items will return 

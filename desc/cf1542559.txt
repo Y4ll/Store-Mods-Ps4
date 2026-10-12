@@ -1,0 +1,48 @@
+Everything in a Bucket Feature Overview
+
+Configuration and Customization You can easily configure the Add-On in-game using the Settings Bucket item. Simply right-click/use the item to open a clean user interface where you can toggle features, adjust capture requirements, and even customize the lore format on your buckets.
+
+Mob Capturing
+
+- Catch Everything: Capture almost any vanilla mob simply by interacting with them while holding an empty bucket. You can configure the addon to require sneaking to prevent accidental catches.
+
+- Boss Mobs: Enable boss capturing in the settings and use a special Boss Bucket to catch powerful entities like the Ender Dragon, Wither, Warden, or Elder Guardian.
+
+- Custom Mobs Support: Playing with other Add-Ons? Use the Empty Custom Bucket to catch entities from other mods. You can even filter and toggle exactly which custom entities are allowed to be captured via a built-in search menu!
+
+Data Preservation & Immersion
+
+- Perfect Entity Saving: The Add-On saves the exact state of the mob. Health, baby status, tamed status, collar colors, and specific variants are perfectly preserved and restored when you place the mob back down.
+
+- Detailed Bucket Lore: When you capture a mob, the filled bucket displays detailed information in its lore, including the mob's name, ID, current/max health, age, and tame status. You can customize what info is shown or turn it off entirely.
+
+- Immersive Sounds & Costs: Play splashing sounds when catching or releasing mobs, and configure whether an empty bucket should be consumed upon capture.
+
+Quality of Life
+
+- Entity Info (WAILA): Enable the "Show Entity Info" feature in the settings to display the name, ID, and exact health of any entity you are currently looking at right above your hotbar.
+
+Items Overview
+
+- Settings Bucket: Opens the configuration menu. Can be given to new players automatically on join.
+
+- Boss Bucket: Specifically reinforced to hold boss entities.
+
+- Empty Custom Bucket: Used to capture unknown entities added by other Add-Ons.
+
+- Filled Buckets: Over 80+ unique bucket items for every vanilla mob!
+
+Crafting Recipes:
+Boss Bucket
+
+Custom Bucket
+
+**
+
+Beta API does not need to be enabled. Achievements remain obtainable, and this pack does not disable them.
+
+This Add-On works for any Minecraft Bedrock version above 1.21.90
+
+Join my Discord:
+
+Support On Kofi:

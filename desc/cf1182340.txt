@@ -1,0 +1,35 @@
+Do you want to know how much damage your weapon does? Then don't wait any longer and attack a target dummy.
+
+You can place it like any other entity in the game, just make sure you have the item in your hand. The Target Dummy has 8 different rotations, and depending on the direction you place it, its rotation will change, similar to the Armor Stand.
+
+Main Features
+
+The Target Dummy can be placed anywhere in the world or in any dimension. When you hit it, it will perform a dynamic animation. In other words, if you hit it, it will lean in the opposite direction. Additionally, it will display the exact amount of damage it received.
+
+To remove it, crouch and right-click (interaction button on mobile).
+
+- Compatible with any Add-on or Texture pack
+
+- You can use it to train and refine your skills.
+
+- It is useful for knowing the exact damage your weapons deal.
+
+- It does not replace any Vanilla Minecraft entities.
+
+- It's easy to craft.
+
+Screenshots
+
+Installation Notes
+
+To enjoy this add-on comfortably, make sure you have correctly downloaded the following files in their corresponding versions:
+
+- TargetDummy [Bp].mcpack
+
+- TargetDummy [Rp].mcpack
+
+Both files are required for the add-on to function correctly. (One handles all behaviors and scripts, while the other provides the textures, so be sure to download both)
+
+Experimental settings
+
+This add-on does not require any experimental settings to be enabled. You can enjoy all of its content without disabling achievements in your world.

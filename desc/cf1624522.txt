@@ -1,0 +1,21 @@
+A clean and simple PvP texture pack designed to improve visibility, reduce visual clutter, and provide a smoother combat experience for Bedwars, Skywars, and other PvP gameplay.
+
+Features
+
+- PvP-focused item and weapon textures
+
+- Shorter, cleaner swords
+
+- Simplified textures for easier visibility
+
+- Cleaner visuals for combat
+
+- Reduced visual clutter
+
+- PvP-friendly projectile textures
+
+- Retextured armor and items
+
+- Great for Bedwars, Skywars, Survival PvP, and more
+
+Perfect for players who want a cleaner PvP experience while keeping the classic Minecraft style.

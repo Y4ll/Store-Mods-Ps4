@@ -1,0 +1,29 @@
+Smelting Plus is a simple addon for Minecraft Bedrock that allows for better recycling when you smelt your found or crafted items.
+
+Instead of only receiving a gold or iron nugget, you will now receive an ingot.
+
+Install this addon on your world easily and recover one ingot from each tool or armor. It is also possible to melt diamond and netherite items.
+
+Works with furnace and blast furnace.
+
+The list of items you can smelt
+
+- iron pickaxe, iron axe, iron hoe, iron sword, iron helmet, iron chestplate, iron leggings, iron boots, iron horse armor.
+
+- golden pickaxe, golden axe, golden hoe, golden sword, golden helmet, golden chestplate, golden leggings, golden boots, golden horse armor.
+
+- diamond pickaxe, diamond axe, diamond hoe, diamond sword, diamond helmet, diamond chestplate, diamond leggings, diamond boots.
+
+- netherite pickaxe, netherite axe, netherite hoe, netherite sword, netherite helmet, netherite chestplate, netherite leggings, netherite boots.
+
+- bucket, hopper, and shears
+
+The list of items you will get
+
+- iron ingot
+
+- golden ingot
+
+- diamond
+
+- netherite ingot

@@ -1,0 +1,103 @@
+SERP Additions (Mining and Cooking Update) is a complementary add-on for Serp Pokedrock, designed to expand the game's content with new mining, cooking, advanced crafting, and quality-of-life mechanics, while maintaining a consistent and polished aesthetic.
+
+For a complete visual experience, this add-on is designed to work seamlessly with the SERP Reworked Texture Pack.
+
+New
+
+(Unfortunately, everything new is currently in Spanish. I will try to translate everything into English to make it more universal and understandable for everyone.)
+
+Daycare:
+
+A new breeding system has been created. With the new Day Care machine, you can store up to 6 Pokemon to breed. You can also add up to 2 other people to bring their Pokemon and create the perfect Pokemon.(To open the menu, you must have the Pokedex in your hand and press the action button.)
+
+(A chest must be placed to the left of the machine so that the eggs can be generated inside)
+
+This won't work if the player moves too far away and isn't charged. To prevent this, use this command standing next to the machine to keep it charged. It may or may not cause lag and can only be used 10 times. (Change where it says "(Name)" and put something like daycare1)
+
+Comand: /tickingarea add circle ~~~ 2 (Name)
+
+New Pokemon eggs:
+
+These eggs will hatch from the Day Care when two Pokemon of the same species or from the same Egg Group are placed there (there's a book to determine which Pokemon belong to each Egg Group, which can be obtained at the crafting table). Each egg has a predefined hatching time of 2 minutes. These eggs must be in your inventory at all times for the timer to count down. If they are placed in a bag or any other storage container, the time will not decrease. Each egg displays all the information about the Pokemon that will hatch:
+
+(They can also be created manually using an object called Egg Editor in the creative menu)
+
+More Equipables:
+
+Eight new equippable items have been added to Pokemon, along with the Shiny Charm (which increases the chance of encountering Shiny Pokemon both in the Day Care and in the wild when held in your inventory). These items will help train Pokemon's EVs more efficiently (in the Day Care, they will pass on a specific IV from the parent holding the item, and the Everstone will pass on the Pokemon's Nature). The Everstone will prevent the Pokemon from evolving, which is for those who like their Pokemon just as it is.
+
+All the items are found at the crafting table; the Everstone is dropped by Geodudes when they are defeated.
+
+Pokeball capture rate:
+
+A description was also added to the Poke Balls that informs about the capture rate of each one and some special functions of each Poke Ball:
+
+Principal content:
+
+Mega Earrings with color variations
+
+Mega Sunglass
+
+Maxi Wristbands with color variations
+
+(Designs intended to visually integrate with SERP Reworked)
+
+Rotom phones available in up to infinite combinations dyeing them with the cauldrons:
+
+Included features:
+
+Bank
+
+Portable PC
+
+Kitchen & Food
+
+Edible dyes in 16 colors
+
+(Colors and designs adapted for best viewing with SERP Reworked)
+
+Sugar cube:
+
+New crafting recipes for:
+
+Dynamax Candy
+
+XP Candy
+
+New variations of these:
+
+(Yellow candy is not obtainable in survival mode)
+
+(XS rare candies are found at PokeStop)
+
+(Using these candies will prevent your Pokemon from learning moves as it levels up)
+
+Unrefined Potions:
+
+Craft them first
+
+Refine them later in a furnace
+
+Mints that change the nature of Pokemon
+
+25 different mints
+
+New Plants:
+
+3 new plants
+
+2 kitchen plants:
+
+1 special plant for obtaining mint leaves
+
+Compressible Evolution Stones
+
+Mega Stone Geode and Key Stone Fragments
+
+Generation between -30 and -60:
+
+New Ores
+
+-Ruby ore and sapphire ore have been added; the latter will appear in layers -12 to -60. It is slightly better than diamond but not better than netherite, and they peck with a diamond pickaxe:
+
+(A ruby spear and a sapphire mace were also added, and the bricks of said minerals a

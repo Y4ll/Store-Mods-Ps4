@@ -1,0 +1,155 @@
+SAITAMA ADDON BECOME THE ONE-PUNCH HERO!
+
+Supported Versions: Minecraft Bedrock 1.21.50+
+
+Ever wanted to experience what it feels like to be Saitama?
+
+This addon turns you into the legendary One-Punch Man with a complete combat system featuring cinematic attacks, devastating shockwaves, super-speed movement, afterimages, massive explosions, and a 5-level Power system.
+
+Punch harder. Move faster. Destroy everything in your path.
+
+FEATURES
+
+Powerful Saitama Combat System
+Cinematic Camera Effects
+Super-Speed Sprinting
+Afterimages while running in Serious Mode
+Destructive Shockwaves & Craters
+5 Serious Power Levels 20% 100%
+Normal & Serious versions of every main attack
+Custom sounds, particles and attack animations
+Skill cooldowns displayed on screen
+
+Your hotbar becomes a dedicated Saitama Skill Bar, giving you quick access to every ability.
+
+HOW TO BECOME SAITAMA
+
+Forget complicated armor setups.
+
+1 Craft the Saitama Glove
+
+You need:
+
+Craft the glove on a Crafting Table.
+
+2 Activate the Glove
+
+Hold the Saitama Glove and right-click / use it.
+
+Your transformation begins instantly!
+
+The addon automatically equips the Saitama suit, activates your passive powers and replaces your hotbar with the Skill Bar.
+
+Your normal items are temporarily stored during transformation and restored when you return to normal.
+
+SKILL SYSTEM
+
+Every attack has its own cooldown, and the cooldown message appears directly on your screen.
+
+Choose a skill from the hotbar and right-click / use it to activate the ability.
+
+1. PUNCH / SERIOUS PUNCH
+
+Normal Mode Punch
+
+A fast, powerful strike that sends your target flying.
+
+Aim at a mob and activate the skill to dash toward the target and punch it.
+
+If no target is selected, Saitama can still perform the attack at his current position.
+
+Serious Mode Serious Punch
+
+Now things get serious.
+
+Saitama performs a cinematic punch sequence while a devastating shockwave tears through the world in front of him.
+
+Massive damage
+Destructive shockwave
+Breaks blocks along the attack path
+Cinematic camera sequence
+Extremely powerful single-target hit
+
+At higher Power Levels, the shockwave becomes dramatically larger and reaches much farther.
+
+2. CONSECUTIVE PUNCHES
+
+Turn your enemy into a punching bag.
+
+Normal Mode
+
+Release a rapid barrage of consecutive punches with custom attack animations, particles and impact effects.
+
+Serious Mode Consecutive Serious Punches
+
+A much more violent version of the attack.
+
+Dozens of rapid punches
+Multiple afterimages around Saitama
+Continuous impact effects
+The attack can carve a destructive path through blocks
+Becomes stronger with your Power Level
+
+The higher your Power, the longer and more devastating the barrage becomes.
+
+3. JUMP / SERIOUS JUMP
+
+Saitama doesn't simply jump.
+
+He launches himself.
+
+Normal Jump
+
+Charge up, launch forward in the direction you're looking, then create an explosive impact when you land.
+
+High-speed launch
+Landing explosion
+Custom jump and landing animations
+
+Serious Jump
+
+Charge your power before launching into the sky.
+
+When you hit the ground:
+
+Massive explosion
+Large impact crater
+Powerful shockwave
+Screen-shaking effects
+Cinematic landing sequence
+
+Higher Power Levels increase the landing explosion and crater size, making every landing more destructive.
+
+SERIOUS MODE
+
+Ready to stop holding back?
+
+Use the Mode Switch skill to enter SERIOUS MODE.
+
+Once activated:
+
+Your sprint becomes dramatically faster
+Running leaves Saitama afterimages behind you
+Punches become Serious Punches
+Consecutive Punches become Serious Series attacks
+Jump becomes Serious Jump
+Attack effects become larger and more intense
+
+This is where the addon truly starts to feel like Saitama.
+
+5 POWER LEVELS
+
+Serious Mode contains a dedicated Power Level system.
+
+Power progression:
+
+20% 40% 60% 80% 100%
+
+Increase your Power Level through the Power Level skill.
+
+As your power rises:
+
+Punch damage increases
+Shockwave range increases
+Destruction radius increases
+Consecutive Punches become stronger

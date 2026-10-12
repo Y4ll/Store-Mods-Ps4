@@ -1,0 +1,31 @@
+Minimap Add-on
+
+Never get lost again! This lightweight Minimap Add-on adds a clean, circular minimap to the top-right corner of your screen, making exploration easier without cluttering the HUD.
+
+Features
+
+Circular minimap in the top-right corner
+
+Real-time terrain rendering
+
+Player position indicator
+
+North, East, South, and West compass
+
+Live coordinates (X, Y, Z)
+
+Current biome display
+
+Mobile-friendly UI
+
+Lightweight and optimized for performance
+
+Compatible with the latest Minecraft Bedrock Edition
+
+Perfect for survival, exploration, and adventure worlds. The minimap is designed to blend naturally with Minecraft's interface while staying out of the way of gameplay.
+
+Version: 1.0.0
+
+Author: RyzenMc666
+
+https://youtu.be/x_Zhtw_2s2Y?si=yp-_gWHQB-vwBSS7

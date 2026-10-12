@@ -1,0 +1,13 @@
+Tired of using normal Xray packs? Introducing Glow Xray! Once you try this pack, youll immediately see how it stands out. It makes all ores glow, so you can easily spot them while using Xray. Works perfectly on servers, survival, and single-player worlds.
+
+Benefits: Easily locate ores while mining without wasting time. Makes underground exploration simple by revealing ores clearly and reducing extra effort in digging.
+
+Subpacks:
+
+- Xray 100%: All underground blocks, lava, water, and other non-ore blocks are transparent. Reveals everything for maximum mining efficiency.
+
+- Xray Essential: Only stone, deepslate, and netherrack are transparent. Lava, water, and other obstacles remain visible, reducing risk while still allowing easy ore spotting.
+
+Compatibility: Works smoothly with most vanilla-style texture packs and doesnt affect performance. Fully compatible with survival and creative modes.
+
+Important: To use this pack, ensure Vibrant Visuals are turned ON in your game settings. Without this, the pack will not work properly.

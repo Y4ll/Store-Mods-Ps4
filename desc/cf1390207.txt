@@ -1,0 +1,207 @@
+MorphX
+
+Bedrock Morph Add-on MorphX is a powerful Minecraft Bedrock morphing add-on that allows the player to transform into dozens of unique creatures, machines, animals, and fantasy entities. With one simple tap, you can take the shape, animations, hitbox, movement style, and abilities of any supported entity.
+
+This add-on is perfect for Survival gameplay, roleplay, adventures, challenges, and content creators.
+
+Features
+
+Instant Morph System Choose any morph and instantly transform into that entity.
+
+60+ Unique Morphs The add-on includes a wide range of morphs:
+
+Vanilla Minecraft Mobs
+
+Warden
+
+Wither
+
+Enderman
+
+Creeper
+
+Zombie
+
+Zombie Villager
+
+Skeleton
+
+Stray
+
+Slime
+
+Ghast
+
+Drowned
+
+Husk
+
+Piglin
+
+Zoglin
+
+Witch
+
+Vex
+
+Vindicator
+
+Pillager
+
+Iron Golem
+
+Snow Golem
+
+Allay
+
+Goat
+
+Llama
+
+Panda
+
+Pig
+
+Cow
+
+Chicken
+
+Sheep
+
+Cat
+
+Wandering Trader
+
+Mechanical / Tech
+
+Pikachu
+
+Mech Rabit
+
+Mech Ravager
+
+Mech Puffer
+
+Mech Creeper
+
+Robot
+
+Speedboat
+
+Fantasy / Mythical
+
+Werewolf
+
+Underlord
+
+Pontifex Mage
+
+Goblin
+
+Charizard
+
+Lampeo
+
+Jinlei
+
+Bracheo
+
+Aquatic Creatures
+
+Narwhal
+
+Narwhal 2
+
+Hammerhead
+
+Cachalote
+
+Fishleon
+
+Arkulo
+
+Dolphin
+
+Animals / Reptiles
+
+Crocodile
+
+Buffalo
+
+Hadro
+
+European Butterfly
+
+Asian Dragon
+
+Augustoleon
+
+Snake
+
+Every morph has a unique size, animations, and movement style.
+
+Why MorphX?
+
+Smooth and lag-free models
+
+Survival-friendly morph system
+
+Unlock-based progression
+
+Roleplay friendly
+
+Works on Minecraft Bedrock 1.21
+
+Works on almost all devices
+
+Installation Guide
+
+Follow all 5 steps for the add-on to work properly: Download MorphX.mcaddon
+
+Open the file Minecraft will import it
+
+Go to World Settings Experiments and enable these 5 features:
+
+Holiday Creator Features
+
+Custom Biomes
+
+Upcoming Creator Features
+
+Molang Features
+
+Beta APIs (if available on your device)
+
+Go to Behavior Packs and Resource Packs
+
+Activate MorphX in both sections
+
+Start the world
+
+How Morphing Works
+
+You get the Soul Stone in Creative Mode The Soul Stone is the morph controller item. Use it to open the morph menu.
+
+Kill an entity to unlock its morph When you kill any supported entity, its morph will automatically unlock inside the Soul Stone.
+
+The more mobs you defeat, the more morphs you unlock.
+
+In game Screenshots
+
+Menu
+
+Creator Info:
+
+Created by Kareo Gamerz
+
+YouTube : @kareogamerz
+
+License
+
+All Rights Reserved This addon was created by Kareo Gamerz.
+
+You are not allowed to redistribute, modify, or reupload this addon on any other platform without the creators permission.
+
+You may, however, make videos or showcase this addon on YouTube or social media please provide credit and a link to the original CurseForge or MCPEDL page.
+
+2025-2026Kareo Gamerz All Rights Reserved.

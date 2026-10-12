@@ -1,0 +1,63 @@
+<figure class="image"></figure>
+
+Craft to many walls? Not a problem!
+
+Just craft them back into the blocks you used to make them!
+
+<figure class="image"></figure>
+
+Craft trapdoors back into planks!
+
+<figure class="image"></figure>
+
+Doors too!
+
+<figure class="image"></figure>
+
+Now you can craft your wool into string!
+
+<figure class="image"></figure>
+
+Or Quartz blocks back into Nether Quartz!
+
+Some of the recipes include:
+
+Crafting:
+
+- Slabs to Blocks
+
+- Walls to Blocks
+
+- Doors to Blocks
+
+- Buttons to Blocks
+
+- Pressure Plates to Blocks
+
+- Trapdoors to Blocks
+
+- Clay Block to Clay Ball
+
+- Quartz Block to Nether Quartz
+
+- Leather Armor to Leather
+
+Smelting:
+
+- Iron Bars to Nuggets
+
+- Iron Doors to Ingots Iron
+
+- Trapdoors to Ingots
+
+Stonecutter:
+
+- Glass to Sand
+
+- Diamond Armor to Diamond
+
+The Little Things addon only adds recipes for Vanilla Minecraft blocks and items, it does not add any new blocks of features to your worlds!
+
+The Little Things addon can even be added to existing worlds!
+
+Have an item that you craft to many of that is not in the pack? Then comment below and it just might get added in the next release!

@@ -1,0 +1,154 @@
+Sanity Addon 2.0
+
+Bring a new layer of challenge to Minecraft with the Sanity Addon! This addon introduces a sanity system that players need to monitor alongside their health. Your sanity decreases in dark areas, during storms, or when exposed to hostile mobs for too long. Stay near light sources, sleep, and avoid prolonged danger to maintain your sanity. If it drops too low, you might experience hallucinations or other hazardous effects. Its time to manage your mental state while exploring the world of Minecraft!
+
+Sanity Mechanics
+
+Light Levels (20s/c)
+
+Light Level (LL)
+Sanity Change
+
+LL 13
++3 sanity
+
+LL 10
++2 sanity
+
+LL 8
++1 sanity
+
+LL = 7
+-1 sanity
+
+LL = 6
+-2 sanity
+
+LL = 5
+-3 sanity
+
+LL 4
+-4 sanity
+
+Food Quality (u/i)
+
+Food Quality
+Sanity Change
+
+High
++10 sanity
+
+Medium
++5 sanity
+
+Raw
+-5 sanity
+
+Low
+-10 sanity
+
+Flower in Inventory (12s/c)
+
+If the player has a flower in their inventory, there is a 40% chance of receiving +2 Sanity every 12 seconds.
+
+Kill Mobs
+
+For each mob the player kills, 2 sanity points will be taken away.
+
+Take Damage
+
+For each damage point the player receives, twice the damage value will be subtracted from their sanity.
+
+For example, if the player takes 10 damage, 20 sanity points will be subtracted.
+
+Change Dimension
+
+When the player changes dimension, 20 sanity points will be subtracted.
+
+Wear Garland (40s/c)
+
+If you equip a Garland in your helmet slot, it will:
+
+- Restore +10 sanity every 40 seconds.
+
+- Subtract 10 durability points from the Garland each time.
+
+Nearby Mobs (20s/c)
+
+When there are more than 10 monsters near you, it will begin to decrease 1 sanity for each monster, up to a maximum of 20 monsters every 20 seconds.
+
+Life Increase
+
+For each point of health recovered, +2 sanity will be added.
+
+Respawn
+
+When you respawn, instead of recovering 100 sanity, you will only recover 75 sanity.
+
+Sanity Events
+
+Sanity < 40: (Hallucinations)
+
+- Blindness
+
+- Eye hallucinations
+
+- Heartbeats
+
+- Murmurs
+
+- Other visual/auditory hallucinations
+
+Sanity < 10: (Random Effect)
+
+- Slowness
+
+- Mining Fatigue
+
+- Nausea
+
+- Hunger
+
+- Weakness
+
+- Poison
+
+- Wither
+
+- Fatal Poison
+
+Sanity Upgrades
+
+Tired of struggling with low sanity levels? Now you can enhance your sanity capacity with these exciting new upgrades!
+
+Each upgrade level adds 100 extra sanity points to the previous one.
+
+Upgrade Template
+
+Iron Upgrade (lv1)
+
+Gold Upgrade (lv2)
+
+Requires having the iron upgrade.
+
+Diamond Upgrade (lv3)
+
+Requires having the gold upgrade.
+
+Downloads (CF Redirect for mobile users)
+
+Resource Pack
+
+Behavior Pack
+
+Important
+
+This addon uses player.json, so make sure you have it in preference of all addons in RP and BP
+
+This addon doesn't use experimental modes
+
+Doubts or suggestions?
+
+Join our Discord here
+
+Follow me on Instagram!

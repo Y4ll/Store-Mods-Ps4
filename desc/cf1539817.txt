@@ -1,0 +1,179 @@
+JUNE 22, 2026 - v1.0.41
+
+Bug Fixes
+
+- Fixed an issue where placed suspicious stews won't drop.
+
+- Fixed an issue regarding placing bowls.
+
+Adjustments
+
+- Minor texture adjustments.
+
+- Changed and reduced pack_icon image size.
+
+JUNE 21, 2026 - v1.0.4
+
+The CORNIEST UPDATE has arrived!
+
+What's New?
+
+- Corn
+
+- Corn Crate
+
+- Grilled Corn
+
+- Corn Bread
+
+- Corn Stew
+
+- Creamed Corn
+
+- Gain XP when harvesting fully grown crops!
+
+- New crops can now be found in shipwrecks, pillager outpost, and bonus chest.
+
+Changes and Adjustments
+
+- Ropes now connect to each other and other certain blocks.
+
+- Stoves are now on by default when placed.
+
+- Cookie Bowl now provides Haste 2 instead of Haste 1.
+
+- Chicken Soup now requires corn.
+
+- Nerfed Saturation value of some misc foods.
+
+Optimizations and Improvements
+
+- Some Block Models and Texture Changes.
+
+- Some Guidebook text improvements.
+
+- Backend Optimizations.
+
+Bug Fixes
+
+- Reverted changes to farmer villagers causing some issues related to experimental settings.
+
+-----------------------------------------------------------------------------------------------------------
+
+ACHEIVEMENT FRIENDLY and SUPPORTS VIBRANT VISUALS
+
+REFINED FARMING DESC.
+
+NEW Blocks
+
+Cooking Pot
+
+- Cook a variety of new soups and stews.
+
+Cutting Boards
+
+- Slice and process items and blocks.
+
+Stoves
+
+- Cook food on top of it or use it as a heatsource for your cooking pot. Don't step on it though!
+
+Crates and Barrels
+
+- Craft those raw meat and crop items into compact blocks for storage and decoration.
+
+Paper lanterns
+
+- Light up your area with style!
+
+Counters
+
+- Complement your stove in your kitchen!
+
+New Crops
+
+- Grow and harvest Tomatoes, Corn, and Cabbages!
+
+Rope
+
+- Interact to climb and descend safely.
+
+Safety Net
+
+- Land safely on it at any height!
+
+NEW Items
+
+Food Items
+
+- Over 50 new different food items.
+
+- 53 if you include the crops XP
+
+Knives
+
+- Slice and dice blocks and items on cutting boards or use it as a weapon. Chance for extra loot to drop from slaining certain mobs like chicken and sheep.
+
+NEW Mechanics
+
+Food Points
+
+- Eating food items grants food points, with each item adding or deducting a specific amount. Better foods give more points, while worse foods deduct more points.
+
+- Reaching a certain amount grants you with 10 minutes of health boost. Duration can stack.
+
+- Eating when not hungry will not grant food points this excludes food items that deduct food points.
+
+Seed Replanting
+
+- Breaking a crop while holding a seed will automatically replant it. While holding any hoe, it replants seeds in your inventory.
+
+XP from Harvesting Crops
+
+- Gain XP from harvesting certain fully grown crops! (Can be toggled)
+
+Penalty Effect System
+
+- Eating certain food items will provide a positive buff or effect but comes with a trade off after it wears out. (NOTE: Will be expanded in future versions)
+
+VANILLA CHANGES
+
+ADJUSTMENTS:
+
+- All bowl based food items are now stackable to 16 except for suspicious stews.
+
+- Suspicious Stews are now crafted with mushroom stew and flower.
+
+- All raw meat now has a chance to give hunger like raw chicken.
+
+- Cakes can now be taken back when broken as long as it has no bites.
+
+- Pumpkin Pie cannot be consumed by hand anymore. It is placeable like cake instead.
+
+- Changed some Villager Economy Trade Tables and added new Wandering Trader Trades.
+
+BUFFS:
+
+- Vanilla Cake now heals 0.6 health per slice.
+
+- Vanilla Cake can now be eaten even when not hungry.
+
+- Milk Bucket can now clear penalty effects.
+
+- Cookie, Dried Kelp, Melon Slice, Sweet Berries, and Glow Berries can be eaten much faster.
+
+- Honey Bottle now clears fatal poison.
+
+- Beetroot Soup nutrition from 6 > 8 and saturation from normal > good.
+
+- Mushroom Stew nutrition from 6 > 8 and saturation from normal > good.
+
+- Rabbit Stew nutrition from 10 > 14 and saturation from normal > good.
+
+- Raw Fish and Raw Salmon saturation from poor > low.
+
+NERFS:
+
+- All Raw Meat now has a nutrition of 2.
+
+- All Cooked Meat now has a n

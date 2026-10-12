@@ -1,0 +1,76 @@
+Iron Furnaces (Unofficial Post!) - Bedrock Edition
+
+Unofficial adaptation of the Iron Furnaces mod (Java Edition) for Minecraft Bedrock.
+
+Original creator (Java): XenoMustache
+
+Mod original:
+
+Iron Furnaces
+
+All credit and ideas come from the original Java mod.
+
+Important Notice
+
+This add-on was developed without direct authorization from the original creator, due to the impossibility of contacting them through their social media.
+All credit for the original idea and concept of the mod belongs to the developer of the Java version.
+
+DustVeyn Studio WhatsApp Channel
+
+Want to stay up to date with all my Minecraft Bedrock Add-Ons?
+
+Join the official DustVeyn Studio WhatsApp Channel to receive update notifications, new releases, sneak peeks, and important announcements before anyone else.
+
+Don't miss the next Add-On!
+
+https://whatsapp.com/channel/0029VbCm4r1GufIsgct40G1o
+
+Join the DustVeyn Community!
+
+Looking for support, sneak peeks, development updates, or a place to share your ideas?
+
+Join my Discord server!
+
+- Get help with my add-ons
+
+- Be the first to see upcoming updates
+
+- Access exclusive previews and announcements
+
+- Share feedback and suggest new features
+
+Discord
+
+https://discord.gg/fh2v8XPyXw
+
+If you enjoy this project, consider joining our community to stay up to date with future releases and support the development of more Minecraft Bedrock add-ons!
+
+DustVeyn Studio
+
+Want to discover more Add-Ons for Minecraft Bedrock?
+
+Visit the DustVeyn Studio website to explore all my projects, see the latest news, and stay up to date on upcoming releases.
+
+https://dustveyn-studio.netlify.app/
+
+Add-On Creator: DustVeyn Studio
+
+Features
+
+- Adds 9 new furnaces, ranging from Copper to Rainbow.
+
+- Adds 4 augments: Blasting, Smoking, Speed and Fuel.
+
+- The furnaces contain 2 interfaces: one for heating items and another for augments.
+
+- Click the button in the corner of the interface to switch between them.
+
+- The Blasting and Smoking augments go in the red slot, while the Speed and Fuel augments go in the green slot. The blue slot doesn't have an augment yet.
+
+Add-On Compatibility
+
+- Added compatibility with other add-ons.
+
+- Items, ores, and other contents from other add-ons that can be smelted in the furnace are now supported. On first use, wait about 10 seconds for them to be registered.
+
+REQUIRED: Install both the RP and BP files. Pay close attention to this step!

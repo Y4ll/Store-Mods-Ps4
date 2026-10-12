@@ -1,0 +1,9 @@
+If you're familiar with Animal Hospital Anomaly, you'll recognize the 10 characters included in this addon. These are the characters that have transformed into Mimics. Additional Anomaly characters may be added in future updates.
+
+Animal Hospital Anomaly Addon Update V1.1.3:
+
+- Reduced installed size from 278 MB to 6.12 MB.
+
+- Added Spawn Rules. Skinwalkers now naturally spawn throughout the Minecraft world.
+
+Below are screenshots of the Skinwalker characters included in this addon:

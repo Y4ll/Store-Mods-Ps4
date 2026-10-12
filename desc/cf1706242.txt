@@ -1,0 +1,45 @@
+Orbital Strike Cannon: Authentic adds five devastating weapons to Minecraft Bedrock: the Nuke Shot, Stab Shot, Wolf Shot, Arrow Cannon, and Wither Shot.
+
+Go check out the original: https://www.curseforge.com/minecraft-bedrock/addons/nikolais-orbital-strike-cannon/comments
+
+Or: https://www.curseforge.com/minecraft-bedrock/addons/remote-stasis-chamber-addon
+
+The Nuke Shot fires a precision orbital marker in the exact direction you're aiming. On impact, it detonates a massive ring explosion that obliterates everything in its path.
+
+The Stab Shot sends a vertical column of destruction straight through the world from bedrock to the sky, destroying anything in its way.
+
+The Wolf Shot calls down a pack of wolves onto your target customise how many, their effects, and even their names.
+
+The Arrow Cannon rains a concentrated barrage of arrows from the sky, with adjustable concentration, spread, and range. Optional exploding arrows included!
+
+The Wither Shot unleashes a massive barrage of explosive wither skulls that spread out into a ring formation and explode on impact - tearing through terrain, obsidian, and even water and lava. More destructive than Nuke, but less powerful.
+
+Every weapon is fully configurable via the Settings item: control who can fire, toggle craftability, tune damage and concentration, and dive into a huge customisation menu. Try the built-in presets - Fun Mode, MAX Mode, and Optimised Mode - to reconfigure everything in one tap, and use the dedicated Optimisation menu to keep things smooth on any device. Or toggle new options like arrow audio or death sound effects.
+
+Craft each rod at a crafting table, or use the Settings/Creative inventory item to give them directly. Requires Holiday Creator Features and Beta APIs enabled (on some devices)
+
+This is a modified version of Nikolais Orbital Strike Cannon V2, which feutures requested feutures such as no rod textures, more lore acurate weapons, to insure they match their java counter part.
+
+Q&A (same as for nikolais mod):
+
+For any issues you could not fix yourself you may also contact me on discord: nick_b192
+
+Failed to import, or do not see new items? IF it sais failed to import, "duplicate" or when u launch it and its just the same as V1 this means that it did not install properly and your still using V1 instead of V2. To fix it, go to main menu, storage, resource + behaviour packs click on the old files and delete them. Now re-install V2.
+
+Missing Dependancy Error: Can happen if u did not install propely but as long as both BP, and RP are active you can ingore the error. If its a corrupted download refer to the instructions above on how to re-install it properly.
+
+How to access settings? In V2 it's straightforward. No confusing commands, just a quick confirm menu when u try to use it! Also now fully available on all world types be it realms or servers or ps5s!
+
+Is it multiplayer compatible? Yes it is, works on realms, servers, or just normal worlds and has built in support for settings with an admin system.
+
+Is it achievement friendly? It is an addon, unless u trick the game in some way or use some method no its not and there's no way to make it achievement friendly.
+
+Something doesn't work? Comment it in the comments! If u want me to have a better shot at fixing it make sure u comment your device, version, and what specifically is not working.
+
+Do u have wither, arrow, wolf cannons? Yes absolutely.
+
+Is there some sort of 0 cooldown mode or some way to have fun? Ofc, in settings u can fully customise whatever u want! (Read description for more details) And V2 adds presets making it easier to enable different things. 0 Cooldown mode can be found in, Settings, Miscellaneous, 0 Cooldown mode, Enable, then choose an option.
+
+I can't use the weapons, there's a cooldown or some menu? Well there are 2 answers, either u accidentally enabled the optimization Add weapon cooldown or u have not accepted the TOC, if its neither of them than- comment.
+
+PLEASE DO NOT ADD THIS MOD

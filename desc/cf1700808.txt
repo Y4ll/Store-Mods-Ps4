@@ -1,0 +1,13 @@
+The addon currently only features filterites, but other characters will be added later.
+
+The addon contains many costumes, all alternative versions of Mark Grayson, omniman, Tragg, other viltrumites
+
+When you spawn, you are given either a human gene or a Viltrumite gene
+
+You can get the Tech Jacket suit with a certain chance at spawn or battle beast race or powerplex abilities
+
+When you are a human, you can develop and level up. But you have a ceiling of human capabilities, and you cannot rise above it with the help of ordinary leveling: walking, hitting, jumping.
+
+If you are a Viltrumite, you can fly and have special attacks.
+
+You can also break blocks using flight.

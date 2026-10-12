@@ -1,0 +1,29 @@
+Do you feel annoyed when looking for the shulker you need in a chest full of other shulkers and you have to hover one by one to find it? looks like this is the pack you need!
+
+Now you don't need to hover over shulker items one by one to display their names because with this pack, items that have descriptions such as shulker, enchanted tools, enchanted books, etc. will be displayed.
+
+Showcase:
+
+How To Use:
+
+- Press the 'Item Tooltip Display' button located at the top left of the chest panel and items with descriptions will be displayed on the left.
+
+- For keyboard & mouse control, you can also press TAB key to activate the Item Tooltip Display without having to press 'Item Tooltip Display' button.
+
+Terms Of Use:
+
+You are ALLOWED to:
+
+- Modify this pack only for personal uses.
+
+- Make a review about this pack, as long as you put original download link in description (Curseforge or Mcpedl).
+
+You are NOT ALLOWED to:
+
+- Use or claim my codes from this pack without my permission.
+
+- Distribute the modified pack to public.
+
+- Redistribute this pack to other sites (9minecraft, modbay and etc.)
+
+- Share links that are not from original sources (Curseforge or Mcpedl).

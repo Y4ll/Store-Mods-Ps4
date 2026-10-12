@@ -1,0 +1,15 @@
+How to use this Add-On
+
+- Look in the recipe book to find what you need to craft items that transform you into Godzilla, and other Kaiju, when worn! When you wear it, the camera will automatically shift back so that you see yourself in third person. You are also given various items that do different things:
+
+- Stomp can be right-clicked to stomp on the ground and send hit mobs flying,
+
+- Roar can be right-clicked to play a sound effect. I forgot what else I coded it to do but it might also "paralyze" (slow down) mobs.
+
+- Atomic Breath can be right-clicked (it has a cooldown and it takes time to charge) to fire your atomic breath or, in the case of Shimo, ice breath. Kong does not have the ability to use Atomic Breath.
+
+- Smash is exclusive to Kong and can be activated with right-click. It is a variant of the stomp ability (which Kong also has) that smashes some blocks in front of the player.
+
+- Camera can be right-clicked multiple times to change the camera angle. Some of the screenshots above were taken from the third person front camera angle. The other angle is kind of a "zoom forward" to mimic first person (might be a bit buggy since these monsters are so big, first person can only be "mimicked" so it may not be 100% accurate).
+
+- Currently you can become Godzilla, Irradiated Godzilla (same but with pink atomic breath), Kong, Mecha Godzilla, and Shimo.

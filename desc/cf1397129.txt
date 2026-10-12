@@ -1,0 +1,5 @@
+Phantom Visuals
+
+Phantom Visuals gives your world a warm, saturated tone with richer colors and smoother lighting. It enhances atmosphere and contrast to create a soft, vibrant look that makes the game feel more alive and visually appealing.
+
+Important: For the shader to work properly, make sure to turn ON Vibrant Visuals in your game settings.

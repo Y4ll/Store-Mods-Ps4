@@ -1,0 +1,9 @@
+I made this addon as a way to have just the formidi bomb without having to download a whole wither storm addon
+
+Useful if you want to mess around with the formidi bomb in multiplayer without your friend summoning a bunch of wither storms
+
+super tnt and formidi bomb textures made by me
+
+Particles made by me
+
+formidi bomb sound's are from cracker's wither storm mod

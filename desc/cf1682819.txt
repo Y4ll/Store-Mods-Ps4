@@ -1,0 +1,28 @@
+Features
+
+-
+
+Every mob you defeat has a chance to drop valuable ores and powerful rare items.
+
+-
+
+Mobs can also drop enchanted weapons, armor, and other enchanted gear.
+
+-
+
+Randomized loot makes every battle more rewarding and exciting.
+
+Notes
+
+-
+
+Please do not copy, modify, or re-upload this addon to any platform without permission.
+
+-
+
+Compatible with Minecraft Bedrock Edition 1.26+.
+
+-
+
+Enjoy the addon and have fun hunting!
+*Enable the API so the addon can work.

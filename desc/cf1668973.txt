@@ -1,0 +1,35 @@
+Killing Increases Size
+
+Ever wanted to literally outgrow your enemies in Minecraft Bedrock? With the Kill Growth add-on, every single mob you slay fuels your size, health, and physical power! Start out as a tiny sub-block creature and rise to become an absolute 10-block-tall titan.
+
+Key Features
+
+* Mob Kill Progression: Slay mobs to automatically gain size, health, and attack power!
+
+* From Mini to Titan: Start tiny at 0.60x scale and grow all the way up to 10.0x scale!
+
+Scale 2 Image -
+
+Scale 6 Image -
+
+Max Size (Scale 10) -
+
+Inventory Pov -
+
+* 100 Kills Cap: Optimized specifically to hit maximum size at 100 kills without causing world lag or crashes.
+
+* Massive Health Pool: Earn +2 Max HP per kill, scaling from 20 HP (10 Hearts) up to a massive 220 HP (110 Hearts)!
+
+* Infinite Strength Power: Gain permanent, passive Strength that automatically levels up as you grow, maxing out at Strength X!
+
+* Visual & Audio FX: Level-up particles and audio triggers play every time you absorb a mob's power!
+
+How It Works
+
+* Spawn In: You start off tiny at 0.60x scale, making standard blocks look huge!
+
+* Slay Mobs: Defeat any hostile or neutral entity to trigger your growth event.
+
+* Become Unstoppable: Your collision box, health bar, and permanent strength scale up in real-time as you
+
+approach 100 kills!

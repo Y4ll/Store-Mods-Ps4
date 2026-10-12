@@ -1,0 +1,17 @@
+XPO Brighter, Glowing Ores
+
+Makes every ore block and XP orbs brighter and emissive, so they truly stand out as you mine. Ore veins get a subtle glow and shimmer, especially noticeable with RTX ray tracing or Vibrant Visuals enabled, making it easier to spot valuable ores from a distance and giving your caves a more vibrant, rewarding look.
+
+Features
+
+Coal, Copper, Iron, Gold, Diamond, Emerald, Lapis, Redstone ores
+
+All Deepslate ore variants
+
+Ancient Debris
+
+all ores have borderline
+
+new particle added
+
+Each texture comes with an updated PBR material map (emissive/metallic/roughness data), so the glow effect reacts properly to lighting brightest and most dramatic with ray tracing, but still a visible upgrade on standard rendering.

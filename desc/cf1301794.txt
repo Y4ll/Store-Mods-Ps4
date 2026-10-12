@@ -1,0 +1,23 @@
+FNaF's Build & Decor SB for Bedrock
+
+An addon with which you can recreate the restaurant from the famous FNAF game but now in Minecraft Bedrock! This addon is currently still under development, so there are missing blocks such as those of FNAF security breach
+
+- You can create a pizzeria using a wide variety of blocks that will expand every wednesday
+- The blocks have a function to change the variants of the blocks using the item Changer Tool
+- Decorative blocks really well designed and added to avoid any bugs
+- Good textures and designs
+- and more!
+
+Ever wanted to recreate the mega pizza plex from FNAF security breach in Minecraft? Well, now you can do it with FNAF's Decorations, this addon adds a wide variety of blocks to decorate, obviously inspired by the FNAF SB mega pizza plex, also in the future, blocks based on fnaf security breach and dlc will be added!
+
+PROJECT MAIN DEV
+
+- Mmario64 (Animatronics, Code, Textures[edited] & Models[edited])
+
+PROJECT DEVELOPER
+
+- hminxs (Animatronics, Code, Textures & Models)
+
+Join to Mmario64 Community Server!
+
+For layzy shortcut dlc for FNaF build and decor

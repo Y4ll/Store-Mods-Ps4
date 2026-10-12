@@ -1,0 +1,153 @@
+FreeCam Minecraft Bedrock
+
+FreeCam is a camera addon for Minecraft Bedrock Edition that allows you to freely explore your world from a different perspective without moving your player.
+
+Whether you're creating content, recording cinematic shots, exploring builds, or simply want a better view of your world, FreeCam gives you more freedom over your camera.
+
+Features
+
+-
+
+Free Camera Explore your world from different angles.
+
+-
+
+Mobile & PC Support Works on both mobile devices and PC.
+
+-
+
+Multiplayer Support Includes features designed for multiplayer worlds.
+
+-
+
+Works with different game modes, including:
+
+-
+
+Survival
+
+-
+
+Hardcore
+
+-
+
+Creative
+
+-
+
+Adventure
+
+-
+
+And more.
+
+-
+
+Achievements Friendly FreeCam does not disable achievements.
+
+-
+
+Command Support Control FreeCam directly using commands.
+
+-
+
+Configuration System Customize different FreeCam options.
+
+-
+
+Content Creator Friendly Perfect for YouTube, TikTok, tutorials, cinematics, and showcases.
+
+-
+
+Macro Support Can be used together with macros and custom controls.
+
+Commands
+
+FreeCam can be controlled directly from the Minecraft chat.
+
+Activate FreeCam
+
+/free On
+
+Deactivate FreeCam
+
+/free Off
+
+Configuration
+
+/config
+
+Use /config to access the available settings and customize your FreeCam experience.
+
+For a complete explanation of all features, settings, installation and commands, check the tutorial video.
+
+https://youtu.be/bjsKom70yr0
+
+Mobile & PC
+
+FreeCam is designed to work on both mobile devices and PC, making it accessible regardless of your preferred way to play Minecraft Bedrock.
+
+Multiplayer
+
+FreeCam includes a dedicated multiplayer section, allowing you to configure and use the addon in multiplayer worlds.
+
+You can also configure FreeCam depending on how you want players to access its features.
+
+Perfect for Content Creation
+
+FreeCam is especially useful for:
+
+-
+
+YouTube videos
+
+-
+
+TikTok videos
+
+-
+
+Cinematic shots
+
+-
+
+Building showcases
+
+-
+
+Tutorials
+
+-
+
+World tours
+
+-
+
+Technical Minecraft
+
+-
+
+Exploring your builds
+
+-
+
+Screenshots and different camera angles
+
+Achievements
+
+FreeCam does not disable Minecraft achievements.
+
+You can use the addon while playing Survival, Hardcore and other game modes without having to sacrifice your achievements.
+
+Important
+
+Always make a backup of your world before installing any addon, especially when using it in an important survival or hardcore world.
+
+For installation instructions, configuration options, commands, and a complete demonstration of FreeCam, watch the tutorial video.
+
+Enjoying FreeCam?
+
+If you enjoy the addon, consider leaving a rating and following the project to stay updated with future releases and features!
+
+Made for Minecraft Bedrock Edition.

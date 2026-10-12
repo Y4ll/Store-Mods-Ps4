@@ -1,0 +1,22 @@
+Ore Vein Miner
+
+Crouch + break an ore to vein mine connected ore blocks
+
+Now supports Silk touch and Fortune
+
+Installation
+
+- Double-click the file, or move it manually into your Minecraft
+
+- Open your world settings Behavior Packs Enable Ore Vein Miner
+
+UI Menu
+
+- Mobile: Sneak and hold while holding gunpowder
+
+- PC: Sneak and right-click while holding gunpowder
+
+-
+
+Found a bug or got a cool idea? Come hang out in our Discord server!
+Discord Server Link : https://discord.gg/ffuXxfD6cW

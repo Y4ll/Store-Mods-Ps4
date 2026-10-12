@@ -1,0 +1,38 @@
+GAVTI RGB HITBOX
+
+RGB JAVA-STYLE HITBOX VISUALIZER BEDROCK EDITION
+
+Gavti RGB Hitbox adds a precise Java Edition-style hitbox around the player using clear red, green and blue lines. Enjoy a clean technical visual that makes the player boundary easy to identify.
+
+[ FEATURES ]
+
+- RGB Hitbox Design the old single-colour outline has been upgraded with distinct red, green and blue edges for a cleaner Java-style appearance.
+
+- Dynamic Player Hitbox the outline adjusts according to supported player poses, including standing, sneaking, swimming, crawling and sleeping.
+
+- Clean and Precise thin, clearly visible lines show the player boundary without covering the skin or making the screen feel cluttered.
+
+- One-Tap Toggle switch the hitbox ON or OFF directly through the pack settings slider without removing or replacing the pack.
+
+- Resource Pack Only no behavior pack, scripts, commands or additional downloads are required.
+
+[ HOW TO INSTALL ]
+
+- Download the .mcpack file and open it Minecraft will import it automatically.
+
+- Apply Gavti RGB Hitbox to your world from the resource pack list.
+
+- Open the pack settings and use the slider whenever you want to switch the RGB hitbox ON or OFF.
+
+[ IMAGE NOTE ]
+
+The pack icon and preview artwork displayed on this CurseForge listing were generated or enhanced using AI tools and are not unedited in-game screenshots.
+
+[ CREDITS ]
+
+Built using the original open-source, MIT-licensed hitbox technique created by Baku for Java Hitbox By Baku. This edition introduces RGB hitbox styling, new branding, a new icon and additional compatibility improvements.
+
+[ USAGE & CREDIT ]
+
+Use Gavti RGB Hitbox in pack showcases, videos, maps or servers completely free.
+Just credit @GAVTI wherever you use it.

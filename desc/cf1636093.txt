@@ -1,0 +1,51 @@
+FPS++ Resource Pack
+
+Introduction
+
+FPS++ is a performance-focused resource pack for Minecraft Bedrock Edition 1.26.x. It is designed to improve FPS by removing or simplifying many unnecessary visual effects and animations, allowing the game to run more smoothly on a wide range of devices.
+
+---
+
+Description
+
+If you're experiencing low FPS, stuttering, or lag, FPS++ can help deliver a smoother gameplay experience. The pack reduces the game's rendering workload by cutting down on resource-intensive effects while preserving the core Minecraft experience.
+
+To suit different user preferences, FPS++ comes in two editions:
+
+- Lite Edition Provides balanced optimization while keeping most visual effects intact.
+
+- Ultra Edition Maximizes performance by removing as many unnecessary effects and animations as possible.
+
+---
+
+Features
+
+- Boosts FPS for smoother gameplay.
+
+- Reduces lag and frame drops.
+
+- Removes unnecessary visual effects.
+
+- Simplifies or disables non-essential animations.
+
+- Improves overall game stability, especially in large worlds and multiplayer servers.
+
+- Includes two versions to match different performance needs.
+
+---
+
+Notes
+
+- Compatible with Minecraft Bedrock Edition 1.26.x.
+
+- This is a Resource Pack only and does not modify gameplay mechanics.
+
+- Some visual effects and animations have been simplified or removed to prioritize performance.
+
+- Performance improvements may vary depending on your device's hardware specifications.
+
+---
+
+Thank You
+
+Thank you for downloading FPS++! We hope this resource pack helps you enjoy a smoother Minecraft experience. If you like it, consider sharing it with your friends and stay tuned for future updates and optimizations.

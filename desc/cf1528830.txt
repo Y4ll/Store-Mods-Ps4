@@ -1,0 +1,43 @@
+Tired of manually chasing every ore vein block by block? This addon lets you mine an entire connected ore vein instantly, no commands, no crafting, no extra items.
+
+- How to Use
+
+Simply Sneak + Break any ore block to instantly harvest every connected ore in the vein. That's it. Works with your pickaxe exactly as normal.
+
+- Features
+
+- Instant vein mining Sneak + Break an ore to mine the full connected cluster
+
+- Fortune support Fortune enchantment applies to every block in the vein
+
+- Silk Touch support Silk Touch drops the ore blocks themselves, not raw resources
+
+- All ore types Coal, Iron, Gold, Copper, Diamond, Emerald, Lapis, Redstone, Quartz, Nether Gold, Ancient Debris + all Deepslate variants
+
+- All dimensions Works in Overworld, Nether, and The End
+
+- Achievement-safe Does NOT disable achievements or trophies
+
+- Multiplayer ready Works independently for each player
+
+- Zero lag Lightweight BFS script, no tick-heavy loops, capped at 512 blocks
+
+- Compatibility
+
+- Minecraft Bedrock Edition 1.21+, 26.0+
+
+- Works on Android, iOS, Windows, Console
+
+- Behavior Pack only, no Resource Pack needed
+
+- Compatible with other addons
+
+- Installation
+
+- Download the .mcpack file
+
+- Tap/double-click to auto-import into Minecraft
+
+- Apply the pack to your world under Behavior Packs
+
+- Play, Sneak + Break any ore to vein mine!

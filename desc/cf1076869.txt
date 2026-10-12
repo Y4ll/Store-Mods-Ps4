@@ -1,0 +1,42 @@
+Who does not hate when you need to use many different tools but there is no space left in your hotbar? Or having to mine different blocks and having to change your tools every minute?
+
+With this addon you can now save your all of your tools into a tool belt and use them at any time without having to open it and grab your tools.
+
+RECIPE:
+
+FEATURES:
+
+- Tool Swap (Select correct tool)
+
+- Dynamic Light (When a torch is in the belt)
+
+- Tool Re-stock (When your tools break)
+
+- Block Re-stock (When you run out of blocks in your hand)
+
+- Auto Totem (When the totem in your offhand is consumed)
+
+CHANGELOG:
+
+Update v1.1.0: Dynamic Lights have been added
+
+Update v1.2.0: Blocks re-stocking feature has been added
+
+Update v1.3.0: Auto totem & tool re-stock features have been added
+
+NOTE: There are 2 versions of this addon, one with the tool belt and one without it. You don't need the resource pack for the version with no tool belt
+
+(NOT NEEDED ANYMORE)
+
+IF YOU ARE A DEVELOPER:
+
+In order to get the tools from your addons to work with this addon, you'll have to add the corrects tags to them.
+
+Example:
+
+"minecraft:tags": {
+"tags": [
+"minecraft:is_tool",
+"minecraft:is_pickaxe"
+]
+}

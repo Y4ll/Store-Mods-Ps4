@@ -1,0 +1,27 @@
+If you can't understand just check my YT video:
+
+||| Free to use, just give me credit! |||
+
+How to setup:
+
+- Turn on: To activate this feature, you must hold the Totem in your off hand.
+
+- On use: When you use a totem, this mod will automatically equip a new one in your off-hand.
+
+- Turn off: To deactivate this feature, you must hold the Shield in your off hand.
+
+Multiplayer/Addon Compatibility:
+
+- It works with multiplayer and other addons!
+
+Infinite totem?
+
+No, It's just automatically switch your inventory totem in offhand.
+
+ON | OFF
+
+Comment your feedback
+
+If you want just Auto Totem system try It
+
+- https://mcpedl.com/simpleat

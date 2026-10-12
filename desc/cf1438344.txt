@@ -1,0 +1,71 @@
+Imagine a Skeleton shoots an arrow at your face, and instead of taking damage, you simply raise your hand and freeze the arrow in mid-air. Or imagine pausing time right before a TNT block explodes.
+
+This is the RR Time Matrix Addon.
+
+While there have been "Time Stop" mods in the past, most of them were fake. They only gave slowness to mobs. This addon is different. I used the Script API to hack the game's physics engine.
+
+Main Features
+
+I have split the addon into two modes to keep it optimized for mobile devices.
+
+1. Basic Freeze (Default)
+
+This works immediately when you install the addon.
+
+Mob Freeze: All living creatures (Zombies, Creepers, Cows) freeze in place.
+
+Sound FX: Includes the iconic "Time Stop" heavy bass sound effect.
+
+Limitation: In this mode, arrows and TNT will still move normally.
+
+2. Matrix Physics (Advanced)
+
+This is the real power. It stops non-living entities.
+
+Projectile Stop: Arrows, Snowballs, and Fireballs freeze in mid-air. You can walk around them.
+
+TNT Suspension: If you light a TNT, the fuse timer stops. It will not explode until you resume time.
+
+Gravity Defy: Falling blocks and items will hang in the air.
+
+Controls: How to Use
+
+The controls are specific to prevent accidents. Please read carefully.
+
+To Stop Time: Hold a Clock and Long Press (Right Click).
+
+To Resume Time: Hold a Clock and Long Press again.
+
+How to Open Settings Menu?
+
+To enable the Advanced Matrix Physics, you need to open the hidden GUI.
+
+Hold the Clock in your hand.
+
+Crouch (Sneak) on the ground.
+
+While crouching, Long Press the screen.
+
+How to Unlock Matrix Physics?
+
+By default, the Physics Stop is disabled to save performance. To unlock it:
+
+Open the Menu (Crouch + Use Clock).
+
+Enter the System Key in the input box.
+
+Submit the key to unlock "Projectile Freezing".
+
+Installation Requirement
+
+This script manipulates entity velocity vectors. You MUST turn on Beta APIs in your world settings under Experiments. If you skip this, the physics will not stop.
+
+Disclaimer
+
+Promotional images and gallery screenshots for this project have been enhanced using AI tools for better visualization.
+
+Links
+
+Youtube Channel: Racing Raftaar
+
+Get System Key: [RACING RAFTAAR.COM]

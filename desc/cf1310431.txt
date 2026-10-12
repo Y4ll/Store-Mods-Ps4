@@ -1,0 +1,45 @@
+Video Showcase
+
+Showcase video By Mooshrooom! (Subscribe)
+
+Showcase video By SonicGlare
+
+JOIN MY DISCORD COMMUNITY
+
+NEW TEXTURE!
+
+Controls - Buttons
+
+Mouse & Keyboard
+
+- W-S Increase sail size, S to increase size and W to decrease.
+
+- A-D Turn the rudder left-right
+
+For Controller
+
+- Left-Stick up/down Sail size.
+
+- Left-Stick left/right Rudder steering.
+
+For Mobile Same behavior as controller but with touch.
+
+More stuff
+
+The boat have an inventory where you can transport items.
+
+Command to open the configuration
+
+More info
+
+- Achievements You can earn achievements with this addon
+
+- Version You can use this addon only on 1.21.90+ due to custom components.
+
+- Experiments No experiments are required to run this addon.
+
+This is a common error just ignore it, the pack will still work fine. Just make sure to enable both resource pack and behavior pack.
+
+DO NOT REDISTRIBUTE.
+
+YOU ARE NOT ALLOWED TO CREATE YOUR OWN SHORTLINK TO LINK THIS PAGE OR DOWNLOAD THE ADDON.

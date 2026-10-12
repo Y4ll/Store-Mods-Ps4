@@ -1,0 +1,13 @@
+This resource pack reduces the size of shields in first-person view. By shrinking the model, shields block far less of your screen, giving you better visibility during combat, exploration, and everyday gameplay.
+
+Only the first-person view is affected
+
+-
+
+In third-person, shields look completely normal.
+
+-
+
+In the inventory and hotbar, shields remain unchanged.
+
+That means no impact on gameplay or design consistency just a smoother, less obstructed first-person experience.

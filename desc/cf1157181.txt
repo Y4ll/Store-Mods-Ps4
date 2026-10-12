@@ -1,0 +1,136 @@
+Otherworldly is an add-on for Minecraft Bedrock Edition that enhances your gameplay with new bosses, caves, mobs, items, blocks, and mechanics.
+
+This Add-On is compatible with version 26.50 or above.
+
+OtherWorldly does not use the player.json.
+
+No experimental toggles are needed to use this add-on.
+
+Available in Spanish, English, Portuguese, Chinese, Japanese, and Turkish!
+
+If you're unsure about a block or enemy you're looking at, you can use the Spectral Amulet, crafted with Dark Material. It will show the characteristics of the enemy you're observing and what tool is needed to mine the block. The amulet will only detect blocks from OtherWorldly.
+
+Spooky festival
+
+Celebrate Halloween with the Spooky Festival, a special event filled with unique creatures and exclusive rewards. Take on a Halloween-themed raid and survive waves of spooky mobs, which can also spawn naturally throughout the world.
+
+During the event, you can find and collect exclusive items, candies, and masks that are only available while the Spooky Festival is active.
+
+Fishing system
+
+The fishing update in version 1.8.0 introduces six new fishing rods, highlighting the Fire Fishing Rod, which enables the mechanic to fish directly in lava. More than 35 catchable aquatic species are added, divided into two categories: fish with raw and cooked variants (such as the Desert Pupfish, Skipjack Tuna, and Ocean Sunfish), and exclusively raw catches, which include lava species, cave species, and the Enchanted Golden Fish.
+
+Luck System
+
+The Luck system reacts to player actions and exclusively affects bonus rewards; base drops are never removed.
+
+Good Luck
+
+- High chance for extra ores, additional experience, and increased crop yields.
+
+- The Fortune enchantment strongly boosts additional rewards.
+
+- Fishing: Significantly increases the chance of catching rare fish (such as the Enchanted Golden Fish) and additional treasures, on top of the base catch.
+
+- Ideal state for progression.
+
+Bad Luck
+
+- Nullifies all bonus rewards (no extra ores, XP, or crop bonuses).
+
+- Only base drops remain.
+
+- Fishing: Eliminates the possibility of catching rare variants, treasures, or bonuses; catches are strictly limited to base fish and items.
+
+This system exists to make risk meaningful, progress earned, and choices important.
+The world reacts to how the game is played.
+
+Accessories
+
+Accessories:
+
+Amulets are placed in the Accessory Bag, which opens a special menu.
+
+Cursed Cemetery and gravestones
+
+Cursed Cemetery
+
+Description:
+The Cursed Cemetery is a dark and eerie place shrouded in thick fog, giving you the unsettling feeling of a lingering presence. You'll encounter ancient gravestones.
+
+Beware!
+If you break anything in the cemetery, youll trigger the eternal wrath of the Nocturnal Shade, which will hunt you forever.
+
+The only way to rid yourself of its curse is by consuming the Melon Red Pie, crafted with red slimeballs.
+
+Totem of Recovery
+You can craft it using a Spectral Piece and silver ingots.
+
+Equipping the Recovery Totem functions like a "Keep Inventory" system; the player's items are teleported to the spawn point. Furthermore, items located in the other inventories will not be lost. One might wonder: other inventories? In Otherworldly, it is possible to alternate between different inventories to gain more storage space. All necessary information can be found in the in-game guide book.
+
+Create Your Own Cemetery
+You can build your own cursed cemetery to craft the Totem of Recovery and other upcoming items in future updates!
+
+To create it, simply place 4 Cursed Gravestones near you, and you're all set!
+
+Structures
+
+Floating island:
+
+Desert temple
+
+Viritum tower
+
+Glimmerite castle:
+
+Outpost
+
+Cemetery
+
+Camp
+
+Savanna mining site
+
+Mining house
+
+Cave chest
+
+Swamp Chest
+
+Large camp
+
+Large cemetery
+
+Tower
+
+Birch tower
+
+Nature temple
+
+Glimmerite outpost
+
+Volcano
+
+Village house
+
+Silver fish cave
+
+Hellish cage
+
+Mill
+
+Barn
+
+Cursed ship
+
+Old tower
+
+Haunted house
+
+Mining site
+
+Ruins
+
+Anthill
+
+Ca

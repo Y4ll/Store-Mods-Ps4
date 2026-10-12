@@ -1,0 +1,11 @@
+This add-on Added a new terrifying creature call i heard it too in to your world in minecraft
+
+Do not reup the addon
+
+Note: this addon can kill mobs and break blocks
+
+this addon is a Port of the java Mod The I heard it too made By hopal228, the add-on is made by Huwbacca, here is mod link:https://www.curseforge.com/minecraft/mc-mods/i-heard-it-too-java
+
+Mod is still in early beta, thanks
+
+you need beta api to make it work

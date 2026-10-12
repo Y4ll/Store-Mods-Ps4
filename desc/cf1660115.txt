@@ -1,0 +1,46 @@
+A simple and clean resource pack for Minecraft Bedrock Edition, inspired by the Java Edition UI and the iconic Bare Bones style
+
+Features:
+
+- Java-style UI
+
+- Bare Bones-inspired textures
+
+- Clean and simple design
+
+How to Use
+
+Place this pack above other resource packs for it to work correctly
+
+Credits:
+
+RobotPant Original Bare Bones Texture pack
+CrisXolt Original VDX: Java/Desktop UI
+Pochilito Original project provided to me before release
+
+download his UI first then apply this pack:
+https://mcpedl.com/vdx-legacy-desktop-ui/
+
+Screenshots:
+
+Important Information
+
+This pack recreates the classic Minecraft Bedrock UI
+
+Newer versions of Minecraft are gradually replacing the old UI with the OreUI
+
+Some screens may not function correctly in newer versions
+
+Android
+
+Set File Storage Location to External before importing the pack
+
+This is recommended to avoid issues after Minecraft updates
+
+For the best classic UI experience, you can use LeviLauncher + ForceCloseOreUI
+
+OreUI
+
+OreUI allows you to remove the newer Minecraft interface and restore the classic old interface
+
+It is recommended if you want to use this pack with the old-style Minecraft Bedrock interface

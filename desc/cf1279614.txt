@@ -1,0 +1,17 @@
+Have you ever wanted to recreate the BATIM Workshop in Minecraft? well now you can with Bendy Decor!!
+
+DESCRIPTION
+
+Have you ever wanted to have an addon that gives you content from Batim for your Minecraft worlds?
+
+Welcome to Bendy Decor, an simple add-on that brings you decorative content from BATIM Chapter 1-2
+
+DONT FORGET ENABLING BETA-APIs BEFORE USING THE ADD-ON
+
+IMPORTANT
+
+The Development of this add-on ended, so this add-on will not longer receive any updates but...
+
+Our Team are currently working on a new add-on: Bendy: Reanimated Sketches. B:RS will have Functional interactive blocks/entities/items and content from almost all bendy games. Stay tuned on our Discord Server for any news about B:RS.
+
+Bendy Decor Images:

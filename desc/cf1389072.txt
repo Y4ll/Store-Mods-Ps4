@@ -1,0 +1,23 @@
+Military backpacks (v2) , inspired of the AMA mod
+
+So now in this mod we have 8 backpacks with 2 types, each type have 4 colours,
+
+As you see
+
+Here the basics backpacks
+
+Here the large backpack
+
+You might love the first one or the second one anyway the difference between them is the recipe and the model only
+
+They have the same number of slots
+
+And you can wear them and put them in the foot slot
+
+And they have the same number for the slots
+
+And also they are craft able
+
+Warning
+
+dont ask me to change the number for there slots , because Minecraft only allow 27 slots for the entities, but if i will change it i must make a huge cods , and i can't do that because I don't know how to make that

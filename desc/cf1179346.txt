@@ -1,0 +1,91 @@
+This is the discord for the mod, you can join it for quicker updates and reporting bugs! - https://discord.gg/c59nqWbhVJ
+
+NEW HEROES UPDATE VIDEO:
+
+Here's the video explaining it all:
+
+The suits in the mod contain:
+For the heroes: Flash, Wally Rebirth, Impulse, XS, and Jay Garrick
+
+For the villains: Reverse Flash, Zoom, Savitar, Godspeed, and Captain Cold
+
+The first step of the mod is creating the flash ring. To do this, you must first find silica, which is very common, but spawns in chunks of 3-5.
+
+Silica ore:
+
+You must then convert this to refined silica powder through smelting:
+
+Then craft that refined silica powder into its red and yellow (and other colors) fabrics by combining it with wool:
+
+DISCLAIMER: ALL FLASH BASED RECIPES ARE CRAFTED THROUGH A SPEEDSTER TABLE.
+
+After that, you must make the empty flash ring, which has two parts: the base and the top.
+
+To craft the top you need 4 gold and 1 black wool:
+
+To craft the base you need 8 gold:
+
+Then combine the two to make the empty flash ring:
+
+To make the base white silica fabric, you need 4 silica powder, and 3 rabbit hide.
+
+To craft the rest: you simply use the correct dye to dye the fabric
+
+Then craft the capsule containing the suit:
+
+Now we combine the fabrics with the capsule
+
+The villains' suits are NOT craftable, more on that below.
+
+And now, craft the flash ring!
+
+and so on...
+
+Holding the ring gives you your powers, and right clicking, or interacting with it makes the suit come out, you must walk into and interact (right click, whatever on console, hold on PE [I think]) with the suit to put it on.
+
+You CAN still use your powers without putting the suit on, but it will apply a poison effect to you, because it's dangerous to use the powers without the suit.
+
+The powers and abilities:
+
+Disclaimer: Water Run, and all the Direct Abilities are to be unlocked by beating bosses.
+2. To Trigger speedster abilities, you must crouch and punch with any speedster item.
+
+Unlockable abilities:
+
+- Phase:Unlocked from the start
+
+- Lightning Bolt: Unlocked from beating Reverse Flash
+
+- Phase Punch: Unlocked from beating Zoom
+
+- Water Run: Unlocked by beating godspeed
+
+- Magnet : Unlocked by beating godspeed
+
+- Tornado: Unlocked by beating Savitar
+
+Passive Abilities:
+
+Firstly, you slow down all mobs, and the closer any of these mobs get to you the slower they become, unless its a player who also has his powers activated.
+
+Secondly, no projectiles can hit you, someone shoots an arrow at you? Throws a splash potion? A ghast shoots a fireball at you? They literally CANNOT hit you. The only projectile that can hit you is the cold gun's bullets/
+
+Thirdly, if any creepers gets close to you, their explosion will be stopped, but if you take the ring off, it will blow up.
+
+Water run: While having speedster powers turned on, you can just sprint over water. However, taking a sharp turn will disable it, if you stop holding the item, it will disable it, if you start walking, it will be disabled. It will not activate if you jump into the water. You have to take slow and smooth turns.
+
+Wall run: While having speedster powers turned on, and then running towards a wall and holding jump will allow you to scale that wall
+
+The Direct Abilities:
+
+You can get these abilities by sneaking and interacting with the ring, which brings up a UI where you can choose your various abilities!
+
+Phase: if you right click this item it teleports you 5 blocks forward, it has a 10 second cooldown. You will be notified when the ability is ready for use.
+
+Tornado: A huge gust of wind that sucks in enemies and whirls them up high! Great for capturing other speedsters or enemies!
+
+Phase Punch:A version of phase used to attack! Deals great damage to anyone who dare stand in your way, also gives haste to dig out of situations that you may get trapped in (ice, for example ;))
+
+Lightning bolt:A super fast projectile which when it hits an enemy can set them on fire, and is near impossible to dodge [I hope]
+
+Other Items/Abilities

@@ -1,0 +1,22 @@
+A mod/script that increases the generation of mobs, being very similar to the generation of mobs in Minecraft Java, which will make the mobs farms work much better. . .
+
+# How does it work:
+
+By activating this mod/script in your world or realm, the generation of mobs will increase until more than 70 monster-type mobs are generated, which will make the mob farms work much better, it will even make farms work that only worked in Minecraft Java, such as enderman farms.
+
+You can use the !mobCapInfo command to find out how many mobs there are in the world.
+
+The speed and distance at which the mobs are generated depends on the simulation distance that is configured in your world, the higher it is, the farther and faster the mobs are generated, and the lower it is, the slower and closer the mobs are generated.
+
+It seems that the nether mobcap already generates more than 70 mobs by default, so this script does not affect it.
+
+Warning, this mod is not recommended on medium- and low-range mobile devices as it generates lag due to the number of mobs, which is why Minecraft bedrock has a low mob generation limit to avoid generating lag.
+
+It works well in multiplayer, and there is a different mobcap for each dimension
+There is a small error with the trial chambers but we will try to fix it in the next update
+
+# Screenshots:
+
+# Showcase video:
+
+By Effect99

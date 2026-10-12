@@ -1,0 +1,179 @@
+En
+
+Documentation is used in the crafting table for crafting and further modification of the car; it is not consumed upon use.
+
+Documentation #... - crafted from a book and iron nuggets.
+
+Modernization Documentation - restyling.
+
+Sport Modification - converts the car into a sports or semi-sports model (coupe, rally, hot rod, lowrider).
+
+Increased Capacity Modification - converts the car into a station wagon, minivan, or pickup truck.
+
+It can be recycled back into an empty book using a piece of resin (but other materials will be lost).
+
+All cars can be repaired using a copper ingot, iron ingot, gold ingot, netherite ingot, netherite scrap, iron nugget, gold nugget, and redstone dust.
+
+Repair kit - allows you to repair a car without consuming materials (for several cars at the moment).
+
+Iron golem sound effects are used.
+
+Ru
+
+, .
+
+No...- .
+
+- .
+
+- (, , -, ).
+
+- , , .
+
+( ).
+
+, , , , , , , .
+
+- ( ).
+
+.
+
+Full list of cars/ :
+
+1900:
+
+...
+
+1910:
+
+...
+
+1920:
+
+SM20 medium sedan
+
+SE20 elite sedan
+
+T20 truck
+
+1930:
+
+SM30 medium sedan
+
+SE30 elite sedan
+
+T30 truck
+
+SUV30 suv
+
+SUV30DE suv
+
+SUV31DE suv - amphibian
+
+1940:
+
+SM40 medium sedan
+
+SUV40US suv
+
+*V40DE van
+
+*P40US pickup
+
+*T40US truck
+
+1950:
+
+SA50 A-klass sedan
+
+SD50US D-klass sedan
+
+SE50 E-klass sedan
+
+SESW50 E-klass station wagon
+
+SE50US E-klass sedan
+
+SESW50US E-klass station wagon
+
+*FTL50 traktor
+
+*FCM50 Combine harvester
+
+1960:
+
+SA60 A-klass sedan
+
+SA60DE A-klass sedan
+
+SA60UK A-klass sedan
+
+*SC60 C-klass sedan
+
+SD60 D-klass sedan
+
+*3S60RU D/E-klass sedan
+
+*SF60US F-klass sedan
+
+*SF65US F-klass sedan
+
+SFC65US F-klass coupe
+
+1970:
+
+SC70 C-klass sedan
+
+*SC70DE C-klass sedan - hatchback
+
+*SC75DE C-klass sedan
+
+*V70us van
+
+1980:
+
+SB80 B-klass sedan
+
+MV80JP microvan
+
+*SD80US D-klass sedan
+
+*SD80JP D-klass sedan
+
+SE80 E-klass sedan
+
+*SE80US E-klass sedan
+
+SUV80 suv
+
+SUV80US suv
+
+1990:
+
+*SF90US F-klass sedan
+
+2000:
+
+...
+
+2010:
+
+*SC210 C-klass sedan
+
+2020:
+
+...
+
+2030:
+
+...
+
+* - compatible with repair kit/ .
+
+/In development:
+
+TH50UA Truck
+
+2S80RU B/C-klass sedan
+
+ETM50 Bulldozer

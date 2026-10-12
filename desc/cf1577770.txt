@@ -1,0 +1,20 @@
+Java Zoom on MCPE by Baku
+
+Experience a simple Java-style zoom feature in Minecraft Bedrock Edition. Just sneak to activate the zoom and get a closer view of distant locations, mobs, builds, and more.
+
+Features
+
+- Java-style zoom
+
+- Activate by sneaking
+
+- Simple and lightweight
+
+- Great for survival, PvP, exploration, and building
+
+Credits & Rights
+
+Created by: Baku
+All rights reserved to Baku. Do not redistribute, re-upload, or claim this pack as your own without permission.
+
+Enjoy the pack and have fun playing!

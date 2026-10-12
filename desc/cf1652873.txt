@@ -1,0 +1,15 @@
+Simple motion blur is a useful pack for PvP and other uses like
+
+Building, clips. Practically anything which is great...
+
+But Bedrock doesn't really have any motion blur mods
+
+So I've decided to make a pure motion blur mod
+
+For mcpe. It is lightweight and does not require any experimental toggles
+
+You can't take the mod and say it's yours
+
+You can use this for recording and for your mod.
+
+credits to @Defn0tLu4l. Mod will be upgraded in future

@@ -1,0 +1,17 @@
+NeBux UI - Container GUI Standalone
+
+This is a standalone version of my original UI pack NeBux UI, designed specially for enhancing the GUIs of functional blocks like the Crafting Table, Smithing Table, and others in Minecraft Bedrock and Pocket Edition (MCBE/MCPE).
+
+Each container interface is redesigned to match the unique theme of its respective table, providing a more realistic and immersive experience during gameplay. This pack focuses only on container GUIs and does not affect the full UI.
+
+- Compatible with MCPE and MCBE
+
+- Realistic, themed interfaces for crafting-related tables
+
+- Includes Crafting Table, Smithing Table, and more
+
+- Perfect for a minimal, clean experience
+
+- Standalone GUI no full UI overhaul
+
+Inspired by and based on the full NeBux UI check it out!

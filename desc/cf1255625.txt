@@ -1,0 +1,155 @@
+Simple Waystone
+
+A simple addon to help you travel across large distances or dimensions using the magic of teleport.
+
+<Warning>
+
+This addon have 2 version, choose the correct to play:
+
+- Full version with 256 Waystones: Simple_Waystone_v9.0_Full.mcaddon
+
+- Lite version with 16 Waystones: Simple_Waystone_v9.0_Lite.mcaddon
+
+Social Links:
+
+> Craft
+
+<Waystone>
+
+To create a Waystone you first need to create a Warpstone. And With it and any material you can create your Waystone:
+
+<Warpstone Pedestal>
+
+To create the Warpstone Pedestal you need 3 Obsidian, 3 Polished Andesite and 1 Warpstone.
+
+With this block you can teleport like a normal Waystone;
+
+<Teleporter Pad>
+
+To create the Teleporter Pad you need a Broken Teleporter Shard and a normal Teleporter Shard.
+With this when you step on this block you can teleport to destination registered at the Teleport Shard.
+
+<Waystones Variants>
+
+- Stone:
+
+- Tuff:
+
+- Deepslate:
+
+- Obsidian:
+
+- Blackstone:
+
+- Basalt:
+
+- Nether:
+
+- Nether Bricks:
+
+- Wart:
+
+- Ice:
+
+- Prismarine:
+
+- Sand:
+
+- Resin:
+
+- Ore:
+
+- Quartz:
+
+- End:
+
+- Raw Ore:
+
+- Copper:
+
+- Table:
+
+- Wood:
+
+- Sculk:
+
+- Concrete Powder:
+
+- Concrete:
+
+- Terracotta:
+
+- Wool:
+
+- Glass:
+
+> Coloring Waystones:
+
+Using a dye in a activated waystone, it will paint the waystone text, there are 16 colors.
+
+> Register Waystone:
+
+When you place the Waystone on the ground, a screen will appear where you can name your waystone and define whether it will be public. (Public waystones can be used by other players even if you have not claimed them)
+
+> Claim Waystone:
+
+To claim a waystone you just need to interact with one, it will play a sound if it is successfully claimed. Be careful where you place your waystone in your secret base :)
+
+> Teleport Between Waystones:
+
+After creating your waystone, click on it again to access a screen with all your private and public waystones.
+
+- Each dimension will have a color;
+
+- If a Waystone is more than 700 blocks away, you will need XP to teleport it. (1 level every 700 blocks)
+
+- Between dimensions it always costs 3 levels;
+
+- Waystone play a sound when teleport;
+
+- Favorite Waystones always will appear on the top of the list.
+
+- Warpstone Pedestal: It works the same way as any other waystone, but you can't create a point where you place the pedestal you only can teleport to other waystones already created.
+
+Perfect to place at your secret room, where you can leave but no enter.
+
+> Teleport Items:
+
+Have 3 Items to teleport without a waystone:
+
+- Warpstone: You use it to create a waystone but also has a function, it makes it easier to not need to interact with a waystone to teleport. (60s cooldown after use)
+
+- Golden Feather: Similar to Warpstone but consumed on used.
+
+- Return Scroll: Similar to Warpstone but consumes durability on used.
+
+- Bound Scroll: A Return Scroll linked to a specific waystone (Interact in a waystone with a Return Scroll).
+
+> Teleporter Pad:
+
+The Teleporter Pad is similar to a waystone, but here you only need to step on this block and you will be teleported to destination registered in the Teleport Shard;
+
+After you create one Pad you can place it on the ground and it automatically registered the position of that Pad on the Teleport Shard.
+The pad will become empty, and when you place another registered Teleport Shard on that empty pad, it will be linked to the Shard.
+
+It also works with Items and Entities:
+
+> Waystone Settings:
+
+By clicking on the Waystone while hold the shift you access the Settings Screen:
+
+There are some buttons:
+
+- Waystone Info: Informations about this Waystone that you are using;
+
+- Player Settings: Where you can change your informations;
+
+- Remove Waystone: To remove some Corrupted Waystone or any other that you created before;
+
+- Favorite Waystones: Select some Waystone to be displayed at the top of the Waystones List;
+
+- Administrator: Change essentials functions of the Addon (Need run the command "/tag @s add admin").
+
+- Waystone Info:
+
+Here you can know some inform

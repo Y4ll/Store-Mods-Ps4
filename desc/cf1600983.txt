@@ -1,0 +1,36 @@
+Transform farming into a faster and more enjoyable experience with Sneak Grow, a lightweight Minecraft Bedrock addon that lets players grow plants naturally by sneaking nearby.
+
+Instead of using bonemeal or special tools, simply sneak near supported plants to trigger a single growth stage. Each growth requires you to release sneak and sneak again, preventing accidental continuous growth and keeping the gameplay balanced.
+
+Feature
+
+Supports Achievements
+
+No special items required
+
+Grow crops by sneaking nearby
+
+Grow saplings into full trees
+
+Grow cactus and sugar cane
+
+Grow amethyst buds into full clusters
+
+Beautiful growth particle effects
+
+Works in Survival and Multiplayer
+
+Lightweight and performance-friendly
+
+One sneak = One growth stage (must sneak again for the next stage)
+
+Supports a 33 growth detection area, making farming easier without requiring you to look directly at each plant.
+
+Supported Growth
+all vanilla crops
+
+All Vanilla Saplings
+
+support Dorios Studios - bountiful crops and ore trees
+
+Whether you're building a massive farm, decorating your world, or simply saving time, Sneak Grow provides a fun and immersive way to accelerate nature without changing Minecraft's core survival experience.

@@ -1,0 +1,39 @@
+Echoes of Multiplayer - Version V8 (Mega Update)
+
+The most advanced AI Player simulation for Minecraft Bedrock just got even smarter!
+
+Enchanted AI System (Autonomous Progression)
+
+Smart Mining & Logging: AI players are no longer just wanderers. They will now autonomously scan for resources. If they find Ores (Diamond, Iron, Coal) or Wood, they will mine them using the correct tools.
+
+Tool Intelligence: AI knows progression! They won't try to mine Diamonds with a Stone Pickaxe. They will gather Iron first to upgrade their gear.
+
+Autonomous Crafting: When they have enough materials, AI will place a Crafting Table, craft better tools (Pickaxes, Axes, etc.), and then pack up their table to continue their journey.
+
+Block Placing: AI can now place blocks for basic navigation or to manage their inventory space.
+
+Advanced Food & Survival System
+
+Real 24-Slot Inventory: Every AI now has a functioning 24-slot inventory. You can actually see the items they are carrying!
+
+Auto-Pickup: AI will now automatically detect and pick up dropped food items within a 2.5-block radius.
+
+Cooking Logic (Furnace): If an AI has raw food (Raw Beef, Chicken, etc.), they will look for a spot to place a furnace and cook it into a better meal.
+
+Realistic Eating: AI now follows a 5-minute hunger interval with a 44% chance to eat from their inventory, making their survival feel organic.
+
+Hunting: If they run out of food, they will actively hunt nearby animals to restock.
+
+Improved Respawn & Identity
+
+Skin Persistence: Fixed the issue where AI would change skins after dying. Now, they will always respawn with the exact same skin they had before.
+
+Silent Respawn: Removed annoying "Joined/Back" chat notifications during respawns. Chat will now only show actual Joins and Leaves.
+
+Respawn Limit: Each AI is limited to 2 respawns. After the 3rd death, they will leave the game permanently, adding stakes to their survival.
+
+Global AI Management
+
+Stable 20/20 Cap: Fixed the Global AI Cap logic. The system now proactively enforces a 20-player limit.
+
+Oldest AI Eviction: When a new AI joins or a friend is resurrected, the oldest AI in the world will correctly receive a "Left the game" notification and be removed to make room.

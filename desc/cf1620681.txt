@@ -1,0 +1,59 @@
+Someone's Dynamic Lighting
+
+The ultimate, lightweight Dynamic Lighting add-on for Minecraft Bedrock Edition!
+
+Features
+
+This pack brings smooth and realistic Dynamic Lighting to your Minecraft world without the need for complex resource packs, experimental toggles, or heavy rendering.
+
+- True Dynamic Light: Hold any light source (Torches, Lanterns, Glowstone, Campfires, etc.) and it will instantly illuminate the area around you!
+
+- Native Inventory Offhand Support: You no longer need to use weird workarounds or right-click to hold a torch in your offhand. You can open your inventory and drag Torches and Lanterns directly into your offhand slot, just like a shield! (They can also still be placed normally).
+
+- Smart Block Logic: Intelligently places built-in light blocks without breaking or replacing existing blocks like water, tall grass, doors, or custom blocks.
+
+- Multiplayer Friendly: Fully compatible with multiplayer realms and servers. You and your friends can all explore caves together, each with your own dynamic light!
+
+- Extremely Lightweight: Uses highly optimized, non-obfuscated Bedrock @minecraft/server scripting to keep performance high and lag practically nonexistent. No heavy resource pack neededjust load the behavior pack and play!
+
+Supported Items
+
+- Torch (Level 14) [Offhand Dragging Supported]
+
+- Lantern (Level 15) [Offhand Dragging Supported]
+
+- Campfire (Level 15)
+
+- Glowstone (Level 15)
+
+- Sea Lantern (Level 15)
+
+- Shroomlight (Level 15)
+
+- Beacon (Level 15)
+
+- End Rod (Level 14)
+
+- Glow Berries (Level 14)
+
+- Soul Torch (Level 10)
+
+- Soul Lantern (Level 10)
+
+- Soul Campfire (Level 10)
+
+- Redstone Torch (Level 7)
+
+- Magma Block (Level 3)
+
+- Amethyst Cluster (Level 5)
+
+(To hold the other items in your offhand, simply right-click with them in the air, and they will automatically swap to your offhand slot!)
+
+Installation
+
+- Download the .mcpack file.
+
+- Double-click it to install it directly into Minecraft.
+
+- Apply the Behavior Pack to your world.

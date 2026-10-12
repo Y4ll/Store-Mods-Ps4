@@ -1,0 +1,225 @@
+PvP Practice Elite Edition v2.6.10 is a ready-to-play Minecraft Bedrock PvP practice world/add-on setup made for duels, queues, and kit-based training.
+
+The world already includes 2 normal PvP arenas for duels and queue matches, plus separate training arenas for each kit. Players can start practicing right away without needing to build or configure arenas themselves.
+
+It is designed for players who want to improve in different PvP styles, including Sword, Axe, SMP, UHC, Crystal, and Mace PvP. The setup includes duels, queues, training arenas, custom kits, stats, leaderboards, parties, safe arena boundaries, and a clean custom UI.
+
+Included World Setup
+
+- 2 normal arenas for duels and queue fights for each kit
+
+- 1 training arena for each kit
+
+- Lobby/spawn system
+
+- Queue and duel support
+
+- Kit-based training system
+
+- Safe arena boundary system
+
+- Custom menus and UI
+
+- Resource pack included for the full experience
+
+Main Features
+
+- Duel system
+
+- Queue system
+
+- Kit-specific training arenas
+
+- Custom kit saving and loading
+
+- Stats menu
+
+- Leaderboards
+
+- Party system
+
+- Spawn/lobby system
+
+- Admin tools
+
+- Safe return when leaving arena bounds
+
+- Multiple PvP kits: Sword, Axe, SMP, UHC, Crystal, and Mace
+
+Player Commands
+
+!menu
+
+Opens the main menu.
+
+!queue
+
+Opens the queue menu for normal PvP matches.
+
+!duel
+
+Opens the duel menu.
+
+!training
+
+Opens the training menu.
+
+!kits
+
+Shows available kits.
+
+!kit
+
+Opens kit options.
+
+!kit save <name>
+
+Saves your current inventory as a custom kit.
+
+!kit load <name>
+
+Loads a saved custom kit.
+
+!kit delete <name>
+
+Deletes a saved custom kit.
+
+!kit list
+
+Lists your saved kits.
+
+!stats
+
+Shows your personal stats.
+
+!leaderboard
+
+Opens the leaderboard.
+
+!party
+
+Opens party options.
+
+!settings
+
+Opens player settings.
+
+!spawn
+
+Teleports you back to the lobby/spawn.
+
+Admin Commands
+
+Most players do not need these commands because the world already comes with arenas set up. These are mainly for world owners who want to edit or add arenas.
+
+!admin
+
+Opens the admin menu.
+
+!setspawn
+
+Sets the lobby spawn.
+
+!spawnradius <1-1000>
+
+Sets the safe spawn radius.
+
+!arena list
+
+Lists normal duel/queue arenas.
+
+!arena create <name>
+
+Creates a new normal arena.
+
+!arena spawn1 <id>
+
+Sets player spawn 1 for an arena.
+
+!arena spawn2 <id>
+
+Sets player spawn 2 for an arena.
+
+!arena radius <id> <blocks>
+
+Sets the arena boundary radius.
+
+!arena kit <id> <kit>
+
+Sets the kit for an arena.
+
+!arena ranked <id> <on/off>
+
+Enables or disables ranked matches for an arena.
+
+!arena enable <id>
+
+Enables an arena.
+
+!arena disable <id>
+
+Disables an arena.
+
+!arena delete <id>
+
+Deletes an arena.
+
+!trainarena list
+
+Lists training arenas.
+
+!trainarena create <name>
+
+Creates a new training arena.
+
+!trainarena spawn1 <id>
+
+Sets training arena spawn 1.
+
+!trainarena spawn2 <id>
+
+Sets training arena spawn 2.
+
+!trainarena radius <id> <blocks>
+
+Sets the training arena boundary radius.
+
+!trainarena kit <id> <kit>
+
+Sets the kit for a training arena.
+
+!maintenance
+
+Toggles maintenance mode.
+
+!resetplayer <player>
+
+Resets a player back to spawn.
+
+!forceend
+
+Force ends an active match.
+
+How To Play
+
+Join the world and use:
+
+!menu
+
+From there, players can open the duel menu, queue menu, training menu, kits, stats, leaderboards, and party options.
+
+Installation
+
+- Download and import the world/add-on files.
+
+- Open Minecraft Bedrock.
+
+- Import the world.
+
+- Add the BP and RP to the world (if not included)
+
+- Enable cheats and required experimental/script options if needed.
+
+- Join the world and use !menu to start.
+
+Bots are made using PvP Practice Bots by Petstorebuffet

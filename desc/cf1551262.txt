@@ -1,0 +1,22 @@
+Naturalism Shaders is an atmospheric shader pack that transforms every biome with biome-accurate lighting, natural local illumination, and realistic depth. Built around the idea that every corner of your world should look and feel true to nature from sunlit forests to glowing cave systems.
+
+Check out the trailerfor a full cinematic preview of the lighting and dimensional atmosphere overhaul.
+
+Features
+
+- Biome-accurate atmospheric tinting and fog
+
+- Realistic sunrises and sunsets with natural light scattering
+
+- Natural local lighting from torches, lava, portals, glowstone, amethyst, candles, and more.
+
+- Per-biome foliage color cherry groves, dark forests, jungles
+
+- Realistic reflective water with natural depth
+
+- Dimensional atmosphere for the End and Nether
+
+Soft natural shadows that follow real light direction
+
+Copper bulb related issue is fixed!
+Feedback and suggestions are welcome to help shape future updates.

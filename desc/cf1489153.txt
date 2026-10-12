@@ -1,0 +1,68 @@
+Haebi's Enhanced Arsenal
+
+Do you dislike overly OP add-ons and want to keep that vanilla feel?
+Haebi's Enhanced Arsenal alters your combat style with a perfect balance between Vanilla and OP!
+
+( This add-on is currently in its Beta stage, and more content will be updated! Please support a beginner developer, and feel free to leave any feedback or bug reports in the comments!)
+
+NO Beta APIs or Experimental Features Required!
+
+-
+
+Machete (The Base Weapon)
+Equipped with Java Edition's "Sweeping Edge" mechanic, this is the core weapon of Enhanced Arsenal.
+
+Damage: +1 Attack Damage compared to Vanilla Swords.
+
+Sweep Attack: Upon hitting a target, it deals splash damage to all enemies within a 3-block radius. (Cooldown: 0.6 Seconds)
+
+Smart Safety: The sweeping edge effect will NOT damage tamed wolves, cats, or villagers. Swing your blade safely in your base!
+
+2. Longbow
+
+A true archer's weapon that completely upgrades your ranged combat.
+
+Powerful Damage: Deals 1.3x amplified damage compared to the Vanilla Bow.
+
+Attack Speed: Features the exact same draw speed (1.2s) as the Vanilla Bow, making it a pure, direct upgrade.
+
+3. Shield Coating System (Custom Shields & Mini-Gacha)
+
+Turn your boring vanilla shield into a piece of magical gear!
+
+How to use: Equip a shield in your Off-hand, hold a Coating Item in your Main-hand, and Right-Click (Use). Each shield has a maximum of 4 slots.
+
+Risk & Return: There is a 70% chance of success and a 30% chance of failure. Success grants a random buff from Lv.1 to Lv.3. If it fails, the coating shatters and you lose that slot!
+
+The Coating Lineup:
+
+Magic Defense: Reduces Magic / Poison / Wither / Dragon Breath / Warden Sonic Boom damage. (Reaching Lv.3 has a 50% chance to grant Weakness Immunity)
+
+Lightweight: Increases movement speed and gives a chance to dodge physical attacks. (Reaching Lv.3 has a 50% chance to halve fall damage & grant Slowness Immunity)
+
+Luminous:
+
+Provides dynamic lighting around the player. (Reaching Lv.3 grants infinite Night Vision)
+
+Grants continuous Regeneration.
+(Reaching Lv.3 grants a Max Health Boost of +4 Hearts!)
+
+Mining: Grants Haste and immunity to Blindness/Darkness. (Reaching Lv.3 grants Fire Resistance)
+
+Tip: How to replace a coating when all 4 slots are full?
+
+Are your shield slots fully packed, but you want to switch to a different coating?
+
+For example, if you want to replace a [Luminous] coating with a [Fortitude] coating, just try applying another [Luminous] coating!
+
+If the coating process fails (30% chance), that specific slot will be emptied, allowing you to apply a new one.
+
+Alternatively, you can just grab a new vanilla shield and build your very own custom shield collection!
+
+Terms of Use (Copyright / Permissions)
+
+Do NOT re-upload this add-on to any other websites or apps (such as MCPEDL, PlanetMinecraft, etc.).
+
+Do NOT claim this add-on, its code, or its custom assets as your own.
+
+Do NOT provide direct mediafire or download links.

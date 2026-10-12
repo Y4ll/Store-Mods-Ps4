@@ -1,0 +1,43 @@
+Join the Discord
+
+Compatibility
+
+This addon is compatible with achievements, other addons and vibrant visuals.
+
+Vanilla Knives
+
+This addon adds knives to the game. They function similair to swords. Additionally you can craft them in a 2x2 grid. No crafting table required.
+
+Wooden Knife:
+
+A wooden knife can be crafted using any sort of planks. It deals the same amount of damage as a wooden sword. It has 50 durability.
+
+Stone Knife:
+
+A Stone Knife can be crafted using all stone variants. It deals the same amount of damage as a stone sword. It has 100 durability.
+
+Copper Knife:
+
+An copper knife can be crafted by using an copper ingot. It deals the same amount of damage as a copper sword. It has 130 durability.
+
+Iron Knife:
+
+An iron knife can be crafted by using an iron ingot. It deals the same amount of damage as a iron sword. It has 200 durability.
+
+Golden Knife:
+
+A golden knife can be crafted by using a gold ingot. It deals the same amount of damage as a golden sword. It has 30 durability.
+
+Diamond Knife:
+
+A diamond knife can be crafted by using a diamond. It deals the same amount of damage as a diamond sword. It has 1000 durability.
+
+Netherite Knife:
+
+A netherite knife can be crafted using the smithing table. Use a "netherite upgrade" template together with a diamond knife and a netherite ingot to craft it.
+
+The addon is fully compatible with other addons.
+
+Do not redistribute this addon. All rights belong to The Cubic Company.
+Addon artworks, textures and tumbnails belong to The Cubic Company.
+When reviewing the addon always link to this page.

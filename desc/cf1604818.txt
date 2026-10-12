@@ -1,0 +1,11 @@
+Real Vein Ore lets you mine an entire ore vein instantly, making mining much faster and more efficient.
+
+Auto Smelt automatically smelts only compatible ores that normally require smelting, such as Iron Ore, Gold Ore, and other supported ores.
+
+How to Use
+
+- Mine an ore block using a Pickaxe.
+
+- Breaking an ore with a pickaxe will automatically activate Real Vein Ore.
+
+- If the ore is supported by Auto Smelt, it will drop its smelted version instead of the raw ore.

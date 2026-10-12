@@ -1,0 +1,81 @@
+Archaism talismans - showcase (Click here)
+
+Hello everyone again, today I present to you from my well-worn hands, the Archaism trinkets addon, is a dynamic Minecraft addon introducing 520 fun trinkets,With 19 customizable slotsincluding Head, Necklace, Body, Feet, Rings, Charms, and moreyou can tailor your character to suit your playstyle. Equip trinkets through a dedicated inventory system or directly from your hand for seamless gameplay.......
+
+Interactive with each other!As a presentation, it contains slots and a custom inventory, interactive effects, loot in structures, mobs and even more mechanics!!!I recommend preparing your extensive, your exploration backpack and your pickaxe, as we will have the most complex trinket addon.
+
+Looking to enhance your Minecraft experience without straying from the essence of the vanilla game? You've come to the right place! Introducing Archaism Trinkets, the add-on that will take your adventure to the next level. Welcome to a new way to experience Minecraft. In this space, you'll have the opportunity to expand your possibilities and overcome the limitations of traditional gameplay. As you explore and progress through your world, you'll discover a variety of customization options for the items you find.
+
+Addon guide:
+https://www.patreon.com/posts/archaism-148786536
+
+Recomended addons:
+
+- Mode insane:
+https://mcpedl.com/difficulty-insane/
+
+- Cataclysmical: is a large content Add-On that adds various blocks, weapons, mobs, dungeons and even bosses. Cataclysmical aims to add a fun and hard challenge to Minecraft. Some mobs and bosses are intended to be hard and challenging
+https://www.curseforge.com/minecraft-bedrock/addons/cataclysmical
+
+- Structrures addon: (compatble with trinkets loot chest)
+https://mcpedl.com/dungeon-expanse-add-on/
+
+-
+
+Dorio's trinkets: Want even more trinkets? Try out Dorio's trinkets, an incredible addon with over 50 trinkets for even greater customization and power! Dorios' Trinkets and Archaism trinkets are fully compatible since they use the same system made by us.; Dorio's trinkets !!
+https://mcpedl.com/dorios-trinkets/
+
+- The tragedy of the mobs do: You think the player is too op and that the mobs are just victims? Try playing with mobs with extra abilities.
+https://mcpedl.com/the-tragedy-of-the-mobs/
+
+- BigGamer sau addons: Do you need new weapons, blocks, and decorative masks? Well, you'll have it in Crystalline Weaponry.
+https://discord.gg/5s9JuQDASw
+
+Available languages:
+
+English:
+
+Spanish (Espana & Mexico):
+
+Portugues (Brazil & Portugal):
+
+Ukrainian & Rusian:
+
+Korean:
+
+Discover trinkets in various Minecraft structures, from Ancient Cities to Desert Pyramids, or craft them to unlock their full potential. Whether youre building a Arcangel, a swift assasin, or a versatile adventurer, Archaism Trinkets adds depth, variety, and excitement to your world...
+
+Let's get to the interesting part, what's new in the version?
+
+Archaism Trinkets Changes
+
+New version v1.4.1
+
+Changes:
+
+- Zweihander rework;
+* Now the zweihander have cooldown on hit
+* The zeweihanders now broken slow
+* Sweep damage compatibles with enchantments ( the durability, sharpenss, knockback, fire aspect)
+- A new trinkets been arrived!!!
+- A new jewerly upgrades have been arrived!!!
+- A new armors sets have been arrived!!!
+- Some rework trinkets(defense stats)
+- Fixes on the langs, name & descripcions from trinkets
+- Death mark rebalanced ; now only apply 1 damage or 2 damage if u have more than 10 hearts
+- Rework on some magics trinkets. New focus on the magic system: Summoner builds
+- Configurable BP & RP
+- Some textures rework
+- Show stats system been simplified
+- Base ui rework
+- New earring slot & face slot
+
+Fixes:
+
+- Guidebooks duplication from other addons; V1.4 will not happen anymore
+- Recover scroll removed
+- Reworked on the defense system now work propertly
+- No sounds in sweep damage; now is added
+- Burns netherite items on lava; now have fire resistance like normal netherte & more items
+
+N

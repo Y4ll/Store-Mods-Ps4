@@ -1,0 +1,51 @@
+Fake TNT
+
+Play a prank on your friend
+
+Dirt TNT
+
+Leaves dirt around it
+
+Wool TNT
+
+Turns the blocks around it into wool
+
+TNT Barrel
+
+Push this tnt to throw it away
+
+TNT x2
+
+TNT x3
+
+TNT x5
+
+TNT x10
+
+Antigravity TNT
+
+Inferno TNT
+
+Aquatic TNT
+
+affects the blocks underwater
+
+Sculk TNT
+
+Turns the blocks around it into sculk
+
+TNT firework
+
+You can find all the recipes in the recipe book.
+
+Discord: euforia_sin_h
+
+Discord server comunity: https://discord.gg/YJ5v727bJH
+
+YT: https://www.youtube.com/@Euforia-conr
+
+Note:
+
+Don't forget to activate the beta-api from experimental options.
+
+A new update will be coming soon, feel free to leave comments and suggestions.

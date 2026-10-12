@@ -1,0 +1,55 @@
+Jackie - FNAF Mimic Secret Addon
+
+FNAF Horror in Minecraft.
+
+Meet Jackie from FNAF: The Mimic Secret. This is a full-fledged horror experience with 4 stages, jumpscares, unique mechanics, and its own sounds for each stage.
+
+You can support me with money on PayPal. I will be very grateful.
+
+*Support Me* - https://paypal.me/MeBesm
+
+The Box: Source of Terror
+
+It all starts with a wooden box.
+
+- Awakening: Hit the box multiple times to "start" Jackie. She'll jump out, remaining attached, swaying slightly and making characteristic sounds.
+
+- Release: If you stay near her, Jackie will jump off the box and begin the chase.
+
+Feedback & Future Updates
+
+Please leave comments with feedback, bug reports or suggestions!
+
+Socials
+
+Discord: https://discord.gg/f5SHj32uAj
+
+YouTube: https://www.youtube.com/@MeBesm
+
+Telegram: https://t.me/tMeBesm
+
+Jackie's States: 4 Levels of Nightmare
+
+Jackie changes, becoming increasingly dangerous and terrifying.
+
+- 1. Simple: Undamaged, just jumped out of the box. Chases you and other mobs. Uses powerful attacks and unexpected jumpscares.
+
+- 2. With Yellow Eyes: After the first "defeat," Jackie returns with glowing yellow eyes. She's more aggressive, and her jumpscare is more intense.
+
+- 3. Broken: After the second "defeat," Jackie appears in her final, broken form. Her movements are chaotic, and her jumpscare is pure madness.
+
+- 4. Lying Down: After defeating Jackie, she falls and twitches.
+
+Download & Installation
+
+- Designed for Minecraft Bedrock 1.20+.
+
+- Download the file from this page.
+
+- Import both the Behavior Pack and the Resource Pack into your game.
+
+- Activate both packs in your World Settings.
+
+- Enable all Experimental Gameplay Features for the addon to work correctly.
+
+- Enjoy the infection!

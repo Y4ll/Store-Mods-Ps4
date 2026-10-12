@@ -1,0 +1,21 @@
+Just makes the grass look awesome :3 Gallery at the end
+
+Oh, and it also includes a Grass Tuner item that lets players customize a wide range of grass settings to match their preferences. It's useful for quickly adjusting the look and performance of the grass, so be sure to use it!
+
+Crafting recipe for the Grass Tuner if you ever lose it:
+
+Update v1.1.0:
+
+Realistic Grass Style Added
+
+Added an option to change how blade tips look (Sharp/Normal/Dull/No Trim)
+
+(You can still download v1.0.0 if you prefer, it's stable)
+
+There are also subpacks available to completely change the look of the grass. Deep/Classic/Bright+/Vibrant If you don't like the default appearance, you can easily switch to your preferred style from the Resource Pack Settings. MAKE SURE TO CHANGE THE WORLD SIMULATION DISTANCE TO 8 OR HIGHER FOR IT TO WORK AS INTENDED!! but if you don't want you may not do it hehe (if you encounter bugs report to me via discord).
+
+Important: before you remove the pack, because the grass physically replaces the blocks in your world, please open the Grass Tuner, set the mode to Restore, and walk around your build first. This turns everything back into normal vanilla grass. If you remove the pack without restoring, the grass will show up as unknown blocks.
+
+Don't re-upload this pack or share direct .mcaddon files. Always link back to the official MCPEDL page AND Curseforge page so you get the latest, safe version. Enjoy your new meadow :3
+
+Gallery ^0^

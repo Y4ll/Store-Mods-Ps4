@@ -1,0 +1,16 @@
+Have you ever wanted to spice up Minecraft with some meme action or simply have a few laughs ? Meme death does just that! By switching up the death screen in many different aspects, this pack makes dying in Minecraft a bit more "interesting" (for some :D). This pack was originally made by noobysheep_ for Java Edition and was ported by me to Bedrock Edition.
+
+FEATURES
+
+- 15 custom death messages
+
+- 6 player death sounds (picked at random on death)
+
+- New player death subtitle
+
+- New death screen GUI text
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

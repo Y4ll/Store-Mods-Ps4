@@ -1,0 +1,81 @@
+The functionality of this resource package is to guarantee comfort, efficiency, softness and a different perspective than the conventional interface, redesigning it to a more striking and vivid color, keeping vanilla in mind.
+
+Continues 2 game modes. In Default mode (mode 1) find modifications in the social user interface, such as:
+
+- The inventory
+
+- The settings
+
+- The dressing room
+
+- Work tables
+
+- Touch buttons
+
+- Among other interfaces.
+
+Note: To ensure that all details have been loaded, you need to restart the game after activating it.
+
+Interface saturation may vary on the screen of some devices.
+
+Position (in English language (United States))
+
+Hotbar
+
+The red buttons for trades and inventory are darker to differentiate them.
+
+Optimization mode and additional functions (mode 2) give you a hand when living a new adventure, following blocks, objects and modified interface to improve the player experience, changes such as:
+
+- Improved video settings
+
+- Tools and weapons cut off
+
+- Vignettes and effects removed
+
+- Vanilla animations removed
+
+- Improved crystals
+
+- Marked crops
+
+- More vivid colors in forest biomes
+
+- Single color leaves
+
+- Short crosshair
+
+- Wooden doors and hatches with views to the outside
+
+- improved enchanted glint
+
+- And much more.
+
+Translucent chat screen
+
+Visible trades
+
+Animated ores
+
+Spyglass scope removed
+
+Decreased pumpkin blur
+
+Faded frozen effect
+
+Hidden enchantments
+
+More visibility when entering water and lava
+
+Reduced boss bar
+
+Custom fog
+
+AGREEMENT
+
+- If you are going to use my package in any of your videos, please respect the original link and credit the creator.
+
+- Altered links or links with misleading advertising are not permitted.
+
+- You can edit the package for your own use, as long as venalalex123 is credited as the original creator of the package.
+
+Join my Discord server: discord.gg/G6BAGcfp6m

@@ -1,0 +1,21 @@
+A modScript/addon that will drop items, place blocks or spawn random mobs by breaking any block, dropping items like enchanted apples, nether stars and many more.
+Compatible with any Add-On/Mod in any world.
+
+How to play
+Simply break any block and random items will be dropped, mobs will appear, or blocks of any kind will be placed.
+The only purpose is to have fun getting random items and survive the enemy mobs that might appear.
+
+Crouching will temporarily disable the addon.
+Mobs like dragon, wither, warden, and the elder guardian will die instantly to avoid disturbing players.
+
+# Demonstration:
+
+# How to install:
+
+- Download and install the behavior pack.
+
+- Activate the behavior pack in your world settings.
+
+# Info:
+
+- Effect99: Report bugs to my Discord

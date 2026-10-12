@@ -1,0 +1,27 @@
+Check my youtube video for the showcase:
+
+https://www.youtube.com/watch?v=NycES0YeIOk
+
+Main Features:
+
+Works on Everything: Catch vanilla mobs AND custom mobs from other addons!
+
+Achievement & Tame Friendly: Capturing a tamed wolf, cat, or horse won't break their tame status. Your pets are safe!
+
+Custom UI System: No random dropping. We have a clean UI menu so you can choose exactly which mob you want to release.
+
+Multiplayer Compatible: Works flawlessly on Realms and servers with your friends.
+
+How to Use:
+
+Crafting:
+
+To Catch a Mob: Hold the Mob Catcher in your hand, look directly at the mob, and Right-Click (or Long-Press on mobile). Make sure you are NOT crouching! You can even give them a name to mark them.
+
+To Release a Mob: Crouch (Sneak) and use the Mob Catcher. A UI will pop up showing the mobs you've caught. Just click the one you want to release, and they will spawn right in front of you!
+
+Compatibility: This addon does not use player.json, so it is completely compatible with almost any other addon you have installed.
+
+comment if u got any bug
+
+If you showcase this add-on in a video or share it, please credit @haevafer and link back to this CurseForge page!

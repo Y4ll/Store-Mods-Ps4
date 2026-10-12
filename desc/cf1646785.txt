@@ -1,0 +1,15 @@
+A complete dark-mode overhaul for Minecraft Bedrock's interface. Every panel, button, slot, and toggle vanilla uses has been reworked from the ground up into a clean, low-contrast dark grey palette with semi-transparent panel layers no more bright tan stone-menu glare breaking your screen at night or in dark builds.
+
+What's changed:
+
+- Inventory, hotbar, and crafting screens fully retextured in dark tones
+
+- Numbered hotbar slots (19) built in, across desktop and touch layouts
+
+- Touch controls (jump, sneak, mount, sprint, fly, swim) reskinned to match
+
+- Every major menu covered brewing, enchanting, anvil, smithing, beacon, loom, horse/llama, stonecutter, trading, emote wheel, hardcore hearts, and the store/pause screens
+
+- Semi-transparent dialog and hotbar backgrounds for a layered, less blocky feel
+
+Requires Minecraft Bedrock 1.21.80+. Purely a resource pack no gameplay changes, just a full visual pass on the UI.

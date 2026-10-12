@@ -1,0 +1,37 @@
+RAGDOLL FOR BEDROCK !
+
+CAPE PHYISC redefines how movement feels in Minecraft Bedrock. While standard cape packs use a single, stiff bone, this project uses a manually crafted 24-segment chain to deliver the smoothest physics possible . We might implement 32 bones in later updates .
+
+Features:
+
+True Fluidity: A 24 bone skeleton allows the cape to curve, ripple, and flow naturally rather than bending at sharp, ugly angles .
+
+Nested Geometry: Using custom-sized "nested" segments, the cape maintains a solid, seamless look even during extreme rotations or sprinting.
+
+Dynamic Molang Logic: Custom math strings ensure the cape reacts differently to:
+
+Sprinting: Added lift and drag.
+
+Sneaking: Proper draping that respects the player's crouch height.
+
+Jumping/Falling: Realistic vertical momentum.
+
+Swimming: Fluid, water-resistant sway.
+
+Technical Specifications:
+
+Bone Count: 24 High-Fidelity Segments
+
+Compatibility: Works with standard 64x32 cape textures.
+
+Optimization: Tested and optimized for mobile performance
+
+Installation:
+
+Download the .mcpack.
+
+Double-click to import to Minecraft.
+
+Apply to your Global Resources.
+
+Note: Ensure your skin has a cape enabled to see the custom physics.

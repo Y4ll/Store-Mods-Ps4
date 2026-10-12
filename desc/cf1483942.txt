@@ -1,0 +1,72 @@
+It is necessary to download and install both packages BP and RP, otherwise it will not work!
+
+There are 3 BPs with different options; you can download them all, but only activate one at a time, along with the RP per world!
+
+AB Legacy BP: Adds all the mentioned biomes without replacing the vanilla ones; they are rare to find!
+
+AB Revival BP: Replaces all vanilla biomes with only alpha/beta/infdev/indev biomes!
+
+AB Hell BP: Replaces all vanilla biomes with a single alpha dirt biome, and there are vast oceans of lava!
+
+Do you like alpha/beta/old versions of Minecraft?, or would you simply like to see or try things removed from said versions, then you will love this addon!To begin with, it brings back the first alpha biome of Minecraft, that is, the forest with neon green grass, and never before seen versions of some mobs, such as wolves, enderman, among others.
+
+This addon requires at least version 1.21.130, it does not work on older versions!
+
+Biomes:
+
+Alpha Biome: Do you remember the first Minecraft forests that have grass and neon green tree leaves?
+
+This addon brings it back, it is a recreation, therefore it is not completely exact, but it is as similar as possible!
+
+In this biome you can find the alpha versions of rose and dandelion!
+
+Infdev Forest: It's similar to Alpha Forest but with slight changes in its generation; there are fewer trees, large trees don't generate here, sand patches are common, and houses from older versions can spawn!
+
+Mushroom Forest: A place filled with giant mushrooms! Many animals and Mooshrooms live here, and you can also find Pigman Villages.
+
+Classic Plains: The first existing biome in all of Minecraft , there isn't much to find in this biome, but it can be perfect for building!
+
+Indev Hell: In the Indev versions of Minecraft there was a special map called "Hell" which was composed of only dirt, few trees, and a huge lava lake, monsters always spawned there, and there were no animals!
+
+Legacy Frozen Ocean: is an unused frozen variant of oceans.
+
+Is similar to frozen ocean biomes, but without icebergs, making it look like flatlands of ice.
+
+Shattered Savanna Plateau or Savanna Plateau Mutated: was a rare variant of the savanna biome that no longer generates since Caves & Cliffs: Part II.
+
+The foliage was a more vibrant green color, and rain would often occur in it.
+
+Beta Ocean: the ancient ocean, made of earth, clay, and sand, inhabited by Beta Squid!
+
+Ice Desert: a desert with layers of snow, a highly dangerous biome, inhabited by white foxes, gold and white rabbits; and at night by husks and strays!
+
+Rain Forest: a lush and humid biome with many trees, with a 1 in 3 chance of being large; it had a large amount of tall grass and ferns!
+
+Seasonal Forest: a lower-density version of the forest biome only capable of spawning oak trees!
+
+Tundra: A biome similar to the current Ice Plains but without trees, and featuring snow blocks and ice patches!
+
+Shrubland: A biome similar to the savannas but without trees and flatter!
+
+Mobs:
+
+Alpha Cow: It is the first version of the cow, it spawns in the Alpha Biome, it is just like a common cow!
+
+Alpha Sheep: It is the first MCPE sheep, you can dye it with up to 31 different colors, 16 colors are the old MCPE wool, and the other 15 colors are the first cloth from the Java version. When dying it does not drop Raw Mutton.
+
+Rainbow Sheep: It is a sheep variant from Minecraft Earth!
+It rarely spawns in plains biomes!
+
+You can use shears to get its rainbow wool, or kill it!
+
+Beta Squid: Just like a normal squid, but you can milk it!
+
+Beta Sheep: when hit it drops cloth!
+
+Prerelease Wolf and Beta Wolf: Before the wolf that we all know, there were two prototypes that never saw the light of day, a beta version, and a pre-release.
+
+Alpha Creeper: this creature uses melee attacks and explodes when it dies!
+
+Brown Spider: Did you know that the first version of spiders were brown? They are always aggressive.
+
+Creeper: The creeper texture has been updated to match the jappa 

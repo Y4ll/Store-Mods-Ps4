@@ -1,0 +1,21 @@
+Remember to download the shader for Windows or Android, go to "files" to download it.
+
+Transform your world with Newb x Shader: vibrant colors, stunning turquoise water, adjustable intense shadows, and dreamy sunrises.
+
+Immerse yourself in a world filled with vibrant colors and stunning detail with the Newb x Shader. Designed to provide an unparalleled visual experience, this shader features a perfectly balanced color palette that brings your Minecraft world to life.
+
+The water, a beautiful turquoise blue, will make you feel like you're floating in a tropical paradise, although it's not as realistic as we'd like due to technical limitations.
+
+Strong shadows add depth and realism to every corner of your world.
+
+Don't like the intensity? No problem! Simply adjust the brightness in your game settings to get everything just the way you like it.
+
+And we can't forget those breathtaking sunrises and sunsets, capturing the magic of every day in your game.
+
+Credits:
+
+- Deven (Original creator of the Newb Shaders).
+
+- I must also clarify that this shader is a modified variant of the original shader shader (newb x legacy).
+
+- Newb shader repository

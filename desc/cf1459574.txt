@@ -1,0 +1,99 @@
+Simple Vein Miner | V2.1.0
+
+Simple Vein Miner is a Vein Miner addon for Minecraft Bedrock Edition. Break one ore and the entire vein mines itself with full enchantment support, per-player settings, and zero lag.
+
+The Most Lightweight & Efficient Mining Addon for Minecraft Bedrock! (Compatible with 1.21.120+ and Realms)
+
+Simple Vein Miner V2.1 brings stability and UX improvements on top of the fully featured settings system introduced in V2.0.
+
+WHAT'S NEW IN V2.1.0
+
+Stability fixes and a cleaner in-game experience better toggle feedback, a fixed Silk Touch behavior, and the removal of an unintended server-wide gamerule change.
+
+Stability Fixes
+
+- Fixed Silk Touch drop duplication: blocks now drop correctly with no chance of generating duplicate items.
+
+- Removed unintended gamerule showtags false that was being applied server-wide on every new player join.
+
+Improved UX
+
+- Clearer welcome message: new players now receive three lines explaining how to use the addon right away.
+
+- Distinct toggle sounds & icons: enabling plays a unique sound and shows Enabled; disabling plays a different sound and shows Disabled.
+
+Custom Config Item
+
+- Replaced the vanilla book with a proper custom item (svm:config).
+
+- Right-Click it to open the Settings Menu.
+
+- Given automatically on first join and kept on death.
+
+In-Game Settings Menu
+
+- Toggle Options:
+
+- Magnet XP & Items: Gradually pulls dropped items and experience orbs toward the mined vein.
+
+- Particles: Turn mining particle effects ON or OFF.
+
+- Silk Touch Support: Choose whether Silk Touch drops the ore block instead of the resource.
+
+- Configurable Limits (Sliders):
+
+- Max Horizontal Spread: 116 blocks
+
+- Max Blocks Up: 132 blocks
+
+- Max Blocks Down: 032 blocks
+
+- Max Total Blocks: 8512 blocks
+
+- Reset to Defaults: One toggle at the bottom of the menu restores all settings instantly.
+
+Toggle Mode
+
+- How to Toggle: Hold a Pickaxe, Sneak + Right-Click in the air.
+
+- Visual Feedback: An Actionbar message tells you if the Vein Miner is ENABLED or DISABLED.
+
+- Freedom: Once enabled, mine ores standing up, running, or flying!
+
+Advanced Durability & Enchantments
+
+- Fortune IIII: Fully calculated to match vanilla drop formulas. You get the extra resources you deserve.
+
+- Unbreaking IIII: Fully supported each block has a reduced chance of damaging the tool.
+
+- Silk Touch: Drops the ore block itself instead of the resource (toggleable per player).
+
+- "Save My Pickaxe": The addon automatically stops mining if your pickaxe has only 1 durability left.
+
+Core Features
+
+- ZERO LAG Technology: Powered by the Job System (system.runJob) breaks veins in batches of 16 blocks per tick.
+
+- Smart Item Attraction: Dropped items and XP are gradually pulled toward the origin block for a smooth, natural collection effect.
+
+- Universal Compatibility: Works with ANY Pickaxe (Vanilla, Netherite, Custom Addons) and ANY Ore (Overworld, Nether, Deepslate, custom addon ores).
+
+How to Use
+
+- Get the Config Item: Received automatically on first join.
+
+- Toggle Mode: Hold your Pickaxe, Sneak + Right-Click. You will hear a sound and see "Enabled".
+
+- Mine: Break any ore. The entire vein mines itself!
+
+- Configure: Right-Click the config item to adjust options and limits.
+
+Support / Apoyo
+
+Simple Vein Miner is 100% free.
+
+Creating quality code takes time. If you like the add-on:
+
+Support us on Ko-fi (Click Here)
+
+Works on Minecraft Bedrock 1.21.120+

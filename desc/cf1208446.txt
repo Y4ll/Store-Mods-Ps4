@@ -1,0 +1,15 @@
+Golden Mirror Update
+
+This addon allows you to craft a magic mirror that allows you to teleport to your spawnpoint. It's easy to craft, but you can run out of iron quickly if you use it too often.
+
+- You can repair ir with either iron blocks or diamonds.
+
+- Don't forget to set a spawnpoint, or else it won't work.
+
+- Have in mind that it's expensive to use it frequently.
+
+- You can also use it in other dimensions. Just make sure you have enough free space around your portal
+
+If you use a golden mirror, you will be teleported to the last place where you used a magic mirror.
+
+You can repair it with a gold block

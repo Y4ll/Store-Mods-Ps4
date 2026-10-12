@@ -1,0 +1,86 @@
+Offhand Addon for Minecraft Bedrock/MCPE
+
+The Offhand Addon brings a near-Java experience to Bedrock Edition by letting you use your second hand for useful items like torches, totems, shields, and more. Bedrock players usually have a limited offhand, but with this addon you can finally enjoy smoother gameplay and better utility just like Java Edition.
+
+What This Addon Does
+
+- Enables the offhand slot for more items
+
+- Works like Java-style dual-wielding (depending on configuration)
+
+- Great for mining, exploring & combat
+
+- Mobile-friendly controls
+
+- Lightweight & no lag
+
+Items Supported in Offhand
+
+Item Type
+Example
+
+Light Sources
+Torches, Lanterns (for cave exploring)
+
+Safety Items
+Totem of Undying
+
+Combat Utility
+Shields (addon-dependent)
+
+Tools / Utility
+Sometimes arrows, depending on version
+
+(Exact supported items depend on your subpack or addon version)
+
+How to use?
+
+Double crouch to swap items into off hand (only few things not work)
+To use water Bucket (like mlg or whatever) crouch and right click three times
+
+Why Offhand is Useful
+
+Activity
+Benefit
+
+Mining
+Hold torch in offhand, pickaxe in main hand
+
+PvP / Combat
+Keep totem or shield ready
+
+Survival
+Fast switching without inventory opening
+
+Exploration
+Better visibility + safety
+
+How to Install
+
+- Download the .mcpack file
+
+- Open it to import into Minecraft
+
+- Go to Settings Global Resources
+
+- Activate the addon
+
+- (If required) enable Experimental Features
+
+- Restart the world and enjoy dual wielding
+
+Compatibility
+
+Version
+Support
+
+Minecraft Bedrock 1.19+
+
+MCPE (Android/iOS)
+
+Windows 10/11
+
+Consoles (Xbox/PS/Switch)
+
+Realms
+(most offhand addons cant run on Realms)

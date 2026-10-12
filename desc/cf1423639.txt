@@ -1,0 +1,33 @@
+Hey everyone! Have you ever wanted to be the absolute Ruler of Time in your Minecraft survival world? We have all been in situations where the game feels unfair. You are organizing your chests, and suddenly a Creeper drops from the ceiling and blows up everything before you can even react. Or maybe you are fighting a skeleton, and an arrow hits you right when you are at half a heart. What if you could just hit a pause button on the entire universe?
+
+Welcome to the RR Time God Addon. I have completely rebuilt this mod for version 2.0.0, and it is not just a simple magic trick or a basic texture pack. This addon gives you a literal superpower. It allows you to bend the laws of physics, freeze enemies, stop projectiles in mid-air, and unleash devastating damage on your targets. Best of all, this is the Full Access Edition, meaning every single god-tier feature is completely unlocked for you from the very beginning.
+
+The Matrix Effect (World Freeze)
+
+This is the core feature of the addon. When you activate your Time Clock, the entire world around you completely stops. It feels exactly like a scene out of an action movie.
+
+- Frozen Entities: Every single mob in your adjustable radius (up to 100 blocks) becomes a solid statue. They cannot move, they cannot attack, and they cannot track you. You are the only one who can walk around freely.
+
+- Projectile Freeze: This is my favorite part. If a skeleton shoots an arrow at you, or a Drowned throws a trident, stopping time will freeze that projectile right in mid-air. You can literally walk around the arrow, look at it from different angles, and safely step out of the way before you resume time. This works perfectly with Arrows, Tridents, Snowballs, Ender Pearls, and even Ghast Fireballs!
+
+- Slow Motion Mode: Don't want to completely stop time? You can activate the Slow Motion mode to reduce the speed of the entire world, giving you cinematic, highly detailed combat experiences while you easily dodge enemy attacks.
+
+Damage Stacking (One Hit Kill Mechanics)
+
+If time is stopped, how do you fight? I designed a highly advanced combat system called Damage Stacking. When time is frozen, mobs do not take knockback or immediate damage because, logically, time is not moving for them.
+
+Here is how it works: You freeze time, walk up to a Warden or a Wither Boss, and hit them 15 times with your sword. You will hear a satisfying note block sound that increases in pitch with every single hit, letting you know the damage is being stored. The mob will not react. But the second you resume time, BOOM! All 15 hits will register at the exact same millisecond. You will hear a massive explosion sound effect, and the enemy will take all that combined damage at once, flying dozens of blocks away. It is the most satisfying way to defeat bosses in Minecraft.
+
+Flash Speed and Auto-Survival
+
+Being a Time God is not just about stopping enemies; it is about moving faster than light and surviving impossible odds.
+
+- Flash Speed Mode: When you freeze time, you can toggle Flash Speed ON. This gives you superhuman movement speed (adjustable from 1x to 10x speed) while the rest of the world is completely paused. You can cross massive distances or escape huge ravines in a fraction of a second.
+
+- Auto Time Freeze: Survival mode can be unpredictable. What if you accidentally fall into a lava lake in the Nether, or get ambushed when you have no armor? If you turn on Auto Time Freeze, the addon constantly monitors your health. The moment your health drops to a critical level, the addon will automatically freeze time for you, giving you a chance to eat a golden apple, build a protective wall, or run away before you die.
+
+The Ultimate Settings Panel & Customization
+
+I wanted to give you total control over how these powers work, so I built a beautiful custom Graphic User Interface (GUI) directly into the game. You do not need to type any commands.
+
+By simply holding a normal Book, Sneaking (crouching), and clicking the screen, yo

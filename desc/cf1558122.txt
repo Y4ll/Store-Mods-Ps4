@@ -1,0 +1,15 @@
+A sleek, minimal UI overhaul for Minecraft that gives every menu a clean, dark aesthetic. Dark UI+ replaces the default interface with a polished dark theme across all screens from the loading splash and chat window to the inventory, crafting table, and creative menu.
+
+Features:
+
+Deep charcoal and dark grey panels replace the default brown/beige UI
+
+Consistent dark styling across inventory, crafting, and creative search screens
+
+Clean, readable white text that pops against the darker backgrounds
+
+Subtle borders and refined slot styling for a modern look
+
+Fully compatible with vanilla gameplay purely a visual enhancement
+
+Whether you're sorting through hundreds of building blocks in creative mode or chatting with friends on a server, Dark UI+ keeps your interface sleek and distraction-free so the world stays the star of the show.

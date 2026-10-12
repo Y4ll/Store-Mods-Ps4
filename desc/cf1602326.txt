@@ -1,0 +1,107 @@
+Advanced Tree Capitator
+
+Make wood gathering faster and more convenient with Advanced Tree Capitator by FleetMc Studio. This survival-friendly addon allows you to cut down entire trees by breaking just one connected Log or Wood block, saving time while keeping an important balance through normal axe durability usage.
+
+From common Overworld trees to massive Nether fungi, Advanced Tree Capitator supports different types of Logs, Woods, Stems, and Hyphae found throughout Minecraft. Simply grab an axe, start chopping, and let the addon handle the connected wood blocks for you.
+
+How Does It Work?
+
+Using the addon is simple. Find a tree and start breaking one of its Log or Wood blocks with an axe. Once the block is successfully broken, the addon detects and cuts the connected wood blocks, allowing you to collect an entire tree much faster than chopping every block individually.
+
+The system also works with supported Nether trees, making it useful for gathering Crimson and Warped wood alongside traditional Overworld wood types.
+
+Supports All Tree Types
+
+Advanced Tree Capitator is designed to work with all major tree and wood types found throughout the game, including:
+
+- Oak Trees
+
+- Spruce Trees
+
+- Birch Trees
+
+- Jungle Trees
+
+- Acacia Trees
+
+- Dark Oak Trees
+
+- Mangrove Trees
+
+- Cherry Trees
+
+- Pale Oak Trees
+
+- Crimson Nether Trees
+
+- Warped Nether Trees
+
+Axe Durability System
+
+Advanced Tree Capitator keeps survival gameplay balanced by using your axe durability while cutting trees. Chopping an entire tree is faster and more convenient, but your axe will still lose durability during the process.
+
+This prevents the addon from completely removing survival progression and encourages players to continue crafting, repairing, and upgrading their tools.
+
+Golden Axe Advantage
+
+The Golden Axe has a special advantage when using Advanced Tree Capitator. Thanks to its naturally fast mining speed, it can capititate trees faster than other axes, giving players another reason to make use of this often-overlooked tool.
+
+Features
+
+- Cut connected wood blocks by breaking a single Log or Wood block.
+
+- Supports all major Overworld tree types.
+
+- Supports Crimson and Warped Nether trees.
+
+- Works with Logs, Woods, Stems, and Hyphae.
+
+- Axe durability is consumed while cutting trees.
+
+- Golden Axes can capititate trees faster.
+
+- Makes large-scale wood gathering much more convenient.
+
+- Perfect for survival players, builders, and large projects.
+
+- Simple and easy-to-use tree cutting system.
+
+- Designed to make resource gathering faster without completely removing survival balance.
+
+Why Use Advanced Tree Capitator?
+
+Collecting large amounts of wood can become repetitive, especially when working on massive survival builds or gathering resources from larger trees. Advanced Tree Capitator reduces unnecessary chopping by allowing connected wood blocks to be cut together.
+
+At the same time, the axe durability system keeps the addon balanced for survival gameplay. You still need the right tools and enough durability to gather resources, but the entire process becomes significantly faster and more enjoyable.
+
+Compatibility
+
+- Achievement Friendly
+
+- Survival Friendly
+
+- Overworld Trees Supported
+
+- Nether Trees Supported
+
+- Minecraft Bedrock Edition Supported
+
+Installation Guide
+
+- Download the addon file.
+
+- Open it using ZArchiver or any file manager app.
+
+- Select Open With and choose Minecraft.
+
+- Wait for Minecraft to import the addon.
+
+- Open your world settings.
+
+- Go to Behavior Packs.
+
+- Activate Advanced Tree Capitator.
+
+- Enter your world, grab an axe, and start cutting trees faster.
+
+Created by FleetMc Studio

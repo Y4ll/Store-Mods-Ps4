@@ -1,0 +1,15 @@
+This pack removes all preview & beta text overlay from top of the screen!
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+Violators will face DMCA takedowns, legal claims.

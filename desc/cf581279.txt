@@ -1,0 +1,119 @@
+Preface:
+
+Warning: If you are using mobile device, make sure to set File Storage Location to External before importing this resource pack, otherwise, your save data may be lost in case the game future updates break modified UI data.
+
+You must now use a customized launcher with a mod installed in order to use the UI fully:
+
+- PC: "LeviLauncher" with the "ForceCloseUI" mod.
+
+- Android: "MB Loader" with the Force old game UI option enabled.
+
+And please, be sure to read carefully this post before downloading and using this resource pack, thank you!
+
+UI rewritten from scratch by CrisXolt.
+
+From Win10 user, for PE users. ;D
+
+VDX: Old Days UI:
+
+An UI Pack (Mid Alpha Version) that brings back some old pocket/desktop UI designs from 2015 (Alpha 0.11.0-0.14-0) for current version of Minecraft Bedrock (Before MC PE/Win10E)!
+
+Some UI screens will be styled, others will be 75% accurate about previous UI design.
+
+Features:
+
+- Start screen.
+
+- Play screen.
+
+- World template screen.
+
+- Create and edit world screen.
+
+- Settings screen.
+
+- HUD screen.
+
+- Inventory screens.
+
+- Chat screen.
+
+- Pause screen.
+
+- Skin picker screen.
+
+- Desktop Inventory Screens.
+
+- Some dialogs screens.
+
+- Disconnect Screen.
+
+- Some Progress Screen.
+
+Upcoming features for future versions (maybe):
+
+- Classic Edition UI pack (From 2011).
+
+- Dressing Room Screen.
+
+- Realms Options.
+
+- Compatibility to use with Java Aspects.
+
+Screenshots:
+
+Known Issues:
+
+- Not all modified screens are fully compatible with the use of gamepad/controller.
+
+- Some screens take a long time to load, something like Settings Screen, Play Screen, and it is because it contains so many objects in UI data.
+
+- When using a 3rd party add-on with new custom items. The creative search tab icon will be changed. Unfortunately, there is no solution to this.
+
+- And unfortunately, since the Ore UI (new UI engine) appeared for theCreate World, Achievements and "You Died!" screens, it is now impossible to modify it using resource packs. However, I have plans to make modifications using something external, but it is not known when that will be, stay tuned if you want!
+
+Terms of Use:
+
+You may:
+
+- Make review about this pack, as long as you credit me as @CrisXolt. And put original download link in description (This forum post).
+
+You may not:
+
+- Make customized APK/APPX and monetized content (pirate modifications), no one will have the permission.
+
+- Use my modified JSON and UIOLD data files claiming this work as your, without permission of course. Specially do not modify/erase the text in the first line code in each .json file. (Example text: //File Made/Modified by @CrisXolt or Some people who contributed).
+
+- Redistribute this resource pack made by me in another pages/app store, no one will have the permission.
+
+- Do not use for third-party projects, much less to merge with "Concept Clients" resource packs, no one will have the permission.
+
+If you have any more questions about this, please let me know by sending a message/question in chat, on discord server: CrisXolt's Refuge.
+
+Questions and answers:
+
+Will it remove in creative group items (Plus and minus in items)?
+
+A=I don't think is possible to do without make risk of the UI can be corrupted. Since those things can not be modified or made changes (hardcoded). What I can tell you is that I have already been able to do and I did not know how I did it. I think it was a harmless bug (Is it fixed?). See this tweet.
+
+How accurate will be this remake/concept?
+
+A=In average, 75%.
+
+If you can recreate the UI, is it also possible to recreate the UI mechanics?
+
+A=Recreate mechanics as before? Unfortunately it is impossible at the moment.
+
+And how do I deactivate this resource pack?
+
+In case you dont remember how you used resource packs in Alpha 0.15.0. Its easy, just go to options and click the button where it says: Manage.
+
+And then this screen comes out and you can deactivate this. Thats all! ;D
+
+Special Thanks:
+
+SirZeus for original ideas!
+
+Final Note:
+
+Those defa

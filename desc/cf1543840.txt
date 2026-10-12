@@ -1,0 +1,24 @@
+jojo_gawrmaid - bug reports.
+naihtsircs - bug reports.
+
+MY DISCORD
+
+(disclaimer the image is made by ai)
+
+Waifu+ is a mob-based addon where, instead of getting bored with wolf or fox pets as companions, you can choose a waifu to accompany you on your adventure.
+
+Waifu Characters:
+
+- Chitose Akiyama
+
+- Eloise Laurent
+
+- Seraphina
+
+- Yuzuki
+
+This add-on does not include player.json.
+This add-on does not require experimental features.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

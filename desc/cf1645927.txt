@@ -1,0 +1,56 @@
+# Lynx Simple Ore Smelter & Vein Miner
+
+## Description
+
+Lynx Simple Ore Smelter & Vein Miner is a Minecraft Bedrock addon (1.26+) that speeds up mining by combining two features into a single pickaxe: auto-smelting and vein mining.
+
+## Key Features
+
+**Auto Smelter** Mining supported ore blocks such as Iron, Gold, Copper, and Ancient Debris instantly gives their processed/final materials without using a furnace.
+
+**Vein Miner** Hold sneak/crouch while mining an ore to break the entire connected vein in one action, capped at 64 blocks per action to help preserve performance.
+
+**Fortune Support** Fortune increases the amount of material obtained from each mined block. Each Fortune level provides a 50% chance to add +1 extra item.
+
+**Scaled Durability Loss** Different ore types consume different amounts of pickaxe durability. Tougher ores such as Diamond, Emerald, and Ancient Debris consume more durability.
+
+**Unbreaking Support** Unbreaking reduces the chance of durability being consumed, following the same probability formula used by vanilla tools.
+
+**Silk Touch Support** Silk Touch is respected. When Silk Touch is present, the addon does not modify the block's normal vanilla drop behavior.
+
+**Durability Protection** If the pickaxe breaks during vein mining, mining immediately stops and the pickaxe is removed, similar to normal tool breaking.
+
+**XP Support** Supported ores can drop experience when mined, using ore-specific XP ranges.
+
+### Supported Ores
+
+- Coal
+- Iron
+- Copper
+- Gold
+- Redstone
+- Lapis Lazuli
+- Diamond
+- Emerald
+- Nether Gold
+- Nether Quartz
+- Ancient Debris
+
+Regular and Deepslate variants are supported where applicable.
+
+## How to Use
+
+1. Import the `.mcaddon` file into Minecraft Bedrock.
+2. Enable the Behavior Pack in your world.
+3. Use a pickaxe to mine supported ores normally.
+4. Hold sneak/crouch while mining an ore to activate Vein Miner.
+5. Fortune and Unbreaking enchantments are supported.
+6. Silk Touch keeps the normal vanilla block drop behavior.
+
+## Technical Information
+
+This addon is a Behavior Pack that uses the `@minecraft/server` Script API v2.5.0.
+
+It targets Minecraft Bedrock 1.26.0 and above.
+
+The addon does not modify resource packs or textures and can be used alongside other addons.

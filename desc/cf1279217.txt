@@ -1,0 +1,19 @@
+BASIC PVP
+
+This Pack introduces New Re-textured short Swords and tools for PvP and these include:
+
+-Swords (all sword types)
+
+-Pickaxe's (all pickaxe types)
+
+-Axe's (all axe types)
+
+Misc
+
+This Pack also removes any distractions you might come across while fighting! And these includes:
+
+-Low fire(on screen and on ground)
+
+-no Water flipbook(removes water animation)
+
+-numbered Hotbar(adds number to the Hotbar)

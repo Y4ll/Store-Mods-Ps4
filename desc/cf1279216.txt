@@ -1,0 +1,86 @@
+(0_0)
+
+JOIN DISCORD
+
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+
+Whats included in Rehunter? (Version 1.2)
+
+- Slenderman Artifacts = Summoned Slenderman will despawn in 6 days (based on Real Life).
+- Enderbrine Artifacts = You can teleport farther and can teleport in the air (you will get a special effect if you teleport in the air).
+- Null Force Effects = Absorbs all nearby fire blocks and neutralizes them.
+- Cyclone = You can now attach an elemental effect to a normal cyclone (only one elemental).
+(note: When you successfully attach an elemental effect to a normal cyclone, its duration will be slightly increased. The added effect on the cyclone cannot be stacked.)
+
+- Fixed Netherbrine Cyclone.
+- Fixed Null Effects.
+- Fixed name from herobrine altar to herobrine shrine
+- Elemental reaction update (WIP)
+- Fixed netherbrine skills damage
+- health rod (show their healthbar)
+
+/ancient slayer new update (added 16 animations)
+has many attack and skill variants but the main skill of ancient slayer is atomic slash.
+
+ancient slayer atomic slash information:
+each slash attack, he will gain some energy and also 1 exp or more, this skill can be upgraded up to 2x.
+each upgrade will increase damage and range
+at max level, the energy required to use atomic slash skills will be reduced by up to 50%
+
+(note: this is a mob bosses, not a player)
+
+/notch new update
+added ranged attack types
+
+Calamity Bosses
+
+herobrine
+enderbrine
+netherbrine
+null
+slenderman
+notch
+entity303
+ancient slayer (awaken)
+
+Creepypasta Mobs
+giant alex
+blood clown
+mutant creaking
+blood elf
+entity 404
+entity 606
+error 422
+ghostface
+lost kid
+night walker
+pennywise
+sadako
+sea eater
+blood snowman
+blood steve
+faceless villager
+mimic (fake treasure)
+
+(this is Rehunter 1.2 info, about 1.3+ it's only available on discord for now)
+
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+
+Every mob or boss in this addon has a 'combat AI' that's perfect for those who enjoy mob battles or player vs bosses. Not all mob AIs have 'combat AI' yet, but more will be added in the next update.
+
+The mobs are also terrifying, perfect for creepypasta or horror lovers. Combined with the 'combat AI', they become even more exciting.
+
+You can see some of the mobs in the image below. Not all mobs are included in the image. Or check out the raw video for a full showcase. There's no editing at all to show how pure this addon really is.
+
+PICTURE SHOWCASE
+
+Note: Some mobs are currently only available for Patreon users. But don't worrythis is just early access, so you can wait and still download all the mobs in the future.
+
+Thanks for your patience, and enjoy the addon.
+
+you must download BP + RP to install this addon.
+if you only download 1 pack, the addon will error and not working.

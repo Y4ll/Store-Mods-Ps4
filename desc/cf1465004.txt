@@ -1,0 +1,43 @@
+VENOM Client PvP
+
+VENOM is a PvP texture pack for Minecraft Bedrock Edition, designed to deliver a clean, smooth, and competitive gameplay experience while maintaining excellent performance on all devices.
+
+PvP Optimized
+
+Every texture has been carefully designed to improve combat visibility and provide a more comfortable PvP experience. From weapons to the user interface, everything is focused on gameplay.
+
+A New Visual Direction
+
+VENOM is currently moving toward a softer and more cartoon-inspired art style. Future updates will continue to improve textures with cleaner colors, smoother details, and a more polished overall appearance while preserving PvP visibility.
+
+Features
+
+Custom PvP textures
+
+Improved inventory interface
+
+Quick Crafting support
+
+Crosshair indicator
+
+Custom fonts and UI elements
+
+Frequent updates and bug fixes
+
+Hablas espanol? Unete a VENOM-PLAY-MC!
+
+VENOM-PLAY-MC es un servidor de Minecraft de habla hispana donde podras disfrutar de una experiencia unica junto a nuestra comunidad.
+
+Bedrock Edition
+
+IP: "69.41.184.215"
+
+Puerto: "25599"
+
+Java Edition
+
+IP: "69.41.184.215"
+
+Te esperamos dentro del servidor!
+
+Thank you for downloading VENOM. More features, improvements, and content are coming in future updates.

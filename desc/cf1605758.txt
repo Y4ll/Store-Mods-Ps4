@@ -1,0 +1,59 @@
+About
+
+Glowing Ores makes resource gathering in Minecraft Bedrock easier and more satisfying. Ores stand out on every device: brightened textures on classic graphics, and genuine glow in the dark with Vibrant Visuals.
+
+Features
+
+- Works on every graphics mode:
+
+- Classic (Simple/Fancy): ore pixels are brightened and saturated, so veins stand out clearly even in dark caves.
+
+- Vibrant Visuals: ore veins literally glow in the dark. The glow is graded by each ore's natural shading crystal facets and metal flecks shine brightest for a natural, non-flat look. Materials are layered on top of Minecraft's official Vibrant Visuals maps, so metals keep their shine, gems stay glossy, and amethyst keeps its translucency.
+
+- Complete Ore Coverage (stone and deepslate variants):
+
+- Coal subtle ember glow
+
+- Iron, Copper (including oxidized green flecks), Gold metallic glow
+
+- Redstone the strongest glow of all ores
+
+- Lapis Lazuli, Emerald, Diamond bright gem glow
+
+- Nether Quartz and Nether Gold
+
+- Valuable Blocks Support:
+
+- Ancient Debris (side & top) glowing metallic bands
+
+- Gilded Blackstone glowing gold flecks
+
+- Amethyst Block, Budding Amethyst, and all Amethyst Clusters and Buds soft crystal glow
+
+- Mob Spawner faint ember glow on the cage, making it easier to spot in dark caves
+
+How to use
+
+- Import the .mcaddon file into Minecraft Bedrock.
+
+- Activate the Glowing Ores resource pack for your world.
+
+- Put it at the top of your active resources list to override default textures correctly.
+
+- (Optional) Turn on Vibrant Visuals in your Video settings to see the ores glow in the dark.
+
+Notes
+
+- This pack does not contain "X-ray" features; it only enhances blocks you are already looking at.
+
+- The actual glow-in-the-dark effect requires Vibrant Visuals. On classic graphics the brightened textures make ores highly visible but do not emit light.
+
+- The glow is a surface effect: ores shine in darkness but do not light up the surrounding area.
+
+- Fully Vibrant Visuals compatible enabling this pack never turns Vibrant Visuals off for your world.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.26.50 or newer
+
+- No external dependency required

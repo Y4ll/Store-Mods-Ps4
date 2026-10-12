@@ -1,0 +1,17 @@
+Treecapitators adds 6 new Treecapitator tools to your game.
+
+These treecapitators break wood slower than axes, but they trigger a treecapitate effect.
+
+They can also be used in the off-hand.
+
+For the effect to activate, the log must be isolated. To break a 2x2 tree, you need to mine 4 blocks.
+
+They can be crafted with Copper, Iron, Gold, Diamond, and Netherite
+
+There is also an Enderon Treecapitator for if you are using my other add-ons
+
+The Treecapitator takes durability damage for each log broken.
+
+The Treecapitators destroy the leaves after breaking the tree. They do not take durability for the leaves.
+
+Treecapitators can be enchanted with Efficiency, Unbreaking, and Mending

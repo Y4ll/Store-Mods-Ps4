@@ -1,0 +1,37 @@
+this is our First ever graphics pack for Vibrant Visuals named Immersive Visuals to provide you immersive experience in your game by providing realism at day and great environment at night with reflections, new caustics and water etc hope u all like it!
+
+Check out our latest Eternity Shader Deferred for Vibrant Visuals:-
+
+ScreenShots:-
+
+(NEW)
+
+(OLD)
+
+Features:-
+
+New Caustics
+
+Changed Tonemap
+
+Changed water waves and added them
+
+Inbuilt PBR and Reflections
+
+Block Reflection
+
+and somewhat more!!!
+
+Cinematic Review:-
+
+Installation:-
+
+- Your device should support vibrant visuals!!!
+
+- Download the pack
+
+- Import in ur game then activate the pack
+
+- Then in game settings go to video option and change graphics option to Vibrant Visual.
+
+- You are done now! Enter the world and enjoy!

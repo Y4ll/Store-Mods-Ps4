@@ -1,0 +1,39 @@
+A Quality of Life texture pack that makes all armor trims shine in the dark!
+
+Works on Leather & Enchanted armor, with high performance. Supports Actions & Stuff
+
+Features:
+
+- Actions & Stuff support
+
+- Performance Mode - removes geometry for performance
+
+Requires:
+
+- PandaMine's Mip Mapper
+
+Use PandaMine's Glowing Ores together for best gameplay!
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 70% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+Disclaimer: This pack doesn't use A&S assets, it doesn't work with pirated copies.
+
+Only purchased copy from marketplace.
+
+Contact
+
+Discord: pandamine5x

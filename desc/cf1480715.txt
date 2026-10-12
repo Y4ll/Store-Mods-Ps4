@@ -1,0 +1,39 @@
+What plugins does this pack contain?
+
+Auto Anchor
+
+Now using configurable in pack settings
+
+Auto Crystal
+
+Auto Totem
+
+(Extra) Projectile Fix
+
+Tweak projectiles for better, adjusted like Minecraft Java Edition projectiles
+
+- Arrow, Speed = 3.0, Gravity = 0.05 (Charge Scaled)
+
+- Thrown Trident, Speed = 2.5, Gravity = 0.05 (Charge Scaled)
+
+- Snowball, Speed = 1.5, Gravity = 0.03
+
+- Egg, Speed = 1.5, Gravity = 0.03
+
+- Ender Pearl, Speed = 1.5, Gravity = 0.03
+
+- Xp Bottle, Speed = 0.7, Gravity = 0.07
+
+- Splash Potion, Speed = 0.5, Gravity = 0.05
+
+- Lingering Potion, Speed = 0.5, Gravity = 0.05
+
+- Wind Charge, Speed = 1.5, Gravity = 0.0
+
+Terms & Conditions
+
+Minimum Minecraft version 26.30 and above
+
+Interested in a pack like this?
+
+Join my community server!

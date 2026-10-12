@@ -1,0 +1,71 @@
+Tree Capitator Addon Smart Tree Chopping System for Minecraft Bedrock 1.21+
+
+Tree Capitator Addon is a survival focused Minecraft Bedrock utility addon that allows players to chop down an entire tree by breaking just one log with an axe. Instead of cutting logs one by one, the addon automatically detects all connected logs of the same type and removes them smoothly over time. It is designed to save time, reduce repetitive grinding, and stay fully balanced for survival gameplay through safety limits and smart detection logic.
+
+If you are looking for a Minecraft Bedrock tree capitator addon, timber mod, fast tree chopping system, or automatic wood cutting addon, this addon provides a clean and immersive solution while remaining fully compatible with survival worlds and SMP servers.
+
+What This Tree Capitator Addon Does
+When a player breaks a log using an axe, the addon scans nearby blocks for connected logs of the same type.
+All matching logs are queued and broken gradually instead of instantly to avoid lag spikes.
+Only the same wood type is affected, so oak trees will not destroy birch or jungle logs nearby.
+The system respects player control and normal block drops.
+
+Tool Based Activation
+Only tools containing the axe keyword can trigger the effect.
+Breaking logs with bare hands or other tools behaves normally.
+This keeps the mechanic natural and balanced for survival play.
+
+Sneak to Cancel Feature
+If the player is sneaking while breaking a log, the Tree Capitator will not activate.
+This allows precise building and manual log placement without accidental mass breaking.
+Perfect for builders and detailed structures.
+
+Smart Tree Detection
+Uses a 333 neighbor scan to detect connected logs.
+Works with all vanilla log types such as oak, birch, spruce, jungle, acacia, dark oak, mangrove, and cherry.
+Also compatible with most custom logs that use standard Bedrock block IDs.
+Includes a maximum block limit to prevent crashes on massive structures.
+
+Performance Optimized and Server Safe
+Logs are broken over multiple ticks instead of all at once.
+Prevents server lag and frame drops.
+No chunk corruption or unsafe world edits.
+Safe for SMP servers and Realms.
+Fully script based with no resource pack dependency.
+
+Natural Drops and Behavior
+Blocks are destroyed using the destroy method so normal drops and XP are preserved.
+Works with enchantments like Fortune and Unbreaking naturally.
+Feels like vanilla mining but much faster.
+
+How to Use
+Hold an axe in your hand.
+Break the bottom log of a tree.
+Watch the entire tree collapse automatically.
+Sneak while breaking to disable the effect when needed.
+Collect your wood and continue building or crafting.
+
+Best For
+Survival worlds
+Wood farming and forestry
+SMP and Realm servers
+Skyblock and resource worlds
+Vanilla plus gameplay
+Quality of life focused packs
+
+Compatibility
+Minecraft Bedrock Edition
+Tested on version 1.21 and above
+Script based addon
+No resource pack required
+Works in singleplayer and multiplayer
+
+SEO Keywords Hidden but Ultra Powerful
+Minecraft Bedrock tree capitator addon, timber mod Bedrock, chop trees faster Minecraft Bedrock, automatic tree chopping addon, lumberjack mod Bedrock, fast wood mining addon, survival wood cutter mod, SMP tree feller addon, realm compatible timber mod, Bedrock Edition script addon, Minecraft 1.21 tree capitator, break whole tree addon, no cheat timber mod, vanilla plus tree mod, forestry addon Minecraft Bedrock, axe only tree breaking mod, tree destroyer addon, smart lumber system, wood farming addon Bedrock, performance safe tree mod, multiplayer tree chopping system, instant tree fall addon, survival utility mod Bedrock, quality of life wood mod, forest clearing addon, jungle tree cutter mod, mangrove tree mod Bedrock, custom log support addon, no lag tree felling system
+
+Why Choose Tree Capitator Addon
+Chop entire trees with one block
+Sneak to cancel for precise building
+Works with all major log types
+Balanced and survival friendly
+Optimized for server

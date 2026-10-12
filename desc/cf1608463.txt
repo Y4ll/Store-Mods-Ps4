@@ -1,0 +1,45 @@
+Sodium Boost
+
+Sodium Boost is a lightweight Minecraft Bedrock resource pack designed to improve performance while keeping the game as close to the original vanilla experience as possible.
+
+Unlike many FPS packs, Sodium Boost focuses on reducing lag without significantly changing the look and feel of Minecraft. The pack removes unnecessary visual effects and optimizes rendering to help deliver smoother gameplay, especially on low-end and mid-range devices.
+
+Features
+
+- Boosts FPS and overall performance
+
+- Preserves the vanilla Minecraft experience
+
+- Reduces unnecessary visual effects
+
+- Optimized for low-end and mid-range devices
+
+- Helps reduce lag and stuttering
+
+- Compatible with both singleplayer and multiplayer
+
+- Lightweight and easy to use
+
+Compatibility
+
+- Minecraft Bedrock Edition
+
+- Compatible with the latest supported game versions listed on this page.
+
+- Works alongside most resource packs.
+
+Installation
+
+1. Download the pack.
+
+2. Import it into Minecraft.
+
+3. Activate Sodium Boost in your Resource Packs.
+
+4. Move it to the top of your active resource pack list for the best results.
+
+Report Issues
+
+Found a bug or have a suggestion? Leave a comment on this project page so it can be fixed in a future update.
+
+Thank you for downloading Sodium Boost. Enjoy a smoother, faster Minecraft experience!

@@ -1,0 +1,117 @@
+Titanium Add-on v7.1.0 Titanium-ized
+
+A new weapon. A stronger Titan. An entirely Titanium-ized experience.
+
+The Titanium Add-on expands Minecraft Bedrock beyond Netherite with an entirely new progression system featuring custom ores, dedicated crafting mechanics, powerful equipment, unique building blocks, exclusive rewards, intelligent combat systems, and a fully custom boss designed to feel like a natural extension of vanilla survival.
+
+v7.1.0 Second Phase Finale introduces the Titanium Spear, upgrades Payback to v5.0, enhances The Titan, and brings a unified Titanium-ized theme across equipment, blocks, textures, and gameplay systems.
+
+Achievements aren't disabled due to this add-on.
+
+Quick Links
+
+Wiki "Titanium Add-on Wiki" (https://sites.google.com/view/titanium-add-on-wiki/home#h.d5vhgri11q65)
+
+Support Discord "Titans Club" (https://discord.gg/Unvpyn9aKJ)
+
+Showcase & Tutorial "Titanium Add-on Showcase and Tutorial" (https://youtu.be/88zGGXbVgBY)
+
+Exclusive Development Updates "NOVA Discord" (https://discord.gg/Unvpyn9aKJ)
+
+Official YouTube Channel "Titans Club YouTube" (https://youtube.com/@teentitansgone?si=uBgKSqV0Mzqat0ga)
+
+ENTER THE TITANIUM AGE
+
+Content Overview
+
+Mining & Smelting
+
+Begin your Titanium journey by exploring the Overworld and discovering a new high-tier resource.
+
+- Titanium Ore generates naturally throughout the Overworld.
+
+- Deepslate Titanium Ore generates at lower depths.
+
+- Mine Titanium Ore and Deepslate Titanium Ore with a Netherite, Titanium, or Titanium+ Pickaxe to obtain Raw Titanium.
+
+- Process Raw Titanium and related materials into Unrefined Titanium Scrap, then smelt it in a Blast Furnace into Refined Titanium Ingots.
+
+- Titanium Shards are rare Epic boss drops featuring an enchanted glint and a stack size of 16.
+
+- Titanium Ore and Deepslate Titanium Ore no longer have direct crafting recipes.
+
+This creates a meaningful post-Netherite progression path instead of allowing high-tier materials to be obtained instantly.
+
+Titanium Workbench
+
+The Titanium Workbench is the heart of Titanium progression.
+
+It is a dedicated crafting station a custom crafting table with its own tag that emits light and produces a weak redstone signal.
+
+Use the Workbench to craft and process advanced Titanium components and equipment while keeping Titanium progression separate from ordinary vanilla crafting.
+
+Titanium is designed to feel like a genuine progression system not a collection of instantly obtainable overpowered items.
+
+Titanium Equipment
+
+Forge an entire Titanium arsenal built for endgame survival:
+
+- Titanium Sword 10 damage
+
+- Titanium Axe 12 damage
+
+- Titanium Pickaxe 7 damage
+
+- Titanium Shovel 7 damage
+
+- Titanium Hoe 6 damage
+
+- Titanium Bow
+
+- Titanium Crossbow
+
+- Titanium Mace 12 damage, Epic, Titanium+ tier, special fall-based smash attack
+
+- Titanium Shield
+
+- Titanium Spear a custom weapon with Jab and Charge attacks
+
+- Titanium Arrow fully custom projectile entity with its own model, animations and behavior
+
+- Titanium Helmet
+
+- Titanium Chestplate
+
+- Titanium Leggings
+
+- Titanium Boots
+
+Progression Materials
+
+- Refined Titanium Stick
+
+- Titanium Coating
+
+- Titanium Core
+
+- Titanium Shard
+
+- Titanium Upgrade
+
+- Ultimate Titanium premium repair material
+
+Titanium Spear Jab & Charge
+
+The Titanium Spear introduces a new combat style to the Titanium arsenal, combining precise close-range attacks with powerful high-speed charges.
+
+Its custom 3D model, held-item attachable, inventory icon, localization, and crafting integration are designed to make the spear feel like a native part of the add-on.
+
+Spear Combat
+
+Attribute| Titanium Spear Attack Damage| 15 Durability| 2,200 Rarity| Rare Fire Resistant| Yes Swing Duration| 1.2 seconds Charge Damage Multiplier| 1.2 Survival Reach| 2.04.5 blocks Creative Reach| 1.57.0 blocks Attack Effects| Fatal Poison for 6 seconds
+
+- Jab a direct spear attack.
+
+- Charge a forward attack that benefits from movement and charge momentum.
+
+- High-speed charges can appl

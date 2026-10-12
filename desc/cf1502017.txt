@@ -1,0 +1,23 @@
+Sulfur FPS Booster is built to enhance your Minecraft performance without completely removing the visual experience. It focuses on optimizing in-game elements that commonly cause lag, resulting in smoother and more stable gameplay.
+
+This pack reduces heavy particles, simplifies animations, and cleans up unnecessary visual effects to boost FPS, especially in laggy environments like dense forests or high-entity areas.
+
+Key Features:
+
+Improves FPS stability
+
+Reduces lag spikes and stuttering
+
+Provides smoother gameplay experience
+
+- Reduced particles for better performance
+
+- Optimized animations to minimize lag
+
+- Clean and minimal visual style
+
+- Improved FPS in heavy biomes (Jungle, Dark Oak Forest, etc.)
+
+- Lightweight and compatible with most devices
+
+If you're looking for a balance between performance and visuals, Sulfur FPS Booster is a great choice.

@@ -1,0 +1,31 @@
+Shiny Ores
+
+Never miss an ore again!
+
+Shiny Ores is a Bedrock Edition texture pack that enhances the visibility of all overworld, Nether, and Deep Slate ores. Whether you're exploring massive caves, mining deep underground, or searching for rare resources, Shiny Ores helps ores stand out from surrounding blocks without changing their original appearance too much.
+
+Features
+
+- Glowing ores when using Vibrant Visuals
+
+- Clear ore outlines when using Fancy Graphics
+
+- Supports all major Minecraft ores
+
+- Vanilla-friendly look and feel
+
+- Works on Bedrock Edition
+
+- Achievement friendly
+
+How It Works
+
+When Vibrant Visuals is enabled, ores emit a subtle glow, making them easier to identify in dark caves and underground environments. For players using Fancy Graphics, each ore receives a visible outline that helps distinguish it from nearby stone, deepslate, netherrack, and other blocks.
+
+Important Note
+
+Shiny Ores is a resource pack and does not modify gameplay mechanics. The pack automatically affects all of your worlds globally.
+
+Remember: Without Vibrant Visuals, ores will not glow. Unfortunately, Minecraft Bedrock does not provide a way for resource packs to create true glowing ores without Vibrant Visuals. However, the included ore outlines will still help you spot valuable resources much more easily while mining.
+
+Perfect for survival players, miners, speedrunners, and anyone who wants a cleaner mining experience while keeping Minecraft's vanilla aesthetic intact.

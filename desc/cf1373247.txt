@@ -1,0 +1,27 @@
+Unbound Visuals gives Bedrock a soft, romantic light, rose and violet sunrises burning down to warm coral horizons, lavender daylight instead of flat blue, pink volumetric haze drifting through cherry groves, and per-biome fog written for all 88 biomes.
+
+- Per-Biome Volumetric Fog - All 88 Biomes
+
+- God Rays & Coloured Atmospheric Scattering
+
+- Rose-to-Violet Skies, Dawn to Midnight
+
+- Water Caustics, Waves & Depth Tinting
+
+- Northern Lights
+
+- Nether, End, Soul Sand & Warped Atmospheres
+
+- Custom Sun, Moon & End Sky Textures
+
+- Coloured Light Sources
+
+- Soft Shadows
+
+- Full PBR Textures (Default & High)
+
+- Compatible with other Packs
+
+Installation:
+
+1.Download the .mcpack 2.Open to import 3.Enable the Unbound Visuals 4.Turn on Vibrant Visuals

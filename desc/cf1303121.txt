@@ -1,0 +1,29 @@
+Features
+
+- Held items emit light
+
+- Torches, Lanterns, Glowstone, End Rods, Blaze Rods, Glow Ink Sacks, Shroomlights, and more!
+
+- Light emitting mobs actually light up surroundings
+
+- Glow squids, blazes, allays, ghast fireballs, endermen.
+
+- Burning mobs light up surroundings
+
+- Torches can be held in the offhand
+
+- Thrown torch items emit light
+
+Held Items Emit Light
+
+Holding torches, lanterns, or any other light emitting block or item will now emit light which illuminates your surroundings!
+
+Mobs Emit Light
+
+Finally, the glow squid actually glows! Now mobs such as glow squids, blazes, allays, and the ghasts fireballs now actually light up their surroundings! This makes Minecraft feel much more immersive.
+
+Also, mobs and players on fire will light up their surroundings! This adds extra realism and visual effect.
+
+Offhand Torches
+
+Now torches can be held in the offhand! Not only do they emit light when held, but torches now emit light even in item form. See a deep cave? Drop a torch down and it will illuminate the surroundings!

@@ -1,0 +1,31 @@
+SYCURE'S DYNAMIC LIGHTING & OFFHAND - MCPE/BEDROCK
+
+Actions And Stuffs Compatible.
+
+Light up your world and boost your mobility! This addon brings dynamic lighting and a functional offhand system to Minecraft Bedrock Edition fully updated for the Copper Update.
+
+Made by @Sycuregaming
+
+How To Hold Torches in Offhand (Tutorial)
+
+Key Features -
+
+- Real Dynamic Lighting: Light sources glow when held (torch, glowstone, copper bulb, etc.)
+
+- Offhand Functionality: Hold torches in your offhand Java-style!
+
+- Copper Update Support: Integrates new copper-based lighting blocks.
+
+- Survival & Creative Friendly
+
+- Optimized for Mobile Performance
+
+- Doesn't Requires EXPERIMENTAL FEATURES.
+
+- No Player.json
+
+Ideal for survival explorers, builders, and immersive roleplay. One Of The Best Dynamic Lighting Addons For MCPE/MCBE
+
+- Help Me -
+
+Note - Modification Or Redistribution Without Any Explicit Permission Is Strictly Prohibited And May Lead To Legal Action. Sharing Is Only Allowed Using Official Links.

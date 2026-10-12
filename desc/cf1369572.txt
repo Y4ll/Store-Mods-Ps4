@@ -1,0 +1,63 @@
+Hey, you Gundam Addon guys over there, rejoice.
+
+Finally, with the Gundam Add-On, theres no longer a need to worry about behavior packs for compatibility or the order in which units are deployed, so (depending on your devices specs) you can now deploy as many Mobile Suits as you want into the world. :)
+
+That concludes the introduction, as explained.
+
+Mobile Suit Introduction
+
+gMS- Red Gundam
+
+This mobile suit is based on the prototype mobile suit "RX-78-02" seized by Major Char Aznable from the Federation base on Side 7, equipped with an "-Psycommu" and bits, and repainted red for Char's personal use.
+
+Boarding and Control Instructions
+
+Approach the mobile suit and right-click on it (PC version), or press the "Board Mobile Suit" button (iOS, Android, etc.). Alternatively, simply approach the cockpit to board. (If you board from the cockpit, even visitors with in-world authority can pilot the mobile suit.)
+
+When piloting a mobile suit, you can fly by pressing the jump button.
+
+Weapon/Command Description
+
+You can change your Mobile Suits equipment by selecting Change Equipment and attacking (left-click on PC; tap or press the attack button on smartphones, tablets, etc.). (In GARE0085 (GQX) GQuuuuuuX, the UI allowed you to equip weapons in both hands, but in this version, you can only equip one hand, and equipment changes can only be made via left-click.)
+
+You can use an equipped weapon by selecting Use Weapon (PC: right-click) or attacking (PC: left-click).
+
+Right-clicking "Change to Running (or Walking) Mode" will switch the mobile suit's running mode. In running mode, the mobile suit will move by hovering, even while flying.
+
+Right-clicking "Change to First-Person" or "Change to Third-Person" will change the perspective when piloting the mobile suit to first-person or third-person.
+
+When using this add-on simultaneously with gMS- GQuuuuuuX (GARE:U.C.0085(GQX) gMS- GQuuuuuuX)
+
+You don't need to worry about that anymore.
+
+I'm sure we could make it work as long as there aren't any bugs or anything like that.
+
+Notes
+
+This add-on is currently in beta, so glitches and bugs may occur.
+
+If you encounter glitches or bugs, try using the "gaplayer:unride_ms" event command or the "loading_reset" function command. This may resolve the issue.
+
+In addition, it has been confirmed that this add-on may not function properly depending on factors such as in-game data, device storage capacity, and device specifications.
+When using this add-on, please check the number of add-ons and worlds installed in the game, the size of the cache data, etc., as well as the specifications of your device before using it (we recommend using this add-on on the PC version).
+- If you are unable to resolve the add-on issue using the methods described on this website, please contact me via DM on my X (old Twitter) account (X (old Twitter): @Demu_00096).
+
+- Please read and abide by the terms of use included with this add-on in the downloaded compressed file.
+
+Credits
+
+System development support for ScriptAPI, etc.
+Toteta
+
+Dowagi (X (old Twitter): @dowagi632)
+
+Rioto(X: @rion_03127445_2)
+
+General/Model and animation production
+
+Demu
+
+PGN_18 (X (old Twitter): @PGN_0018)
+Hiro Hayama (YouTube: @Hiro_Hayama)
+
+LIGHTHEIM & M.S.M.C. MEMBERS

@@ -1,0 +1,45 @@
+For those of you who want to share this, please use this page link: https://www.curseforge.com/minecraft-bedrock/texture-packs/advanced-container/download It leads directly to the latest file, so there's no need to use Mediafire, onegaii~
+
+Join our community below!
+
+DIscord Server | Telegram Group | Whatsapp Group(+62 only)
+
+Showcase:
+
+Feature:
+
+quick craft, trade
+
+double press to craft or trade all item
+
+destroy item
+
+select item and press destroy slot to destroy item(only for creative mode)
+
+item highlighter search bar
+
+use the search bar to search for items (case sensitive)
+
+selected item highlighter
+
+select an item to highlight the same item
+
+quick mode switcher
+
+press the 'N' button to change the mode to auto place, drop and back to normal
+
+container button
+
+change to auto place or drop mode to use it, be careful when using drop mode
+
+smart autoplace
+
+Use the search bar to search for items, and use auto place or drop mode to move or drop highlighted items.
+
+Info:
+
+Subpacks: -
+
+Settings needed: -
+
+Known Issue: -

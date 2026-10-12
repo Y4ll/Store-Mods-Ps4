@@ -1,0 +1,21 @@
+The Glass Connections Add-on connects all Minecraft glass block textures, prioritizing optimization and visual comfort when using this complement in your world. Simply place any glass block in your world, and it will automatically connect to adjacent glass blocks!
+
+- ACHIEVIMENT FRIENDLY!
+
+- Support for ACTIONS and STUFF!
+
+- Compatible with Vibrant Visuals!
+
+- Extremely optimized.
+
+- Fast loading!
+
+- This add-on does not use experimental features!
+
+- Discord Server: Click here
+
+ACTIONS AND STUFF SUPPORT
+
+Change the resolutions to "Actions and Stuff" to activate the adapted textures!
+
+ADDITIONAL

@@ -1,0 +1,7 @@
+Zen Visuals is a refined shader pack designed to enhance Minecrafts overall visual quality. It focuses on improving lighting, colors, and environmental ambience to create a smoother, cleaner, and more immersive atmosphere throughout your world.
+
+Features: Zen Visuals not only upgrades overall visuals but also adds glowing effects for better visibility. Ores glow softly, mobs have a noticeable highlight, and items emit a subtle shine, making exploration and gameplay clearer and more engaging.
+
+Development Status: The pack is actively being improved with new lighting tweaks, color adjustments, and visual refinements that will be added through future updates.
+
+Important: For the shader to work correctly, make sure to turn ON Vibrant Visuals in your game settings.

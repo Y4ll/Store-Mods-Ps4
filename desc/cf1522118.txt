@@ -1,0 +1,50 @@
+Become One with the Mountains!
+
+Turn the caves into your ultimate hiding spot! Stone Troll Armor allows you to craft functional protective gear out of five different stone types. Its the perfect early-game survival gear that doubles as a master-class prank toolblend into the rock walls and watch your friends walk right past you!
+
+Master the Underground
+
+- Stone Camouflage: Match your surroundings perfectly using Andesite, Blackstone, Cobblestone, Granite, or Diorite variants.
+
+- Classic Crafting: No complicated recipes! Use the standard armor patterns in a crafting table using the corresponding stone blocks.
+
+- Easy Repairs: Keep your troll suit in top shape by using the matching stone type to repair durability.
+
+Armor Stats & Durability
+
+This set is designed for utility and stealth, offering solid protection for the clever player who prefers the safety of the mines.
+
+Armor Piece
+Protection
+Durability
+Knockback Resistance
+
+Helmet
+1
+25
+0.75
+
+Chestplate
+1
+25
+0.75
+
+Leggings
+1
+25
+0.75
+
+Boots
+1
+25
+0.75
+
+Pro Tip: With an enchantment value of 15, this armor is great for buffing up with Unbreaking or Protection to stay hidden in the deep dark for longer!
+
+Future Updates
+
+Im already working on a Polished Stone Troll Armor expansion! Soon youll be able to hide in plain sight among polished palace walls, modern bases, and more.
+
+Need Help?
+
+Got a question or found a bug? Leave a comment below! I check them frequently and will respond as soon as I can to help you get back to trolling.

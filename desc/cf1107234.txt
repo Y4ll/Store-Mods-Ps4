@@ -1,0 +1,55 @@
+This addon add official numbers 0~100 of the Numberblocks mobs, and you can be converted into the official Numberblocks characters 0~100 and 1~10 times tables characters of the Numberblocks.
+
+Default appearance can be set to normal player, One to Ten, random One to Five, or random One to Ten forms.
+
+When Default Numberblocks Character is Normal Player, the default form when spawning is normal player form; when Default Numberblocks Character is One/Two/Three/Four/Five/Six/Seven/Eight/Nine/Ten, the default form when spawning is One/Two/Three/Four/Five/Six/Seven/Eight/Nine/Ten form; when Default Numberblocks Character is Random One to Five, the default form when spawning is random One to Five form; when Default Numberblocks Character is Random One to Ten, the default form when spawning is random One to Ten form; when Default Numberblocks Character is Random One to Twenty, the default form when spawning is random One to Twenty form.
+
+Method for turning into a Numberblocks:
+
+Press and hold the screen or right-click while holding morph item can morph Numberblocks characters (does not consume items), morph items are not display in third person.
+
+Use Morph Eight item can switch back and forth between 24 and cube forms, use Morph Ten item can switch back and forth between 25 and 110 forms, use Morph Fifteen item can switch back and forth between step squad and 35 forms, use Morph Twenty-One item can switch back and forth between standard 37 and step squad forms, use Morph Twenty-Four item can switch back and forth between 38 and 46 forms, use Morph Twenty-Seven item can switch back and forth between cube and 39 forms, use Morph Twenty-Eight item can switch back and forth between standard, 47 and step squad forms, use Morph Thirty-Six item can switch back and forth between 66 and step squad forms, use Morph Forty-Three item can switch back and forth between standard and 40+top3 forms, use Morph Forty-Five item can switch back and forth between step squad and 59 forms, use Morph Forty-Seven item can switch back and forth between standard and 40+7 forms, use Morph Fifty-Five item can switch back and forth between step squad and 511 forms, use Morph Fifty-Six item can switch back and forth between standard and 87 forms, use Morph Sixty-Four item can switch back and forth between 88 and cube forms, use the Morph Three Times Table item to switch back and forth between no-hat and hatted forms.
+
+The above numberblocks morph will be store.
+
+With the Education Editon option enabled, Zero and Times Table forms can fly in survival mode:
+
+Crafting recipes for morph items:
+
+Crafting with concrete:
+
+Combine crafting with Numberblocks:
+
+*Crafting Numberblock Zero does not consume Numberblock One
+
+Octonaughty crafting recipes:
+
+When Nature spawn Numberblocks mobs is false, crafting recipes for times tables:
+
+Split Numberblocks:
+
+Numberblocks can be split on crafting table.
+
+Numberblocks Machine:
+
+On the Crafting Table, you can craft Numberblocks Machine in the above way.
+
+You can open the Numberblocks Machine by long-pressing or right-clicking the middle of the top half of the Numberblocks Machine. The Numberblocks Machine can combine any two Numberblocks morph items into a bigger Numberblocks morph item.
+
+Remove Morph:
+
+Press and hold the screen or right-click while holding remove morph item can remove morph (does not consume items).
+
+Crafting recipes for remove morph item:
+
+Numberblocks Mobs:
+
+Numberblocks mobs will naturally spawn in the Overworld, and the Terrible Twenties will not spawn naturally.
+
+The Terrible Twos, Octonaughty will no spawn in Peaceful difficulty, but will no despawn in Peaceful difficulty.
+
+Naturally spawn Numberblocks mobs can be turn on or off of settings from Numberblocks behavior pack:
+
+When Nature spawn Numberblocks mobs is true, the Numberblocks will spawn naturally; when Nature spawn Numberblocks mobs is false, the Numberblocks will not spawn naturally.
+
+All naturally spawned Numberblocks drop their corresponding Morph i

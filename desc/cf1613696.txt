@@ -1,0 +1,65 @@
+Mob in Glass by BAKU
+
+Mob in Glass is a Minecraft Bedrock addon that lets you capture mobs inside special glass capsules and display them as miniature mobs inside real glass blocks.
+
+Watch the Addon Review:
+Mob in Glass YouTube Review
+
+Main Features
+
+Mob Capture
+Capture supported mobs using the Empty Glass Capsule.
+
+Mini Mob Display
+Captured mobs appear as smaller versions when displayed.
+
+Real Glass Display
+Place your captured mob inside a visible glass block.
+
+Portable Capsule
+Carry captured mobs around using the Mob Glass Capsule.
+
+Release System
+Interact with the glass display to release the mob again.
+
+Pick Up Display
+Sneak + interact to return the displayed mob to its capsule.
+
+Mob Data
+Important mob information such as type, name and health is preserved.
+
+Glass Capsule Recipe
+
+Shapeless Crafting Recipe:
+
+- 4 Glass
+
+- 1 Amethyst Shard
+
+- 1 Iron Ingot
+
+Place the ingredients anywhere inside a Crafting Table to create an Empty Glass Capsule.
+
+How to Use
+
+- Craft an Empty Glass Capsule.
+
+- Interact with a mob while holding the capsule.
+
+- The mob will be stored inside a Mob Glass Capsule.
+
+- Use the filled capsule on a block to create a glass display.
+
+- Interact with the display to release the mob.
+
+- Sneak + interact to pick the capsule back up.
+
+Perfect For
+
+Mob collections Survival museums Base decoration Mini mob showcases Adventure worlds
+
+Credits
+
+Creator / Developer / Design / Concept / Pack Credits: BAKU
+
+All addon-related credits belong to BAKU.

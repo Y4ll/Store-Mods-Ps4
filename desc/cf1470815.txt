@@ -1,0 +1,119 @@
+ShowCase
+
+COMING SOON
+
+How To Use
+
+You need to Activate Addon, Enter your world and hold any light source and it will work
+
+Addon is Achievements friendly
+
+Light Items Support
+
+This list contains all of the light items you can hold and swap
+
+1. torch
+
+2. lantern
+
+3. glowstone
+
+4. campfire
+
+5. shroomlight
+
+6. soul_torch
+
+7. soul_lantern
+
+8. sea_lantern
+
+9. jack_o_lantern
+
+10. lava_bucket
+
+11. magma_block
+
+12. redstone_torch
+
+13. ochre_froglight
+
+14. verdant_froglight
+
+15. pearlescent_froglight
+
+16. amethyst_cluster
+
+17. ender_chest
+
+18. enchanting_table
+
+19. beacon
+
+20. sea_pickle
+
+21. conduit
+
+22. crying_obsidian
+
+23. glow_berries
+
+24. soul_campfire
+
+25. glow_ink_sac
+
+26. glow_item_frame
+
+27. sculk_sensor
+
+28. calibrated_sculk_sensor
+
+29. lit_furnace
+
+30. lit_blast_furnace
+
+31. lit_smoker
+
+32. lit_redstone_ore
+
+33. lit_deepslate_redstone_ore
+
+34. large_amethyst_bud
+
+35. medium_amethyst_bud
+
+36. small_amethyst_bud
+
+37. end_rod
+
+38. end_crystal
+
+39. respawn_anchor
+
+40. glow_lichen
+
+Offhand Support
+
+You can hold the torch in your offhand but to do this you need to hold any of the light items in your hand then sneak + jumo to swap the light item to your offhand, follow the New Showcase video to know more
+
+You are allowed to:
+
+- Showcase this addon WITH CREDITING
+
+- Use this addon in your worlds/servers/realms
+
+- Modify this addon (Without removing the credits)
+
+You are NOT allowed to:
+
+- Repost this addon to other sites (This includes apps)
+
+- Create your own download link
+
+- Claim this addon as your own
+
+I'll try to update the addon as frequently as I want to :) (and when an update breaks it)
+
+Support
+
+If you have any proplem with the addon and want to Report it or want to Ask a question here is my discord server

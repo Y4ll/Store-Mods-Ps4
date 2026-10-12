@@ -1,0 +1,81 @@
+Transform your world into a high-tech surveillance hub with this innovative addon. Place customizable security cameras throughout your realm and monitor them from anywhere using a special tablet item. View live feeds, toggle between cameras.
+
+Key Features: Easy camera placement and management Real-time camera viewing with player head movement Creative mode requirement option for admin control
+
+Perfect for server admins, roleplay enthusiasts, or anyone looking to add a layer of security and intrigue to their Minecraft experience. Set up surveillance in your base, monitor player activity in specific areas, or create immersive spy missions.
+
+This addon seamlessly integrates with Minecraft's gameplay, offering a unique and engaging way to interact with your world. Whether you're safeguarding your treasures, keeping an eye on mischievous players, or simply exploring new ways to experience Minecraft, the Security Camera Addon opens up a world of possibilities.
+
+Elevate your Minecraft experience see your world through a new lens with the Security Camera Addon!
+
+IMPORTANT: Download and install both files Behavior and resource packs
+
+HOW TO USE:
+
+-Activate the behavior and resource pack.
+
+-To use this addon first you will have to craft two items the security camera and the tablet.
+
+Security Camera Recipe:
+
+-4x Iron Ingot
+
+-4x Redstone
+
+-1x Glass Pane
+
+Tablet Recipe:
+
+-4x Iron Ingot
+
+-3x Redstone
+
+-1x Glass Pane
+
+1x Book
+
+To add a new camera simply place the camera block anywhere you like, this will show a menu where you can name your camera and toggle on or off if you want to set it to private.
+
+Then a menu will appear with two options "Controllable" or "Still Camera"
+
+- "Controllable": will allow you to control the camera when viewing trough it.
+
+- "Still Camera": Will face towards a specified coordinate and will not move.
+
+- If you select "Still camera" you will have to input the coordinates of where you want it to be facing
+
+To view the cameras you have placed hold the tablet in your hand and activate it, this will bring up a menu and select "View Cameras" then select wether to view the public or private cameras.
+
+To stop looking trough the camera open the menu and select "Stop Watching"
+
+To edit the cameras you have placed open the menu and select "Manage Cameras" then select "List Cameras" and select the camera you want to edit, here you will get the options to rename, delete, change privacy or manage access.
+
+- "Toggle Creative Requierement" what this option will do is require creative mode in order to edit the cameras rename/remove, with this feature turned on if you are in survival you will not have access to the "Manage Cameras" option, to turn this feature off you will have to go into creative and toggle it off.
+
+- If you want to give access to your cameras to other players select 'Manage Cameras' and select the camera you want to give players access to
+
+- Select 'Add Player' to give a new player permission to your camera, select their name from the drop down menu and select submit, select 'Remove Player' to remove their access to the camera
+
+CHANGES:
+
+- Experimental toggle added to load chunks that are far from the player.
+
+- Can now remove cameras by breaking them.
+
+- Can now switch cameras by jumping or sneaking.
+
+- Can now show or hide the coordinates and biome of where the camera is placed.
+
+- Can now switch languages from the menus.
+
+- Added option to set cameras to private.
+
+- Can add or remove player access to private cameras.
+
+- Destroying camera block now removes it from the list.
+
+IMPORTANT: Download and install both files Behavior and resource packs
+
+Support the Channel Donate SOL:
+
+6b6N6jvgfqWPPwmshsmw5gGUnahVuF66v3UTreL68MN1

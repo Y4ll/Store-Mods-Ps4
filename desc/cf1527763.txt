@@ -1,0 +1,55 @@
+Creaton's Animation Pack is a texture pack/ addon made for creators of Minecraft maps. The pack includes 20+ player animation like jumping, giggling, sleeping, dying and many more.
+
+More and more animations will be added with updates to the pack.
+
+You can download and use this pack in your Minecraft maps to bring more life into your story maps in Minecraft. Although not mandatory, a credit to Creaton Games or the download link in the map will be appreciated.
+
+How to use?
+
+Using these animation is very easy and you do not need any technical experience to run it. Just install the resource pack in your world and use the animations with the command given below:
+
+/playanimation <target_selector> <animation_name> default 0
+
+List of animations:
+
+animation.cap.wave
+
+animation.cap.die
+
+animation.cap.sit
+
+animation.cap.giggle
+
+animation.cap.facepalm
+
+animation.cap.hiccup
+
+animation.cap.sleep
+
+animation.cap.wakeup
+
+animation.cap.jump
+
+animation.cap.spinningkick
+animation.cap.spinningpunch
+animation.cap.tpose
+
+animation.cap.flight
+animation.cap.point
+animation.cap.onknee
+animation.cap.giantgrow
+animation.cap.giantstill
+animation.cap.giantshrink
+
+animation.cap.lookup
+animation.cap.backflip
+animation.cap.handsup
+animation.cap.mourn
+animation.cap.break
+
+animation.cap.scared
+animation.cap.headspin
+
+Animations created by DaShadPlayz. Follow Creaton Games for updates.
+
+Support Us By Donating Here

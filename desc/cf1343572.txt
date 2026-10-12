@@ -1,0 +1,139 @@
+Full description:
+
+Note:
+
+It is necessary to have the Education Edition activated to use the flight skills provided by the add-on:
+
+It is necessary to increase the simulation distance so that the structures can be loaded correctly.
+
+Superhero costumes:
+
+You can get all the powers and costumes of DC heroes in your survival world, each character will have their own way to get their powers.
+
+You can make the costumes of DC superheroes using the sewing machine:
+
+Place the sewing machine on the floor and interact with it so that there will be an interface.
+
+In the menu you can find all the available heroes categories.
+
+Selecting a superhero will display all available costumes.
+
+To make the costume you must have in the inventory the items required to make the costume, after that press the button and you will automatically get the complete costume of the superhero. To use a costume place the costume item in the feet slot and the masks or helmets on the head.
+
+Powers:
+
+To use the superheroes' powers you must place the powers item in the leg slot.
+
+Characters:
+
+- Superman
+
+- Batman/Bat-Family
+
+- Wonder Woman
+
+- Shazam
+
+- Aquaman
+
+- Blue Beetle
+
+- Green Arrow
+
+- Peacemaker
+
+- Flash
+
+- Green Lantern
+
+- Deathstroke
+
+If you want to know more details about each character's abilities, visit the original add-on blog: DC Project Add-on
+
+Basic controls:
+
+Flight system
+
+Some powers have the ability to fly, you can customize the flight as you like using this item:
+
+It is important to have the Education Edition activated in order to use the flight.
+
+To fly press the jump button several times and you will have the same flight in a creative way.
+
+When you press the sprint button you will start flying like a superhero. While you are flying you will be able to move around by moving the game camera, the longer you are flying you will be able to increase the speed of flight, it will also depend on how you configure the flight to your liking.
+
+Menu items
+
+Some powers will have a + icon which means you have more options to choose another skill, while you have the item in your hand duck down and use the item to bring up a menu.
+
+In the menu you will be able to choose another unique ability that grants powers, when you select the item it will be granted in your hand.
+
+Enemies:
+
+Some bosses can be summoned by buying a summoner from the superman robots, you will also need a dragon egg.
+
+Deathstroke (Boss)
+
+General characteristics:
+
+- Health: 900
+
+- Attack damage: 7
+
+- Pistol damage: 14
+
+Attacks:
+
+- Sword attack.
+
+- Pistol & Dodge.
+
+Ultraman (Boss)
+
+General characteristics:
+
+- Health: 1500
+
+- Damage: 19
+
+Attacks:
+
+- Hits to the air.
+
+- Hit to the ground.
+
+- Eye laser
+
+- Laser blast all around.
+
+Aryan Empire
+
+They will appear randomly in taiga forests.
+
+General characteristics:
+
+- Health: 25
+
+- Damage: 5
+
+Structures:
+
+Fortress of Solitude:
+
+It is randomly generated in the snow biomes, inside you can find Superman's robots and the dog Krypto.
+
+You can tame Krypto with bones, he will defend you from enemies and you can order him to follow you or stop following you.
+
+Kryptonite:
+
+Kryptonite can be obtained in the biomes of the mountains.
+
+Trailer:
+
+Credits:
+
+- Add-on created by: Mr. Nido
+
+- Beta testers: Zerofatalred, Wasa, Gomemer, The Amazing Mondongo, Doge4_ever, Arcangel7263 & Wasa.
+
+- Add-on blog: DC Project Add-on.

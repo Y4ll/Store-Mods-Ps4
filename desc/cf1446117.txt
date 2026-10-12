@@ -1,0 +1,44 @@
+Better Vein Miner and Tree Cutter is a Minecraft Bedrock addon that makes mining and wood-cutting faster. Just sneak and break a block to automatically mine the connected ore vein or cut down the entire tree. Its lightweight, easy to use, and works smoothly in survival worlds.
+
+Important Note
+
+This pack will not appear in the main Settings Packs menu. To activate it, edit or create a world, go to the Behavior Packs section, and enable the addon there.
+
+How To Use
+
+Crouch (Sneak)
+Break an ore, a log, or a block of clay, mud, snow or soul sand
+The addon will automatically mine the connected vein or cut the full tree.
+No commands, nothing to set up, just sneak and break!
+
+What It Mines
+
+- Ores - coal, copper, iron, gold, lapis, redstone, diamond, emerald, nether gold, nether quartz and ancient debris, including deepslate versions
+
+- Trees - all log types, including cherry, pale oak, mangrove with its roots, and crimson and warped stems
+
+- Shovel blocks - clay, mud, snow blocks, soul sand and soul soil
+
+Dirt, sand and gravel are left out on purpose, so one break can't strip away a whole beach or hillside.
+
+Features
+
+- Mines the whole connected vein in one break, and stone and deepslate versions of the same ore are mined together
+
+- Cuts the full tree, including diagonal branches on acacia, dark oak, jungle and mangrove trees
+
+- Needs the right tool: a pickaxe for ores, an axe for logs, a shovel for clay, mud, snow and soul sand
+
+- Respects pickaxe tiers, so a stone or copper pickaxe won't collect diamonds. Ores your pickaxe can't mine are left in place, not destroyed
+
+- Silk Touch and Fortune work like vanilla
+
+- Gives the same XP vanilla gives for each ore
+
+- Uses tool durability for every extra block, with Unbreaking taken into account
+
+- Shows how many blocks you harvested, with a sound when it finishes
+
+- Capped at 256 ores or 512 logs per break, so it stays fast even on huge veins and trees
+
+- Achievement friendly, no experimental toggles needed

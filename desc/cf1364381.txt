@@ -1,0 +1,183 @@
+Enhanced FX is a resource pack that adds many different visual improvements, particle effects, and general quality of life changes, while still keeping the vanilla style of Minecraft. With this pack, many mobs recieve entirely new damaged textures, damage particles, ambient particles, glowing eyes, idle animations, sound effects, and even name tag easter eggs!
+
+If you have any questions or find any issues with this pack, you can contact me in the comments or on Discord (lionhead07)
+
+Animation Changes & Fixes
+
+All mobs will now have bobbing/idle animations, along with a few other animation changes and bug fixes.
+
+Bobbing Animations
+
+The following mobs have been given bobbing/idle animations with this pack, as they don't have one in vanilla:
+
+- Villager
+
+- Wandering Trader
+
+- Vindicator
+
+- Evoker
+
+- Witch
+
+- Ravager
+
+- Iron Golem
+
+- Goat
+
+- Llama
+
+- Sniffer
+
+- Snow Golem
+
+- Pig
+
+- Cow
+
+- Mooshroom
+
+- Sheep
+
+- Panda
+
+- Polar Bear
+
+- Wolf
+
+- Fox
+
+- All Horse variants
+
+- Chicken
+
+- Parrot
+
+- Armadillo
+
+- Cat
+
+- Ocelot
+
+- Turtle
+
+- Spider
+
+- Cave Spider
+
+- Creeper
+
+- Hoglin
+
+- Zoglin
+
+Animation Changes
+
+- Camel bobbing animation is different
+
+- Camel Husk bobbing animation is different
+
+- Vex animations have been changed to match Allay animations
+
+- Endermen now shake when angry
+
+- Ravagers now shake when roaring
+
+- Iron Golem attack animation is faster
+
+- Zombies now raise their arms when targeting
+
+- Zombie arms will now match other humanoid mobs when stationary
+
+- Skeletons now draw back their bow when firing
+
+- Pigs now have floppy ears like Piglins and Hoglins
+
+- Spyglass first person position has been changed to match other held items
+
+Animation Fixes
+
+- Player third person eating animation is now smooth
+
+- Player third person trident raising animation is now smooth
+
+- Squid swimming is now smooth
+
+- Glow Squid swimming is now smooth
+
+- Panda rolling is now smooth
+
+- Fox pouncing is now smooth
+
+- Chicken wing flapping is now smooth
+
+- Parrot wing flapping is now smooth
+
+- Pufferfish flopping rotation is now smooth
+
+- Evoker Fang biting is now smooth
+
+- Tropical Fish now rotate when flopping on land
+
+- Iron Golems no longer run super fast
+
+- Iron Golems now only move their limbs when they are actually moving
+
+- Iron Golems now pivot towards the bottom of their model
+
+- Ender Dragon animations are now smooth
+
+- Ender Dragon wings are now symmetrical
+
+- Warden animations no longer get messed up by their look at target animation
+
+- Warden attack animation now plays fully
+
+- Creaking animations no longer get messed up by their look at target animation
+
+- Creaking attack animation now plays fully
+
+- Copper Golem animations no longer get messed up by their look at target animation
+
+- Copper Golems now start and stop moving smoothly
+
+- Wither Skeleton bobbing animation now plays
+
+- Player first person item bobbing now looks correct for attachables
+
+- Player first person item bobbing now plays on the left hand
+
+- Player third person bobbing animation now plays correctly
+
+- Humanoid bobbing animation now plays correctly
+
+- Guardian and Elder Guardian tails now move at a normal speed
+
+- Piglin and Zombified Piglin ears now bob
+
+- Zombified Piglin ears now flap when moving
+
+- Snow Golems now rotate their body when looking around
+
+- Villager, Illager, and Witch robes are no longer cut off towards the bottom
+
+- Ghast shooting texture now uses the correct resolution
+
+- Explosion effects are now partially transparent
+
+Food & Drink Tooltips
+
+With this pack you can see how much hunger any food or drink item restores, what potion effects they give alongside how long those effects last, and if that item has any other benefits.
+
+Here are some examples:
+
+Glowing Eyes
+
+Some mobs now have emissive eyes.
+
+All mobs that seem like they should have glowing eyes in vanilla will now have them with this pack enabled! Creepers have also been given glowing eyes that change colors when charged.
+
+Damage Textures
+
+Many mobs have recieved new damaged textures lik

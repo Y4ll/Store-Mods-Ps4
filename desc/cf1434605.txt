@@ -1,0 +1,137 @@
+Realistic Blood FX v2.2.9
+
+Realistic Blood FX enhances combat in Minecraft Bedrock Edition with dynamic blood particles, temporary ground splatters, death pools, and a new reactive Blood Screen system.
+
+Hits feel more noticeable without permanently covering the world in effects. Blood appears around damaged entities, can reach nearby solid ground, fades automatically, and scales depending on the situation.
+
+The addon is designed for survival worlds, multiplayer servers, combat addons, and weapon packs while keeping the effects temporary and performance-friendly.
+
+Blood Screen
+
+Players can now receive a dynamic first-person Blood Screen effect when taking damage or reaching low health.
+
+Important: Blood Screen Movement
+
+If you do not want the Blood Screen effect to shake or move while walking, open the Minecraft settings and turn Camera Shake off.
+
+The Blood Screen supports three intensity modes:
+
+- LOW subtle screen effects
+
+- MEDIUM balanced default intensity
+
+- HIGH stronger and more visible effects
+
+Each mode uses multiple blood stages that become progressively stronger as the player's health decreases.
+
+Taking damage also creates a short splash effect on the screen. This temporary hit effect fades away automatically while the persistent low-health Blood Screen remains visible underneath when required.
+
+The Blood Screen can also be disabled through the BloodFX settings.
+
+Dynamic Blood Effects
+
+When supported players, animals, or mobs take damage, blood particles and splashes can appear around the impact area.
+
+Blood reaching a valid solid surface can create temporary ground splatters.
+
+The amount and appearance of blood varies naturally to prevent every hit from looking identical.
+
+Death Pools
+
+Defeated entities can leave behind a larger temporary blood pool.
+
+Pool size depends on the size of the entity:
+
+- Small animals and mobs create smaller pools
+
+- Normal mobs create medium-sized pools
+
+- Large entities create larger pools
+
+- Players receive a larger and more noticeable death pool
+
+All pools disappear automatically after a short period.
+
+Smart Placement
+
+Blood effects are designed to avoid unrealistic placement whenever possible.
+
+Ground effects avoid vegetation such as grass, flowers, and similar plants, helping prevent blood pools from floating above blocks or appearing incorrectly on foliage.
+
+Flying creatures also avoid creating ground effects while they are too far above the surface.
+
+Features
+
+- Dynamic blood particles when entities take damage
+
+- Temporary blood splashes on solid ground
+
+- Different death-pool sizes depending on entity size
+
+- Larger blood pools for player deaths
+
+- Dynamic first-person Blood Screen
+
+- LOW, MEDIUM and HIGH Blood Screen modes
+
+- Multiple Blood Screen intensity stages
+
+- Separate temporary hit-splash effect
+
+- Smoothly fading screen effects
+
+- Persistent Blood Screen at low health
+
+- Blood Screen can be disabled
+
+- Temporary effects that automatically disappear
+
+- Smart ground placement
+
+- Avoids grass, flowers and similar vegetation
+
+- No permanent blood left in the world
+
+- Automatic operation during normal gameplay
+
+- Multiplayer-friendly design
+
+- Optimized textures and lightweight effects
+
+- Compatible with many combat and weapon addons
+
+Installation & Setup
+
+Installation
+
+- Download the BloodFX .mcaddon file.
+
+- Open the downloaded file with Minecraft Bedrock Edition.
+
+- Minecraft will automatically import the included packs.
+
+- Open the settings of your world.
+
+- Activate the BloodFX Behavior Pack.
+
+- Activate the BloodFX Resource Pack.
+
+- Start or restart the world.
+
+Both packs are required for all BloodFX features and textures to work correctly.
+
+First Start
+
+BloodFX works automatically after the Behavior Pack and Resource Pack have been activated.
+
+You do not need to manually enable blood effects every time you enter the world.
+
+BloodFX Settings Menu
+
+BloodFX includes an in-game settings menu.
+
+Open the menu with:
+
+/function blood/set
+
+From the settings menu you can conf

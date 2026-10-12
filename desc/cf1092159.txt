@@ -1,0 +1,45 @@
+This addon lets you freeze time, pick two mobs (even custom ones), and make them fight with one click.
+
+Tutorial video
+
+Check it if you can't understand
+
+https://youtu.be/l4cbIYgEu8k
+
+<figure class="media"></figure>
+
+Custom Mob Supported
+
+||| Free To use just give me creadit |||
+
+Share this page link, not Mediafire if you do a review or showcase!
+
+Illegal Item -
+
+- Added Game Changer Item which help you change game mode without losing achievement
+
+- 4v4 Supporting with 2 round battle
+
+How to use:
+
+- Take 3 wands (Team A, Team B, Battle Wand) from creative.
+
+- Select 1st mob by interacting with the Team A Wand (right click on PC, long click on mobile).
+
+- Select 2nd mob by interacting with the Team B Wand (right click on PC, long click on mobile).
+
+- Team A & B Wands mob record range is 7 blocks.
+
+- When mob is recorded, it will send you feedback.
+
+- After all of this, use a battle wand.
+
+Items:
+
+Mob Stop Clock:
+
+- You can stop the mob when you set it up so you dont worry about distance.
+
+- Stop mob Just hold the clock and tab on the screen. It will give you feedback so dont worry.
+
+Screenshots:

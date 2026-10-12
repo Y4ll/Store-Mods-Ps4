@@ -1,0 +1,95 @@
+"On n'a pas besoin de connaitre le danger pour craindre; il y a meme une chose a remarquer, c'est que ce sont justement les dangers inconnus qui inspirent les plus grandes terreurs."
+
+-Alexandre Dumas, Le comte de Monte-Cristo
+
+You will not find comfort in what you know.
+
+You wont find any monsters waiting in the dark, but youll wish you had. Youll hope for something to fight while the familiar world you once walked slowly turns against you.
+
+It begins with normalcy; it always does. You build and explore. The world feels yours for the taking. You might even defeat the Ender Dragon, yet something will feel off.
+
+At first, it will be the little things: footsteps that mirror yours but keep going after youve stopped, a block you did not place, a broken torch in a dark cave, a door opening when youre not looking. Youll begin to wonder whats real and what isnt.
+
+Take this as a warning: Ive fallen prey to it. Calm is just the disguise of whats coming, so learn to fear the silence as it hides what hasn't struck yet.
+
+The worst is yet to come.
+
+What to expect
+
+- A faithful vanilla atmosphere
+
+- Slow, psychological horror progression
+
+- Subtle environmental changes
+
+- Subtle growing threats
+
+- No unfair deaths
+
+- No (intentional) jumpscares
+
+- Vanilla achievements remain earnable
+
+- More than 100 events.
+
+You will not be attacked.
+You will not be hunted.
+But you will not feel alone.
+
+The price of terror
+
+The Foreboding Project is a slow burn designed to start dormant in your world. Upon installation you may log into your already running world, or new world and see nothing has changed. Play as you normally would, wondering at every turn what is normal, and what is not. Let the fearful apprehension fill you, for then you have fallen prey to the foreboding.
+
+If you want instant action I fear you will not find it here; you seek horror, but terror needs time to build.
+
+Events Overview
+
+Warning
+
+The best experience lies in going in blind. However, for those who crave knowledge, read on at the bane of your own future enjoyment.
+
+The events will not start from the get go as there are conditions for the Foreboding to start, at first, the world seems ordinary. But there will be minor subtle hints that all is not as it appears.
+
+Sample events:
+
+- First Spawn: Your arrival in this world might not have gone unnoticed.
+
+- Seen: You can feel it
+
+Starting Conditions:
+
+Triggering any of the following will begin the Foreboding. These were chosen to allow a normal Minecraft experience, providing an off guard experience as much as possible (stop reading this now if you still want that experience for you)
+
+- Reaching y -55
+
+- Traveling 8,000 blocks from (0, 0)
+
+- Reaching level 31
+
+- If the world is 15 minecraft days old, each day has a 1% chance of starting the foreboding
+
+- Wearing enough diamond armor or tools.
+
+(Triggering all of them won't accelerate the Foreboding)
+
+In this stage if you are paying attention, you may note, a thicker fog in the horizon. The world will remain the same, but bear in mind, that something is coming.
+
+The horizon blurs. The mist is not just closer, it feels heavier, whatever it entails will start manifesting in your world.
+
+Sample events:
+
+- Still Life: The world feels frozen, crops refuse to grow, fire wont spread, and grass remains unchanged, as if time itself has stalled.
+
+- Silence: All music suddenly stops, leaving an eerie, unnatural silence.
+
+- Cave Noise: Deep underground, unsettling noises remind you that you're not alone.
+
+- Creeper Explosion: Some explosions leave behind more than just destruction.
+
+- Horn Back at You Event: An eerie response to familiar sounds.
+
+At this point the fog is a given, a reality impossible to miss or deny as the thickness is too dense to miss even for the most oblivious person, and thus you realize that whatever is coming with it, is almost here.
+
+Sample events:
+
+- The Vanishing: The world grows unnervingly quiet, no zombies groan, no skeletons rattle. Its as if something has scared them

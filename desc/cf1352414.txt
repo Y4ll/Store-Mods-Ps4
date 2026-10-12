@@ -1,0 +1,1 @@
+This is a shader made to give you old Minecraft Alpha as well as VHS vibes. It also has custom alpha textures. Some Screenshots below:

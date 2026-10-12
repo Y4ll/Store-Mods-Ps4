@@ -1,0 +1,11 @@
+[EN] Guns and Bullets is an add-on specifically designed to facilitate PVP combat in Minecraft Bedrock. It adds new weapons that make things easier for you. It also adds a number of new weapons in realistic 3D. This add-on also helps you greatly in both long and short-range combat, combating the Dragon, the Warden, the Whiter itself, or any other entity in the game.
+This add-on works correctly by activating the experiment options, so you must be sure to activate them for everything to work correctly.
+It's also important to keep in mind that all weapons are fully craftable, using the same minerals as the game, as weapons and ammunition.
+
+[ES] Armas y Balas es un complemento especificamente hecho para facilitar el combate Pvp en minecraft Bedrock. Agregando asi nuevas armas que te hacen las cosas mas facil. Agregando cantidades de nuevas armas en 3D forma realista. Ademas este complemento te ayuda demasiado para el largo y corto alcanze, combatiendo asi la dragona, el Warden, el mismo whiter o cualquier otra entidad del juego.
+Este complemento funciona correctamente activando las opciones de experimentos. asi que debes fijar bien en activarlas para que todo funciones correctamente.
+Tambien es importate a tener en cuenta que todas las armas son totalmente crafteables. utilizando los mismo minerales del juego. Como armas y municion.
+
+[PO-BR] Guns and Bullets e um complemento projetado especificamente para facilitar o combate PVP no Minecraft Bedrock. Ele adiciona novas armas que facilitam as coisas para voce. Tambem adiciona uma serie de novas armas em 3D realista. Este complemento tambem ajuda muito em combates de curta e longa distancia, como combater o Dragao, o Guardiao, o proprio Whiter ou qualquer outra entidade no jogo.
+
+Este complemento funciona corretamente ativando as opcoes de experimento, portanto, certifique-se de ativa-las para que tudo funcione corretamente. Tambem e importante lembrar que todas as armas sao totalmente fabricaveis, usando os mesmos minerais do jogo, como armas e municao.

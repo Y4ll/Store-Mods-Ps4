@@ -1,0 +1,63 @@
+This is not Vibrant Visuals and can't be used with default Minecraft app. Need MB Loader, MC Patched or any launcher that can load render dragon shaders
+
+TRAILER
+
+SUBPACKS :
+
+- Vanilla Clouds + Heighmap off
+
+- Vanilla Clouds + Heightmap on
+
+- Vanilla Clouds + Always reflection
+
+- Rounded Clouds
+
+- Soft Clouds
+
+- Volumetric Clouds
+
+- No Fog
+
+- No Wave (PERFORMANCE BOOST)
+
+PLATFORM SUPPORTED :
+
+- Android (Supported)
+
+- Windows (Supported)
+
+- IOS (Not Supported)
+
+MINECRAFT VERSION SUPPORTED :
+
+- 26.40+
+
+GO TO "FILES" TAB TO DOWNLOAD LITE VERSION IF YOU ARE ON CURSEFORGE, THANK YOU
+
+Changelog Version 6.5 :
+
+- Minecraft 26.50+ supported
+
+- Windows version now available (Click "Files" tab to choose between available versions)
+
+- Way more brighter tonemap
+
+- Remove plants wave effect on lite version
+
+Shaders Installation :
+
+- Make sure you have Minecraft Bedrock on your phone (Original or crack doesn't matter)
+
+- Got to playstore and download "MB Loader"
+
+- Once you have them all, go to downloaded file shaders and import the .mcpack file
+
+- Then, choose import to "MB Loader" not Your Minecraft
+
+- Go to MB Loader setting
+
+- Scroll down and turn off all "autofix" toggle
+
+- Finish, you can play with shaders via "MB Loader"
+
+THANKS FOR DOWNLOADING

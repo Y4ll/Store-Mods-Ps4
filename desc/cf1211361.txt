@@ -1,0 +1,99 @@
+Are you looking for a new player animation? well I got you, this pack add simple custom animation, smoothing out vanilla animation and cape are still working. Don't expect too much in this pack, this is mainly for smoothing vanilla animation only.
+
+Basic Information
+
+Fay's Player Animation Specifications
+
+- Player:
+
+- Walk.
+
+- Idle.
+
+- Footprints.
+
+- Jump.
+
+- Flying.
+
+- Sprint.
+
+- Sprint leaning left, right.
+
+- Sprint particles.
+
+- Sprint while holding any sword, bow and trident.
+
+- Sneaking.
+
+- Sneaking while holding cooked food type.
+
+- Sneaking while holding diamond.
+
+- Bow while aiming.
+
+- Bow while aiming + Sneak.
+
+- Sneaking underwater.
+
+- Swimming.
+
+- Swimming idle.
+
+- Bubble particle underwater.
+
+- Sleep.
+
+- Elytra gliding.
+
+- Gliding Particle while using Elytra.
+
+- Holding zombie arm.
+
+- Dressing room.
+
+- Fishing.
+
+- Holding [Torches, Lanterns. Carrots on a stick, Warped fungus on a stick].
+
+- Critical damage particles.
+
+- Supporting attachable.
+
+- On Screen Animation.
+
+- Eat and Drink.
+
+- Mount.
+
+- Death.
+
+- Spawn.
+
+- Cape.
+
+- Armory Equip.
+
+Fay's Player Animation Visual
+
+Image may not show correctly in color [gif animation and color], but in game it will normal.
+
+In-Game
+
+Video
+
+Note
+
+- Early Stages of animation, report if you found bug. Support with Persona skin, capes do not disappear, and work with custom skin!
+
+- Cape by: Xqtalyst.
+
+Join our Discord and submit your ideas!
+
+Click here for more!
+
+Visit website for more info about this addon!
+
+If you are content creator, please use MCPEDL, ModBay or Planet Minecraft link if you want to share it, do not relink or use direct link to Mediafire! Do not upload to another websites or applications without my permission.
+
+You can modify this pack for yourself only.

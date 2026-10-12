@@ -1,0 +1,31 @@
+Item Upgrader
+
+Turn upgrading into a real risk-and-reward system with Item Upgrader.
+
+Choose the item you want to upgrade, select the target reward, adjust the chance, and decide how much risk you want to take. The higher the reward, the more exciting the upgrade becomes.
+
+The interface is designed to be simple to understand while still making every upgrade feel intense.
+
+Features
+
+- Upgrade different Minecraft items
+
+- Adjustable upgrade chances
+
+- Multiple risk and reward options
+
+- Clear value display for both items
+
+- Easy-to-use upgrade interface
+
+- Inventory overview directly inside the menu
+
+- Great for survival, multiplayer, and custom worlds
+
+- Makes valuable items feel more exciting to use
+
+Pick your item, set your chance, and press Upgrade.
+
+Sometimes you win big. Sometimes you lose it all.
+
+Risk it. Upgrade it. Get something better.

@@ -1,0 +1,118 @@
+DyingDayZ REBORN brings back the classic addon with revamped features, including smoother gun animations, 3D items, and new stats for Minecraft's latest version.
+
+In this version of DyingDayZ, I revamped and changed the old one into new and fresh 3D stuff, basically, this addon still uses the old gameplay mechanic just added new stats and effect and change almost everything into 3D, trust me, it's better than old DDZ before.
+
+Trailer
+
+What's New?
+
+- Smoother Gun Animation
+
+- Better Gun Mechanics
+
+- 3D Items (Food, Beverages, And Melee)
+
+- Added new stats: Infected, Bleeding, Black Limb, Bone Break
+
+- Medicine (NEW AND 3D)
+
+- Loot Block and Entity spawn Optimization
+
+- And much more
+
+So let's start from entering the world with the addon. At the start when you enter your world with survival mode active, you'll get starter loot and starter gun with some ammo to help you upgrading your tools, your inventory will be locked so your main task is to craft a backpack, and upgrade it, recipe will be shown once you get some material such as leather and chest.
+
+Make sure to get tripwire hook to open your backpack! Each backpack has different storage size, upgrading your backpack will increase your inventory slot.
+
+Sometimes, some vest armor will give you extra 4 slots to your inventory, but be careful, once you lose/remove it, you will lose your item on that pocket too!
+
+Thirst-Bar
+
+Thirst duration is now increased, making you stay hydrated longer than before, and the good news is, all beverages are now 3D but still with simple animation. Don't worry, it will be updated in future updates (maybe).
+
+Some of the beverages give you some effect and have different thirst points. There are lots of 3D beverages here that you could explore by yourself. You can get them from loot boxes through structures.
+
+Guns
+
+Now for the guns, I have good news: the guns now don't have hit immunity delay, which means that you could use guns for PvP, but not for that shotgun lol. Bullets also don't ignore armor when hitting an entity that wears armor, and have a unique hit sound depending on where the bullet landed. Thanks to @Fritzertwwaddon and his team for letting me use their bullet and armor script.
+
+Each gun is categorized into 3 types of range:
+
+- Long Range: Infinity (depends on how much your chunk load)
+
+- Mid-range: 30-32 blocks away
+
+- Short Range: 14-15 blocks away
+
+- Very Short Range: 7 blocks away
+
+Each gun also has its own bullet type, recoil, and fire rate. You can find the bullet type information in the name of the gun.
+
+HKG36C
+
+Damage: 12
+Range: Mid
+Bullet/Mag: 30
+
+Glock-19
+
+Damage: 7-8
+Range: Short
+Bullet/Mag: 15
+
+AAC Honey Badger
+
+Damage: 12
+Range: Mid
+Bullet/Mag: 30
+
+M1014
+
+Damage: 30-40
+Range: Very-short
+Bullet: 1-8 Shells
+
+Colt M1911
+
+Damage: 10
+Range: Mid
+Bullet/mag: 8
+
+Barret MRAD
+
+Damage: 40-50
+Range: Long
+Bullet/mag: 10
+
+AWM (Arctic Warfare Magnum)
+
+Damage: 40-50
+Range: Long
+Bullet/mag: 5
+
+HK416C (Starter-gun)
+
+Damage: 10
+Range: Short
+Bullet/mag: 20
+Note: You can only obtain this at the start of your survival world, this gun has a high fire-rate
+
+Tec-9
+
+Damage: 8-9
+Range: Short
+Bullet/mag: 30
+
+Secret Gun
+
+Secret gun cannot be obtained from cheat or creative inventory, you need to find it through loot box then craft it, or you can get it from a code, join my discord to get the gun codes or watch my video about how to get them. The Minigun is still work in progress, so you couldn't get it from survival, but you still can use and test it.
+
+Attachment
+
+There are various combinations of attachment, you can test it by yourself, it is also craftable in survival. To put attachment is so simple, just put your attachment on your offhand slot while holding the gun that supports the attachment, the attachment will automatically be added. To remove, put your gun that has an attachment on it on your offhand slot. More Updates, More Attachment.
+
+Preview
+
+To change the magnifier scope, sneak then tap/hit 2 times slowly.
+
+You can reveal the rest by yours

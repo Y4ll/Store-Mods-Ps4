@@ -1,0 +1,47 @@
+Cinematic Visuals Shader is a Vibrant Visuals pack for Minecraft Bedrock latest version to provide you all with a Cinematic visuals exprience, PBR, reflections, new caustics, new improved water, new lightning, Godrays and alot more!!!
+
+Check out our latest Eternity Shader Deferred for Vibrant Visuals:-
+
+Screenshots:-
+
+Screenshots (V1.1):-
+
+Features:-
+
+- New cubemap [Subpack]
+
+- Different tonemap
+
+- Biome Colors fix
+
+- New improved Water
+
+- Godrays
+
+- Default PBR Textures
+
+- New Atmosphere Colour
+
+- Night color new
+
+- New Sun Path
+
+- New Caustics
+
+- New Volumetric Fog
+
+- And ALOT MORE!!
+
+Installation:-
+
+- Your device should support vibrant visuals!!!
+
+- Download the pack
+
+- Import in ur game then activate the pack
+
+- Then in game settings go to video option and change graphics option to Vibrant Visual.
+
+- You are done now! Enter the world and enjoy!
+
+Our Discord:- Join now!

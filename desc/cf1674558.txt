@@ -1,0 +1,73 @@
+All Mob Trade
+
+Trade with almost every mob in Minecraft!
+
+About This Addon
+
+All Mob Trade is a Minecraft Bedrock addon that expands the normal trading system far beyond villagers. With this addon, many passive, hostile, aquatic and boss mobs can offer their own unique trades.
+
+Instead of every mob selling the same items, each mob now has trades designed around its theme, biome, abilities and normal drops. This makes exploring and interacting with different mobs much more useful and rewarding.
+
+Features
+
+- Trade with a large variety of Minecraft mobs.
+
+- Different mobs have their own unique trade lists.
+
+- Mob-related items and rewards instead of repetitive generic trades.
+
+- Rare mobs can offer more valuable and rare items.
+
+- Hostile mobs can also become useful trading partners.
+
+- Passive mobs have trades related to their normal drops and environment.
+
+- Aquatic mobs provide ocean-themed items.
+
+- Nether mobs provide Nether-related resources.
+
+- End mobs provide rare End-related rewards.
+
+- Boss mobs can offer some of the rarest trades in the addon.
+
+Special Trade Examples
+
+- Drowned can offer a Trident and other ocean-related items.
+
+- Ender Dragon can offer a Dragon Egg and rare End items.
+
+- Wither can offer a Nether Star.
+
+- Evoker can offer a Totem of Undying.
+
+- Phantom can offer rare flying-related rewards.
+
+- Breeze includes special Trial Chamber-related trades.
+
+Many other mobs such as Zombies, Husks, Guardians, Elder Guardians, Cats, Ocelots, Horses, Donkeys, Mules and more also have their own separate trade sets.
+
+Gameplay
+
+Explore your world, find different mobs and discover what each one has to offer. Some common mobs provide useful survival resources, while dangerous or rare mobs can provide much more valuable rewards.
+
+The addon is designed to make mob interaction more interesting and give players another reason to explore different biomes and dimensions.
+
+Notes
+
+- This addon is made for Minecraft Bedrock Edition.
+
+- Trade availability and prices may vary depending on the mob.
+
+- Rare and powerful rewards usually require more expensive trades.
+
+- Keep the behavior pack enabled while playing.
+
+Credits
+
+Created by Baku
+Concept, Development, Trade System, Pack Design and Testing Baku
+
+Please do not reupload, redistribute or claim this addon as your own without permission from Baku.
+
+All Mob Trade by Baku
+Trade. Explore. Discover rare rewards.

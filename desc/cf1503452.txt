@@ -1,0 +1,27 @@
+Turn on Experimental (Beta APIs)
+
+This is a horror add-on that brings Siren Head (Creation of Trevor Henderson) to Minecraft, based on a horror game.
+
+Siren Head:
+
+- Siren Head has 80000 health and deals 700 damage.
+
+- Siren Head can spawn naturally at night
+
+- Siren Head's targets are players, villagers, and iron golems.
+
+- Siren Head runs very fast.
+
+- Siren Head has a very large damage range.
+
+- Siren Head can lift its target into the air and bite.
+
+- The Siren's Field is an extremely dangerous area.
+
+Creators:
+
+- megagatus
+
+- Kyrie Guinto
+
+- ilyahopal228

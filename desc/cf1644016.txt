@@ -1,0 +1,177 @@
+# Ultimate Starter Kit
+
+**Ultimate Starter Kit** is a Minecraft Bedrock Edition addon that gives you a powerful and fully equipped start whenever you begin a new survival world.
+
+Tired of spending hours collecting resources and crafting basic gear before you can actually start your adventure? This addon gives you a complete **Starter Kit Shulker Box** as soon as you spawn in a world for the first time.
+
+The Shulker Box contains powerful **max-enchanted Netherite gear, weapons, tools, Elytra, Spear, Mace, food, Golden Apples, Ender Pearls, Firework Rockets, and other useful survival items**.
+
+Instead of starting from scratch, jump straight into your Minecraft survival adventure with everything you need to explore, fight, mine, travel and survive.
+
+---
+
+## What's Inside the Starter Kit?
+
+The Starter Kit Shulker Box contains a wide selection of powerful Minecraft items, including:
+
+### Max-Enchanted Netherite Armor
+
+Netherite Helmet
+
+Netherite Chestplate
+
+Netherite Leggings
+
+Netherite Boots
+
+All included equipment comes with powerful maximum-level enchantments to give you a strong start.
+
+### Weapons
+
+Max-enchanted Netherite Sword
+
+Spear
+
+Mace
+
+Bow
+
+Trident
+
+Whether you're fighting mobs, exploring dangerous areas or preparing for tougher challenges, the kit gives you a variety of combat options.
+
+### Netherite Tools
+
+Netherite Pickaxe
+
+Netherite Axe
+
+Netherite Shovel
+
+Netherite Hoe
+
+The tools are ready for immediate use, allowing you to start mining, collecting resources and building without spending time crafting your first set of equipment.
+
+### Elytra & Travel Items
+
+Elytra
+
+Firework Rockets
+
+Ender Pearls
+
+Travel across your world faster and explore the Overworld with much less preparation.
+
+### Survival Essentials
+
+Golden Apples
+
+Food
+
+Arrows
+
+Ender Pearls
+
+Other useful survival supplies
+
+These items help you survive your first adventures and make the transition into a new world much easier.
+
+---
+
+## Main Features
+
+Automatic Starter Kit on first spawn
+
+Complete kit delivered inside a Shulker Box
+
+Max-enchanted Netherite equipment
+
+Powerful weapons including Spear and Mace
+
+Elytra included for fast exploration
+
+Firework Rockets for Elytra flight
+
+Golden Apples and food for survival
+
+Ender Pearls for exploration and combat
+
+Ranged weapons and ammunition
+
+Full set of Netherite tools
+
+Designed for Minecraft Bedrock Edition
+
+Get straight into the action without the early-game grind
+
+---
+
+## How It Works
+
+Simply install and activate **Ultimate Starter Kit** in your Minecraft Bedrock world.
+
+When a player spawns in the world for the first time, the addon automatically provides the Starter Kit Shulker Box.
+
+Open the Shulker Box and you'll find your complete collection of powerful gear and survival supplies ready to use.
+
+The goal is simple: **skip the boring early-game preparation and start your adventure fully equipped.**
+
+---
+
+## Perfect For
+
+**Ultimate Starter Kit** is ideal for:
+
+Survival worlds
+
+New Minecraft worlds
+
+Survival challenges
+
+Hardcore-style gameplay
+
+Adventure maps
+
+Testing worlds
+
+PvE gameplay
+
+Speedrunning preparation
+
+Creative projects
+
+Players who want an end-game style start
+
+Whether you're starting a brand-new survival world or simply want to experiment with powerful equipment, this addon provides a convenient and fun way to get started.
+
+---
+
+## Why Use Ultimate Starter Kit?
+
+Minecraft's early game can require a lot of repetitive grinding before you can access powerful equipment.
+
+With **Ultimate Starter Kit**, you can skip that initial grind and immediately begin exploring caves, fighting mobs, traveling with an Elytra, discovering structures and working on your builds.
+
+It's a simple addon with one goal:
+
+### **Spawn Open the Shulker Box Gear Up Start Your Adventure!**
+
+---
+
+## Addon Information
+
+**Addon Name:** Ultimate Starter Kit
+
+**Author:** AKASH MODz
+
+**Platform:** Minecraft Bedrock Edition
+
+**Category:** Starter Kit / Utility / Survival
+
+**Type:** Behavior Pack Addon
+
+---
+
+## Important
+
+This addon is 

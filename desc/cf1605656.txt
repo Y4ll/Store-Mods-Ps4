@@ -1,0 +1,37 @@
+A Bare Bones-style visual adaptation of SpectralPumpkin A&S, bringing that clean, trailer-inspired look to every animated tool frame made with permission from JustPals.
+
+This pack replaces the tool textures across all 12 animation frames per tool, matching the original SpectralPumpkin color-cycle effect while keeping the Bare Bones aesthetic: softer shading, defined outlines, and a more natural color palette. All 8 subpacks (Default All Tools + 7 "Only Netherite" color variants) are supported.
+
+Requirements pack order matters! (top to bottom):
+
+Bare bones X spectral pumpkin
+
+Bare Bones & Stuff
+
+Bare Bones Texture Pack
+
+Actions & Stuff
+
+Original SpectralPumpkin A&S by JustPals used with permission
+
+This pack requires Action and Stuff 1.11 and any of the dependencies mentioned above need to be in the most recent version to function.
+
+WARNING SECTION
+
+Without the required packs installed and in the correct order, your tools will be invisible in-hand.
+
+Screenshots
+
+Wooden tools
+
+Stone tools
+
+Copper tools
+
+Iron Tools
+
+Gold Tools
+
+Diamond Tools
+
+Netherite Tools

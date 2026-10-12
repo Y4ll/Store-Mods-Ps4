@@ -1,0 +1,30 @@
+Solscape reimagines Minecraft Bedrock's atmosphere with warm, golden-hour lighting that turns every sunrise and sunset into a cinematic moment built for both stunning visuals and smooth performance.
+
+From glowing caves to hazy sunlit horizons, every detail is tuned to give your world a warmer, more immersive feel without sacrificing the vanilla charm you know.
+
+Features:
+
+- Warm dynamic skies with custom sunrise/sunset gradients
+
+- Golden volumetric fog for a sun-drenched, hazy look
+
+- Cinematic ACES color grading with warm white balance
+
+- Glowing PBR ores with full MER support
+
+- Lightweight and vanilla-friendly performance
+
+Requirements:
+Minecraft Bedrock 1.21.80+ with Vibrant Visuals / RenderDragon enabled
+
+Installation:
+
+- Download the .mcpack file
+
+- Open with Minecraft or place in games/com.mojang/resource_packs
+
+- Activate in Settings > Global Resources, move to top
+
+- Enable Vibrant Visuals in Settings > Video
+
+- Apply under World Settings > Resource Packs

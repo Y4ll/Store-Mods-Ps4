@@ -1,0 +1,19 @@
+SMP Utilities & Essentials is an all-in-one addon that combines the most important features every Minecraft Bedrock SMP needs into a single package. Instead of installing multiple separate addons, everything is brought together into one addon that's perfect for multiplayer survival worlds.
+
+Featuring:
+
+Lag Clear Automatically clears dropped items to help reduce lag and improve server performance.
+
+Clans Create or join clans and play together with your friends.
+
+Playtime Track Keep track of how long you've played on the server.
+
+Teleports Set Homes, teleport to saved locations, and use Random Teleport (RTP) to explore the world.
+
+Starter Kit Receive a full Iron starter kit, food, and supplies when you first join and every time you respawn.
+
+Whether you're a server owner looking for essential utilities or a player wanting a smoother survival experience, SMP Utilities & Essentials has everything you need in one organized addon. Spend less time managing multiple packs and more time enjoying your SMP. Made by CyanXCodes.
+
+Admin Log Menu : Recovery Compass
+
+Normal Menu : Compass

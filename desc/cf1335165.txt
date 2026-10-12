@@ -1,0 +1,45 @@
+Discord
+
+ADS Night Vision
+
+THE PACK WHICH WORK ON NORMAL MINECRAFT VERSION (NO PATCH IS REQUIRED). RP MAKES GAME LOOK 50% NOW 100% MORE BRIGHT.
+
+By BUDGETGAMER1503
+
+FEATURES
+
+- CLEAR VIEW IN WATER AND LAVA
+
+- CLEAR VIEW IN NEATHER AND END
+
+- CLEAR VIEW(WHITISH) IN CAVES
+
+Installation
+
+-
+
+Download ther pack file from this page.
+
+-
+
+Import the .mcaddon file into Minecraft.
+
+-
+
+Create a new world or edit an existing one.
+
+-
+
+Navigate to the "Global Resource Packs" section in your world settings.
+
+-
+
+Activate the ADS Night Vision pack.
+
+Usage
+
+Once Resource pack is active in your world, there is nothing more you need to do! The night vision will be automatically applied to you.
+
+Disclaimer
+
+This RESOURCE pack was created by BUDGETGAMER1503. Unauthorized copying or redistribution is prohibited.

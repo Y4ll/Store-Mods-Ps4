@@ -1,0 +1,31 @@
+Ever wanted to make time move faster? See crops grow quickly, mobs spawn, the sun and moon fly over the sky, stalagmites grow and grass spread? Well now you can!
+
+What you'll need is a quartz block, an armor stand, a clock and some amethyst shards.
+
+To speed up time do the following:
+
+Place the armor stand
+
+Give the clock to the armor stand with amethyst shards in your inventory.
+
+You will get a message telling you "This armor stand's speed set to x[speed]" where [speed] is the number of amethyst shards you have on you.
+
+Place a quartz block to the side (or in front or back or below) of the armor stand.
+
+Time will run at the speed set on the armor stand while the quartz block is there. (and it is still holding the clock).
+
+Turning it on and off with redstone
+
+If you use a piston on the quartz block to move it out of the way, the time change will stop. If you use a light detector or a timer you can do away with night or day or have it operate how ever you want.
+
+A few notes
+
+If you move/remove the quartz block or remove the clock time will go back to normal. replacing the quartz block (or moving it back in to place with a piston. will start the acceleration.
+
+If you hand the clock back to the armor stand and do not have any amethyst sharps on you it will not change the saved setting on the armor stand. It only changes it if you are holding some. It remembers what it was set at previously.
+
+If you get lost and can't find the armor stand to turn off time acceleration. you can always build another and set it up with 1 shard and activate it. this will stop the acceleration.
+
+The maximum speed is 1023 times faster. It's quite zippy. Monsters and Mobs still behave as though time is at normal speed. Though they spawn quickly and things grow at the accelerated time rate. Leaves will decay quickly and ice will melt quickly etc...
+
+Unfortunately there is currently no reverse time mechanism, i might at some point add a stop time mechanism. but... you know this is enough for now.

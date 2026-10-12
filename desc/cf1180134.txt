@@ -1,0 +1,99 @@
+Once known as Dragon Mounts 2 Refurbished, Dracomalum is a Minecraft add-on that adds not only new entities, and structures, but also adds a story! From the Overworld where huge Skysailors soar, to the depths of the Nether where the Magma Dripper lurks, and to the high sky of the Aether where the Aether Dragon resides, your adventures will take you everywhere! So go on, befriend a dragon, and take to the skies!
+
+The Aether
+
+The Aether is a new "dimension" that you can travel to. To do so, use a crafting table, and craft an Aether Portal. Then, place down the portal, and walk in! After some loading, you'll be transported into the new, "dimension". Upon entering, you'll find a drastically different landscape. The grass here is blue, and the trees are a shimmering gold. And the mobs bare shiny gold wings. However, do not be fooled and tempted by the gold and peaceful blue, there are many new and dangerous enemies here. The most notable ones being the Aether Dragon, and the Minotaur. They are the bosses of this realm. The Aether Dragon can be found inside the Aether Crystal atop the highest peak of the Aether, and the Minotaur can be found inside Labyrinth Island. Summon the Aether Dragon by right clicking/long pressing on the Aether Crystal.
+
+Aether Boss Stats:
+
+Aether Dragon:
+
+- Health: 300
+
+- Damage: 8
+
+Minotaur:
+
+- Health: 200
+
+- Damage: 18-25
+
+The Aether Screenshots:
+
+The Aether.
+
+The Highest Peak where the Aether Crystal can be found.
+
+Some of the new Skyroot Blocks.
+
+The Flying Cow and The Sky Pig.
+
+The Labyrinth Island.
+
+The Aether Dragon soaring over the Island.
+
+The Minotaur in his Chamber.
+
+The End
+
+The Ender Dragon has an updated model to match the other Dimensional Dragons.
+
+The End Screenshots:
+
+The Nether
+
+The depths of the Nether are home to powerful creatures. Two bosses reside here. The first is the Nether Dragon, who's crystal can be found on top of the old King's Fortress in the center of the Nether. The second boss is a much older one, who once resided in the Fortress, an ancient dragon. The Magma Dripper. A thousand blocks from the center of the Nether, lays his Volcano, his place of refuge. Before entering his chamber however, it is heavily recommended to duel Ig, The Adamant Warlord who's hammer deals extra damage to the Magma Dripper. I.g can be found standing guard in one of The Volcano's rooms.
+
+About the Magma Dripper's Ultimate Ability: The Magma Dripper has a full power attack that can nearly instantly kill anything. The only way to defend against this attack is holding up a shield, and healing yourself with potions or gapples.
+
+Nether Boss Stats:
+
+The Magma Dripper
+
+- Health: 600
+
+- Damage: 25
+
+The Nether Dragon
+
+- Health: 300
+
+- Damage: 8
+
+Ig, The Adamant Warlord
+
+- Health: 200
+
+- Damage: 20-30
+
+The Nether Screenshots:
+
+The Old King's Fortress.
+
+The Nether Dragon flying above the Old Kings Fortress.
+
+The Magma Drippers Volcano.
+
+Ig, The Adamant Warlord standing guard in the Volcano.
+
+The Old King of The Nether, The Magma Dripper, laying asleep at the base of his volcano.
+
+The Overworld
+
+The Overworld houses the most dragon-like creatures out of the four dimensions. Tall villager towers home to friendly traders can be found nearly everywhere. Not all village towers can live peacefully however, some have been ruined by Skysailors, who now sleep on their tops. In the windswept hills are the Fire Dragons, guarding their charred nests. In the far, white, arctic lands reside Blizzarions - Ice Drakes. Flying over a nest of snow and frost are Ice Dragons whose pale scales match their home. Far within the earth are Celestial Skulk Gliders, who bear their name rightly for they look and sound otherworldly. Alongside the Skulk Gliders lay the bones of a slain dragon long ago.
+
+Overworld Boss Stats:
+
+Skysailor:
+
+- Health: 150
+
+- Damage: 10-20
+
+Overworld Feature Spawning
+
+Spawning:
+
+- Village Towers can be found in Plains, Savanna, Taiga, Ice Plains, Deserts
+
+- Skysailors can be found atop destroyed Village Tower

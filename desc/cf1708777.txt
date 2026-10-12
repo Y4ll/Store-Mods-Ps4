@@ -1,0 +1,87 @@
+Omedweller Bedrock Edition
+
+OFFICIAL OMEDWELLER PORT FROM THE FAMOUS MOD MADE BY THE YOUTUBER OMENASITO THAT HAS ALREADY ACHIEVED 100K DOWNLOADS ON THE JAVA VERSION.
+
+QUICK REMINDER FROM THE OMEDWELLER TEAM:
+
+Buy the Omebuddy Plushie now on sale miskipop.com
+
+DESCRIPTION:
+
+The Omedweller addon adds a new companion to your world that when hungry turns into a terrifying monster. This mod is designed based on the youtuber Omenaso.
+
+Once you start a new world your new friend the Omebuddy will follow you everywhere, making it the perfect companion for your adventures as he fights for you till the end. Everything will be fine as soon as you dont forget to feed him a cookie twice a day so his alter ego the Omedweller doesnt come out.
+
+Things to know about the Omebuddy
+
+- Massive Health Pool: Omebuddy has 5000 health, making it extremely durable.
+
+- Loyal Companion: Omebuddy follows you around but pls dont leave him behind as he will get lonely.
+
+- Combat Assistance: If you give Omebuddy a sword, it will defend you against any attacker.
+
+- Emotional System:
+
+- Giving Omebuddy a cookie makes it happy.
+
+- Omebuddy now requires two cookies per dayone in the morning and one in the evening.
+
+- If you dont give it a cookie in the morning (before midday), it gets angry and transforms into Omedweller at midday.
+
+- If it receives a morning cookie but no cookie in the evening (before midnight), it gets angry and transforms into Omedweller at midnight.
+
+Features
+
+Omebuddy can gather resources for you. Just give him the necessary tool:
+
+- Axe: He will find and chop down trees on a 200 block radius to get you 1 stack of wood (he will only bring back 1 stack of one type of wood at a time).
+
+- Shovel: He will find sand or dirt and bring you 1 full stack.
+
+- Pickaxe: He will find and bring you 1 full stack of stone.
+
+- Sword: He will fight mobs close to you or the mob that you damage first when he is around.
+
+If you need Omebuddy before he gathers the resources, or if you lose him in the world, you can call him simply by using the whistle.
+
+Things to know about the Omedweller
+
+- Constantly hunts you down once transformed.
+
+- Breaks blocks in its path to reach you.
+
+- Has multiple attack types, each with different strength levels.
+
+- Only disappears if killed or after one minute of existence.
+
+- When Omedweller disappears, Omebuddy respawns, restoring the cycle.
+
+Transformation via Ometeddy
+
+- Omebuddy can transform when given an Ometeddy.
+
+- The Ometeddy is craftable using red wool blocks placed in the upper left and upper right corners, one white wool block in the center of the top row, and a diamond in the center of the crafting table.
+
+Transformation via Whistle
+
+- Omebuddy can transform by blowing the whistle more than 4 times in a row.
+
+- The whistle can be crafted with 2 gold ingots placed diagonally in any direction on the crafting table.
+
+Useful commands
+
+- Give Whistle to player:
+
+/give (player) omenaso:whistle
+
+- Give Player OmeTeddy:
+
+/summon omenaso:omepeluche
+
+Additional Notes
+
+Do NOT reupload, redistribute, or publicly modify this addon without explicit permission. Private modifications for personal use are allowed.
+
+Thanks to LUNWI for developing the port for bedrock of the OMEDWELLER
+
+YOUTUBE CHANNEL

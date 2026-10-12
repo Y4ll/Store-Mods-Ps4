@@ -1,0 +1,29 @@
+What this pack does
+
+This pack makes all the tools and items in Minecraft smaller so that they cover less of your screen and give you a clearer and cleaner view while playing.
+
+Pack Features
+
+- Items take up less space on the screen, making gameplay more comfortable.
+
+- All tools and items appear smaller but remain easy to use.
+
+- You can choose the item size you prefer from different subpacks.
+
+Available Subpacks
+
+- Small Slightly smaller items.
+
+- Smaller Reduced screen coverage.
+
+- Smallest Minimal screen usage.
+
+- Tiny Very small items for maximum clarity.
+
+You can pick any subpack you like. The smaller you go, the more open your screen will feel.
+
+Known Issues
+
+Some item textures may look a little different, and the apple texture will remain almost the same because this pack only edits item textures. Due to this, it is not fully compatible with every texture type, so you might notice a few minor visual differences.
+
+This pack does not change block sizes. It only affects items and tools.

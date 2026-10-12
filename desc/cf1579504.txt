@@ -1,0 +1,13 @@
+An HQ, highly detailed NissanZ24 (Nissan Junior 1970) mod for Minecraft, features:
+
+- Animated Spinning Wheels when driving
+
+- The driver sits in the correct position
+
+- Highly Detailed 3D Model exterior and interior
+
+- Steering Wheel Animation Synced with Players Head Rotation
+
+- Glossy Body with Vibrant Visuals
+
+- Working Speedometer

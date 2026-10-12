@@ -1,0 +1,46 @@
+|||WARNING|||
+
+<Free to use for YouTube video/maps & Modpack, give me Proper credit>
+
+Check this video
+
+(For more Clear info)
+
+https://youtu.be/H-lFquCA568m
+
+How It Works
+
+Start by crafting the Farm Master Table.
+Place it down, and an NPC Farmer will automatically spawn beside it. He offers 5 special farm blocks:
+
+- Cobblestone Generator Block
+
+- Sugar Cane Farm Block
+
+- Cow Farm Block
+
+- Wheat Farm Block
+
+- Mob Farm Block
+
+Place & Preview Before Spawning
+
+When you place any farm block, a structure preview block appears.
+It shows the exact area border so youll know if the space is occupied.
+
+Dont like the location?
+
+Just interact with the preview block a small UI will pop up.
+From there, you can remove it and try again.
+
+Once you find the perfect spot, confirm to spawn the full structure instantly!
+
+Perfect for Survival & SMPs
+
+This addon is designed to keep gameplay balanced while saving time. Build farms instantly without breaking immersion or using commands.
+
+Check this video
+
+(For more Clear info)
+
+https://youtu.be/H-lFquCA568

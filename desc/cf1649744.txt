@@ -1,0 +1,15 @@
+Addon Developed by
+
+@PnTMC
+
+Supports versions from 1.21.90 to 26.40 & above
+
+This add-on removes the hunger bar and changes how health regeneration works. Instead of regenerating health naturally, you must eat food to restore health instantly. The amount of health restored depends on the type of foodand consuming harmful items, such as Rotten Flesh, may even cause you to lose health.
+
+In addition to food, Potions can also restore your health instantly. However, the amount of health recovered depends on the quality of the Potion.
+
+NOTES
+
+Do NOT reupload, redistribute, or publicly modify this addon without explicit permission.
+
+*Please give feedback if you encounter any errors. Feedback on my YouTube channel is easier for me to read because I'm quite lazy about checking CursedForge comments XD*

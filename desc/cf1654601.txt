@@ -1,0 +1,93 @@
+**The Stalker Nightmare** is a horror add-on that turns ordinary survival into a slow-burning nightmare. Strange, faceless things watch you from windows, wait behind trees, and creep closer the longer you ignore them. Nothing here is scripted to jumpscare you the second you load in every encounter builds up over real in-game days, so the dread has time to set in.
+
+**Features:**
+
+- A growing cast of "Stalker"-type entities that appear under specific, unsettling conditions instead of spawning randomly like normal mobs
+
+- Encounters tied to windows, trees, beds, and mine shafts
+
+- A slow difficulty curve early days are quiet, later days are not
+
+- Fully script-driven behavior for consistent, reliable events
+
+This isnt the base/public add-on. prior installs required.
+
+---
+
+## The Stalker Nightmare Extra
+
+**The Stalker Nightmare Extra** expands the core Stalker Nightmare experience with additional entities and encounters, including a giant that lurks near beds, a face-stealing horror, and the Door Neighbor a presence that waits behind your doors and forces you to make a choice.
+
+**Features:**
+
+- New standalone encounters that don't require the base Public add-on
+
+- The Door Neighbor: appears behind double doors and offers you a deal accept it, or don't
+
+- 2D audio system so mob sounds stay with you instead of cutting out positionally
+
+- Designed to be used alongside the Public add-on or entirely on its own
+
+---
+
+## The Stalker Nightmare More Night Events
+
+**More Night Events** adds a fresh wave of night-exclusive encounters on top of the Stalker Nightmare formula: a duo ambush that starts at your window and ends with something breaking in, a double door illusion that isn't what it seems, and a window-dweller that decides your fate with a single sentence.
+
+**Features:**
+
+- Multi-stage encounters not just "mob appears and leaves," but escalating sequences with sound cues, dialogue, and consequences
+
+- The Tormentor Duo: a window scare followed by a violent invasion
+
+- The Double + Chaser event: a decoy at your door, then a fast hostile chaser that breaks through doors, trapdoors, fences, and glass to reach you
+
+- The Quadruped Window event: it either lets you go... or it doesn't
+
+- Requires two doors side-by-side (a double door) for one of its events to trigger a single door won't work
+
+---
+
+All three add-ons are designed to work together but each one also functions independently. Every encounter is time-gated and will never trigger on World Day 1, so you'll always get a safe first day before things start happening.
+
+MADE BY:TTK INVERT ON TIKTOK(commands)
+
+Script Test Commands
+
+/scriptevent stalker:test_minespawn
+
+/scriptevent stalker:ambush
+
+/scriptevent stalker:test_biped
+
+/scriptevent stalker:anguish_catch
+
+/scriptevent stalker:test_despair_culler
+
+/scriptevent stalker:test_tree
+
+/scriptevent stalker:test_door_neighbor
+
+/scriptevent stalker:giant
+
+/scriptevent stalker:test_face_stealer
+
+/scriptevent stalker:test_biped_tall
+
+/scriptevent stalker:test_quadruped_window
+
+/scriptevent stalker:test_tormentor_tree
+
+/scriptevent stalker:test_fence
+
+/scriptevent stalker:test_tormentor_duo
+
+/scriptevent stalker:test_double_chaser
+
+Made by @ttk.invert (tiktok)
+
+CREDITS to:@LCrandom (YouTube)
+
+https://youtu.be/Tcme5hoHf0s?is=0ysTNzJs77QuimUM
+
+(LC Random video where the some entitys appears)

@@ -1,0 +1,134 @@
+# WEATHERS RUMBLE
+
+Weathers Rumble transforms Minecraft Bedrock into a world with living, changing and dangerous weather.
+
+Instead of simple global rain and flat clouds, weather develops regionally using simulated temperature, humidity, pressure, dew point, wind, instability, CAPE, wind shear and storm potential. Clouds form, grow, move, develop into storms and eventually dissipate.
+
+## DYNAMIC 3D CLOUDS
+
+The add-on replaces ordinary flat clouds with large 3D cloud formations built from many individual cloud pieces.
+
+Cloud types include:
+
+- Cirrus
+- Stratus
+- Cumulus
+- Towering cumulus
+- Cumulonimbus
+- Nimbostratus
+- Storm anvils
+- Scud clouds
+- Wall clouds
+- Mesocyclones
+- Funnel clouds
+- Hurricane rainbands and eyewalls
+
+Clouds can appear white, cool blue-gray, light gray, dark storm gray, peach, pink or purple depending on the atmosphere and time of day.
+
+Clouds are rendered using multiple detail modes so weaker devices can reduce the amount of visible cloud detail.
+
+## REALISTIC WEATHER
+
+Possible conditions include:
+
+- Clear skies
+- Partly cloudy weather
+- Overcast skies
+- Fog
+- Drizzle
+- Rain
+- Thunderstorms
+- Snow
+- Sleet
+- Hail
+- Blizzards
+- Hurricanes
+- Flooding
+- Wildfires
+
+Rain and snow appear below their clouds instead of covering the entire world. Storms can produce lightning, stronger wind, reduced visibility, dark cloud bases and changing precipitation intensity.
+
+## TORNADOES
+
+Powerful thunderstorms can form rotating mesocyclones, wall clouds and tornadoes.
+
+Tornado shapes include:
+
+- Rope
+- Needle
+- Drill-bit
+- Cone
+- Stovepipe
+- Wedge
+- Elephant trunk
+- Multiple-vortex tornadoes
+
+Tornadoes can strengthen, weaken, change shape, bend with storm motion and grow downward before touching the ground.
+
+Their visible width, wind field, mesocyclone and subvortices scale together. Wide tornadoes have wider rotating cloud bases and multiple vortices spread throughout the main circulation.
+
+Tornadoes can:
+
+- Pull players and mobs into the circulation
+- Carry rotating block debris
+- Strip grass and vegetation
+- Turn exposed soil into dirt, coarse dirt or podzol
+- Dig into the ground during extreme winds
+- Break structures based on their materials
+- Remove roofs and exposed walls first
+- Throw debris outward when weakening
+- Restore some falling debris as blocks after landing
+
+Exact tornado wind speeds can be selected up to 1,000 mph.
+
+Examples:
+
+/weather:tornado ef5 100ft wedge 300mph
+
+/weather:tornado_mph 700 180ft multiple_vortex
+
+## STRUCTURAL DAMAGE
+
+Blocks use different wind-resistance values based on their material.
+
+Leaves, glass, wood, brick, cobblestone, concrete, stone, deepslate, metal and other materials do not all fail at the same wind speed.
+
+Embedded rebar provides a moderate strength increase, but it is not indestructible. Rebar bends and loses strength after repeated or extreme wind loading.
+
+Block debris uses matching side, top and bottom textures. Logs preserve their end-grain direction, and colored blocks keep their correct colors while flying through the tornado.
+
+## HURRICANES
+
+Hurricanes form over supported warm-ocean regions and weaken after moving over land or colder water.
+
+They include:
+
+- Large spiral rainbands
+- A clear central eye
+- A rotating eyewall
+- Embedded thunderstorms
+- Strong surface wind
+- Heavy rain
+- Flooding
+- Structural wind damage
+- Gradual landfall weakening
+
+The hurricane renderer uses distance-based detail, shared particle limits and timed visual updates to reduce lag while keeping the storm large.
+
+## FLOODING AND SANDBAGS
+
+Heavy rain and tropical systems can create localized flooding.
+
+Sandbag blocks create a protected area that prevents simulated flood water within a 10-block horizontal radius. Protected doors will not leak flood water into buildings.
+
+## WILDFIRES
+
+Dry conditions, lightning and player-created fires can start wildfires.
+
+Wildfires can:
+
+- Spread across flammable terrain
+- Leave ash and scorched ground
+- Produce smoke
+- Reduce visibility
+- Spread embers wit

@@ -1,0 +1,61 @@
+Check out the full review of the Falling Meteors Add-on on my YouTube channel to see all the features in action and learn how to use them!
+
+Transform your Minecraft Bedrock world with the Falling Meteors Addon, introducing thrilling new gameplay elements:
+
+Features:
+
+-
+
+New Armors with Abilities:
+
+- Meteorite Armor: Grants item magnetization, attracting nearby items.
+
+- Kreknorite Armor: Provides fire resistance, keeping you safe from flames.
+
+- Frezarite Armor: Offers underwater breathing for deep-sea exploration.
+
+-
+
+New Tools and Weapons:
+
+- Tools crafted from meteorite materials have item magnetization abilities.
+
+- Kreknorite Sword: Ignites enemies on hit with its fire-based attack.
+
+-
+
+Random Meteor Generation: Watch as meteors crash into your world, creating unique challenges and opportunities. There are 3 types of meteors:
+
+- Meteorite: Basic yet powerful, with magnetization properties.
+
+-
+
+- Frezarite: Perfect for aquatic adventurers.
+
+-
+
+- Kreknorite: Ideal for fire-dominant combat scenarios.
+
+-
+
+Meteor Shield: A crucial item crafted using the Meteor Creeper's drops to protect your base from meteor crashes. This shield can be activated using a Red Meteor Gem. When activated, it generates a light beam similar to a beacon, creating a protective aura to safeguard against meteor crashes. The Meteor Shield protects an area within a 100-block radius when activated.
+
+-
+
+Meteor Creeper: A new hostile mob that explodes faster than a regular creeper and drops materials necessary for crafting the Meteor Shield.
+
+-
+
+Meteor Summoning Items: Summon meteors at will for a more action-packed experience.
+
+Crafting
+
+Meteors Summoners
+
+Meteors Shield
+
+The items that Falling Meteors adds to your world
+
+Unleash the power of the cosmos and equip yourself with meteor-forged tools and armor to conquer your world.
+
+Download the Falling Meteors Addon now and witness epic meteor showers while you explore new gameplay mechanics!

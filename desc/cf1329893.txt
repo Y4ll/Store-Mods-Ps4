@@ -1,0 +1,33 @@
+HUD-X
+
+Description
+
+HUD-X is a standalone HUD pack from my NeBux UI+ pack. It enhances your Minecraft HUD screen by adding many useful features and tools. The design is simple, clean, and player-friendly, giving you quick access to buttons, real-time counters, and extra in-game information. With HUD-X, you can manage your gameplay more easily while keeping the screen neat and attractive.
+
+Features
+
+- F1 Hide or show the HUD instantly.
+
+- F8 Toggle the Paper Doll.
+
+- F3 Open the debug screen with advanced info.
+
+- M Access the mod menu.
+
+- Clock Always shows in-game time.
+
+- Compass Always shows direction.
+
+- Inventory Counter Displays filled and empty slots.
+
+- XP Counter Shows your current XP level.
+
+- Inventory Full Warning Alerts you when your inventory is completely full.
+
+- Debug Screen Shows inventory status, Nether & Overworld coordinates, chunk coordinates, and more.
+
+If you enjoy my packs and want to support my work
+
+Support Me on Ko-fi
+
+Your support means a lot thank you!

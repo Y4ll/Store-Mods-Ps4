@@ -1,0 +1,113 @@
+3D Gravity guns
+
+Take combat to the next level! With these 3D gravity guns, you can pick up, throw, and control items and mobs with realistic physics. It also supports custom entities. Exceptional for epic battles, fun chaos, or experimenting in both survival and creative modes.
+
+How to use?
+
+Hold right click to pull, once target gets close enough, telekinesis (the Hold effect) will start.
+
+If sneaking while holding right click, you will push (throw) target away.
+
+3D gravity guns
+
+Gravity Pistol (standard): Simple grab, push, and pull.
+
+Gravity Cannon: Larger pull/push radius, better grabbing, stronger pull/push. Just better.
+
+Omega Gravity Shotgun: Massive pull/push radius, similar grabbing but target held farther. Overpowered.
+
+3D gravity gun Recipes
+
+Archive of older/legacy models
+
+Example Usage
+
+Gravity Cannon
+
+Gravity Pistol
+
+Omega Gravity Shotgun
+
+This Add-On is Open source.
+
+Respository outdated.
+
+New/Modern 3D Gravity Gun appearances
+
+Omega Gravity Shotgun
+
+Gravity Cannon
+
+Gravity Pistol
+
+Example Usage
+
+Energy Levels
+
+Now the gravity guns drain energy as you use them. You can see the energy left above the hotbar.
+
+Energy can be restored using energy cells in offhand. Hold a gravity gun in mainhand, a few energy cells in offhand, right click or long press.
+
+Crafting the Energy Cells:
+
+When energy is depleted, your gravity gun degrades. It wont function and wont glow.
+
+Restore it by recharging.
+
+Energy Chart
+
+Item
+Max Energy use
+
+Gravity Pistol
+40 sec
+
+Gravity Cannon
+1 min 20 sec
+
+Omega Gravity Shotgun
+2 min 40 sec
+
+Customizing Gravity guns
+
+Customise Gravity guns with /function ggun command!
+
+It opens an UI form that has 7 options to customise:
+
+Note that all settings are stored per gravity gun type. This means you configure settings for each individual gun. You have full control over the mechanics.
+
+- Pull Strength
+
+- Push Strength
+
+- Holding Distance (in blocks)
+
+- Energy
+
+- Aim
+
+- Range (in blocks)
+
+- Sound Effects (SFX).
+
+- Entity blacklist.
+
+- Entity blacklist lets you blacklist entities so they can't be manipulated by gravity guns.
+
+DISCLAIMER
+
+No AI is used in this project. The image shown above is Edited but remaining a near-exact representation. The edit is simple.
+
+10 units of Energy drains every second per entity.
+
+Example: if you're interacting with 3 entities, for 2 seconds, 60 energy units drain.
+
+No experimental features required.
+
+Works with any AddOn and custom entities.
+
+Works with Players.
+
+Highly Customisable.
+
+Lag-free (tested on 2018 mid-range phone).

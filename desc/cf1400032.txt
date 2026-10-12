@@ -1,0 +1,131 @@
+Rise and Survive is a progression-based apocalypse addon where zombies grow stronger every day.
+
+Evolving Zombies & Growing Difficulty
+
+- A dynamic difficulty bar increases every day, boosting zombie spawn rates.
+
+- Every 8 days, zombies move faster, grow stronger, and may unlock new abilities.
+
+- Higher difficulty = higher chance of zombies spawning with armor and weapons.
+
+Unique Zombie Classes - Each zombie type brings new threats, new behaviors, and new strategies:
+
+- Miner Zombies break blocks to reach you (faster on higher difficulty).
+
+- Block Placer Zombies tower up, bridge, and chase you no matter how high you build.
+
+- Witch Zombies throw and drink potions.
+
+- Bomber Zombies throw TNT (damage-only).
+
+- Ender Zombies teleport using ender pearls.
+
+- Jumpers leap at you and onto blocks.
+
+- Crawlers crawl through small spaces.
+
+- Revealers scream to expose your location, then flee.
+
+- Spitter - shoots spit from a distance.
+
+Horde Leaders
+
+- Giant jumps and summons fangs.
+
+- Tank incredibly tough.
+
+- Necromancer summons more zombies.
+
+- Zombies can also spawn with various potion effects like Speed or Fire Resistance.
+
+- All vanilla hostile mobs are disabled, but their loot is obtainable by killing zombies.
+
+Horde & Blood Moon System
+
+- Bloodmoon occurs every 8 days
+
+- Hordes spawn randomly 15 blocks away, always aware of your location.
+
+- Horde size scales with difficulty (customizable in settings).
+
+Blood Moon:
+
+- Sleep disabled
+
+- 100% chance of 12 horde events
+
+- Zombies always know where you are
+
+World Interaction
+
+- Using horns or bells attracts zombies instantly.
+
+- Taking damage releases blood scent (detectable up to 10 blocks).
+
+- Faster Java-style regeneration included.
+
+- Craft-able gunpowder (coal + iron nugget).
+
+- High quality structures with loot.
+
+Infection System
+
+- Zombies can infect players on hit.
+
+- Infection chance customizable (0100%).
+
+- Infected players will collapse after the timer.
+
+- Golden Apple = the only cure.
+
+Visual Enhancements
+
+- Blood screen effects (with compatible visual packs).
+
+- New zombie skins & animations (Fresh Animations inspired).
+
+- Realistic block-breaking particles.
+
+- Glowing eye effects when using Vibrant Visuals.
+
+New Blocks & Defenses
+
+- Wired Fence
+
+- Cheval Fence
+
+- Wired Wall
+
+- Chain fence (they can't break it until difficulty: 75.0)
+
+- Spiked Plate
+
+- Spiked Fence (zombies cant break the reinforced one)
+
+- These blocks damage zombies and help control hordes.
+
+New Weapons
+
+- Bolo chops wood
+
+- Katana fast slashes
+
+- Dagger rapid attacks
+
+- Saber huge sweeping damage
+
+- Longsword wide sweep radius
+
+- Hammer powerful crit hits
+
+Rotten flesh becomes useful:
+
+- Raw Flesh Cooked Flesh Leather
+
+If you want a hardcore, cinematic, mechanically deep zombie apocalypse, this is the add-on youve been searching for. Everything evolves. Everything hunts you. Every day is harder than the last.
+
+Join Discord Community for more information and bug reports!
+
+Download here:
+
+Patreon link

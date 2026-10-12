@@ -1,0 +1,51 @@
+Dancing Blades is our first addon we made. For the past 2 years, we have done nothing with it, leaving it to break over the version. Well, not anymore! For our 1 year Anniversary on YouTube, we have Overhauled Dancing Blades! It is now much more polished from its old form. Please, enjoy our oldest addon turned brand new!
+
+https://www.youtube.com/watch?v=qDWnR6XVzvg
+
+Important!
+
+This addon is made by Nul And Diz Studios, and you are not allowed to claim this as your own. This addon is to never be posted on any other website, it is to stay here on MCPEDL! You may use this in a video, and addon packs, as long as you have a link to this mod, and give proper crediting. This is a must do!
+
+Please note that the bosses in this addon are Late Game bosses. You can collect the swords at any point, but its best to wait until late/mid game to fight the bosses.
+
+It also uses no experiments whatsoever! It runs completely on scripting, so no need to turn on experiments when playing the addon alone! It also does not use Player.json, but it does use Vex.json, so be careful when paring this addon with other addons that use Vex.json.
+
+Addon Lore
+
+Of course we've added lore to this addon, we're over-the-top! Enjoy!
+
+Thousands of year ago, a powerful being descended. With him, he brought 7 powerful swords, one for every race of mobs. After blessing the races with the swords, he left. For some time, everyone was content and happy with their blessed swords. However, one race wanted them all...
+
+The Players wanted to collect every sword for themselves, so that they could become the strongest race. They started raiding everywhere, looting whatever swords they could find. Unfortunately for the Players, the creator of the swords came down from where he once was. He saw the chaos and death spread by the players in their power hungry raiding. He decided he needed to punish the Players for what they had done. With his powerful blade, he rained down lasers from the very heavens, striking all the players down. Once the players were defeated, he collected his swords once again, and left...
+
+Thousands of years have past, and it appears the mysterious person returned. With him, came a challenge...
+
+A trail to see if the new generation of Players are worthy of his powerful swords. Are you ready to accept the trail, and gather all of his swords?
+
+The holograms and guardians in this are complete opposites to the Dreadful Horrors.
+
+Every sword has a custom ability. Don't worry, using the ability does NOT take up durability.
+
+Recipes
+
+The Swords
+
+Starlight Sword
+
+The Starlight Sword, made from a Star of a Wither. This is the only sword that can be crafting in the addon. The Starlight sword has 1,000 Durability, and does 8 attack damage. When you use its ability, you get every Beacon effect for a few seconds.
+
+Echo Claymore
+
+The Echo Claymore, made from Echo Shard and multiple other precious minerals. It has 1,000 Durability, and does 9 attack damage. You obtain this sword in Ancient Cities. It has the same chance to be in a chest as a Ward Armor Trim. Its ability is summoning Sonic Shrieks from the sky. Its cooldown is very small, so you can spam the airstrikes.
+
+Eternal Blade
+
+The Eternal Blade. Made from long forgotten materials, its purple blade shines in the Desert Heat. It has 1,000 Durability, and does 8 attack damage. You find the Eternal Blade in the Desert Temples chests. When its ability is activated, the Eternal Blade will raise Pressure Plates from the Ground. Do not step on them, they will explode instantly upon contact.
+
+Firebrand Blade
+
+The Firebrand Blade, made from Rubies heated in a Blast Furnace. It has 1,000 Durability, and does 8 attack damage. You have a chance to find the Firebrand Blade in a Nether Fortress chest. When its ability is used, it will summon a Fire Twister that will aggravates mobs. After a few seconds, it will explode in fire.
+
+Corruption Blade
+
+The Corruption Blade. No one knows what this Purple and Red sword is forged out of. I

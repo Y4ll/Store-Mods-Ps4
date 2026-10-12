@@ -1,0 +1,69 @@
+Mutant Creatures Add-on adds 30 mutants remastered(almost) in any way possible, with additional mobs, and includes some easter eggs(if you can guess them) in Minecraft Bedrock with unseen powers... If you are looking for an add-on to increase the game difficulty a few notches then this is a great option. This is based on the original creator's Mutant Creatures/Monster Mod from Java Edition so go check that out first. (Quick shoutout to JWolf and Rhex for helping me out with scripting)
+
+All Credits to shcott21, the original creator of Mutant Creatures Mod, Mutant Monsters Mod
+
+This add-on is only meant for sites that are trustworthy, not allowed to be published on other sketchy sites or applications.
+
+Ask for permission first unless you want it to be taken down... I will find out...
+
+I'm a-okay with YouTube videos! :)
+
+Installation
+
+"Optional" If you still have the old versions of this add-on, just remove it from Minecraft's storage settings
+
+1. There isn't anything to do really. The addon is experimental free, no need to toggle any features needed for it.
+
+2. If you are a console player (Xbox or Playstation), I recommend you to download the addon's resource and behavior pack sepreately (.mcpack).
+
+To Xbox and Playstation players, I recommend to download the resource and behavior separately!
+
+If you have any questions or bugs, you can check [My Discord Server] ,or My Twitter,or My BlueSky
+
+Mutated Creatures:
+
+Current changelog for latest Version
+
+There are currently 30 mutants added to this addon:
+
+Changelog for Version 4.25:
+
+New
+
+- Added Giant
+
+Changes
+
+- Almost all Mutants and the Giant have now a rare chance to spawn, about 5%
+
+- Every part of the skeleton bones entity spawned from Mutant skeleton's defeat will eventually drop and despawn as a item
+
+- Replaced Regeneration to Health Boost when wearing full Bogged Armor
+
+- The Mutant Skeletons will now be able to despawn
+
+Fixes:
+
+- Mutant Skeleton should now spawn less frequently (hopefully)
+
+The Mutant Zombies
+
+- Mutant Zombie: Ah the star, the icon from the original mod on java. Basically a buffed-up version of the ordinary zombie. It's able to send a shockwave with its smash attack, throw its enemies up in a air and send them falling down, and even roars so loud to wake up zombies around it.
+
+- Mutant Husk: Basically a buffed-up version of the ordinary zombi- I mean husk. Its just like a mutant zombie but loves to live in the desert.
+
+- Mutant Zombie Villager: Ah this one.. The same as the mutant zombie, but a villager type and holds something special if being defeated.
+
+- Mutant Drowned: A zombie but with its own trident, in the deep seas, lurking underwater... I see what is up now.. It swims extremely fast in the deep sea, And that trident is really a threat to anything that it hates.
+
+- Mutant Lobber Zombie: Originally a lost media mob from Minecraft Earth but found an opportunity. It throws its poison flesh at enemies until they get close. Apparently its own kind of zombies will rise after itself got knocked.
+
+- Mutant Bouldering Zombie: Another mob originally from Minecraft Earth but now is lost media but again found an opportunity. Its big arms can be used to climb on blocks just like a spider but far worse. Apparently its own kind of zombies can rise after getting back up.
+
+The Mutant Skeletons
+
+- Mutant Skeleton: This mutant became the master of archery with their own special arrow that will pierce through mobs that makes contact with it. It comes with ways to defend itself whenever its target comes up close. They say that there bones will scatter around uppon being defeated.
+
+- Mutant Stray: This mutant.. Hm.. you look familiar.. It has the masters of archery with a pointy ice as an arrow?! That could pierce through mobs with its high accuracy. It could even cause its target to get slowed.
+
+- Mutant Wither Skeleton: Oh brother, where do I even start. Its more frightening besides than its Duel Swords. This mutated beast is even more dangerous than a normal Mutant 

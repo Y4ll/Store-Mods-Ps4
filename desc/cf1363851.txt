@@ -1,0 +1,31 @@
+Lilys Utilities is a lightweight Bedrock behavior-pack that gives server staff a clean in-game admin menu (open with a Nether Star). Toggle HyperSpeed with a custom multiplier, vanish or night vision via tags, mute or temp-mute players (with automatic timers), freeze/unfreeze, and manage sidebar scoreboards. Includes safety/QoL loops (tag-driven effects, input locks, command feedback off) and works with command blocks via tags.
+
+IMPORTANT : these features are all present in the latest vertion of the mod all features are NOT present in older vertions if you want to have all the features on this page you need to take the latest vertion of the mod
+
+Remember to not wait for mods to break before checking out for updates :3
+
+showcase : https://youtu.be/A8Zsz3tKUrw
+
+feature list:
+
+- Admin menu: open with Nether Star (admin tag required)
+
+- HyperSpeed: configurable 0.1-10 multiplier with smart speed cap
+
+- - Player tools: mute / temp-mute (timer via scoreboard), freeze (disables movement), quick status view
+
+- Vanish & Night Vision: tag-driven, automatically maintained (works from command blocks)
+
+- Scoreboards: clear sidebar, place objective
+
+- QoL: disables command feedback gives infos about the mod
+
+- Tag support: admin, hyperSpeedMode, muted, frozen, vanish, nightvision (usable by command blocks)
+
+- Waypoints: add and remove waypoint to teleport to the parts of the map you need only acecible to admins
+
+Questions or feedback? Join the Discord: https://discord.gg/mVJmmAuQeX
+
+code textures images : LilyTheCatgirl
+
+profile image by : CEZ9735

@@ -1,0 +1,111 @@
+Official networks:
+
+Patreon - Early and exclusive access
+
+Oficial MC Ark Discord
+
+Official MC ARK YouTube
+
+Official Owners:
+
+@Leonard98617179 - Twitter ~ Gato Ruso
+
+Alexvr587 - Twitter ~ Alex587
+
+Mc ark is a Minecraft Bedrock add-on that adds dinosaurs, specialized level systems, skills, tribes, defense systems, items, and lots of content based on the game Ark Survival and dinosaurs in general.
+
+In the 3/1/2026 update, we have completely reworked the game, changing the system, optimizing, improving, and cleaning up a lot. It took us quite a while to create this update due to the new systems, but the creation of entities will be much faster from now on. In addition, we have fixed a lot of bugs, menus no longer crash, and bushes and resources now appear naturally. We have added new attack and breeding systems, as well as more changes. Thank you very much for supporting us in this project. The next updates will be hot!
+
+MC ARK
+
+NEW LEVEL SYSTEM AND ENGRAM SYSTEM:
+
+New engram system: You can now level up by performing various actions, killing creatures, and breaking blocks. This will level you up and allow you to improve stats like stamina, speed, strength, and health.
+
+With this new version we welcome the stamina bar, which will gradually decrease when running, hitting creatures or breaking blocks.
+
+In addition, a new tribe system was added where you can now add your friends and chat privately.
+
+In the central manage menu of the tribu, you can see the level of each member of the tribu, and the hunter points.
+
+Another very interesting thing we added are hunter points. Basically, when you tame a creature, be it a dodo or something else, you'll get a certain number of points depending on the creature. These points are valued in the top players and top tribes submenu. It's a fun way to compete. When you die, you're penalized with a 15% loss of your points. In tribes, points are only earned once
+
+you're already in the tribe.
+
+In terms of technical changes, we managed to improve the addon's overall speed and stability by 80%. This was thanks to ablis and the transition from function to scripting.
+
+Finally, we are announcing the translation into more than 10 languages. They will be as follows:
+
+[
+
+"en_US",
+
+"es_ES",
+
+"es_MX",
+
+"pt_BR",
+
+"fr_FR",
+
+"de_DE",
+
+"it_IT",
+
+"ru_RU",
+
+"zh_CN",
+
+"zh_TW",
+
+"ja_JP",
+
+"ko_KR",
+
+"pl_PL",
+
+"tr_TR",
+
+"nl_NL",
+
+"ar_SA",
+
+"hi_IN"
+
+]
+
+New system of blocks and turrets.
+
+New special blocks:
+
+These blocks have exceptional durability, which follows certain rules. There are five types: straw, wood, adobe, stone, and iron. These include stairs, slabs, blocks, and doors. When you place a block for the first time, you have 10 seconds to break it if you've made a mistake.
+
+Blocks can only be broken with axes of the same category. For example, straw blocks can only be destroyed with wooden axes or better. But there is an exception: metal blocks can only be destroyed with explosives.
+
+Straw Block: 30 seconds -> Wood Axe
+
+Wood Block: 30 seconds-> Stone Axe
+
+Adobe Block: 30 seconds-> Iron Axe
+
+Stone Block: 60 seconds -> Iron Axe
+
+Doors
+
+The doors are special; once placed, you'll need to claim them. You can assign a code or self-assign it. When you self-assign it, you won't need to enter a code; it will always recognize you when you open it. You can also access the menu by crouching.
+
+Turret
+
+Turrets are a very good defense; they have 100 hit points, deal a lot of damage, and can be repaired with iron.
+
+First, to claim one, you must crouch, and then give it ammunition. You can access its menu by crouching.
+
+You can assign it to the tribe, change its name, enemies, and rank; all of this is within the menu.
+
+Totem
+
+It's the ultimate defense; you must be in a tribe. It eliminates explosives and creepers, and inflicts negative effects on enemy players. It consumes energy, which is recharged using emeralds. It also keeps track of energy consumption.
+
+Bear Trap
+
+Bear trap designed to catch creatures. Press to open and escape

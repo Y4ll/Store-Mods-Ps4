@@ -1,0 +1,123 @@
+Ken Maho is an addon focused on powerful spells, altar rituals, different elemental masteries, and unique mystic weapons! Increase mastery, forge legendary swords, upgrade your stats to overcome any challenge in Minecraft!
+
+I recomend a lot see the Tutorial Video:
+
+DISCORD server to see Updates, Talk about the Addons and Play with others:
+
+https://discord.gg/De8Yw9yswa
+
+IMPORTANT!!!:
+
+About Performance and Optimization:
+Ken Maho was tested in a lot of old devices, and performed very well, with 0 Lag! So, Don't let the beautiful effects fool you :)
+
+Examples of Devices Tested:
+- Sansung A30s (2019)
+
+- Redmi Note 7 (2019)
+
+Key Features:
+
+- Custom Magic Damage System: Direct damage that ignores shields, armor, and vanilla status effects.
+
+- Spell Altars and Rituals: Craft scrolls, imbue weapons, and upgrade stats using glowstone dust, redstone, and gunpowder rituals.
+
+- Scrolls and Spells: Cast offensive, defensive, and utility spells, such as spawning compressed air platforms to walk on air or summoning blood spikes.
+
+- Legendary Weapons and Staffs: Magic swords and staffs that reduce Spells casting time up to 75%.
+
+- Elemental Mastery System: Increases specific elemental damage types as you defeat mobs and progress.
+
+- Addons Compatibility & DLCs: Work with every Addon, and have Full Integration with the How Many Maids addon, allowing maids to wield magic swords and cast spells.
+
+Quick Start Guide
+
+1. Spell Altar Activation:
+
+- Activation: Place the Spell Altar block and interact with Glowstone Dust to turn it on.
+
+- Setup: Spell Altars can link together when placed within 6 blocks of each other.
+
+- Check Stats: Interact with an redstone on the Altar to view your current status.
+
+2. Ritual Mechanics:
+
+Scroll Creation:
+
+- Place 2 Glow Ink Sacs, 2 Echo Shards, and 4 Diamonds on the Spell Altars.
+
+- Interact with a Blank Scroll to finish.
+
+- Optional: Add 1 to 3 Upgrade Shards to increase rarity, or specific elemental shards (Light, Blood, etc.) to guarantee the scroll type.
+
+Creating Magic Swords:
+
+- Place a spell scroll and a diamond sword on the Spell Altar.
+
+- Interact while holding an Upgrade Shard.This creates a permanent spell sword with half the original casting cooldown.
+
+Stat Modification:
+
+- Place up to 12 Stat Shards (Critical Damage, Critical Rate, or Defense) on the Altar and interact with Redstone to overwrite your stats.
+
+- Interact with Gunpowder to craft or tier up Stat Shards.
+
+3. Mastery and Magic Damage:
+
+- Ken Maho damage ignores armors, effects, and shields, can be blocked with the stat Defense. It scales as you play by defeating monsters.
+
+Note for Server Owners: In Creative mode, use the Change Attributes item to limit or disable the Mastery bonus to prevent un-capped damage scaling in multiplayer environments. (example: 1 mastery bonus, say that the player can have +100% damage
+
+-
+
+4. Weapons and Equipment:
+
+Swords and Staffs:
+
+Caliburn (Light)
+
+- Obtained: Spell Altar ritual using Light Scroll + Diamond Sword + Upgrade Shard.
+
+- Effect: Cuts casting time in half and is not consumed after use.
+
+Morgan (Blood)
+
+- Obtained: Spell Altar ritual using Blood Scroll + Diamond Sword + Upgrade Shard.
+
+- Effect: Cuts casting time in half and is not consumed after use.
+
+Clarent (Energy)
+
+- Obtained: Spell Altar ritual using Energy Scroll + Diamond Sword + Upgrade Shard.
+
+- Effect: Cuts casting time in half and is not consumed after use.
+
+Darkhold
+
+- Obtained: Crafting Table.
+
+- Effect: Casts customizable attack, teleport, or effect spells. Casting time scales with spell power.
+
+Sealed Mystic Staff
+
+- Obtained: Crafting Table.
+
+- Effect: Reduces Darkhold attack spell casting time by 25%.
+
+Mystic Staff
+
+- Obtained: Crafting Table.
+
+- Effect: Reduces Darkhold attack spell casting time by 50%.
+
+Abyssal Energy Staff
+
+- Obtained: Crafting Table.
+
+- Effect: Reduces Darkhold attack spell casting time by 75%.
+
+Light Sender
+
+- Obtained: Crafting Table.
+
+- Effect: Deals rapid, ranged light damage with increased player mobility

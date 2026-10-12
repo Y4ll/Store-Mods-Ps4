@@ -1,0 +1,35 @@
+This add-on adds a new horror-themed progression and entity: the Wendigo: a night-hunting monster that attaches itself to players who consume human flesh.
+
+The Wendigo system contains the curse progression, items, armor, decoration and behaviors that create a tense risk/reward loop. Players who eat human flesh slowly advance a corruption meter that ultimately summons their personal Wendigo at night. Defeating the Wendigo yields materials to craft powerful Wendigo bone armor and survivability items.
+
+The addon includes:
+
+- Wendigo (Entity) - a tall, gaunt, deer-headed nightmare that stalks its marked player at night. Hostile, high health, and dangerous at close range.
+
+- Human Flesh (Item) - a consumable similar to rotten flesh that increases the corruption counter. Sourcing is balanced: players drop a few pieces on death.
+
+- Wendigo Loot: guaranteed Wendigo Skull, Wendigo Bones (25), and a Wendigo Heart (25% chance). Bones craft armor; Heart is a rare offhand item.
+
+- Wendigo Bone Armor Set (Helmet/Chest/Legs/Boots) - crafted from wendigo bones + other components; full set grants the Night Hunter bonus: night vision while night, a small speed buff at night, particles, and enhanced abilities in darkness.
+
+- Curse Progression & Stages - eating flesh raises the counter; stages trigger audio/visual effects and gameplay changes (whispers -> stalking -> marked). At the final stage the Wendigo will be summoned to hunt the player at night.
+
+- Cure Mechanic - defeating your marked Wendigo clears your curse.
+
+Drops & crafting
+
+- Guaranteed: Wendigo Skull (helmet) decorative & wearable; also placeable as a trophy block.
+
+- Bones: 25 per kill used to craft armor pieces. Wendigo Armor requires bones + leather as desired.
+
+- Heart: ~25% chance rare offhand item that grants continuous saturation while held; also used for a late-game consumable or to craft endgame upgrades (Charm of Hunger Resistance).
+
+Armor set
+
+- Full set detection grants Night Hunter: night vision during night, speed boost at night, unique particles and sounds, and other optional bonuses like increased damage in darkness. Works only at night by default, but causes hunger.
+
+Death & balance
+
+- On player death, 02 Human Flesh drops (configurable). This keeps temptation in the loop and propagates the curse in multiplayer.
+
+- Wendigo is high risk: high damage and special effects; make sure drops and crafting costs balance its threat.

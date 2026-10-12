@@ -1,0 +1,1 @@
+Welcome to BioScape for Minecraft Bedrock! This is version 3.0 of BioScape, which completely redesigns many biomes while adding new ones and removing others. It introduces 40 brand-new biomes. To see them in-game, make sure to enable the experimental Custom Biomes toggle. This addon is not a port of Terralith it was simply inspired by it. Credits: el Cordero, HALO333X, kosmos.

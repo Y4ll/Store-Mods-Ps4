@@ -1,0 +1,29 @@
+The mod consists of 4 tiers of items, skullfire, crystal, neutronium and infinity items. Main target is to bring Re-Avaritia to Bedrock
+
+The addon adds 3 types machines(neutron compressor, neutron decomposer and neutron collectors) and 4 tables(nether,ender,dire and xtreme smithing) instead of jumping between tables, this addon makes you go through each table. !this addon has modified some select recipes to enhance the difficulty of the addon! Every single recipe in the mod or registered by another addon will be shown in the Avaritia Recipe Guide Book.
+
+The addon supports more than 1 recipe for an item and scriptevents to register or modify the recipes in the addon.
+
+This addon is harder than re avaritia, and targets a more linear advancing rather than drawing you own line.
+
+So advancing will take longer than re avaritia
+
+Supported addons:
+
+Utilitycraft(new catalyst recipe and singularities): https://www.curseforge.com/minecraft-bedrock/addons/utilitycraft
+
+Utilitycraft: Heavy Machinery (new catalyst recipe and singularities)
+
+Utilitycraft: Ascendant Technology (new catalyst recipe and singularities)
+
+CREDITS GOES TO RE AVARITIA TEAM: https://www.curseforge.com/minecraft/mc-mods/re-avaritia
+
+Extra credits go to Athan213 for letting me use several assets and animations: https://youtube.com/@athan213
+
+More Extra Credits:
+
+Avaritia Spears for the spear assets: https://www.curseforge.com/minecraft/mc-mods/avaritia-spear
+
+Avaritia Expand for the extra contents:
+
+https://www.curseforge.com/minecraft/mc-mods/avaritia-expand

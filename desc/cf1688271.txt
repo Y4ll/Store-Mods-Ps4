@@ -1,0 +1,25 @@
+Project Description:
+
+Mining a single block at a time can quickly become a tedious chore, turning long resource-gathering sessions into a test of patience. This tool changes the entire rhythm of the underground by letting you carve through stone, ore, and dirt in a sweeping 3x3 radius.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Mine blocks in a 3x3 radius.
+
+- Lightweight project.
+
+- Vanilla style crafting recipe.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Craft an Iron Hammer to mine in a 3x3 radius.
+
+Tired of chipping away at dark caves one stone at a time? Equip the hammer and smash your way through the underground. Carving out a massive 3x3 path with every single swing, this tool turns exhausting excavation into an effortless sweep.

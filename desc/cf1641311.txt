@@ -1,0 +1,41 @@
+Small, Big & Giant Never encounter the exact same mob twice.
+
+Bring life and visual diversity to your world without breaking Minecraft Bedrocks balance! With this addon, every creature spawns with its own unique scale from tiny critters to towering colossi.
+
+6 Size Variations (Equal Spawn Rate):
+
+Mini (0.1x) Microscopic encounters!
+
+Small (0.5x)
+
+Medium (1x) The classic vanilla size
+
+Large (2.5x)
+
+Giant (3.5x)
+
+Mountain (5x) True colossi on your horizon!
+
+Addon Features:
+
+Instant Spawn: Mobs spawn directly in their calculated size no popping, glitches, or visual jumps.
+
+Universal Compatibility: Works seamlessly with natural spawning, mob spawners, and spawn eggs.
+
+Broad Mob Support: Compatible with 30+ mobs (Zombies, Creepers, Skeletons, Witches, Wardens, and many more).
+
+Multiplayer Ready: Fully compatible with local worlds, servers, and Realms.
+
+Purely Visual (Vanilla-Friendly)
+
+Zero Stat Changes: Health, damage, speed, and AI remain 100% untouched and identical to the base game.
+
+Plug & Play: No extra resource packs or complex commands required. Just activate and play!
+
+How to Install:
+
+1.Download the .mcpack file.
+
+2.Activate the Behavior Pack in your world settings.
+
+3.Go explore and enjoy the variety!

@@ -1,0 +1,25 @@
+This Minecraft addon provides an advanced durability tracking system for items, displaying real-time durability metrics and historical usage patterns. It enhances gameplay by allowing players to anticipate item lifespan and optimize resource management, fostering strategic decision-making and resource conservation in the Minecraft world.
+
+-- Key Features --
+
+-
+
+Real-Time Durability Display: Shows the current durability of items directly in the inventory, allowing for instant assessment.
+
+-
+
+Usage History Tracking: Keeps a record of previous uses, providing players with a detailed log of item wear and tear.
+
+-
+
+Customizable Durability Alerts: Offers configurable notifications when item durability falls below specific thresholds.
+
+-
+
+Resource Optimization: Encourages efficient resource management by informing players about the remaining lifespan of their items.
+
+-
+
+Enhanced Strategic Gameplay: Helps players make informed decisions about item usage and replacement, enhancing overall gameplay strategy.
+
+-- Durability System --

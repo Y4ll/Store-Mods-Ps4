@@ -1,0 +1,21 @@
+First Release: Dark Mode ui
+
+- Implemented advanced chat for improved user experiencie
+
+2. Dark theme applied across the entire interface for a consistent lo
+
+3. Redesigned buttons and panels with a modern style and rounded edg
+
+-
+
+4. Optimized text and background colors for improved readability and contra
+
+5. Updated icons with a sleek, minimalist desi
+
+6. Subtle transparency effect on windows and overla
+
+7. Improved padding and margins for a more balanced interface ysgnstesokce
+
+NUEVAS FUNCION GRACIAS A:
+
+BEDROCK TWEAKS

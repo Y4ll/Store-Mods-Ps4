@@ -1,0 +1,67 @@
+This add-on is an unofficial port of the Casualness Delight Mod to Bedrock Edition,More food and kitchenware were provided.
+
+Port Permission
+
+The Casualness Delight mod on Java edition is under the MIT License. This license allows me to port it to bedrock edition.
+
+Here is the original project link:Casualness Delight - Minecraft Mods - CurseForge
+
+Special thanks to KawaiShio for creating this excellent mod!
+
+Description
+
+This is a Farmer's Delight's Expansion Mod,More food and kitchenware were provided
+
+Addon content
+
+New Kitchen Ware
+
+- Deep Frying Pan:A pan used to fry food.
+
+-
+
+New Food
+
+-
+
+Fried foods:Potato Chips,Spring Rolls,Fried Dumplings,Fried Fish and More.
+
+-
+
+Stargazy Pie,Quiche Lorraine and Cheese
+
+-
+
+-
+
+-
+
+More Chinese Food
+
+-
+
+-
+
+Others
+
+-
+
+donkey meat
+
+SreenShots
+
+Dependent Mod
+
+Farmer's Delight (made by Moaswies)
+
+Additional addons created by me for Farmer's Delight
+
+Luncheon Meat 's Delight Bedrock (Unofficial)
+
+Dumplings Delight Bedrock (Unofficial)
+
+FastFood Delight Bedrock (Unofficial)
+
+Sunflower Delight Bedrock (Unofficial)
+
+Pineapple Delight Bedrock (Unofficial)

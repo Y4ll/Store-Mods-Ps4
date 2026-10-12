@@ -1,0 +1,9 @@
+Outlined Grass
+
+Have you seen those Minecraft Java shaders where grass and other blocks have a clean outline? This pack adds a similar not identical, but close outlined effect to your world.
+
+It adds white outlines to grass, wheat, flowers, potatoes, carrots, planks, and other vegetation, making everything look cleaner and more defined. The effect looks especially good when playing with shaders.
+
+Feedback & Suggestions
+
+I created these outlines based on my own style, but if you think I should improve anything or adjust the look, feel free to leave your suggestions in the comments. Your feedback will help me make this pack even better lets improve it together!

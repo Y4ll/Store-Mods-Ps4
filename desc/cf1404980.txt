@@ -1,0 +1,40 @@
+About
+
+This add-on adds Christmas and festive themed hats to Minecraft! These hats can be placed on the ground for decorating your Minecraft home and can be worn by players and other mobs such as the zombies, husks, skeletons and newer mob variants such as the parched and the bogged!
+
+DOES NOT SUPPORT MINECRAFT PREVIEW V26.20.20 YET
+
+- Supports Minecraft Bedrock[V1.21.131, V26.3]
+
+- Supports Minecraft Preview[v26.0.26] [Wolf hats are slightly offset on this version]
+
+- Doesn't require any experimental toggles
+
+- Modifies gear loot tables for Skeletons & Zombies
+
+- Modifies Wolf, Cat, and Chicken behaviour and client json files for V1.1.0
+
+Features
+
+Festive Hat stats:
+Protection: 2
+Durability: 0
+Break time: Instant break
+Sound: Cloth
+
+- Festive Hats - 29 Variants (Including all the dye colours that exist in Minecraft). These Festive Hats can be placed and worn by the player and mobs! Can you collect all the variants?
+
+- Undead Hat - A zombie exclusive festive hat.
+
+- Jinx Hat - A festive hat variant inspired by Arcane.
+
+- Pet Hats! - All festive hats can be equipped by pets such as wolves, cats and chickens!
+
+How to obtain all festive hats:
+
+Festive hats can be found on undead mobs such as Zombies and Skeletons, when you kill this mob they drop the hat they are wearing!
+
+Credits
+
+KekeCreations - Author, developer and artist.
+EiraEnder - Author and artist.

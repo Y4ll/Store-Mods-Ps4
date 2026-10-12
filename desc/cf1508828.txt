@@ -1,0 +1,309 @@
+Phases
+
+Phase 0
+
+- The unknown worm could appear naturally
+
+Phase 1
+
+- The mob called parasite will appear naturally
+
+- Parasites need 500 evolution points to reach this phase
+
+Phase 2
+
+- Infected parasites will be generated naturally
+
+- Infected mutations will be able to generate growing flesh every time they kill 10 mobs
+
+- Parasites need 2,000 evolution points to reach this phase
+
+Phase 3
+
+- Infected mutations can be generated naturally
+
+- When the parasites die they will have a chance of a nucleus appearing
+
+- Infected parasites will have a small chance to spawn with red particles that give them more health and do more damage.
+
+- Parasites need 10,000 evolution points to reach this phase
+
+- When a parasite kills a creature, the creature won't drop anything
+
+Phase 4
+
+- Mutated parasites will appear naturally
+
+- Infected mutations will have a small chance to spawn with red particles that give them more health and do more damage.
+
+- Parasites need 60,000 evolution points to reach this phase
+
+Phase 5
+
+- Fleshy parasites will appear naturally
+
+- Mutated parasites will have a small chance to spawn with red particles that give them more health and do more damage.
+
+- Parasites need 200,000 evolution points to reach this phase
+
+Phase 6
+
+- Meat bomb will appear naturally
+
+- Fleshy parasites will have a small chance to spawn with red particles that give them more health and do more damage.
+
+- Parasites need 3,000,000 evolution points to reach this phase
+
+Phase 7
+
+- Parasites will ignore light levels to occur naturally.
+
+- Parasites need 20,000,000 evolution points to reach this phase.
+
+Phase 8
+
+- The hunter will appear naturally.
+
+Every time they change phases the game sends a message to the players
+
+Mobs
+
+Flesh Remains
+
+- after 2 seconds it transforms into an unknown worm
+
+Unknown Worm
+
+- Health: 5
+
+- Damage: 2
+
+- After a minute it will turn into a parasite
+
+- is neutral
+
+- Skills:
+
+- Can climb walls
+
+- Hits very fast
+
+- Gives the slow effect on hit
+
+Parasite
+
+- Health: 11
+
+- Damage: 6
+
+- During the day it is peaceful with some mobs and at night it will attack all mobs that are not parasites.
+
+- Skills:
+
+- Can climb walls
+
+- Gives the slow effect on hit
+
+- Infected Parasites
+
+Infected Parasites
+
+Infected Bear
+
+- Health: 45
+
+- Damage: 13
+
+Infected Cow
+
+- Health: 20
+
+- Damage: 8
+
+Infected Chicken
+
+- Health: 16
+
+- Damage: 5
+
+Infected Mooshroom
+
+- Health: 20
+
+- Damage: 8
+
+Infected Horse
+
+- Health: 24
+
+- Damage: 9
+
+Infected Husk
+
+- Health: 22
+
+- Damage: 10
+
+- Skills:
+
+- gives poison effect on hit
+
+Infected Zombie
+
+- Health: 22
+
+- Damage: 10
+
+Infected Human
+
+- Health: 22
+
+- Damage: 10
+
+Infected Zombified Piglin
+
+- Health: 23
+
+- Damage: 12
+
+Infected Piglin
+
+- Health: 20
+
+- Damage: 12
+
+Infected Piglin Brute
+
+- Health: 60
+
+- Damage: 16
+
+Infected Creeper
+
+- Health: 21
+
+- Explosion Damage: 22
+
+Infected Villager
+
+- Health: 22
+
+- Damage: 10
+
+Infected Pig
+
+- Health: 20
+
+- Damage: 7
+
+Infected Sheep
+
+- Health: 18
+
+- Damage: 8
+
+Infected Wolf
+
+- Health: 19
+
+- Damage: 9
+
+Infected Enderman
+
+- Health: 55
+
+- Damage: 13
+
+Infected llama
+
+- Health: 24
+
+- Damage: 9
+
+Infected Dolphin
+
+- Health: 23
+
+- Damage: 11
+
+Infected Bat
+
+- Health: 18
+
+- Damage: 6
+
+Infected Hoglin
+
+- Health: 50
+
+- Damage: 11
+
+Infected Ender Dragon
+
+This Infected's skills are incomplete
+
+- Health: 300
+
+- Damage: 25
+
+Additional:
+
+- Each time an infected kills, the parasites get 3 evolution points.
+
+- Every time an infected kills, it will have a chance to drop a mouth
+
+- Every time a parasite dies, it will have a chance to drop unknown worms or parasite remains
+
+- Every time an infected kills 6 mobs it becomes an infected mutation
+
+Infected Mutations
+
+Mutated Cow
+
+- Health: 40
+
+- Damage: 10
+
+Mutated Human
+
+- Health: 44
+
+- Damage: 15
+
+Mutated Bat
+
+- Health: 36
+
+- Damage: 8
+
+Mutated Bear
+
+- Health: 65
+
+- Damage: 17
+
+Mutated Dolphin
+
+- Health: 46
+
+- Damage: 11
+
+Mutated Enderman
+
+- Health: 75
+
+- Damage: 17
+
+Mutated Fox
+
+- Health: 44
+
+- Damage: 14
+
+Mutated Horse
+
+- Health: 48
+
+- Damage: 14
+
+Mutat

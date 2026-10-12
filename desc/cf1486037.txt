@@ -1,0 +1,5 @@
+This shader gives your world a classic and lumine vibrant visual style. It enhances the lighting and colors to make the environment feel brighter and more alive while still maintaining a familiar, vanilla-like atmosphere. The sky, terrain, and water appear more radiant and colorful, creating a balanced look that feels both nostalgic and visually refreshing.
+
+This shader will enhance your visuals. It is equipped with PBR, ACE tone mapping, white balance temperature, and complex midtones.
+
+(All photos can be checked in the media or below)

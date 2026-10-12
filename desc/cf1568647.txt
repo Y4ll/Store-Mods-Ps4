@@ -1,0 +1,23 @@
+DESCRIPTION
+
+TEXTURE PACK DEVELOPED BY @PnTMC
+
+Inspired by MC VHS - thejinxedartist
+
+I recommend turning off Smooth Lighting for a better experience
+
+A texture pack contains subpacks | below are examples for each subpack
+
+TV screen : square
+
+TV screen : rectangle
+
+TV screen : none
+
+NOTES
+
+Do NOT reupload, redistribute, or publicly modify this addon without explicit permission. Private modifications for personal use are allowed.
+
+------------
+
+Please give feedback if you encounter any errors. Feedback on my YouTube channel is easier for me to read because I'm quite lazy about checking CursedForge comments XD

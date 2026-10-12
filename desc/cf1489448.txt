@@ -1,0 +1,29 @@
+HitRange Circle Bedrock PvP Indicator
+
+A lightweight resource pack that displays a range circle on the ground around nearby players, helping you visualize melee hit distance in real time.
+
+How it works:
+
+Red circle Enemy is out of your hit range
+
+Green circle Enemy is within hit range, you can land a hit
+
+Features:
+
+Its a texture pack (:
+
+Works on any server or world
+
+See-through subpack option included ( esp )
+
+Compatible with any skin or armor
+
+Notes:
+
+Works on 1.21.130 to 1.26+ any versions
+
+Made by Kaalu xD/Yannim
+
+For any help or suggestions :
+
+https://discord.gg/qrSM3Vctf

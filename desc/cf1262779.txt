@@ -1,0 +1,43 @@
+Hi! AdminUtils offers a wide range of tools to help you control and improve your world/server. For example, you can finally see and edit a player's inventory easily, or freeze a naughty player on the spot. Perhaps you want to punish someone, if that's the case, you can ban them for a very specific amount of time or permanently. Or maybe just put them behind bars. With AdminUtils you can do all of this and more. I'll add a lot more useful things in the future, but for now, enjoy!
+
+Discord server
+
+I've created a Discord server in case you have any questions or if you just want to join my community :] https://discord.gg/Ek8t3q5Cu6
+
+Remember that you have to download both BP (behavior pack) and RP (resource pack), and import them to your world. In the downloads you will find 2 kinds of RP: Dark and Light. These just mean the style of the menu, choose the one you prefer (I recommend the Dark menu). Also, in case you were wondering, this addon doesn't use player.json.
+
+How to use for the first time
+
+- Find the Admin's wand on Creative mode, it's located inside the swords category.
+
+- Run the following command to add you as the owner and prevent someone else from removing you as an admin (there can only be one owner): /tag @s add owner
+
+- Add yourself as an admin as well (you only have to do this once, after this you can use the menu to manage admins): /tag @s add -auadmin
+Make sure you include the - (hyphen) of -auadmin.
+(The tag used to be "admin" but now it's "-auadmin" so that it can be compatible with more add-ons).
+
+- Now you can use the menu! Simply right click the Admin's wand. In Admin Settings you can add or remove admins. Check the video at the bottom of the page to find more information.
+
+Open the menu with commands
+
+Now you can open the AdminUtils the menu without the wand, this is in case you don't have it in your inventory and you need to open the menu quickly for some reason. Also, this prevents you from not being able to unfreeze yourself in 1.20.50 Minecraft, since even if you can't use the wand, you can use the following command:
+
+Optional command (you can use the wand): -au
+
+Systems
+
+See and edit an inventory
+
+This is probably one of the most useful features this add-on has. Now, you can easily edit the inventory of another player through a chest. There's no need to ask your friend if he stole your pickaxe, you can check it yourself and get it back. You can also edit the armor and the offhand. Also, since it's a chest, you can use a hopper to slowly steal someone's items. In addition, you can always teleport to a chest or delete it remotely, in case you forgot where you placed it.
+
+Ban system
+
+This system allows you to ban players for a certain amount of time, or permanently. You can also provide a reason, which the player will see every time they try to join the world while they're banned. Here you have some screenshots which I took from my video.
+
+Most of the menus in AdminUtils are like the one above. You have the "Back" button, the "Type an offline/online player instead" button, and then buttons to choose the player, depending on the task that you want to do. The reason I added an option to write a player manually is that sometimes, in this case, for example, the player you want to ban might have already left, so you they won't appear listed there, instead, you can ban them through their name.
+
+Jail system
+
+With this system you can imprison someone for a certain amount of time, or permanently. First, you need to set the jail location, which is necessary, contrary to the jail exit location. However, it's dangerous if you imprison someone and you haven't set the jail exit location yet, as they won't be able to leave the prison until you set the exit location. Also, I highly recommend that you build a jail of the size you want, from where they can't escape. Here you have a screenshot of the instructions I added inside AdminUtils:
+
+There are security measures in case the player leaves while it's being teleported o

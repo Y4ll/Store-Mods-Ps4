@@ -1,0 +1,5 @@
+I created a small horror addon for Minecraft that will add a little Christmas and spooky atmosphere to your game. The first thing this addon adds is Christmas gifts that only appear in the snowy biomes of the game. Each gift drops from 3 to 5 cookies.
+
+In addition to gifts, the mod adds a new Christmas boss to the Minecraft game, KRAMPUS. The mob appears with a small chance in the snowy biomes of the game, has 500 health and quite a lot of damage, to kill a player without armor, it only takes 1-3 hits to get rid of the player. The mob also has a high pursuit speed, which makes it impossible to escape from it on a flat surface. After death, a star of nezeru falls from the boss.
+
+Below you can see a video review

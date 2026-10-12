@@ -1,0 +1,87 @@
+The content is still in development, and more content will be added soon. If you want to leave feedback, feel free to use the comment space below or the dedicated channel in the WanMine Discord server.
+
+DISCLAIMER: The overall experience is further enhanced by the Vibrant Visuals effect, which adds a striking layer of visual intensity. Every element has been designed to fully leverage the unique aesthetic and atmosphere that Vibrant Visuals bring to the gameplay.
+
+A New Kind of Technical Adventure
+
+Wans Redstone Caves is the first tech-focused addon for Minecraft: Bedrock Edition that seamlessly blends technology and exploration in a rich, atmospheric underground biome. Built for the CurseForge ModJam 2025, it reimagines Redstone as a core of both natural energy and machine-powered survival.
+
+Showcase/tutorial:
+
+Explore the Redstone Biome
+
+Delve deep into a brand-new Redstone-themed cave biome, a glowing underground world of crystalline ores, geometric structures, and synthetic ecosystems. Inspired by the visual design of Horizon Zero Dawn, the biome is populated by robotic creatures powered by the caves Redstone energy.
+
+- New Magnetite and Hematite stone types
+
+- Exclusive Redstone ores and crystals
+
+- Massive cubic Magnetite formations and glowing stalactites
+
+- Redstone vegetation and crystalline lava pools
+
+- No vanilla lava, water, or stone its a whole new world
+
+Meet the Machines
+
+The Redstone biome is alive... literally. Mechanical wildlife roams the caves, sustained by Redstone energy nodes called Wild Network Cores.
+
+- 6 new Hostile robotic mobs, bound to red cores
+
+- Tame and convert them using Player Network Cores
+
+- Robots can become pets, helpers, or farming companions
+
+- Build your own custom robots with a clean, advanced design
+
+- All machines require a connection to your Redstone energy network
+
+Energy & Network System
+
+The heart of Wans Redstone Caves is the custom Network system, a unique infrastructure for powering and automating machines. No cables, no hoppers required.
+
+- Generators produce stable energy using a rare synthetic mineral: Bluestone
+
+- Fixed-cost logic: machines use exact energy units (no ticks or timers)
+
+- Network Cores automatically connect machines within range
+
+- Create sub-networks for advanced storage routing and inventory control
+
+Craft Advanced Machinery
+
+Harness the power of the biome to craft machines in two tech tiers:
+
+Tier 1 Made with Iron & Bluestone
+
+Tier 2 Made with Magnetite & Pure Redstone
+
+Each machine includes:
+
+- Custom GUI for inventory filtering
+
+- Network-linked storage access
+
+- Full integration with your Redstone energy network
+
+New Tools & Key Materials
+
+- Magnetite Ingot A durable dark metal from cave stone
+
+- Pure Redstone Refined energy crystal, used in advanced tech
+
+- Synthetic Bluestone Fusion of Redstone Dust + Diamond
+
+- Custom tools and machines for resource farming, automation, and exploration
+
+Designed for Technical Players
+
+Whether you're into automation, exploration, or worldbuilding, Wans Redstone Caves offers:
+
+- A full underground biome ecosystem
+
+- Modular energy networks
+
+- Custom mobs with unique behaviors
+
+- A new layer of Bedrock tech gameplay

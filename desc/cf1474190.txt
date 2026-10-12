@@ -1,0 +1,58 @@
+Comforts Bedrock Edition (Unofficial Port)
+
+Comforts adds Sleeping Bags and Hammocks to Minecraft Bedrock just like beds, but without changing your spawn point.
+Perfect for adventurers who want portable rest options and builders who enjoy functional decorative furniture.
+
+Both items come in 16 colors, matching the full Minecraft dye palette.
+
+This is an unofficial Bedrock port of the original Java mod.
+
+Original Java Mod:
+Comforts Minecraft Mods CurseForge
+
+Features
+
+Sleeping Bags: Portable beds that do NOT reset your spawn point.
+
+Hammocks: Inverse beds that let you skip the day instead of the night.
+
+16 Color Variants: Fully dyeable and redyeable.
+
+Adventurefriendly: Sleeping bags stack and are easy to carry.
+
+Sleeping Bag
+
+Recipe: 3 wool of the same color in a straight line.
+
+You can dye a White Sleeping Bag into any color and redye colored ones too.
+
+Hammock
+
+Recipe: Colored wool in the center, sticks above and below, strings in the remaining slots.
+
+Just like sleeping bags, hammocks can be dyed and redyed.
+
+Rope & Nail
+
+Rope & Nail is used exclusively for building hammocks.
+They can be placed on any side of a block.
+
+Recipe
+
+Strings in the top-left, top, left, and bottom-right slots, with an iron ingot in the center.
+
+Building a Hammock
+
+To build a hammock, you need:
+
+1 Hammock Cloth
+
+2 Rope & Nail sets
+
+Find two blocks exactly four spaces apart.
+
+Place Rope & Nail on each side, facing each other.
+
+Rightclick either Rope & Nail with the Hammock Cloth.
+
+Done! Enjoy naps even under the bright sun.

@@ -1,0 +1,91 @@
+- VIKING ONSLAUGHT -
+
+Survive the Viking invasion of Britain. Face relentless Viking raiders, discover their camps, recruit Saxon Huscarls to fight alongside you, and fight to survive as the invasion spreads across the land.
+
+Explore a world shaped by the invasion, from fortified Anglo-Saxon settlements to crowded Viking camps and longboats along the coast. Gather equipment, build your strength, and decide when to fight, retreat, or call upon your Saxon allies as you struggle to survive the onslaught.
+
+MINIMUM MINECRAFT VERSION REQUIRED : 26.40+
+
+This add-on require Minecraft version 26.40 and above, otherwise all of entity in this addon wouldn't spawning. Please make sure to match your Minecraft version to required version.
+
+LATEST UPDATE CHANGELOG :
+
+(+) NEW :
+
+- Kite Shield A shield that applies a knockback effect to attackers.
+
+- Long Spear A long spear with increased attack reach.
+
+- Battle Axe A raider axe that can be used normally or thrown at enemies.
+
+- Giant Axe A berserker axe that deals significant knockback with normal attacks and can
+
+- deal additional damage when jumping onto a target from above, similar to the vanilla Mace.
+
+- Huscarl Chestplate Grants the wearer Regeneration when their health drops below 20%.
+
+- Raider Chestplate Grants the wearer Speed when their health drops below 20%.
+
+- Chained Tunic Leggings A rebrand of the Joms Leggings.
+
+- Chained Tunic Boots A rebrand of the Joms Boots.
+
+() BALANCING :
+
+- Adjusted the spawn rates of all entities for better balance.
+
+- Adjusted entity loot tables to include the new items.
+
+- All entities except the Berserker can now climb ladders, complete with a climbing animation.
+
+- Renamed Joms Leggings and Joms Boots to Chained Tunic Leggings and Chained Tunic Boots, since all entities of the same type use the same leggings and boots.
+
+- Adjusted hand positioning when shielding with the Joms Shield and Kite Shield.
+
+(~) QOL UPDATE :
+
+- Improved MER textures across all items and entities for a better appearance when using Vibrant Visuals.
+
+- All new weapons now support Actions & Stuff animations.
+
+ENTITIES
+
+This addon add 4 different entities from 2 factions, 3 entites for Viking faction and 1 for Anglo-saxon faction.
+
+All entities that available on this add-on, click the spoiler tab bellow.
+
+Raider Funfact : they're obsesed to the berserker, which make them always following berserker once they meet, raider also a viking type that drop a lot of gold coin once it looted than others vikings entity
+
+Jomsviking Funfact : They are very very teritorial, every tent in viking camp was guarded by jomsviking. Sometimes they patroll around the tent but will back to their respective teritory.
+
+Berserker Funfact : He wasn't drop a single item once he's dead, but he will drop a lot of Experience Orbs that make it still worth it to beat.
+
+Anglo Saxons Funfact : some of them can't be recruited with 1 gold coin, some will ask for more coin (1-3 gold coin) so make sure you have enough coin to recruit them and also they can be named using nametag.
+
+ITEMS
+
+Viking weapons? vanilla have it all. This is some extra item this addon added, all of them have different function and purposes in the gameplay.
+
+All items that available on this add-on, click the spoiler tab bellow.
+
+Long Spear Recipe :
+
+Note : All item can't be crafted or non-craftable except the 'Long Spear' and 'Long Ship'
+
+STRUCTURES
+
+Each structure has different purposes, which would make gameplay variety.
+
+All structures that available on this add-on, click the spoiler tab bellow.
+
+VIKING CAMPS :
+
+- VIKING CAMP -
+
+A procedural generation structures of viking camp. Each tent was guarded by Jomsviking, each tent can contain 3 tier loot chest which picked randomly. Every structures has a random pattern of roads/walk path since it's a procedural generated using Jigsaw Feature. See some screenshot bellow :
+
+NEW! - ANGLO-SAXONS FORTRESS :
+
+- ANGLO-SAXONS FORTRESS -
+
+The Anglo-Saxon Fortress serves as a defensive stronghold for the 

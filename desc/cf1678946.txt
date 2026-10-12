@@ -1,0 +1,61 @@
+Abhout This Pack
+
+Golden Glow Light Blue Night is a custom Minecraft Bedrock RenderDragon shader focused on a vibrant, cinematic and soft visual style.
+
+It enhances the vanilla world with richer lighting, atmospheric fog, glowing environments, colorful skies and a beautiful night-time atmosphere while keeping the Minecraft look recognizable.
+
+Golden Glow Lighting warm golden sunlight and soft environmental lighting.
+
+Bright Daytime vibrant greens, terrain and vegetation with improved lighting.
+
+Light Blue Night soft blue night atmosphere with enhanced sky colors.
+
+Enhanced Night Lighting darker surroundings while keeping important details
+
+Warm Torch Glow torches and other light sources have a warmer golden appearance.
+
+Atmospheric Fog distance fog creates more depth and cinematic scenery.
+
+Enhanced Water deeper and more atmospheric water appearance.
+
+Enhanced Nature forests, grass and terrain receive richer lighting and color.
+
+Custom End Dimension purple cosmic atmosphere with stars, planets, moon and meteor effects.
+
+Animated Sky Effects dynamic celestial effects using RenderDragon time.
+
+Soft Color Grading balanced colors designed for screenshots and normal gameplay.
+
+RenderDragon / Bedrock Focused designed specifically for modern Minecraft Bedrock RenderDragon.
+
+Visual Style
+
+Day:
+
+Bright, saturated and natural with a warm golden sunlight look.
+
+Night:
+
+Cool light-blue/blue atmosphere with soft environmental lighting.
+
+End:
+
+Purple cosmic sky with stars, planets, moon and shooting-star effects.
+
+Credit
+
+Original Author: devendrn and contributors
+
+Original Source License: MIT
+
+Newb's source code is licensed under MIT, which permits modification, distribution and derivative works. However, Newb also notes that compiled resource packs can have additional copyright restrictions, so this project should not be presented as an official Newb release.
+
+GitHub Devendrn
+
+https://github.com/devendrn
+
+Original project: https://github.com/devendrn/newb-x-mcbe
+
+Creator : Naresh Gaming Back
+
+Pack created under MIT Licences

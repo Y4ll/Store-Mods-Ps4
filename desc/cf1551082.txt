@@ -1,0 +1,25 @@
+Chroma Visuals is a lightweight yet stunning shader for Minecraft Pocket Edition / Bedrock Edition designed to give your world a vibrant cinematic feel. From glowing oceans and realistic skies to colorful forests and atmospheric lighting, this shader enhances every biome with smooth and immersive visuals.
+
+Whether you're exploring oceans, cherry groves, savannas, or survival worlds, Chroma Visuals brings your game to life with bright colors, realistic water reflections, soft bloom, and dynamic ambience.
+
+Features
+
+Vibrant and colorful lighting
+
+Crystal-clear realistic water
+
+Soft bloom and cinematic atmosphere
+
+Enhanced sky and cloud visuals
+
+Improved biome colors
+
+Smooth fog effects
+
+Better sunlight and shadows
+
+Performance-friendly optimization
+
+Beautiful underwater visuals
+
+Natural aesthetic for survival gameplay

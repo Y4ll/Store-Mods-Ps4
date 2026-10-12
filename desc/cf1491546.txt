@@ -1,0 +1,49 @@
+About DomeDrip
+
+DomeDrip is a head cosmetic Add-On for Minecraft Bedrock, featuring a diverse collection of unique hats and accessories. From classic styles to legendary items, each cosmetic is designed to help players freely express their personal style.
+
+With the Tier system (Basic, Plus, Epic, Artifact, Legendary), you can easily recognize how high the level of an item is.
+
+What's new in v0.2?
+
+LED Helmet
+
+Feature: Various color options with blinking LED eye animation
+
+Available 10 Colors:
+
+- Red
+
+- Orange
+
+- Yellow
+
+- Green
+
+- Cyan
+
+- Light Blue
+
+- Blue
+
+- Purple
+
+- Magenta
+
+- Pink
+
+RGB Headset & Headphone
+
+Feature: Flowing RGB animation
+
+Garghuz Mask
+
+Cardboard Box
+
+Chef Hat
+
+Current Version
+
+Note: DomeDrip works perfectly without any experimental toggles. Just install and play!
+
+Ready to upgrade your look? Download DomeDrip now!

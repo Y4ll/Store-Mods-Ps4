@@ -1,0 +1,37 @@
+Want to experience the portal gun of java but in bedrock? with this add-on you can now experience the portal gun and you can troll the animals and even your friends by teleporting them everywhere.
+
+With this add-on a portal gun item will be added in your world. The portal gun is quite easy to craft.
+
+There are 3 different kinds of portal guns the portal model will depend on what portal gun you use.
+
+Portal Gun Recipes:
+
+1. Normal Portal Gun
+
+2. Potato Portal Gun
+
+3. Rick and Morty Portal Gun
+
+4. Gravity Gun
+
+When you craft the portal gun it will be BLUE by default when firing the portal gun it would switch to ORANGE.
+
+Gravity Gun How To:
+
+Use the gun to pickup entities and throw them away.
+
+Switching Colors:
+
+- You can switch portal gun colors by sneaking and firing the portal gun.
+
+Removing owned portals:
+
+- Look straight down while sneaking then shoot the portal gun to clear your portals.
+
+Features still working on:
+- Able to pickup blocks
+- Blackhole Portal Gun
+
+Enjoy!
+
+For bugs report them at my discord server https://discord.gg/DZ7Q2ugEeg

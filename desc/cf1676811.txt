@@ -1,0 +1,173 @@
+DryOut v0.3: Frost Bite??( v0.4 soon )- Hint Magic Mage"
+
+-- Nether Horizon Teaser :)
+
+DryOut is a Minecraft Bedrock addon that upgrades, changes, and expands vanilla mechanics with custom content, turning overlooked parts of the game into dangerous, rewarding places worth exploring.
+
+From harsh desert survival to powerful relics, ancient ruins, dangerous events, and custom gameplay systems, DryOut adds new reasons to explore, fight, survive, and discover what lies beneath the surface.
+
+v0.3 Frost Bite
+
+v0.3 focuses on improving and expanding the core DryOut experience with new systems, relic mechanics, achievements, balancing, and a large collection of content.
+
+New Achievement System
+
+v0.3 adds new achievements along with a custom Achievement Toast UI.
+
+Earn achievements through exploration, combat, discoveries, relic usage, and special challenges.
+
+New Relic System Chantable Relics
+
+v0.3 introduces Chantable Relics, a new system that allows relic abilities to be prepared and upgraded before being unleashed.
+
+To use a Chantable Relic:
+
+- Use the relic with a Chant Sign.
+
+- Right-click the Chant Sign to begin the chant.
+
+- Chant Signs increase the tier of the relic's ability.
+
+- When ready, crouch and right-click to unleash the stored power.
+
+Relics
+
+Dagger of Khar
+
+A curse-based relic containing a powerful world-cutting slash.
+
+Yes, the ability is intentionally a Jujutsu Kaisen reference.
+
+Flaming Heart
+
+A new Chantable Relic introduced in v0.3.
+
+Claw Test
+
+The vanilla Echo Shard is currently being used as a test item for this relic system.
+
+Reworked Mechanics
+
+Existing v0.2 systems have been reworked, balanced, and polished.
+
+This includes:
+
+- Reworked mechanics
+
+- Rebalanced trinkets
+
+- Gameplay improvements
+
+- General balancing
+
+- Bug fixes and polish
+
+The Desert Reworks v0.1 to v0.2
+
+The desert is no longer just an empty biome.
+
+Explore ancient ruins, discover hidden locations, fight dangerous creatures, collect powerful relics, and survive the dangers buried beneath the sand.
+
+Mobs
+
+Scorpion, Scarab, Mummy, Tarantula, Tumbleweed, and more.
+
+Structures
+
+Tombs, Oases, statues, monuments, temples, and custom dungeons.
+
+Relics
+
+Powerful items that grant special abilities and spells, with mana management and unique effects.
+
+Trinkets
+
+Passive abilities activated while held in the mainhand or offhand.
+
+Blocks and Items
+
+Custom dungeon spawners, utility blocks, alchemy blocks, gameplay blocks, and a large selection of custom items.
+
+Sandstorms
+
+Dangerous desert events with powerful winds, reduced visibility, special particles, and ambient storm sounds.
+
+Take shelter under a block to protect yourself from the storm.
+
+Curse Events
+
+Major encounters can trigger powerful curses that last for several days and can randomly change between different curse events.
+
+Food Dousing
+
+Hold an item in your offhand and food in your mainhand to apply custom effects through the Food Dousing system.
+
+Achievements
+
+Discover custom achievements through exploration, combat, relics, and special discoveries.
+
+Craft the achievement guide using sand and a book to learn what you can unlock.
+
+Oases
+
+Find peaceful oases hidden throughout the desert.
+
+Volcanic Desert
+
+A dangerous variation of the desert featuring volcanic terrain and a different environment from the standard dunes.
+
+Configuration
+
+A beta configuration system that allows certain features of the addon to be adjusted.
+
+What DryOut Adds
+
+- New desert mobs
+
+- New structures
+
+- Custom dungeons
+
+- Oases
+
+- Relics
+
+- Trinkets
+
+- Custom mechanics
+
+- New blocks
+
+- New items
+
+- Sandstorms
+
+- Curse events
+
+- Food mechanics
+
+- Custom achievements
+
+- Special combat abilities
+
+- Exploration rewards
+
+- Ancient Egyptian-inspired content
+
+- Secrets and hidden discoveries
+
+- Retextured blocks
+
+- Desert visual overhaul
+
+- New food
+
+- Survival challenges
+
+- Gameplay systems
+
+- Reworked vanilla mechanics
+
+Something New Is Coming
+
+DryOut's expansion into the Nether has become something larger than a single update

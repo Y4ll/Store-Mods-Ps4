@@ -1,0 +1,37 @@
+MY DISCORD
+
+(disclaimer the image is made by ai)
+
+This gun add-on provides military-based gun variants.
+To obtain guns in Survival mode, you must craft them first.
+The main material for each gun is iron ingots; you can find the rest of the ingredients in the crafting table.
+You will also need dye or leather for some guns.
+
+Gun List:
+
+- Revolver
+
+- Compact Pistol
+
+- Beretta M9
+
+- Colt M1911
+
+- SIG Sauer M17
+
+- Rifle
+
+- Hunting Rifle
+
+- Assault Rifle
+
+- Sniper Rifle
+
+Note: This add-on is still in development. Please report on Discord if you find bugs, the add-on does not work, or you have feedback. I read all your messagesjust tag my username if you want a quick reply.
+
+This add-on is achievements friendly.
+This add-on does not include player.json.
+This add-on does not require experimental features.
+If the add-on does not work, please report it on Discord.
+If you want to request an add-on, please make a request on Discord.
+If you want to collaborate or work together, please contact me on Discord.

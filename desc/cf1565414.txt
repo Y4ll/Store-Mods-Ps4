@@ -1,0 +1,120 @@
+Four years since the first release back in 2022, I am absolutely thrilled to bring this iconic project back with a completely new look: Ruins Reforged.
+
+This is not merely a bugfix update. This is a rebuild from scratch, taking advantage of the latest addon development features (Jigsaw structure) along with all the experience I have accumulated over the years. My goal is to deliver a ruinexploring experience that is more authentic, lively, and surprising than ever before.
+
+FEATURES
+
+Achievement-friendly
+
+STRUCTURES REDESIGNED
+
+All structures from the original version have been revised, using the newest blocks from recent Minecraft updates. The result is a much more authentic, weathered, ancient look.
+
+WORLD GEN
+
+Structures naturally bend to the terrain, halfsink into the ground, and blend their foundations with rubble no more floating builds or cliffs cutting awkwardly through them.
+
+-Ruins chests have been updated with items from the latest versions and feature a randomisation mechanism no two chests will ever be the same.
+
+-Structural rarity customization options: Rare | Medium | Common
+
+IF YOU NEED TO LOCATE A STRUCTURE
+
+Simply type /locate structure rf:<structure_name> to quickly find any ruin you wish to explore.
+
+Join the Discord server
+
+SHOWCASE STRUCTURES
+
+Mine RollerCoaster
+
+JungleCrypt
+
+MushroomTower
+
+About the Mushroom Tower:
+A 12-story mushroom tower featuring branching rooms, packed with hordes of monsters and loot. You must be fully prepared to fight your way to the very top to face off against the Shroom Colossus!
+
+Dungeons & Tombs
+
+AlchemistsDungeon
+
+ArrowTrapTomb
+
+Mausoleum
+
+Ancient Monuments
+
+Altar
+
+AncientFountain
+
+RuinedSmallFountainDiagonal
+
+Archway
+
+MoaiHead
+
+SkeletonHeadStatue
+
+StonePillar
+
+Maritime & Shipwrecks
+
+PirateShip
+
+SunkenShip
+
+There are 2 variants
+
+shipwreck
+
+Settlements & Huts
+
+Barn-intact
+
+CastleModified
+
+MinersHut
+
+StoneHouseMruined
+
+ZombieHut
+
+Jungle Biome Exclusives
+
+JungleThroneWood
+
+JungleTreePlatform
+
+There are 2 variants
+
+Farms & Natural Landforms
+
+Melonfield
+
+PumpkinField
+
+TinyFarmField
+
+CaveSpiderBurrow
+
+EmeraldOreOutcrop
+
+OreSpire
+
+Outcrop
+
+StoneGrill
+
+VolcanicVent
+
+Future updates will add structures from the original Ruins mod expansion (RLcraft, Gilly, ST753M, Jordan Greywolf, Kujaku10)
+
+If you'd like to help develop the Addon, please join my Discord server. There I post updates on what's happening in the community, and you can feel free to ask questions about the Addon or any other topic. I really appreciate your support.
+
+Atomicstrykergrumpy: Thank you for improving and maintaining the "Ruins (Structure Spawning System)" mod on Java, an endless source of inspiration for this addon.
+
+d00dv4d3r: Thank you to the author for creating the first original mod on Java, laying the foundation for all.
+
+Gilly, ST753M, Jordan Greywolf, Kujaku10: Thank you for creating beautiful structure templates.

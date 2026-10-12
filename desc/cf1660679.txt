@@ -1,0 +1,31 @@
+Project Description:
+
+Why limit yourself to Golden Apples when you can craft with copper, iron, diamond, and netherite? This add-on introduces a tier of custom apples, each featuring its own balanced status effects to enhance your survival experience.
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Multiple apples to choose from.
+
+- Balanced effects to fit the vanilla theme.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Copper Apples will give you Regeneration for 5 seconds and Speed for 15 seconds.
+
+Iron Apples will give you Absorption for 1 minute and Resistance for 10 seconds.
+
+Diamond Apples will give you Regeneration for 10 seconds, Absorption for 2 minutes and Resistance for 1 minute.
+
+Netherite Apples will give you Regeneration for 10 seconds, Absorption for 2 minutes, Resistance for 2 minutes and Fire Resistance for 5 minutes.
+
+Emerald Apples will give you Haste for 2 minutes, Regeneration for 5 minutes, Absorption for 2 minutes and Hero of the Village for 5 minutes.
+
+To get an Ender Apple you need to throw loads of Apple on the ground as you kill an Enderman, when the Enderman dies all the Apples on the ground near it will transform in to Ender Apples. Eating an Ender Apple will not fill any of your hunger but instead teleport you 24 blocks in the direction you are facing.

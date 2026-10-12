@@ -1,0 +1,39 @@
+Fake Hardcore Hearts
+
+Hardcore looks. Your usual survival experience.
+
+Give your Minecraft Bedrock health bar a bold new look with Fake Hardcore Hearts by Baku. This resource pack replaces normal heart textures with hardcore-style hearts while keeping your gameplay unchanged.
+
+Features
+
+- Hardcore-Style Hearts: Enjoy the distinctive hardcore heart design in your regular survival worlds.
+
+- Matching Health States: Includes full hearts, half hearts, and damage-flash textures.
+
+- Status Effect Support: Matching textures for poison, wither, freezing, and absorption hearts.
+
+- Lightweight Design: A texture-only pack with no scripts or behavior changes.
+
+- Vanilla-Inspired Appearance: Crisp pixel textures that complement Minecrafts existing HUD.
+
+Installation
+
+- Download and open the .mcpack file with Minecraft.
+
+- Wait for the resource pack import to finish.
+
+- Open your worlds Resource Packs settings and activate the pack.
+
+- Place it above other packs that change heart textures, then enter your world.
+
+Important Information
+
+This is a visual resource pack only. It does not enable Hardcore mode, increase difficulty, change your maximum health, or prevent respawning. Other HUD or heart texture packs may override its appearance.
+
+Credits
+
+Pack creation and presentation: Baku.
+
+Please credit Baku when showcasing or sharing this pack. Do not claim it as your own creation.
+
+<small>Minecraft and its original assets belong to Mojang Studios. This pack is not an official Minecraft product and is not approved by or associated with Mojang or Microsoft.</small>

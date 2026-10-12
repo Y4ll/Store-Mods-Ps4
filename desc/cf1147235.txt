@@ -1,0 +1,23 @@
+For those of you who want to share this, please use this page link: https://www.curseforge.com/minecraft-bedrock/texture-packs/better-enchanted-books/download It leads directly to the latest file, so there's no need to use Mediafire, onegaii~
+
+Join our community below!
+
+DIscord Server | Telegram Group | Whatsapp Group(+62 only)
+
+Showcase(old video)
+
+Feature
+
+Changes the appearance of enchanted books, making them more varied and easier to find(only ui).
+
+Info:
+
+Known Issue:
+
+a little glitch when interacting with slots, in the HUD only the selected item's texture will be changed, note that this texture only changes the texture in the UI, not the item, so when an item is dropped, the texture is like a normal enchanted book
+
+Credits:
+
+- Original texture by Lupin:
+
+Beautiful Enchanted Books (Java)

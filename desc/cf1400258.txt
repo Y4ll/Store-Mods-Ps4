@@ -1,0 +1,7 @@
+Outlined Items
+
+This pack adds clean white outlines to all items, giving tools and objects a sharper and more defined look. The outlining makes items stand out on-screen and gives them a cleaner, more polished appearance overall.
+
+Suggestion:
+
+Use this pack with a shader to make the outline effect look even better shaders enhance the overall appearance and make the outlined items look more appealing in-game.

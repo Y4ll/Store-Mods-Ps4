@@ -1,0 +1,109 @@
+Newb X Stars shaders are back. It's a new, customized variant of the Newb shader created by VeteranDev. This shader is based on the concept of the universe, which is why it's called Newb X Stars, and this is also reflected in the cool tones of the universe. The best thing about this shader is that it can run on low-end devices. Check it out! I promise you won't regret it.
+
+Newb X Stars Reimagined
+
+- Night
+
+- Sunset
+
+- Rain
+
+- Day
+
+- End
+
+Newb X Stars Lite
+
+- Day
+
+- Sunset
+
+- Night
+
+- End
+
+Featured
+
+- Java-like lighting.
+
+- Multiple glowing blocks.
+
+- Colorful vanilla-style skies.
+
+- Reimagined complementary clouds.
+
+- Realistic rippling water.
+
+- Warm lighting.
+
+- Beautiful sunrises, sunsets, and night skies.
+
+- Light blue and purple aurora borealis.
+
+- Movement in plants.
+
+- Beautiful sunrises, sunsets, and night skies.
+
+- Realistic shadows.
+
+- Wet effect when it rains.
+
+- Sun rays.
+
+- Sparkling minerals.
+
+- Luminous background.
+
+- Shooting stars.
+
+- Illuminated and glowing Nether.
+
+- Blue and black extreme.
+
+- Starry night sky.
+
+- Starry sky ultimate
+
+Changes
+
+- New Realistic auroras have been added to the sky.
+
+- Better Clouds Reimagined and Clouds Lite.
+
+- Stars identical to those in the Complementary Shader have been implemented.
+
+- The white pixels in the textures have been removed.
+
+- Better glow effect on minerals and glowing blocks.
+
+- The lava has been improved for a more realistic appearance.
+
+- New End with black hole, Nebula, Cosmic Dust and Stars.
+
+- Itemhand, itemtextured, itemcolor, and actorglint have been added
+
+- Compatible with Minecraft v26.21+
+
+Notes
+
+- Need Minecraft v26.20+ and MBLoader.
+
+- Need Minecraft Hynis in iOS.
+
+- You need Wyvern for Windows, in case it does not work, use the method of replacing material.bin files with Maject.
+
+- I recommend that you the old version of this shader if you have it installed to avoid errors.
+
+- This shader is only compatible with Android,Windows and iOS
+
+- Use this mcpedl link if you want to share this shader.
+
+- Please do not create another link for this shader.
+
+- This shader may not be supported on some devices, if so tell me about the error on my Discord.
+
+- I will temporarily remove the Unbound and Lite versions as they consume a lot of my time, which I don't currently have
+
+- Credits: Ale
+
+If you want to have better quality content, I invite you to donate your grain of sand.

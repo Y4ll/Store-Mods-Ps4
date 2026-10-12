@@ -1,0 +1,24 @@
+This add-on introduces a variety of custom doors and trapdoors using vanilla block textures, perfect for creating camouflage entrances. With these custom doors and trapdoors, you can easily design hidden rooms. Nearly all blocks can be used to craft doors, allowing you to conceal your base seamlessly in any environment.
+
+Here are some of the camouflage doors and trapdoors included in this add-on.
+
+An example of a dirt door being used as a secret entrance.
+
+Crafting
+
+To craft camouflage doors and trapdoors, you first need a Camouflage Door Crafter. This special block functions as a unique crafting table exclusively for creating various types of camouflage doors and trapdoors.
+
+Here's how to craft the Camouflage Door Crafter:
+Use this crafting table to create doors and trapdoors with the same patterns as in vanilla Minecraft. Simply use the blocks of your choice to craft the desired doors. For example, use dirt to craft a Dirt Door, stone to craft a Stone Door, and so on.
+
+Changeable Texture
+
+Some blocks, such as logs, pillars, and basalt, can be placed both horizontally and vertically. Consequently, doors made from these blocks feature both side and top textures, allowing you to choose the appropriate texture for different situations. By default, the door uses the side texture. To change it to the top texture, simply sneak while placing the door.
+
+Both log doors shown above are made from acacia. The left one is placed normally, while the right one is placed while sneaking. Smooth Stone Door also have changeable texture.
+
+Texture Pack Compatability
+
+The add-on is compatible with other texture packs, meaning that camouflage doors and trapdoors will use the textures from the active texture pack. This ensures that camouflaging is maintained regardless of the texture pack you use.
+
+Watch Showcase

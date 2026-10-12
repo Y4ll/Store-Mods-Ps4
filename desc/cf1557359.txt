@@ -1,0 +1,67 @@
+Builder Addon 100+ Ready-Made Builds
+
+Build amazing structures in your Minecraft world without spending hours building everything manually. Builder Addon gives you access to 100+ ready-made builds that can be placed quickly and easily in your Survival, Hardcore, or Creative worlds.
+
+Official Showcase
+
+See the Builder Addon in action before installing:
+
+Watch Builder Addon Showcase on YouTube
+
+Main Features
+
+100+ Builds
+Quick Placement
+Build Selection Menu
+
+Farms & Structures
+Houses & Bases
+Decorations
+
+Undo Builds
+Y-Level Control
+Direction-Based Placement
+
+How To Use
+
+1. Crouch to open the Builder Menu 2. Select the build you want 3. Choose the required options 4. Look toward the location where you want the structure 5. Place the build and it will generate automatically.
+
+100+ Build Collection
+
+The addon contains a large collection of structures including houses, starter bases, farms, decorative builds, fantasy structures, utility builds and many more creations designed to make your Minecraft world feel bigger and more detailed.
+
+Survival Houses
+Automatic & Manual Farms
+Large Structures
+
+Outdoor Decorations
+Fantasy Builds
+Useful Utility Builds
+
+Build Controls
+
+- Undo: Remove previously placed builds when needed.
+
+- Y-Level: Adjust the vertical placement of supported structures.
+
+- Direction: Look toward the direction where you want your selected build to face.
+
+Important Note
+
+Some large structures require more chunks to be loaded before they can generate correctly. If a build cannot be placed or you receive a loading-related warning, increase your Render Distance and try placing the structure again.
+
+Perfect For
+
+Survival Worlds Hardcore Worlds Creative Building World Decoration Quick Base Creation Farm Setup
+
+Creator & Credits
+
+Created by: Baku
+Addon Development & Concept: Baku
+Build Collection: Baku
+All Credits: Baku
+
+Baku. All rights reserved.
+Do not re-upload, redistribute, modify and redistribute, or claim this addon as your own without permission from Baku.
+
+Pick a build Choose a location Place it Transform your world!

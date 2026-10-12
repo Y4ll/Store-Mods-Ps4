@@ -1,0 +1,49 @@
+This is another project from GridVeyn Studios, developed with dedication to deliver it free of charge to all of you. We hope you enjoy it!
+
+Check out our official channel and subscribe.
+
+-=Official Channel=-
+
+Come join the community by entering the official Discord server. There you can stay up-to-date on spoilers and even chat with team members to ask any questions about the addons.
+
+-=Official Discord Server=-
+
+If you would like to support the project and further strengthen our ability to continue bringing you what we love to offer, please use one of the two support links below.
+
+-=Paypal=-
+
+-=LivePix=-
+
+Contributors
+
+- DustVeyn (Founder of GridVeyn Studios)
+
+- Arisoon (Founder of ExKinity Studios)
+
+- Athan213 (Addon Maker and Texture Maker by GridVeyn Studios)
+
+Official Trailer
+
+Capacity:
+
+- Dyed Backpacks & Default Backpack: 27 Slots
+
+- Copper Backpack: 36 Slots
+
+- Iron Backpack: 54 Slots
+
+- Golden Backpack: 63 Slots
+
+- Diamond Backpack: 72 Slots
+
+- Netherite Backpack: 88 Slots
+
+-
+
+To open the backpack, simply hold it in your hand. On mobile, the 'Open' button will appear, and on PC, just right-click.
+
+-
+
+If you're holding the backpack and you go to another dimension, simply take it out of your hand and put it back in so you can open it again.
+
+- When the backpack is in your hand, it locks and prevents it from being moved or put inside itself.

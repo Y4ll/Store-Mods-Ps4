@@ -1,0 +1,10 @@
+(no player.json + no experimental + achievements-friendly)
+(join discord for feedback)
+
+Disclaimer: the images used are only to give a visualization of what it feels like to use this add-on.
+
+Vampire Skills
+- Life Steal (attacking a target) [60% chance] [upgradeable]
+- Vampire Mode (Sneak) [cooldown: 60 seconds]
+- Poison (attacking a target) [60% chance]
+- Summon Bat of Darkness (attacking a target) [60% chance]

@@ -1,0 +1,39 @@
+3D Armors is a resource pack for Minecraft Bedrock Edition that replaces flat armor with fully modeled 3D gear. Detailed helmets, chestplates, leggings, and boots for every armor tier, all while keeping the core vanilla style intact.
+
+3D Armor Models
+
+- Full Coverage Every armor tier modeled in 3D: helmet, chestplate, leggings, and boots
+
+- Leather Custom 3D leather set, fully dyeable with clean, true colors
+
+- Iron, Gold & Diamond Detailed metal armor with crisp, defined plating
+
+- Netherite & Copper Heavy 3D models with material-accurate shading
+
+- Turtle Shell 3D turtle helmet included
+
+- Chainmail Clean vanilla-style mesh with proper transparency
+
+- Natural Fit Armor pieces positioned to sit correctly on the player during movement and animation
+
+Enchantment Glow
+
+A glowing enchantment effect appears on every 3D armor set, making enchanted gear stand out clearly.
+
+- Works across all armor tiers
+
+- Proper entity glint that wraps the 3D models correctly
+
+- Visible on helmet, chestplate, leggings, and boots
+
+Dyeable Leather
+
+Full dye support on the 3D leather armor, both the worn model and the inventory icons.
+
+- Neutral base tuned so dye colors appear bright and true
+
+- Matching item textures so inventory icons reflect the worn look
+
+- All 16 dye colors supported
+
+Feedback & Issues: If you find any bugs or have suggestions, leave a comment below! If you enjoy the pack, please leave a rating, it helps a lot!

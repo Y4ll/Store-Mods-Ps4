@@ -1,0 +1,9 @@
+The dummy allows you to know your current DPS or DMG depending in the mode you have it
+
+Note: This addon is stable, so it doesnt need any experimental option
+
+To change the mode, interact with the dummy!
+
+Join our discord to know when we update our addons, share ideas, bugs or questions!
+
+Dorios Studios Discord

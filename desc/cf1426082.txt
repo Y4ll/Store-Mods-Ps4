@@ -1,0 +1,41 @@
+RR One Block v2.0.0 - The Ultimate Skyblock Experience
+
+Hey everyone! Have you ever struggled with the annoying "ZArchiver Restrictions" on Android 13 or 14 while trying to paste map folders into your game files? Have you ever waited hours to download a heavy 100MB One Block Map file, only to find out that the world is corrupted or lagging terribly on your phone? I know exactly how frustrating that is for mobile players.
+
+That is why I completely changed the way we play Skyblock. I present to you the RR One Block Addon. This is not a world file or a map that you have to extract. This is a highly advanced Script Addon. You just create a brand new, empty survival world, apply this behavior pack, and the moment you load in, the script instantly turns your world into a One Block Skyblock adventure. No file managers needed!
+
+How The System Works
+
+As soon as you spawn into your new world, my custom script immediately teleports you high up above the clouds to Height Level 150. You will find yourself standing on a single block of grass, completely surrounded by the empty void. There is no ground, no bedrock floor, just pure survival.
+
+Every time you break the block under your feet, a new block instantly generates in its place. Your goal is to keep breaking the block, collect the resources, expand your floating island, and survive. But it is not just blocks; the system will also spawn mobs, chests, and special items based on your current progression level.
+
+The 10 Evolutionary Phases
+
+I wanted to make sure you never get bored while grinding. I programmed 10 completely different evolutionary phases into the addon. As you mine more blocks, the progress bar on your screen will fill up, and your world will automatically upgrade to the next era.
+
+- Phase 1 (The Plains): You start with the basics. You will mine dirt, grass, and oak logs. Friendly farm animals like cows, pigs, and sheep will spawn to help you start your food supply.
+
+- Phase 2 (The Underground): Things get harder. The block turns into stone and cobblestone. You will start finding essential ores like coal and iron. But be careful, hostile mobs like Zombies and Spiders will now start spawning on your block!
+
+- Phase 3 (The Frozen Tundra): The climate changes. You will mine snow, packed ice, and blue ice. Polar bears and dangerous Strays will spawn, bringing ranged attacks to your tiny island.
+
+- Phase 4 (The Desert): Gather sand, sandstone, and cactus. Watch out for Husks and desert rabbits jumping around your base.
+
+- Phase 5 (The Jungle): A massive burst of life. You will collect jungle logs, bamboo, and cocoa beans. Pandas and Parrots will spawn, bringing a lot of noise and fun to your skybase.
+
+- Phase 6 (The Deep Cave): You hit the deepslate layer. This is where you get your first Diamond ores and Redstone. But be incredibly careful, because the terrifying Warden has a chance to spawn and destroy your entire island!
+
+- Phase 7 (The Nether): The block turns into Netherrack and Quartz. You will face aggressive Ghasts shooting fireballs at your wooden platforms, along with angry Piglins.
+
+- Phase 8 (The Fortress): You will mine Nether Bricks and crying obsidian. Blazes and Wither Skeletons will drop to test your combat skills.
+
+- Phase 9 (The End): You have reached the void dimension. Gather End Stone and Purpur blocks while dodging angry Endermen and Shulker bullets that can make you float away into the void.
+
+- Phase 10 (The Dragon Era): The ultimate endgame. If you make it this far, the block will reward you with Netherite blocks, Beacons, and even the legendary Dragon Egg.
+
+Dynamic Bonus Chests & Loot
+
+Mining regular blocks is fun, but everyone loves opening loot. As you mine, the generator will randomly spawn Bonus Chests instead of a block. I custom-coded the loot tables so the rewards match your current phase perfectly.
+
+In Phase 1, the chests are focused on pure survival, giving you the most important items in the game: a Water Bucket, a Lava Bucket, and some saplings

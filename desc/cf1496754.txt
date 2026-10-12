@@ -1,0 +1,9 @@
+Sildaum Vibrant Shaders (Zephyr)
+Sildaum Vibrant Shaders is a shader that delivers majestic sunrise and sunset visuals, designed to make those moments feel more cinematic and immersive. It enhances warm color gradients, soft lighting transitions, and glowing horizons to create a dramatic atmosphere during golden hour. The shader emphasizes rich tones, smooth sky blending, and subtle light scattering, making both sunrise and sunset stand out as the highlight of the experience. While it still improves overall visuals, its main focus is on perfecting these specific times of day for a more beautiful and memorable look.
+
+turn on vibrant visual to activate this shader.
+
+credits: block_craft_addons
+
+REQUEST ADDON ON DISCORD
+(See the in-game screenshots below)

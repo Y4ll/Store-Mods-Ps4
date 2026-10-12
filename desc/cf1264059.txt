@@ -1,0 +1,83 @@
+## Relic Player Animations V2.1
+
+### by FeberNaisyStudio224467
+
+YouTube reached 1,000 subscribers and updated the Relic Player Animations addon to Epic Fight, making it 99.99% similar to the PC version.
+
+New update: Use the item sticks to change the first person and third person.
+
+Link Addon:https://beacons.ai/feber_naisy
+
+Link discord:https://discord.gg/https://discord.gg/CdjYgGN85d
+
+Link Youtube:https://www.youtube.com/@Nova_Sky_004
+
+**Relic Player Animations V2.1 fix** is a player-focused animation overhaul addon for Minecraft Bedrock Edition. This version introduces smoother, more expressive and realistic character movements designed to enhance immersion during gameplay.
+
+---
+
+### Key Features:
+
+- Fully redesigned animations for **walking, sprinting, jumping, crouching, swimming**, and more.
+
+- Custom combat stances for **swords, axes, shields, and bows**.
+
+- Subtle gesture and idle animations that bring your player to life.
+
+- Multiplayer supported: animations sync properly for all players.
+
+- Optimized for **performance**, works well on low-end devices.
+
+- Improved transition speed between actions (e.g., run to stop, aim to attack).
+
+---
+
+### Animation System Includes:
+
+| Action | Description |
+
+|----------------|------------------------------------------|
+
+| Walk / Run | Realistic upper body swing |
+
+| Jump / Fall | Leg tucking and landing reaction |
+
+| Sneak / Sit | Natural crouch and sit poses |
+
+| Swim | Smooth breaststroke-style movement |
+
+| Combat Stance | Aggressive posture with weapon in hand |
+
+| Idle | Breathing and subtle motion while still |
+
+---
+
+### Version Support:
+
+Compatible with **Minecraft Bedrock 1.26+**
+
+> This version is tested and optimized for recent 1.26+ builds, with no known issues or animation desync.
+
+---
+
+### Requirements:
+
+- **Minecraft Bedrock Edition**
+
+- Game version: 1.26+
+
+- Enable **Experimental Features** (Animations API)
+
+MCPEDL
+
+### Notes:
+
+> Relic Player Animations V2.1 fix focuses on polishing the overall flow of character motion while staying lightweight. Perfect for RPGs, PvP packs, or cinematic maps.
+
+---
+
+Made with by FeberNaisyStudio224467
+
+Link Addon:https://beacons.ai/feber_naisy
+
+Link discord:https://discord.gg/CdjYgGN85d

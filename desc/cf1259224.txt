@@ -1,0 +1,47 @@
+Alylica's Advancements is a faithful port of the Java Advancements System, including 116 of the 120 advancements found on Java for players to earn!
+
+As a bonus, combine this addon with some of my other addons to get even more advancements themed around those addons!
+
+How do Advancements work?
+
+Advancements are tasks that you can complete, once an advancement is earned there will be a notification in the chat and on the top of your screen
+
+Some Advancements are known as Challenges which not only have a unique sound for completetion, but also award some exp!
+
+How do I View Them?
+
+By using the /showadvancements command, you will see a helpful menu that lists every advancement and their requirements
+
+operators can use /showplayeradvancements to view the advancements of another player
+
+Helpful Commands
+
+/advancement - Allows operators to give and revoke advancements from themselves or others
+
+/toasts - Allows players to toggle wether or not they see notifications in the top right for earning an advancement
+
+Addon Compatibility
+
+As of 3.3.0, Alylica's Advancements has its own API for adding custom advancement content!
+For an example pack of how to add custom advancements, look at this link:
+https://www.mediafire.com/file/4yk4cjnckv6lm1p/Alylica's+Advancements+Example+Code.mcaddon/file
+
+If you make anything with the custom advancements API, feel free to let me know! For now, here is a list of some (not all) of my own addons that use this API
+
+Alylica's Dungeons - 32 New Advancements
+
+Alylica's Dragons - 12 New Advancements
+
+Myths & Magic - 25 New Advancements
+
+Alylica's Item Pets - 8 New Advancements
+
+Important Notes
+
+4 Advancements are currently not implemented, these 4 are all not possible without experimental features as of right now. When they become stable the Add-On will update to include them
+
+Some advancements are slightly tweaked in terms of behaviour compared to Vanilla (eg: Enchanter requires you to *get* an enchantment table, not to *use* it)
+
+The Add-On needs no experiments
+
+Join my Discord for future sneak peeks, and more!

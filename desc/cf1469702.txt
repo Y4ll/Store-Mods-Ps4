@@ -1,0 +1,76 @@
+Great Hunger
+
+This mob is constantly hungry for tools. Offer it an unenchanted tool, and it will return it imbued with a random Level I enchantment.
+
+WildFire
+
+This powerful Blaze possesses immense resilience. You must break all of its shields before you can bring it down.
+
+Barnacle
+
+The Barnacle is a dangerous creature that inhabits the ocean, capable of dragging you into the depths. Be careful not to get too close, or you may find yourself pulled into the abyss.
+
+Moobloom
+
+The Moobloom has a deep fondness for dandelion. Be sure to offer one when you encounter it.
+
+Iceologer
+
+Beware of the Iceologer when it detects you, it will hurl a massive block of ice in your direction.
+
+Glare
+
+Lurking in the darkness, hostile entities gather. The Glare will warn you when darkness is nearby.
+
+Tuff Golem
+
+This little golem loves items. Interact with it to wake it up whenever it falls asleep!
+
+Rascal
+
+This small and mischievous rascal loves to play hide and seek. Good luck finding it... you might earn a reward.
+
+Crab
+
+Obtain the powerful Crab Claw to extend your block placement reach.
+
+Penguin
+
+Bring a penguin to the edge of your boat to increase its speed.
+
+Discord Server Community:
+https://discord.gg/6qr6PrY9bh
+
+YT LostMobs:
+https://www.youtube.com/@THELOSTMOBS
+
+Founders Network
+
+YouTube:
+https://www.youtube.com/@Euforia-conr
+
+Discord:
+euforia_sin_h
+
+Discord Euforia Server Community:
+https://discord.gg/YJ5v727bJH
+
+YouTube:
+https://www.youtube.com/@drecxiMC?sub_confirmation=1
+
+Gmail:
+dereckmonroy940@gmail.com
+
+Note:
+Do not forget to enable the Beta API in the Experimental Options.
+
+Project Credits
+
+Founder
+Drecxi
+
+Programming
+Euforia
+
+Developer discord
+FakeRoom

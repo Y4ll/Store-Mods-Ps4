@@ -1,0 +1,11 @@
+Have you ever imagined farming experience in a new way in Minecraft? With this addon, youll discover the XP Berry Bushes, a special type of bush that spawns in your world and produces glowing berries filled with energy.
+
+Main Features: Works similar to the Sweet Berry Bush, but with a magical twist. Harvest the bushes to collect XP Berries. Eating one grants 25 experience points instantly. A fun and unique way to get XP without grinding mobs or mining endlessly.
+
+How it works: Find or plant the bushes in your world. Wait for them to grow naturally. Harvest the berries and eat them for instant XP.
+
+The seed can be planted on grass and dirt blocks, after being planted it will have 4 stages of growth
+
+Compatibility: Fully compatible with the latest version of Minecraft Bedrock. Works in both Survival and Creative.
+
+Perfect for players who enjoy adventure, survival, or just want to speed up enchanting without massive XP farms

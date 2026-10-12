@@ -1,0 +1,75 @@
+BEFORE DOWNLOADING MOD READ THIS!
+
+Enable all the experiments for the addon to work
+
+This mod is a horror mod that slowly corrupts your world and slowly turns everything chaotic. The moon will slowly start to disappear and chaos will come. Entities will start spawning and this mod will have you on the edge of your seat, as they wait for the perfect time to strike.
+
+This addon is an authorized port of the Java mod called no_moon.jar which created by Wentworth
+
+This mod is also tribute to the Broken Script.
+
+WARNING: If you don't want the game to crash then go to the config and turn game crashes off. This mod will destroy your world and destroy your builds. Most bad things can be toggled off in the config.
+
+WARNING: Flashing lights & Loud noises.
+
+Join the Discord server and Telegram channel!
+
+The French translation - https://www.curseforge.com/minecraft-bedrock/addons/no-moon-jar-fr
+
+Content
+
+- Config (Live Nothing_left reaction, Events Per Day and etc.)
+
+- Overlays
+
+- You can chat with entities
+
+- Reputation, sanity and void_corruption systems
+
+- Custom commands (setevent, config, question and etc.)
+
+- 1 bossfight
+
+- 1 dimension
+
+- 16 items
+
+- 40 blocks
+
+- 25 entities
+
+- 83 events (1:1 event system to Java)
+
+- 48 structures
+
+Credits
+
+- Wentworth - Creator of the java mod
+
+- WeksTheCreator - Creator of the port
+
+- Utlover65 - Live Nothing_left reaction, 1:1 event system, item functions
+
+- Mod by Wentworth
+
+- Programmer - Wentworth
+
+- Art by Wentworth
+
+- Idea maker - Wentworth and Grant Bell
+
+- Sounds - TornadicPolarity, and Wentworth
+
+- Playtesters - TOO MANY NAMES
+
+- Music - Agonizing Freedom, His Arrival, and More by TornadicPolarity Resource Pack - https://modrinth.com/resourcepack/programmer-art-plus
+
+Authorization:
+
+Links
+
+Original Java mod - https://modrinth.com/mod/no_moon.jar
+
+Official no_moon.jar wiki - https://nomoonjar.com/
+
+The Moonless server - https://discord.gg/DfbTwQZmPW

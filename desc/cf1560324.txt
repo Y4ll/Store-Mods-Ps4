@@ -1,0 +1,47 @@
+!!!! Be sure to activate The resource pack and the behavior pack!!!!
+
+Okay so below are a list of blocks that you can use to create portals.
+
+Amethyst Block, Bedrock Block, Quartz Block, Lapis Block, Blue Glazed Terracotta Block, Crying Obsidian Block
+
+Diamond Block (dedicated admin-only portal network)
+
+So basically you would create a portal using any one of these blocks listed
+
+Two wide and 3 Tall (basically the standard setup for a portal)
+
+If you have any questions just look at the pictures.
+
+If your character has an admin tag when you enter a portal and admin menu will pop up,
+
+Allowing you to use the travel network, change the name of the portal,
+
+Terminate the portal link, or completely remove the entire portal.
+
+Each block has its own dedicated network,
+
+Meaning that if you have a lapis block portal each lapis block portal that you create.
+
+It will have a drop down list when you enter in a portal of every lapis block portal name that is currently active.
+
+This is the same for each block that is listed above they each have their own separate portal networks.
+
+I hope you enjoy this mod!!!
+
+!!!!!!!!!VERSION 3 IS HERE!!!!!!!!!
+
+NEW PORTAL NETWORKS ADDED
+
+RED MUSHROOM BLOCK
+
+LIGHT GRAY GLAZED TERRACOTTA
+
+GREEN GLAZED TERRACOTTA
+
+CHISELED QUARTZ BLOCK
+
+DIORITE WALL
+
+STONE BRICK WALL
+
+REDSTONE BLOCK

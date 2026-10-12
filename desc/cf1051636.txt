@@ -1,0 +1,5 @@
+This addon adds the item "Piston Arm" which can be equipped on the offhand (left hand). It is a solution to Minecraft's standard build distance limitation, increasing the distance limit to 32 blocks.
+
+It can be made in survival mode and uses simple items in its recipe. Just a few pistons, slime and iron and it's possible to make it.
+
+To place the blocks, simply equip the "Piston arm" and press the right button or long-click on the screen if you're on mobile.

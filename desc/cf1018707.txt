@@ -1,0 +1,31 @@
+Do you need better health?
+
+Are the mobs you face very powerful? With this addon you can increase your health but in exchange you will have to undertake a great search for this improvement
+
+TEST
+
+How to find this ore?
+
+To find heart ore, you have to venture into the depths where deepslate exists. This mineral is extremely rare, so searching for it can be quite time-consuming. Heart ore can be affected by the Fortune enchantment, allowing you to obtain 1 to 3 heart fragments.
+
+Heart Fragment
+
+This item can only be obtained from Heart Ore, which is scattered throughout the world. It is only used to craft "Heart Tanks."
+
+Heart Tank
+
+This special item increases your maximum health by 2 hearts. Perfect for going on adventures!
+
+RECIPE
+
+How do I use the heart tank?
+
+To use the heart tank, you need to interact with the item. It will be consumed automatically, granting you an upgrade of (4) extra health or 2 more hearts to the player. Since the player can have unlimited life, it can be annoying if you have too many hearts as it may clutter the screen.
+
+How to reduce hearts if you have used too many heart upgrades?
+
+Remove Heart
+
+This item removes hearts if you have active upgrades from the Heart Tank. This item works with "Right-Click" or "Interact."
+
+RECIPE

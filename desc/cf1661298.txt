@@ -1,0 +1,75 @@
+THE STALKER NIGHTMARE - SUGGESTEDS SUBPACK
+
+Something that is... unknown has a job to do.
+
+It does not sleep. It does not wander without purpose. It watches, it waits, and when the moment comes, it moves fast, direct, without hesitation. What used to hide in the corners of the map now walks in front of you before you even know it is there.
+
+This subpack is an isolated extension of The Stalker Nightmare, built from suggestions gathered from those who already survived the original addon and wanted more. It does not soften the experience. It sharpens it.
+
+WHAT WAITS INSIDE
+
+Toy Tumor
+
+A _ thing. A quiet thing. Until it is not. It does not lose you on the stairs. It does not get confused when the ground changes beneath it. It finds you, it places itself ahead of you, and it closes the distance before you can think of a plan.
+
+Giant
+
+Some things are simply too large to reason with. You will feel it before you see it.
+
+Face Stealer
+
+It does not need a reason to attack. Seeing you is reason enough.
+
+Stalker Door Neighbor
+
+It does not need to touch you to make its presence known. Proximity is enough.
+
+The Locust (Door and Window)
+
+No entrance is truly closed. They find the gaps you forgot to check.
+
+Stalker Seat
+
+Not everything here is meant to chase you. Some things are meant to test whether you should have stayed still. This is an entity that serves as a hiding place under the bed.
+
+COMPATIBILITY
+
+Requires Minecraft Bedrock Edition with Script API / Experimental features enabled.
+
+Functions as a standalone module. Can be installed alongside the main The Stalker Nightmare addon or used on its own.
+
+INSTALLATION
+
+1. Download the .mcaddon file.
+
+2. Open it with Minecraft. Both the behavior pack and the resource pack will import automatically.
+
+3. Enable both packs, along with the required experimental toggles, before creating or loading your world.
+
+A warning, not a promise:
+
+turning this on does not mean you will see
+
+it coming.
+
+Scriptevents (ONLY THIS ONE)
+
+/scriptevent stalker:test_door_neighbor
+
+/scriptevent stalker:test_locust
+
+/scriptevent stalker:giant
+
+/scriptevent stalker:test_face_stealer
+
+/scriptevent stalker:toy_tumor
+
+Original textures made by @LCrandom
+
+and Toy Tumor By @cha.momile
+
+My tiktok profile:
+
+https://www.tiktok.com/@ttk.invert?_r=1&_t=ZS-992ybxyfNMC
+
+DO.NOT.HIDE.OR.RUN. THEY.WILL.FIND.YOU.

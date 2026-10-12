@@ -1,0 +1,17 @@
+This Modpack contains 3 addons:
+
+More Overworld Dungeons
+
+More Nether Dungeons
+
+More End Dungeons
+
+This addon bundle radically overhauls exploration across all three Minecraft dimensions by adding a total of 116 new dungeon-like structures (48 Overworld, 41 Nether, 27 End) designed to seamlessly blend in and provide unique, biome-coherent challenges and rewards.
+
+1. Overworld: Turns familiar biomes into adventuring destinations with 48 biome-specific structures: ice castles defended by Strays in cold biomes, sandstone temples in deserts, Illager strongholds in dark forests, and mossy temples in jungles. Each uses authentic biome materials, contains chests with valuable loot, and is populated by thematic hostile mobs.
+
+2. Nether: Enhances Nether exploration with 41 new castle-like structures. 19 are Piglin castles in Crimson Forests and related biomes, while the rest, occupied by Wither Skeletons and Blazes, spawn in Soul Sand Valleys and Warped Forests. All are relatively common and offer valuable loot.
+
+3. The End: Revitalizes this empty dimension by adding 27 large dungeons built from purpur and end stone, which generate frequently across the outer islands. They are populated by Shulkers, Wither Skeletons, and Zombies, and contain rewarding chest loot, providing lasting purpose for post-Ender Dragon exploration.
+
+Overall Purpose: These addons give every adventure a distinct purpose, transforming each dimension into a land of tailored danger, reward, and purposeful exploration.

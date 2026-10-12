@@ -1,0 +1,51 @@
+" Xnova Remastered " anade muchas caracteristicas, funciones y objetos nuevos, asi como animaciones en primera persona nuevas y mejoradas.
+
+- Modos de manos personalizables.
+
+Ahora incluye un panel de control en primera persona personalizable para que puedas configurarlo a tu gusto.
+
+- Modo de capa de piel 3D.
+
+Anade capas 3D a las apariencias de Steve y Alex.
+
+- Modelos 3D de objetos y herramientas.
+
+Se anadieron nuevos modelos 3D para algunos objetos y herramientas del juego.
+
+CREDITOS:
+
+Paquete de elementos MB-3D (Java) para increibles herramientas 3D.
+
+https://modrinth.com/resourcepack/mb3d-items-pack
+
+En realidad, cosas 3D (Java) para algunos objetos 3D increibles.
+
+https://modrinth.com/resourcepack/actually-3d-stuff
+
+- Compatible con A&S y Dynamic Light Addon.
+
+Compatibilidad con " Action & Stuff " y la funcion de mano secundaria del complemento " Dynamic Light ".
+
+- Multimodo seleccionable.
+
+Te permite seleccionar entre " Animaciones y sonidos personalizados " y " Animaciones predeterminadas ".
+
+Registro de cambios adicionales
+
+- Todos los elementos del juego se han anadido y modelado para su uso con la mano.
+
+- Conjunto de correcciones de errores.
+
+- Se han anadido animaciones nuevas y mejoradas para el jugador en primera persona.
+
+- Opciones configurables para definir la opacidad y el tamano de los elementos y bloques.
+
+- Optimizacion masiva del rendimiento y el tamano del paquete de texturas.
+
+- Mayor personalizacion: te permite activar o desactivar opciones de juego a tu gusto.
+
+Proyecto original (eliminado) : https://www.curseforge.com/minecraft-bedrock/texture-packs/xnova-model/preview
+
+REDES SOCIALES
+
+UNETE A NUESTRA COMUNIDAD!

@@ -1,0 +1,11 @@
+Give your player skin the depth it deserveswith style and performance in mind.
+
+3D Extruded Skin Layer
+Replaces the flat second skin layer with a full 3D model
+Adds visual depth to cosmetic details like jackets, sleeves, or hats
+Fully supports transparency for glasses, visors, etc.
+Also applies to player head items
+Performance-Aware Rendering
+Automatically switches to vanilla 2D rendering beyond 12 blocks
+Maintains FPS even in multiplayer or crowded areas
+Fully client-side and requires no server installation

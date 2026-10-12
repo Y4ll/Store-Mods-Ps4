@@ -1,0 +1,14 @@
+Check out how the add-on works in action in this video:
+
+SAO Damage Indicator Add-On for Minecraft Bedrock 1.21
+Experience combat like never before with the SAO Damage Indicator Add-On for Minecraft Bedrock 1.21! This add-on brings the iconic damage indicators from Sword Art Online (SAO) to your Minecraft world. All mobs and enemies now display their health bars in the style of SAO, allowing you to see exactly how much health remains as you battle your foes.
+
+Features & Advantages:
+
+- SAO-Inspired Health Bars: All mobs and enemies now show their health bars in the iconic style of Sword Art Online (SAO), making combat more immersive and engaging.
+
+- Easy Combat Tracking: With the health bar visible above enemies, you can easily monitor how much health remains while you battle. No more guessing how much longer itll take to defeat a mob!
+
+- Works Across Dimensions: Whether you're in the Overworld, Nether, or End, every hostile mob will show its health bar, providing a consistent experience across all dimensions.
+
+- Compatibility with Minecraft Bedrock 1.21: Fully optimized for the latest version of Minecraft Bedrock.

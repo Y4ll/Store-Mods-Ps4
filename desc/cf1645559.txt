@@ -1,0 +1,55 @@
+ShowCase
+
+How To Use
+
+Download the .maddon file
+
+Tap/double-click it Minecraft will open and import it automatically
+
+Wait for the "Successfully imported" message
+
+Open Minecraft and go to Play
+
+Create a new world or edit an existing one
+
+Scroll down to Behavior Packs
+
+Find Tree Capitator and tap the + to activate it
+
+Achivement Friendly
+
+Launch your world!
+
+Features
+
+- Works on any tree type oak, spruce, dark oak, jungle, acacia, birch, crimson/warped stems, even stripped logs
+
+- Smart detection: only chops connected logs, leaves your builds and neighboring trees untouched
+
+- Realistic durability: your axe takes damage per log chopped, just like breaking them normally
+
+- Capped at 128 logs per tree so massive jungle/dark oak trees don't lag your world
+
+- Creative mode friendly no drops, no durability loss
+
+- Fully script-based, no behavior changes to vanilla trees when not crouching
+
+You are allowed to:
+
+- Showcase this addon WITH CREDITING
+
+- Use this addon in your worlds/servers/realms
+
+You are NOT allowed to:
+
+- Repost this addon to other sites (This includes apps)
+
+- Create your own download link
+
+- Claim this addon as your own
+
+- Modify this addon
+
+Support
+
+If you had any problem with the addon you can join our discord server, Feel free to support me if you'd like!

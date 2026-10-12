@@ -1,0 +1,95 @@
+Azure Visuals is my loudest pack. Cyan skies, lime green grass and saturation pushed as far as I could take it without the world falling apart.
+
+What this changes
+
+Saturation
+
+Every color in the game is pushed hard. Nothing is left dull or washed out, in any biome, at any time of day. This is the whole pack in one line.
+
+Sky
+
+Deep azure blue running into cyan, with hard white clouds sitting on top of it. The clouds actually separate from the sky instead of blending into it.
+
+Grass and foliage
+
+Grass and leaves go bright lime green. Plains and forests read as loud and alive rather than the muted green vanilla gives you.
+
+Contrast
+
+Shadows are kept strong so the bright colors have something to sit against. Without that the whole thing would just look flat and blown out.
+
+Terrain and trees
+
+Bark and terrain pick up more depth up close, so they hold together even with the saturation turned this far up.
+
+PBR
+
+Blocks react to light with real depth, which is where that close up detail comes from.
+
+PBR is also the heaviest part of any Vibrant Visuals pack, so it is not forced on you. It ships as a subpack, which means you can switch it on or off yourself. When you activate Azure Visuals in Global Resources, pick the version you want. Turn PBR off if your device runs hot or drops frames.
+
+Requirements
+
+THIS PACK IS FOR VIBRANT VISUALS ONLY
+IT DOES NOT WORK WITH MB LOADER
+
+Vibrant Visuals must be ON. This pack is built for Bedrock's Vibrant Visuals renderer. The pack will not do anything if it is off.
+
+Where to turn it on: Settings > Video > Graphics > Vibrant Visuals
+
+If that toggle is not there, your device or version does not support Vibrant Visuals yet.
+
+About my other packs
+
+I have several other shader packs on my page, and they are not recolors of this one. Each is built with its own style. The atmospherics, lighting, color grading, water and PBR are set up separately in every pack, so no two of them behave the same way in game.
+
+If you want to explore the rest, everything I have made is here:
+
+- My CurseForge profile
+
+- My MCPEDL profile
+
+Installation
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate Azure Visuals
+
+- Pick the subpack you want. PBR on for the full look, PBR off for better performance.
+
+- Turn on Settings > Video > Vibrant Visuals
+
+- If the lighting still looks the same, leave the world and load it again once
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link this CurseForge page in the description.
+
+- Use the pack in your own gameplay videos and streams. No permission needed, go ahead.
+
+- Modify the pack for your own personal use. Tweak whatever you want on your own device. The modified version has to stay with you though. It cannot be uploaded or shared publicly anywhere.
+
+- Share this page with friends or in servers.
+
+YOU ARE NOT ALLOWED TO
+
+- Upload a modified version. Editing my pack and releasing it under your own name, or claiming it as your own work, is not allowed.
+
+- Use assets from this pack in your own pack. If you want to use something from it, contact me on Discord first and ask.
+
+- Put the download behind your own link. If you make a review video, link my official project page and nothing else. No monetized links, no link shorteners, no ad links, and no direct download that you host yourself.
+
+- Reupload the pack anywhere else.
+
+FAQ
+
+The pack is not working. Nothing changed after I installed it.
+I get this comment a lot, and almost every single time the reason is the same. Vibrant Visuals is turned off.
+
+This pack only works when Vibrant Visuals is ON. That is written clearly at the top of this page. With it off, the pack loads fine but nothing on your screen changes, because there is no renderer for it to work with. The pack is not broken.
+
+Go to Settings > Video > Graphics > Vibrant Visuals and switch it on. If you cannot find

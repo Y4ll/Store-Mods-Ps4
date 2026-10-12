@@ -1,0 +1,385 @@
+PG's More Armor and Tools is a Minecraft Bedrock Edition addon that introduces 19 new minerals and metals into the game, each with a full set of tools and armor. Materials range from common gems like Quartz and Lapis Lazuli to rare powerful minerals like Onyx, Sugilite and Platinum, offering a wide variety of progression options beyond vanilla. Every material comes with its own Sword, Spear, Axe, Pickaxe, Shovel, Hoe, Helmet, Chestplate, Leggings, and Boots with unique stats, durability, and enchantibility.
+
+CRAFTING AND SMELTING
+
+Crafting Blocks
+
+PG's More Armor and Tools also adds crafting recipes for several vanilla blocks using Platinum, Silver, and Titanium ingots as alternatives to Iron, allowing you to craft these blocks even if you are short on Iron. Simply replace any Iron Ingot in the original recipe with a Platinum, Silver, or Titanium Ingot to craft the following blocks:
+
+Redstone Blocks
+
+- Hopper
+
+- Piston
+
+- Sticky Piston
+
+- Crafter
+
+- Tripwire Hook
+
+Utility Blocks
+
+- Blast Furnace
+
+- Stonecutter
+
+- Cauldron
+
+- Lodestone
+
+- Lantern
+
+- Soul Lantern
+
+Transport
+
+- Rail
+
+- Activator Rail
+
+- Detector Rail
+
+Smithing & Crafting Stations
+
+- Smithing Table
+
+- Anvil
+
+Some Useless Recipes
+
+PG's More Armor and Tools also adds smelting recipes for Platinum, Silver, Titanium and Redstone armor and tools. You can smelt any piece of armor or any tool from these four material sets in a furnace or blast furnace to recover a single nugget. You can also smelt the ores added by this addon, however these recipes are not recommended as you only get a single nugget per ore, making it far more efficient to mine them with a Fortune III pickaxe instead.
+
+AMETHYST
+
+Tools
+
+Amethyst Sword
+
+Durability: 250
+
+Damage: 8
+
+Amethyst Spear
+
+Durability: 250
+
+Damage: 5
+
+Amethyst Axe
+
+Durability: 250
+
+Damage: 7
+
+Amethyst Pickaxe
+
+Durability: 250
+
+Damage: 6
+
+Amethyst Shovel
+
+Durability: 250
+
+Damage: 5
+
+Amethyst Hoe
+
+Durability: 250
+
+Damage: 6
+
+Armor
+
+Amethyst Helmet
+
+Durability: 165
+
+Defence: 2
+
+Amethyst Chestplate
+
+Durability: 240
+
+Defence: 6
+
+Amethyst Leggings
+
+Durability: 225
+
+Defence: 5
+
+Amethyst Boots
+
+Durability: 195
+
+Defence: 2
+
+AQUAMARINE
+
+Items
+
+Aquamarine
+
+Tools
+
+Aquamarine Sword
+
+Durability: 1500
+
+Damage: 7
+
+Aquamarine Spear
+
+Durability: 1500
+
+Damage: 4
+
+Aquamarine Axe
+
+Durability: 1500
+
+Damage: 6
+
+Aquamarine Pickaxe
+
+Durability: 1500
+
+Damage: 5
+
+Aquamarine Shovel
+
+Durability: 1500
+
+Damage: 4
+
+Aquamarine Hoe
+
+Durability: 1500
+
+Damage: 5
+
+Armor
+
+Aquamarine Helmet
+
+Durability: 363
+
+Defence: 3
+
+Aquamarine Chestplate
+
+Durability: 528
+
+Defence: 8
+
+Aquamarine Leggings
+
+Durability: 495
+
+Defence: 6
+
+Aquamarine Boots
+
+Durability: 429
+
+Defence: 3
+
+EMERALD
+
+Tools
+
+Emerald Sword
+
+Durability: 1375
+
+Damage: 7
+
+Emerald Spear
+
+Durability: 1375
+
+Damage: 4
+
+Emerald Axe
+
+Durability: 1375
+
+Damage: 6
+
+Emerald Pickaxe
+
+Durability: 1375
+
+Damage: 5
+
+Emerald Shovel
+
+Durability: 1375
+
+Damage: 4
+
+Emerald Hoe
+
+Durability: 1375
+
+Damage: 5
+
+Armor
+
+Emerald Helmet
+
+Durability: 387
+
+Defence: 3
+
+Emerald Chestplate
+
+Durability: 512
+
+Defence: 8
+
+Emerald Leggings
+
+Durability: 482
+
+Defence: 6
+
+Emerald Boots
+
+Durability: 432
+
+Defence: 3
+
+GARNET
+
+Items
+
+Garnet
+
+Tools
+
+Garnet Sword
+
+Durability: 1435
+
+Damage: 8
+
+Garnet Spear
+
+Durability: 1435
+
+Damage: 5
+
+Garnet Axe
+
+Durability: 1435
+
+Damage: 7
+
+Garnet Pickaxe
+
+Durability: 1435
+
+Damage: 6
+
+Garnet Shovel
+
+Durability: 1435
+
+Damage: 5
+
+Garnet Hoe
+
+Durability: 1435
+
+Damage: 6
+
+Armor
+
+Garnet Helmet
+
+Durability: 360
+
+Defence: 3
+
+Garnet Chestplate
+
+Durability: 520
+
+Defence: 8
+
+Garnet Leggings
+
+Durability: 480
+
+Defence: 6
+
+Garnet Boots
+
+Durability: 420
+
+Defence: 3
+
+JADE
+
+Items
+
+Jade
+
+Tools
+
+Jade Sword
+
+Durability: 979
+
+Damage: 7
+
+Jade Spear
+
+Durability: 979
+
+Damage: 4
+
+Jade Axe
+
+Durability: 979
+
+Damage: 6
+
+Jade Pickaxe
+
+Durability: 979
+
+Damage: 5
+
+Jade Shovel
+
+Durability: 979
+
+Damage: 4
+
+Jade Hoe
+
+Durability: 979
+
+Damage: 5
+
+Armor
+
+Jade Helmet
+
+Durability: 270
+
+Defence: 2
+
+Jade Chestplate
+
+Durability: 405
+
+Defence: 7
+
+Jade Leggings
+
+Durability

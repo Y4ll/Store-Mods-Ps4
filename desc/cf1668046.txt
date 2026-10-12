@@ -1,0 +1,23 @@
+Water Wave
+
+Water Wave is a Minecraft Bedrock pack that adds beautiful and realistic animated water waves to your world!
+
+Features:
+
+Realistic animated water waves
+
+Smooth water movement
+
+Dynamic wave effects
+
+Custom water textures
+
+Better and more immersive ocean, river, and lake visuals
+
+Performance-friendly options
+
+added particle
+
+Choose Smooth Mode for better performance or Dynamic Mode for stronger and more visible waves.
+
+Bring your Minecraft world to life with realistic moving water!

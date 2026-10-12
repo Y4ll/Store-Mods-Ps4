@@ -1,0 +1,91 @@
+PvP HUD v1 Your advantage in battle!
+
+PvP HUD v1 is a clean and functional HUD pack designed for PvP players. It gives you essential information at a glance so you can react faster and stay on top in combat.
+
+Features:
+
+-
+
+Armor HUD Displays the durability and status of your armor on screen.
+
+-
+
+Offhand display Shows your offhand item in the hotbar for better control.
+
+-
+
+Health display Displays players' health above their heads (when targeted).
+
+Benefits:
+
+-
+
+Compact design that doesnt block your view.
+
+-
+
+No clutter only the important info you need.
+
+-
+
+Optimized for smooth PvP without performance loss.
+
+Notes:
+
+-
+
+This pack is purely visual and does not change any game mechanics.
+
+-
+
+Compatible with most PvP servers. (Please specify your supported Minecraft version here.)
+
+-
+
+Works with Bedrock / Java (adjust accordingly).
+
+PvP HUD v1 Dein Vorteil im Kampf!
+
+PvP HUD v1 ist ein sauberes und funktionales HUD-Pack fur PvP-Spieler. Es zeigt dir alle wichtigen Infos auf einen Blick, damit du schneller reagieren und im Kampf die Oberhand behalten kannst.
+
+Features:
+
+-
+
+Armor HUD Zeigt Haltbarkeit und Status deiner Rustung direkt auf dem Bildschirm an.
+
+-
+
+Offhand-Anzeige Dein Offhand-Item wird auch in der Hotbar dargestellt.
+
+-
+
+Health-Display Zeigt die Lebenspunkte von Spielern uber deren Kopfen an (wenn anvisiert).
+
+Vorteile:
+
+-
+
+Kompaktes Design ohne Sichtblockierung.
+
+-
+
+Keine uberladenen Anzeigen nur die wichtigsten Infos.
+
+-
+
+Optimiert fur flussiges PvP ohne Leistungsverlust.
+
+Hinweise:
+
+-
+
+Dieses Pack ist rein visuell und verandert keine Spielmechaniken.
+
+-
+
+Kompatibel mit den meisten PvP-Servern. (Bitte unterstutzte Minecraft-Version hier angeben.)
+
+-
+
+Funktioniert mit Bedrock / Java (bitte anpassen).

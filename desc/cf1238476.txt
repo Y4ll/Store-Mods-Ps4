@@ -1,0 +1,65 @@
+Tree Harvester Addon [Click for More]
+
+Tree Harvester is a Minecraft Bedrock addon that enhances your tree-felling experience. It allows you to quickly harvest entire trees by simply crouching and using an axe. This addon supports standard trees, custom trees from other addons, and even trees from the Nether!
+
+What Does Tree Harvester Do?
+
+Tree Harvester allows you to fell entire trees quickly by crouching (sneaking) and using an axe on the tree's trunk. The addon will automatically break all connected logs and leaves, making tree harvesting much faster and more convenient.
+
+Key Features
+
+Quickly harvest entire trees by crouching and using an axe.
+
+Supports standard trees, custom trees, and Nether trees.
+
+Configurable break speed to balance performance and efficiency.
+
+Supports axes with Silk Touch for easy collection of leaves.
+
+Compatible with custom logs and leaves from other addons.
+
+Practical Examples
+
+You want to clear a forest quickly: Simply crouch and use your axe on the trees to fell them instantly.
+
+You need resources from the Nether: With Nether trees enabled, you can quickly harvest warped and crimson trees.
+
+Why Use Tree Harvester?
+
+Makes tree harvesting faster and more efficient.
+
+Simplifies resource gathering for building and crafting.
+
+Supports a wide range of trees, including custom and Nether trees.
+
+Configurable
+
+The addons behavior can be configured directly in the script file. To modify the settings, navigate to com.mojang/behavior_packs/Tree Harvester BP/scripts/main.js and edit the following values (lines 118-121):
+
+- breakSpeed: Adjust the block breaking speed in milliseconds (default: 2). Lower values (min: 1, e.g., 1-10) result in faster breaking but may decrease performance, while higher values (e.g., 50-100) offer a balance between speed and stability.
+
+- customLogsAndLeaves: Toggle compatibility for custom tree blocks from other addons. When set to true (default), the addon will recognize and harvest custom logs and leaves with names including "_log" or "_leaves". Set to false to disable.
+
+- enableNetherTrees: Control whether to harvest trees in the Nether dimension. Setting this to true (default) allows the addon to automatically fell nether wart and stem blocks when using an axe while crouching. Set to false to disable.
+
+How to Install
+
+- Download and install the addon.
+
+- Enable the addon (behavior pack) in your world settings.
+
+- Equip an axe, crouch, and use it on a tree to start harvesting.
+
+Compatibility
+
+Works with most addons, as long as they don't directly modify the block breaking or player interaction systems.
+
+Fully compatible with normal worlds and realms.
+
+Addon Packs
+
+You are allowed to use this addon in public or private addon packs. However, please do not re-upload this addon to other sites without permission. Always link back to this CurseForge page or the MCPEDL page if you share it.
+
+FeedBack
+
+If you find any bugs or have suggestions, feel free to contact me through my Discord Server. Your feedback helps make this addon even better!

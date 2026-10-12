@@ -1,0 +1,35 @@
+Step into a world reimagined. YG Fantasy Shader is a vibrant, glow-forward visual overhaul for Minecraft Bedrock Edition, built on the RenderDragon Vibrant Visuals lighting engine and crafted to turn every sunrise, sunset, and starlit night into a cinematic fantasy scene.
+
+At the heart of this shader is light itself. The sun no longer just rises, it blazes. Enhanced Mie scattering wraps the horizon in bold, sweeping sun rays, while a broadened golden-hour glow bathes the land in warm amber and rose-gold tones before the sky dissolves into deep violet twilight. Rayleigh scattering has been pushed further, giving the sky a richer, more saturated gradient that shifts from soft blue daylight into dramatic magenta and purple sunsets reminiscent of a painted fantasy realm.
+
+Beneath that sky, volumetric fog does more than add distance haze, it catches the light. Increased scattering density and tightened forward scattering make crepuscular light shafts punch through forest canopies and cave openings, giving every biome a sense of atmosphere and depth that vanilla lighting simply cannot match.
+
+Underground, the world glows back. Every ore, diamond, emerald, gold, redstone, lapis, copper, and their deepslate variants, has had its emissive properties intensified, so veins genuinely shine in caves rather than sitting flat and dull. Combined with subtly boosted PBR emissive fallback values across blocks, items, actors, and particles, the whole world carries a faint, living luminescence, from lanterns and campfires to enchanted structures.
+
+Color grading ties it all together with a refined highlights-midtones-shadows pipeline, boosted saturation and gain, and ACES tone mapping for a cinematic, high-dynamic-range look that avoids blown-out whites or muddy shadows. A tuned white balance keeps warm light feeling warm and cool night skies feeling appropriately cool.
+
+Despite all these enhancements, YG Fantasy Shader is built to stay performance-friendly. It uses Minecraft Bedrock's native Vibrant Visuals configuration system rather than heavy custom shader code, meaning it runs efficiently on a wide range of devices, including many mobile and console setups, without the frame-rate cost of traditional shader packs.
+
+Whether you're exploring a lush jungle at dawn, mining through glowing deepslate caverns, or watching a violet aurora roll over the night sky above your base, YG Fantasy Shader is designed to make every moment in your world feel like a page out of an epic fantasy story. Grab your torch, watch the horizon catch fire at dawn, and see Minecraft Bedrock the way it was always meant to glow.
+
+Credits:
+
+- Created & Enhanced by: yogamerzyt
+
+- Lighting engine: RenderDragon Vibrant Visuals
+
+- Pack type: Resource pack (.mcpack)
+
+- Compatible with: Minecraft Bedrock 1.21.80+
+
+- Version: 1.2.0
+
+Installation
+
+- Download the .mcpack file
+
+- Open to import into Minecraft
+
+- Enable Epic Fantasy Visuals in Global Resources
+
+- Turn on Vibrant Visuals in Video Settings

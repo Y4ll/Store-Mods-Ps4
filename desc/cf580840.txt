@@ -1,0 +1,1 @@
+This pack removes the annoying text that displays on the top of the screen while playing on a preview/beta version of Minecraft!

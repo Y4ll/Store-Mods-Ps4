@@ -1,0 +1,31 @@
+Instant Auto-Smelt (QoL Addon)
+
+Tired of waiting around your furnaces?
+
+Every Minecraft player knows the grind: you spend hours deep in the caves collecting raw iron and gold, only to return to your base, fill up a wall of furnaces, and wait even longer just to craft your gear. It consumes time, eats up your precious coal, and breaks the flow of your adventure.
+
+The Instant Auto-Smelt Mod completely eliminates the middleman. Now, whenever you break a smeltable block, it instantly drops its fully processed, smelted form right in front of you!
+
+Why You Need This Mod
+
+-
+
+Instant Gratification: Raw Iron Ore, Gold Ore, and Copper Ore (including all Deepslate variants) drop pure Ingots the exact second your pickaxe breaks them.
+
+- Saves Fuel & Time: Never waste your coal, charcoal, or lava buckets on basic smelting ever again. Keep your fuel for cooking food!
+
+- More Than Just Ores: The auto-smelting magic extends to other tedious blocks. Instantly mine Ancient Debris into Netherite Scrap, Sand into Glass, Clay into Bricks, and Cactus into Green Dye.
+
+- Highly Immersive: Designed to feel like a natural part of the game. Every auto-smelted block triggers a satisfying fiery particle burst and a crisp furnace sound effect.
+
+100% Achievement Friendly
+
+Want to speed up your mining trips without being penalized? You're in luck. This script is completely Achievement Friendly, meaning you can enjoy all the massive quality-of-life benefits of auto-smelting while continuing to unlock Xbox Live / PlayStation trophies in your survival world!
+
+Stable & Future-Proof (No Beta APIs)
+
+Say goodbye to constant game updates breaking your world. This mod was coded using standard, officially released Minecraft Scripting modules.
+
+- Zero Beta APIs Required: There is absolutely no need to toggle risky experimental features in your world settings. Just install the pack, load your world, and start swinging your pickaxe.
+
+- Performance Optimized: Clean code ensures zero lag, even when mining huge veins of ore.

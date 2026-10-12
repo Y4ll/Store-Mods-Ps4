@@ -1,0 +1,161 @@
+TC X-Ray
+
+TC X-Ray is an advanced survival-friendly X-Ray vision radar addon for Minecraft Bedrock Edition. It reveals concealed ores, hidden dungeons, monster spawners, trial chambers, and buried treasure vaults through solid terrain using customizable 3D highlight wireframes, directional laser beams, and distance holograms.
+
+Video Showcase and Preview
+
+Watch the showcase video:
+
+Crafting Recipes and Items
+
+1. Basic X-Ray Glasses
+
+A lightweight early-game visor that highlights a single connected ore vein cluster through walls.
+
+Crafting Grid (3x3):
+
+Top Left
+Top Center
+Top Right
+
+Copper Ingot
+(Empty)
+Copper Ingot
+
+Amethyst Shard
+Copper Ingot
+Amethyst Shard
+
+(Empty)
+(Empty)
+(Empty)
+
+How to Use:
+
+- Right-click (or tap interact on mobile) while holding the item to equip it onto your head.
+
+- While equipped on your head, press [Sneak + Jump] to open the Ore Sacrifice Menu.
+
+- Sacrifice 1 target ore to reveal and highlight that nearest ore vein cluster for 5 minutes.
+
+2. Ore Compass
+
+An intelligent directional locator projecting a 3D laser guide beam through solid blocks directly to hidden ores.
+
+Crafting Grid (3x3):
+
+Top Left
+Top Center
+Top Right
+
+(Empty)
+Copper Ingot
+(Empty)
+
+Amethyst Shard
+Compass
+Amethyst Shard
+
+(Empty)
+Copper Ingot
+(Empty)
+
+How to Use:
+
+- Right-click (or tap interact on mobile) while holding the Ore Compass to open its tracking dashboard.
+
+- Sacrifice 1 target ore to begin a 5-minute tracking session.
+
+- A luminous laser beam connects from the hidden ore directly to your feet, staying active even while you mine with your pickaxe.
+
+- Synchronized Targeting: When using both the Ore Compass and Basic Glasses on the same ore type, both tools automatically synchronize and guide you to the exact same vein.
+
+3. Endgame X-Ray Glasses
+
+The ultimate mining headset with full 360-degree multi-ore radar, customizable filters, and anti-lag culling.
+
+Crafting Grid (3x3):
+
+Top Left
+Top Center
+Top Right
+
+Diamond
+Echo Shard
+Diamond
+
+(Empty)
+Basic X-Ray Glasses
+(Empty)
+
+(Empty)
+Nether Star
+(Empty)
+
+How to Use:
+
+- Right-click (or tap interact on mobile) while holding the item to equip it onto your head.
+
+- While equipped on your head, press [Sneak + Jump] to open the full X-Ray Configuration Dashboard.
+
+- Toggle X-Ray vision ON or OFF directly via the main menu toggle button.
+
+4. Mob Tracker
+
+An advanced bio-locator instrument projecting a real-time 3D laser guide beam directly through terrain to any designated mob.
+
+Crafting Grid (3x3):
+
+Top Left
+Top Center
+Top Right
+
+(Empty)
+Ender Eye
+(Empty)
+
+Diamond
+Compass
+Diamond
+
+(Empty)
+Gold Ingot
+(Empty)
+
+How to Use:
+
+- Right-click (or tap interact on mobile) while holding the Mob Tracker to open the search modal.
+
+- Enter any mob name/ID in the text box or choose quickly from over 75 categorized Minecraft mobs.
+
+- Consumes 1 Diamond only when a matching mob is successfully located in your render distance (1024 blocks). If no matching mob is found, your Diamond is preserved.
+
+- Projects a real-time laser beam tracking the mob's exact location through solid blocks for 10 minutes.
+
+- Auto-Retargeting: When the targeted mob is eliminated or despawns, the tracker automatically locks onto the next nearest mob of the same type.
+
+- Hand-Free Navigation: Keeps tracking actively even when switching items to weapons or tools.
+
+How to Access the Menu and Controls
+
+You can open the configuration dashboard and choose your scanning profiles in two different ways:
+
+Method 1: Using In-Game Items (No Chat Required)
+
+- Basic Glasses: Equip on head, then press [Sneak + Jump].
+
+- Ore Compass: Right-click / interact while holding the item.
+
+- Endgame Glasses: Equip on head, then press [Sneak + Jump].
+
+- Mob Tracker: Right-click / interact while holding the item.
+
+Method 2: Using Commands
+
+Type the custom command in chat:
+
+- /tc:xray: Opens the main settings dashboard.
+
+- /tc:xray toggle: Quickly toggles the radar ON or OFF without opening the menu.
+
+- /tc:xray unequip: Instantly unequips the glasses and ret

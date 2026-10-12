@@ -1,0 +1,51 @@
+Realismo Graphics is back but now with new features that add more realism to Minecraft, the best of all is that it does not affect performance at all so you should not worry about that.
+
+Realismo Graphics - Mode Nostalgia
+
+- Ilumination
+
+- Sunset
+
+- Day
+
+- Night
+
+Realismo Graphics - Mode Vibrant
+
+- Ilumination
+
+- Day
+
+- Sunset
+
+- Night
+
+Notes
+
+- This is not a shader.
+
+- This package is one of the most realistic and similar to the shaders you will see in mcpedl.
+
+- It can be used in any version of Minecraft, whether beta, official or patched apk.
+
+- This package is compatible with low-resource devices and the RenderDragon graphics engine.
+
+- Please, if you share this package, let it be the mcpedl link, so you would support me to continue with this project.
+
+- It is possible that this resource pack has any, if so, please report the bug to me on my Discord.
+
+- Please, if you share this package, let it be the mcpedl link, so you would support me to continue with this project.
+
+- If you need to use a resource from this package, credit me :)
+
+- It is forbidden to distribute this texture pack with modifications in the code.
+
+- This package has two modes, one by default and the other with plant movement for more realism.
+
+- Blooming effect on some bright, illuminated blocks.
+
+- Realistic water texture.
+
+- This package includes shader-like lighting effects.
+
+If you want to have better quality content, I invite you to donate your grain of sand.

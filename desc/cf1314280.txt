@@ -1,0 +1,9 @@
+This Lamborghini model is an experimental model meant to explore the boundaries of cube style modeling while maintaining the ability to use standard texture styling. This Add-On is well optimized, using only one physical model with simple texture replacement variations, making the total cube count in game under 150. Thank you to JannisX11 for entity wizard base vehicle code. Each car does fit one passenger and one driver, and the speed is low enough to be controlled on mobile easily.
+
+SOUNDS ARE NOW ADDED TO MAKE THIS ADDON UP TO DATE WITH CURRENT ADDONS
+
+Huge Thank you to sk8torad3 for animation assistance.
+
+There are seven car options, four of which are the different color Huracan LP610-4s:
+
+Alongside the four LP610-4 Huracans, there are three Huracan Performante options:

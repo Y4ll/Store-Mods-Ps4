@@ -1,0 +1,41 @@
+Infinity Visuals is a Vibrant Visuals pack for Minecraft Bedrock latest version to provide you all with a immersive visuals exprience, PBR, reflections, new caustics, new water, new lightning and alot more!!!
+
+Check out our latest Eternity Shader Deferred for Vibrant Visuals:-
+
+Screenshots (Cubemap Enabled):-
+
+Screenshots (Cubemap Disabled):-
+
+Updated Version V1.1:-
+
+Features:-
+
+- New cubemap [Subpack]
+
+- Different tonemap
+
+- Biome Colors fix
+
+- New Water
+
+- Default PBR Textures
+
+- New Atmosphere Colour
+
+- Night color new
+
+- New Sun Path
+
+- New Caustics
+
+- New Volumetric Fog
+
+- New Sun Texture
+
+- New Moon texture
+
+- New point light json with colours
+
+- And ALOT MORE!!
+
+Our Discord:- Join!

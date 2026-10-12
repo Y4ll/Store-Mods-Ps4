@@ -1,0 +1,17 @@
+Noite Produtiva makes sleeping actually useful.
+
+Normally, when you sleep in Minecraft, the night simply skips ahead. With this mod, that skipped time now affects the world around you too.
+
+While you sleep:
+
+- Crops continue growing
+
+- Saplings keep progressing
+
+- Furnaces continue smelting
+
+- Smokers and blast furnaces keep working
+
+So instead of waking up to a world that feels frozen in time, your farms and machines actually make progress during the night.
+
+The goal is simple: make sleeping feel like real time has passed, without changing the core Minecraft experience.

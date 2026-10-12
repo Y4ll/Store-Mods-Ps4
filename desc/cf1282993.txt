@@ -1,0 +1,21 @@
+This skin pack further develops what we had in the first skin pack, which only comprised Fallout 1 premade characters and a few more.
+
+Comparison between Nora and Nate to their skins:
+
+Color palette update:
+
+A brief showcase of the remnant skins from the pack:
+
+Credits:
+
+- Ewan Howell: Part of the miniature's title was made using his blockbench plugin, intended for the creation of Minecraft-style titles.
+
+- The team behind Blockbench: For the inclusion of versatile tools, including previews for models, which helped to showcase the skins above.
+
+- The Spriters Resource: This was the source for the required sprites from Fallout 1.
+
+- Maximus Decimus Meridius: Through the use of 2 of his videos from YouTube, it was possible to recreate the premade character's looks from reference images.
+
+https://www.youtube.com/watch?v=ct377XyAJyw
+
+https://www.youtube.com/watch?v=msIl-FUPMcc

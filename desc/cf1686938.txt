@@ -1,0 +1,27 @@
+Welcome to the Extra Orbital Railgun Epic Addon!
+
+This addon introduces a powerful, futuristic warfare weapon directly into your Minecraft Bedrock Edition world. If you are looking for an ultimate weapon to defeat bosses or clear out large groups of mobs instantly, this railgun is designed perfectly for you.
+
+[Key Features]
+
+- Advanced Scientific Weapon: Adds a craftable and highly detailed Orbital Railgun model.
+
+- Massive Destruction: Fires a high-powered kinetic energy blast that deals extreme damage to targets.
+
+- Custom Visual Effects: Features unique laser charging animations, custom particles, and sound effects upon firing.
+
+- Survival Ready: Can be used in both Creative mode and Survival mode for defending your base.
+
+[How to Play & Operate]
+
+1. Obtain the Orbital Railgun from the creative inventory or craft it using materials.
+
+2. Equip the weapon in your main hand.
+
+3. Hold down the right-click button (or long-press on mobile devices) to start charging the core battery.
+
+4. Release or complete the charge to unleash a devastating laser beam toward your crosshair!
+
+Enjoy the ultimate power of the railgun and dominate your
+
+Minecraft world!

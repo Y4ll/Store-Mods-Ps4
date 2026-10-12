@@ -1,0 +1,61 @@
+Discord
+
+AD FPS Booster (REMADE)
+
+AD FPS Booster is a resource pack for Minecraft Bedrock Edition built to improve performance on all devices.
+Whether you play on a phone, tablet, console, or low-end PC, this pack helps deliver higher FPS, smoother gameplay, and a more stable experience.
+
+Performance & Optimization Core Highlights:
+
+- Texture Optimization: Introduced a new texture management system that automatically balances visual fidelity with performance, ensuring you get the best look for your hardware without the lag.
+
+- Optimized Models & Leaves: Replaced standard complex models with new, lightweight alternativesincluding simplified leaf renderingto provide an immediate and noticeable boost to FPS.
+
+- Terrain Optimization: Overhauled terrain rendering logic to improve chunk loading speeds and reduce CPU overhead when traversing the world.
+
+- Smart AI Particles Reduction(Beta State): Implemented a smarter particle culling system. Unnecessary or non-visible particles are now dynamically reduced, slashing render times without making the game feel empty.
+
+- Visuals Optimization(Beta stage): Streamlined core visual shaders and materials. We've cut down on unneeded rendering calculations, achieving higher base FPS numbers while preserving the pack's signature look.
+
+- UI Optimization: Improved the performance of UI elements and forms. Navigating menus and interacting with the game interface is now snappier, more responsive, and consumes less memory.
+
+Performance Gains
+
+- Low-end devices: Up to +70% FPS
+
+- Mid-range devices: Around +3040% FPS
+
+- High-end devices: Stable frame rates and fewer stutters
+
+Actual results depend on your device and world size
+
+How to Install
+
+- Download the .mcpack file
+
+- Open it with Minecraft Bedrock Edition
+
+- Go to Settings Global Resources and apply the pack
+
+- Restart Minecraft for best results
+
+Supported Platforms
+
+- Android / iOS
+
+- Windows 10 & 11 (Bedrock)
+
+- Xbox / PlayStation (via file import)
+
+Credits
+
+- Creator: BUDGETGAMER1503
+
+- Studio: EchoCore Studio
+
+- Blog: budgetgamer1503.blogspot.com
+
+Found a bug or want to suggest a feature?
+Report it here
+
+Enjoy smoother gameplay with AD FPS Booster V3.0!

@@ -1,0 +1,68 @@
+Smart Crop Growth Addon Sneak Boost Farming System for Minecraft Bedrock 1.21+
+
+Smart Crop Growth Addon is a lightweight Minecraft Bedrock survival utility addon that introduces an automatic crop acceleration system triggered by player movement. By simply sneaking near crops, players can stimulate nearby plants to grow naturally, creating a magical farming experience that feels powerful while remaining fully balanced for survival gameplay.
+
+If you are looking for a Minecraft Bedrock crop growth addon, farming helper mod, bone meal alternative, or survival agriculture utility, this addon is designed to improve farming efficiency without breaking immersion or server balance.
+
+What This Crop Growth Addon Does
+When a player starts sneaking, the addon scans a small area around them.
+Nearby crops with valid growth stages have a chance to advance by one stage.
+Growth is applied naturally using block states instead of replacing blocks.
+Only real growable crops are affected, while unsafe or non crop blocks are ignored.
+
+Intelligent Crop Detection
+The system dynamically detects crop growth states such as age, growth, or stage.
+Works with vanilla crops and most custom crops that use standard Bedrock growth components.
+Excludes blocks like fire, kelp, vines, and special blocks to prevent glitches.
+Automatically stops when a crop reaches its maximum growth stage.
+
+Visual Feedback
+Classic green villager happy particles appear when a crop grows.
+Players receive clear visual confirmation of successful growth.
+The effect feels similar to magical fertilization without using bone meal.
+
+Balanced Growth Logic
+Growth chance is randomized for each crop to prevent instant full farms.
+Works in a short radius around the player for natural progression.
+Triggers only when the player begins sneaking, not every tick of movement.
+Prevents farming abuse while still saving time and effort.
+
+Performance Optimized and Server Safe
+Uses a small scan radius for low CPU usage.
+No block replacement or chunk editing.
+No heavy loops or constant global scans.
+Safe for SMP servers and Realms.
+Script based system with no resource pack dependency.
+
+How to Use
+Join the world with the addon installed.
+Plant crops as normal.
+Sneak near your farm to activate growth.
+Watch nearby crops grow over time.
+Harvest and repeat for efficient farming.
+
+Best For
+Survival worlds
+SMP and Realm servers
+Farming focused gameplay
+Skyblock style worlds
+Vanilla plus experiences
+Roleplay and magic themed packs
+
+Compatibility
+Minecraft Bedrock Edition
+need beta api to work
+Script based addon
+No texture or resource pack required
+Works in singleplayer and multiplayer
+
+SEO Keywords Hidden but Powerful
+Minecraft Bedrock crop growth addon, farming helper mod, sneak grow crops addon, automatic farming Bedrock, survival agriculture mod, bone meal alternative addon, grow crops faster Minecraft Bedrock, smart farming system, SMP farming addon, realm compatible farming mod, Bedrock Edition script addon, Minecraft 1.21 farming utility, crop accelerator mod, vanilla plus farming addon, magic farming system, no command farming mod, cooperative farming addon, custom crop support Bedrock
+
+Why Choose Smart Crop Growth Addon
+Natural growth without cheats
+Sneak based activation system
+Works with vanilla and custom crops
+Visual feedback with particles
+Optimized for servers and survival gameplay
+Perfect balance between power and immersion

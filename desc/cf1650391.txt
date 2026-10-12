@@ -1,0 +1,63 @@
+Stack Massive v1.1 - Actualizacion de la interfaz de usuario
+
+Creado por xzMellizo | Edicion Bedrock de Minecraft
+
+Lleva mas peso. Construye durante mas tiempo. Dedica menos tiempo a gestionar pilas.
+
+Stack Massive mantiene tu inventario organizado combinando articulos compatibles en una pila fisica utilizable, respaldada por una reserva guardada. Almacena hasta 1.000.000 de articulos por tipo o variante compatible , sin llenar tu inventario con pilas del mismo material.
+
+No se requieren bloques de almacenamiento especiales, menus de almacenamiento ni herramientas personalizadas para el uso diario. Recoge recursos, coloca bloques y usa los objetos compatibles con normalidad.
+
+Como funciona
+
+Minecraft sigue gestionando los objetos fisicos dentro de sus limites de apilamiento habituales. Stack Massive almacena la cantidad adicional en una reserva y repone la pila fisica cuando se agota.
+
+Por ejemplo, con 2.000 tablones de roble:
+
+- Aun quedan hasta 64 disponibles basicamente.
+
+- Los 1.936 restantes se mantienen en reserva.
+
+- El total mostrado incluye ambos: 2.000 tablones.
+
+- Colocar una tabla reduce el total en uno.
+
+- Cuando se agota la pila fisica, se suministra otra pila a partir de la reserva restante.
+
+Los elementos compatibles con limites de apilamiento nativos mas pequenos conservan dichos limites. Un elemento que normalmente se apila en una unidad utiliza un solo elemento fisico a la vez, y el resto se mantiene en reserva.
+
+Se trata de un sistema de almacenamiento de gran capacidad, no de un generador de objetos ilimitado. El uso de objetos consume tu suministro. El limite gestionado es de un millon por tipo o variante compatible.
+
+Lectura de su recuento de articulos
+
+Selecciona un objeto gestionado para ver su nombre de Minecraft, con el total debajo. Los recuentos se abrevian para facilitar la lectura, por ejemplo, x647 , x1.5k o x15k . La informacion emergente del inventario tambien muestra el total exacto.
+
+Los nombres de los objetos utilizan la localizacion propia de Minecraft y se ajustan a la configuracion de idioma del jugador. Esto se aplica a los nombres de los objetos, no a todos los mensajes de los complementos: algunos mensajes de estado y etiquetas de informacion emergente estan actualmente en espanol.
+
+Por que sigue mostrando 64 el contador de ranuras? Ese es el numero de pilas fisicas. El total mayor aparece por separado encima de la barra de acceso rapido. Esta version estable no reemplaza el contador de ranuras nativo de Minecraft.
+
+Articulos compatibles
+
+Los bloques y objetos apilables comunes son compatibles siempre que superan las comprobaciones de compatibilidad del complemento. Las categorias adicionales compatibles incluyen:
+
+- Totems de la Inmortalidad.
+
+- Camas separadas por color.
+
+- Pociones, separadas por efecto y variante.
+
+- Embarcaciones, clasificadas por tipo de madera, incluidas las que tienen cofres.
+
+- Vagonetas, clasificadas por tipo, incluyendo variantes con soporte para cofres, tolvas y TNT.
+
+- Cubos, separados segun su contenido.
+
+Las camas rojas y las camas azules tienen reservas separadas. Los diferentes efectos de las pociones, los materiales para barcos y el contenido de los cubos permanecen distintos.
+
+No todos los objetos son compatibles. Se excluyen armas, herramientas, armaduras comunes, pedernal y acero, armaduras de lobo, huevos de aparicion, objetos encantados y objetos con nombres o trasfondos personalizados no relacionados para proteger sus datos. No se garantiza la compatibilidad con objetos personalizados de otros complementos.
+
+Uso cotidiano para la supervivencia
+
+Tras activar ambos paquetes, recoja los articulos elegibles de forma habitual. Los articulos coincidentes se consolidan automaticamente. La pila fisica permanece utilizable y la reserva proporciona reemplazos cuando se agota.
+
+Al soltar o transferir una cantidad fisica, se mueve esa cantidad, no la reserva completa. Al recoger los objetos sueltos que cumplen los requisitos, su cantidad se reincorpora a s

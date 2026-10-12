@@ -1,0 +1,80 @@
+Explore the past, one era at a time!
+
+Gates of Mythos is an add-on that lets you open portals to dimensions inspired by different historical cultures and mythologies of the past.
+
+Each portal leads to its own world, with unique environments, creatures, bosses, structures, materials, weapons, armor, and challenges to discover.
+
+The currently available dimension is Kemet, inspired by Ancient Egypt and its mythology.
+
+Open the Gate
+
+To access Kemet, simply creating a portal frame is not enough.
+You must build a ritual obelisk in the overworld using specially crafted sandstone blocks and activate it with the Eye of Horus.
+
+Once completed, the obelisk opens the path to Kemet.
+
+Obelisk Materials:
+
+Sandstone Obelisk Block:
+
+Sandstone Obelisk Tip:
+
+Sandstone Obelisk Core:
+
+Eye of Horus:
+
+New Creatures
+
+Kemet is inhabited by creatures inspired by the fauna and mythology associated with Ancient Egypt.
+
+Youll encounter:
+
+- Mummies: Hostile creatures roaming the desert
+
+- Giant Mummies: Stronger variants capable of pushing players back.
+
+- Cobras: dangerous snakes whose bites inflict poison.
+
+- Soul Jackals: spirits in the service of Anubis that attack in packs.
+
+- Nile Crocodiles: powerful creatures that can be tamed using the Relic of Sobek.
+
+- Jackals: gregarious animals that can be befriended and tamed.
+
+- Hippos: inhabitants of the Nile.
+
+- Falcons: birds that soar over the desert.
+
+- Ammit: This powerful goddess dwells in the Nile River in search of the Duat. Defeat her to obtain her skin and craft armor and a powerful battle hammer.
+
+- Anubis: The final boss of Kemet, Anubis has extremely powerful attacks worthy of an epic final battle. Find him and defeat him to obtain his staff and armor!
+
+Some creatures are still in development and will receive additional behaviors, interactions, and loot in future updates.
+
+Epic Armor
+
+It's your turn to discover the whole world!
+
+Oasis:
+
+Sand Dunes:
+
+Desert & sandstorm!
+
+New Food:
+
+Important: This add-on is inspired by various cultures and historical periods, but it is not intended to be a completely accurate historical recreation.
+
+Some elements, behaviors, or cultural details may have been adapted or fictionalized to enhance gameplay. We do not intend to disrespect the cultures depicted, and we will continue to improve the expansion as it is developed. :D
+
+Note: The add-on is still in a very early stage, so there may be sudden changes in the future. If you find any errors or bugs, please let us know on our social media so we can improve the experience.
+
+- Doesn't require experimental games!!!
+
+What's next?
+- Add villages with merchants
+- Add dungeons and structures
+- Add more functionality to existing creatures & items
+- New biomes
+
+Do you have any suggestions? Let us know here, we'll take any suggestions into account!

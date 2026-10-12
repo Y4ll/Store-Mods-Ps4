@@ -1,0 +1,117 @@
+From Da Fog is a horror Addon that masterfully integrates the classic creepypasta legend of Herobrine into the Minecraft Bedrock experience. This is more than a simple mini boss fight; it is an immersive mod that turns your survival world into a terrifying cat-and-mouse game, where you are constantly stalked by the legendary figure.
+
+The mod meticulously recreates the subtle, yet terrifying, interactions associated with the original legend, transforming the game into a canvas of haunting mystery.
+
+This Addon introduces a wide array of subtle and overt changes to your game world.
+
+1. Herobrine AI & Sightings
+
+-
+
+Constant Stalking: Herobrine is always present and watching from a distance, the shadows, or deep within caves.
+
+-
+
+Configurable Presence: His activity and features can be adjusted via a custom configuration/settings item.
+
+-
+
+Sudden Scares: He can perform jumpscares if you accidentally run into him, which can be configured to crash your game (off by default).
+
+-
+
+Ghost Miner: Herobrine will mine tunnels around you, often appearing in strip mines or on the surface near your location.(only sound)
+
+2. World Manipulation & Environmental Changes
+
+-
+
+Sinister Structures: Herobrine can build ominous structures in your world, including pyramids or glowstone letter formations.
+
+-
+
+Signatures: He has a tendency to leave ominous signs or replace your regular torches with redstone ones and lanterns with soul lanterns (Crimson Curse).
+
+-
+
+Leafless Groves: Areas he has visited will sometimes have the leaves removed from trees.
+
+-
+
+Resource Interference: Herobrine can douse the flames on candles or steal your torches when you are not nearby (Disappearing Torches).
+
+3. Player & Mob Interactions
+
+-
+
+Haunted Herd: Herobrine may possess common passive mobs (like cows, pigs, or sheep) to help him blend in with the environment, which is confirmed by the files modifying these entities.
+
+-
+
+No Sleep: He can prevent you from sleeping when he is nearby, interrupting the night cycle (does not work on Peaceful difficulty).
+
+-
+
+Subtle Messages: Herobrine can slip spooky messages into your game subtitles (Caution Caption).
+
+-
+
+Dreadful Donations: He will occasionally leave unsettling "gifts" inside your chests.
+
+-
+
+Impact on User Experience
+
+The features of this Addon fundamentally change the way you interact with and perceive your Minecraft world:
+
+-
+
+Horror/Tension: Herobrine's constant presence (lurking from behind you, in the distance, etc.) creates persistent psychological tension, ensuring the player is never truly safe and must always check their surroundings.
+
+-
+
+Survival: The No Sleep feature and Sneaky Strike (hitting you if you ignore him too long) force the player to actively survive the night, adding significant difficulty to the early game.
+
+-
+
+Exploration: The unexplained Structures and environmental damage (like Burning Base and Leafless Groves) create a mystery that encourages players to explore and uncover signs of Herobrine's movements, driving the adventure forward.
+
+-
+
+Immersion: The Haunted Herd and Sinister Signs blur the line between the game and the legend, making the environment feel corrupted and leading the player to question every normal element of their world.
+
+INSTALLATION AND REQUIREMENTS
+
+-
+
+Platform: This is a Minecraft Bedrock Addon designed for use on all Bedrock-supported platforms (PC, Xbox, PlayStation, Switch, Mobile).
+
+-
+
+Installation: Simply download the FromtheFog.mcaddon file. Opening the file will automatically import both the behavior pack and the required resource pack into your game.
+
+-
+
+ESSENTIAL EXPERIMENTAL FEATURES
+
+For this Addon to function correctly, you MUST enable the following Experimental Gameplay toggles when creating your world. Failure to do so will result in the Addon not loading or Herobrine not appearing:
+
+-
+
+Holiday Creator Features\
+
+-
+
+Beta APIs (or "Molang features")
+
+-
+
+Gametest Framework
+
+-
+
+Additional Modding Capabilities
+
+-
+
+Upcoming Creator Features (It is recommended to tur

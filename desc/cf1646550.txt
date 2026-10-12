@@ -1,0 +1,49 @@
+Lynx Ultimate Essential+
+
+The all-in-one survival essentials addon four quality-of-life features, one simple settings menu.
+
+Overview
+
+Lynx Ultimate Essential+ streamlines everyday survival gameplay by automating repetitive tasks like farming, mining, and woodcutting. Every feature can be toggled on or off independently through an in-game GUI, so you can customize the experience to fit your world.
+
+Features
+
+Auto Replant Instantly replants crops the moment they're harvested at full maturity. Covers wheat, carrots, potatoes, beetroot, nether wart, sweet berries, cocoa, torchflower, and pitcher plants.
+
+Vein Miner Sneak while mining a supported ore to chain-mine the entire connected vein in one go (capped at 64 blocks per action to prevent lag).
+
+Auto Ore Smelter Mining an ore instantly yields its smelted result (e.g. Iron Ore Iron Ingot) instead of the raw drop no furnace required.
+
+Tree Capitator Chop one log with an axe while sneaking, and the entire tree falls at once (up to 128 logs per tree).
+
+Fully Vanilla-Compatible Mechanics
+
+All features respect vanilla enchantments and tool behavior:
+
+Fortune increases item yield per block mined.
+
+Silk Touch always drops the block itself, exactly like vanilla and takes priority over Ore Smelter.
+
+Unbreaking reduces the chance of durability loss, matching vanilla probabilities.
+
+Experience orbs drop accurately based on vanilla XP rules.
+
+Settings Menu
+
+Open the settings menu anytime with:
+
+/esse:settings a proper slash command with autocomplete
+
+/scriptevent esse:settings alternate trigger, kept for compatibility
+
+From the menu, toggle each of the four features on or off independently. Settings are saved as world data, so they persist across restarts and apply to every player on the world/server.
+
+Requirements
+
+Minecraft Bedrock Edition 1.26.0 or later
+
+No experimental toggles required built entirely on the stable Script API, so it works out of the box on any world, server, or Realm.
+
+Compatibility
+
+Designed to run alongside other behavior packs with minimal conflict features only activate on their specific triggers (sneaking, tool type, block type) and can be disabled individually if you'd rather use another addon for a particular mechanic.

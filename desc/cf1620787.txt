@@ -1,0 +1,7 @@
+-Arvex Verity
+
+-Arvex Ball
+
+-Arvex Ball Inventory
+
+-Requires: ThatMob's Verity Addon

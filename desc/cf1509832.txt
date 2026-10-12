@@ -1,0 +1,60 @@
+Better Flight System adds a smooth and immersive flying experience to Minecraft Bedrock using Elytra.
+
+This addon introduces a barrel roll-style camera system that makes flying feel more dynamic and realistic. Instead of normal straight gliding, the camera slightly tilts based on your movement, creating a better sense of motion.
+
+What's New? (v2.0)
+
+Camera Improvements
+- Completely reworked flight camera.
+- Much smoother camera movement.
+- Improved banking effect while turning.
+- Better camera follow with reduced jitter.
+- Camera orbit effect for a more cinematic flight experience.
+
+Flight Experience
+- Added speed-based camera distance for a stronger sense of speed.
+- Improved dive and pull-up camera behavior.
+- Better camera recovery after sharp turns.
+- More natural flight feeling.
+
+Performance
+- Optimized camera calculations.
+- Improved camera interpolation.
+- Better multiplayer compatibility.
+- Reduced unnecessary camera updates.
+
+Fixes
+- Fixed camera spinning when crossing 180 yaw.
+- Improved angle interpolation.
+- Fixed several camera stability issues.
+- General bug fixes and code cleanup.
+
+(SHOWCASE v2.0)
+
+(SHOWCASE)
+
+Features:
+- Smooth camera tilt while flying
+- Speed-based FOV effect
+- More immersive Elytra control
+- Lightweight and performance friendly
+
+How to Use:
+1. Equip Elytra
+2. Jump and start gliding
+3. Move left and right to feel the tilt effect
+
+Note:
+- This addon does not add real 360 barrel roll due to engine limitations
+- It creates a realistic illusion using camera movement
+
+Works on:
+- Minecraft Bedrock Edition (Windows / Android)
+
+Installation:
+1. Download the .mcaddon file
+2. Open it with Minecraft
+3. Activate Behavior Pack & Resource Pack
+4. Enable Experimental Features
+
+Enjoy a new flying experience!

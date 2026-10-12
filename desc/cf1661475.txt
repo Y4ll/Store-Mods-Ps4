@@ -1,0 +1,29 @@
+This Minecraft Bedrock script adds functional Portal Gun mechanics inspired by the Portal series to the game
+
+Key Features:
+
+Dual Portal Guns: Shoot blue and orange projectiles to create linked portals on walls, floors, or ceilings
+
+Momentum Teleportation: Instantly teleports players and entities between active portals while preserving velocity, impulse, and rotation.
+
+Long Fall Boots: Special boots detect high-velocity falls and dynamically grant resistance right before impact to eliminate fall damage
+
+Smart Validation & Cleanup: Automatically checks for valid air space before placing portals, cleans up orphaned entities on player respawn or disconnect, and features custom audio and HUD elements
+
+Infinite Fall!
+
+Can tp entities!
+
+You can change portals with Shift!
+
+Place portal to the moon!
+
+You have options to choose where you can land portals!
+
+Long fall boots!
+
+You can see portals through blocks!
+
+It is craftable!
+
+You can place portals everywhere && Play with your friends!

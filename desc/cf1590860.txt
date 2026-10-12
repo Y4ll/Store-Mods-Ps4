@@ -1,0 +1,39 @@
+Why spend all your time mining when you can grow your own ores? Ore Crops adds new crops that let you farm different resources just like normal Minecraft crops. Plant the seeds on farmland, let them grow, and harvest ores directly from your farm.
+
+How to Get Started
+
+Craft the different ore seeds at a Crafting Table by combining 1 Wheat Seed with the matching ore, ingot, or gem. For example, combine Wheat Seeds with a Diamond to make Diamond Seeds. Plant the seeds on farmland and let them grow.
+
+Available Ore Crops
+
+- Coal
+
+- Copper
+
+- Iron
+
+- Gold
+
+- Redstone
+
+- Lapis Lazuli
+
+- Quartz
+
+- Diamond
+
+- Emerald
+
+- Netherite - The rarest crop, with slower growth and lower yields.
+
+How It Works
+
+- Each crop has 4 growth stages and grows over time.
+
+- Use Bone Meal to speed up the growth, just like normal crops.
+
+- Breaking a fully grown crop gives you 1 to 3 of its matching ore along with seeds for replanting.
+
+- Netherite crops take longer to grow and are harder to grow with Bone Meal to keep them more balanced.
+
+Having any issues with my mods or found a bug? Or do you have an idea for a mod you would like me to make? Join my Discord server and let me know. I'm active there regularly and would love to hear your feedback, suggestions, and ideas.

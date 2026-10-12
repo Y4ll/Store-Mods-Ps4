@@ -1,0 +1,91 @@
+A legendary blade forged at the boundary between dimensions, channeling the raw power of pure nothingness. Unlike ordinary weapons every skill demands patience and precise timing, making true mastery genuinely rewarding.
+
+Review:
+
+Blockbench:
+
+Ingame:
+
+KATANA OF THE VOID Update 2.0
+
+3 new skills have been added to the Katana of the Void, bringing the total to 9 skills + 1 passive ability. All existing skills remain unchanged.
+
+NEW: Void Prison Crouch 4s release crouch crouch again
+
+Summons void chains that imprison all enemies within 6 blocks. Deals 10 damage and applies Slowness V, Weakness II, and Mining Fatigue V for 5 seconds. Each imprisoned enemy is surrounded by particle cage rings. Best used to lock down groups before following up with Void Slash or Domain of Void.
+
+NEW: Void Collapse Hold 15s Right Click
+
+Unleashes a massive void shockwave in a 12-block radius. Deals 25 damage to all nearby enemies, launches them outward with heavy knockback, and inflicts Levitation for 3 seconds. An expanding ring of particles radiates outward from the caster on activation. Previously, right-clicking while the void was charged was locked it now triggers this skill instead.
+
+NEW: Soul Harvest Passive (triggers on kill)
+
+When you kill any entity while holding the Katana of the Void, you instantly recover 3 hearts and gain Absorption I for 4 seconds. No input required the soul of every fallen enemy fuels your next fight.
+
+Full skill list as of v2.0:
+
+Right Click Void Slash: 12 damage, 5-block AoE
+
+Hold 15s (auto) Void Charge: Strength II, Speed II, Haste II for 10s
+
+Hold 15s + Jump Void Ascension: launch skyward, slam down for 18 damage in 8-block radius
+
+Hold 15s + Crouch Domain of Void: 12 expanding waves, 6 damage each, Wither II + Slowness on all hit
+
+Hold 15s + Right Click Void Collapse (NEW): 25 damage, 12-block AoE, Levitation 3s
+
+Crouch 4s (auto) Shadow Stance: Invisibility, Speed III, Jump Boost II for 10s
+
+Crouch 4s + Jump Phantom Leap: teleport behind nearest enemy within 25 blocks, 22 damage, Blindness 3s
+
+Crouch 4s + release + Crouch Void Prison (NEW): 10 damage, Slowness V, root for 5s in 6-block radius
+
+On Kill (passive) Soul Harvest (NEW): restore 3 hearts, Absorption I for 4s
+
+SKILLS
+
+Void Charge
+
+Input: Hold the item for 15 seconds
+
+Channel void energy for 15 uninterrupted seconds without crouching or jumping. Upon completion, the blade erupts in a spiral of violet particles granting Strength II, Speed II, and Haste II for 10 seconds.
+
+Effects: Strength II Speed II Haste II 10s Duration
+
+Shadow Stance
+
+Input: Crouch for 4 seconds
+
+Hold a crouching position for 4 seconds while gripping the katana. The blade dissolves into shadow granting Invisibility, Speed III, and Jump Boost II for 10 seconds. Void particles scatter from the body as you vanish.
+
+Effects: Invisibility Speed III Jump Boost II 10s Duration
+
+Void Ascension
+
+Input: Hold 15s Jump (within 2 seconds)
+
+After a full 15-second charge, press Jump to activate. The katana launches you skyward, then drives you down into a devastating void impact dealing 18 damage in an 8-block radius with knockback. A ring of void expands outward on landing.
+
+Effects: 18 Damage 8-Block Radius Knockback Aerial Slam
+
+Phantom Leap
+
+Input: Crouch 4s Jump (within 2 seconds)
+
+After crouching for 4 seconds, press Jump to blink through the void to the nearest entity within 25 blocks, appearing behind them with a sonic burst that deals 22 damage and inflicts Blindness for 3 seconds.
+
+Effects: 22 Damage Instant Teleport Blindness 3s 25-Block Range
+
+Domain of Void
+
+Input: Hold 15s Crouch (within 2 seconds)
+
+After a full 15-second charge, crouch to unleash a domain of pure void. Twelve expanding waves erupt outward each dealing 6 damage and inflicting Wither II and Slowness on every entity they touch. The caster gains Resistance III and Strength III throughout.
+
+Effects:6 Damage 12 Waves Expanding AoE Wither II Slowness Resistance III Strength III
+
+Void Slash
+
+Input: Right Click
+
+A swift cleave

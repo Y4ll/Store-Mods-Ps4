@@ -1,0 +1,65 @@
+Dynamic Weather Plus
+
+Author: Yunarii
+
+Version: 1.0.0
+
+Compatible With: Minecraft Bedrock Edition 1.21.120+
+
+Transform your Minecraft world with Dynamic Weather Plus, an immersive visual enhancement addon designed to make every biome feel more alive, atmospheric, and realistic. Experience changing weather conditions, beautiful environmental effects, and enhanced skies that bring a new level of depth to your adventures.
+
+Travel through forests filled with drifting leaves, explore valleys covered in morning fog, witness powerful thunderstorms lighting up the night sky, and enjoy breathtaking sunrises and sunsets that paint the world with vibrant colors. Every journey feels unique as dynamic weather effects create a constantly changing environment.
+
+Features
+
+Dynamic Rain Intensity
+
+Experience light drizzles, moderate rainfall, and powerful storms that make weather feel more natural.
+
+Realistic Fog & Mist
+
+Morning fog and biome-based mist create immersive landscapes and mysterious atmospheres.
+
+Enhanced Lightning Storms
+
+Witness dramatic lightning strikes and intense storms that illuminate the world.
+
+Falling Leaves Effects
+
+Leaves gently drift through forests during windy weather, adding life to nature.
+
+Dynamic Wind Effects
+
+Particles and environmental effects react to changing weather conditions.
+
+Improved Sunrises & Sunsets
+
+Enjoy vibrant skies with enhanced colors during dawn and dusk.
+
+Atmospheric Clouds
+
+Beautiful cloud formations make the sky more dynamic and visually appealing.
+
+Ambient Weather Sounds
+
+Immersive environmental sounds enhance storms, rain, and natural surroundings.
+
+Biome-Based Visual Effects
+
+Different biomes can feel unique with weather and atmosphere tailored to their environment.
+
+Performance Friendly
+
+Designed to provide stunning visuals while maintaining smooth gameplay on supported devices.
+
+Why Use Dynamic Weather Plus?
+
+Whether you're building, exploring, surviving, roleplaying, or creating content, Dynamic Weather Plus makes every moment feel more immersive. The addon focuses on enhancing the natural beauty of Minecraft while preserving the game's vanilla style, creating a richer experience without changing core gameplay.
+
+Credits
+
+Created by: Yunarii
+
+Thanks to the Minecraft Bedrock community and everyone who supports this project.
+
+Dynamic Weather Plus Bringing your Minecraft world to life, one storm at a time.

@@ -1,0 +1,26 @@
+More Gun provides projectile weapons that let you attack enemies from a distance, whether by shooting or using explosives.
+
+More Guns List:
+bomb
+ak47
+gold ak47
+uzi
+gun
+desert gun
+eagle gun
+electric gun
+hitmen gun
+machine gun
+red velvet gun machine
+revolver gun
+sniper gun
+
+To play this addon, install both the BP and RP.
+
+( Disclaimer: some images is be made by AI )
+
+Make sure to download both BP and RP files.
+
+Or the weapons will be invisible.
+
+JOIN DISCORD

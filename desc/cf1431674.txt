@@ -1,0 +1,17 @@
+RandomChunk Addon
+RandomChunk Addon turns your Minecraft world into a constantly changing and unpredictable experience. As players move through the world, newly explored chunks are gradually transformed into random blocks inspired by the Nether, the End, and other dangerous environments.
+To preserve stability and core gameplay, important blocks such as portals, spawners, command blocks, chests, and special structures are fully protected and will never be modified. The addon uses an optimized, tick-based processing system to prevent lag, making it safe for multiplayer and public servers.
+RandomChunk is designed for chaos survival modes, challenge servers, and experimental gameplay. Far-away chunks can be refreshed over time, keeping the world dynamic without disrupting areas near active players.
+Features:
+Gradual chunk randomization with built-in anti-lag system
+Portal and special block protection
+Public-server and multiplayer friendly
+Dynamic, ever-changing world generation
+Compatible with modern Minecraft Bedrock versions
+RandomChunk is perfect for players who want a fresh, chaotic survival challenge without breaking essential game mechanics.
+
+EVERYONE CAN SEND FEEDBACK https://www.tiktok.com/@flogm_?_r=1&_t=ZS-937TjVlPYAK
+
+Friendly ACHIEVEMENT
+
+Processing too many blocks can overwhelm a weak computer.

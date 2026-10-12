@@ -1,0 +1,89 @@
+Immersive Combat is part of the TerraDraconis Addon Series a collection of addons that come together to create a vast, living world of dragons. Inspired by the monster-hunting experience, this series lets you hunt or tame dragons, trade and interact with the ecosystem, and even build your own settlement of hunters to defend against wild dragons that dare to attack your home.
+
+IMPORTANT!!!:
+- REMEMBER TO TURN OFF: FOV CAN BE ALTERED BY GAMEPLAY IN THE VIDEO SETTING OF THE GAME.
+
+Changelog:
+
+Improvements:
+- Optimized state handling
+- Improved bow ammo (arrow) handling
+- Improved animations (reduced load by rounding unnecessary keyframe values)
+- Improved delay for heavy attack and adjust long sword animation and attack from 2 hit per swing sequence to 1 hit per swing sequence.
+
+Bug Fixes:
+- Fixed bow animation
+- Fixed bug where damage orbs fly into the air and do not despawn
+
+New Features:
+- Added skill system for all weapon types
+- Added compatibility settings (allow adding/removing weapons from the list in-game)
+- Added new camera preset (inherits from vanilla follow-orbit, supports non-delayed customizable positioning)
+- Added compatibility with Rarity Forge addon
+
+Parry System Rebalance:
+
+- Normal parry:
++ Now Reflect 50% of incoming damage
+- Perfect parry:
++ Shorter timing window (more skill-based)
++ Now Reflect 100% of incoming damage
++ Grants short regeneration effect on success
+- Added minimum reflect damage to prevent weak attacks from feeling ineffective
+- Improved knockback feedback on successful parry
+
+Compatibility:
+- Updated to support latest game version
+- Removed Beta API requirement (achievement-friendly)
+
+Commands:
+- /ammo Arrow quiver alternative
+- /disable_skill Toggle skill system for specific weapons (for compatibility)
+- /stats Check weapon stats (workaround for Rarity Forge compatibility)
+- /skills Open skill menu to learn and manage skills
+
+Addon Compatibility Tool:
+- The new skill system requires minor adjustments to item code from other addons for full compatibility
+- To simplify this process, a web-based Addon Patcher is now available:
+
+Link Here
+
+- How to use:
++ Upload your addon file (e.g. epic_knight.mcaddon)
++ Click "Upload & Patch"
++ Download the patched addon
+
+- The patched version will be fully compatible with Immersive Combat
+
+VERY IMPORTANT !!!!!:
+From now on most new features will be developed in the main project TERRADRACONIS. This means the separate module versions like this one will not receive new features anymore, but they will still receive bug fixes and compatibility updates for newer game versions.
+
+This addon transforms the way you fight. With a toggleable Combat Mode, you gain access to:
+
+Attack Combos for dynamic weapon play
+
+Parries to deflect incoming strikes
+
+Dodges to evade devastating blows
+
+Consumables & Magic to give you an edge in battle
+
+Cinematic Camera Shots for a more immersive and dramatic combat experience
+
+Voice Line System with customizable settings, making battles feel more personal and realistic
+
+One of the standout features is that the entire combat and animation system is fully script-based meaning no player.json is used. This makes it highly compatible with other animation packs or addons, such as Action and Stuffs, or any custom weapons and armor packs you want to bring into the fight.
+
+Take on dragons with a fresh combat experience, seamlessly blending into the TerraDraconis world or enhancing your own custom setup.
+
+Important Notes
+
+This addon is not a weapon+ or item+ addon that adds new swords or weapons.
+Instead, this is a core system addon a base framework that adds the mechanics and combat systems that other addons can build upon.
+
+Think of it like a foundation or engine for combat not the content itself.
+Its designed to work together with other addons, much like how addonpacks or modpacks work.
+
+In fact, this addon serves as a core combat module for the TerraDraconis Series, including the main TerraDraconis Addon.
+
+This addon will not add any new weap

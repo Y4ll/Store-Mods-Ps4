@@ -1,0 +1,43 @@
+For the beta files, please download it from MCPEDL as Curseforge only download the latest release while MCPEDL do allow older or beta to alpha files for download.
+
+if you can't download or using a mobile phone. try the legacy version of curseforge: https://legacy.curseforge.com/minecraft-bedrock/addons/furrion-v1-1-1-a
+
+Latest support version: 1.26.4X - 1.26.5X (26.4X - 26.5X) // version 1.10
+
+Don't ask me. You clicked on this with a reason. Soo go with it. Hate is acceptable as i really don't care... Just sometimes i'll be jerking around because. Why not? hehe, boi.
+
+Credits:
+
+Demerror: making the furries textures and models
+
+Important things first:
+
+DO NOT use this addon or subsequence projects for any inappropriate and illegal actions, we don't want to condone any of that. This addon isn't associated, affiliated or collaborated with the "trans-fur" gernes. *orginal creator's, Goofy Ahh Production quotes, not mine.* If you found this addon anywhere other than mcpedl or curseforge, please don't download, if anything bad happens, i can't resolve it as it's out of my boundaries.
+
+Any modifications to the addon is allowed to distribute as long as credits is presented.
+
+Also huge thanks to the addon original creator, Goofy Ahh Production for letting me use some assets and publish this addon with no restrictions! Without him, this addon won't be here. as i wouldn't be interest in this untill i found someone did...
+
+Let's start with what you got after imported the addon:
+
+- There's two pack settings for the behaviour pack that you can choose while creating a world: neutral furries with hostile illagers towards players and villagers; hostile furries with passive illagers towards players and villagers. > Default is set to hostile furries. WARNING: In version 1.1.7 and onwards, it will only having the hostile version as default and the passive was removed.
+
+- Additionally, if you like to create your own modified version of the addon with whatever you like in it. Go ahead, no one is stopping you except your will to modify and learn how to do it (if you haven't got it already). Just don't be disrespectful whilst doing so. By the way, if you wanna ask me for help, feel free, i've been looking for one for soo long, but no one came. Just it may not as fast if you asked me to do it all for you because i'm a busy school boy ;-;
+
+Before you start your world. Remember to turn on these experiment features:
+
+1. Beta APIs
+
+2. Up Comming Creator Features
+
+As of right now for version 1.1.5 You don't have to toggle any experimentals and it is achievements friendly... But may not for long
+
+Now to the basic features:
+
+- If you got hit by a furry, there's a chance you'll get infect, this chance changes for each game difficulty. Your character will shake if you're infected, but not yet a furry. The furry that you'll eventually turn into is exactly like the one you got infected from. (If you don't like humanoid animal kind of furry, you can type "/customizefurry" command in the chat to only show the tail and ears and some other features of a furry that won't cover the player's skin)
+
+- You can also infect other players and villagers once you became a furry, the infected player or villager also get the same kind of furry you are... Except some of them...
+
+- To cancel the transformation progress, you can use Hexylium, the treatment to the infection, to go back to be a normal human. It won't work if you're totally transformed and you have to use Derrium - the cure, to go back being a human, just make sure that no one is coming after you. If you whilst to immune from furries or your "naughty" friends, you can try to obtain Ocissium - the vaccine, use this while you are a furry kills you instantly and also consume it. To remove the vaccinated status, use Occisium again to reverb back to normal and vulnerable human.
+
+- Each kind of furry have different debuffs, more detail in my discord (link at the end of the page), armors will cause slowness due to weight. E

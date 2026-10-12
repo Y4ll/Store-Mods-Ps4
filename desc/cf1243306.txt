@@ -1,0 +1,15 @@
+Images
+
+- Added brewing Guide with scrollable recipe
+
+- Also you can search any potion you want to make
+
+- There's also more options, like level 2 option to show the level 2 potion recipe, and extended option to show the extended potion recipe
+
+- Splash potion section
+
+- Lingering potion section
+
+Credits
+
+- Bedrock tweaks (https://bedrocktweaks.net) - brewing Guide template, Overhauled by me

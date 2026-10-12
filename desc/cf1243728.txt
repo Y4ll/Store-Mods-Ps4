@@ -1,0 +1,28 @@
+Soar through the skies in a futuristic flying machine powered by the past.
+Inspired by the legendary time-traveling car, this addon introduces a high-tech vehicle that lets you fly freely and teleport to custom locations using a unique organic fuel system.
+
+Features:
+
+- Fly Only: This is no ordinary carit hovers and glides through the air with full control. Perfect for cinematic exploration or escaping danger with style.
+
+- Teleportation System: Save up to 25 locations and return to them instantly using the onboard menu. Great for survival fast travel!
+
+- In-Vehicle Control Panel: While flying, open a sleek interface to:
+
+- Save your current location
+
+- Teleport to a saved one
+
+- Delete any slot
+
+- Organic Fuel Only: Forget conventional power sources. This machine runs on apples, carrot, potato, sweet_berries, sugar_cane.
+
+Use It Your Way:
+
+- Create time-travel adventures in your world
+
+- Build futuristic cities with fast access points
+
+- Add a roleplay element to survival or multiplayer
+
+To open the Minelorean menu, you must be mounted on the vehicle and interact/right-click on the vehicle if you're on PC. This will open the menu showing statistics and saved locations. To elevate the vehicle, press "jump" to raise it, then look up if you want to ascend and look down if you want to descend.

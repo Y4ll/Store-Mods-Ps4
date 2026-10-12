@@ -1,0 +1,125 @@
+WIZARD CRAFT ADDON
+
+Transform Minecraft Bedrock into a fully realized world of magic.
+
+Have you ever wanted to become a wizardsoaring on a broom through open skies, summoning meteors, calling down lightning, or riding a dragon? Wizard Craft AddOn introduces a comprehensive magic system to Minecraft Bedrock, opening a fresh and immersive way to play.
+
+Magic System
+
+Master a wide variety of spells using customizable wands. The Spell Select Book lets players learn and equip up to three spells at once, then switch between them instantly.
+
+Featured spells include:
+
+Fire Spell unleash a torrent of flames to incinerate foes.
+
+Freeze Spell immobilize nearby creatures with freezing effects.
+
+Lightning Spell call down lethal bolts of lightning.
+
+Meteorite Spell rain meteors down from the sky.
+
+Healing Spell restore health to nearby entities.
+
+Shockwave Spell create a concussive blast that knocks back enemies.
+
+Soul Spell lift targets into the air and apply levitation effects.
+
+Knight Spell summon armored knights to fight and defend.
+
+Setback/Rewind Spell return to your position from several seconds earlier.
+
+Time Spell manipulate time within the world.
+
+Wand Mechanics
+
+Wizard Craft goes beyond point-and-cast. Build your own spell loadout using the Unbound Wand and Spell Select Book. Equip up to three spells and toggle between them with sneak + interact. Hold the interact button to charge powerful effects, then release to cast.
+
+Alchemy & Potions
+
+A dedicated potion-crafting system uses the Kettle and Wizard Bottle. Discover and brew potions with unique, gameplay-changing effects:
+
+Bunny Potion increased speed and jump height.
+
+Freezing Potion freezes targets on hit.
+
+Magnetism Potion attracts nearby mobs and items.
+
+Plant Growth Potion accelerates crop growth.
+
+Power Potion increases damage output.
+
+Restoration Potion restores health and hunger.
+
+Shield Potion repels nearby creatures.
+
+Teleport Potion teleport to the target location.
+
+Stun Potion slows entities.
+
+Life Steal Potion siphon health from enemies.
+
+Each potion requires distinct ingredients, making exploration and resource gathering essential to progression.
+
+Flying Brooms
+
+No wizard is complete without a broom. Wizard Craft adds multiple broom types with varying performance:
+
+Default Broom
+
+Iron Broom
+
+Gold Broom
+
+Diamond Broom
+
+Nether Broom
+
+End Broom
+
+Control flight by holding the jump button to ascend, steering with your look direction, and sprinting to reach maximum speed. The End Broom provides the highest speed boost.
+
+Mystical Creatures
+
+The world now hosts many magical creatures beyond the usual mobs:
+
+Dragon a powerful, fire-breathing mount; tameable and rideable.
+
+Hippogriff a tameable flying mount.
+
+Unicorn grants substantial EXP when encountered.
+
+Phoenix a legendary, tamable bird that perches on your shoulder.
+
+Owl can carry spells and be tamed.
+
+Troll a dangerous, goldloving night spawner.
+
+Additional creatures include Knights, Magic Foxes, and Wizard Traders, expanding the addons ecosystem and gameplay.
+
+Mounted Dragon Combat
+
+After taming a Dragon, equip a saddle and soar across the world. Use the Dragon Whistle to command your mount to breathe fire on enemies while you rideturning your dragon into both transport and a formidable weapon.
+
+Wizard Table
+
+All magical systems interconnect through the Wizard Table. Use it to craft signature items such as:
+
+Wands
+
+Spell Select Books
+
+Brooms
+
+Wizard robes and apparel
+
+Dragon Whistles
+
+Other magical artifacts
+
+Guides are included to teach players how to use spells, brew potions, and pilot brooms.
+
+A Fully Realized Fantasy Experience
+
+Wizard Craft is more than a collection of new items. It builds a cohesive fantasy layer on top of Minecraft with magic, alchemy, mythical creatures, mounts, and bespoke gameplay mechanics. Seek out Wizard Traders, learn your first spells, craft your personal wand, tame a mystical creature, and begin your journey to becoming a true wizard.
+
+The magical world of Minecraft awaits its first s

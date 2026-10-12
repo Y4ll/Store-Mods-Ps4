@@ -1,0 +1,15 @@
+Introduction
+
+Peak Visuals is a ressource pack for low-end devices(Related to Klash Shaders)
+
+Features
+
+- Soft shadows with texel size set to 20
+
+- Beatiful atmosphere
+
+- No waves, no caustics
+
+Picture
+
+This pack is under the 'An untagged dev team' license

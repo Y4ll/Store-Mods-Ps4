@@ -1,0 +1,49 @@
+Better Beds adds over 100 new beds! These beds feature various types of wood, colorful blankets, and are decorated with animal motifs. The new beds added come with functionalities such as sleeping during the day, choosing when to wake up, accelerating time, disabling phantoms, and much more! All these features are great for your survival and will help you grow your crops.
+
+Better Beds is an addon aimed at providing a lot more options when it comes to using beds in Minecraft, be it different designs, woods and functionalities! This addon lets you decide when to wake up, when to sleep and even how this bed behaves in multiplayer.
+
+Bed Designs
+
+We are constantly updating this addon with new desings! Suggest a design in the comments below!
+
+Bed Features
+
+Accelerate Time
+
+This feature allows you to accelerate the world's time, including speeding up the ticks per second, which affects the growth of crops.
+
+Sleep and Wake Up whenever you want!
+
+You can sleep and wake up whenever you choose, whether it be at night, sunrise, morning, noon, midnight, or during the day!
+
+Sleep & Set Spawnpoint in the End and the Nether!
+
+Flexible Respawn Settings:
+
+Control your spawn point with ease. Choose to save your spawn location or sleep without altering it, providing flexibility whether you're settling down or exploring.
+
+Phantom Control:
+
+Manage phantom spawning effortlessly. Enable or disable phantoms in the world, decide whether to face these nighttime mobs or keep them at bay, and even spawn them whenever you want.
+
+Server-Friendly and Lag-Free:
+
+This bed system is designed to be server-friendly and lag-free, ensuring a smooth multiplayer experience without any performance issues.
+
+The "Bed Settings" item allows you to fully customize the behavior of beds, from setting custom sleep and wake times to managing phantom spawning and needing a percentage of players using the bed to sleep. You can also configure it to mimic vanilla behavior, providing a familiar experience while still enjoying the added features. Every aspect of bed functionality is adjustable, making it perfect for any server setup, whether you want to stick close to the original game or create a completely unique experience.
+
+Crafting
+
+Creative:
+
+You can find the beds in the Creative menu under Construction. You can also get them by using the command "/give @p bb:(this will show the available variants). You can only get the Bed Settings item in the crative mode, as it controls all the behavior of the beds & the whole server.
+
+Survival:
+
+Obtain it by placing a clay ball in the stonecutter to create the bed box. If you put it back into the stonecutter, the options for different bed bases will appear, allowing you to choose your preferred style. Placing it in the stonecutter again will bring up the color options along with the selected bed base.
+
+Documentation
+
+We have created a document that explains what every setting does in the Bed Settings item, check it if you have questions about the functionality of any option: https://bit.ly/3FQVstn
+
+Images

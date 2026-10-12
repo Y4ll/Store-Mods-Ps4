@@ -1,0 +1,59 @@
+ACHIEVEMENTS FRIENDLY
+
+This addon is a Bedrock Edition recreation of "Prehistoric Dweller", faithfully adapting the atmosphere and core gameplay from the original Java mod.
+
+This "Prehistoric Dweller" Bedrock Port made by PnTMC
+
+My Youtube Channel : PnTMC's Youtube Channel
+
+----------------------
+
+BE CAREFUL!
+
+It stands in the shadows, staring at us, watching the miners and it has existed for thousands of years.
+
+The miners assumed the torches would go out even without wind.
+
+----------------------
+
+Prehistoric Dweller's AI in this addon is super peak (climb , chase,etc.)
+
+See the port in the video below everything is 100% accurate!
+
+Try it yourself for the best experience. Be careful when you're mining xD
+
+----------------------
+
+This is NOT the original Java mod.
+
+This is a full Bedrock Edition port rewritten using Minecraft Bedrock systems and Script API.
+
+Original Java Mod by @Swayle: https://modrinth.com/mod/prehistoric-dweller
+
+----------------------
+
+Differences from the original Java version:
+
+- Fully rewritten for Minecraft Bedrock Edition.
+
+- AI behavior adapted to Bedrock limitations.
+
+- Certain mechanics adjusted due to engine differences.
+
+- Optimized for Bedrock multiplayer compatibility.
+
+- Some features may slightly differ due to technical differences between Java and Bedrock Editions.
+
+----------------------
+
+If you use this addon in videos, you must clearly credit, tag me and also give proper credit to @Swayle as the original creator.
+
+Do NOT reupload, redistribute, or publicly modify this addon without explicit permission.
+
+Private modifications for personal use are allowed.
+
+If you encounter any issues or missing features, please leave a comment on this project page
+
+Watch This Video for MORE INFORMATION:
+
+soon

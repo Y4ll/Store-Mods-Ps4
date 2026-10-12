@@ -1,0 +1,47 @@
+Ores Booster
+
+Make mining faster and more rewarding with Ores Booster by FleetMc Studio. This lightweight addon increases the generation of Overworld ores by approximately 70%, making it much easier to find valuable resources while exploring caves and mining underground.
+
+Instead of spending hours searching for ores, you'll discover them more frequently, helping you progress through survival worlds much faster without changing the core Minecraft experience.
+
+Boosted Ores
+
+- Coal Ore
+
+- Iron Ore
+
+- Copper Ore
+
+- Gold Ore
+
+- Redstone Ore
+
+- Lapis Lazuli Ore
+
+- Diamond Ore
+
+- Emerald Ore
+
+Features
+
+- Increases Overworld ore generation by approximately 70%.
+
+- Makes mining faster and more rewarding.
+
+- Supports all major Overworld ores.
+
+- Lightweight and optimized for smooth gameplay.
+
+- Achievement Friendly.
+
+- No Experimental Gameplay required.
+
+Installation
+
+- Download the addon.
+
+- Import it into Minecraft.
+
+- Enable it under Behavior Packs.
+
+Created by FleetMc Studio

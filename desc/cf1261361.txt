@@ -1,0 +1,7 @@
+This add-on changes vanilla health system to be more realistic. Each part of the body have its own health, the less health it has, the more negative effects you will have
+
+If your head's or torso's health reaches zero, you will die
+
+Enemies can break your arm or leg, or cause bleeding, frostbite can decrease your maximum health and can't be cured
+
+Feel free to modify or upload it anywhere

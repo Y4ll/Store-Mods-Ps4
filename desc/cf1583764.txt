@@ -1,0 +1,7 @@
+Original creator SrPollo, Port by Viniaddons
+
+https://www.curseforge.com/minecraft/mc-mods/the-stalker-horror-mod
+
+The addon introduces a terrifying stalker entity that silently watches players and creates a constant feeling of being observed. The stalker can appear through doors and may manifest while players are sleeping, turning ordinary nights into frightening encounters. Its unpredictable behavior and eerie presence make every moment more suspenseful, bringing a unique horror experience to Minecraft Bedrock Edition.
+
+(Permission for Port)

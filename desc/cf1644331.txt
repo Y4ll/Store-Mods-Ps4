@@ -1,0 +1,21 @@
+YahyaTDR's X-Ray Bundle is The best Xray resource Pack for Minecraft Bedrock!
+
+The resource pack bundle includes Night Vision v0.8 which is moded for stability and usability. This resource pack also provides every block its own outline and glow for easy visibility.
+
+This resource pack also offers 3 modes:-
+
+Essential X-ray: Removes textures of stone, deepslate, granite, andesite, diorite, netherack, and many other common blocks. It can be used for finding underground structers and bases.
+
+100% X-ray except water and lava: It removes all textures expect water, lava, and ores.
+
+100% x-ray: Removes all textures expect ores.
+
+Controls for PC:
+
+N: Open Night Vision Settings Menu
+
++ : Increase Brightness
+
+- : Decrease Brightness
+
+This pack is compatible for Minecraft Bedrock 1.18 to the latest release.

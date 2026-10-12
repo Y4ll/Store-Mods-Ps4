@@ -1,0 +1,119 @@
+CAY KY NANG
+
+YTAUN Skill Tree bo sung he thong lop nhan vat vao Minecraft Bedrock. Chon mot trong sau lop, tang cap bang cach chien au, khai thac va che tao, va su dung iem ky nang tren mang luoi ky nang 108 nut. Moi lop eu co ac iem, nhuoc iem, bo ky nang khoi au va nhanh rieng, cong them hai ky nang bi ong an e kham pha. Khong can bat/tat thu nghiem.
+
+Cac lop hoc
+
+Lop hoc
+Vai tro
+ac iem
+Nhuoc iem
+Bo dung cu khoi au
+
+Kiem si
+au si can chien
+Tinh thong vu khi : +1 sat thuong can chien khi cam kiem, riu, chuy hoac giao.
+-1 sat thuong an
+Kiem a, 8 banh mi
+
+Tau cho dau
+Buc tuong tien tuyen
+Tu the phong thu : Giam 15% sat thuong nhan vao khi ang len lut.
+-1.5 sat thuong can chien
+Khien, ao choang da, 8 o banh mi
+
+Cung thu
+Tho san tam xa
+Mat ai Bang : Mui ten ban trung muc tieu cach xa hon 16 o se gay them +20% sat thuong.
+-4 iem mau toi a
+Cung ten, 24 mui ten, 8 o banh mi
+
+Ninja
+Sat thu lan tranh
+on anh len : on anh can chien tu phia sau muc tieu gay them +25% sat thuong.
+Chiu them 10% sat thuong
+Kiem a, 2 vien ngoc Ender, 8 o banh mi
+
+Ung ho
+Thay thuoc va nguoi tim kiem thuc an
+Nguoi chua lanh : +20% kha nang hoi phuc tu moi nguon, bao gom ca kha nang tu hoi phuc cua cay.
+-1.5 sat thuong can chien
+6 cu ca rot vang, 2 coc mat ong, 8 o banh mi
+
+Nguoi pha do
+May thoi am ong
+Bac thay kich no : Mui ten cua ban cung co the kich hoat cac vu no kich no, va pham vi anh huong cua chung co the lan xa hon 1 o.
+-15% kha nang chong lua
+4 qua bom TNT, a lua va thep, 8 o banh mi
+
+Cho en khi at en nut thu 4, ban co the chuyen oi lop mien phi. Sau o, viec chuyen oi se uoc thuc hien bang Bua Tai Ren.
+
+Cach choi
+
+- Tham gia vao the gioi va ban se nhan uoc mot Sach Ky nang . No se o lai voi ban ngay ca khi ban chet.
+
+- Hay su dung cuon sach huong dan va chon mot lop hoc tren man hinh "Chon con uong cua ban" .
+
+- Cham vao mot nut e oc thong tin, cham lai lan nua e mua. Mua nhanh chi voi mot lan cham, va thao tac cham nham co the uoc hoan tac trong vong 90 giay.
+
+- Keo bang ieu khien va su dung kinh lup e chuyen oi giua che o xem toan trang va che o xem chi tiet.
+
+- Hoan thanh nhanh cua ban, sau o phat trien thanh nhanh ben canh tren vong tron. Cac nut dung chung cua cac lop khac co gia gap oi va cho mot nua; cac nut chi danh rieng cho lop o van bi khoa.
+
+- Len lut su dung cuon sach e mo menu: lop nhan vat, danh sach trang bi, chi so, mua nhanh va cuong hoa trang bi.
+
+Nhung gi ma mot canh cay ay u mang lai
+
+Cac con so nho va co inh, vi vay trang bi cua ban van quan trong. Mot nhanh nha hoan chinh ton 27 iem, khoang cap o 12:
+
+Lop hoc
+Chi nhanh tai nha ay u
+
+Kiem si
+Kiem kim cuong 8 11, 10% chi mang voi he so x1.75, 4% hut mau
+
+Tau cho dau
+30 mau, giam 16% sat thuong (29% khi len lut), gai nhon
+
+Cung thu
+Mui ten 9 11 (13,2 tu 16+ khoi), 25% so mui ten quay tro lai
+
+Ninja
+Kiem 8 9, am len 11.3, ne tranh 12%, toc o +20%
+
+Ung ho
+Hoi 1.9 mau moi 5 giay, +6 mau, hao quang hoi phuc cho ong minh
+
+Nguoi pha do
+Co 15% kha nang gay sat thuong 6 iem tu ngoi no, khang sat thuong no 40%.
+
+Moi thong so cho moi ban dung eu co trong tep STATS.md , nam ben trong tep tai xuong.
+
+Cap o, iem so va vat pham
+
+Gioi han cap o 60 : 2 iem ky nang moi cap, 4 iem moi 5 cap. Kinh nghiem (XP) co uoc tu viec tieu diet quai vat, khai thac khoang san va che tao, co gioi han oi voi viec xay dung trang trai quai vat. Cac khoi ban tu at khong cho XP.
+
+Muc
+Cong thuc
+Su dung
+
+Sach ky nang
+Cuon sach voi a Lapis Lazuli o bon mat.
+Mo cay ky nang
+
+Manh iem ky nang (x3)
+2 Ngoi sao Nether, 2 vien kim cuong, 5 khoi vang
++1 iem ky nang moi
+
+Ren lai bua chu
+Ngoi sao Nether, 2 manh vo Echo, 2 manh vo co ai, 4 a Obsidian
+Hoan lai iem cua ban e ban co the chon mot lo trinh moi.
+
+Lenh (toan tu)
+
+/scriptevent yst:max ninja full Ninja branch, free (for testing)
+/scriptevent yst:maxall ninja every node a Ninja can own
+/scriptevent yst:clear refund every node, keep the class
+/scriptevent yst:level 30 set a level and hand out its points
+/scriptevent yst:points 5 add skill points
+/scriptevent yst:hits show ev

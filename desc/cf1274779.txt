@@ -1,0 +1,57 @@
+Welcome to one of the most powerful Minecraft PE addons ever created! This mod, titled "Minecraft but anything I put in the crafting table gets 32767 enchantments", turns ordinary tools and armor into god-tier equipment. When you place items into the crafting table correctly, you'll receive insanely enchanted gear with max-level enchantments up to level 32767!
+
+But there's a unique twist the enchantment system only works if you place all tools at once in the crafting table. If you want this magic to work, you must craft a sword, pickaxe, axe, shovel, and hoe together. Once crafted, throw the resulting item, and you'll receive a barrel filled with overpowered tools. For armor, it's simpler: place three of the same blocks (like three iron blocks), and you'll get fully enchanted armor.
+
+Crafting the OP Tools
+
+This mod requires you to put all tools together in one go. That means:
+
+Crafting 32767 Recipe In This Mod
+
+1 Sword
+
+1 Pickaxe
+
+1 Axe
+
+1 Shovel
+
+1 Hoe
+
+Put all five in the crafting grid. Once placed correctly, youll receive a unique enchanted item. But it wont reveal its full power until you throw it.
+
+Projectile Weapon To Get OP Enchantments Tools
+
+Throw the Tool to Get the Barrel
+
+When you throw the crafted tool on the ground, it triggers a custom event that gives you a barrel. Open the barrel and inside youll find all the tools, each maxed out with 32767 enchantments including Unbreaking, Fortune, Sharpness, Efficiency, and more!
+
+OP Enchants Tools 32767 In This Mod
+
+Getting OP Armor
+
+To obtain enchanted armor, simply place three of the same type of block in the crafting table Along With Tools . For example:
+
+3 Iron Blocks = Enchanted Iron Armor
+
+3 Diamond Blocks = Enchanted Diamond Armor
+
+A Few Iron OP Tools + Diamond OP Tools= Enchanted Netherite Armor
+
+Again, throw the resulting item to receive a barrel with the enchanted armor pieces.
+
+Addon Features
+
+32767 enchantments applied to every tool and armor
+
+Trigger system works by crafting and item throw
+
+Supports all vanilla tool and armor tiers
+
+Survival mode friendly
+
+Barrels spawn filled with powerful gear
+
+There Are Also Fortune 100 Tools As 32767 Enchants Fortune Will Be Laggy For Some Low End Device Users, It's Recipe Is Very Simple Just Put Diamond Pickaxe or any (iron pcikaxe in crafting table) and get fortune 100
+
+There Is A Video Showcasing The Mod:

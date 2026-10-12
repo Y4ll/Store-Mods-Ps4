@@ -1,0 +1,203 @@
+Dorios' Trinkets is a dynamic Minecraft addon introducing 80 unique trinkets that enhance your gameplay with exciting abilities and effects. With 13 customizable slotsincluding Head, Necklace, Body, Feet, Rings, Charms, and moreyou can tailor your character to suit your playstyle. Equip trinkets through a dedicated inventory system or directly from your hand for seamless gameplay.
+
+Trinkets provide responsive stat boosts like increased health, damage, speed, water mobility, and magic protection, as well as unique abilities such as life steal, immunity to effects, and item repair. The addon is fully compatible with Archaism Talismans, expanding your options for ultimate customization.
+
+Discover trinkets in various Minecraft structures, from Ancient Cities to Desert Pyramids, or craft them to unlock their full potential. Whether youre building a tanky warrior, a swift explorer, or a versatile adventurer, Dorios' Trinkets adds depth, variety, and excitement to your world.
+
+It doesnt need any experimental options
+
+Trinkets that modify player stats uses player.json
+
+Join our discord to know when we update our addons, share ideas, bugs or questions!
+
+Dorios Studios Discord
+
+Art by JRice_88, Arena & @bragagalvan_
+
+Here are some examples of my favorites trinkets:
+
+How to equip my trinkets?
+
+Equip your trinkets easily by using a dynamic system. Right-clicking the item or opening the inventory gives you instant access to a flexible and responsive system to manage your trinkets across. To open the inventory you need to interact while having the Scroll. Which can be crafted using paper.
+
+13 unique slots:
+
+- Head
+
+- Necklace
+
+- Body
+
+- Feet
+
+- Charm
+
+- Archaic Charm
+
+- Hearty Charm
+
+- Talisman
+
+- Ring
+
+- Heavy Ring
+
+- Gauntlet
+
+- Doll
+
+- Amulet
+
+With the right combination of trinkets, you'll benefit from both stat boosts and special effects. For example:
+
+- Increase health, damage, speed, and water speed.
+
+- Magic protection to safeguard against harmful spells.
+
+- Immunity to negative status effects.
+
+- Life steal to replenish your health during battle.
+
+- Repair items to keep your gear in top shape.
+
+- Double Jump to improve your agility.
+
+Responsive Effects: If you equip multiple trinkets that modify the same stat (like health or speed), the effects will stack dynamically. For instance, a trinket might give +10 health, while another reduces -2 health. The result is a final health bonus of +8.
+
+Trinket Tiers:
+
+- Primitive: Basic trinkets with simple effects, ideal for early-game.
+
+- Apprentice: Stronger bonuses and more complex abilities for mid-game players.
+
+- Mastercraft: Advanced trinkets with powerful abilities for experienced players.
+
+- Ascendant: The highest tier, offering game-changing boosts and effects. Ascendant+ means its even more powerful than Ascendant, representing the best of the best.
+
+How to obtain each trinket
+
+Head Trinkets
+
+Abyssal Diver Helmet
+
+- Drowned 5%
+
+- Ocean chests 15%
+
+- Deep Ocean chests 30%
+
+Broken Paladin Helmet
+
+- Bastion Remnant 30%
+
+- Nether Fortress 20%
+
+Night Vision Goggles
+
+- Phantom 10%
+
+Night Vision Mask
+
+- Warden 25%
+
+Restored Paladin Helmet
+
+- Bastion Remnant 12%
+
+- Nether Fortress 8%
+
+Hearty Charm Trinkets
+
+Bloodstained Heart
+
+- Bastion Remnant 15%
+
+Dragon Heart
+
+- Ender Dragon 25%
+
+- End chests 1%
+
+Black Heart
+
+- Enderman 10%
+
+- End chests 15%
+
+Candy Heart
+
+- Witch 5%
+
+Eternal Heart
+
+- Wither 50%
+
+Immaculate Heart
+
+- Desert Pyramid 15%
+
+Rotten Heart
+
+- Zombie 5%
+
+Sacred Heart
+
+- Desert Pyramid 5%
+
+Soul Heart
+
+- Warden 50%
+
+Warden Heart
+
+- Crafted using Soul Heart
+
+Wither Heart
+
+- Wither 20%
+
+Tideforged Heart
+
+- Ocean chests 15%
+
+- Deep Ocean chests 30%
+
+Body Trinkets
+
+Bloodbound Emblem
+
+- Wither Skeleton 5%
+
+- Bastion Remnant 25%
+
+- Nether Fortress 15%
+
+Frost Quiver
+
+- Stray 10%
+
+Idle Bloom
+
+- Jungle chests 40%
+
+Molten Quiver
+
+- Skeleton (Nether) 5%
+
+Tideforged Carapace
+
+- Guardian 25%
+
+Venom Quiver
+
+- Bogged 10%
+
+Gauntlet Trinkets
+
+Fire Claw
+
+- Bastion Remnant 25%
+
+- Nether Fortress 15%
+
+Fi

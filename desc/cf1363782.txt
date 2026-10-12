@@ -1,0 +1,23 @@
+Mystica Shader wraps Bedrock in cyan-bright plains, gold-dusted birch, murky green swamps, glowing lush caves and a near-black Deep Dark, with immersive rain, drifting leaves and per-biome fog written for all 86 biomes, and no Vibrant Visuals required.
+
+- Hand-Tuned Fog for All 87 Biomes
+
+- Two Fog Modes Immersive & Render Distance
+
+- Aerial Depth, Not a Fog Wall
+
+- Per-Biome Underwater & Rain Fog
+
+- Immersive Rain Puddles, Splashes & Wind Wisps
+
+- Falling Leaves Cherry, Pale Oak & Biome Tinted
+
+- Glowing Potion & Spell Particles
+
+- Vanilla-Faithful Grass & Foliage Colormaps
+
+- Nether, End & Cave Atmospheres
+
+- Works on Any Device No VV, No RTX
+
+- Compatible with other Packs

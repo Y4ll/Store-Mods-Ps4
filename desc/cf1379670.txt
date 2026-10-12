@@ -1,0 +1,11 @@
+(join discord for feedback)
+
+The Gun Expansion add-on is still in development, so you may still encounter bugs. If you want to report bugs or share feedback, you can join the Discord.
+
+Lock, load, and survive.
+With the Gun Expansion Add-on, you get a full set of modern guns. Shoot mobs, defend your friends, or hunt in style. Fast, smooth, and built for action.
+
+To craft gold weapon variants, first you need to already have the weapon. Then you only need 8 gold nuggets to coat the weapon with a gold skin.
+
+use /funtcion gives_gun_expansion
+if you wants to gets all guns instantly

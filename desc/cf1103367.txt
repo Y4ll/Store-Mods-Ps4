@@ -1,0 +1,53 @@
+Type - "/tag @s add op" to access creative
+
+This addon adds a thrilling challenge to Minecraft. Players start with only three life, and once theyre gone, theyre permanently banned from the world. Its perfect for intense survival gameplay with serious consequences for every death.
+
+If you can't understand, just check my YouTube video:
+
+https://youtu.be/FRdM1-NdZHw
+
+||| Free To Use Just give Me Credit |||
+
+Share this page link, not Mediafire if you do a review or showcase!
+
+No GUI Setup:
+
+If you play with a custom GUI addon like the water and temperature bar, it will be glitchy. To fix it:
+
+- Use UI config (looks like an ender pearl).
+
+- A UI will be open. Enable "Hide UI".
+
+- Your life line will be shown when you die, use heart & every 2 min as feedback.
+
+FAQ
+
+How to setup?
+
+Add resource & behavior pack, activate all experimental features, then play.
+
+How many times can I die?
+
+You can die only 3 times. When you die, you will lose your life line.
+
+Life line at bottom part!
+
+More Images:
+
+When your life line is 0, you're always stuck in spectator mode, you can't change that.
+
+Is there any way to increase Life line?
+
+No, but you can maintain your life line, just craft more life.
+
+Use it when your lifeline is 1 or 2.
+
+Revive Process:
+
+- Craft a revive totem.
+
+- Throw it on the ground.
+
+- Tell the dead player to stand on the revive totem.
+
+- Player will be revived with one life, so be careful.

@@ -1,0 +1,5 @@
+DWELLER DARKMAN
+
+In this small add-on for the game Minecraft I added one new character DARKMAN DWELLER. This mob is negatively disposed towards the player but does not react to other mobs in the game. It has 250 health and 25 attack units and also has a not very high movement speed, which makes it not very fast but quite strong.
+
+There is a mob with a small chance in all biomes of the Minecraft world, after killing it can drop from 3-5 coals or bones. The entity also has scary custom sounds and high-quality animations that will further immerse you in the world of horror

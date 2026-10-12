@@ -1,0 +1,13 @@
+About the Addon
+
+This addon adds a simple and convenient zoom feature to Minecraft Bedrock. By sneaking and jumping at the same time, your view zooms in, allowing you to observe distant mobs, structures, or landscapes more easily. Its lightweight, easy to use, and designed to feel natural within the vanilla gameplay experience. Perfect for exploring, scouting, or simply enjoying the view from afar.
+
+Quick Overview & Features
+
+Zoom
+
+Sneak + Jump
+
+Important
+
+Dont forget to activate "Beta APIs" in your world like that!

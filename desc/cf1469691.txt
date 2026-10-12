@@ -1,0 +1,67 @@
+UtilityCraft: Tiered Machinery Expansion
+
+Requires UtilityCraft v3.5.0+
+
+This is an official extension for UtilityCraft that introduces advanced tier progression to core machinery.
+
+More Information
+
+Looking to learn more or stay up to date with the latest UtilityCraft news?
+You can find detailed guides, documentation, and advanced setup instructions on our official Dorios Studios
+
+UtilityCraft Official Wiki
+
+For updates, announcements, beta access, community projects, and idea sharing, join our official Discord server:
+
+Dorios Studios Discord
+
+Available Machines (Version 1.0.0)
+
+At the moment, the following machines support tiers:
+
+- Crusher
+
+- Electro Press
+
+- Incinerator
+
+How It Works
+
+All tiered machines behave exactly like their base versions.
+They keep full compatibility with:
+
+- Upgrades
+
+- Item Conduits
+
+- Smart Filters
+
+The difference comes from scaling:
+
+- Increased Processing Slots
+
+- Higher Energy Capacity
+
+Processing Slots by Tier
+
+- Basic 3 slots
+
+- Advanced 5 slots
+
+- Expert 7 slots
+
+- Ultimate 9 slots
+
+Upgrade System
+
+Machines are upgraded in the UtilityCraft Workbench.
+
+Progression starts from the base machine, and each tier requires the corresponding tier materials:
+
+- Basic Chips
+
+- Advanced Chips
+
+- Expert Chips
+
+- Ultimate Chips

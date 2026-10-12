@@ -1,0 +1,159 @@
+Check out my personal website! https://honkit26113.com/
+
+Subscribe to my YouTube channel! https://www.youtube.com/@HonKit26113
+
+Follow me on X / Twitter for exclusive sneak peeks & announcements! x.com/honkit1103
+
+Luminous Caverns
+
+- Found only under Mushroom Fields
+
+- This is a peaceful cave with no natural hostile mobs spawning
+
+- Luminous Mooshrooms and Shroom Elfs roam the land
+
+Vegetation & Foliage
+
+- Giant Luminous Mushrooms & Giant Gloomy Mushrooms generate in this cave
+
+- Normal-sized mushrooms generate on the surface
+
+- Radiant Vines grow from the ground
+
+- These plants all emit a small amount of light!
+
+Food
+
+Luminous Mushroom Stew
+
+- Crafted with 1 Bowl, 1 Luminous Mushroom, and 1 Gloomy Mushroom
+
+- Replenishes 6 hunger points (3 hunger bars)
+
+- Gives you Night Vision for 15 seconds
+
+Mysterious Stew
+
+- Crafted with 1 Bowl, 1 Luminous Mushroom, 1 Gloomy Mushroom, 1 Red Mushroom, 1 Brown Mushroom, and 1 Mysterious Mushroom
+
+- Replenishes 3 hunger points (1.5 bars)
+
+- Gives you 1-2 random effects (selecting from all positive and negative effects)
+
+Ores
+
+Luminite
+
+- A blue gemstone that can be found in Luminous Caverns
+
+- Luminite Ore generates at Y levels -64 to 12
+
+- Drops 1-2 Luminite Shards when broken
+
+- Combine 6 Luminite Shards and 1 Diamond in a Crafting Table to get 1 Luminite
+
+- Luminite can be used to craft gear!
+
+- As Luminite gear is harder to obtain than Diamond gear but also easier to obtain than Netherite, the stats of Luminite gear are in between Diamond and Netherite gear.
+
+Mobs
+
+Shroom Elf
+
+- Spawns in Luminous Caverns
+
+- Bred using Luminous Mushrooms
+
+- Has 8 health (4 hearts) and dies almost instantly from lava
+
+- Runs away from the player but can be lured using Luminous Mushrooms
+
+- Drops 0-2 Luminous Mushrooms when killed
+
+Luminous Mooshroom
+
+- Spawns in Luminous Caverns
+
+- Bred using Wheat
+
+- Interact with one using:
+
+- A bucket to get milk
+
+- A bowl to get Luminous Mushroom Stew
+
+- A Mysterious Mushroom first, then a Bowl to get Mysterious Stew
+
+- Shears to get Luminous Mushrooms. This will turn them into normal cows.
+
+Slimy Sewers
+
+- Found under Swamps and Mangrove Swamps
+
+- This is a very dangerous cave with thick green fog, limiting your render distance
+
+- The natural habitat of Slimes, Witches and Slimy Zombies
+
+Vegetation & Foliage
+
+- A layer of Slimy Stone replaces Stone on the surface, which slows you down
+
+- Slime Layers cover most of the floor
+
+- Slimy Blossoms and Slimy Sprouts scatter across the cave
+
+- Sticky Spikes generate on the surface and hurts you when you step on them
+
+- Slime drips from the ceiling
+
+- Mud, Tall Grass and Slimy Pebbles can be found here
+
+Food
+
+Slime Soup
+
+- Crafted with 1 Bowl and 2 Slimeballs
+
+- Replenishes 3 hunger points (1.5 bars)
+
+- Gives you Jump Boost II for 8 seconds and Resistance II for 5 seconds
+
+- Has a 45% chance to also give you Hunger I for 30 seconds and Nausea II for 20 seconds
+
+Mobs
+
+Slimy Zombie
+
+- Spawns in the Slimy Sewers in large hordes of 3 to 5
+
+- Has 20 health (10 hearts) like a regular zombie
+
+- Throws Hardened Slimeballs at enemies, dealing 7 damage (3.5 hearts) with no armor
+
+- Drops: Hardened Slimeballs and Rotten Flesh
+
+- Vanilla Minecraft Slimes spawn more frequently here, in groups of 2 to 4
+
+- Vanilla Minecraft Witches also spawn more frequently here, in groups of 1 to 2
+
+Structures
+
+Slime Dungeon
+
+- Generates under Swamps between Y=-59 and 47.
+
+- There are 2 variants: Stone & Deepslate, for their respective Y levels
+
+- There are 3 spawners: 1 with Slimes, and 2 with Slimy Zombies
+
+Special Weapon
+
+- There is a treasure chest in the middle with valuable loot, including the Slime Dagger (exclusively found here!)
+
+- Slime Daggers deal +4 attack damage and inflict enemies with 6 seconds of Poison II & 3 seconds of Jump Boost I
+
+Other Blocks
+
+- Here is everything new you can get from the Slimy Sewers.
+
+- Slime Dungeons are built using Slimy Stone Bricks, Slimy Deepslate Bricks, and Slimy Deepslate Tiles. You can craft them using Sl

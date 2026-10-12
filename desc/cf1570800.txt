@@ -1,0 +1,31 @@
+Infinite Totem Mod for MCPE
+
+Developer: Sycure Gaming
+
+Mechanics and Functionality The Infinite Totem Mod is a utility add-on for Minecraft Bedrock Edition designed to automate the replenishment of the Totem of Undying within the player's offhand inventory slot. To initialize the function, the player is required to possess one standard Totem of Undying. The operational sequence is as follows:
+
+-
+
+Initialization: The player manually equips the initial Totem of Undying into their offhand slot.
+
+-
+
+Monitoring: The add-on actively monitors the state of the offhand inventory slot.
+
+-
+
+Replenishment: When the equipped totem is removed from the offhand sloteither by being consumed or manually unequippedthe system immediately detects the vacancy.
+
+4. Generation: A new Totem of Undying is instantly generated and placed directly into the offhand slot, replacing the previous item. This automated cycle ensures a persistent, un-interrupted equipped state in the offhand slot without requiring further manual inventory management, resource gathering, or interaction.
+
+-
+
+Deactivation: Hold Shield In Offhand To Deactive The Totem Generation.
+
+Terms of Use and Distribution - This modification is the exclusive intellectual property of Sycure Gaming. Users must adhere strictly to the following conditions:
+
+- No Modification: Altering, reverse-engineering, or modifying the mods code, scripts, or behavior pack manifests is strictly prohibited.
+
+- No Duplication: Copying the files for unauthorized redistribution or claiming the mod as original work is forbidden.
+
+- Official Sharing: All distribution and sharing of the mod must be executed exclusively through the official links provided by Sycure Gaming. Re-uploading to third-party domains or direct file sharing with mediafire, drive or other platforms is not permitted and may result in legal action.

@@ -1,0 +1,235 @@
+Glowing Glint (a.k.a. GG)
+
+Is a behavior-only, lightweight dynamic lighting add-on with some extra features. No resource pack. Achievements enabled.
+
+HOW IT WORKS?
+
+Light is simulated by placing `minecraft:light_block` at the nearest available air block around an entity.
+
+Just hold a light source item, and the script will do the rest.
+
+Light blocks are only updated when you move or the light level change idle entities cost zero overhead.
+
+NEW IN V1.3.5
+
+You can now add custom items to make them emit light via /gg:custom command (per player)
+
++ Add Custom Item:
+
+Type the item ID manually. For example: minecraft:diamond_helmet
+
+Add From Inventory:
+
+Pick one item from your inventory. Items are sorted alphabetically (AZ).
+
+Once you select an item, you can configure the light level from 1 to 15. You can also override the light level of built-in items.
+
+Selected items will be shown in the same /gg:custom menu.
+
+Max is 5 custom items per player.
+
+Flashlight (toggle) is now ON by default.
+
+MAIN FEATURES
+
+- Player Light: Detects items in both mainhand and offhand. If you hold two light sources, the highest level wins out.
+
+- Burning Mobs: Any mob or player currently on fire caused by lava, fire, or enchantments (Flame & Fire Aspect) will illuminate their surroundings.
+
+- Glow Mobs: Native emissive support for Blaze (15), Glow Squid (9), Allay (6), Warden (5), and Magma Cubes (scaling 515 based on size).
+
+- Item Drops: Dropped items emit light based on their type.
+
+- Full Dimensional Support: Works across all 3 dimensions, including underwater.
+
+SUPPORTED ITEMS:
+
+Allay: 6
+
+Amethyst Cluster: 8
+
+Beacon: 15
+
+Blaze: 15
+
+Blaze Powder: 8
+
+Blaze Rod: 11
+
+Breeze Rod: 3
+
+Campfire: 15
+
+Crying Obsidian: 3
+
+Diamond: 5
+
+Enchanted Golden Apple: 3
+
+Enchanting Table: 11
+
+End Crystal: 5
+
+End Rod: 15
+
+Experience Bottle: 3
+
+Fire Charge: 3
+
+Firefly Bush: 8
+
+Froglight (Ochre): 15
+
+Froglight (Pearlescent): 15
+
+Froglight (Verdant): 15
+
+Glow Berries: 3
+
+Glow Ink Sac: 3
+
+Glow Lichen: 7
+
+Glow Squid: 9
+
+Glowstone: 15
+
+Jack o'Lantern: 15
+
+Lantern: 15
+
+Lava Bucket: 15
+
+Magma: 11
+
+Magma Cream: 3
+
+Nether Star: 5
+
+Open Eyeblossom: 3
+
+Redstone: 3
+
+Redstone Block: 8
+
+Redstone Ore: 8
+
+Redstone Torch: 8
+
+Sculk: 8
+
+Sea Lantern: 15
+
+Sea Pickle: 11
+
+Shield: 12
+
+Shroomlight: 15
+
+Soul Campfire: 11
+
+Soul Lantern: 11
+
+Soul Torch: 11
+
+Totem of Undying: 12
+
+Torch: 15
+
+Warden: 5
+
++ Any enchanted item: level 3
+
+EXTRAS
+
+Spyglass Effect: Using a spyglass will brightens your vision.
+
+Available in two modes:
+
+Light Block Mode
+
+OR
+
+Simple Night Vision effect.
+
+Holding a Spyglass now lights up the direction you're looking, perfect for deep caving!
+
+DEFAULT IS OFF
+
+- Turn it on in the config menu.
+
+Note for Light Block mode: Due to Bedrock Scripting API limitations, illumination is capped within a 64-block radius of the player.
+
+OFFHAND SWAP
+
+Light source items can now be swapped to your offhand slot
+
+Just hold the item, then use or interact to the air, and it will swap to your offhand. Make sure there's no block within 8-blocks range in front of you.
+
+SWAPPABLE ITEMS:
+
+- Torch (all variants)
+
+- Lantern (All variants)
+
+- Campfire
+
+- Soul Campfire
+
+- Spyglass
+
+- Sea Pickle
+
+- Amethyst Cluster
+
+- Firefly Bush
+
+- Glow Lichen
+
+- Open Eyeblossom
+
+- Glow Berries
+
+- End Crystal
+
+- Blaze Rod
+
+- Blaze Powder
+
+- Nether Star
+
+- Breeze Rod
+
+- Glow Ink Sac
+
+- Lava Bucket
+
+- Shield
+
+- Totem of Undying
+
+- Diamond
+
+[*] Custom items may supported.
+
+[!] Items in offhand cannot be used.
+
+Update Rates:
+
+- Players: 1-tick loop for maximum responsiveness.
+
+- Mobs & Item Drops: 2-tick loop to keep CPU usage low.
+
+CONFIGURATION
+
+Type /gg:config in chat to open the settings menu!
+
+- Cheats Not Required: Works even if cheats are disabled.
+
+- Operator Only: Only server admins can change global settings.
+
+Don't like a specific feature? You can disable it individually here.
+
+COMPATIBILITY
+
+DO NOT combine this with other dynamic lighting add-ons since they will fight over the same block coordinates and cause TPS loss.

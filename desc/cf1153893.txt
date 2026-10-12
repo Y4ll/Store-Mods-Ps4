@@ -1,0 +1,21 @@
+Do you think that Armor Trims look very dull and non-shiny. As the name suggests 'Armor Trims', there should be some glow according to the material used to make the trim. Here it is! Glowing Armor Trims is a Resource Pack (Not Shader!) which makes every type of trim made with any material or template, have a glow! It is a better way to show off your good looking trims!
+
+Not:
+
+- Leather Armors do not glow because of some material glitch.
+
+- Some armors trims may look dark because they use a darker color palette as their texture.
+
+- Icons of armors with trims look same as the ones without trims, so please adjust with that!
+
+In-game screenshots:
+
+Without pack enabled:
+
+With Pack enabled:
+
+A pack similar to mine already existed...
+
+Permission to publish similar pack to theirs:
+
+Link: https://mcpedl.com/glimmering-armour-trims-resource-pack

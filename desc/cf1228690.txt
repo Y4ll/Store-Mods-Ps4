@@ -1,0 +1,50 @@
+Vanilla Resources Made Available for Minecraft with RTX
+
+Vanilla RTX is the go-to ray tracing resource pack for Minecraft RTX, bringing together a cohesive art direction for default ray-traced Minecraft graphics since 2020 Enabling players to use Minecraft's ray tracing features in any world or servers by adding thoughtfully-crafted materials and configurations to the base game without altering the vanilla experience, delivering complete ray tracing support for Minecraft in a manner that integrates seamlessly and maintains a native look and feel.
+Vanilla RTX Normals, as the name suggests, is the fully normal-mapped version.
+
+- Every possible vanilla block is supported, even secret or unobtainable blocks.
+
+- All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of similar materials.
+
+- Every material has been carefully designed to give each block the character it deserves while preserving its original style and functionality without diverging from the artist's intent inherent in the texture.
+
+- Everything has been fine-tuned for Minecraft's ray tracing.
+
+- Compatibility errors of vanilla resources with ray tracing are resolved through Enhancements
+
+Vanilla RTX has been relocated! You're currently viewing Vanilla RTX Normals' page, click here to go to the new page.
+
+Main Resource Packs:
+
+- Vanilla RTX uses 16x heightmaps which define depth on blocks.
+
+- Vanilla RTX Normals features handcrafted 16x normal maps instead, which simulate curvature by defining the direction each pixel in the texture is facing.
+
+- Vanilla RTX Opus is the composition of both Vanilla RTX & Vanilla RTX Normals, featuring higher resolution normal maps with an unprecedented level of detail.
+
+Related Projects:
+
+- Vanilla RTX App is an installable tool that lets you launch Minecraft RTX without issues in one click, customize fog, lighting or materials in Vanilla RTX, recieve updates automatically, upgrade DLSS, and more...
+
+- Vanilla RTX Add-Ons are a series of smaller packages that give certain blocks interesting properties!
+
+- Chemistry RTX packs are optional extensions to extend support to Minecraft: Education Edition Chemistry content.
+
+- Creative RTX HD Material Pack features a collection of exotic high definition materials for creative builds with ray tracing.
+
+With Vanilla RTX all blocks receives their own custom RTX flavor, elevating their character.
+Every texture is meticulously taken care of for the highest level of detail and internal consistency while making sure they preserve or complement their core vanilla style and functionlity.
+
+Vanilla RTX is is the most up-to-date ray tracing resource pack for Minecraft, regular updates add support for newer Minecraft features while improving the appearance of existing ones and adapting to the latest versions of the game.
+A wide range of technical and compatibility issues of vanilla resources with ray tracing have also been addressed in this pack, giving all players the ability to continue to enjoy the latest Minecraft features and updates with ray tracing at its best.
+
+Most of fog colors with ray tracing have been made to match vanilla game colors and to complement each biome's intended feel and atmosphere. If you want to control the intensity of fog effects, you can easily do that (and much more!) through the Vanilla RTX App.
+
+Q: What are the differences between the three different versions of Vanilla RTX?
+
+A: Vanilla RTX uses 16x heightmaps, which are later converted to a higher resolution (192x) normal map to create an impression of depth on otherwise flat surfaces.
+Vanilla RTX Normals uses 16x normal maps instead, which define curvature on surfaces and the direction that light will bounce off each individual pixel, also creating a perception of depth and shapein a different way!
+Only one can be used at a time, each will provide a distinct appearance for all blocks.
+
+In a few words, Vanilla RTX Normals provides alternative lighting for surfaces.

@@ -1,0 +1,15 @@
+Tricky Trials Panorama with Shaders (Bedrock)
+
+This is a really simple Resource Pack that adds shaders to the original panorama.
+
+There's no world seed this time, because I had to painfully recreate the panorama learning how to use structure blocks in the process, this was fun to do.
+
+The shaders used are the Complementary Reimagined Shaders.
+
+Note: GUI not included.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+- Feel free to include this resource pack in your mod pack or server.
+
+- If you wish to use this pack in any form of content, please credit with a link to the original PlanetMinecraft/Modrinth/CurseForge page where you can.

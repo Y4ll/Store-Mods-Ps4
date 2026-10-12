@@ -1,0 +1,100 @@
+What it is: a Spanish translation-only pack. It does not add Pokemon, new items, or gameplay systems; it works on top of CobbleDrock.
+
+CobbleDrock y su contenido original pertenecen a sus respectivos autores. Esta traduccion no reemplaza a CobbleDrock ni reclama la autoria sobre el; solo proporciona texto en espanol y cadenas de interfaz cuando es posible.
+
+1. Pack identity
+
+- Name: CobbleDrock Traduccion Hispana (Spanish Translation)
+
+- Version: 1.3.2
+
+- Icon: WB CobbledRock logo with regional flags
+
+- Description makes clear: translation only
+
+- Stable UUIDs so updates in this 1.3.x line should not stack as separate packs
+
+2. Items
+
+- Spanish names (stones, gems, berries, medicines, balls, etc.)
+
+- Tooltips / usage descriptions when the game reads them from .lang
+
+- Fossils: tooltip shows which Pokemon can be restored
+
+- Some duplicate description lines cleaned when the issue was in the language files
+
+3. Party / summary screen
+
+Translates labels such as:
+
+- Dex No., Species, Type, OT, Nature (shown as Estado), Ability
+
+- XP, Next level, Party, Held item
+
+- Stats: HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Friendship
+
+Does not translate (sent by Core in English): values like Water, Rash, Torrent, None, long ability descriptions, etc.
+
+4. Starter selection
+
+- Choose starter style UI text
+
+- I choose you! button (more readable size)
+
+- Region / selection UI text from the translation pack
+
+5. Healing machine
+
+- Spanish messages when Core uses translation keys, e.g.:
+
+- party already fully healed
+
+- party is being healed
+
+- healed / in use / no Pokemon / not enough charge
+
+-
+
+6. Technical
+
+- .lang files (es_ES, es_MX, es_AR, etc.)
+
+- Translation-pack UI JSON (labels, sizes)
+
+- Light BP support (tooltips) without replacing Core
+
+- Does not import or override Core scripts; does not rewrite battle text via API
+
+7. What this pack does not do
+
+- Does not modify CobbleDrock Core
+
+- Does not fix Ability None
+
+- Does not translate capture lines like [Capture Success]... or returned to its Poke Ball
+
+- Does not translate gym leader names
+
+- Is not a content or multiplayer gameplay addon
+
+One-line summary
+
+Translates items, many UI labels, and language-keyed messages into Spanish; it does not change Core or all hardcoded battle/summary text.
+
+Disclaimer / Legal notice
+
+CobbleDrock Traduccion Hispana is an unofficial fan translation project.
+
+Pokemon and all related names, characters, images, trademarks, and assets are the property of Nintendo, Creatures Inc., and GAME FREAK inc. / The Pokemon Company. This work is not affiliated with, endorsed by, or sponsored by them.
+
+Minecraft is a trademark of Mojang Studios / Microsoft. This pack is not affiliated with or endorsed by Mojang or Microsoft.
+
+CobbleDrock and its original content belong to their respective authors. This translation does not replace CobbleDrock and does not claim authorship over it; it only provides Spanish text and interface strings where possible.
+
+What belongs to me in this pack (my own translation work, pack organization, WB CobbledRock branding/icons created or commissioned for this project, and the presentation of this translation addon) is my property to the extent permitted by law for fan-made derivative works.
+
+Redistribution is prohibited including uploading this pack (complete or modified) to other sites, or selling it without my prior written consent.
+You may use it personally in your world/server; do not reupload it elsewhere as if you were the author, and do not bundle it into other packs without permission.
+
+By downloading or using this addon, you agree to these terms.

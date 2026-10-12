@@ -1,0 +1,63 @@
+Youtube Video
+
+IF YOU WANT TO ADD MONEY FOR ANY PLAYER JUST USE THE SCOREBOARD CALLED "MONEY", EXAMPLES:
+
+/scoreboard players add <player> money <quantity>
+
+/scoreboard players add @s money 1000
+
+This addon brings a whole new level of immersion to Minecraft! It adds a fully functional cellphone with 18 different apps, ranging from useful tools to a complete economy system for your world or server.
+
+Some initial screenshots
+
+Main Features:
+
+- Integrated economy: earn, transfer, and invest money directly through the phone.
+
+- Customization: change background colors and phone cases to make it unique.
+
+- Communication: send private messages, create groups, or even share posts like on social media.
+
+- Entertainment & utility: listen to records with Craftfy, save coordinates with Noteblock, take selfies with the Camera, or bet against other players with Coinflip.
+
+- Market & shops: buy and sell items in Saborreia (player shops) or send items to any player without being close.
+
+- Teleport system: create teleport points with Waypoint or request TPs directly to another player with the Teleporter.
+
+- Mini-games inside the phone: challenge your friends in Digitonildo (typing speed game) and bet real server money!
+
+- Automatic investments: invest your balance with Bicraft and earn profits while you play.
+
+- Smart management: organize notes, store extra items in the Backpack, and configure languages or notifications in Settings.
+
+Example of Included Apps:
+
+- Customize: personalize your phone.
+
+- Craftfy: listen to all Minecraft discs.
+
+- Camera: place a camera and see yourself in third person.
+
+- Saborreia: buy and sell items with other players.
+
+- Craftcord: create groups and send private messages.
+
+- Waypoint: teleport to marked locations.
+
+- Bank: check balance and make transfers.
+
+- Digitonildo: typing game with money bets.
+
+- Backpack: store extra items.
+
+- Bicraft: automatic investment system.
+
+Crafting
+
+This addon is perfect for both multiplayer servers and singleplayer worlds, mixing fun, practicality, and economy in a single system.
+
+Contact
+
+Discord: @spyei
+
+Discord server for troubles/questions: https://discord.gg/3t8HzHauUG

@@ -1,0 +1,75 @@
+Supports 1.26.13+
+
+Azify Natural is a realistically themed Minecraft Bedrock Shader that enhances the default aesthetics. It supports Android, Windows, and iOS devices of Minecraft 1.21+
+
+For "Windows, Android and iOS" Download from the link provided!
+
+Downloads (Android, iOS, Windows)
+
+This shader will not work without using required patches! Please read the installation guide before downloading.
+
+Features
+
+- Realistic Color Enhancements
+
+- New Clouds More natural and dynamic skies
+
+- Better End & Nether Enhanced mystical and fiery landscapes
+
+- Improved Underwater Rendering More depth and realism
+
+- Refined Stars Sharper, more immersive night skies
+
+- Insane Water revamp
+
+- Quality Sun Bloom
+
+- Glowing Ores
+
+- Plants Wave
+
+- Sharper and Quality Shadows
+
+- And *MORE!!
+
+Installation
+
+Disclaimer: Minecraft Bedrock does not officially support loading custom shaders. The following are unofficial methods for loading shaders.
+
+Android
+
+1. Install MB Loader APK.
+2. Import the resource pack to Minecraft and activate it in global resources.
+3. Launch Minecraft through MB Loader APK.
+
+Windows
+
+- Use BetterRenderDragon or MatJect to enable Material Bin Loader (shader loader).
+
+- Import the resource pack and activate it in global resources.
+
+If BetterRenderDragon does not support your Minecraft version, use this Matject tool (search in github) to install shaders.
+
+Linux (x86_64 arch)
+
+This method is for mcpelauncher-manifest.
+1. Install mcpelauncher-materialbinloader-mod.
+2. Import the resource pack and activate it in global resources.
+
+*iOS
+
+Sorry. There isn't an easy method to install shaders on iOS devices. You either require jailbreak or would have to install an untrusted IPA.
+
+Downloads (Android, iOS, Windows)
+
+NOTE:
+
+This shader only works on 1.21.100+ since Mojang changed the lighting there. If you try it on older versions like 1.21.94, itll just bug out because of the old lighting system.
+
+MERGED - means it contains ios, android and windows in one file.
+
+Search terms: realistic shader mcpe, best shaders, shaders, shader, mcpe, rtx, no lag
+
+Downloads (Android, iOS, Windows)
+
+.

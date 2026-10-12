@@ -1,0 +1,49 @@
+Better Biome Villages adds brand new villages to your world. Each biome gets its own village style.
+
+It adds villages to these biomes:
+
+- Plains
+
+- Forest
+
+- Taiga
+
+- Snowy
+
+- Desert
+
+- Savanna
+
+- Jungle
+
+- Swamp
+
+- Badlands
+
+- Cherry Grove
+
+To find the nearest one, use /locate structure voxen:village_plains. For other biomes, change plains to the biome name.
+
+Commands
+
+These commands can be used to summon or build a village where you are standing:
+
+- /function village/plains
+
+- /function village/forest
+
+- /function village/taiga
+
+- /function village/snowy
+
+- /function village/desert
+
+- /function village/savanna
+
+- /function village/jungle
+
+- /function village/swamp
+
+- /function village/badlands
+
+- /function village/cherry

@@ -1,0 +1,15 @@
+Give spice to your gameplay by bringing Java advancements into Bedrock Edition with this add-on! Featuring a Java-like popup display whenever you unlock an achievement and advancement, per world per player.
+
+Toast Pop-ups
+
+Upon unlocking an advancement, like in the original Java edition, a pop-up message would appear. This feature has been implemented into this add-on:
+
+Advancements GUI
+
+You can use the Log Book item which is given at the start of the game to view your currently unlocked achievements and advancements.
+
+Installation Information
+
+- You need to enable Beta APIs under the Experiments tab when applying it in the world
+
+- The pack works in multiplayer or in servers

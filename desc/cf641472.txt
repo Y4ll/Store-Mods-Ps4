@@ -1,0 +1,27 @@
+MCPE Lunar Client Crosshair
+
+This is a Minecraft: Bedrock Edition resource pack which brings the crosshairs from Lunar Client for Minecraft: Java Edition to Minecraft: Bedrock Edition.
+
+UPDATE v1.2.0!
+
+This new, second update includes:
+
+- Added a circle crosshair with and without a dot crosshair which completes the Lunar Client crosshairs which were all included in Lunar Client to be added to the resource pack. I will continue releasing versions with fixes and more.
+
+Notes
+
+- If a update listed above isn't findable here to download, go to the source on GitHub by clicking the "Source" button above this description. From then, scroll down until you find some numbers with a dot which begin with a "v". For example, "v1.1.0". Click on that text, and scroll down then until you find "MCPE-Lunar-Client-Crosshair_vX.X.X.mcpack". Replace the X'es with the numbers that you clicked earlier on. From then, it will download like Curseforge! I always try to publish the release here as fast as i can, but sometimes they're long under review and it takes long to appear.
+
+- If you need help setting up, you can follow the guide on the GitHub page by clicking here.
+
+All Lunar Client Crosshairs
+
+These are all the Lunar Client crosshairs currently included in the pack:
+
+Data
+
+Minimum Minecraft: Bedrock Edition version: 1.16.20
+
+Maximum Minecraft: Bedrock Edition version: 1.19.2
+
+Logo:

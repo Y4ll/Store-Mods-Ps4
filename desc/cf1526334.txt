@@ -1,0 +1,49 @@
+Better Creeper Animations
+
+Better Creeper Animations brings Minecraft Bedrock's most iconic mob to life with smooth, fluid animations and biome-specific variants.
+
+Smooth Animations
+
+Every action the creeper performs has been completely overhauled with carefully tuned animations:
+
+- Idle gentle, lifelike sway
+
+- Walking & chasing natural leg movement that responds to speed
+
+- Swimming proper paddling motion in water
+
+- Jumping, falling & landing three-phase aerial animation that reacts to ground contact
+
+- Swelling dramatic body inflation and trembling as the creeper builds up to detonate
+
+- Damage reactions visible hit feedback when struck
+
+- Death animation replaces the abrupt vanilla death with a smoother fall
+
+Biome Specific Variants
+
+The creeper now adapts to its environment:
+
+Default Creeper keeps the classic look in all other biomes
+
+Cherry Creeper spawns in cherry grove biomes, decorated with soft pink cherry blossom petals
+
+Snowy Creeper spawns in cold biomes (taiga, ice plains, frozen peaks, snowy slopes, and more) with a snow cap on its head
+
+Pale Garden Creeper spawns in the pale garden with a drained, ashen-gray look and eerie glowing eyes to match the biome's haunting atmosphere
+
+Installation
+
+- Download the .mcpack file
+
+- Double-click to import into Minecraft Bedrock
+
+- Enable the resource pack in your world settings
+
+- Start a new world or reload an existing one
+
+Feedback
+
+Any suggestion? Leave a comment below, I read every one. If you enjoy the pack, a thumbs-up or a follow goes a long way!
+
+If you'd like to feature this pack in a video or showcase, please credit and link back to this CurseForge or MCPEDL page.

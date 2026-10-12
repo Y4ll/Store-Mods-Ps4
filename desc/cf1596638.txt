@@ -1,0 +1,32 @@
+A powerful all-in-one cheat menu built for Hardcore mode where death is permanent and every second counts. Hardcore Cheater gives you everything you need to survive, thrive, and bend the rules, all from a single stick. No creative mode needed.
+
+Features
+
+- Immortal Mode toggle invincibility on and off instantly, shown on the main menu at all times
+
+- Commands Console run any command from a text input with a saved history of your last 15 commands for quick re-use
+
+- Enchantments apply any enchantment to any item directly from the menu, no anvil needed
+
+- Enchantment Books get any enchanted book from the menu instantly
+
+- Effects apply any potion effect to yourself with a single tap
+
+- XP Manager add XP levels instantly without grinding
+
+- Teleport teleport to coordinates or players instantly
+
+- Waypoints save locations with custom names and teleport back anytime
+
+- Item Repairer repair any tool or armor piece instantly without an anvil
+
+How to Use
+
+PC: Right-click the hc stick to open the Hardcore Cheater menu.
+Mobile: Hold screen with the hc stick to open the menu.
+
+The stick is given automatically when you first join the world. All features are accessible from the main menu.
+
+Achievement Friendly?
+
+Yes the add-on uses stable game features with no experimental toggles switched on, so you can keep playing with achievements enabled.

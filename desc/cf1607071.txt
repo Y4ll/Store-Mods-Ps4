@@ -1,0 +1,74 @@
+Tree Capitator Fast Tree Chopping Addon
+
+Welcome to Tree Capitator by BAKU, a lightweight Minecraft Bedrock addon created to make wood collection faster, easier, and more efficient.
+
+With this addon, you can break a single log and automatically chop the entire connected tree. It is perfect for survival players who want to save time while gathering wood without changing the natural Minecraft experience.
+
+Addon Features
+
+- Full Tree Chopping Break one log to chop the entire connected tree.
+
+- Faster Wood Collection Collect large amounts of wood in seconds.
+
+- Connected Leaf Breaking Leaves connected to the tree are cleared automatically.
+
+- Survival Friendly Designed to improve survival gameplay without making it complicated.
+
+- Bedrock Optimized Smooth performance on mobile, Windows, and other Bedrock platforms.
+
+How to Use
+
+- Install and activate the addon in your world.
+
+- Hold an axe or your preferred tool.
+
+- Sneak and break one log from the tree.
+
+- The connected logs and leaves will automatically break.
+
+Gameplay Benefits
+
+- Saves Time No need to break every log separately.
+
+- Better Building Progress Gather wood quickly for houses, farms, and large projects.
+
+- Useful for Large Forests Clear trees efficiently while exploring.
+
+- Lightweight Performance Minimal impact on gameplay performance.
+
+Addon Highlights
+
+- Chop Complete Trees
+
+- Simple Sneak-and-Break System
+
+- Mobile and Bedrock Friendly
+
+- Ideal for Survival Worlds
+
+- Fast and Optimized
+
+Addon Information
+
+- Type: Survival Utility Addon
+
+- Main Feature: Tree Capitator
+
+- Platform: Minecraft Bedrock Edition
+
+- Performance: Lightweight and Optimized
+
+Why Use Tree Capitator?
+
+If you are tired of breaking every log manually, Tree Capitator gives you a faster and smoother way to collect wood. It is especially useful for survival players, builders, and anyone working on large Minecraft projects.
+
+Credits
+
+Addon Creator: BAKU
+
+Support & Feedback
+
+Please rate the addon and leave a review if you enjoyed it. Your support helps improve future projects.
+
+Have a question, suggestion, or bug report?
+Join the Discord server here Click to Join Discord

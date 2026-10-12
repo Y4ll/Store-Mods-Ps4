@@ -1,0 +1,133 @@
+"It takes a great hero to slay a dragon, but it takes a greater hero to tame one." - TheRPGAdventurer
+
+GitHub Page | Bug Tracker | Wiki
+
+Discord | QQ (974797002) | YouTube | Twitter | Reddit | Forum
+
+Overview
+
+This addon was made for the purpose of making useless ender dragon eggs hatcheable, you can tame the dragon like a pet and make it ride for you and soar in the skies.
+
+Unlike the original Dragon Mounts which is more challenging and has less features better suited for modpack creators, the premise of this version is to expand the original Dragon Mounts by adding in an rpg adventure-styled experience with extra content suited to be played primarily. Of course, you can still add it to your modpack!
+
+- Meanwhile, there is a java version of Dragon Mounts 2 on CurseForge. Go check it out!
+
+Follow us by clicking the button!
+
+How To Play
+
+Obtaining Dragon Eggs:
+
+You can find the eggs in new structures that can spawn in The Overworld, The Nether and The End dimensions. You can either keep them as trophies as usual, or hatch them to give yourselves your very own dragons! To tame your dragons, use any raw fish except pufferfish.
+
+Hatching Eggs and Egg Transformations:
+
+You just interact with them until you see particles, which means it's incubating. Usually takes about 20 minutes. For transforming eggs into other dragon breeds, all you do is place the eggs above certain blocks and it takes 5 minutes.
+
+There are 17 dragon eggs in total, as shown in this screenshot.
+
+Taming and Riding your Dragons:
+
+After taming your dragons with any meat except pufferfish, you can open the inventory of your dragon when you're riding them. To breed your dragons, use any raw fish except pufferfish. To fly with your dragons, Press jump. Use your arrow keys on your dragons while flying.
+
+Special Features
+
+Dragon Amulets:
+
+Tame your dragon first, then just hit your dragon with the Amulet.
+
+Dragon Flutes:
+
+Crouch and interact your dragon with the flute to bind it. Then use the flute to teleport your dragon to you.
+
+Dragon Scepters:
+
+You can craft them using 2 Blaze Rods and 1 Emerald. To activate the attacks, sit on your dragon and use the Dragon Scepters.
+
+Variant Orbs:
+
+You use these orbs to change the variants of your tamed dragons.
+
+Diamond Shears:
+
+Craft Diamond Shears, then shear your dragons.
+
+Netherite Shears:
+
+An upgraded form of Diamond Shears with better durability.
+
+Dragon Nest Blocks:
+
+Decorative blocks for your dragon stables.
+
+Essence Gems and Dragon Cores:
+
+Spawns when your dragon dies. Use those gems on the Dragon Core blocks to revive them, but they'll reset back to a baby.
+
+Dragon Mounts 2
+
+Every Dragons and their eggs in Dragon Mounts 2
+
+- Aether Dragon
+
+- Dark Dragon
+
+- Enchanted Dragon
+
+- Ender Dragon
+
+- Fire Dragon
+
+- Forest Dragon
+
+- Ice Dragon
+
+- Moonlight Dragon
+
+- Nether Dragon
+
+- Sculk Dragon
+
+- Skeleton Dragon
+
+- Storm Dragon
+
+- Sunlight Dragon
+
+- Terra Dragon
+
+- Water Dragon
+
+- Wither Dragon
+
+- Zombie Dragon
+
+Other Features
+
+Extra features that make this addon a little more unique.
+
+- No need to toggle any experiments!
+
+- Compatible with Realms and Servers!
+
+- You can now earn achievements when playing with Dragon Mounts 2!
+
+I hope you like it.
+
+Permission
+
+Screenshot proof from Kingdomall, Shannieann and UkanGundan for giving us permission to continue Dragon Mounts 2.
+
+Special Thanks
+
+- Kingdomall, Shannieann, UkanGundan - Giving us permission to continue the mod's legacy, officially endorsing our continuation.
+
+- DDragonZilla - Creating the new and beautiful thumbnails and screenshots.
+
+- JujuStyle7 - Major Inspiration and for creating the first Dragon Mounts Addon since v1.2.X of Minecraft: Bedrock Edition
+
+- LegitDragonb0y - Major Inspiration and for creating the second Dragon Mounts Addon since v1.14.30 of Minecraft: Bedrock Edition
+
+- TheRPGAdventurer - Originally creating Dragon Mounts 2 (All Rights Reserved) since v1.12.2 of Minecraft: Java Edition
+
+- BarracudaATA - Originally creating Dragon Mounts (Open Source) sinc

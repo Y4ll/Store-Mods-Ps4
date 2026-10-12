@@ -1,0 +1,116 @@
+Natures Smallfolk Development Document
+
+Natures Smallfolk introduces a detailed ecosystem of insects and tiny creatures for Minecraft Bedrock.
+Every species features natural behaviors, biomespecific spawning, color variants, and environmental interactions that make the world feel richer, more dynamic, and biologically alive.
+
+Mob Behaviors
+
+Below is the full catalog of creatures included in the development document, each with unique movement, interactions, variants, and environmental behavior.
+
+<li>
+<strong> Butterfly</strong><br>
+<em>Spawns:</em> Flower Forest, Meadow, Plains, Forest<br>
+<em>Variants:</em> 8 colors<br>
+<em>Behavior:</em> Erratic, prolonged flight; lands on flowers and leaves; attracted to flowers; flees if approached too fast.
+</li>
+
+<li>
+<strong> Ant</strong><br>
+<em>Spawns:</em> Plains, Forest, Jungle, Savanna<br>
+<em>Behavior:</em> Fast walkers searching for food; collect items and store them in Ant Piles (up to 10).<br>
+<em>Ant Pile:</em> Breaking it drops stored loot and spawns 36 furious ants that swarm the player.
+</li>
+
+<li>
+<strong> Dung Beetle</strong><br>
+<em>Spawns:</em> Savanna, Desert, Mesa<br>
+<em>Behavior:</em> Slow walkers; roll dung; avoid water.
+</li>
+
+<li>
+<strong> Firefly</strong><br>
+<em>Spawns:</em> Swamp, Roofed Forest, Forest, Lush Caves<br>
+<em>Behavior:</em> Slow, low-altitude flight; emits light via emissive textures or dynamic lighting.
+</li>
+
+<li>
+<strong> Ladybug</strong><br>
+<em>Spawns:</em> Plains, Sunflower Plains, Meadow, Flower Forest, Forest<br>
+<em>Behavior:</em> Alternates between slow walking and short flights; peaceful; attracted to crops and flowers.
+</li>
+
+<li>
+<strong> Atlas Moth</strong><br>
+<em>Spawns:</em> Jungle, Forest, Taiga, Caves<br>
+<em>Behavior:</em> Nocturnal; disappears during the day; attracted to light sources.
+</li>
+
+<li>
+<strong> Praying Mantis</strong><br>
+<em>Spawns:</em> Forest, Plains, Jungle<br>
+<em>Behavior:</em> Ambush predator; leaps onto prey; neutral to players but attacks nearby entities.
+</li>
+
+<li>
+<strong> Snail</strong><br>
+<em>Spawns:</em> Swamp, Forest, Jungle, Lush Caves, Dripstone Caves<br>
+<em>Variants:</em> Brown, Cyan, Green, Pink<br>
+<em>Behavior:</em> Extremely slow; hides inside its shell when threatened or during heavy rain.
+</li>
+
+<li>
+<strong> Tarantula</strong><br>
+<em>Spawns:</em> Jungle, Forest, Savanna<br>
+<em>Variants:</em> 5 colors<br>
+<em>Behavior:</em> Fast; climbs walls; neutral by day, aggressive in darkness; hunts insects.
+</li>
+
+<li>
+<strong> Centipede</strong><br>
+<em>Spawns:</em> Underground Caves<br>
+<em>Behavior:</em> Fast zigzag movement; prefers dark areas; neutral but defends itself with mild poison.
+</li>
+
+<li>
+<strong> Cricket</strong><br>
+<em>Spawns:</em> Plains, Forest<br>
+<em>Variants:</em> Green, Brown<br>
+<em>Behavior:</em> Long, fast leaps; chirps in the dark; flees quickly from players and predators.
+</li>
+
+<li>
+<strong> Dragonfly</strong><br>
+<em>Spawns:</em> Swamp, River<br>
+<em>Variants:</em> Blue, Green, Purple, Red<br>
+<em>Behavior:</em> Fast, precise flight; hovers in place.
+</li>
+
+<li>
+<strong> Mosquito</strong><br>
+<em>Spawns:</em> Swamp, Jungle<br>
+<em>Behavior:</em> Erratic flight; aggressively chases the player; deals low damage but is very annoying.
+</li>
+
+<li>
+<strong> Scorpion</strong><br>
+<em>Spawns:</em> Desert, Mesa, Underground Caves<br>
+<em>Variants:</em> Black, Desert<br>
+<em>Behavior:</em> Moderate walking speed; neutral; poisons only when provoked.
+</li>
+
+<li>
+<strong> Sea Slug</strong><br>
+<em>Spawns:</em> Ocean, Beach (Underwater)<br>
+<em>Variants:</em> Aqua, Green, Orange<br>
+<em>Behavior:</em> Very slow; walks on ocean floors and coral reefs; peaceful but toxic when interacted with.
+</li>
+
+Glass Jars System
+
+Players can collect and display insects using 35 unique glass jars plus the empty jar.
+
+- Capture: Use an empty jar to pick up a creature without harming it.
+
+- Filled Jars: The jar item stores the captured mob and its color variant.
+
+- Display: Place jars in the wo

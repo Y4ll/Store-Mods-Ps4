@@ -1,0 +1,187 @@
+MorphX: Block Edition
+
+Transform yourself into 200+ Vanilla Minecraft Blocks with MorphX: Block Edition!
+
+Have you ever wanted to hide as a Grass Block , become a Furnace , disguise yourself as a Diamond Ore , or troll your friends as a TNT Block ? Now you can!
+
+MorphX: Block Edition brings a brand-new Fullscreen Morph Menu that lets you morph into your favorite Minecraft blocks with just a few clicks. Whether you're playing Survival, Creative, Multiplayer, Hide & Seek, or making content, this addon makes block morphing smooth, immersive, and incredibly fun.
+
+The addon also features a Hybrid Unlock System. In Creative Mode, every block morph is unlocked from the start. In Survival Mode, simply break a block once to permanently unlock its morph. Your progress is automatically saved, so you never lose your unlocked collection.
+
+Features
+
+200+ Vanilla Block Morphs
+
+Beautiful Fullscreen Morph Menu
+
+Fast Search Bar
+
+Organized Categories
+
+Favorite Morphs
+
+Recently Used Blocks
+
+Multiplayer Compatible
+
+Hybrid Unlock System
+
+Automatic Save System
+
+Optimized for Low-End Devices
+
+Mobile, PC & Console Support
+
+How to Open the Morph Menu
+
+Step : 1 Crafting Recipe
+
+Craft the **Morph Core ** to access the Morph Menu.
+
+Step : 2 Get Morph Core
+
+Step : 3 Follow Instructions
+
+PC
+
+Hold the Morph core and Right Click / Use.
+
+Mobile
+
+Hold the Morph Core and long tap on screen.
+
+Console
+
+Equip the Morph Core and press the Use / Interact button.
+
+- Xbox RT
+
+- PlayStation R2
+
+- Nintendo Switch ZR
+
+Hybrid Unlock System
+
+Creative Mode
+
+Every Block Morph is unlocked automatically.
+
+Perfect for:
+
+- Builders
+
+- Map Makers
+
+- Content Creators
+
+Survival Mode
+
+Break a block once to permanently unlock its morph.
+
+Example:
+
+Grass Block Unlock Grass Block Morph
+
+Stone Unlock Stone Morph
+
+Oak Log Unlock Oak Log Morph
+
+Diamond Ore Unlock Diamond Ore Morph
+
+Every unlock is automatically saved.
+
+Block Categories
+
+Nature
+
+Stone
+
+Wood
+
+Decoration
+
+Building
+
+Ores
+
+Redstone
+
+Nether
+
+End
+
+Plants
+
+Colored Blocks
+
+Utility
+
+Miscellaneous
+
+Multiplayer Support
+
+Play together with friends!
+
+Each player has:
+
+Individual Unlock Progress
+
+Personal Favorites
+
+Separate Recently Used Blocks
+
+Individual Saved Data
+
+No progress is shared between players.
+
+FAQ
+
+Does it work in Multiplayer?
+
+Yes!
+
+Are all blocks unlocked?
+
+Creative Yes
+
+Survival Unlock by breaking blocks.
+
+Is my progress saved?
+
+Yes! Your unlocked morphs, favorites, and progress are saved automatically.
+
+Creator
+
+Created By Kareo Gamerz
+
+Thank you for downloading MorphX: Block Edition! Have fun transforming into your favorite Minecraft blocks and surprising your friends!
+
+Installation Guide
+
+1 Import the .mcaddon file.
+
+2 Activate the Resource Pack.
+
+3 Activate the Behavior Pack.
+
+4 Create a new world or edit an existing one.
+
+5 Enable all Experimental Features required by your Minecraft version (especially Beta APIs / Script API if prompted).
+
+6 Join your world.
+
+7 Craft or obtain the Morph Core.
+
+8 Use the Morph Core to open the menu and start morphing!
+
+IMPORTANT
+
+License
+
+All Rights Reserved This addon was created by Kareo Gamerz.
+
+You are not allowed to redistribute, modify, or reupload this addon on any other platform without the creators permission.
+
+You may, however, make videos or showcase this addon on YouTube or social media please provide credit and a link to the original CurseForge or MCPEDL page.
+
+2025-2026Kareo Gamerz All Rights Reserved.

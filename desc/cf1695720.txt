@@ -1,0 +1,29 @@
+INFECTION PROTOCOL Something is spreading.
+
+Infection Protocol adds a persistent infection system to Minecraft Bedrock where encounters with dangerous infected mobs can expose you to infection. Once infected, your condition can worsen over time, bringing increasingly dangerous symptoms and forcing you to manage your health carefully. Features
+
+Infection can spread from Zombies, Husks, Drowned and Zombie Villagers. Transmission is chance-based every encounter isn't automatically an infection.
+
+5 infection stages:
+
+Healthy
+
+Exposed
+
+Infected
+
+Advanced
+
+Critical
+
+Infection progresses over time. Symptoms become increasingly severe. Symptoms include weakness, hunger, slowness, nausea, coughing, darkness and health damage.
+
+Medical treatment is available through Bandages, Antibiotics and Antivirals. Built-in Guide Book explains the infection system and survival mechanics. Infection data persists for the player. Survival
+
+Don't ignore the symptoms. Avoid unnecessary contact with infected mobs, monitor your infection level, and keep medical supplies ready. The longer an infection progresses, the more dangerous survival becomes.
+
+Survive. Treat. Stop the spread.
+
+Created by Modder X
+
+For bugs and suggestions, please use the Infection Protocol CurseForge

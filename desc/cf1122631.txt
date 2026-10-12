@@ -1,0 +1,77 @@
+Forget boring 2D sprites. Weapons+ 3D Reloaded completely overhauls your Minecraft Bedrock combat experience with 18 massive, hand-crafted 3D custom weapons AND a complete 3D overhaul of all vanilla swords. This isn't just a texture packevery custom weapon comes with unique stats, lore descriptions, and game-changing scripted abilities that bring your battles to life.
+
+Whether you are smashing enemies with the ground-shaking Worm Hammer, pulling souls with the Dread Knight's Scythe, zipping across the battlefield with the Cybersword, or just swinging a classic 3D Diamond Sword, this addon gives you the power to conquer your world.
+
+Main Features
+
+- Vanilla 3D Overhaul: Say goodbye to flat pixels! All standard Minecraft swords (Wood, Stone, Iron, Gold, Diamond, and Netherite) have been completely remodeled into high-quality 3D assets while keeping their classic feel and enchantments.
+
+- High-Quality Custom Models: Every new hammer, scythe, axe, and sword is a detailed 3D model that looks epic in your hand.
+
+- Scripted Abilities: Custom weapons feature game-changing passive and active skills like Lifesteal, Sonic Booms, Neon Dash, Bloodlust Sprints, and Death's Grasp.
+
+- Lore System: Hold a custom weapon to reveal its hidden lore and abilities in your inventory.
+
+The Arsenal
+
+- GOD TIER (End-Game)
+
+- Mjolnir (25 DMG): The God of Thunder. Passive: Strikes enemies with lightning on every hit.
+
+- Dread Knight's Scythe (18 DMG): Grim Reaper. Active: Death's Grasp Use to violently pull all enemies within an 8-block radius toward you while infecting them with the Wither effect.
+
+- Worm Hammer (16 DMG): Desert Power. Passive: Tremor Smash Shakes the ground, knocking up and slowing all nearby enemies.
+
+- Peacekeeper Sword (15 DMG): Maintain Order. Passive: Pacify Inflicts Weakness (0 dmg) and Slowness, forcing enemies to stop fighting.
+
+- LEGENDARY TIER
+
+- Vindication Battle Axe (15 DMG): Illager Rage. Active: Bloodlust Sprint Sound the raid horn to gain Speed III and Strength II for 5 seconds of pure berserker rage.
+
+- Hog Buster (14 DMG): A massive industrial blade designed to crush heavy armor.
+
+- Brute's Mace (13 DMG): Piglin Brutality. Passive: Skull Cracker Deals heavy knockback and instantly grants you Resistance II on every hit to tank through hordes.
+
+- Ruby Sword (12 DMG): Bloodthirst. Passive: Lifesteal Heals you for 2 hearts on every hit.
+
+- Netherite Hammer (12 DMG): The ultimate survivor's tool with massive durability.
+
+- TECH TIER
+
+- Cybersword (9 DMG): High-Tech Blade. Active: Neon Dash Use/Right-click to instantly propel yourself forward to close the gap on enemies, leaving a glowing neon trail behind you.
+
+- ELEMENTAL TIER
+
+- Lava Hammer (10 DMG): Passive: Sets enemies on fire for 10 seconds.
+
+- Sculk Hammer (9 DMG): Passive: Sonic Boom Massive knockback + Darkness effect.
+
+- Prismarine Hammer (7 DMG): Passive: Riptide Levitates enemies into the air helpless.
+
+- NORMAL TIER
+
+- Iron Hammer (9 DMG)
+
+- Emerald Hammer (8 DMG)
+
+- Gold Hammer (6 DMG)
+
+- Nature Sword (6 DMG)
+
+- Stone Hammer (5 DMG)
+
+- VANILLA 3D OVERHAUL
+
+- Wooden Sword
+
+- Stone Sword
+
+- Iron Sword
+
+- Gold Sword
+
+- Diamond Sword
+
+- Netherite Sword
+
+A huge thank you to everyone for downloading the Addon and supporting 22 Studios with a donation!

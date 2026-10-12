@@ -1,0 +1,66 @@
+Ever wanted Dynamic Light just like Java's Optifine? Well this add-on is for you because it makes every light source emit real light in your hand. This makes cave exploration much more realistic, in fact you won't have to no longer have to constantly place torches.
+
+EXAMPLE IMAGES:
+
+HOW TO MOVE THE TORCH TO THE OFFHAND IN AUTO MODE:
+
+In automatic mode the object will automatically move to your second hand if the object is held in your first hand.
+
+HOW TO MOVE THE TORCH TO THE OFFHAND IN MANUAL MODE:
+
+To move the Torch to the offhand you have to execute a simple command:
+
+/function handtorch
+
+Obviously, to be able to move the torch to the offhand, you must have a Torch in your inventory.
+The items that can be moved in the offhand are all types of torches and lanterns.
+
+LIST OF ALL ITEMS WITH DYNAMIC LIGHT:
+- Torch
+- Soul Torch
+- Redstone Ore
+- Nether Star
+- Fire Charge
+- Sea Pickle
+- Glow Frame
+- Glow Ink Sac
+- Blaze Rod
+- Blaze Powder
+- Redstone Torch
+- Lantern
+- Froglight
+- Amethist
+- End Crystal
+- Sea Lantern
+- Ender Eye
+- Skulk Catalyst
+- Glow Lichen
+- Magma Cream
+- Redstone Block
+- Ender Chest
+- Brewing Stand
+- Soul Lantern
+- Campfire
+- Glowstone
+- Beacon
+- Crying Obsidian
+- Magma
+- Shroomlight
+- Enchanting Table
+- End Rod
+- Totem of Undying
+- Lava Bucket
+- Glow Berries
+- Experience Bottle
+- Breeze Rod
+- Firefly Bush
+- Copper Torch
+- Copper Lantern
+
+If you want to share the addon, be sure to send the MCPEDL or CURSEFORGE addon link.
+You can also find this content on the official ADDONS UNIVERSE App!
+Remember, this content is strictly exclusive to these 3 platforms.
+
+Thanks and have fun! :D
+
+|- Download Other Incredible Addons: HERE -|

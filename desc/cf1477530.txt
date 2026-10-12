@@ -1,0 +1,16 @@
+(Image created by AI picture)
+
+Ferous 3D Gun provides gun variants with realistic mechanisms.
+This gun add-on does not only provide single guns, but also dual guns,
+where you can shoot twice at the same time at your targets.
+
+Note: Accuracy when using dual guns will decrease, and the damage will be multiplied by 2 but reduced by 10% for each ammo.
+
+To craft a dual gun, you only need 2 single guns and combine them.
+This also applies to the ammo.
+
+Please understand if there are any bugs, as this add-on is still in development.
+
+DUAL GUN SCREENSHOT
+
+(Image created by AI picture)

@@ -1,0 +1,31 @@
+This pack changes your 2D/Outer layer to 3D, which adds more depth while making your character feel more alive. The pack now has more options to choose from with each being unique. The pack even has a cosmetic option, so everything supports 128x128 skins and with other models in the pack support 128x128.
+
+Compatible
+
+The pack is compatible with Complex Left Hand, just make sure CLH is on top.
+
+Pictures
+
+The pack also works on other skins and other players.
+
+It also works on mobs, entities, and npc that uses your skin.
+
+Issues
+
+The pack uses player.entity.json, so expect some compatible issues.
+
+Costmetics
+
+There's a option to show custom hats/capes in the settings/subpacks.
+
+Have a custom skin and edit it. Here are the areas were you can edit the Third Hat-Layer.
+
+I would recommend not using the hat layer and custom cape option when joinning some server.
+
+Discord
+
+If you want latest versions of my packs, including some I haven't uploaded, you can join my discord! Plus getting other packs that aren't yet published.
+
+MCBE BigG's Creations
+
+https://discord.gg/5s9JuQDASw

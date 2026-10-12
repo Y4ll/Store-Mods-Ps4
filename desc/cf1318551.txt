@@ -1,0 +1,39 @@
+Features
+
+- XP storage system using vaults
+
+- Punch a vault to store XP
+
+- Shift-punch a vault to withdraw XP
+
+XP Amounts:
+
+- Small = 910 xp = 25 levels
+
+- Medium = 2805 xp = 40 levels
+
+- Large = 13515 xp = 70 levels
+
+Usage Tutorial
+
+- Craft a vault (recipes available in the green book).
+
+- Place the vault in the world.
+
+- Punch it to store XP.
+
+- Shift-punch it to retrieve stored XP.
+
+Support & Custom Work
+Check me out on Fiverr
+
+Also join this discord to see progress on my upcoming addon Dungeons Plus, which will add 100+ items and many more dungeons to minecraft, or joiin to get help with any of my addons.
+server: https://discord.gg/QgeeGsEAkp
+
+discord: petstorebuffet
+
+Or join the Minecraft Bedrock server at
+> Ip Address - srv836894.hstgr.cloud
+> Server port - 19132
+
+Ill 100% take any advice on this pack for new features or bug fixes!

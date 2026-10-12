@@ -1,0 +1,29 @@
+||| Only Version 26.50 Achievement Not Work With Addon |||
+
+Check this video:
+
+You have any problem comment on this video for quick reply!
+
+https://youtu.be/8xE-c5LCt3M
+
+Fixed display glitch just enable "In-Game Player Names" in settings
+
+This addon adds a live health bar above all entities , updating in real-time as they take damage or heal
+
+Advantages:
+Easy to see mob HP anytime
+Enhances gameplay & combat
+Clean UI + auto updates
+Perfect for survival, PvP, or boss fights
+
+Screenshots:
+
+Shows damage values from all sources, including modded entities, lava, fire, and more.
+
+Rlcraft Bedrock related
+
+Fixed rlcraft boss bar glitch
+
+Fixed backpack storage issue with this addon
+
+Supporting with leveling Just set it under of Rlcraft addon

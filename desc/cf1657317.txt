@@ -1,0 +1,4 @@
+Once added, this Behavior Pack will allow you to Crystal faster than in Vanilla Bedrock.
+Requires Script API to be ON to work
+
+For those interested in how this works, since Bedrock has a Hardcoded delay in how fast you can crystal, which cannot just be changed by an Addon, this Addon instead manually replaces a Crystal after you hit it, bypassing the Delay. The side effect is that you dont have to manually replace the Crystals after you hit them, and instead just have to spam hit but it is what it is

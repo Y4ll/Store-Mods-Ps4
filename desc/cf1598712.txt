@@ -1,0 +1,73 @@
+Firekid WorldEdit
+
+A no-command WorldEdit addon for Minecraft Bedrock. Select regions, edit terrain, and sculpt with a brush using only two items - no cheats, no typed commands.
+
+Features
+
+Selection
+
+- Left-click blocks with the Wand to set Pos1 and Pos2
+
+- Right-click while mid-selection to cancel
+
+- Corner particle visualizer shows your selection in the world
+
+Editing
+
+- Set, Replace, Replace (Multi-Mask)
+
+- Walls, Hollow, Outline (full 6-face shell)
+
+- Naturalize (grass/dirt/stone layering)
+
+- Smooth (heightmap-based terrain smoothing)
+
+- Overlay, Drain (remove water/lava)
+
+- Copy, Paste (with rotation and mirror), Move Selection, Stack
+
+- Expand/Contract/Shift selection without reselecting
+
+- Line Tool (3D line between Pos1 and Pos2)
+
+- Undo and Redo
+
+Shapes
+
+- Sphere, Hollow Sphere
+
+- Cylinder, Hollow Cylinder
+
+- Pyramid, Hollow Pyramid
+
+- Fill Radius
+
+Utility
+
+- Butcher (clear mobs/items in a radius)
+
+- Count/Distribution report for a selection
+
+- Selection Info (dimensions, volume, center)
+
+- Save and load named selections
+
+Brush
+
+- Hit a block to instantly sculpt a sphere of your chosen block, or smooth terrain around that point
+
+- No selection required
+
+- Adjustable mode, block, and radius via the Wand menu
+
+Getting Started
+
+- Type .wand in chat to get the Wand
+
+- Left-click blocks to select a region, right-click to open the menu
+
+- Type .brush in chat to get the Brush for real-time sculpting
+
+Requirements
+
+- Minecraft Bedrock 1.21.90+

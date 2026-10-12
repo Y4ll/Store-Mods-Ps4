@@ -1,0 +1,145 @@
+Fire Theme Swords adds 10 craftable fire swords to Minecraft Bedrock. Each hit sets the target on fire, and the stronger swords burn longer. Made by The_Zahin_GAMER.
+
+Version 2.1.1 Ignition
+
+All 10 swords appear in the Creative Equipment tab.
+
+A hit sets the mob on fire.
+
+Solar Judgement and the Infernal Sovereign Blade also ignite nearby mobs.
+
+Health and speed buffs fade a few seconds after you put the sword away.
+
+The swords
+
+Sword
+
+Damage
+
+Durability
+
+Fire
+
+Ashen Doomblade
+
+6
+
+1000
+
+3 seconds
+
+Flameheart Saber
+
+8
+
+1200
+
+3 seconds
+
+Embercore Edge
+
+10
+
+1400
+
+4 seconds
+
+Blazebringer
+
+12
+
+1600
+
+4 seconds
+
+Frostfire Reaver
+
+16
+
+2000
+
+5 seconds
+
+Crimson Hellfang
+
+18
+
+2200
+
+5 seconds
+
+Molten Cataclysm
+
+20
+
+2500
+
+6 seconds
+
+Prismatic Inferno
+
+24
+
+3000
+
+6 seconds
+
+Solar Judgement
+
+30
+
+3500
+
+8 seconds
+
+Infernal Sovereign Blade
+
+36
+
+5000
+
+10 seconds
+
+Prismatic Inferno, Solar Judgement, and the Infernal Sovereign Blade have an enchanted glint. Higher swords also give extra health while held. The last two give a speed boost.
+
+How to get them
+
+Craft the Ashen Doomblade, then upgrade one sword into the next. The crafting grid is sword-shaped.
+
+You can also upgrade at a smithing table. Put a fire charge in the template slot, the previous sword in the middle, and the next material in the last slot. Smithing keeps the enchants.
+
+In Creative, open the Equipment tab. They are listed after the vanilla tools.
+
+Or give one with a function:
+
+/function skinscraft_weapon_701
+
+/function skinscraft_weapon_702
+
+/function skinscraft_weapon_703
+
+/function skinscraft_weapon_704
+
+/function skinscraft_weapon_705
+
+/function skinscraft_weapon_706
+
+/function skinscraft_weapon_707
+
+/function skinscraft_weapon_708
+
+/function skinscraft_weapon_709
+
+/function skinscraft_weapon_710
+
+Install
+
+Download the .mcaddon file.
+
+Open it with Minecraft.
+
+In world settings, turn on both Fire Theme Swords packs. The behavior pack and the resource pack must both be active.
+
+Leave the world and enter it again.
+
+Needs Minecraft Bedrock 1.21.50 or newer. If a hit does not ignite, turn on Beta APIs in that worlds settings and reload.

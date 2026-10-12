@@ -1,0 +1,106 @@
+Bedrock ChunkLoader
+
+Your farms work brilliantly until you walk 30 blocks away and everything grinds to a halt. ChunkLoader adds placeable blocks that keep chunks loaded and ticking, so your contraptions finally work without a babysitter.
+
+Key Features
+
+- Persistent Chunk Loading - Keep farms and contraptions running while you're away
+
+- Farm Mode - Mob farms keep producing drops even when no player is nearby
+
+- Looting Sword Support - Hold a looting sword while your farm runs to boost drop amounts, just like a real trident killer
+
+- 12 Supported Farm Types - Iron, Gold, General Mob, Creeper, Witch, Enderman, Blaze, Guardian, Drowned, Slime, Fish & Ink, Magma Cube
+
+- Redstone Control - Power a chunk loader with redstone to pause chunk loading
+
+- Configurable Chunk Radius - 2-6 chunks (5x5 to 13x13 chunk areas)
+
+- Visual Status Display - Animated textures and floating text show loader status
+
+- Three-State Display - Active (green), Inactive (red), Redstone Off (orange)
+
+- Setup Validation - Ensures correct placement above a hopper or water stream
+
+- Owner Protection - Only the owner or admins can remove a chunk loader
+
+- Player Limits - Configurable max loaders per player (1-20)
+
+- Admin Panel - Full management via /mygen:chunkloaders with global controls
+
+- Admin Delegation - Operators can grant trusted players access to the admin panel
+
+- Floating Text Behind Walls - Raycasting hides text through blocks
+
+- Craftable - A Redstone Block ringed with a Diamond, Resin Clump, Amethyst Shard, and Lapis Lazuli (recipe unlocks on obtaining a Redstone Block or Resin Clump)
+
+- No Beta APIs Required - Achievement friendly
+
+- Multiplayer Ready - Works on realms and servers
+
+How to Use
+
+Getting a Chunk Loader
+
+Craft one at a crafting table a Redstone Block in the centre with a Diamond, Resin Clump, Amethyst Shard, and Lapis Lazuli around it (the four corners are left empty). It's an overworld scavenger hunt rather than a boss grind: deep caves for the diamond, an amethyst geode to crack open, a mining trip for lapis, and a trek into the Pale Garden for the resin clump. The recipe unlocks the moment you pick up a Redstone Block or a Resin Clump.
+
+You can also grab one from the creative inventory under Equipment if you're not feeling the grind.
+
+Placing & Managing
+
+Place the block wherever you want chunks to stay loaded. It'll activate automatically and show its status with floating text above the block green tick means working, red cross means off. Right-click (interact with) it to open the management menu where you can toggle it on/off, set a farm type, and check its status.
+
+Only you (or an admin) can break your chunk loaders. Nobody's griefing your setup.
+
+Farm Mode
+
+This is where it gets good. Place the chunk loader above your farm's collection system either a hopper directly below or a water stream within 2 blocks. Open the menu, hit Set Farm Type, and pick from 12 supported farms:
+
+Farm Type
+Drops
+
+Iron Farm
+Iron Ingots, Poppies
+
+Gold Farm
+Gold Nuggets, Rotten Flesh, Gold Ingots
+
+General Mob Farm
+Gunpowder, Bones, Arrows, String, Spider Eyes, Rotten Flesh
+
+Creeper Farm
+Gunpowder
+
+Witch Farm
+Glowstone Dust, Redstone, Sugar, Sticks, Glass Bottles, Gunpowder, Spider Eyes
+
+Enderman Farm
+Ender Pearls
+
+Blaze Farm
+Blaze Rods
+
+Guardian Farm
+Prismarine Shards, Prismarine Crystals, Cod
+
+Drowned Farm
+Rotten Flesh, Copper Ingots, Nautilus Shells, Tridents
+
+Slime Farm
+Slimeballs
+
+Fish & Ink Farm
+Ink Sacs, Glow Ink Sacs, Cod, Salmon
+
+Magma Cube Farm
+Magma Cream
+
+When no player is within the configured proximity distance, the chunk loader handles the farming for you. Walk away guilt-free.
+
+Looting Sword Support
+
+Want more drops? Hold a Looting-enchanted sword while your farm is running and the looting level applies to the farm's drop rates automatically just like a real trident killer. No extra setup, just hold and profit.
+
+Redstone Control
+
+Hook up a redstone signal to your chunk loader to pause it. The block switches to an orange [REDSTONE OFF] st

@@ -1,0 +1,33 @@
+This resource pack implements the look and size of the hands from the Java version, including holding objects such as maps in the primary and secondary hands, as well as adding the view bobbing from the Java version to provide a better experience.
+
+This is the original Java HVB created in May 2023; any pack that uses my logo or my internal modifications is a copy
+
+Java HVB
+
+The purpose of this resource pack is to implement the look of the hands and the vision movement of the Java version, in order to be more visually pleasing.
+
+Changes included in this pack:
+
+- Java main hand size
+
+- Appearance of the off-hand when holding maps
+
+- Appearance of both hands when holding a map
+
+- Java View Bobbing
+
+In-game screenshots:
+
+Main hand size
+
+Appearance when holding a map
+
+Appearance of both hands when holding a map
+
+Appearance of the off-hand when holding a map
+
+Appearance when holding a shield
+
+Video review
+
+If you review it, please give the appropriate credits :)

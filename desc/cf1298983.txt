@@ -1,0 +1,81 @@
+Tutorial on how install it here
+
+more information
+
+Comes alive is a complement to have a wife and children, you can interact with the NPC's that will appear in the villages of the world and you can get married and have a big family.
+
+Creator: ROBERTGAMER69, Twitter, YouTube, PATREON
+
+How do I have a wife or husband?
+
+To have a wife or husband, you must first go to a village and look for someone to be your partner, you can interact with the NPC's with the NPC's Menu item
+
+Once you have the ideal partner, you will have to give them an engagement ring and they will be your wife, they will also have more interactions in their menu and you will be able to open their inventory.
+
+Here is an example of what their interfaces look like.
+
+How do I have a baby? ?
+
+To have a baby, you must first have a wife or husband and then you will have to put a cake in their inventory. When you place it in your inventory, the cake will be placed in a special slot. Once placed, you must interact with him/her. Npc and go to the romantic section and click on the have a baby button.
+
+If you don't put a cake in the mentioned slot and just press the button it will tell you that a cake is needed.
+
+If you did everything correctly you will be given a baby in your left hand, remember to have that hand empty before having a baby, you will not be able to take that baby from that hand until the 5 minutes have passed, you can observe the remaining time by selecting the baby or in the pause menu.
+
+How to make my baby grow?
+
+When the 5 minutes have passed you can remove the baby from your left hand and you can put a name on an anvil, and once you have it in your main hand you can appear it.
+
+Once it is generated you can feed it with any food and its growth will begin.
+
+Now babies have 3 stages of growth before becoming an adult. Babies, Children, Adolescents.
+
+In each phase it will have different functions, when it is a baby you can carry it on your shoulder (you can carry up to 2 babies at a time), when it is a small child its clothes will change and you can interact with them with the Npc's Menu and when They are teenagers, they will change their outfit again and you will be able to continue interacting with them and all that remains is to wait for them to be an adult.
+
+How did you adopt a baby? ?
+
+You can adopt a baby in a village, you will have to find a priest and trade with him, he will ask you for 2 diamonds and a marriage certificate and you can choose if you want a boy or a girl (by giving 1 piece of paper to your wife or husband will give you a marriage certificate)
+
+Here is an example of what its interface looks like.
+
+What is Rose Gold?
+
+Rose Gold is a very precious mineral that is mainly used for Simple Comes Alive.
+
+With this mineral you can make weapons, tools, armor and the engagement ring.
+
+This mineral can be found all over the world. They appear in caves and mines, but if you go to a village below it you will find more chances of getting the mineral.
+
+How to make the Comes Alive Anvil?
+
+To make the Comes Alive Anvil you need a normal anvil and a FURNICRAFT clay
+
+Here is a picture of what it looks like wearing.
+
+How to make the engagement ring?
+
+To make the engagement ring, you must have 7 Rose Gold bars and 1 diamond
+
+Its elaboration is as follows.
+
+How to make Rose Gold tools and armor?
+
+To make the Rose Gold armor and tools you must have said mineral and the Comes Alive Anvil.
+
+Once you have the materials, their crafting is the same as other tools and armor.
+
+Here are some examples of their creations.
+
+List of changes of SimpleComesAlive v26.3
+
+- Changes:
+
+- Compatible with Minecraft v26.13+ (And Betas / Previews)
+
+- New system for having a wife and husband (this is from the previous version but I encourage you to read the guide completely)
+
+- The rose gold tools were repaired
+
+- The Rose Gold Hammer has been added back (Destroys a 3x3x1 radius where you break a block) (Works with the Fortune and Silky Touch enchantments)
+
+- The Super Rose Gold A

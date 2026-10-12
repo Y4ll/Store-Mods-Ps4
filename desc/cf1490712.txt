@@ -1,0 +1,21 @@
+Quick Move & Loot Utility [1.21+]
+
+Created by Arrow Studios Official
+
+Tired of slow inventory management in Minecraft Bedrock? Quick Move & Loot is a lightweight utility designed to make looting, moving, and dropping items instantaneous. Perfect for PVP, Skywars, and Survival players who need speed!
+
+Key Features:
+
+One-Tap Looting: Move items from chests to your inventory in a flash.
+
+Instant Drop: Clear your inventory or drop items to teammates without the lag.
+
+Better Inventory Layout: Enjoy a cleaner, more organized grid for faster navigation and better visibility.
+
+Zero Particles: Optimized code to ensure your FPS stays at the maximum.
+
+Clean UI: Simple, intuitive buttons that don't clutter your screen.
+
+1.21+ Ready: Fully compatible with the latest Minecraft Bedrock/Pocket Edition versions.
+
+Follow me for More new update!

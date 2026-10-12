@@ -1,0 +1,16 @@
+First, please understand that this skinpack will not work with mcpack.
+
+Hi, I'm SRG64. If you've been playing Wii U Edition, you might know that I often make skins. I have created a new skin pack for the Bedrock edition!
+
+This skin pack contains over 540 4D, 5D and hive cosmetics!
+
+green: 4D skin, cyan: 5D skin, orange: Hive cosmetics
+
+Here are the skins added in 1.10.6
+
+and...
+
+Added two "HIVE COSMETICS"...
+
+For installation of this skin pack, please unzip the mcpack after changing to zip and refer to readme.txt in the file.
+It works on windows 10/11 and iOS.

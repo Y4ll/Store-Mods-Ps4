@@ -1,0 +1,34 @@
+# BLUEY CURSED CHAPTER 1
+
+A story-driven horror adventure for Minecraft Bedrock Edition.
+
+Bingo arrives at your home asking for help. Her father, Bandit, has disappeared, and something is terribly wrong with Bluey. Follow the trail, complete missions, uncover the truth, and survive the night before it is too late.
+
+## Features
+
+- Complete story with objectives and scripted events
+- Mission panel displayed in the upper-right corner
+- Custom Bluey, Bingo, Muffin and Bandit models
+- Character dialogue, animations and sound effects
+- Functional flashlight with dynamic illumination
+- Horror scenes, blood trails and an intense chase
+- Single-player and multiplayer support
+- Shared mission progress without duplicated characters
+- Bingo and Muffin become companions after completing the chapter
+- No chapter selector: Chapter 1 begins automatically
+
+## Installation
+
+1. Download and open the `.mcaddon` file.
+2. Allow Minecraft to import both included packs.
+3. Create a new world.
+4. Activate **CAPITULO 1 BLUEY MALDITA** in both Behavior Packs and Resource Packs.
+5. Enter the world and begin the story.
+
+For the best experience, play at night with headphones and avoid using commands while a mission is active.
+
+## Credits
+
+Created and adapted for Minecraft Bedrock by **Lunwi**.
+
+This is an unofficial fan-made horror project. It is not affiliated with, endorsed by, or associated with Ludo Studio, BBC Studios, or the official Bluey franchise.

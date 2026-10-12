@@ -1,0 +1,41 @@
+Create, save and place paintings anywhere.
+
+You can display them in a Frame for all players to see, and they will see the name of the painting and who made it!
+
+What paintings can you create?
+
+All blocks and items are obtainable in survival mode, so it is important that you create an Artistic Table as soon as possible:
+
+See the recipe for the other items in the recipe book on the Artistic Table.
+
+Create any painting on a 16x16 canvas.
+
+Color selector via palette, HSV, and hexadecimal.
+
+Over 16 million colors available!
+
+Save your favorite colors in custom palettes!
+
+Essential drawing tools, such as brush, paint bucket, and eyedropper.
+
+Save, copy, and display your paintings anywhere you want!
+
+All items are obtainable in survival mode.
+
+Guide Book: Use this item to learn all the mechanics of the add-on and access a settings menu!
+
+Languages:
+
+Need feedback!
+
+Weaker devices may experience slowdowns if too many paintings are placed at once in loaded chunks, unfortunately there's not much I can do about that.
+
+If you have any problems, let me know!
+
+Supports Vibrant Visuals
+
+Does not use player.json
+
+Does not require any experimental features.
+
+Minecraft Bedrock 1.21.130 +

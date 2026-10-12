@@ -1,0 +1,11 @@
+KeepInventory - by Mikayil022
+
+Activates the vanilla Keep Inventory mechanic without enabling cheats. Fully survival-compatible and achievement-friendly.
+
+- Once the add-on is activated in your world, Keep Inventory will be permanently enabled.
+
+- Use /ki:keepinventory <true/false> in-game to enable or disable Keep Inventory.
+
+- Only operators or players tagged "admin" can use the command
+
+- Compatible with Minecraft Bedrock Edition 1.21.100 and all newer versions.

@@ -1,0 +1,17 @@
+A collection of sleek cyberpunk LED lights designed to illuminate your builds with vibrant neon energy. Perfect for sci-fi bases, neon cities, and high-tech interiors.
+
+Tutorial:
+The Panels and Blocks are placed like normal. Panels are mounted to the surfaces of blocks.
+The LED Rods are directional. Look in the direction you wish to place them.
+You can place them under blocks, to choose if it is standing up or against the bottom of the block; Simply Crouch and it will change direction.
+
+v. 1.2:
+- Minor Bug Fixes
+
+v. 1.1:
+- Optimized Pack for Smaller Devices
+- Fixed Broken Textures
+
+v. 1.0:
+- Added LED Light Bars, Panels, and Blocks,
+- Colors: White, Light Grey, Grey, Black, Brown, Red, Orange, Lime, Green, Cyan, Light Blue, Blue, Purple, Magenta, and Pink.

@@ -1,0 +1,83 @@
+Wilderness Bound is here! And with that comes the new Dappled Forest Villager! Along with cushion, poplar, and straw bed trades, and a complete Cartographer map overhaul using the new camps. Check out the whole changelog below!
+
+All the new villager trades are available to view HERE
+
+Welcome to Conquest and Commerce!
+
+Conquest and Commerce is a Vanilla+ Addon that aims to inspire you as the player to expand your world through building and trading. With a new villager variant for every biome in Minecraft, you always have the reason and ability to create a fresh start for yourself without having to start a new world.
+
+Create new bases, villages, towns, and cities by expanding into new biomes and unlocking new trades to gain better access to resources.
+
+Instead of adding new things to take away from the Vanilla experience, Conquest and Commerce is an addon that encourages you to engage deeper into existing features of the game.
+
+It is essentially the Villager Trade Rebalance expanded on a massive scale, with much better balancing.
+
+Let's go through the Features!
+
+40 New Villager Variants
+
+- A New Villager for every biome in Minecraft! Including all the different types forests, oceans, mountains, nether biomes, and caves (including the new sulfur cave)
+
+- Allows you to expand into neighboring biomes and still find better trades.
+
+- Try to conquer your world and collect all the villagers!
+
+13,000 Different Trades
+
+- Villager Trading has been completely overhauled, but the vanilla feel and system still remains in-tact.
+
+- The majority of blocks and items in Minecraft can be bought and/or sold by villagers depending on the biome they are in.
+
+- Villagers will buy and sell items based on the resources commonly found in the biome they're in.
+
+- If a resource is common in the biome, they will buy it for a lower price, but will also buy more of it, or sell more of it for a lower price.
+
+- If a resource is uncommon to the biome, they will buy it for a higher price, but will also buy less of it, or sell less of it for a higher price.
+
+- More common resources will appear in the novice, apprentice, and journeyman trades, while uncommon and rare trades will be from the master and expert, this is meant to help you level up new villagers easier by working in the land in your new settlement.
+
+- Prices for the same item can vary within the same biome (No two villagers will have the exact same trades)
+
+Better Villager Management!
+
+- Haggling
+
+- Don't like what a villager is offering? Toss a villager an emerald to haggle with them and reroll their trades.
+
+- This can give you different prices, different trades, and different enchantments and levels.
+
+- Haggling also has bonus benefits!
+
+- It will reset their claim to their job block (in case they decide to claim one 50 meters away).
+
+- It will update vanilla trades into Conquest & Commerce trades.
+
+- It will make Nitwits employable.
+
+- Preserved Job Blocks
+
+- Apply Resin to a job block (barrel, smithing table, lectern, etc.) in the crafting table to prevent villagers from claiming it, allowing you to use it for decoration in builds.
+
+- (Disclaimer: a preserved job block's default UI and functionality will not be available, this is not something possible with addons, they are purely for building)
+
+- Totems
+
+- No more boat kidnappings and obnoxious journeys!
+
+- Hold a Totem of Undying in your main hand and villagers will follow you, they appreciate it when you defeat their enemies rather than feeding them.
+
+- Baby villagers spawned in new biomes will have the variant of the new biome.
+
+- Curing
+
+- Zombie Villagers spawn slightly more frequently, allowing you to start new settlements easier
+
+- The time to cure has been decreased, and fire resistance is applied in the zombie villager in the curing process
+
+- The curing discount has been removed.
+
+- Major discounts are now obtained through haggling and trading with distant villagers.
+
+- No more zombie torture chambers :( I'm sorry
+
+- This is due to the 

@@ -1,0 +1,63 @@
+What is the Chameleon at Home Addon?
+
+Chameleon at Home is a Minecraft Bedrock addon that introduces the ultimate camouflage hide-and-seek experience, directly inspired by the hit game Meccha Cameleon. It allows you to dynamically scan ordinary Minecraft blocks and paint your armor pixel-by-pixel to blend seamlessly into your environment, hiding in plain sight.
+
+Experience thrilling gameplay such as:
+
+- Multiplayer Hide and Seek against your friends
+
+- Singleplayer hunt modes against AI Camo Dummies
+
+- Grid-based texture matching and painting
+
+- Body Poses to Hide better
+
+- Survival Flight and more!
+
+If you can see it, you can become it!
+
+Latest Update!
+
+- Canvas Mode UI: Introducing the seamless continuous painting menu! Instantly paint your armor quadrants with 1-click loop functionality without ever having to back out of the menus.
+
+- Live Menu Visuals: Your painting UI now dynamically reads your armor's properties to display the exact block textures currently painted on your body right on the buttons.
+
+- Modular Block Dictionary: We've upgraded the backend system! The addon now features a highly optimized modular dictionary array, allowing for flawless block ID detection and expanding support for hundreds of new blocks.
+
+- Laser Reveal Phase: Bring advanced tracking to the end-game! When time runs out, surviving Hiders are now marked with a 10-block-tall vertical laser beacon and tracking lines from Seekers, complete with loud pinging audio.
+
+- New Pose Engine: Hiders and Singleplayer Dummies can now contort their bodies! Form into a ball, lay perfectly flat, or stand normally to match the geometry of the blocks you are hiding against.
+
+Tools and How to Play
+
+- Eyedropper: Your primary sampling tool. Point and use this item on any block within 10 blocks to extract its texture and save it to your temporary memory.
+
+- Paintbrush: The core of the addon. Use this item to open the Canvas Mode UI to paint your sampled textures onto your head, chest, legs, or boots. You can also smack a fellow player with it to instantly paint the quadrant you hit!
+
+- Color Gun: The Seeker's best friend. Fires a highly visible tracking laser up to 30 blocks away. Hitting a Hider with this weapon will instantly eliminate them with an explosive splash!
+
+- Minigame Starter: Use this item to open the setup menu. Choose between Singleplayer (Zombies) or a Multiplayer invite system to assign roles and start the match.
+
+Special Chameleon Blocks & Items
+
+- Color Helmet, Chestplate, Leggings, and Boots: A fully custom armor set given to Hiders. These pieces are divided into 4 quadrants each, allowing you to mix and match up to 16 different block textures on your body at once.
+
+- Hider Dummy: A custom AI entity used in Singleplayer mode. They randomly spawn on top of highest blocks, automatically scan and paint themselves to match the floor, and pick a random pose to hide from you!
+
+Fun Camouflage Mechanics
+
+- Dynamic Player Scaling: To truly blend in, you can't be taller than a block! The moment a Hider equips their color armor, the physics engine dynamically shrinks them down to exact block proportions using custom animation scaling.
+
+- Hover and Levitation: Jumping or sneaking while tiny applies custom slow-falling and impulse physics, allowing Hiders to glide smoothly into the perfect position. Basically Creative flight in Survival for the Hiders!
+
+- Boundary Enforcement: Keeps the game fair. If any player tries to wander beyond the 40-block game radius, they are mathematically calculated and teleported directly back to the edge of the arena.
+
+How to Hide and Seek
+
+- Use the Minigame Starter to initialize the arena.
+
+- Hiders are given 1 minute to run, sample the environment with the Eyedropper, paint themselves with the Paintbrush, and strike a pose.
+
+- Seekers are held at the center with Slowness and Jump Boost to obscure their vision during the hiding phase.
+
+- Once the timer hits zero, the 3-minute Seeking Phase begins! Seekers must hunt down the c

@@ -1,0 +1,84 @@
+Haebi's Enhanced Pets (This add-on is achievement-friendly!)
+
+100% Compatibility & Requirements: This add-on is purely Behavior Pack (BP) driven and does NOT require a Resource Pack (RP).
+
+It is fully compatible with any texture packs or shaders you currently enjoy using!
+
+Please note that this add-on requires Minecraft Bedrock version 1.26 or higher to run properly.
+
+Our first pet AI enhancement is the Wolf!
+
+Have your battles with wolves ever not gone as planned?
+
+Wolves are incredibly brave, but they often lack situational awareness and can die in an instant.
+
+If you're tired of adopting new wolves after every tragic accident and want to enjoy a long, safe Minecraft life with your beloved pet, give this add-on a try!
+
+We have massively boosted the wolf's survivability and completely overhauled its combat AI.
+
+1.0.1 NEW PET!!
+
+The Deadly Assassin 'Ocelot'
+
+You can finally tame Ocelots! (Just use some Raw Cod or Raw Salmon ).
+
+Combat AI : They will actively attack enemies that hit you or targets you attack. They also have the intelligence to immediately counterattack if they are hit first.
+
+Pounce! They'll leap at their targets and deal melee strikes with a 1.3x speed boost.
+
+Tactical Retreat: If things get too dicey and their HP drops below 30%, they'll smartly disengage and fall back. Once you heal them back up to 80% or more, they'll jump right back into the action!
+
+Buffed Up: Tamed Ocelots are tough! They boast 30 Max HP, 12 Attack Damage, 0.5 Knockback Resistance, and even a Lifesteal ability so they don't go down easily. Oh, and they run even faster than Wolves!
+
+Growing Up: Once tamed, they bulk up and become 1.15x larger!
+
+The Healer 'Cat'
+
+AoE Healing System: Cats now have a
+magical "Purr" ability! They heal you and your allied pets (Wolves, Ocelots) within a 12-block radius. They'll automatically detect anyone who isn't at full health and patch them up.
+
+Healing Rhythms: They restore 2 HP every 3 seconds while standing around, and a faster 2 HP every 2 seconds if you make them sit and focus.
+
+More Health: Max HP bumped up to 20 so your little healers can survive better.
+
+Golden Dandelion Support: 100% implemented the newest vanilla feature! You can pause or resume the growth of any baby pet, totally without needing any experimental toggles.
+
+1.0.2 NEW PET!!
+
+The Feathered Hitchhiker 'Parrot'
+
+Enhanced Stats: Health increased to 10, 50% damage reduction, and 50% knockback resistance. Immune to fall damage.
+
+Intelligent Multi-Mount: Parrots can now ride not only on the player's shoulders but also on the backs of tamed wolves and ocelots.
+
+Emergency Evacuation: Automatically dismounts and takes flight if the mount (player/pet) enters combat or touches water/lava. (Includes a 5-second re-mount cooldown).
+
+Intuitive Controls:
+
+From Shoulder: Sneak with an empty hand to dismount.
+
+From Pet: Simply touch the parrot (or the pet) with an empty hand to make it sit on the ground.
+
+Improved Follow AI: Flight speed increased by 1.5x, tighter follow distance, and optimized teleportation range.
+
+Realistic Diet: Can be healed using Apples, Melon Slices, Sweet Berries, and Glow Berries.
+
+The Aqua Vanguard 'Axolotl'
+
+Intuitive 3-State FSM Modes: Easily control your axolotl's behavior to suit your current situation.
+
+Wait Mode: Stays obediently in place and rests.
+
+Free Mode: Roams and swims freely around the area, acting independently without strictly following the owner.
+
+Follow Mode: Stays close to the owner and actively assists in combat by sharing the owner's targets.
+
+Enhanced Stats & Survival: Increased Health and Attack damage to make them more reliable guardians of the sea that won't die easily.
+
+Persistent Follow AI: Improved pathfinding in both water and on land to ensure they stay close to their owner while in Follow mode.
+
+Status Indicator: Real-time health conditions can be monitored via the Health Bar UI.
+
+Key Features:
+
+Stronger & Tougher: Weve buffed the base stats of your furry friends. Tamed wolves now boast a soli

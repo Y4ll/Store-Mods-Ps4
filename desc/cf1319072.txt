@@ -1,0 +1,7 @@
+Stay True - Bedrock Port
+
+This is a Bedrock Edition port of the popular Stay True texture pack originally made for Java Edition (JE). You can check out the original pack on CurseForge here: Stay True on CurseForge .
+
+This version improves the default Minecraft textures with subtle but meaningful changes. It keeps the original colors and style, but adds more texture variety and removes repetition.
+
+These improvements make the world feel more alive, natural, and realisticwhile still staying true to the default look that players know and love.

@@ -1,0 +1,21 @@
+A modScript/addon that will drop items upon killing any mob and will drop items such as enchanted apples, nether stars, and many more.
+
+How to play
+Simply kill any mob, and they will drop random items of any type.
+The only purpose is to have fun getting random items.
+
+Crouching will temporarily disable the addon.
+
+# Demonstration:
+
+# How to install:
+
+- Download and install the behavior pack.
+
+- Activate the behavior pack in your world settings.
+
+# Info:
+
+- Effect99: Report bugs to my Discord
+
+- Any suggestions to add in the addon are welcome as long as you send them to me on my Discord

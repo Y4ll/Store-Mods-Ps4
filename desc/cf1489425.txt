@@ -1,0 +1,121 @@
+Racing Raftaar
+
+GOJO SATORU
+
+Unlimited Void
+
+The strongest sorcerer is now in Minecraft 3 phases, 4 abilities, tameable
+
+v1.0.5 Bedrock Edition Free BP + RP JJK Fan-Made
+
+What is this?
+
+So I made this for JJK fans. Gojo Satoru spawns naturally in the world as a proper custom mob custom model, custom textures, two skin states (normal and Infinity active), and his own sound effects for each ability. Blue, Red, Hollow Purple and Domain Expansion all have their own audio. It actually sounds like him.
+
+He fights on his own and gets more dangerous as his health drops. Phase 1 he is already hitting for 15 damage and using Lapse Blue to pull mobs in. Drop him to 60% health and Phase 2 kicks in faster, stronger, starts using Reversal Red too. Get him below 25% health and Phase 3 activates. That is when Hollow Purple and Domain Expansion start happening. 500 HP boss, 90% knockback resistance. Not easy to kill.
+
+You can also tame him. Sneak and use a Nether Star near him 15% chance he agrees to follow you. Once tamed he follows you around, teleports to you if you go too far, and fights mobs that are targeting you. Domain Expansion is a once-per-entity ability so it only fires once per Gojo wild or tamed. Drops diamonds, enchanted books and netherite scrap when killed.
+
+Abilities
+
+Lapse: Blue
+
+Phase 1+
+
+Gravitational pull sucks all mobs within 16 blocks toward Gojo and applies slowness. Plays the Blue ability sound. Cooldown 12 seconds.
+
+Reversal: Red
+
+Phase 2+
+
+Repulsion blast launches all mobs within 18 blocks outward with heavy knockback and deals 25 damage each. Explosion particles. Cooldown 15 seconds.
+
+Hollow Purple
+
+Phase 3 only
+
+Imaginary technique 150 damage to all mobs within 25 blocks plus Wither IV and Weakness III. Multi-wave explosion particles. Cooldown 25 seconds.
+
+Domain Expansion
+
+Once per Gojo
+
+Unlimited Void 35 block radius, max slowness and blindness on all mobs, then two waves of massive damage (100 + 200). Gojo gets Strength V, Speed III and Regeneration IV after. Ring particle animation. Server-wide announcement.
+
+3 Combat Phases
+
+Gojo gets more dangerous as his health drops. Phase transitions are announced in chat.
+
+Phase
+HP Trigger
+Stats and Abilities
+
+Phase 1
+Above 60%
+15 damage, speed 0.4, Resistance IV, Regen II uses Lapse Blue
+
+Phase 2
+25% 60%
+22 damage, speed 0.55, Resistance III, Speed II, Strength II uses Blue + Red
+
+Phase 3
+Below 25%
+30 damage, speed 0.7, Resistance II, Speed III, Strength IV, Absorption V uses all abilities including Hollow Purple and Domain Expansion
+
+Features
+
++
+Custom Model and Textures full Gojo model with two texture states: normal and Infinity-active glow
+
++
+Custom Sounds unique audio for Blue, Red, Purple, Domain Expansion, ambient, hurt and death
+
++
+500 HP Boss 90% knockback resistance, naturally spawns and hunts hostile mobs
+
++
+Tameable Sneak + Nether Star, 15% success rate, he will follow and protect you once tamed
+
++
+Auto Follow tamed Gojo teleports to you if you get more than 30 blocks away, with endrod particles
+
++
+Owner Protection detects mobs targeting you and intercepts them automatically
+
++
+Infinity Passive runs every 10 ticks, keeps resistance and regen active at all times
+
++
+200 XP on Kill player kill gives 200 experience, worth hunting
+
++
+Loot on Death drops 2-5 diamonds, enchanted book (level 30 treasure) or 1-3 netherite scrap
+
++
+Works All Dimensions tracked in Overworld, Nether and The End
+
+How to Use
+
+Install both BP and RP. Gojo spawns naturally or you can use the spawn egg. He will fight nearby mobs automatically.
+
+Action
+How
+
+Attempt to tame
+Sneak + Use Nether Star near Gojo (15% chance)
+
+Spawn manually
+Use spawn egg or /summon jjk:gojo_satoru
+
+Trigger Domain Expansion
+Drop Gojo below 25% HP (fires once per entity)
+
+Note: This is a fan-made addon inspired by Jujutsu Kaisen. Gojo Satoru is a character owned by Gege Akutami and Shueisha. This addon is not affiliated with or endorsed by the original creators.
+
+Requirements
+
+Minecraft Version
+
+1.20.10 or higher
+
+Pa

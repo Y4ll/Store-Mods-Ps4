@@ -1,0 +1,33 @@
+This Aircraft Add-on is now modernized to my current coding skills and represents the peak of my creative knowledge. This Add-On is well optimized, using six lowpoly models. Thank you to JannisX11 for entity wizard base vehicle code. The hope with this Add-On was to replicate the vibe of old-Florida general aviation, with the small aircraft in pastel colors, along with helicopters to compliment the slower moving planes. Included are seven aircraft, three helicopters, and four planes as shown:
+
+The aircraft are:
+
+- Piper Seminole
+
+- Piper Cherokee
+
+- Cessna 172 Skyhawk
+
+- Cessna 172 Seaplane
+
+- Bell 206 Jetranger
+
+- MD-500E
+
+- HH-60 Jayhawk.
+
+INSTRUCTIONS:
+
+To fly these aircraft, enter one by right-clicking or tapping the 'fly' button. Simply by sitting inside, looking up or down will raise or lower the craft, and looking to either direction will steer the craft. To fly in any particular direction, use the WASD keys or the touchpad. This addon utilized the new 3rd person radius function so that when viewing the aircraft in 3rd person your camera does not clip through them. Hence, the best way to fly these aircraft is in 3rd person rear.
+
+The seaplane has the ability to land softly on water and float similarly to a boat.
+
+Notes:
+
+Sounds: My car addons usually use steps to trigger sounds, and as these fly they don't trigger steps. I elected not to add sounds to this addon as every method I tried would only induce lag.
+
+Survival/Crafting: Due to the lack of balance this and my other addons would provide to a regular survival world, I elect not to add crafting functions or the ability to achieve them in survival. If you want them, just use commands.
+
+Large aircraft: I opted not to include large passenger planes because scaling entities to that magnitude makes lots of the components of my addon break, as well as not fit minecraft's styles as well. I felt that smaller personal aircraft fit the scaling of the game much better.
+
+A collection of high quality renders is attached in the curseforge gallery, also visible through the addon trailer here:

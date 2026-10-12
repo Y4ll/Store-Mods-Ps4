@@ -1,0 +1,11 @@
+Replaces regular hearts with unique hardcore ones now the damage looks new!
+
+Features:
+
+Complete replacement of hearts now they look like they are in Hardcore mode
+
+Detailed states: - Full hearts Bright red - Damaged
+
+Works in multiplayer (on any servers)
+
+Requires no mods just install and play

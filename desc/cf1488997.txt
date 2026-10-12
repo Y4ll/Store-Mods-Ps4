@@ -1,0 +1,156 @@
+Racing Raftaar
+
+LUCKY ONE BLOCK
+
+One block. Nine lucky block types. No idea what's coming next.
+
+v2.0.0 Bedrock Edition Free BP + RP Beta APIs Required
+
+What's this about?
+
+So I took the classic One Block concept and added Lucky Blocks on top of it. You start on one block at Y=150, break it, it respawns. Same old One Block survival you know. But now every few blocks a Lucky Block randomly appears instead of a normal phase block and when that happens, anything can drop.
+
+There are 9 different lucky block types and each one has its own drop chances. Like the Green block literally never gives bad luck zero bad drops. The Black block is basically 50% bad 40% legendary, so it's pure gambling. Red is the most dangerous one with 40% bad luck. Rainbow is the best one to get highest chance for Pro Legendary drops out of any block type.
+
+The lucky block doesn't spawn at fixed intervals either. Every single block break has a 15% chance to make the next one a lucky block. If you go 12 blocks without getting one, it forces a lucky block on the 12th. So you're never waiting too long but you also never know exactly when it's coming. That's the fun part honestly.
+
+9 Lucky Block Types
+
+C = Common, U = Uncommon, B = Bad, L = Legendary, P = Pro Legendary
+
+Block
+Vibe
+Drop Chances
+
+Gold
+Balanced, good starter
+40C 30U 15B 10L 5P
+
+Red
+Most dangerous one
+20C 20U 40B 15L 5P
+
+Blue
+Heavy on Legendaries
+20C 30U 10B 30L 10P
+
+Green
+Zero bad luck, always good
+40C 40U 0B 15L 5P
+
+Black
+Extreme 50/50 gamble
+0C 0U 50B 40L 10P
+
+Rainbow
+Best one, 25% Pro drops
+15C 20U 10B 30L 25P
+
+Orange
+Slightly risky but decent
+35C 30U 20B 12L 3P
+
+Purple
+Mystical, equal chances
+25C 25U 20B 25L 5P
+
+White
+Safe option, very low bad
+45C 35U 5B 12L 3P
+
+Features
+
++
+Random Lucky Block Spawns 15% chance each block, forced on 12th block, you never know exactly when
+
++
+9 Lucky Block Types each with different drop odds and its own custom texture from the RP
+
++
+5 Reward Tiers Common, Uncommon, Bad Luck, Legendary and Pro Legendary, each with unique drops and effects
+
++
+10 Phases Plains, Underground, Frozen, Desert, Jungle, Deep Cave, Nether, Fortress, The End, Dragon
+
++
+Lucky Next Indicator action bar tells you when the next block is going to be a lucky block
+
++
+Pro Legendary Drops God Mode 120s, Full Netherite Armor, Diamond Rain, Super Power 60s and more
+
++
+Instant Teleport no delay on first join, you land on the block immediately, spawnpoint also gets set
+
++
+Auto Teleport if you fall below Y=100 you get sent back up automatically
+
++
+Mob Spawns phase-appropriate mobs spawn on top of the block randomly as you progress
+
++
+Stats Panel tracks score, high score, total blocks broken, lucky blocks opened and mob count
+
++
+Settings Panel mob spawn rate, particles, sounds, anti-cheat, difficulty and auto teleport toggle
+
++
+Multiplayer Ready all players start on the same block, lucky drops broadcast to everyone in chat
+
+How to Play
+
+Install both BP and RP, enable Beta APIs and join. You'll land on the block automatically. Just start breaking.
+
+Action
+How
+
+Start playing
+Break the block at Y=150
+
+Open menu
+Sneak + Use Book
+
+Trigger lucky drop
+Break a lucky block when it spawns
+
+Check upcoming lucky block
+Look at action bar shows if next is lucky
+
+Requirements
+
+Minecraft Version
+
+1.21.0 or higher
+
+Experiment Required
+
+Beta APIs ON
+
+Pack Type
+
+.mcaddon (BP + RP)
+
+Platform
+
+Bedrock Edition
+
+Terms of Use
+
+This addon is free to use but please respect the work that went into it.
+
+- Do not repost or republish this addon on any website, platform or app without permission.
+
+- Do not claim this addon as your own work.
+
+- You are free to use it in your worlds, servers and YouTube videos just give credit to Racing Raftaar.
+
+- Modifying and redistributing without permission is not allowed.
+
+More addons and updates on my blog and community:
+
+Blog YouTube Discord
+
+Blog YouTube Discord
+
+Beta APIs Notice
+
+This addon requires Beta APIs to be enabled in your world settings under Experiments. Without it the addon will n

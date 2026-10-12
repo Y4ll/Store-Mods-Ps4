@@ -1,0 +1,55 @@
+Now compatible with version 1.21.51. Are you tired of having lag and want to increase the fps of your game for a greater experience? Don't worry because I already have the request for you. After a great analysis and study of Minecraft Bedrock related to its performance, I have discovered which sections of the game consume the most resources on our devices, thanks to all this I have developed a kind of optimization tool. Below will be more details of my studies with explanations for those users who are interested in this.
+
+Changes
+
+- Performance has been improved.
+
+- Now compatible with version 1.21.51+
+
+- Fixed the bug with clouds as some of them had errors with them.
+
+- Improved the appearance in the new pale garden biome.
+
+Screenshots
+
+A brief explanation so that you understand the context better, the lag is mainly produced by the particles and some textures of the default game, with this in mind I made important changes to optimize your game. I made 4 different clients which would be OptiAle HD+, OptiAle HD, OptiAle Vanilla+ and OptiAle Vanilla, each one with different features but maintaining the same performance despite its incredible appearance:
+
+- OptiAle HD+
+
+- OptiAle HD
+
+- OptiAle Vanilla+
+
+- OptiAle Vanilla
+
+This OptiAle is a tool that makes changes for better performance, specifically in: Compatibility with shaders, Increased fog for better performance, Contour in minerals, Removes particles, Has shiny armor and eyes of the mobs for better survival, has 4 different clients to your liking....
+
+- Mineral outline glow (Thanks to my knowledge with shaders I have implemented mineral textures that glow with most shaders / Only glow with shaders)
+
+- Shader support (Screenshot of Newb Vanilla Shader + OptiAle HD+)
+
+- Shiny armor (Works with and without shaders)
+
+- Glowing mobs eyes (Works with and without shaders)
+
+Warnings
+
+- This OptiAle is a tool that makes changes for better performance, specifically in: Compatibility with shaders, Increased fog for better performance, Contour in minerals, Removes particles, Has shiny armor and eyes of the mobs for better survival, has 4 different clients to your liking....
+
+- These are not shaders, they are texture modifications to improve performance and give a different atmosphere in the game.
+
+- All the textures of these PptiAle are made by me except the sky of optiAle HD+ which come from the Realism HD package and OptiAle Vanilla+ which come from the stellar graphics (I have permission to use it).
+
+- May be modified for personal use only.
+
+- It is forbidden to distribute this texture pack with modifications in the code.
+
+- You may not take this resource pack and publish it in your own name.
+
+- It is possible that this resource pack has any, if so, please report the bug to me on my Discord.
+
+- This texture pack works on any device
+
+- This resource pack is compatible with minecraft versions +1.18.30 which means that it is also compatible with (Renderdragon).
+
+If you want to have better quality content, I invite you to donate your grain of sand.

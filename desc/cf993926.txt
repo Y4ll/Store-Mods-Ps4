@@ -1,0 +1,43 @@
+Durability Viewer
+
+This resource pack shows durability of a tool in the hotbar and container screens. When the behavior pack is applied, the shield durability and armor durability is shown as well on the HUD screen.
+
+So, it's mainly a resource pack. The behavior pack is required only if you want armor and shield durability to be shown (Bottom left corner of HUD screen). Achievements friendly.
+
+Features
+
+- Mainhand Item Durability in HUD
+
+- Item Durability in hover text of container screens (Inventory, Chest etc.)
+
+- Blink Animation when durability goes below 20%
+
+- Armor Durability in HUD [Requires Behavior Pack]
+
+- Shield Durability in HUD [Requires Behavior Pack]
+
+- Config Options [Through _global_variables.json File]
+
+Usage:
+
+- Download the RP file and activate in your world
+
+- If you want to display Armor and Shield Durability, simply download and activate the BP file
+
+Note: You can't use the behavior pack in servers. For PvP, use Utility HUD
+
+Download Behavior Pack:
+
+- CurseForge
+
+- MCPEDL [File with BP in its name]
+
+Config:
+
+MCPEDL link - Durability Viewer
+
+- You can modify the pack for your personal use only.
+
+- You cannot use any code without permission or reupload the pack.
+
+- If you find any bugs or have any suggestions for new features, feel free to contact me on Discord or join my Server!

@@ -1,0 +1,31 @@
+This Minecraft Blacksmith Mod lets you craft up to 3 custom blacksmiths in your world, each offering powerful loot. All blacksmiths can be crafted using basic items found in villages, making your gameplay more exciting and rewarding.
+
+This mod adds three custom blacksmiths: Dirt Blacksmith, Iron Blacksmith, and Diamond Blacksmith. Each blacksmith has its own basic crafting recipe, letting you obtain powerful loot and items using simple village resources.
+
+Dirt Blacksmith
+
+Iron Blacksmith
+
+Diamond Blacksmith
+
+Are you curious how to craft the base Blacksmith? Heres the recipe: 3 Oak Plank Stairs, 2 Cobblestone Stairs, 1 Cobblestone, 1 Door, and 2 Oak Planks. This is used to craft all the custom blacksmiths in the mod.
+
+For Each Time You Have to Craft This Base Blacksmith It Is Not Used To Summon Blacksmith It's Purpose is To Craft The Custom Blacksmith Only. also Dont Equip It In Hand Or Else Game Will Crash Just Keep In Inventory When Resources Gathered Craft Your Blacksmith Without Equipping This Base Blacksmith On Hand.
+
+Some Images Of The Custom Blacksmiths Are Given Below
+
+Dirt Blacksmith
+
+Iron Blacksmith Is Not Shown Here's Because I Wanted You To Craft It Manually.
+
+Diamond Blacksmith
+
+Each structure has its own custom stairs and some have their own fences, such as Diamond Stairs or Gold Stairs. These details may not be visible if you dont read the important instructions, so make sure to read them carefully.
+
+Every structure has its own overpowered loot. For example, the Diamond Blacksmith can give Netherite gear with 32,000+ enchantments. The Iron and Dirt Blacksmiths also contain powerful items suitable for their tier. All structures are designed to provide exciting and unique rewards for players
+
+. ** Important Instructions**
+
+Two mods are required for this to work. Download both from the download section; otherwise, some blocks like stairs or fences may appear as unknown blocks or dirt.
+
+Enjoy!

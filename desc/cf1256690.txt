@@ -1,0 +1,124 @@
+For a full breakdown of everything included in this add-on including crafting recipes, furniture list, installation instructions, and FAQs you can visit the complete guide on my website: MrCrayfish Furniture Unofficial Port By EndXenoc
+
+If you'd like to support the content, you can do so on Patreon: EndXenoc MCPE!
+
+On Patreon, you'll enjoy an ad-free experience, no waiting times, and early access to all updates before anyone else.
+
+Your support helps keep the project going and growing thank you! :)
+
+This is an unofficial port of the classic MrCrayfishs Furniture Mod, adapted for Minecraft Bedrock 1.21.60+. It brings over 400 iconic furniture pieces from the Java 1.19 version.
+
+** License:**
+
+This add-on is released under the GNU General Public License v3.0, following the same license as the original Java mod. All rights to the original work belong to MrCrayfish. You can find the original Java Mod at Curseforge: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
+
+Furniture
+
+Includes tables, chairs, benches, cabinets, desks, sofas, beds, stools, blinds, fences, gates, mail boxes, crates, counters, drawers, park benches, bedside cabinets, coffee tables (short and tall), TV stands, shelves, chopping boards, wooden benches, modern furniture variants, and decorative items.
+
+Most furniture blocks come in multiple wood types and color variants (for example: acacia, stripped acacia, birch, oak, spruce, light/dark, white/gray). All variants behave the same, only visuals change
+
+Sink
+
+Kitchen sinks can be interacted with to fill them with water. They require a water source block underneath to function correctly. You can also fill or extract water using buckets or glass bottles.
+
+Counter & Drawer
+
+Kitchen counters and drawers are decorative blocks used to build kitchens.
+
+Oven
+
+- The oven interface has 4 input slots. You can cook up to 4 items at the same time.
+
+- Using 1 slot cooks faster.
+
+- Filling more slots increases the total cooking time.
+
+Microwave
+
+- The microwave interface has 1 slot for food.
+
+- Cooking 1 item is fast.
+
+- Increasing the stack size increases the cooking time.
+
+Toaster
+
+- The toaster accepts up to 2 bread slices.
+
+- Insert bread slices.
+
+- Use Sneak + Interact to lower them and start toasting.
+
+Dishwasher
+
+The dishwasher is used to repair vanilla tools: Swords, Pickaxes, Axes, Shovels, Hoes and Tridents.
+
+Each tool type has its own dedicated slot. Only one tool per slot is allowed. It requires one of the following items as consumable:
+
+- Soap Water (repairs 1 durability every 3 seconds)
+
+- Super Soap Water (repairs 1 durability every 1 second)
+
+The interface shows the durability of each tool.
+
+Washing Machine
+
+Works the same way as the dishwasher, but repairs armor pieces instead of tools.
+
+Freezer
+
+The freezer is used to freeze or convert items.
+
+Supported operations:
+
+- Water bucket Ice
+
+- Lava bucket Obsidian
+
+- Ice Packed Ice Blue Ice
+
+- Rotten Flesh Flesh (can be cooked and eaten without Hunger effect)
+
+Accepted freezing items:
+
+- Cooling Pack
+
+- Ice
+
+- Packed Ice
+
+- Blue Ice
+
+(Balancing of freezing speed and items may change.)
+
+Blender
+
+The blender is used to craft drinks. Ingredients are processed into cups, and each recipe can serve up to 6 cups using empty cups. Empty cups and filled cups can be placed as blocks.
+
+Available drinks and recipes:
+
+- Fruit Crush: 2 apples, 4 melon slices
+
+- Veggie Juice: 4 carrots, 1 potato, 2 pumpkin pies
+
+- Cookies & Ice Cream: 2 cookies, 1 milk bucket
+
+- Energy Drink: 8 redstone, 1 fire charge, 16 sugar
+
+- Egg Nog: 4 eggs, 2 sugar, 1 milk bucket
+
+Printer
+
+Requires ink to operate.
+
+Accepts:
+
+- Ink Cartridge (200 seconds)
+
+- Ink Sac (50 seconds)
+
+Requires an enchanted book to start printing. Printing time depends on the enchantment type and level. If printing stops and no ink is available, all progress is lost. Interacting with the block shows remaining ink and printing time.
+
+Base time is the printing time for level I.
+Multiplier is added per enchantment

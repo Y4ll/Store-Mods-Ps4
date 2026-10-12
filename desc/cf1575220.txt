@@ -1,0 +1,79 @@
+Nikolais Orbital Strike Cannon V3, Use the Starnova for glamourous destruction, and the stasis anchor to teleport yourself to it from anywhere in the world instantly. Alongside the five devastating orbital weapons: the Nuke Shot, Stab Shot, Wolf Shot, Arrow Cannon, and Wither Shot. And even 3 new custom materials.
+
+Check out the Authentic Version: https://www.curseforge.com/minecraft-bedrock/addons/orbital-strike-cannon-authentic
+
+Or Check Out Orbital Railgun: Starnova for a expansion and upgrade on the starnova item!
+
+https://www.curseforge.com/minecraft-bedrock/addons/orbital-railgun-starnova
+
+Or the stasis anchor mod:
+
+https://www.curseforge.com/minecraft-bedrock/addons/remote-stasis-chamber-addon
+
+The Starnova, crafted from Starnite, can be used to summon payloads anywhere in the world; In style. With beautiful, destructive visuals, Custom SFXs, UIS, and a beautiful Item model.
+
+The Stasis Anchor can be used to teleport yourself back to it anywhere in the world instantly, with 3 different modes. Manual, Last Stand, and No totems It can also be activated by redstone and is crafted with 2 new custom materials, Resonant, and Void ingots.
+
+Starnite, Void Ingot, Resonant Ingot; The 3 custom materials added to the game, used to craft the Starnova, and Stasis Anchor.
+
+The Nuke Shot fires a precision orbital marker in the exact direction you're aiming. On impact, it detonates a massive ring explosion that obliterates everything in its path.
+
+The Stab Shot sends a vertical column of destruction straight through the world from bedrock to the sky, destroying anything in its way.
+
+The Wolf Shot calls down a pack of wolves onto your target customise how many, their effects, and even their names.
+
+The Arrow Cannon rains a concentrated barrage of arrows from the sky, with adjustable concentration, spread, and range. Optional exploding arrows included!
+
+The Wither Shot unleashes a massive barrage of explosive wither skulls that spread out into a ring formation and explode on impact - tearing through terrain, obsidian, and even water and lava. More destructive than Nuke, but less powerful.
+
+Every weapon is fully configurable via the Settings item: control who can fire, toggle craftability, tune damage and concentration, and dive into a huge customisation menu. Try the built-in presets - Fun Mode, MAX Mode, and Optimised Mode - to reconfigure everything in one tap, and use the dedicated Optimisation menu to keep things smooth on any device. Or toggle new options like arrow audio or death sound effects.
+
+Craft each rod at a crafting table, or use the Settings/Creative inventory item to give them directly. Requires Holiday Creator Features and Beta APIs enabled (on some devices)
+
+In V3, the settings, and UIS, got an overall massive visual upgrade with custom UIS, and SFXs compared to the old, boring V2 counterparts.
+
+3 Versions are available!
+
+-
+
+(Recommended) - Standart, being everything V3 has to offer.
+
+-
+
+NJM, removing the join message and other world broadcasts to ensure the mod is kept a secret in your world. Other than that identical to Standart.
+
+-
+
+NRT - No rod textures, overall identical to NJM however removes the custom rod textures, for all the authentic enjoyers! However, it's recommended to download my other mod for the most accurate expirience.
+
+Secret Features:
+
+-
+
+Destroying the Starnova (item) causes it to explode
+
+-
+
+There is a test beam for creative allowing you to mess around with infinite beams
+
+-
+
+And probably a few bugs, but do report those.
+
+Watch the showcases / trailers for V1,V2, and V3.
+
+Sneak peak: https://drive.google.com/file/d/1q0SmY3RuEKfSwYpxiaTJYcAR_TmxGSEI/view?usp=sharing
+
+V3: https://www.youtube.com/watch?v=8ZYKRdtukDw
+
+V2: https://www.youtube.com/watch?v=ouFi__dMmrY
+
+V1: https://www.youtube.com/watch?v=Mgaq1dmTWlo
+
+U can make your own showcases or reviews and I might link them here too:
+
+Q&A for V3:
+
+For any issues you could not fix yourself you may also contact me on discord: nick_b192
+
+Failed to impor

@@ -1,0 +1,73 @@
+# CurseForge description CobbleDrock Legendary Encounters
+
+---
+
+## Summary field (short, paste into "Summary")
+
+Legendary hunting for CobbleDrock: two rarity tiers, a real spawn clock, one Legendary at a time, plus the `/checkspawn legendary` command to inspect and retune the odds no cheats required.
+
+---
+
+## Full description (paste into "Description", Markdown supported)
+
+# CobbleDrock Legendary Encounters
+
+Legendary hunting for **Minecraft Bedrock Edition**, built for the CobbleDrock ecosystem.
+
+CobbleDrock Legendary Encounters puts the classic Legendaries out into your world as real, catchable encounters instead of handing them to you. Two rarity tiers share one spawn clock, only one Legendary can be out at a time, and a single command tells you exactly what is out, where it is, when it leaves and when the next one rolls **without ever turning cheats on**.
+
+---
+
+## Highlights
+
+* **Survival friendly, no cheats** the whole management command is a native slash command (`cheatsRequired: false`). Works in a normal Survival world with cheats off, no operator status needed to check the status.
+
+* **No Legendary right after world creation** a brand new world waits a configurable grace period (30 minutes by default) before the first encounter. No more "Legendary at spawn".
+
+* **Real spawn clock, not a resetting timer** the schedule is stored in the world in wall-clock time, so reloading the world or restarting the server does **not** drop a fresh Legendary and does **not** extend the one that is already out.
+
+* **Two tiers, one scheduler** Popular Legendaries (birds, beasts, regis, Eon duo, weather trio, Tao trio, genies) and Special Legendaries (Mewtwo, Mew, Lugia, Ho-Oh, Regigigas, Deoxys, Darkrai, Arceus, Victini, Keldeo, Meloetta, Genesect, Shaymin) share a single scheduler, so "only one at a time" is always true.
+
+* **Biome-accurate placement** 31 species (18 Popular + 13 Special), each tied to the biomes it belongs in, with ground, sea-surface and sky placement. Darkrai only appears at night, Moltres only in the Nether, Arceus and Deoxys only in the End.
+
+* **Retune the rates in-game** every timing, weight, distance and level value can be read and changed with one command. Nothing needs a re-release to be tuned.
+
+* **Notifies through CobbleDrock Spawn Alerts** every spawn carries the shared tags and Pokemon data, so CobbleDrock Spawn Alerts announces it server-wide. No duplicated messages.
+
+* **Keeps your entity budget intact** Legendaries are tagged as spawn-cap exempt, so they never eat into CobbleDrock Core's normal Pokemon spawn limit.
+
+---
+
+## Requirements
+
+| Addon / component | Version | Notes |
+
+|---|---|---|
+
+| **CobbleDrock Core** | 1.3.0 Fix | **Required.** Provides every Pokemon entity, species and battle data this addon uses |
+
+| **CobbleDrock Spawn Alerts** | 1.0.2 | **Required.** Owns the spawn/despawn notifications. This addon is a dependency, so it must be installed and active |
+
+| Minecraft Bedrock Edition | 1.21.120+ | `min_engine_version` of the pack |
+
+| Experimental toggles | none | Uses the stable script API only. **No Beta APIs experiment required** |
+
+> Because this pack depends on **CobbleDrock Core** and **CobbleDrock Spawn Alerts**, all three must be installed **and** activated on the world. If one is missing, Minecraft reports a missing dependency instead of loading the pack.
+
+---
+
+## Installation
+
+1. Download all three `.mcaddon` files: CobbleDrock Core, CobbleDrock Spawn Alerts and CobbleDrock Legendary Encounters.
+
+2. Open each `.mcaddon` file to import it (Windows, Android, iOS, consoles via a supported transfer method one file imports both the behavior and resource packs it contains).
+
+3. Create or edit a world, then enable **both** packs from the addon list:
+
+* `CobbleDrock Core BP` + `CobbleDrock Core RP`
+
+* `CobbleDrock Spawn Alerts 1.0.2 Fix`
+
+* `CobbleDrock Legendary Encounters 1.0.3`
+
+4. Enter the world and run `/checkspawn legendary`. The first line should read `alerts: linked (CobbleDro

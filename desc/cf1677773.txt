@@ -1,0 +1,171 @@
+Entities:
+
+Elves:
+
+- Health: 55
+
+- Damage: 3
+
+- Equipment: Bow and elven sword
+
+- Entity type: Hostile to monsters
+
+- Skills: Shoot arrows with slow effect
+
+- Generation: Forest
+
+- Variants: 8
+
+- Attack type: Long range and melee
+
+Description:
+
+Elves are creatures of great beauty that live in the forests. They use two weapons to fight: bows and arrows with a slowing effect for long-range combat and elven swords for close combat. They are very intelligent and protective, capable of opening doors and have good aim and experience in bow enchantments.
+
+Elves use a special sword that they might drop if you kill them. That sword is as strong as a diamond sword but as fragile as a gold sword; however, you can repair it with fairy dust.
+
+Harpy:
+
+- Health: Minimum 40 and Maximum 47
+
+- Damage: 6
+
+- Entity type: Hostile
+
+- Skills: Fly
+
+- Generation: Desert, swamp, stony peaks and savanna
+
+- Loot: Harpy Feather
+
+- Attack type: Melee
+
+Description:
+
+Harpies are women with bird-like features that inhabit deserts, stone biomes, and swamps. They are hostile and unpleasant. When killed, they drop feathers that can be used to create wither arrows.
+
+Goblins:
+
+- Health: 26
+
+- Damage: 4 and 5
+
+- Entity type: Hostile
+
+- Skills: Steal
+
+- Generation: Forest
+
+- Loot: Gold
+
+- Variants: 8
+
+- Attack type: Melee
+
+- Equipment: Knife
+
+Description:
+
+They are small thieves that inhabit the forests. They love hunting fairies and stealing gold. When they see gold, these goblins do not hesitate to take it and stash it in the sack they carry; if they die, they drop only one of the stolen items, so one must be careful around them.
+
+They are capable of destroying gold blocks to steal the gold.
+
+They can also destroy chests to see if there is gold inside, but the only chests they do not destroy are copper ones.
+
+Fairies:
+
+- Health: 9
+
+- Entity type: Peaceful
+
+- Skills: Fly
+
+- Generation: Forest
+
+- Loot: Fairy dust
+
+- Variants: 6
+
+Description:
+
+Fairies are peaceful, defenseless creatures that inhabit forests. They have a small village with miniature houses, where players can trade with them. When killed, they drop fairy dust.
+
+Fairy dust is one of the most valuable items in the addon since with them you can make magical objects, a very easy and fast way but at the same time cruel, is by hitting the fairies and when they are dying they have to use a jar to enclose the fairies which is crafted as follows:
+
+Example:
+
+Minotaur:
+
+- Health: 1260
+
+- Damage: Attack 1: 18, Attack 2: 15, Attack 3: 38, Attack 4: 18
+
+- Entity type: Hostile boss
+
+- Skills: Super strength
+
+- Generation: Roofed forest
+
+- Loot: Minotaur horns, leather and beef
+
+- Attack type: Melee
+
+- Equipment: Iron mallet
+
+Description:
+
+The Minotaur is a monstrous creature with bull-like features, living in an underground labyrinth in the roofed biomes.
+
+It is a powerful, hostile creature that drops its horn when killed, which can be used to craft the Minotaur Axe.
+
+Cerinean Deer:
+
+- Health: Minimum 30 and Maximum 45
+
+- Entity type: Passive
+
+- Skills: Super speed
+
+- Generation: Forest
+
+- Loot: Cerinea Deer Horn and copper
+
+Description:
+
+It is a deer of the goddess Artemis, they have golden horns and bronze hooves, it is a very fast creature that appears in the forests with a very, very low probability and with an essential schedule, if you find them you can tame it and you can equip it a horse mount without problems and if it dies it will release its golden horn which is highly desired by any magical creature.
+
+Centaur:
+
+- Health: 68
+
+- Damage: 5
+
+- Entity type: Friendly with monsters
+
+- Generation: Savanna
+
+- Loot: Leather
+
+- Variants: 8
+
+- Attack type: Melee
+
+- Equipment: Lance
+
+Description:
+
+Centaur are creatures that attack monsters with spears and enjoy alcohol. They inhabit savannah, mountain, and desert biomes.
+
+Humans:
+
+- Health: 20
+
+- Entity type: Passive
+
+- Generation: Taiga
+
+- Variants: 28
+
+Description:
+
+They live in walled cities found in taiga biomes, they are peaceful creatures that can sell you some 

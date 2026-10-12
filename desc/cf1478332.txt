@@ -1,0 +1,63 @@
+War of Shinobi
+
+About this Add-On!
+
+Shinobi War is an Add-On inspired by an Anime/Manga called Naruto, by Masashi Kisimoto with Anime produced by Pierrot Studio.
+
+The point is, in this Add-On you can choose the characters in the Anime/Manga, according to what we want, but this Add-On is still BETA, and there are definitely bugs too, im sorry if there are annoying bugs.
+
+Preview
+
+Selections!
+
+Menu Select
+
+If you want to Select Characters, use the Menu Select items, and then will show this UI, there is 3 button.
+
+- Select Characters = Literally just for select the Characters that you want
+
+- Reset Characters = Click this button if you want change to another Characters
+
+- Help = Guide for you
+
+Selection Category
+
+Characters category, select characters according to category.
+
+Characters Preview!
+
+And also every Charactres in this Add-On has 5 Skills.
+
+Camera Select
+
+Basically this item is just for change the Player's POV.
+
+Back POV
+
+Side POV
+
+Soundtrack Select
+
+Item to play the Soundtrack from the Anime.
+
+Weapon
+
+All weapon in this Add-On for v0.1, Some weapons can be crafted at the crafting table.
+
+Or you can get weapons by Trading with Kenjutsu Shopkeeper, they can spawn naturally.
+
+(Btw for now the currency is Gold Ingot, i have plan for change into "Ryo" later)
+
+That's All for War of Shinobi (BETA) Version
+
+NOTE: You need to turn on experimental features for the add-on to work.
+
+IMPORTANT: If you want to review this add-on, please don't forget to credit me in the description.
+
+Creator:
+
+- Bucket4422 (Main Coder)
+
+- vexoker (Model, Texture, Animation)
+
+MY YOUTUBE CHANNEL: Bucket4422

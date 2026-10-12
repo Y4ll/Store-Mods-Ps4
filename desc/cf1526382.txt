@@ -1,0 +1,191 @@
+The Dark Infection
+
+A parasitic Minecraft add-on inspired by Scape and Run: Parasites
+
+The world is no longer safe.
+A strange biological infection spreads across blocks, creatures, and entire environments. As the parasite evolves, it becomes smarter, more aggressive, and harder to survive against.
+
+Survival Mode is now fully supported.
+The infection now progresses naturally through gameplay, allowing players to experience a complete survival-horror evolution system.
+
+Core Progression System
+
+The infection evolves through three major systems:
+
+- Environmental Points controls world corruption and spawn behavior
+
+- Capability Points controls parasite intelligence and combat evolution
+
+- Transmission Points controls infection and spreading abilities
+
+Environmental Points
+
+Environmental Points represent how heavily the world has been corrupted.
+
+How to Earn Environmental Points
+
+- Every infected block grants +1 Environmental Point
+
+Environmental Stages
+
+1000 Environmental Points
+
+[Environmental Stage 1]
+
+- Infected mobs begin spawning during nighttime
+
+100000 Environmental Points
+
+[Environmental Stage 2]
+
+- Infected mobs begin spawning during daytime
+
+- The infection becomes impossible to fully avoid
+
+Capability Points
+
+Capability Points represent the parasite hives evolution and combat intelligence.
+
+How Capability Points Work
+
+- Every infected mob spawned: +3 Capability Points
+
+- Every infected mob killed: -5 Capability Points
+
+Players can temporarily slow parasite evolution by eliminating infected creatures.
+
+Capability Stages
+
+0 Capability Points
+
+[Capability Stage 0 Passive Adaptation]
+
+- Infected mobs attack only certain common creatures
+
+- Parasites avoid players whenever possible
+
+- Detection range limited to 25 blocks
+
+- Early infection behavior remains unstable
+
+500 Capability Points
+
+[Capability Stage 1 Hostile Evolution]
+Infected mobs begin attacking:
+
+- Players
+
+- Overworld creatures
+
+- Sea creatures
+
+- Modded entities
+
+- Nearly all living mobs
+
+Additional Changes:
+
+- Detection range increases to 50 blocks
+
+- Parasites become significantly more aggressive
+
+1500 Capability Points
+
+[Capability Stage 2 Combat Mutation]
+All infected mobs receive major combat upgrades:
+
+- Increased maximum health
+
+- Attack damage increased from 68 15
+
+- Movement speed increased by 10%
+
+- Improved chase behavior
+
+4000 Capability Points
+
+[Capability Stage 3 Apex Intelligence]
+
+- Parasites prioritize players above all other targets
+
+- Normal mobs are ignored unless necessary
+
+- Detection range exceeds 200 blocks
+
+- Parasites can detect players through walls
+
+- Escaping becomes extremely difficult
+
+8000 Capability Points
+
+[Capability Stage 4 Environmental Collapse]
+All infected mobs gain:
+
+- Wooden block breaking abilities
+
+- Improved pathfinding
+
+- The ability to invade player bases more effectively
+
+No shelter remains completely safe.
+
+Transmission Points
+
+Transmission Points determine how efficiently the infection spreads between organisms.
+
+Transmission Stages
+
+0 Transmission Points
+
+[Transmission Stage 0 Dormant Infection]
+
+- Parasites cannot infect living mobs
+
+100 Transmission Points
+
+[Transmission Stage 1 Explosive Mutation]
+
+- Parasites explode upon death
+
+- Explosions release additional parasitic worms
+
+- Infection spread becomes more unpredictable
+
+500 Transmission Points
+
+[Transmission Stage 2 Limited Infection]
+Only these variants can infect mobs:
+
+- Parasitic Larvae
+
+- Parasite Spiders
+
+The infection is still partially controlled.
+
+2000 Transmission Points
+
+[Transmission Stage 3 Full Transmission]
+
+- All parasite variants can now infect mobs
+
+- Infection is no longer limited to specific parasite types
+
+- Outbreaks spread rapidly across the world
+
+Survival Mode Features
+
+Fully Integrated Survival Gameplay
+
+- Dynamic parasite evolution system
+
+- World corruption progression
+
+- Escalating difficulty over time
+
+- Survival-focused balancing
+
+- Base defense gameplay
+
+- Large-scale infection outbreaks
+
+- Sleeping reduces Environmental Po

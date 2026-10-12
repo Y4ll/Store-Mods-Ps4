@@ -1,0 +1,19 @@
+Vibrant Aura gives Bedrock a warm, cinematic glow - violet dusks that fade into deep blue nights, god rays through the treeline, and fog written biome by biome.
+
+- Per-Biome Fog, Lighting & Colour Grading
+
+- Volumetric God Rays
+
+- Violet Sunsets & Deep Blue Nights
+
+- Coloured Light Sources
+
+- Full PBR Textures
+
+- Water Caustics & Waves
+
+- Dedicated Nether & End Atmospheres
+
+- Compatible with other Packs
+
+[ ! ] This pack only works with Vibrant Visuals turned on

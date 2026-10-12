@@ -1,0 +1,43 @@
+JOIN THE ADDONS DISCORD
+
+VIBRANT VISUALS AREN'T COMPATIBLE AND NO EXPERIMENTS NEEDED
+
+This Addon Pack Merges all of my Expansion add-ons into 1 pack. said addons overhaul every single aspect of the game
+
+from Abyssal Ascent overhauling The End
+
+Tempered In Flame's Nether Overhaul
+
+Disastrous Dunes Desert Update:
+
+Frozen Tears Snow Update:
+
+Natures Touch's Nature Update
+
+Cavern Calamitys Cave Update
+
+Alongside Literal THOUSANDS of new blocks and items
+
+With TONS of UNIQUE weapon types:
+
+Throwing Knifes: Throwing Knives do a decent amount of damage but have a chance of being used up on hit
+
+Spears: Spears have infinite pierce, can be thrown and can be used for melee damage, spears stack to 5-10 depending on the spear
+
+Longswords: Longswords when you interact with them they have a spin attack that damages anything in a 2 block radius, they do 1 less damage than a sword
+
+War Hammers: War Hammers when you hit something, they send out a shock wave in the direction of the mob you hit, each shockwave spawned is dependant on the warhammers damage, for every 2 damage it gains a shockwave, each new shockwave is weaker than the last one
+
+Kunai: a spammable, cheap throwable item
+
+Greatswords: much stronger than normal swords, they inflict blindness and slowness on whatever you hit as well, however once you hit something, your hit with weakness 255 for 5 seconds, unless the weapons enchanted with sharpness, then it goes down to weakness 4
+
+Claymores: Claymores act similar to sweeping edge from java
+
+Pikes: Pikes have an interactive ability via right-click that deals a ton of damage to anything 3-4 blocks in front of you, however, its only 3-4 blocks in front of you, nothing in-between, so anything directly in front of you wont be affected
+
+Scythes: Scythes deal damage overtime, up to 4 more than the sword it came from, however since it deals damage overtime, its less effective than a sword against enemies with armor
+
+Battle Axes: they do +4 more damage than swords, however when you hit something your hit with weakness 3 and slowness 2, reducing your damage and movement speed by a lot, they also can pierce shields
+
+Caltrops: Caltrops are a throwable weapon that when they land, they deal damage to anything that walks into them, similar to a spike

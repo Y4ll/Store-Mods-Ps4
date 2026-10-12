@@ -1,0 +1,137 @@
+Downloads Creator Support (latest v6.9)
+
+- Download MoreTools v6.9 BP
+
+- Download MoreTools v6.9 RP
+
+Description! v6.9
+
+Expand Your Game with 800+ More Tools & Items, and 20+ New Blocks!
+
+Whether youre crafting, building, or exploring, this add-on enriches your world with new possibilities, all while keeping that classic vibe intact. The goal of this addon is just to give you that vanilla style vibe nothing more nothing less.
+
+More Tools Addon was created with passion for minecraft bedrock comunity!
+
+Non Experimental Addon.
+
+Add-on preview!
+
+Some Tools you can find in this add-on!
+
+Update Preview!
+
+The BURNOUT is real! We are getting closer to completly updating the add-on for 1.21! What I got working so far read down below! Honestly, working on the "More Tools Addon" has been incredibly exhausting and frustrating, thanks to Mojang.
+
+-------------More Tools is now on CurseForge---------------
+
+Update v6.6
+
+- Lithium Tools and Armor Update!
+
+- Very rare end dimension ore, very fast mining speed, fairly op damage, but low durability for an end tool set.
+
+Update #8 v6.4
+
+- Slime tools now work properly again!
+
+- Right click any slime tool item and withing 25 block radius items on the ground will "stick" to you!
+
+- Hard to remake these after the 1.21.20 update this is more of a "good enough fix for now"
+
+- Fixed most of the following battleaxes abilities(still WIP)
+
+- Blaze, Lightning, Frozen, Echo, (Iron, Emerald, Diamond these only give effects!)
+
+- To use the abilities you have to right click on mouse or tap on the screen, or shift/sneak + right click or tap on screen for other abilities.
+
+- Netherite and Ender are a bit tricky to fix rn hopefully at some point.
+
+- Right click
+
+- Right click
+
+- Sneak + Right click
+
+- Right click
+
+- Sneak + Right click
+
+- Right click
+
+- Sneak + Right click
+
+Update #7 v6.3-j7
+
+- Added a welcome message!
+
+- Added the WanderingTrader back!
+
+- Wearing a full set of magma/frozen armor will work properly again!
+
+- Full Frozen armor set (don't sit to much)
+
+- Full Magma armor set (keep moving)
+
+- Lots of other content log errors fixes.
+
+- Texture for the visinium block update!
+
+Monumental Update #6 v6.3-j6
+
+- Uranium, Enderite, Soul, Celestite, Onyx blocks are mostly fixed!
+
+- Eating the very cute food swords will give you effects again! (Same effects for all)
+
+- Colored text is now fixed!
+
+- Melon sword is craftable again!
+
+- Name changed to all the cute swords: removed "Iron".
+
+- Removed old blocks like colored shroomlights, planks and other 3d blocks
+
+Monumental Update #5 v6.3-j5
+
+- Fixed Bug: pillager raids not starting corectly.
+
+- Flint and Steel work again! (Different fire size area for each tier)
+
+- Steel Ingot can now be used to craft the vanilla flint and steel.
+
+Monumental Update #4 v6.3-j4
+
+- Hammers 3x3 (not 1x3) mining ability is back! (Right-click or tap on the screen)
+
+- The ability will use 25 item durability points! (Unbreaking enchant will work on the ability)
+
+- Fixed some celestite blocks. (Not everything is fixed, just wanted to see what's wrong with it so Celestite is still not working atm)
+
+- Mace recipe updated to match vanilla game.
+
+- Recipe updated for maces, find it in [maces info] lower on this page.
+
+- Upgraded Bench block rotation should work again.
+
+Monumental Update #3 v6.3-j3 (Backup your worlds!)
+
+- All Apples will give effects again!
+
+- Upgrade Bench is back!
+
+Monumental Update #2 v6.3-j2 (Backup your worlds!)
+
+- All Items should have durability again!
+
+Monumental Update #1 v6.3-j1 (Backup your worlds!) (This update is not complete, if you don't feel safe to update to this please wait for the future version!)
+
+- Removed Karambits
+
+- HCF still required for blocks and other stuff!
+
+- Mace texture updated to match vanilla game
+
+- Items are now updated so that they do not require HCF (Holiday creator features) anymore! (good enough to show in game)
+
+- This doesn't mean they are fully working but working good enough to show in the game
+
+- For now, about 1k item files hav

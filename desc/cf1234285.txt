@@ -1,0 +1,75 @@
+WARNING!
+
+This addon is NOT suitable for low or lower-medium range mobile devices, as it incorporates a large number of elements that may cause lag or FPS drops on devices with limited resources. It is recommended to use it on mid-high range, high-end devices, or on PC for optimal performance.
+
+I changed the name of the addon from "expansive nature" to "expansion of nature" because the previous name was very similar to another addon.
+
+Expancion of Nature Rediscover Nature in Minecraft Bedrock
+
+Are you ready to transform your Minecraft world? Expancion of nature immerses you in a renewed natural environment, bringing a wide variety of plants and flowers that beautify and energize every biome. Dive into vibrant, lively landscapes where every corner holds a special touch.
+
+In order to obtain some of the plants, you will need to use a tool that has the silk touch enchantment on it.
+
+- In this version 1.3 of the mod, more plants were added, some changes were made to the display of some existing plants, 3 insects and a reptile were added, and now some plants can be put in pots.
+
+- Furthermore, snow no longer accumulates on the plants, and most plants can now be placed in water.
+
+- Now some plants adapt to the color of the vegetation in the biome
+
+- The giant trees were temporarily removed because they have glitches when generated on the terrain.
+
+Key Features
+
+Botanical Diversity:
+Discover a broad range of vegetation that adds color and freshness to your adventures, making every biome feel unique.
+
+Vibrant Environments:
+New natural elements enrich your worlds, creating landscapes full of life and details that invite exploration.
+
+Immersive Experience:
+Ideal for players looking to breathe new life into their games, whether in survival or creative mode.
+
+Ongoing Updates:
+Nature Expansive continues to evolve, promising more surprises and enhancements in future versions to keep your experience fresh.
+
+NEW The following plants can now be potted.
+
+NEW The following plants were added in this update:
+
+small tree: it is a miniature tree that grows anywhere
+
+Cave leaves: they grow in the darkness of caves
+
+Fire flowers: they grow in deserts
+
+Cave ash: It is a plant that also grows in caves.
+
+In order to obtain some of the plants, you will need to use a tool that has the silk touch enchantment on it.
+
+For the moment, all the plants are purely decorative and have no special use.
+
+NEW The following insects were added
+
+the cricket:
+
+I haven't added sound to the cricket yet because it has quite a few bugs, but I hope to add sounds in the next update.
+
+snakes:
+
+Beware, they are poisonous
+
+flies:
+
+They fly free as the wind, they are only found in swamps
+
+dragonflies:
+
+They are very beautiful insects, and they come in various colors.
+
+Dare to explore a Minecraft world full of nature and captivating details!
+
+Download Expancion of Nature and rediscover the magic of nature in every corner of your world.
+
+I will soon be adding more plants and insects, but this will be for the next update. Also, don't forget to leave your ideas in the comments.
+
+Leave your ideas in the comments, I'll try to read them.

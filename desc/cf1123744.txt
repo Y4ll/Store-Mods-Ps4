@@ -1,0 +1,179 @@
+DUAL WIELDING
+
+All weapons from this Add-On can now be used in the Off-Hand, which in turn makes it possible to fire two of them at the same time.
+
+HOW TO USE
+
+To use a gun in your offhand, you simply need to grab it in your inventory and put in the second hand slot, where you would put a shield.
+
+To actually fire the gun all you need to do is interact like you would normally (right click/left trigger/holding your screen) in order to make it shoot. As simple as that
+
+You use any two guns you want, you are not limited whatsover in this area. Feel free to try combinations at your will.
+
+ACTUAL DAMAGE SYSTEM
+
+You might think, "but wait, Minecraft has a system that makes hurt mobs invincible for a couple of ticks, isn't this kind of pointless?" Well thanks to the brand new ACTUAL DAMAGE SYSTEM that is no longer a concern!
+
+The ADS (Actual Damage System) allows for you to bombard an enemy with bullets as fast as you want and have them take all of the damage. This means if you use two guns at the same time, you will effectivly deal double damage!
+
+As the best example, below is an Iron Golem getting bombarded with bullets and taking the damage of all of them instead of going invicible briefly:
+
+THE GUNS
+
+Hand Cannon
+
+The most basic one of them all, ideal for encounters with common enemies
+
+- Damage: 9
+
+- Reload Time: 1.0
+
+- Durability: 200 uses
+
+- Bullet Spread: 2.0
+
+- Can NOT pierce through enemies
+
+Musket
+
+Efficient and with a good range, ideal for dealing with more powerful mobs at a distance!
+
+- Damage: 24
+
+- Reload Time: 2.75
+
+- Durability: 150 uses
+
+- Bullet Spread: 1.0
+
+- Can pierce through enemies
+
+Blunderbuss
+
+A powerful and quick gun, in exchange for a decreased range, better for close encounters.
+
+- Damage: [24 - 3]
+
+- Damage Per Pellet: 3.0
+
+- Pellets Shot: 8.0
+
+- Reload Time: 1.9
+
+- Durability: 180 uses
+
+- Bullet Spread: 6.0
+
+- Can pierce through enemies
+
+Double Barrel Shotgun
+
+Very powerful, very low range, only for players who like to risk it all with a point-blank shot.
+
+- Damage: [48 - 3]
+
+- Damage Per Pellet: 3.0
+
+- Pellets Shot: 16.0
+
+- Reload Time: 2.5
+
+- Durability: 150 uses
+
+- Bullet Spread: 16.0
+
+- Can pierce through enemies
+
+Hand Mortar
+
+An explosive little gun, better for dealing with crowds of enemies or for environmental destruction!
+
+- Damage On Direct Hit: 24
+
+- Reload Time: 2.65
+
+- Durability: 100 uses
+
+- Bullet Spread: 1.0
+
+- Explodes on contact with blocks
+
+- Bullets are affected by gravity
+
+- Leaves fire behind
+
+Auto Gun
+
+Not so high damage, in exchange for a fast fire rate.
+
+- Damage PerBullet: 4
+
+- Bullets Shot: 2.0
+
+- Reload Time: 0.2s
+
+- Durability: 150 uses
+
+- Bullet Spread: 3.0
+
+- Can pierce through enemies
+
+Mauler
+
+A revolver like gun, slower than the Flintlock but more powerful
+
+- Damage: 16
+
+- Reload Time: 1.0s
+
+- Durability: 150 uses
+
+- Bullet Spread: 2.0
+
+- Can pierce through enemies
+
+Hunting Musket
+
+Perfect for attacking enemies from a safe distance with a higher fire power, in exchange for a slower fire rate. To use the spyglass attached to the musket, simply crouch while having the Hunting Musket in your hand!
+
+- Damage: 32
+
+- Reload Time: 3.8s
+
+- Bullet Spread: 0.0
+
+- Durability: 150 uses
+
+- Can pierce through enemies
+
+Repeating Crossbow
+
+Capable of shooting arrows at a quick speed, with fully working crossbow enchantments, and even fully functional tipped arrows (prioritizing the off-hand)
+
+- Damage: 9
+
+- Reload Time: 0.2s
+
+- Bullet Spread: 0.5
+
+- Durability: 400 uses
+
+- Can NOT pierce through enemies (unenchanted at least)
+
+- If enchanted with Quick Charge, it will become a burst fire weapon, consuming and firing +1 arrow per level
+
+NEW -> DESPOILER
+
+A burst shot weapon, capable of firing three decently powerful bullets in succession, dealing considerable damage if all three land on the target. With it's low bullet spread is best if used at a distance.
+
+- Damage Per Bullet: 10
+
+- Bullets Per Shot: 3
+
+- Reload Time: 0.2s
+
+- Bullet Spread: 0.5
+
+- Durability: 150 uses
+
+- Can NOT pierce t

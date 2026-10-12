@@ -1,0 +1,19 @@
+Standing around all day gets boring. Sit Anywhere lets you sit down wherever you are - no chairs to craft, no commands to type, no items to hold. Just empty your hand, look down at the ground and tap. Your player sits down properly, and a jump gets you back on your feet.
+
+- Sit on almost any block - grass, dirt, stone, sand, wood and everything else
+
+- Sit on stairs and slabs at the correct height, so you never float or sink into the block
+
+- Sit on carpets, snow layers, hay bales, flowers, moss and other thin blocks
+
+- Sit on beds without setting your spawn point or skipping the night
+
+How to Sit?
+
+- Empty your hand - it only triggers when your selected slot is empty
+
+- Look down at the block you are standing on
+
+- Tap or right-click the block to sit down
+
+- Jump to stand back up

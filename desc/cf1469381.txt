@@ -1,0 +1,33 @@
+-
+
+Check this video:
+
+(View to understand & comment for quick reply!)
+
+https://youtu.be/sYkuDaa9LIo
+
+||| Free to use, just give me credit! |||
+
+Custom Enchantment
+
+New Custom Enchantment Table! Hold an item, tap the table, and pick Freezing, Lightning, Life Steal, Poison and more.
+
+XP Paybacker
+
+Give you xp level according to interact Enchantment book level
+
+Multiplayer and mods supported
+
+How to use:
+
+When players interact with the new Enchantment Table, a UI opens with two options:
+
+- Vanilla Enchantment Requires 25 XP levels to access.
+
+- Advanced Enchantment Requires 50 XP levels to access.
+
+Disenchanter
+
+Reverse Enchant Table looks like an enchantment table but does the opposite
+Removes enchants from tools, weapons & armor and returns them as enchanted books
+Item is consumed

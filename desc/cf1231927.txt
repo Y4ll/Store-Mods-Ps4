@@ -1,0 +1,66 @@
+Marvel & DC Superheroes: The Ultimate RPG Overhaul
+
+Welcome to the most massive, immersive, and complete superhero simulation ever created for Minecraft Bedrock! This isn't just an armor packit is a complete, script-driven gameplay expansion. it introduces a 100-Level RPG system, infinite progression ladders, survival-friendly suit crafting, global server events, and a massive dynamic talent tree. No custom textures effects used for abilites/events
+
+please subscribe we are trying to reach 500 subs all support is appreciated :)
+
+Survival Friendly & Multiplayer Ready Compatible with ALL other addons (No player.json)
+
+You May Also Enjoy The Addons Below!!
+[Realm Compatible] RPG Skills & Prestige: Evolved - Minecraft Bedrock Addons - CurseForge
+
+1. The "No Commands Needed" Hero Arsenal UI.
+
+Forget trying to remember complex slash commands, functions, or typing in the chat console. This addon functions entirely via physical trigger items and clean, deeply layered interactive menus!
+
+- How to Trigger: Right-click, hold, or interact while holding a vanilla Stick, Compass, or Clock. Alternatively, you can type !menu directly in global chat to invoke the engine.
+
+- Hero Suit Matrix: Access the full roster of legendary suits, read their capabilities, view crafting recipes, and instantly equip them.
+
+- The Power Library: Unleash temporary power configurations without needing to wear a specific armor tier. Great for survival combat customization!
+
+- The Arena Wizard: Test your builds instantly! Summon scale-tuned mob challengers right to your coordinates to put your talent build to the test.
+
+- Passive Effect Registry: Real-time configuration of active passive modifiers. Manually toggle high-level mechanics like Vampirism or Static Charge instantly.
+
+2. Core RPG System, Talent Trees & Alignment Mechanics
+
+Every block you break, enemy you defeat, and block you traverse feeds into a comprehensive, automated character progression system. Your level is permanently bound to the world database.
+
+Character Statistics & Level Mechanics
+
+- The 100-Level Ladder: Earn experience points (XP) natively through gameplay. Scaling calculations make every level harder to obtain than the last, creating a genuine long-term progression loop.
+
+- The Action Bar HUD: Displays a dedicated tracking interface directly above your inventory slots. Instantly read your current Hero Level, XP progression metrics, and permanent Prestige achievements in real-time.
+
+The 25-Talent Master Skill Tree
+
+Every level awards you a permanent Talent Point (TP). Open your Hero Hub to allocate your points across 25 completely distinct skills:
+
+- Strength: Increases base physical attack damage modifiers (Max Level: 3 | Cost: 2 TP).
+
+- Agility: Grants permanent baseline movement speed boosts (Max Level: 3 | Cost: 2 TP).
+
+- Haste: Enhances your mining and attack recovery speed (Max Level: 3 | Cost: 2 TP).
+
+- Defense: Provides permanent damage reduction via baseline resistance (Max Level: 2 | Cost: 3 TP).
+
+- Vitality: Grants slow, continuous passive health regeneration (Max Level: 2 | Cost: 4 TP).
+
+- Fortune: Permanently increases player luck variables (Max Level: 3 | Cost: 3 TP).
+
+- Wisdom: Passive XP amplifier. Grants +10% extra Hero XP from all sources per level (Max Level: 5 | Cost: 1 TP).
+
+- Night Owl: Grants permanent, un-clearable Night Vision across all dimensions (Max Level: 1 | Cost: 2 TP).
+
+- Aquatic: Grants permanent dynamic Water Breathing and underwater visibility (Max Level: 1 | Cost: 3 TP).
+
+- Pyro: Forged in fire. Grants permanent protection against lava and burning (Max Level: 1 | Cost: 5 TP).
+
+- Leaper: Multiplies your vertical jump height capabilities (Max Level: 2 | Cost: 2 TP).
+
+- Featherweight: Safely drift downwards with permanent Slow Falling effects (Max Level: 2 | Cost: 3 TP).
+
+- Iron Golem: Infuses your health pool with massive extra permanent health hearts (Max Level: 3 | Cost: 5 TP).
+
+- Vampirism: Life-stealing combat. Grants a scaling 15% chance to instantly

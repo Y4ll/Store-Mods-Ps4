@@ -1,0 +1,89 @@
+ired of screen shake and Nausea effect in Survival or PvP? This mod adds:
+
+- No Hurt Cam (1st, 3rd, 3rd front)
+
+- No Nether Portal distortions
+
+- No Nausea wobble effect
+
+- No Underwater FOV effects
+
+-
+
+- No Inventory Close on Hurt
+
+- No Vignette effect in cave
+
+- Loads hud UI faster
+
+Compatible with Actions & Stuff, Vibrant Visuals & RTX.
+
+Requires:
+
+- PandaMine's Mip Mapper
+
+- Damage Tilt - 0%
+
+Installation Guide below!
+
+Showcase
+
+Installation Guide
+
+Android
+
+- Download MT Manager or APK Editor 3.0
+
+- Copy "cameras" and "__brarchive" folders from downloaded file
+
+- Using MT Manager or APK Editor paste them inside APK path:
+"/assets/assets/resource_packs/vanilla/"
+
+- Click "Replace" and build and install that APK.
+
+IOS
+
+- You need Jailbreak for this.
+
+Windows
+
+- Downlaod IOBit or Windows Explorer
+
+IOBit Tutorial (Youtube)
+
+Windows Explorer:
+
+- Copy "cameras" and "__brarchive" folders from downloaded file
+
+- Paste it in
+"C:\XboxGames\Minecraft for Windows\Content\data\resource_packs\vanilla\"
+
+- Then click on "Replace all"
+
+Allowed
+
+- Showcase the mod in any video as long there's this Curseforge link.
+
+- Share this mod using CurseForge link.
+
+Not Allowed
+
+- Steal the code for any addon or texture pack.
+
+- Modify the pack for Public use.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+Violators will face DMCA takedowns, legal claims.
+
+Downloading from other websites can give malware.
+
+About
+
+Author: PandaMine5
+
+Discord: pandamine5x
+
+Follow me for more packs!

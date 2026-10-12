@@ -1,0 +1,107 @@
+Vitrum
+
+Seamless Connected Glass for Minecraft Bedrock
+
+Transform your windows, domes, and glass structures into smooth, connected masterpieces with natural framing.
+
+What's New Key Features Vitrum Fixer Comparison Changelog
+
+Achievement Friendly
+
+Earn achievements and trophies in survival worlds. Unlike many other addons that require Experimental Features, Vitrum is built using native Bedrock scripting and culling APIs, so you can enable it in your survival world without disabling achievements or trophies.
+
+What's New in v1.0.12
+
+Version 1.0.12 addresses two of the most popular community concerns.
+
+1. 100% Mob & Iron Golem Spawn-Proof (Farm Safe)
+
+Community concern: "Custom glass blocks allow hostile mobs or Iron Golems to spawn on top, breaking iron farms and mob-proofing."
+
+- The solution: all 19 solid glass blocks now use an engineered sub-pixel collision hitbox (15.99 height).
+
+- How it works: Bedrock's spawning logic requires a full 1.0 block height surface for an entity to spawn. Since the collision box top is 15.99, the spawn engine considers the top surface invalid for spawning.
+
+- The result: hostile mobs, zombies, creepers, and Iron Golems will never spawn on top of Vitrum glass. Your iron farms, mob grinders, and glass-roofed bases stay safe, and the 0.01 pixel difference is completely invisible to players walking on top.
+
+2. Official Vitrum Fixer Addon (Zero World Corruption)
+
+Community concern: "If I disable or remove this addon in the future, will placed glass blocks turn into dirt blocks with question marks?"
+
+An official companion tool, Vitrum Fixer, now exists to safely revert your world back to vanilla glass anytime. Details in the Vitrum Fixer section below.
+
+Key Features
+
+Seamless Connected Textures with Outer Framing
+
+- Zero inner seams: adjacent glass blocks merge completely, all annoying inner grid lines disappear.
+
+- Natural outer borders: glass blocks that touch solid blocks (wood planks, stone, bricks, etc) keep their clean outer framing border, giving windows a crisp, intentional architectural look.
+
+- Full 47-state CTM: dynamically adapts to corners, edges, single columns, horizontal panes, and 3D glass cubes.
+
+Supports All 18 Glass Types & Panes
+
+- 18 solid glass blocks: Clear Glass, Tinted Glass, and all 16 Stained Glass colors.
+
+- 17 glass pane variants: full dynamic connectivity across all pane variations.
+
+- Creative menu integration: accessible directly from the Construction tab in the Creative Inventory.
+
+Auto-World Converter & Instant Placement
+
+- Place vanilla glass directly: simply craft or place standard vanilla glass in survival and Vitrum connects it instantly.
+
+- Existing world support: load pre-existing worlds or massive legacy builds with zero hassle.
+
+- 0 lag: powered by @minecraft/server asynchronous scheduling for a smooth 60 FPS with zero stutter.
+
+Vitrum Fixer: Revert Anytime
+
+Want to uninstall Vitrum, or already disabled it and now see "question-mark dirt blocks"? Install the official companion tool and your world is safe.
+
+- Install Vitrum Fixer and Bedrock instantly recognizes all 37 Vitrum glass blocks and panes again.
+
+- Walk or fly around your buildings, the automatic 1-chunk radius background scanner converts every Vitrum block permanently back into native vanilla glass.
+
+- Once converted, remove Vitrum Fixer. Your buildings now use native vanilla glass with zero dirt question marks, forever.
+
+This keeps Vitrum itself 100% focused on ultra-fast connected glass rendering with no unnecessary overhead.
+
+Comparison
+
+Feature
+Vanilla Glass
+Vitrum (v1.0.12)
+
+Inner Grid Lines
+Cluttered grid
+Seamless and smooth
+
+Outer Border Framing
+None (all or nothing)
+Clean border on wall edges
+
+Mob / Golem Spawn-Proof
+Yes
+100% spawn-proof
+
+Safe World Reversion
+N/A
+Official Vitrum Fixer
+
+Survival Achievements
+Allowed
+100% allowed
+
+Glass Panes Connected
+Basic
+Dynamic 4-way CTM
+
+Creative Inventory
+Yes
+Yes (Construction tab)
+
+Survival Auto-Swap
+N/A
+Instant on placement

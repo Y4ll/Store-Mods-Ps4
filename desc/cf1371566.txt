@@ -1,0 +1,11 @@
+Data Package Introduce:
+
+This package replaces your ancient city with a more modern wasteland city, but essentially the same as my previous wasteland city, which I think is an interesting idea, and if you like it I'll refine the structure of the package.
+
+How to install and use modules:
+
+The installation and usage are the same as my previous module, but the structure search command should be changed to/locate structure ancient_city, after all, this time it is an ancient city instead of a village.
+
+This is my previous Wasteland City version link:https://www.curseforge.com/minecraft-bedrock/addons/random-city-ruins-version
+
+After successful operation, you will see your ancient city become modern

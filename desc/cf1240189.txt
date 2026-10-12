@@ -1,0 +1,21 @@
+Images
+
+- Removed the background of chat screen
+
+- Chat text background similar with java edition
+
+- Transparent buttons
+
+- Chat autocomplete (bottom right)
+
+- Clickable command text (command autocomplete)
+
+- Tempnotes - You need to download the note And Calculator separately by clicking here, and place the clear chat screen above of the note and calculator pack!
+
+Credits
+
+- Bedrock tweaks - quick chat feature (https://bedrocktweaks.net)
+
+- Vanilla tweaks (https://vanillatweaks.net)
+
+Also try Bedrock UI+, it's have many features in a single pack!

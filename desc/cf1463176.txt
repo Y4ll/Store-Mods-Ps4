@@ -1,0 +1,63 @@
+Newb x Zyra Bright Fantasy Visual Experience (Bedrock Edition)
+
+Newb x Zyra is a custom shader pack for Minecraft, directly derived from Zyra Visuals and officially part of the Zyra Project.
+
+It is designed to deliver a visual experience very close to the original Zyra Visuals shader, but optimized to run smoothly on low-end and mid-range devices that do not support the new Vibrant Visuals feature.
+
+Visual Identity Bright Fantasy Style
+
+Newb x Zyra follows a Bright Fantasy aesthetic:
+
+Vibrant, clean, and well-balanced colors
+
+Soft, magical lighting atmosphere
+
+A night sky filled with a large number of stars
+
+Dynamic Aurora effects glowing across the sky
+
+The goal is to create a fantasy-like world without sacrificing performance.
+
+Water & Lighting
+
+Realistic water with dynamic reflections
+
+Improved transparency effects
+
+Aurora and sky reflections on water surfaces
+
+Carefully optimized lighting for stable performance
+
+Enhanced END Dimension
+
+The END dimension has been completely reimagined:
+
+A redesigned cosmic sky
+
+A massive black hole in the sky
+
+Dynamic purple glow and atmospheric lighting
+
+A darker, more immersive cosmic experience
+
+Requirements
+
+To use this shader, you will need:
+
+Better Render Dragon
+
+or
+
+Minecraft Patch (for mobile users)
+
+Newb x Zyra does not require Vibrant Visuals and is specifically built for devices that cannot support that feature.
+
+Purpose
+
+Newb x Zyra aims to:
+
+Deliver a visual experience close to the original Zyra Visuals
+
+Maintain strong performance on weaker devices
+
+Provide a high-quality alternative for players who cannot run the full shader

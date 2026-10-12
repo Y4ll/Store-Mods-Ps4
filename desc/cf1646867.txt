@@ -1,0 +1,32 @@
+Warm biome-tuned skies, dynamic golden-hour lighting, and a cinematic color grade define Beyond Visuals for Minecraft Bedrock. Full dynamic sky shifts and soft shadows bring sunrises and sunsets to life, while ACES color grading, warm ambient light, and PBR-based subsurface scattering create a smooth, cinematic world with Vibrant Visuals rendering mode. From open plains to desert horizons, every one of 87 tuned biomes carries that same golden warmth on supported devices.
+
+Features
+
+- Full dynamic sky Rayleigh and horizon color shift across day/night for real golden-hour transitions
+
+- Sun glare that peaks right at sunrise and sunset
+
+- ACES tone mapping with boosted saturation and contrast
+
+- Warm 6400K color grade with warm ambient bounce light
+
+- Soft shadows at 1024 texel resolution
+
+- Global PBR subsurface scattering fallback for smoother light falloff
+
+- Per-biome sky and water color tuning across 87 biomes
+
+Requirements
+Beyond Visuals requires Minecraft Bedrock/PE with Vibrant Visuals enabled. Supported devices include Adreno 640+ (Snapdragon 855), MediaTek Dimensity 1000+ GPUs, and PCs with DirectX 12 FL11 support.
+
+Installation
+
+- Download the pack
+
+- Open to import
+
+- Enable the pack
+
+- Turn on Vibrant Visuals
+
+The Beyond Visuals Team

@@ -1,0 +1,169 @@
+Mega TNT+
+
+Mega TNT+ adds 61 unique craftable TNT blocks to Minecraft Bedrock, each with custom explosions, craters, particle effects, and distinct destruction behaviors based on their block material. Every TNT is fully survival-obtainable and crafted at a crafting table.
+
+How It Works
+
+All TNT blocks are crafted using the same base logic: 8 pieces of a specific block/material surrounding a TNT in the center (or in some special cases, a unique pattern). Each one explodes differently different crater sizes, particle effects, mob interactions, and special abilities.
+
+Stone & Earth
+
+- Stone TNT
+
+- Cobblestone TNT
+
+- Mossy Cobblestone TNT
+
+- Gravel TNT
+
+- Sand TNT
+
+- Dirt TNT
+
+- Clay TNT
+
+Nether
+
+- Netherrack TNT
+
+- Soul Sand TNT
+
+- Soul Soil TNT
+
+- Magma TNT
+
+- Basalt TNT
+
+- Blackstone TNT
+
+- Gilded Blackstone TNT
+
+- Netherite Block TNT
+
+Ice & Snow
+
+- Ice TNT
+
+- Packed Ice TNT
+
+- Blue Ice TNT
+
+- Snow TNT
+
+Ores & Minerals
+
+- Coal Block TNT
+
+- Iron Block TNT
+
+- Gold Block TNT
+
+- Diamond Block TNT
+
+- Emerald Block TNT
+
+- Lapis Block TNT
+
+- Redstone Block TNT
+
+- Copper Block TNT
+
+- Amethyst Block TNT
+
+- Raw Iron Block TNT
+
+- Raw Gold Block TNT
+
+- Raw Copper Block TNT
+
+Wood (Planks)
+
+- Oak Planks TNT
+
+- Spruce Planks TNT
+
+- Birch Planks TNT
+
+- Jungle Planks TNT
+
+- Acacia Planks TNT
+
+- Dark Oak Planks TNT
+
+- Mangrove Planks TNT
+
+- Cherry Planks TNT
+
+- Bamboo Planks TNT
+
+- Crimson Planks TNT
+
+- Warped Planks TNT
+
+Ocean & Stone Variants
+
+- Prismarine TNT
+
+- Dark Prismarine TNT
+
+- Obsidian TNT
+
+- Crying Obsidian TNT
+
+- End Stone TNT
+
+- Quartz Block TNT
+
+- Purpur Block TNT
+
+Organic & Other
+
+- Sponge TNT
+
+- Wet Sponge TNT
+
+- Hay Block TNT
+
+- Pumpkin TNT
+
+- Melon TNT
+
+- Bookshelf TNT
+
+- Glowstone TNT
+
+- Honey Block TNT
+
+- Brick TNT
+
+Special TNTs
+
+- Slime TNT Launches all nearby mobs into the air
+
+- Bedrock TNT Massive explosion, destroys everything
+
+- Black Hole TNT Creates a gravitational pull that sucks in mobs and items
+
+- End Stone TNT Summons a particle dragon that lingers after the explosion
+
+Features
+
+- 61 TNT types, all fully survival-craftable
+
+- Custom craters with unique shapes and sizes per material
+
+- Distinct particle effects on ignition and explosion
+
+- Special mob interactions (knockback, gravity, levitation, burning, slowing)
+
+- Animated particle dragon (End Stone TNT)
+
+- Black Hole gravitational pull with visible particle vortex
+
+- Slime bounce launcher launches all mobs vertically within radius
+
+- No experimental features required
+
+- Compatible with Minecraft Bedrock 1.21+
+
+Craft responsibly.

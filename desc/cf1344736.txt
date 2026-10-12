@@ -1,0 +1,19 @@
+This resource pack lets you change tridents into the aspects of Varatha The Eternal Spear from the game Hades.
+Due to technical limitations, each trident is in a separate pack. SPEAR Version is also available!
+
+- Guan Yu - Iron Spear
+
+- Achilles - Gold Spear
+
+- Hades - Diamond Spear
+
+- Zagreus - Netherite Spear
+
+Trident packs are not compatible with each other.
+
+Modelled and textured by Mystickoko using Blockbench.
+
+For the original Java Version:
+Varatha, The Eternal Spear | Mystickoko's Profile
+
+Owner's Permission:

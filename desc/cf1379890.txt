@@ -1,0 +1,113 @@
+Last Tree Capitator Addon
+
+Important Notice
+
+It works perfectly in existing worlds, trees already generated before the installation may behave slightly differently.
+This addon is fully compatible with structure and biome addons, ensuring seamless integration with any world setup.
+
+Main Features
+
+Chop One, Fall All!
+
+Last Tree Capitator Addon brings the ultimate tree-cutting experience to Minecraft Bedrock!
+When you break a log with any vanilla axe, all connected logs above and around it will automatically break too simulating a realistic tree-felling effect.
+This saves time, tools, and effort, especially for survival players and builders.
+
+Smart Tree Detection System
+
+The addon uses an advanced detection system to identify connected logs and foliage making sure it only activates when cutting actual trees.
+
+Compatibility
+
+- Works with the latest and past versions of Minecraft Bedrock Edition
+
+- No experimental toggles required
+
+- Achievements remain enabled
+
+- Fully compatible with structure, biome, and tree addons
+
+- Works in Survival, Creative, and Multiplayer
+
+Installation Guide
+
+- Download the Addon File:
+
+- If the file has the .mcaddon extension open it directly with Minecraft
+
+- If its a .zip file rename it to .mcaddon, then open it
+
+- Activate the Packs:
+
+- Enable both the Behavior Pack in your world settings
+
+- No experimental options are needed
+
+How It Works
+
+1 Equip an axe (any material)
+2 Break the base log of a tree
+3 Watch as the entire tree collapses instantly!
+All connected logs will be broken, and their drops will fall naturally like in vanilla gameplay.
+
+Supported Woods
+
+- Oak
+
+- Pale oak
+
+- Spruce
+
+- Birch
+
+- Jungle
+
+- Acacia
+
+- Dark Oak
+
+- Mangrove
+
+- Cherry
+
+- Crimson (nether)
+
+- Warped (nether)
+
+Explore, Cut & Reforest
+
+Travel through forests, jungles, and mountains chop down trees faster than ever before!
+Whether youre building a base or collecting logs, Last Tree Capitator keeps the experience smooth and natural.
+Can you master the art of efficient lumberjacking?
+
+Share Your Builds!
+
+Show off your mega tree farms, lumber mills, or reforestation projects tag me so I can see your creations!
+
+-
+
+YouTube: Click Here!
+
+-
+
+Discord: Click Here!
+
+Summary
+
+- Instant tree cutting system (Tree Capitator)
+
+- Smart log and leaf detection
+
+- Supports all wood types and custom trees
+
+- Optional auto-replanting system
+
+- No experiments required & achievements stay enabled
+
+- Perfect for survival players and builders
+
+License & Credits
+
+Developed by Mint Studios
+All code and behavior created specifically for Bedrock Edition.
+Fan-made content created for gameplay enhancement purposes.

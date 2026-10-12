@@ -1,0 +1,25 @@
+Overview
+
+Tired of oversaturated, vibrant visuals and dangerous third-party apps? This resource pack transforms your world into a cold, moody, atmospheric experience using purely vanilla JSON fog and colormap tweaks.
+
+Engineered specifically for low-end mobile devices, this pack gives you a high-end shader feel without melting your phone.
+
+Features
+
+True Atmospheric Fog: Every single biome has custom-coded, seamless fog (including all 1.18 mountain/cave updates and the Nether/End).
+
+Glassy Water: Custom 50% transparency on all water blocks to remove the chunky vanilla textures, leaving a smooth, glass-like surface.
+
+Frosty Colormaps: Vanilla grass and foliage have been color-corrected to give the world a crisp, blueish-green, freezing morning vibe.
+
+Compatibility
+
+Version: Original Minecraft Bedrock 1.26+ (Render Dragon Supported).
+
+Requirements: NO patched Minecraft needed. NO MB Loader needed. NO third-party clients required.
+
+Performance: Extremely lightweight. Runs smoothly on 1GB/2GB RAM low-end phones.
+
+Disclaimer
+
+This is a standard vanilla resource pack that safely modifies fog, colormaps, and UI to create a shader-like atmosphere. It does not alter your game engine, contain mods, or bypass Render Dragon. Please ensure you are running Minecraft Bedrock version 1.26 or higher.

@@ -1,0 +1,4 @@
+The main purpose of this pack is to remove the detail of concrete block making it looks much cleaner!
+
+This pack also has green screen which is toggleable in the subpack options!
+*I was unable to attach the image*

@@ -1,0 +1,17 @@
+Are you a pain in the ass to lay down the torch? Want to make caving and branch mining easier? Try this add-on! This add-on will automatically place torches every 5 blocks radius!!
+
+When set offhand, the torch is automatically set up.
+
+How to place the torch on the offhand
+
+Craft an ordinary torch like this
+
+Supported torches
+
+They place torches every 5 blocks so you don't have to worry about cave exploration or monsters spawning.
+
+If you have any questions, please join the discord server.
+
+Discord
+
+Dont forget to turn them on at the end

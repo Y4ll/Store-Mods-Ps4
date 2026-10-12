@@ -1,0 +1,51 @@
+A customizable Low Fire texture pack that lowers fire overlay on your screen & removes Lava Fog & Nether Fog
+
+Features:
+
+- No Lava fog.
+
+- No Nether fog.
+
+- Semi-Transparent Fire.
+
+- Works with Vibrant Visuals, HIVE server and RTX.
+
+Subpacks:
+
+- Enhanced Fire - reduces transparency, keeps original textures.
+
+- Low Fire - reduces fire overlay and fire, campfire textures.
+
+- Better Low Fire - reduces fire overlay + transparency and fire, campfire textures.
+
+Requires:
+
+- PandaMine's Mip Mapper
+
+Try out:
+
+- Vibrant Visuals Unlocker
+
+- White + 3D Block Outline
+
+Place above all packs to work!
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and utpo 80% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+About
+
+Discord: pandamine5x

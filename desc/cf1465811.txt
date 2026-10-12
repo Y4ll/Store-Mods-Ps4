@@ -1,0 +1,111 @@
+GachaMon
+
+Unofficial port of the mod CobbledGacha (by Dogtor Bloo)
+
+(This add-on does not claim ownership of these resources)
+
+-Original Mod: https://www.curseforge.com/minecraft/data-packs/cobbledgacha-bloos-gacha-machine-addon
+
+Gachapon Machine System for Bedrock (by SVNewer and Teebz).
+
+GachaMon introduces a fully functional gachapon machine system integrated with Serp Pokedrock, allowing players to obtain items, Mega Stones, and even random Pokemon through capsule-based rewards with different rarity tiers.
+
+Test your luck and collect powerful rewards
+
+Included Machines
+
+Master Gacha Machine
+
+Available in 16 color variants (all Minecraft dye colors)
+
+Uses 25 Gacha Coin
+
+Can grant 2 types of capsules:
+
+Ultra Capsule
+
+Master Capsule
+
+Each capsule:
+
+Has different drop rates
+
+Contains its own separate loot pool
+
+Mega Gacha Machine
+
+Black variant
+
+Uses 1 Mega Gacha Coin
+
+Grants:
+
+Mega Capsule
+
+Rewards a random Mega Stone from Serp Pokedrock
+
+Wild Gacha Machine
+
+Uses 5 Mega Gacha Coin
+
+Grants:
+
+Wild Capsule
+
+Spawns a random Pokemon (if available in the addon)
+
+If no Pokemon is available, it gives a random item instead
+
+This Gachapon machine works like the wild Gachapon machine, except that the Pokemon appear shiny instead of normal, and each pull costs 10 Mega Gacha coins. (Crafting at the workbench)
+
+-Machine redesign:
+
+All the Gachapon Machines were redesigned, fixing errors in the model and slightly improving the textures.
+
+-New Mega Gachapon variants:
+
+15 new color variations were added to the Mega Gachapon machine.
+
+A new machine has been added:
+
+The legendary gacha machine will give a legendary capsule, which has the same function as the wild machine but with the difference that each pokemon that comes out will be 100% legendary or singular. And this will cost 15 mega coins:
+
+New coins design!!!
+
+Redstone!!
+
+Vibrant Visuals Compatibility!!!
+
+Full colision!!
+
+Now the blocks will be completely solid!
+
+(NOTE: To make this work, if there are already existing machines in your world when you update, break them and put them back; this will make them completely solid)
+
+NEW!!:
+
+Los disenos de las maquinas se han cambiado para que sea igual al estilo de SERP Pokedrock:
+
+Para que se vean al estilo de cobblemon, se debe usar la textura SERP Reworked:
+
+Requirements
+
+Serp Pokedrock Addon: https://www.curseforge.com/minecraft-bedrock/addons/serp-pokemon-addon
+
+Recommended Compatibility
+
+-SERP Reworked (Texture Pack)
+
+https://www.curseforge.com/minecraft-bedrock/texture-packs/serp-reworked
+
+Recommended for the best visual experience.
+
+Discord: https://discord.gg/jbanQaAKwa
+
+Cobblemon: https://cobblemon.com/en
+
+Credits:
+
+Many of the textures and visual styles are based on Cobblemon.
+
+All credit belongs to their respective creators

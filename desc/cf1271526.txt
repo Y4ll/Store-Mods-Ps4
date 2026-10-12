@@ -1,0 +1,5 @@
+English Description
+Fly on Damage adds a fun twist to survival and PvP. When you take damage, youre launched into the air! Theres a small chance to receive a water bucket or slime block to break your fall. Be careful a brief blindness effect makes things even trickier!
+
+Descripcion en Espanol
+Fly on Damage agrega un giro divertido al survival y PvP. Al recibir dano, sales volando! Tienes una pequena probabilidad de obtener una cubeta de agua o un bloque de slime para amortiguar la caida. Ten cuidado! Tambien se aplica un efecto de ceguera por unos segundos.

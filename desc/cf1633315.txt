@@ -1,0 +1,59 @@
+Advanced Night Vision
+
+Advanced Night Vision by Dr Addons lets you explore caves, mines, and dark areas with clear visibility at any time. Simply Sneak + Jump to instantly toggle Night Vision on or off without using commands, potions, or changing your game settings.
+
+Overview
+
+The addon is quick and easy to use. Whenever you need better visibility, perform the Sneak + Jump action to enable Night Vision. Repeat the same action to disable it whenever you want, making it perfect for both exploration and normal gameplay.
+
+Key Features
+
+- Toggle Night Vision using Sneak + Jump.
+
+- No commands or potions required.
+
+- Instant ON/OFF switching.
+
+- Perfect for caves, mines, and nighttime exploration.
+
+- Lightweight and simple to use.
+
+- Works naturally during normal gameplay.
+
+Perfect For
+
+- Mining underground.
+
+- Cave exploration.
+
+- Nether adventures.
+
+- Nighttime survival.
+
+- Building in dark areas.
+
+Why You'll Love It
+
+Forget carrying Night Vision potions or increasing your screen brightness. With a simple gesture, you can switch Night Vision whenever you need it and continue playing without interruptions.
+
+Compatibility
+
+- Achievement Friendly.
+
+- Survival Friendly.
+
+- Compatible with Minecraft Bedrock Edition.
+
+- Works in both new and existing worlds.
+
+Installation
+
+- Download the addon.
+
+- Open the .mcaddon file.
+
+- Import it into Minecraft.
+
+- Enable the Behavior Pack in your world.
+
+- Join your world and use Sneak + Jump to toggle Night Vision.

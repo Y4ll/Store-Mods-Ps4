@@ -1,0 +1,41 @@
+Cursed Peppa
+
+Cursed Peppa is a story-driven horror add-on for Minecraft Bedrock. Survive five terrifying nights, protect George and his family, complete missions, and prepare for a final confrontation with Cursed Peppa.
+
+As each night passes, new scripted events, warnings, sounds, and encounters unfold. You only have five liveslose them all, and you will become a spectator.
+
+Features
+
+- A five-night survival horror experience
+
+- Cursed Peppa with multiple phases and attacks
+
+- George, Daddy Pig, and Mummy Pig as custom entities
+
+- Story events and mission objectives
+
+- Custom models, textures, animations, voices, and sound effects
+
+- Dynamic nighttime encounters and weather changes
+
+- Georges craftable toy dinosaur
+
+- A five-life system and final battle
+
+- Behavior and resource packs included in one .mcaddon
+
+How to play
+
+Create a new survival world and activate both included packs. The story begins automatically, and the current objectives will appear on the screen.
+
+Georges toy dinosaur can be crafted at a crafting table using four pieces of white wool.
+
+For the intended experience, we recommend playing in Survival mode without combining this add-on with other projects that heavily modify hostile mobs, time, weather, or world events.
+
+Credits
+
+Created in collaboration by Giox23 and Lunwi.
+
+Disclaimer
+
+This is an unofficial, fan-made horror project. It is not affiliated with or endorsed by Minecraft, Mojang Studios, Microsoft, Peppa Pig, or the respective rights holders. All referenced characters and trademarks belong to their respective owners.

@@ -1,0 +1,97 @@
+Welcome to...
+
+Spectral Horizons
+
+What is Spectral Horizons
+
+Spectral Horizons is a Vibrant Visuals Pack for Minecraft Bedrock Edition that greatly transforms how your game can look with vibrant colors, unique PBR, and even colored fog. It can be used on its own or with other texture packs to even add to the experience.
+
+What makes Spectral Horizons Unique?
+
+There are a lot of things that make Spectral Horizons unique when compared to other Vibrant Visuals packs. While most packs aim to bring realism into the world of Minecraft, Spectral Horizons decides to do the opposite and brings bright, vibrant colors, colored fog, custom moon colors in select biomes, and a lot of extra glowing parts in blocks to make the world of Minecraft feel more like a cartoony world than a real one.
+
+How to activate Spectral Horizons
+
+Below are the steps to get Spectral Horizons working in your world.
+
+Note: You will need a compatible Vibrant Visuals device to use Spectral Horizons, and if your device cannot run Vibrant Visuals normally, it cannot run Spectral Horizons as well.
+
+- Download Spectral Horizons and import it into Minecraft
+
+- Go to Settings > Global Resources and activate Spectral Horizons
+
+- Turn on Vibrant Visuals in your video settings
+
+- Load into a world and enjoy the visuals!
+
+Spectral Horizons Subpacks
+
+Spectral Horizons comes built-in with 3 different subpacks, with each one offering how you can enjoy Spectral Horizons.
+
+- Subpack 1: 32x Normal Maps - This is the default for Spectral Horizons and offers the most detail and extra features compared to the other 2. This is recommended if you want the most out of Spectral Horizons
+
+- Subpack 2: Height Maps - This is the subpack of the pack that changes PBR over from Normal Maps over to Height Maps. This subpack comes with fewer features, but is recommended to use if you want an experience that fits Minecraft more closely
+
+- Subpack 3: Vanilla - This subpack completely removes all custom PBR from Spectral Horizons and is required if you want to use other Texture Packs alongside Spectral Horizons. This subpack offers the lowest amount of features but the most amount of compatibility.
+
+Social Links
+
+Discord Server
+
+MCPEDL Page
+
+Curseforge Page
+
+Spectral Horizons' License
+
+COPYRIGHT
+
+2026 Ty TGM
+
+All Rights Reserved.
+
+Important Notice
+
+- You may only use this resource pack for personal use. You are allowed to modify it for personal use only
+
+You Are Allowed To:
+
+- Use this resource in any video or livestream you do
+
+- Modify the resource pack for your personal use only
+
+- Keep backups of the resource pack for personal use and safekeeping
+
+You Are NOT Allowed To:
+
+- Distribute, sell, or re-upload this resource pack in any way, either original or modified
+
+- Claim ownership of this resource pack in any way
+
+- Create and distribute a modified version of this resource pack in any way unless you have my explicit permission to do so.
+
+Sharing and Crediting:
+
+- If you wish to share my pack, please provide a DIRECT link to the Curseforge page. You are not to use any ad-filled links or shorteners.
+
+- If you use this resource pack in any video or public project, you are to provide a direct link to the Curseforge page along with proper credit.
+
+- If I give explicit permission to release a modified version of my pack, this license MUST STAY within the files of the distributed pack.
+
+I Reserve the Right to:
+
+- Refuse and deny the ability for anyone to use, distribute, or modify Spectral Horizons for any person or group. (This action would be extremely rare and only during unusual circumstances)
+
+Original Download Links for Spectral Horizons:
+
+- MCPEDL: https://mcpedl.com/spectral-horizons/
+
+- Curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/spectral-horizons
+
+Contact:
+
+- Discord Server: https://discord.gg/esM28R982X
+
+- Discord User: Ty TGM
+
+I hope you all enjoy this pack and have a great day or night!

@@ -1,0 +1,107 @@
+Baku Backpack
+
+Carry more. Explore farther. Keep your adventure organized.
+
+Baku Backpack is a practical Minecraft Bedrock addon that adds a fully usable portable backpack with 27 storage slots. Store your important items, carry the backpack with you, wear it on your character, or place it in the world whenever you need access to your supplies.
+
+Features
+
+- 27 Storage Slots Store up to 27 different item stacks inside your backpack.
+
+- Portable Storage Fill the backpack with items and carry your stored supplies with you while exploring.
+
+- Wearable Backpack Equip the backpack and carry it directly on your character.
+
+- Placeable Backpack Place your backpack in the world and use it like a portable storage container.
+
+- Pick It Up Again Pick up a placed backpack and continue your journey with its stored items.
+
+- Persistent Contents Items remain connected to the backpack when it is moved and placed again.
+
+- Custom Backpack Design Includes a custom brown leather-style backpack with straps, detailed shading and a golden buckle.
+
+- Survival Friendly Designed to feel useful without completely changing the vanilla survival experience.
+
+- Minecraft Bedrock / MCPE Support Designed for modern Minecraft Bedrock gameplay.
+
+Crafting Recipe
+
+The Baku Backpack can be crafted using:
+
+- 8x Leather
+
+- 1x Chest
+
+Leather | Leather | Leather
+Leather | Chest | Leather
+Leather | Leather | Leather
+
+Craft the recipe in a Crafting Table to receive your backpack.
+
+How To Use
+
+- Craft the Baku Backpack.
+
+- Use the backpack as portable storage for your items.
+
+- Equip it when you want to wear it.
+
+- Place it in the world when you want to access it as a container.
+
+- Open the placed backpack and organize your 27 storage slots.
+
+- Pick it up again and continue exploring with your supplies.
+
+Perfect For
+
+- Mining expeditions
+
+- Long-distance exploration
+
+- Survival adventures
+
+- Large building projects
+
+- Nether exploration
+
+- End adventures
+
+- Extra portable storage
+
+Installation
+
+- Download the .mcaddon file.
+
+- Open the file using Minecraft.
+
+- Allow Minecraft to import the addon.
+
+- Enable both the Behavior Pack and Resource Pack in your world.
+
+- Enter the world and craft your backpack.
+
+Why Use Baku Backpack?
+
+Inventory space becomes extremely valuable during long Minecraft adventures. Instead of constantly leaving useful resources behind, the Baku Backpack gives you an additional portable storage solution that can travel with you.
+
+Wear it while adventuring, place it when organizing your items, pick it back up, and continue exploring.
+
+Important
+
+When updating from an older version, it is recommended to remove or disable the previous version before activating the latest version of the addon.
+
+Credits
+
+Addon Creator: Baku
+Concept: Baku
+Development: Baku
+Textures & Design: Baku
+Testing & Development Direction: Baku
+
+All credits belong to Baku.
+
+Support The Project
+
+If you enjoy Baku Backpack, consider sharing the addon with other Minecraft Bedrock players and supporting future projects by Baku.
+
+More storage. More exploration. One backpack.

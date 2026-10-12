@@ -1,0 +1,25 @@
+Vanilla Shields Addon
+
+Vanilla Shields expands Minecraft's defensive options by adding multiple craftable shields from different materials. Designed for survival balance, these shields provide unique stats and abilities while maintaining the core vanilla feel.
+
+1. Features Overview
+
+A modern take on defensive equipment for Minecraft Bedrock.
+
+2. Shield Stats & Materials
+
+Detailed properties for each new shield type, color-coded by material.
+
+3. Recipes & Technical Notes
+
+How to craft and use your new equipment.
+
+4. Visual Previews
+
+See the shields in action.
+
+Shields Preview
+
+Inventory View
+
+Compatibility: Version 1.1 is fully achievement-friendly and optimized for modern Bedrock script APIs. Available exclusively on ModBay, CurseForge, and MCPEDL.

@@ -1,0 +1,9 @@
+<figure class="image align-center"></figure>
+
+<mark class="marker-yellow">The addon consists of 5 separate pieces, the samurai boot, samurai pants, samurai breastplate, oni mask and samurai katana</mark>
+
+<mark class="marker-yellow">When the katana is not being used it is stored on the waist</mark>
+
+<mark class="marker-yellow">When enchanting the katana, it will catch fire</mark>
+
+<mark class="marker-yellow">the recipe for armor and katana is made from gold and iron</mark>

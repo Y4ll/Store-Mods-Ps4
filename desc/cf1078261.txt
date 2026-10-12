@@ -1,0 +1,27 @@
+This pack allows you to play any song from Minecraft in any situation using a music player tab in the emote menu. If you enjoy certain Minecraft songs and want to be able to hear them whenever you want, this pack is for you!
+
+Check out Music Plus for an in-depth music resource pack which includes this same music player.
+
+Creator: AgentMindStorm, Bluesky Account, YouTube Channel
+
+Special thanks to Snowstorm for creating the sidebar JSON UI and QuazChick for finding a stop button technique.
+
+Translations by Netongas NG (Mexican Spanish), moi (France French), Alex PNG (German), and (Mainland Chinese).
+
+Music Player
+
+Music Player UI Lite adds an in-game music player to the emote screen. This menu allows you to play any song in Minecraft with the press of a button. It works in Survival and Creative Mode on any world, even without cheats enabled.
+
+The music player works best after muting the default game music by setting the Music slider to 0. Using the music player while the default game music is turned up could cause multiple songs to play at once.
+
+Selecting multiple songs from the music player will cause them to play at the same time. If you select an album, the game will play one random song from that album. You can stop any song by selecting the stop button next to the individual song entry.
+
+Music player volume is controlled by the Musical blocks audio slider.
+
+Custom Music
+
+Music Player UI Lite also has support for custom music added by the player with the Custom Music Container pack. Custom songs can be played from the music player. Follow the tutorial below to learn how to add custom music to Music Player UI Lite.
+
+Make sure to apply Custom Music Container above Music Player UI Lite.
+
+If you're downloading an update to Music Player UI Lite, do not redownload Custom Music Container. Custom Music Container will never need an update, which keeps your custom songs safe.

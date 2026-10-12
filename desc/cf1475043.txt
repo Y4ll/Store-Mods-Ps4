@@ -1,0 +1,47 @@
+Unlock the power of Creative Mode without compromising your achievements or enabling cheats!
+
+v2.0 Latest Update:
+
+1) For players who haven't received the Creative GameMode Switcher item, it can be crafted using the following recipe in a Crafting Table.
+
+2) Additionally, the Creative GameMode Switcher will be automatically granted to players 30 seconds after they join the gamemaking it more friendly for low-performance devices.
+
+Tired of choosing between building freely and earning achievements? Creative Mode Switcher provides a unique item that allows you to toggle into Creative Mode instantly while keeping the "Cheats Enabled" flag OFF. This means you can fly, access infinite resources, and build to your heart's content, all while your survival world remains eligible for advancements and achievements.
+
+Perfect for builders who want to test creations in survival worlds, content creators needing quick setup, or anyone who wants the best of both worlds without the guilt of "cheating."
+
+How to Play
+
+- Auto-Delivery: Upon joining your world, you will automatically receive the Game Mode Switcher item in your inventory.
+
+- Activate: Simply right-click while holding the item to open the intuitive Game Mode Switching GUI.
+
+- Select Mode: Click on Creative Mode within the interface.
+
+- Enjoy: You are now in Creative Mode! Fly around, spawn any block, and build freely.
+
+- Achievements: Still enabled!
+
+- Cheats: Still disabled (technically)!
+
+- Fun: Unlimited!
+
+To return to Survival, simply use the item again and select Survival Mode.
+
+Key Features
+
+- Achievement Safe: Enter Creative Mode without triggering the "Cheats Enabled" warning. Your advancements remain unlockable.
+
+- Instant Access: No complex commands or config editing. Just right-click and go.
+
+- User-Friendly GUI: A clean and simple interface to switch modes effortlessly.
+
+- Automatic Start: The switcher item is given to you automatically upon joining, so you never have to craft it.
+
+- Lightweight: Minimal code impact, ensuring smooth performance on any setup.
+
+Technical Details
+
+- No Server Admin Required: Works in singleplayer and multiplayer (if installed on the server/client as needed).
+
+- Vanilla Friendly: Designed to feel like a natural part of the game.

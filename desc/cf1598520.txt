@@ -1,0 +1,55 @@
+Chain o' Mining
+
+Releases | Behavior Packs | LICENSE & COPYRIGHT
+
+Due to CurseForge's 2-week update cycle, the addon files here may be outdated. Please check GitHub for the latest version.
+
+Stay tuned, The next update is almost here! Our team is excited to release v1.2.0 on 19/09/26 (dd/mm/yy) at GMT+7.
+
+A Minecraft Bedrock Chain Mining add-on lets players save time by breaking a single block to instantly mine an entire ore vein, tree, crop field, or cluster of leaves.
+
+Overview
+
+- Ore veins, chain-breaks connected ore, respecting pickaxe tier requirements, Fortune, Silk Touch, and XP drops just like vanilla
+
+- Tree felling, chop one log with an axe and the whole trunk (and optionally the attached leaves) comes down together
+
+- Crop harvesting, harvest a full field of mature crops at once, with optional auto-replanting (free or seed-consuming) and fortune-aware yields
+
+- Leaf clearing, clear connected leaf blocks with shears or a hoe, keeping vanilla sapling/stick/apple drop chances
+
+- Vanilla friendly (by design), tool tiers, Silk Touch, Fortune, Unbreaking, and hunger exhaustion all behave the way you'd expect, (Creative mode never touches your inventory or durability)
+
+- Configurable, tune chain limits, search radius, durability cost, hunger cost, replanting mode, and more from the pack settings screen, no config file editing required
+
+Take a Look
+
+If you enjoyed this project, be sure to check out our other project:
+
+- QoF (Quality of Feature) is perfect as vanilla-friendly features
+
+License
+
+This project's software components, including source code, scripts, behavior definitions, configuration files, and compiled addon files (.mcaddon / .mcpack), are licensed under the CoM Noncommercial License 1.0.
+
+The software may be used, modified, and redistributed for free noncommercial purposes with proper attribution. Commercial use, monetized distribution, or inclusion in paid products requires separate written permission from the maintainers.
+
+Branding, trademarks, media, documentation, screenshots, promotional materials, and other non-code assets are not covered by the software license and remain subject to separate restrictions. See COPYRIGHT.md for full details.
+
+Disclosure
+
+All gameplay footage, images, and GIFs were recorded using Vibrant Visual and Action And Stuff.
+
+LLMs were used to assist with wording and grammar in this documentation.
+English is not our native language. Thank you for your understanding!
+
+Credits
+
+- @aitji scripting & design
+
+- @pickerth-12 design, json & molang
+
+CoMTM / Chain of MiningTM Copyright 2026 @aitji & @pickerth-12
+
+Software licensed under the CoM Noncommercial License 1.0.
+Branding, media, and other protected materials are reserved under COPYRIGHT.md.

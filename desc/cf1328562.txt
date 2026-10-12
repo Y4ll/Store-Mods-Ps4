@@ -1,0 +1,37 @@
+This pack makes Most items look and move better in first person.
+
+First theres minimal view bobbing version. Simply enable this from turning OFF view bobbing.
+
+To get java view bobbing off version (sways with camera, but doesnt move when walking). Simply turn ON view bobbing and the effect will happen.
+
+It also fixes items like wind charge to have the correct hitting animation
+
+It also has the Java mace and fixed MAP hand animations
+
+There are other subpacks aswell
+
+- Default
+
+- RTX Hand - Making your hand feel farther from your camera in first person, as if your using RTX.
+
+- Vanilla hit, Want to change it up? Make the hitting animation to vanilla bedrock, instead of regular hitting
+
+- Oderso Hit, Makes the hitting only do rotation, so it doesnt actually move, making it a bit cleaner.
+
+- Position Hit, Want to change it up? Make the hitting only do position and never rotate.
+
+- Hit V2 Make the hitting swing more downwards and rotate a bit more firm.
+
+- 2D Item - Makes items like glass, mobheads, & spyglass 2d instead of 3d in first and 3rd person!
+
+- Food Eating - Makes some foods modified to be an attachable, not the best remake for eating
+
+- Hive hitting fix - adds player.entity so 1st person hitting with items I modified shows correctly on hive.
+
+- Vanilla attachables - Normal bow, crossbow, trident, spyglass and shield
+
+- There is alot of subpacks to choose from, chose wisely.
+
+This only effects the hitting and first person.
+
+NOTE: Capes or small/tall skins may break items, its a mojang problem. Nothing u can fix, and i created the first person hitting for all subpacks except hitting v2, subpacks like default, rtx, and 2d items try and replicate the hardcoded hitting, still may not be perfect but, its nothing you can really bicker about.

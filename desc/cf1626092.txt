@@ -1,0 +1,11 @@
+This pack adds Realistic FHD Shadows to Vibrant Visuals, vibrant visuals have pixelated shadows but after activating this pack fixes that issue for a lot of players who like soft and realistic shadows.
+
+Installation:
+
+Download the .mcpack file
+
+Click on the file OR click on share then it should show Minecraft
+
+Then it will automatically install it to your game.
+
+Activate the pack in your world OR global resource packs

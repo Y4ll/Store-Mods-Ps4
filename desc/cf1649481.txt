@@ -1,0 +1,121 @@
+Ember Visuals is my fire pack. Deep reds and oranges on everything, cherry groves that burn instead of blush, and crimson skies at night.
+
+What this changes
+
+Color grading
+
+Deep red and orange sit across every biome. Nothing is allowed to go cool, which is what keeps the world feeling lit from a fire rather than from the sun.
+
+Cherry groves
+
+Blossoms turn fiery instead of pink, with glowing petal particles drifting through the trees. This is the most striking part of the pack and the biggest departure from what that biome normally looks like.
+
+Sunsets
+
+Blazing skies with hard golden light coming in low. Dusk is the loudest moment in the day cycle here.
+
+Villages
+
+Ember tones hold on the buildings through the whole cycle, not just in the evening. Villages look lit from within even at midday.
+
+Night sky
+
+Rich crimson nights with the stars still visible through them, so it never goes flat black.
+
+Nether portals
+
+Portals throw real light onto the blocks around them with heavy shadow contrast behind. In this pack they finally match the rest of the world instead of standing out from it.
+
+Reflections
+
+Glass and blocks pick up reflections in the same fiery tones, so surfaces carry the pack's color instead of staying neutral.
+
+Requirements
+
+THIS PACK IS FOR VIBRANT VISUALS ONLY
+IT DOES NOT WORK WITH MB LOADER
+
+Vibrant Visuals must be ON. This pack is built for Bedrock's Vibrant Visuals renderer. The pack will not do anything if it is off.
+
+Where to turn it on: Settings > Video > Graphics > Vibrant Visuals
+
+If that toggle is not there, your device or version does not support Vibrant Visuals yet.
+
+Showcase
+
+- Village Night Path
+
+- Village Red Aurora
+
+- Cherry Grove Sunset
+
+- Cabin Sunset
+
+- Cherry Blossom Grove
+
+- Cherry Grove Golden Hour
+
+- Cherry Trees With Lantern
+
+- Glass Cube in Cherry Meadow
+
+- Nether Portal Closeup
+
+- Nether Portal at Night
+
+- Plains Sunrise
+
+- Sunrise Through Meadow
+
+- Village Crimson Sky
+
+About my other packs
+
+I have several other shader packs on my page, and they are not recolors of this one. Each is built with its own style. The atmospherics, lighting, color grading, water and PBR are set up separately in every pack, so no two of them behave the same way in game.
+
+If you want to explore the rest, everything I have made is here:
+
+- My CurseForge profile
+
+- My MCPEDL profile
+
+Installation
+
+- Download the .mcpack file
+
+- Open it. Minecraft imports it on its own.
+
+- In your world go to Settings > Global Resources and activate Ember Visuals
+
+- Turn on Settings > Video > Vibrant Visuals
+
+- If the lighting still looks the same, leave the world and load it again once
+
+Permissions
+
+YOU ARE ALLOWED TO
+
+- Make a review or showcase video. YouTube, TikTok, Instagram, any platform. All I ask is that you link this CurseForge page in the description.
+
+- Use the pack in your own gameplay videos and streams. No permission needed, go ahead.
+
+- Modify the pack for your own personal use. Tweak whatever you want on your own device. The modified version has to stay with you though. It cannot be uploaded or shared publicly anywhere.
+
+- Share this page with friends or in servers.
+
+YOU ARE NOT ALLOWED TO
+
+- Upload a modified version. Editing my pack and releasing it under your own name, or claiming it as your own work, is not allowed.
+
+- Use assets from this pack in your own pack. If you want to use something from it, contact me on Discord first and ask.
+
+- Put the download behind your own link. If you make a review video, link my official project page and nothing else. No monetized links, no link shorteners, no ad links, and no direct download that you host yourself.
+
+- Reupload the pack anywhere else.
+
+FAQ
+
+The pack is not working. Nothing changed after I installed it.
+I get this comment a lot, and almost every single time the reason is the same. Vibrant Visuals is turned off.
+
+This pack only works when Vibrant Visuals is ON. That is written clearly at the top of this page. With it off, the pack loads fine but nothing on your screen 

@@ -1,0 +1,39 @@
+Check out our latest Eternity Shader Deferred for Vibrant Visuals:-
+
+Screenshots:-
+
+Updated (Water Fixed and Lightning improved):-
+
+Features:-
+
+- New cubemap [Subpack]
+
+- Different tonemap
+
+- Different shadows tones and midtones
+
+- Improved color of water
+
+- Default PBR Textures
+
+- New Atmosphere Colour
+
+- Night color new
+
+- New Sun Path
+
+- Fixed biome colors
+
+- And more
+
+Installation:-
+
+- Your device should support vibrant visuals!!!
+
+- Download the pack
+
+- Import in ur game then activate the pack
+
+- Then in game settings go to video option and change graphics option to Vibrant Visual.
+
+- You are done now! Enter the world and enjoy!

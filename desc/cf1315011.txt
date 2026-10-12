@@ -1,0 +1,43 @@
+How to get started?
+
+Make sure to activate both BP and RP to play the addon.
+
+How to get my stand?
+
+There are 2 ways to get your stand. The first way is to get stand discs.
+Right click/long press the Disc to summon your Stand.
+And the skill of the stand will show up in inventory. To use them, right click/long press.
+The 2nd way is to use the stand arrow. You can find them in suspicous sand, or trade them with Rohan. He spawns everywhere.
+Right click/long press to use the arrow. If you are using the normal one, you will possibly get your stand, or get withering.
+And if you don't want the stand anymore, you can use the item 'Stand Disc Remove' to recycle it.
+Right click/long press to use it. After using it your stand will be collected into a Stand Disc.
+
+All stands
+
+It's impossible to introduce all the stands in one post. So I will only introduce new updates to you. You can check other old stands' info in the original MCPEDL post.
+
+20th Century Boy
+
+Now its invincibility has a duration. Being hit during the duration will extend the duration. Using skills will cause damage to nearby opponents. Users can also use new weapons such as shotguns and explosives to match this stand. All in all, it is more playable.
+
+Gold Experience
+
+We optimized its fourth skill. Sneak and use it to determine the type of life you create.
+
+Ratt
+
+A brand new stand! It has two modes. You can run and shoot at the same time, or turn into a turret for higher precision shootingbut you can't move! Two modes mean that users need to make a choice.
+
+Cinderella
+
+We remade it.
+
+You can choose to use the second skill to help others, change their faces, and give them random buffs. You can also be a bad guy and use the third skill to destroy their faces and get appearance tiles.
+
+When you get 12 appearance tiles, you can use the fourth skill to create a realm. If someone leaves the realm - they can't save their face.
+
+The Fool
+
+A new, easy-to-use stand.Sneak and use the third skill to hide in the castle. Kinda classic isn't it?
+
+Please give me 5 stars if you love this addon! Made By Clown_IMP Team! Recommend version: 1.21 or higher. SHARING DIRECT LINK IS NOT ALLOWED

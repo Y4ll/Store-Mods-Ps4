@@ -1,0 +1,49 @@
+THE DRAGON SWORD
+
+A weapon addon for Minecraft Bedrock Edition, forged from the raw fury of the Ender Dragon.
+
+Overview
+
+The Dragon Sword channels the destructive power of the Ender Dragon into four devastating combat skills and two passive abilities, wrapped in dense, cinematic particle effects roaring shockwaves, blazing breath, raining meteors, and a custom transformation animation for the ultimate
+
+Skills
+
+Passive Dragonfire Touch
+
+Every strike ignites your target for 3 seconds.
+
+Passive Dragon's Vigor
+
+Defeating an enemy restores 2 hearts of health, accompanied by a burst of ender particles.
+
+Dragon's Roar Sneak 3s
+
+Crouch for 3 seconds to unleash an expanding shockwave around you. Deals 12 magic damage, knocks enemies back, and inflicts Slowness III + Weakness to everything within 8 blocks.
+
+Cooldown: 12s
+
+Dragon's Fury Hold 12s
+
+Keep the sword in hand for 12 seconds to trigger a self-empowering nova: Strength II, Speed III, and Resistance for 10 seconds, plus 6 magic damage to nearby foes.
+
+Dragon Breath Right Click
+
+Unleash a dense stream of flame and ender particles in the direction you're facing. Deals 9 magic damage and sets fire to everything caught in a 6-block, 50 cone.
+
+Cooldown: 6s
+
+Dragon's Wrath Hold 20s, then Jump (ULTIMATE)
+
+Hold the sword for 20 seconds to open a 7-second activation window, then jump to unleash it. Plays a custom Ender Dragon transformation animation, rains down 8 meteor impacts around you, and detonates for 20 magic damage, 8 seconds of fire, and heavy knockback within a 10-block radius. Empowers you with Strength III, Speed IV, Resistance II, and Regeneration for 10 seconds.
+
+Cooldown: 45s
+
+Credits
+
+Created by YTAUN
+
+Zalo: +84394798144
+
+Email: letu157751157@gmail.com
+
+Enjoying the addon? Leave a like, drop a comment, and follow for more weapon addons!

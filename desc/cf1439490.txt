@@ -1,0 +1,9 @@
+Random Drops
+
+This AddOn makes every block & item drop random!
+
+Includes all Blocks and Items up to Bedrock version 1.26.30
+
+You break a block = You get a random item or block!
+
+Take on this crazy challenge and start your next adventure!

@@ -1,0 +1,53 @@
+Preface:
+
+Warning: If you are using mobile device, make sure to set File Storage Location to External before importing this resource pack, otherwise, your save data may be lost in case the game future updates break modified UI data.
+
+And please, be sure to read carefully this post before downloading and using this resource pack, thank you!
+
+Animated RGB GUI:
+
+A UI pack to make an animated RGB XP bar and level number!
+
+It's designed only for gaming communities.
+
+Features:
+
+- Not only does it include the RGB Hotbar and XP Bar in the HUD, but it also includes all the inventory containers screens, with the selective appearance of Bedrock UI, PvP UI and Java UI (Powered by VDX UI 3.2.12).
+
+- The animation textures with total of 40 frames (Very smooth)!
+
+- Now it is compatible for all devices! ;D
+
+- Now includes every pocket inventory screens, yay!
+
+Screenshots:
+
+And that's not all:
+
+RGB Inv GUI is fully compatible with another of my projects called VDX UI. ;D
+
+Just make sure you put RGB GUI Resource Pack higher than VDX UI.
+
+Terms of Use:
+
+You may:
+
+- Make review about this pack, as long as you credit me as @CrisXolt. And put original download link in description (This forum post).
+
+You may not:
+
+- Make customized APK/APPX and monetized content (pirate modifications), no one will have the permission.
+
+- Use my modified JSON and UIDX data files claiming this work as your, without permission of course. Specially do not modify/erase the text in the first line code in each .json file. (Example text: //File Made/Modified by @CrisXolt or Some people who contributed).
+
+- Redistribute this resource pack made by me in another pages/app store, no one will have the permission.
+
+- Do not use for third-party projects, much less to merge with "Concept Clients" resource packs, no one will have the permission.
+
+If you have any more questions about this, please let me know by sending a message/question in chat, on discord server: CrisXolt's Refuge.
+
+Final Note:
+
+Those default JSON UI data and JE UI designs is made originally by Mojang and Microsoft, UI design re-make as JSON UI data are modified by me for entertainment purposes.
+
+Just enjoy and good luck! ;D

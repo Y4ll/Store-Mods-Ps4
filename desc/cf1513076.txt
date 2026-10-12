@@ -1,0 +1,225 @@
+Join the Discord
+
+Manhunt AI Bot v1.0.2
+
+A Real AI Hunter for Minecraft Bedrock
+
+Turn any Minecraft Bedrock world into a complete single-player Manhunt challenge.
+
+Manhunt AI Bot adds one or more intelligent hunters that can track you, gather resources, craft tools, upgrade equipment, build routes, survive dangerous terrain and fight using player-like tactics.
+
+This is not a normal mob with increased speed.
+
+The hunter has its own decision system and can change its goal depending on what is happening in the world. It may chase you directly, stop to gather blocks, craft a missing tool, mine iron, escape a trap, build upward or prepare better equipment before attacking again.
+
+Version v1.0.2 is a major rebuild of the original v0.7.0 addon.
+
+How to Start a Hunt
+
+- Install and activate both the Behavior Pack and Resource Pack.
+
+- Enter the world in Creative Mode.
+
+- Get the Hunter Compass:
+
+/give @s manhunt:hunter_compass
+
+- Use the compass to open the Manhunt configuration menu.
+
+- Select the hunter count, difficulty, mode, preparation style and other options.
+
+- Start the hunt and survive.
+
+The addon handles the countdown, hunter spawning, tracking, win conditions, deaths, respawns and end-of-hunt statistics.
+
+Intelligent Goal-Based AI
+
+The hunter now uses a central decision system instead of following only one chase script.
+
+Possible goals include:
+
+- Chase the runner
+
+- Attack the runner
+
+- Gather wood
+
+- Gather food
+
+- Gather building blocks
+
+- Mine stone
+
+- Mine ores
+
+- Craft tools
+
+- Smelt resources
+
+- Upgrade equipment
+
+- Build a route
+
+- Climb toward the runner
+
+- Escape water
+
+- Escape lava
+
+- Heal and eat
+
+- Follow a portal
+
+- Share resources with another hunter
+
+- Recover from being stuck
+
+The hunter commits to its selected task and can temporarily disable normal chase behaviour while gathering, crafting, mining or building.
+
+If an action fails repeatedly, the AI can abandon it and generate a different plan.
+
+Resource Gathering and Progression
+
+Hunters can begin with an empty inventory and progress through the world naturally.
+
+The normal progression includes:
+
+Logs Planks Crafting Table Sticks Wooden Tools Stone Tools Furnace Iron Equipment
+
+Hunters can gather:
+
+- Logs
+
+- Planks
+
+- Dirt
+
+- Stone
+
+- Cobblestone
+
+- Food
+
+- Coal
+
+- Raw iron
+
+- Gold
+
+- Flint
+
+- Obsidian
+
+- Building blocks
+
+- Other progression resources
+
+The AI understands tool requirements.
+
+Examples:
+
+- Uses an axe for logs
+
+- Uses a pickaxe for stone
+
+- Requires a stone pickaxe or better for iron
+
+- Requires suitable tools for valuable ores
+
+- Avoids mining blocks that cannot produce the expected resource
+
+- Avoids mining directly beneath itself without a safe plan
+
+- Rejects unreachable or completely buried targets
+
+- Avoids exposed lava, unstable sand and dangerous gravel
+
+Advanced mining can be enabled or disabled in the settings.
+
+Complete Crafting System
+
+Hunters can craft and manage their own progression.
+
+Supported equipment includes:
+
+- Wooden sword
+
+- Wooden axe
+
+- Wooden pickaxe
+
+- Stone sword
+
+- Stone axe
+
+- Stone pickaxe
+
+- Iron sword
+
+- Iron axe
+
+- Iron pickaxe
+
+- Crafting table
+
+- Furnace
+
+- Shield
+
+- Iron helmet
+
+- Iron chestplate
+
+- Iron leggings
+
+- Iron boots
+
+- Bucket
+
+- Water bucket
+
+- Flint and steel
+
+- Bow
+
+- Arrows
+
+- Boat
+
+- Torches
+
+- Cooked food
+
+- Golden apple when enough resources are available
+
+The crafting planner reserves important materials instead of spending everything immediately.
+
+For example, the hunter can preserve iron for a shield, bucket or pickaxe before using the remaining iron on armour.
+
+Building and Vertical Pursuit
+
+The hunter can build when normal pathfinding cannot reach the runner.
+
+Building options include:
+
+- Horizontal bridging
+
+- Diagonal staircase building
+
+- Spiral staircase planning
+
+- Controlled vertical pillaring
+
+- Reusing existing bridges
+
+- Reusing existing staircases
+
+- Breaking runner pillars
+
+- Emergency block clutching
+
+- Safe route recovery
+
+Vertical pursuit follows a priority system.
+
+Th

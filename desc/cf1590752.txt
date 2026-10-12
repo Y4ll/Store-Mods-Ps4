@@ -1,0 +1,79 @@
+Supported Blocks
+
+- Coal Ore
+
+- Deepslate Coal Ore
+
+- Copper Ore
+
+- Deepslate Copper Ore
+
+- Iron Ore
+
+- Deepslate Iron Ore
+
+- Redstone Ore
+
+- Deepslate Redstone Ore
+
+- Nether Gold Ore
+
+- Nether Quartz Ore
+
+- Quartz Ore
+
+- Gold Ore
+
+- Deepslate Gold Ore
+
+- Lapis Ore
+
+- Deepslate Lapis Ore
+
+- Diamond Ore
+
+- Deepslate Diamond Ore
+
+- Emerald Ore
+
+- Deepslate Emerald Ore
+
+- Ancient Debris
+
+- Amethyst Block
+
+- Budding Amethyst
+
+Features
+
+Achievement Friendly
+
+Fast and smooth vein mining
+
+Works with supported ore blocks only
+
+Survival balanced gameplay
+
+Lightweight Behaviour Pack
+
+No experimental features required
+
+AI Disclaimer:
+
+Some images in this project may be AI-generated or AI-enhanced and are used for showcase/presentation purposes.
+
+Warning
+
+Do NOT share a direct download link to this pack.
+
+Please share only the Forge or MCPEDL page.
+
+Do NOT edit, modify, decompile, or redistribute the code without permission.
+
+Re-uploading this pack without permission is not allowed.
+
+Download Policy
+
+Please support the project by downloading only from the official Forge or MCPEDL page. Avoid using unofficial mirrors or direct download links.
+
+Thank you for supporting the original creator!

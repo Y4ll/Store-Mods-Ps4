@@ -1,0 +1,9 @@
+(Image created by AI picture)
+
+What is included in the Simple Gun add-on?
+
+This add-on allows you to craft guns with very simple recipes.
+The maximum gun capacity is increased by 3. Normally, a gun can only hold 6 ammo, but in the Simple Gun add-on, you can get 9 ammo directly.
+
+To craft a gun, you only need iron ingots and gunpowder.
+To craft ammo, you only need iron nuggets.

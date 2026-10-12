@@ -1,0 +1,39 @@
+WDP-4D Train Mod (MCPE)
+
+WDP-4D is a train addon for Minecraft Pocket Edition that brings realistic rail-based gameplay to your world. Travel faster, transport in style, and give your builds a whole new level of immersion with fully functional trains.
+
+Whether you're creating a modern city, a metro system, or long-distance railways, WDP4D lets you build and ride like never before.
+
+Requirements
+
+- Requires MTC Addon to function
+
+- Make sure it is installed and activated before using WDP-4D
+
+Features
+
+- Functional trains you can use in your world
+
+- Smooth movement designed for MCPE
+
+- Great for city builds, rail networks, and roleplay
+
+- Adds a realistic transport system to your gameplay
+
+Installation (MCPE)
+
+- Install the MTC Addon
+
+- Import the WDP4D addon file (.mcaddon / .mcpack)
+
+- Enable both packs in your world settings
+
+- Start your world and enjoy your trains!
+
+Important
+
+- This addon will NOT work without MTC Addon
+
+- Make sure both Behavior Pack and Resource Pack are enabled
+
+- Compatible with latest versions of Minecraft PE

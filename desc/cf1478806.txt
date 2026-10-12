@@ -1,0 +1,21 @@
+White Outline & Full Grass - Visual Enhancement Pack
+
+Improve your world's aesthetics with the White Outline & Full Grass pack. This resource pack focuses on cleaning up block textures and adding a modern, sharp look to your Minecraft environment, making it perfect for both builders and PvP players.
+
+Key Features:
+
+Full Grass Blocks: All grass blocks now have grass textures on all sides, removing the dirt look for a cleaner, more lush green landscape.
+
+White Outline Selection: The selection box for blocks has been modified with a custom shader, giving you a sharp white outline for better visibility.
+
+Clean Nature Textures: Includes updated textures for Mycelium, Podzol, Nylium, and Grass Paths to ensure a consistent "Full Block" look.
+
+Performance Optimized: Designed to be lightweight, ensuring zero FPS drop while significantly improving your game's visuals.
+
+Installation:
+
+Import the White Outline Full Grass.mcpack into Minecraft.
+
+Go to Settings > Global Resources.
+
+Activate the pack and enjoy your upgraded world!

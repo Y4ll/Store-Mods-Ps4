@@ -1,0 +1,31 @@
+Project Description:
+
+Never lose your path in the wild. Claim your territory, spark a Waystone to life, and conquer the map in the blink of an eye. The untamed wilderness is vast, unforgiving, and quick to swallow the careless traveler. When you stumble upon a hidden valley, a sprawling fortress, or a secret mining outpost you know you'll need to visit again, don't leave your return to chance
+
+Important Information:
+
+- No Experiments will need to be activated to play.
+
+- No Player files are used in this project.
+
+- Vibrant Visuals will need to be activated for some features.
+
+- Actual real-time waystone teleporting.
+
+- Dynamic glowing feature.
+
+- Interdimensional travel.
+
+- Cheap crafting recipe.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+- This Project is 100% achievement compatible.
+
+Using these items you can craft your own Waystone.
+
+Place your Waystone wherever you want, it will glow white and yellow until you activate it and give it a name, then it will glow white and green,
+
+When two or more Waystones are active you can travel between them.

@@ -1,0 +1,38 @@
+Achievement friendly
+
+Minecraft Bedrock Edition version 1.26.40
+
+Action & Stuff compatibility
+
+The Glider is an adventure-focused mobility tool designed for RPG-style exploration. It lets you safely glide down from cliffs, towers, mountains, and other high places, turning vertical travel into a controlled, cinematic descent instead of a risky fall.
+
+1.0.3 - Achievement friendly!
+
+Core gameplay
+- Use the glider to plan routes from high ground, cross gaps, and descend into valleys while keeping the feeling of an RPG journey.
+- It is ideal for exploration, scouting, and reaching hard-to-access terrain without relying on teleport style movement.
+
+Activation and controls
+- The glider can be OPENED or CLOSED at any moment using:
+- Jump
+- Use (Right Click)
+This makes it responsive in mid-air: you can quickly deploy it when falling, or close it to drop faster when needed.
+
+The player can be knocked down by projectiles.
+
+Durability and risk
+- The glider has 128 durability.
+- Because durability is limited, you must pay attention: if the glider breaks at the wrong moment, you can suddenly lose control and fall from a dangerous height.
+- Treat it like real expedition gear powerful, but not something you can ignore.
+
+Crafting
+Crafted on a crafting table using:
+- 2 sticks
+- 5 leather
+- 2 iron ingots
+
+Translations
+The mod is translated into:
+English (US), English (UK), Deutsch, , Francais (FR), Francais (CA), Italiano, Portugues (BR), Portugues (PT),
+Espanol (MX), Espanol (ES), (), (), , , Nederlands,
+, Cestina, Dansk, , Suomi, Magyar, Indonesia, Norsk Bokmal, Polski, Slovencina, Svenska, Turkce, .

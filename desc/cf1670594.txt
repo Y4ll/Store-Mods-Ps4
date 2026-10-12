@@ -1,0 +1,63 @@
+Website: Gameflowplayz
+
+Support: Buy me a Diamond
+
+Discord: Join Server
+
+G-Flow PvP
+
+A competitive-focused reasorce pack for Minecraft Bedrock PvP
+
+G-Flow PvP is a carefully tuned reasorce pack designed specifically for competitive Minecraft Bedrock PvP. It reduces visual clutter, enhances combat clarity, and streamlines on-screen elements so you can focus on what matters winning fights.
+
+This pack reworks shields, fire, weapons, particles, ores, glass, water, and UI elements to give you a cleaner, more responsive PvP experience without changing the core gameplay.
+
+Features
+
+Shield repositioned down shrinks further when blocking
+
+Fire and soul fire squeezed smaller still readable, just less intrusive
+
+Carved pumpkin screen blur completely removed
+
+Swords shortened across all materials cleaner weapon profiles
+
+Axes shortened across all materials cleaner weapon profiles
+
+Bow & crossbow pull stages recolored: green > yellow > red
+
+Crit & sharpness particles smaller tinted random red/green/blue per hit
+
+Ores with thin natural-color outlines
+
+Clear glass with visible frame colored glass variants flattened
+
+Water: vanilla texture with increased transparency
+
+Inventory, slots, hotbar: dark teal translucent fill with grey/white border
+
+Recipe book backgrounds translucent
+
+Loading screens: dark, translucent, vanilla beveled shape kept
+
+Compatibility
+
+Minecraft Bedrock Edition
+
+Designed for competitive PvP gameplay
+
+Lightweight and mobile-friendly
+
+Mining?
+
+Check out G-Flow Xray hide stone, highlight ores. Mine faster, achievements safe.
+
+MATCH YOUR INTERFACE
+
+Pair with G-Flow Dark UI for a complete dark-themed interface across all menus and HUD elements.
+
+Created by GameFlowPlayz
+
+Download now and gain the competitive edge.
+
+Feedback, suggestions and bug reports are always welcome as G-Flow PvP continues to evolve.

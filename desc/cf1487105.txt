@@ -1,0 +1,15 @@
+I created an add-on for the characters from the movie VITA CARNIS for the game Minecraft. This add-on gives you the 6 most important characters from the movie. Each of them has their own damage, health amount and unique sounds. Every mob drops rotten flesh or bones after killing.
+
+MOBS LIST:
+
+1) HARVESTER: Has 50 health, appears in the Minecraft world and will spawn meat snakes every 2-4 minutes
+
+2) MEAT SNAKE: Has 50 health and 1 attack. When dealing damage, it applies a slow effect for 5 seconds
+
+3) CRAWL: Has 10 health, will spawn in the Minecraft world, every 2-4 minutes will spawn TRIMMINGS mobs
+
+4) TRIMMING: Has 25 health and 3 attack, when dealing damage, it applies a slow effect for 5 seconds
+
+5) MIMIC: Independent mob, has 100 health and 5 attack, also when dealing damage, it applies a slow effect for 5 seconds and will spawn in the Minecraft world
+
+6) MONOLITHS: A large, strong, slow mob that has 500 health and 10 attack points. Also when dealing damage, it applies a slow effect for 5 seconds and will spawn in the Minecraft world.

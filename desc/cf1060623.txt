@@ -1,0 +1,104 @@
+Originally released on MCPEDL on 7th January 2019
+
+TURN ON BETA APIS.
+
+Description
+
+Adds unique useful pets to your game. Intended to contribute to survival gameplay as much as possible with features like leveling, advancements, and even 2 bossfights
+
+Join the add-on's Discord server to get updates earlier and even join the official survival server!
+
+Java port!
+
+There is a Java port of this addon called Practical Pets for 1.20.1 Forge. It's still not finished but it has a decent amount of things ported.
+Link: https://www.curseforge.com/minecraft/mc-mods/practical-pets
+
+In-game wiki of the add-on (recommended)
+
+Feel free to skip to downloads, you don't really need to read anything in this page. The first time you join you'll get an info book where you can learn everything. The info book is also way better written than this page.
+
+Pet Teleportation
+
+You can use the command /preparetp or /billey:preparetp to make your following pets come with you when you teleport the next time you teleport within a minute of executing the command.
+
+You can also force following pets to teleport to you by double-sneaking.
+
+Pet Equipment
+
+This add-on adds several things you can put on your pets, including chef hats(allow rats, netherrats and penguins to cook, but can also be put on any pet for aesthetic purposes), the rat king's crown (see Rat King for its function), and the rubber ducky hat (see Duck for its function).
+
+This add-on also adds pet bowties. Pets will get a bowtie for free on tame. To take it off, craft a bowtie and attempt to put it on the pet that's already wearing one.
+
+Suggestions for more pet equipment are more than welcome. Current plans include a pop tart for cats, fire car things for yutyrannuses and duckatrices, and a maid outfit for rats.
+
+Leveling
+
+Some mobs can now be leveled up. Leveling is basically the mob becoming better at its uses the more it's used. Leveling also increases the health and attack damage, speed and reach of the mob. All levelable mobs spawn in level 1 and can get up to level 10. Read each levelable mob's info for more.
+
+You can view a mob's leveling progress by using leather on it.
+
+Current levelable mobs:
+
+- Ducks
+
+- Banana ducks
+
+- Deinonychuses
+
+- Yutyrannuses
+
+- Slime wyverns
+
+- Tiktaaliks
+
+- Duckatrices
+
+- Giraffe cats
+
+More mobs will become levelable soon.
+
+Pet List - New!
+
+You can now see all* of your individual pets in the Your Pets section in the info book.
+
+There you can select a pet to view its health, level, location and more. You can also teleport it to you, and, if you are an operator teleport yourself to it.
+
+You can also do this by punching a pet of yours while sneaking. Useful for checking pets' XP while leveling them.
+
+*: Pets obtained before update 5.2 must have been loaded at least once since installing it or a greater version for them to be listed in it.
+
+Anglerfish
+
+- Use the info book to get this information in-game
+
+- Health: 7 hearts
+
+- Damage: 5 hearts + poison for 30 seconds
+
+- Attacks: cod, salmon, tropical fish pizzafish and monsters, neutral to players
+
+- Spawns in oceans, most commonly in deep ones
+
+- If you feed an anglerfish glowstone, it'll start spawning random fish of the biome it's in for some time.
+
+- Glowstone dust lasts for 14 seconds and glowstone blocks last for 50 seconds.
+
+- The more water around an anglerfish the more fish it'll spawn
+
+- Drops: cod, salmon, bones or a new item called Anglerfish Light that makes fish when you are in survival mode attack you dealing little to no damage instead of being afraid of you, the anglerfish light can also be put on the offhand
+
+- Has 7 variants(one of them is not shown in the picture) and 1 rare golden variant that drops diamonds, iron, sea grass and tridents at the same time
+
+- "Sugar"
+
+Swordfish
+
+- Use the info book to get this information in-game
+
+- Health: 10 hearts
+
+- Damage: 6 hearts + poison for 15 seconds
+
+- Attacks: anglerfishes, pizzafishes, cods and monsters, neutral to players
+
+- Drops: 0-4 swordfish fillet

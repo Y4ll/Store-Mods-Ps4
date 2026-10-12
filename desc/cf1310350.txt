@@ -1,0 +1,63 @@
+This incredible addon adds missions, new mobs, bosses, dungeons, npc's and a whole RPG system to your Minecraft. Come adventure and defeat the Shadow WIZARD! He brought all the chaos to the world of Minecraft! You are the only one who can save humanity!
+
+ATTENTION!!
+
+TO WORK ON THE NEW VERSION OF MINECRAFT, ENABLE BETA API IN EXPERIMENTS!
+
+Download
+
+- Creator Website: Click Here!
+
+- Creator Channel (Brazilian): Click Here!
+
+- Creator Twitter: Click Here!
+
+- Wiki Addon: Click Here!
+
+- Discord Support: Click Here!
+
+See everything about the Addon in this video:
+
+You can use your scroll to access your Adventure Menu. In it you can check how many GENS you have won, what are the active Missions, your Level, the Bestiary.
+
+Missions
+
+Completing missions increases your rookie level to Legendary level.
+
+There are monsters that have possession of the GEMS! They dwell in DUNGEONS, which have puzzles to solve! When defeated, you collect them to later put them together and form a TRANSMUTATION CRYSTAL to face the SHADOW WIZARD!
+
+Bosses
+
+In the dungeons there are mysteries to be solved. You'll rack your brains to solve these secrets.
+
+Bestiary
+
+There are mobs that can help you in battles, heal you, play tricks on you! Explore the world and don't forget to open chests to collect the Lost Bestiary Pages!
+
+NPCs Quest
+
+Talk to NPC's. Many will give you quests and give you precious rewards and can give you important tips for your journey!
+
+Monster levels
+
+There are dangerous monsters that are stronger than usual. They have more powerful strength levels and abilities. Watch out for them! Be well prepared for battle!
+
+You can also evolve your character according to the acquired XP, depending on the class you chose. See the STATUS Menu. Anyway, have a great journey!
+
+Check out a brief gameplay of the addon:
+
+- Installation
+
+To change the language, simply change it in your Minecraft options.
+
+May contain many errors in es-ES and en-US translations due to Translator. Be aware of this! Many textures used came from the site "minecraft.novaskin.me" . The total project adds up to 3 years in all!
+
+- Recommended to have a powerful mobile device (+4GB RAM) !
+
+- Access Discord to report bugs. All will be fixed in a later release !
+
+- Activate Beta s API to work!
+
+WITH EACH MINECRAFT UPDATE, THIS ADDON MAY STOP WORKING DUE TO SCRIPTS. UPDATE IT ON THE CREATOR'S WEBSITE.
+
+"Hope you have fun!"

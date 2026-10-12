@@ -1,0 +1,9 @@
+> Lost Wild is a relatively small addon that started as a personal project made for my own enjoyment, but over time I decided to share it with the community. It features prehistoric and modern creatures, decorative plants, and the integration of Atlas Trees by Happy1Speed, which helps create larger and more immersive forests.
+
+The addon currently includes around 400 different species, some of which have multiple skin variants. You will also be able to tame certain dinosaurs and animals to accompany you on your adventures.
+
+I prefer not to reveal too much information, as I want players to discover the content for themselves. Lost Wild is still under active development and receives regular updates. You'll find new foods, tools, creatures, and challenges throughout the world.
+
+Survival won't always be easy, so stay alertdanger may be waiting behind every bush.
+
+I hope you enjoy the addon, and please forgive any mistakes you may encounter. I'm not a professional coder, but I continue learning and improving the project with every update.

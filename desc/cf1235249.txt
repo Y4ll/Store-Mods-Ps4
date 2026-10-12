@@ -1,0 +1,36 @@
+- Ultimate Veinminer is a helpful addon for Minecraft Bedrock that makes mining faster and easier. It lets you break connected blocks (like ores or logs) all at once instead of one by one
+
+Free to use just give me credit
+
+If you can't understand, just check my YouTube video:
+
+https://youtu.be/HgKoLIWwFuE
+
+How to access ui?
+
+Look down and crouch
+
+Main system:
+
+- Break Faster: Break one block to break all connected ones.
+
+- Open UI: Look down + crouch to open the menu.
+
+- Toggle: Enable or disable Veinminer anytime.
+
+- Save Time: Perfect for fast mining and tree cutting.
+
+UI Cooldown System
+
+Added option to disable UI for 5/30/60 minutes!
+Perfect when you need to crouch to build or fight without UI getting in the way!
+
+Area restriction system
+
+Step 1 - Craft Veinminer Blocker
+
+Step 2- Place it & Done.
+
+You don't worry about your place, nobody can use veinminer in your place
+
+It's not a Base proctor, only for veinminer

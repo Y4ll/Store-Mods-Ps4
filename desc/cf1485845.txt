@@ -1,0 +1,25 @@
+Herobrine Screenshot Texture Pack
+
+This texture pack recreates the atmosphere of the famous Herobrine screenshot in Minecraft Bedrock.
+
+All textures in the game have been modified to match the colors and style of the legendary image. The pack also includes a similar fog effect to reproduce the mysterious and eerie environment seen in the original screenshot.
+
+The goal of this pack is to make the entire world feel like the iconic Herobrine image, giving players a creepy and nostalgic Minecraft experience.
+
+Features
+
+- Textures inspired by the original Herobrine screenshot
+
+- Custom fog to match the atmosphere
+
+- Full visual overhaul of the world
+
+- Designed for Minecraft Bedrock Edition
+
+Version
+
+Compatible with Minecraft Bedrock v26.3
+
+Notes
+
+This pack is purely visual and does not add Herobrine or change gameplay.

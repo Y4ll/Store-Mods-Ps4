@@ -1,0 +1,92 @@
+Sun Man Ultra Series V3.2
+
+Sun Man Ultra Series V3.2 is a major upgrade of the original Sun Man addon, bringing a darker atmosphere, improved visuals, enhanced animations, custom UI, and many bug fixes. Updated and improved by GG Studios this version focuses on making Sun Man feel more mysterious, immersive, and terrifying while preserving the original concept.
+
+Recommended Showcase Images
+
+home screen + paneroma
+
+addon icon
+
+loading screen
+
+sunman
+
+egg texture
+
+What's New?
+
+-
+
+Enhanced Sun Man textures and appearance
+
+-
+
+Improved idle, movement, and chase animations
+
+-
+
+Custom Sun Man Spawn Egg
+
+-
+
+Updated title screen and custom panorama
+
+-
+
+GG Studios credits and UI improvements
+
+-
+
+Better horror atmosphere and presentation
+
+-
+
+Improved spawn rules and balancing
+
+-
+
+Fixed entity, resource pack, and behavior pack issues
+
+-
+
+General optimization and bug fixes
+
+Features
+
+-
+
+Massive Sun Man horror creature
+
+-
+
+Custom Spawn Egg
+
+-
+
+Enhanced animations
+
+-
+
+Creepy atmosphere
+
+-
+
+Custom UI and panorama
+
+-
+
+Survival-friendly spawning system
+
+-
+
+Minecraft Bedrock Edition support
+
+-
+
+Credits
+
+Updated & Improved By:
+GG Studios (Ganesh Gamerz)
+
+Thank you for supporting the Ultra Series project. More updates, improvements, and horror features may arrive in future versions.

@@ -1,0 +1,35 @@
+The Overworld, while rich in biomes, often feels predictable in its exploration. Beyond finding the standard villages, temples, and mansions, the sense of discovering truly unique, biome-specific dungeons with coherent themes is limited. Many landscapes, despite their beauty, lack imposing and rewarding challenges that match their environment. If you want to give every adventure a distinct purpose and turn each biome into a land of bespoke danger and reward, this addon is for you.
+
+This addon adds 48 new structures to the Overworld, all designed to naturally and seamlessly fit the specific biomes they spawn in. The structures are varied, from temples to fortresses, encouraging targeted exploration and combat across all corners of your world.
+
+All structures are built using biome-authentic materials, ensuring a perfect visual blend with their surroundings. This gives them a feeling of being ancient, integral parts of the world, long waiting to be discovered.
+
+Each structure contains chests with valuable loot scaled to its difficulty. Their interiors are populated by specific hostile mobs that match the structure's theme, creating unique and challenging combat encounters.
+
+The structures generate naturally in the following biomes, transforming them from familiar terrain into dungeoneering destinations:
+
+Any Frozen/Snowy/Cold Biome: Imposing castles, fortresses, and towers made of Packed Ice, Blue Ice, and Quartz. They are defended by Strays and Breeze.
+
+Deserts: Ancient temples made of Sandstone, haunted by Parched and Husks.
+
+Badlands (Mesa): Distinctive temples made of Red Sandstone.
+
+Dark Forest/Taiga: Sinister Illager castles and towers built from Stone Bricks, Cobblestone, and Dark Oak Planks/Logs.
+
+Jungle: Mysterious, overgrown temples made of Mossy Stone Bricks and Mossy Cobblestone, where Bogged and Zombies lurk.
+
+Total Structures: 38, meticulously divided to ensure rich variety:
+
+2 Desert Temples, 2 Desert Small Castles, 2 Desert Towers, 4 Desert Castles
+
+5 Ice Small Castles, 2 Ice Temples, 1 Ice Castle
+
+2 Jungle Temples, 4 Jungle Small Castle, 3 Jungle Castles, 2 Jungle Towers
+
+2 Mesa Temples, 1 Mesa Small Castle
+
+1 Illager Mansion, 4 Illager Castles, 6 Illager Small Castles, 2 Illager Towers
+
+2 Monster Castles, 1 Monster Small Castle
+
+This addon transforms the Overworld from a collection of biomes into a continent filled with tailored danger, legendary loot, and purposeful exploration, giving players a compelling reason to seek out every ecosystem.

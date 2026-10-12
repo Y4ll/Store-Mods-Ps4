@@ -1,0 +1,13 @@
+Jumping Enchants
+
+Jumping Enchants Items is a chaotic mcpack where every jump can randomly enchant a random item in your inventory. Start with almost nothing, keep moving, and watch your gear get stronger, weirder, and sometimes completely ridiculous as you play. With Multiple enchantments enchantments spread across multiple power tiers, the datapack turns a simple survival run into a fast-paced challenge where every jump matters. It also includes multiplayer support.
+
+Features
+
+- Every jump randomly enchants a random item in your inventory.
+
+- Multiple enchantments are available across multiple tiers.
+
+- Multiplayer support, with all players affected at the same time.
+
+- Automatically works, no initial commands

@@ -1,0 +1,18 @@
+This simple addon lets you resize yourself to any size you want!
+
+HOW TO USE
+
+First Beta Api and Creator Cameras must be enabled
+
+next once in the game type "#size 4" in chat, you can put any size you want.
+To reset your size type "#size reset"
+
+Putting "nocam" at the end of the command makes it so that your camera isnt locked to 3rd person. (the camera may clip inside the player)
+
+You can also add a players name to the command to change only their size,
+or do @a to change all players sizes
+
+Contact
+Discord Server
+Youtube: @ouk
+Support Me Here: Kofi

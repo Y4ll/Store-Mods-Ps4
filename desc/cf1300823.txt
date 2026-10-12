@@ -1,0 +1,20 @@
+Glacier Client (Minecraft Bedrock Edition)
+
+Glacier Client is a lightweight, UI-focused texture client designed to improve your Minecraft Bedrock experience without sacrificing performance.
+
+Features
+
+Custom-designed user interface.
+
+Built-in mod menu with essential tools.
+
+Full customization for every module.
+
+Draggable Modules for endless custom positions.
+
+Trailer
+
+See it in action: https://youtu.be/dWXnGc52TUo
+
+Perfect for PvP, casual play, or content creation.
+Built for clarity, performance, and control.

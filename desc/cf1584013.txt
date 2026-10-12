@@ -1,0 +1,69 @@
+Dax Frenzy is a new add-on for the Xaier Universe. The overworld has been devastated by a mysterious alien race, "the Dax." They haven't revealed themselves yet, but their machines can be seen roaming the world. Can you survive this frenetic world?
+
+You will start in a small base; you were in cryosleep for a long time. You will have enough equipment and ammunition until you find more supplies.
+
+Here you will find shulker boxes, armor, weapons and ammunition; let's start by talking about armor.
+
+The antennas, when fitted to the head, will play electronic music that will complement the action; they are copyright-free.
+
+The Dax armor set will have absurd durability and protection, much needed.
+
+The ghillie suit, this item introduces stealth mechanics to Xaier's addons, we will discuss it below.
+
+STEALTH MECHANIC
+
+In the lower left corner, a user interface will appear with information, including the STEALTH MECHANIC, which will indicate whether it is active or deactivated.
+
+The conditions for having stealth active are:
+
+- Be in a light level below -10 or be inside vegetation (low-lying vanilla vegetation or low flowers do not count, but vegetation from the addon does)
+
+- Always wear the ghillie suit equipped
+
+Stealth Mode Precautions:
+
+When activated, creatures in the addon will be unable to attack you (you will be invisible to them). You can use this mode to reload your weapons, but keep in mind:
+
+- This mode is useful for killing entities with a weapon that can kill them in one hit, for example, the "Drax Gun" on smaller entities like NPCs and small monsters. Each successful hit will increase the alert bar. Try not to reach 5, as this will lock the stealth bar and leave you exposed.
+
+- If you inflict non-lethal damage on an entity, the stealth bar will be locked for a certain amount of time.
+
+- You can distract all enemies in the addon with throwable objects (bombs, grenades, bricks, stones, etc.) while in stealth mode. This will allow you to escape in certain situations. Just be careful not to throw explosives too close to yourself or accidentally hit an entity, as this will break your stealth.
+
+Items:
+
+CANS AND CAN OPENERS, IT'S SIMPLE, one click on the can opener and it will open 16 cans for you, each can opener has 20 uses
+
+Life boosters/enhancers; each level will add more hearts, they are craftable, check the crafting table
+
+Of all the medicines, the bandage is the best.
+
+Dax's pickaxe will allow you to break alien blocks faster.
+
+Dax gun, its ammunition and Drax gun with its respective ammunition, don't complicate things
+
+PARACHUTE WITH SUPPLIES
+
+During the day, supplies may fall from the skybasic items like coal, food, and ammunition. Don't expect anything more than that.
+
+CITIES
+
+The important loot is found in the cities, such as more armor that will eventually break, much more ammunition and throwable items, the Dax pickaxe, the Drax Gun, and other exclusive items.
+
+MOBS
+
+Wetman: Humans mutated by the Dax attempt to speak as a vestige of intelligence; they are aggressive and can throw various objects.
+
+Digested Human: In the events of All Tomorrows, the Dax transformed human rebels into amorphous masses of flesh. Some of them still try to escape their prisons and can only moan and attack you, begging for help.
+
+Drepyer Hunter: A mutated human, they were hunting dogs of the Dax during the first Daxianiarius, highly hostile.
+
+appendix: Part of a giant creature underground, it inhabits the entire Over Alien biome, it will emerge from the ground attacking.
+
+Bipedal Dax: A powerful two-legged robot that will shoot any Homo sapiens.
+
+Bomber Dax: A bomber ship that will appear all over the world launching explosives and Bipedal Dax. It cannot be stopped, but after a while the ship will leave.
+
+Crusher Human: Evil survivors who won't hesitate to put you to sleep; they appear in cities at night.
+
+Survival NPC: Simple armed humans; they appear in cities during the day.

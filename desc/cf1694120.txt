@@ -1,0 +1,120 @@
+Alex's Mobs Pocket
+
+Join our discord server
+
+Alex's Mobs Pocket is a comprehensive Minecraft Bedrock Edition port of the popular Java mod Alex's Mobs by Alexthe668, Carro1001, and Paint_Ninja.
+
+This addon brings a large variety of unique, authentic, and engaging creatures to Minecraft Bedrock Edition. Explore the world and encounter animals such as Grizzly Bears, Gorillas, Elephants, Tigers, Kangaroos, Rhinoceroses, Capuchin Monkeys, Bald Eagles, Crocodiles, Komodo Dragons, Orcas, Giant Squids, Raccoons, Snow Leopards, and many more.
+
+The creatures feature custom models, animations, sounds, behaviors, spawning rules, loot tables, and interactions designed to closely follow the original Java mod.
+
+Features
+
+80+ custom entities covering land animals, birds, reptiles, aquatic creatures, Nether mobs, End creatures, and fantasy creatures.
+Natural biome spawning with creatures appearing in suitable environments such as jungles, savannas, deserts, oceans, swamps, mountains, caves, the Nether, and the End.
+Custom mob behaviors including hunting, fleeing, feeding, taming, breeding, swimming, flying, and other unique interactions.
+Custom 3D models and animations made for Minecraft Bedrock Edition.
+Custom sounds and effects for many creatures.
+Custom items, blocks, food, materials, weapons, and other gameplay content.
+Custom loot tables, recipes, spawn rules, and entity components.
+Unique abilities and mechanics inspired by the original Java mod.
+
+Some Included Creatures
+
+Grizzly Bear, Gorilla, Elephant, Rhinoceros, Tiger, Kangaroo, Moose, Bison, Gazelle, Maned Wolf, Snow Leopard, Raccoon, Tasmanian Devil, Capuchin Monkey, Gelada Monkey, Sugar Glider, Anteater, Bald Eagle, Blue Jay, Toucan, Shoebill, Sunbird, Crow, Potoo, Hummingbird, Crocodile, Anaconda, Komodo Dragon, Rattlesnake, Alligator Snapping Turtle, Orca, Cachalot Whale, Giant Squid, Hammerhead Shark, Frilled Shark, Seal, Platypus, Mantis Shrimp, Lobster, Flying Fish, Catfish, and many more.
+
+The addon also includes creatures from the Nether, End, underground areas, and other unusual environments.
+
+Commands and Functions
+
+Cheats must be enabled to use these functions.
+
+Give all custom items:
+/function give_all_items
+
+Give all custom blocks:
+/function give_all_blocks
+
+Summon all custom mobs:
+/function summon_all_mobs
+
+Show command help:
+/function help
+
+Test whether the addon scripts are working:
+/function test_scripts
+
+You can also test the script system using:
+
+/scriptevent alexsmobs:test
+
+or:
+
+!test
+
+Technical Details
+
+This project is built specifically for Minecraft Bedrock Edition using the Bedrock Behavior Pack and Resource Pack systems.
+
+The addon includes:
+
+Custom entity behaviors
+Entity components and events
+Natural spawn rules
+Custom loot tables
+Custom recipes
+Custom items and blocks
+Bedrock geometry models
+Skeletal animations
+Animation controllers
+Render controllers
+Attachables
+Textures
+Localization files
+Minecraft functions
+Script-based systems
+
+The project is separated into a Behavior Pack (BP) and Resource Pack (RP), with each pack containing the required files for gameplay, rendering, animations, sounds, items, blocks, and other systems.
+
+Installation
+
+-
+
+Import the addon into Minecraft Bedrock Edition.
+
+-
+
+Create a new world or edit an existing world.
+
+-
+
+Activate both the Alex's Mobs Behavior Pack and Resource Pack.
+
+-
+
+Enable the required experimental features if requested.
+
+-
+
+Enter the world and explore.
+
+Experimental Features
+
+Depending on your Minecraft Bedrock Edition version, some experimental features may be required.
+
+The addon may require:
+
+Holiday Creator Features
+Custom Biomes
+Upcoming Creator Features
+Molang Features
+
+Credits
+
+Original Mod Author: Original Java mod by sbom_xela : https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
+
+Original Mod: Alex's Mobs
+
+Bedrock Port: RenderPhoenix
+
+This project is a Bedrock Edition port based on the original Alex's Mobs Java mod. Please follow the original project's licensing requirements when using or distr

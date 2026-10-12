@@ -1,0 +1,25 @@
+Visible Debris
+
+Visible Debris is a sleek, high-contrast aesthetic pack that re-imagines the toughest material in Minecraft. Say goodbye to the muddy browns of the Netherthis pack transforms the Netherite tier into a collection of glowing, electric blue artifacts.
+
+Key Features
+
+Vibrant Ancient Debris: Features a glowing blue center, making it significantly easier to spot while mining in the Nether.
+
+Neon-Infused Equipment: All Netherite tools, swords, and bows feature a dark metallic base with detailing.
+
+Lightweight Performance: Built to be resource-friendly, ensuring high FPS even on lower-end devices.
+
+Installation Guide
+
+-
+
+Click the Download button on the right sidebar.
+
+-
+
+Once downloaded, double-click the .mcpack file to launch Minecraft and import automatically.
+
+-
+
+Navigate to Settings > Global Resources and move "Visible Debris" to the top of your Active list.

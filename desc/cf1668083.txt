@@ -1,0 +1,71 @@
+Dependencies
+
+- Farmer's Delight (made by Moaswies)
+
+About the Mod
+
+Brazilian Delight is an addon for the Farmer's Delight mod. It adds recipes, crops and features related to the brazilian culture!
+
+Brazil is a tropical country with a rich and diverse culture, and this mod aims to bring some of that to the game. There are many things to explore and discover!
+
+Features
+
+Currently, the mod adds:
+
+- Guarana
+
+- Acai
+
+- Coconut
+
+- Lemon
+
+- Cassava
+
+- Coffee
+
+- Yerba Mate
+
+- Black Beans
+
+- Carioca Beans
+
+- Collard Greens
+
+- Corn
+
+- Garlic
+
+Due to the amount of native brazilian fruits and vegetables, there are many more to come!
+
+The mod adds a LOTS of new foods, with many more coming, such as:
+
+- Coxinha
+
+- Cheese Bread
+
+- Carrot Cake with Chocolate
+
+- Brigadeiro
+
+- Feijoada
+
+- Green Soup
+
+- Stroganoff
+
+- Tropeiro Beans
+
+- Fish Moqueca
+
+- Acai Cream
+
+- Cassava Fritters
+
+And many more! Oof!
+
+Port Permission
+
+The Brazilian Delight mod on Java edition is under the MIT License. This license allows me to port it to bedrock edition.
+
+Special thanks to DeltaboxLabs for creating this excellent mod!

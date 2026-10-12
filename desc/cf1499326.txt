@@ -1,0 +1,61 @@
+Temporal Bottle
+
+Save your playtime in a bottle and use it later to speed up your furnaces or brewing stands.
+
+Craft:
+
+To craft a Temporal Bottle you will need:
+
+- 1 Clock
+
+- 3 Gold Ingot
+
+- 1 Lapis Lazuli
+
+Collecting Time:
+
+Keeping the Temporal Bottle in your inventory will allow it to start collect time from the world that can be used later.
+
+Cost to Accelerate:
+
+For every doubling of speed, the total time cost also doubles.
+
+Below is a list of how much time you need to accelerate to a certain level of speed.
+
+Showing How Accelerate:
+
+To accelerate some block you need to have time.
+
+Using the Temporal Bottle in your hand and interacting with the blocks below will create a time zone 2 times faster, interacting again now it'll be 4 times faster.
+
+Commands:
+
+If you don't want to wait for the Temporal Bottle to collect time, you can use the "/givetime" command.
+
+You can:
+
+- Set Time: "/givetime set [seconds: number]
+
+- Add Time: "/givetime add [seconds: number]
+
+Other Info:
+
+Soon I will add compatibility with other addons and a compatibility feature so that addon creators can already create compatibility without depending on me.
+
+- This addon don't disable Achievements;
+
+- This addon don't use Experimental;
+
+- This addon don't use player.json;
+
+- This addon is compatible with some addons.
+
+Compatibility System
+
+If you are an AddonMaker and you would like to create a compatibility with this addon you can use this links below:
+
+Documentation
+
+Download Addon Template
+
+If you have any question you can send me a message on Discord @Endermen76428.

@@ -1,0 +1,73 @@
+Fruit From Leaves Addon Natural Fruit Drop System for Minecraft Bedrock 1.21+
+
+Fruit From Leaves Addon is a survival friendly Minecraft Bedrock utility addon that makes tree leaves drop real fruits when broken, creating a more immersive and rewarding farming and exploration experience. Instead of only dropping saplings and sticks, leaves now have a chance to drop different fruit types depending on the tree species, turning forests into natural food sources while keeping vanilla balance intact.
+
+If you are looking for a Minecraft Bedrock fruit addon, tree fruit mod, leaf drop system, or survival farming addon, this addon provides a realistic and performance safe solution for both singleplayer and multiplayer worlds.
+
+What This Fruit From Leaves Addon Does
+When a player breaks leaf blocks, the addon checks the leaf type and assigns a matching fruit.
+Each tree type drops a unique fruit such as cherries, pears, bananas, plums, oranges, blueberries, pomegranates, persimmons, and more.
+Fruit drops use a chance based system so they feel rare and balanced.
+Works with both modern leaf blocks and legacy leaf variants for full compatibility.
+
+Tree to Fruit Mapping System
+Cherry leaves drop cherries.
+Mangrove leaves drop pomegranates.
+Azalea leaves drop persimmons.
+Pale oak leaves drop sharon fruit.
+Birch leaves drop pears.
+Spruce leaves drop plums.
+Jungle leaves drop bananas.
+Acacia leaves drop oranges.
+Dark oak leaves drop blueberries.
+Supports multiple leaf types without conflict.
+
+Vanilla Safe Behavior
+If the player uses shears, no fruit will drop, respecting vanilla mechanics.
+If the tool has Silk Touch, fruit drops are disabled.
+Prevents farming exploits and keeps survival balanced.
+Boss blocks and non leaf blocks are never affected.
+
+Smart Random Drop Logic
+Uses a probability system for fruit spawning.
+Fruit appears at the center of the broken leaf block naturally.
+No forced drops and no guaranteed farming abuse.
+Feels like apples from oak leaves but expanded to all trees.
+
+Visual and Gameplay Integration
+Fruit items spawn naturally in the world.
+Works with normal breaking animations and sounds.
+No custom UI or menus required.
+Seamlessly blends into vanilla survival gameplay.
+
+Performance Optimized and Server Safe
+Runs only when leaf blocks are broken.
+No continuous scanning or ticking loops.
+No chunk editing or block replacement.
+Safe for SMP servers and Realms.
+Script based addon with no resource pack dependency.
+
+How to Use
+Install the addon in your world or server.
+Break leaves naturally while chopping trees.
+Random fruits will drop depending on the tree type.
+Collect fruits for food, trading, or crafting.
+Works automatically with no commands.
+
+Best For
+Survival worlds
+Farming and food progression
+SMP and Realm servers
+RPG and adventure maps
+Vanilla plus gameplay
+Forestry themed worlds
+
+Compatibility
+Minecraft Bedrock Edition
+Tested on version 1.21 and above
+Script based addon
+No resource pack required
+Works in singleplayer and multiplayer
+
+SEO Keywords Hidden but Ultra Powerful
+Minecraft Bedrock fruit addon, fruit from leaves mod, leaf drop fruit system, tree fruit addon Bedrock, farming addon Minecraft Bedrock, survival food mod Bedrock, apple style drop addon, banana drop from jungle leaves, cherry leaves fruit mod, mangrove fruit addon, azalea fruit drop system, pale oak fruit addon, forest food mod Minecraft, SMP farming addon, realm compatible fruit mod, Bedrock Edition script addon, Minecraft 1.21 farming addon, no command farming mod, vanilla plus food addon, tree harvesting mod Bedrock, natural food system Minecraft, RPG farming addon, survival progression mod Bedrock, forestry addon Minecraft Bedrock, random fruit drop mod, fruit harvesting addon, plant based food mod, exploration reward addon, biome food mod, jungle survival addon, woodland food addon, low lag farming mod, server safe food addon, leaf breaking reward mod, tree farming expansion addon, balanced fruit mod Bedrock, multiplayer farming addon, realistic f

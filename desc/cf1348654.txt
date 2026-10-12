@@ -1,0 +1,45 @@
+Enhance your resource gathering in Minecraft with this all-in-one addon that combines Tree Capitator and Vein Miner. Instantly chop entire trees with one swing and mine full ore veins effortlessly, saving time and effort. It also has leaf capitator with loot system.
+
+Key Features:
+
+- Tree Capitator: Instantly fell entire trees.
+
+- Vein Miner: Mine connected ore veins in one go
+
+- Leaf Capitator also gives loot like apple , sticks ..
+
+Showcase
+
+How To Use:
+
+- Just Crouch and Break tree or mine ores to use this
+
+- Take your Minecraft experience to the next level with the ultimate resource-gathering addon.
+
+Note: To activate pack , Edit or Create your world and tap on the behaviour Section , Then Activate
+
+Creator: Risab Gamerz
+
+Socials:
+
+Join our discord :
+
+Support On Kofi:
+
+You Are Allowed To:
+
+- Showcase my work in videos/streams if you give proper credit (e.g., link to the official download).
+
+- Edit file for personal use only
+
+You Are Not Allowed To:
+
+- Distribute through monetized links (AdFly, Linkvertise, etc.).
+
+- Edit and re-share my projects
+
+If You Give Low Rating ,You Should Comment the reason.
+
+Credits--------
+
+This project was inspired by Quillphen's Ore Vein Miner. While all code in this project is independently written and implements original logic for cluster detection, block breaking, and drop handling, I would like to credit Quillphen for the inspiration and gameplay concept.

@@ -1,0 +1,111 @@
+Time Stop: Freeze Everything
+
+What if you could completely stop time in Minecraft?
+
+Time Stop: Freeze Everything is a Minecraft Bedrock Add-On that gives you control over time itself. Craft the powerful Time Clock, activate it, and temporarily freeze the world around you while you remain completely free to move.
+
+Enemies stop. Animals stop. Projectiles freeze in mid-air. Everything around you becomes trapped in time while you can continue exploring, fighting, building and moving at incredible speed.
+
+STOP TIME FOR 30 SECONDS
+
+Activate the Time Clock to trigger a 30-second Time Stop.
+
+Entities around the player are frozen in place and temporarily lose their ability to move normally. Creatures can no longer chase, flee or move around while the effect is active.
+
+The system works around the player rather than modifying individual vanilla mobs, allowing the ability to affect a wide variety of creatures and making it useful alongside other Minecraft Bedrock add-ons as well.
+
+FREEZE PROJECTILES IN MID-AIR
+
+Time Stop isn't limited to mobs.
+
+Incoming arrows and other supported projectiles can be frozen in the air, creating dramatic moments where you can calmly walk around projectiles that were flying directly toward you.
+
+When time resumes, the world is released from the Time Stop effect.
+
+BECOME INVINCIBLE
+
+The player controlling time receives powerful protection while Time Stop is active.
+
+For those 30 seconds, you can move through the frozen world without worrying about normal incoming damage.
+
+This makes the Time Clock useful not only for combat, but also as an emergency ability when you're surrounded or about to be attacked.
+
+SUPER SPEED
+
+Why should you move normally when everything else has stopped?
+
+While Time Stop is active, the player receives a massive speed increase, allowing you to move around the frozen battlefield extremely quickly.
+
+You can reposition yourself, escape danger, explore the surrounding area or get behind enemies before time starts moving again.
+
+FREEZE MOBS
+
+Animals, monsters and many other entities caught within the Time Stop area become frozen.
+
+This can include creatures such as:
+
+- Zombies
+
+- Skeletons
+
+- Creepers
+
+- Spiders
+
+- Animals
+
+- Other hostile mobs
+
+- Many custom creatures from compatible add-ons
+
+The system was designed to avoid depending exclusively on specific vanilla entity identifiers, improving compatibility with custom mobs from other Bedrock projects.
+
+That means you can combine Time Stop: Freeze Everything with worlds containing dinosaurs, zombies, monsters and other custom creatures.
+
+20-BLOCK TIME FREEZE AREA
+
+Time Stop affects entities approximately 20 blocks around the player.
+
+Instead of processing an entire Minecraft dimension, the system focuses on the area surrounding the person using the Time Clock.
+
+This helps keep the ability powerful without unnecessarily processing entities located far away.
+
+YOU ARE NOT FROZEN
+
+You control time, so you remain completely free.
+
+During Time Stop you can still:
+
+Walk, sprint, jump, attack, break blocks, place blocks and use items.
+
+Combined with your temporary invincibility and super speed, the ability creates the feeling that you are moving normally through a world where everything else has stopped.
+
+LIVE TIME STOP COUNTDOWN
+
+You always know how much time remains.
+
+After activating the ability, the Action Bar displays the Time Stop countdown:
+
+TIME STOPPED 30s
+
+TIME STOPPED 29s
+
+TIME STOPPED 28s
+
+...until time finally resumes.
+
+Once the ability ends, the world returns to normal.
+
+30-SECOND COOLDOWN
+
+The Time Clock is extremely powerful, so it cannot be activated endlessly.
+
+After using Time Stop, the item enters a 30-second cooldown.
+
+When you're holding the Time Clock, its status is displayed so you can immediately see whether the ability is READY or how many seconds remain before you can use it again.
+
+SURVIVAL CRAFTING
+
+The Time Clock can be obtained normally in Survival.
+
+Its recipe uses valuable vanilla Minecraft materials, including 

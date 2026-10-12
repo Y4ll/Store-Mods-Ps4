@@ -1,0 +1,9 @@
+Outline Visuals
+
+Outline Visuals enhances Minecrafts atmosphere with cleaner colors, smoother lighting, improved water effects, and sharp outlines that make blocks and items stand out. This pack makes the world more immersive, warm, and visually appealing.
+
+If you want the standalone outline-only version, download Outline Texture Pack.
+
+Note
+
+To use this pack, you must keep Vibrant Visuals enabled. Without it, shader and visual effects will not work.

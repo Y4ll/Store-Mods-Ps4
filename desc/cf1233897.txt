@@ -1,0 +1,8 @@
+This pack provides you with permanent night vision when using the new Vibrant Visuals graphics mode.
+You can now navigate caves and dark environments more easily!
+
+- This is a resource pack and requires no additional behavior pack, it should work on any world, realm or server.
+
+- Vibrant Visuals Night Vision provides permanent night vision using features available only in Vibrant Visuals graphics mode.
+
+- This pack may or may not be compatible with other Vibrant Visuals resource pack (you should test this pack above others and find out for yourself) compatibility is only guaranteed with default Vibrant Visuals.

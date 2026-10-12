@@ -1,0 +1,65 @@
+The Swift Minecraft Sift Dimension Add-on
+
+The Swift is CreativeMode's fan-made take on the Sift for Minecraft Bedrock Edition. Open a musical portal and explore
+pink meadows, white willow forests, rainbow ichor and aurora skies. Includes behavior and resource packs; no
+experimental toggles are required.
+
+Explore the Swift
+
+- Seven landscapes: Singer's Meadow, Wild Meadows, Lullaby Hills, Sifter Canyon, Humbler Huskland, Ichor Pools and
+the underground Ravines. Discover floating islands, white willow forests, deep chasms and towering rock formations.
+
+- 27 creatures: befriend blubs, carry a tuner, tame a prickle and meet the sifters and sculkers. Challenge the Monarch,
+Harmonizer and Twisted Warden, plus the Dartback mini-boss.
+
+- Six encounter structures: Lullaby Circles, humbler husks, Echo Dens, Sculker Nests, Illager Soul Excavations and
+Dartback Arenas. The Twisted Warden guards ancient-city portal frames in the Overworld.
+
+- Three tides: Thrive recharges placed Drained Soul Blocks and speeds up golem pulses; Flow is the quiet transition;
+Endure stops the pulses and brings soul-corrupted monsters. In the Swift, dormant golems wake only during Thrive.
+
+- Build with white willow, Swiftstone, Tidestone and blush sandstone. Earn the Lullaby music disc and turn a diamond
+spear into a Spectral Spear by dropping it into ichor.
+
+Getting there and back
+
+In the Overworld, play five different note-block pitches near a reinforced deepslate frame within 12 seconds.
+Awake echo golems can contribute notes, and a nearby Singer can open the portal too. A return gate waits in the Swift;
+if it goes dark, gather four awake echo golems nearby during Thrive to relight it.
+
+Use a Soul Block or give a Singer an Echo Shard to open a temporary rift. Natural rifts also appear in the Overworld
+at night. A rift home remembers where you entered through a rift, or returns you to your Overworld spawn if you came
+another way. Beds and respawn anchors do not work in the Swift.
+
+Install for Bedrock Edition
+
+- Download swift_bedrock.mcaddon for Bedrock 26.50 or a newer compatible version.
+
+- Open the file with Minecraft to import both packs.
+
+- Activate The Swift (Behavior) for your world and check that The Swift (Resources) is active too.
+
+The release was tested in the Windows 1.26.52 client. Vibrant Visuals is optional.
+
+Bedrock terrain generates as you explore; very fast flight can briefly outrun it. Ichor does not flow or support
+swimming. Portal melodies use player interactions with note blocks; redstone-played notes cannot be detected.
+The Swift shares the Overworld's time of day. White willow signs, hanging signs, shelves and boats are Java-only.
+
+Updating an existing world
+
+Back up your world before updating, import the new mcaddon, and activate the updated behavior and resource packs.
+New terrain and structures need unexplored chunks or a new world. The Sculk Monstrosity, Sculk Cube and their spawn
+eggs are removed without a replacement migration. The Monstrosity Lair and Harmonizer Grove no longer generate;
+Harmonizers now spawn naturally. Soul Blocks open rifts instead of granting the old personal soul powers. Renamed
+content that remains in the add-on keeps its existing IDs.
+
+Guides and support
+
+Bedrock player wiki Swift showcase CreativeMode community
+
+For bug reports, include your Minecraft version, Swift pack version, device, other add-ons and steps to reproduce
+the issue.
+
+Created by CreativeMode. Fan-made; not an official Minecraft product and not approved by or associated with Mojang
+or Microsoft. Licensed under the CreativeMode Mods License. Keep the original
+filename and included license when sharing the unmodified release.

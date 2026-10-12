@@ -1,0 +1,33 @@
+This is a bedrock port of "Tactical 3D Tools & 3D Weapons PvP"
+
+This 3d tools resource pack changes the 2d vanilla tools and weapons into a more 3d models tools and 3d weapons, the design comes from those tactical weapons, but translated to minecraft's style, and it's also designed to be both medieval and military style. It is also designed to be a pvp pack, which is why this pack has 2 config options that adjusts the scale of the tools
+
+Yes, this 3d tools pack will also expand to weapons from alot of addons, so feel free to suggest on what model i should add
+
+10/13/2026:
+
+Apparently, Actions & Stuff updated 3 days before the compatibility update of my pack Tactical 3D Tools to Actions n Stuff. 3 weeks for nothing
+
+You know what, i will do it again, but this time, 1 week, not 3 weeks, 1 week, cuz i know a clever way on identifying Actions & Stuff files, and all i need to do is rename the existing files of mine instead of, like, having to copy paste and rearrange geometry models. This is no longer just trying to meet player's demands, this will also be out of spite. This pack aint called Tactical for nothing.
+
+How to make this pack work on Actions & Stuff:
+
+1. Make sure you bought Actions & Stuff
+
+2. Tap on Actions & Stuff
+
+3. A setting icon should appear next to the "deactivate" button, tap on that
+
+4. Slide down and enable "3D Tools" and "3D Arrow", then exit the A&S config
+
+5. Apply the Tactical 3D Tools above Actions & Stuff
+
+6. Go back to Menu
+
+7. Ejnoy
+
+If you are on mobile and facing issues making Tactical 3D Tools function, please let me know.
+
+If you love my packs and other stuff that i make, and you wanna give support, you can support by donating just around 3-5$, small donations are accepted.
+
+Your donation will help me alot on my current financial situation and the development. Thank you!

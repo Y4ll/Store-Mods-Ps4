@@ -1,0 +1,27 @@
+Solar Shaders bathes Bedrock in permanent golden hour - amber god rays cutting through the canopy, skies layered gold to rose to blue at every hour, and volumetric fog tuned biome by biome.
+
+- Per-Biome Volumetric Fog - 13 Profiles Across 89 Biomes, Including a Rose-Pink Cherry Grove
+
+- Volumetric Golden God Rays
+
+- Layered Gold-to-Blue Skies, Dawn to Midnight
+
+- Custom Colour Grading
+
+- Dedicated Nether & End Lighting and Skies
+
+- Ambient Particles - Aurora, Shooting Stars, Meteor Showers, Wind Streaks, Sand & Snow Dust, Birds, Butterflies
+
+- Rain Puddles & Splashes
+
+- End Ambience - Light Beams, Meteor Showers & Void Sparks
+
+- 109 Coloured Light Sources
+
+- Full PBR Textures in High Resolution, PBR Water & Lava in Default
+
+- Two Resolution Subpacks - Default & High
+
+- Compatible with other Packs
+
+[ ! ] This pack only works with Vibrant Visuals turned on

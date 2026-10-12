@@ -1,0 +1,75 @@
+No Beta APIs Required
+
+Just (Sneak) while using the right tool no more chasing ore veins block by block or chopping every log manually.
+
+Features
+
+- Vein Mining, Sneak + break any ore to instantly mine all connected blocks of the same type
+
+- Tree Capitator, Sneak + break any log to fell the entire log in the tree at once
+
+- Proper Tool Tier Checks, Respects vanilla tool requirements (e.g. Iron Pickaxe+ needed for Gold Ore)
+
+- Fortune & Silk Touch Support, Enchantments apply correctly to every block broken
+
+- Unbreaking Support, Durability is consumed per block, with Unbreaking taken into account
+
+- Creative Mode Compatible, Works in Creative Mode with the correct tool; no durability loss
+
+- Up to 1,280 blocks.
+
+Supported Ores
+
+| Ore | Minimum Tool |
+
+|-----|--------------|
+
+| Coal / Deepslate Coal | Wooden Pickaxe |
+
+| Iron / Deepslate Iron | Stone Pickaxe |
+
+| Copper / Deepslate Copper | Stone Pickaxe |
+
+| Lapis / Deepslate Lapis | Stone Pickaxe |
+
+| Gold / Deepslate Gold | Iron Pickaxe |
+
+| Redstone / Deepslate Redstone | Iron Pickaxe |
+
+| Diamond / Deepslate Diamond | Iron Pickaxe |
+
+| Emerald / Deepslate Emerald | Iron Pickaxe |
+
+| Ancient Debris | Diamond Pickaxe |
+
+| Nether Gold Ore | Wooden Pickaxe |
+
+| Nether Quartz Ore | Wooden Pickaxe |
+
+Supported Wood Types
+
+Oak, Spruce, Birch, Jungle, Acacia, Dark Oak, Mangrove, Cherry, Pale Oak. including their stripped variants and wood blocks.
+
+How to Use
+
+1. Equip the correct tool for the block type (works in both Survival and Creative!)
+
+2. Hold Shift (Sneak)
+
+3. Break any supported ore or log
+
+4. The entire vein or tree breaks at once!
+
+Requirements
+
+- Minecraft Bedrock Edition 26.0 or higher
+
+- No Beta APIs required uses fully stable Script API (@minecraft/server 2.7.0)
+
+NEW FEATURES Crops Capitator using a hoe to break and replant all crops in the area theres a stand alone pack of this too here
+
+Added Compatibility version for Nico's cave expansion by Nico the kid, mythical biome by Nico the kid, and nature's touch
+
+Open source and free under Alp's Add-on License you may use, modify, and share it freely. Not permitted for sale on the Minecraft Marketplace. Derivative works must stay open and under the same license.
+
+Made by AlpDBang

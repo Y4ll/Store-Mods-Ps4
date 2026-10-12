@@ -1,0 +1,37 @@
+Experience Java-like RTG (Realistic Terrain Generation) directly in Minecraft Bedrock Edition! Transform your world into a breathtaking, natural masterpiece without losing any performance.
+
+Key Features:
+
+Majestic Trees: Say goodbye to boring vanilla trees! Explore forests filled with massive, realistically structured Oak, Dark Oak, and Acacia trees.
+
+Professional Terrain: The world generation is now smoother and more diverse. Mountains look grander, and plains feel like real-life landscapes.
+
+Enhanced Details: Natural Mossy Boulders, scattered Mushrooms, and improved Ore Distribution (Diamonds, Gold, Iron) make every cave and forest floor feel alive!
+
+Ultra-Optimized (Lag-Free): The best part? This addon is built for performance. Even with high render distances, enjoy a butter-smooth experience on mobile and low-end devices!
+
+Cinematic Ready: Perfect for content creators looking for that "Ultra Realistic" look for their videos or survival series!
+
+Whats Inside?
+
+Advanced Feature Rules: Uses custom logic for rtg_giant_taiga, bt_dark_oak, and rtg_mountain_trees to override default generation.
+
+Vibrant Biomes: Every biome is more dense, lush, and "alive."
+
+Aquatic Overhaul: Realistic seagrass and clay generation for beautiful riverbeds and oceans.
+
+How to Install:
+
+Download the .mcaddon file.
+
+Open it to import directly into Minecraft.
+
+Activate both Resource Pack and Behavior Pack in your world settings.
+
+IMPORTANT: Enable Experimental Gameplay (Custom Biomes & Features) for the best experience!
+
+Take your world to the next level! Download Now!
+
+Tags:
+
+#MinecraftBedrock #RealisticWorld #RTG #NoLag #BetterTrees #HorizonNatural #MinecraftAddon #RenderDragon #Survival #Realistic

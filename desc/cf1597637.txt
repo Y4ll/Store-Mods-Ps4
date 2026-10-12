@@ -1,0 +1,87 @@
+Myloveee Totem Skins 24 Action & Stuff Variants
+
+Tired of looking at the same old vanilla Totem of Undying every time you escape death? Give your ultimate lifesaver a massive glow-up that matches your epic combat animations!
+
+Myloveee Totem Skins brings 24 breathtaking, custom 3D animated skins to your Totem of Undying. Built to blend perfectly with the stylish aesthetic of the Action and Stuff framework, you can now hold mystical nether stars, ticking clocks, glowing campfires, or even cute little axolotls in a bucket instead of a boring golden doll!
+
+Switch your totem's look instantly using the in-game settings wheel and match your totem to your current adventure style!
+
+Features
+
+-
+
+24 Stunning Totem Skins: Choose from an amazing lineup including Beacons, End Crystals, Ominous Bottles, Books, Enchanted Tomes, and more!
+
+-
+
+Action-Ready 3D Models: High-quality 3D models that look incredible and move fluidly with your custom first-person (FPV) and third-person animations.
+
+-
+
+Custom Pop-Up Effects: 19 out of the 24 skins include custom matching 2D icons that flash on your screen right when the totem breaks and saves your life!
+
+-
+
+Easy In-Game Swapping: No need to download 24 separate packs. Just click the gear icon () in your pack settings and slide to choose your favorite variant!
+
+-
+
+Bedrock Ready: Fully optimized for Windows 10/11, Mobile (iOS/Android), Xbox, and Nintendo Switch.
+
+What's Inside? (All 24 Variants)
+
+-
+
+Mystical & Magic: Nether Star, Beacon, End Crystal, Dragon Breath.
+
+-
+
+Survival Gear: Clock, Compass, Recovery Compass, Campfire, Soul Campfire.
+
+-
+
+Blocks & Items: Enchanting Table, Ominous Bottle, Trial Key, Ominous Trial Key, Copper Golem Statue.
+
+-
+
+Cute & Quirky Buckets: Pufferfish Bucket, Axolotl Bucket, Sulfur Cube Bucket, Honey Bottle.
+
+-
+
+Tomes & Knowledge: Book, Book and Quill, Enchanted Book.
+
+-
+
+Nature & Magic Spawn: Spore Blossom, Cactus Flower, Witch Spawn Egg.
+
+How to Use & Requirements
+
+IMPORTANT REQUIREMENT: This pack is an add-on designed to complement the Action and Stuff animation pack.
+
+To make the custom models and scaling display correctly, you must install Action and Stuff FIRST. In your Global Resources list, place Action and Stuff at the bottom and this pack directly on top of it!
+
+-
+
+Download & Import: Download the .mcpack file and open it to auto-import into Minecraft Bedrock.
+
+-
+
+Activate: Go to Settings > Global Resources and activate the pack.
+
+-
+
+Pick Your Skin: Click on Myloveee Totem Skins in your active list, click the Gear Icon (), slide the bar to your preferred totem, and confirm!
+
+Credits & Disclaimer
+
+-
+
+Pack Creator: Myloveee
+
+-
+
+Base Framework: Huge credit to the creators of the Action and Stuff pack for the incredible animation systems, core geometry, and styling that inspired this variant addon.
+
+-
+
+Disclaimer: This pack is designed as a complementary expansion for Action and Stuff. Please respect the original creators' guidelines regarding modification and sharing.

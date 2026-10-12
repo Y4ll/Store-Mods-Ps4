@@ -1,0 +1,83 @@
+Borderless Glass Resource Pack
+
+A clean, modern resource pack that removes visible seams and borders from glass textures to create smooth, uninterrupted windows and panes across builds. Designed for clarity and aesthetics while keeping performance lightweight ideal for builders, architects, and texture pack enthusiasts.
+
+What this pack does
+
+- Replaces all vanilla glass and pane textures with borderless, semi-transparent variants so windows appear as continuous sheets of glass rather than framed blocks.
+
+- Preserves vanilla color identity across all stained glass hues while removing the black/grey border lines.
+
+- Optimized textures (small file sizes) to minimize memory and framerate impact on both low- and mid-end devices.
+
+- Optional emissive glow for selected glass types (works on clients that support emissive maps).
+
+- Includes alternate texture set for thin frames (if you prefer subtle framing instead of fully borderless).
+
+Key Features
+
+- Seamless windows: No distracting frames perfect for modern builds and cinematic screenshots.
+
+- Full stained-glass support: All 16 vanilla stained glass colors updated consistently.
+
+- Performance-friendly: Designed to run smoothly on low-end and mid-range devices.
+
+- Multiple presets: Includes Borderless (default) and Slim Frame (subtle outline) variants.
+
+- Easy to use: Simple .mcpack installation with clean file structure.
+
+Compatibility
+
+- Made specifically for Minecraft Bedrock Edition.
+
+- Works with all latest versions and is backward compatible with recent releases.
+
+- Compatible with most texture packs (place this pack above others to ensure glass overrides).
+
+Installation
+
+- Download the .mcpack file.
+
+- Open the file to import it into Minecraft.
+
+- Activate the pack in Settings Global Resources or inside your world settings.
+
+- Move the pack to the top of the list for proper texture priority.
+
+Recommended Settings
+
+- Graphics: Fancy
+
+- Render Distance: Adjust based on device performance
+
+- Experimental Features: Not required
+
+Known Issues
+
+- Some texture packs that modify glass models may override this pack.
+
+- Very old versions of Bedrock may not support emissive textures properly.
+
+- If textures do not update, restart Minecraft or re-import the pack.
+
+Credits
+
+Made By: @NeqGamerz
+
+Edition: Bedrock Edition
+
+Redistribution: Strictly Prohibited
+
+Do not re-upload, redistribute, or modify and share this pack without explicit permission from the creator.
+
+Best Use Cases
+
+- Modern houses and skyscrapers
+
+- Greenhouses and glass domes
+
+- Aquariums and underwater builds
+
+- Clean UI-style or minimal builds
+
+Thank you for using Borderless Glass Resource Pack enjoy cleaner, seamless glass in your worlds!

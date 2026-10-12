@@ -1,0 +1,17 @@
+A backpack you actually wear. Carry one and it shows on your back, with the tools you are carrying strapped to it. Put it down and it becomes a real block you can open, break and take away again contents and all.
+
+What it does
+
+- 36 slots that travel with you. Place the backpack, aim at its upper half and open it. Break it and everything inside comes with it.
+
+- Every pack has its own storage. Two backpacks never share an inventory, even if you copy one in creative.
+
+- Your gear rides on the back. Sword, pickaxe, axe, bow, shield, torch, lantern, totem, potion, food and raw ores 40 pieces in all, every one drawn with Minecraft's own textures, in real 3D.
+
+- Water and lava tanks. Four buckets of each, filled and poured straight from the backpack menu.
+
+- 20 mob backpacks. Creeper, enderman, zombie, skeleton, spider, wolf, fox, cat, pig, cow, sheep, chicken, bee, blaze, ghast, slime, villager, iron golem, panda and axolotl each dyed in that mob's own colours, wearing that mob's own face, with ears, horns, wings, legs or tentacles of its own.
+
+- A screen themed to the bag you opened. Every backpack has its own container screen, mixed from the same colours the bag is dyed with, with that mob's face in the title bar.
+
+Crafting:

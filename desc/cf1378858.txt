@@ -1,0 +1,35 @@
+Recreates OptiFine's Better Grass (Fast mode) for Minecraft Bedrock no mods, no external assets required. Every listed block wraps its top texture seamlessly around all sides.
+
+Affected blocks
+
+- Grass block
+
+- Snowy grass block
+
+- Dirt path
+
+- Podzol
+
+- Mycelium
+
+- Warped nylium
+
+- Crimson nylium
+
+Subpacks choose your style
+
+- Default faithful biome tints, matches vanilla color grading
+
+- Bloomy vivid, saturated greens for a vibrant lush look, with a bright orange for Dappled Forests
+
+- Autumn warm golden-olive tones for a fall season aesthetic
+
+- Bare Bones Style flat grass in the trailer art style. Sides follow each biome's grass tint, so they always match the tops. Built to sit on top of Bare Bones-style packs, and works standalone too.
+
+Compatibility
+
+- No mods or external assets required
+
+- Stacks with other texture packs
+
+- Requires Minecraft Bedrock 1.16.0 or higher

@@ -1,0 +1,6 @@
+Ferous Lucky Block gives you 7 random items in each block.
+Not only that, to craft this block, you only need a Gold Block and a Crafting Block.
+So what you need to do is convert the Gold Block into a Lucky Block using the Crafting Block.
+
+Easy guide:
+Craft a Gold Block convert it into a Lucky Block using the Crafting Block.

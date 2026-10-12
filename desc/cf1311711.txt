@@ -1,0 +1,55 @@
+**Hexbyte PvB Intelligence Add-on**
+
+by Hexbyte
+
+This is not your ordinary Minecraft Bedrock add-on. The Hexbyte PvP Intelligence Add-on brings a powerful, custom-coded enemy NPC that behaves almost exactly like a real player. This mob doesnt just walk around it **fights, dodges, builds, aims, switches weapons**, and even **talks trash in chat** like a PvP veteran.
+
+Built for both **PvP training** and **survival challenge maps**, this AI enemy is equipped with advanced logic to respond dynamically to any situation. Whether youre battling it in the open field, underground, or underwater expect it to **chase you**, **use blocks**, **attack with perfect timing**, and even **climb up to reach you**.
+
+---
+
+**Key Features**
+
+*Advanced PvP AI:* It behaves like a skilled player dodging, blocking, and attacking.
+
+*Block Placer:* Can place dirt when Stuck
+
+*Dynamic Weapon Switching:* Switches between a diamond sword, bow, and pickaxe based on the situation (melee, ranged, or block-breaking).
+
+*4444-Block Detection:* Detects and follows players from far away.
+
+*Realistic Movement:* Walks, swims, climbs, and jumps automatically.
+
+*Chat Dialogues:* Sends randomized chat lines when attacking just like toxic PvP opponents.
+
+*Combat Intelligence:* It attacks players only, prioritizes its last attacker, and adapts when stuck.
+
+*Retreat Mode:* When HP is low, it flees and buffs itself with strength before re-engaging.
+
+*Addon Format:* Uses no command blocks 100% behavior pack and resource pack add-on.
+
+---
+
+**Requirements & Info**
+
+*Minecraft Bedrock version:* 1.21.72+
+
+*Experimental Toggles:* Most toggles should be ON for full behavior (Beta APIs, Molang Features, etc.)
+
+*Manifest UUIDs:* Unique to avoid duplication errors.
+
+*Comes with:* Behavior pack + resource pack + custom model + animation + voice sounds + AI logic
+
+---
+
+YouTube channel: https://youtu.be/iu1299eYnPM?si=mTbLmIq3rydHlGuW
+
+---
+
+**Created by Hexbyte**
+
+Feel free to review, record, or include this in your world just make sure to give proper credit. For updates, subscribe to the **Hexbyte YouTube channel**. More mobs, PvP bots, and features are coming soon!
+
+---
+
+Feedback is appreciated! Got bugs or suggestions? Message me or drop a comment. Enjoy and good luck PvP

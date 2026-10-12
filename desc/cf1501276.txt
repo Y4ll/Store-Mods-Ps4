@@ -1,0 +1,333 @@
+Languages
+
+English
+
+How to use
+
+Download the .mcpack file
+
+Tap or double-click it and Minecraft will open and import it automatically
+
+Wait for the "Successfully imported" message to appear
+
+Open Minecraft and go to Play
+
+Create a new world or edit an existing one
+
+Scroll down to Behavior Packs
+
+Find Choas+ and tap the + to activate it
+
+Launch your world!
+
+Every 10 seconds an event will happen
+
+Features
+
+CHAOS ADDON v1 - ALL 29 EVENTS
+
+ENTITY SPAWNING (11)
+
+1. Zombie Horde
+
+2. Creeper Rain
+
+3. Lightning Storm
+
+4. Phantom Swarm
+
+5. Piglin Raid
+
+6. Skeleton Army (with armor)
+
+7. Spider Army
+
+8. Chicken Swarm
+
+9. Charged Creeper
+
+10. Dragon Spawn
+
+11. Wither Spawn
+
+TELEPORTATION (3)
+
+12. Random Teleport
+
+13. Dimension Shift
+
+14. Player Swap
+
+STATUS EFFECTS (4)
+
+15. Random Effects (speed/slowness/nausea/jump/fatigue/blindness/levitation)
+
+16. Black Hole Gravity
+
+17. Time Freeze
+
+18. Curse (blindness + nausea)
+
+INVENTORY & ITEMS (4)
+
+19. Inventory Scramble
+
+20. Butterfingers (drop held item)
+
+21. Lucky Drop (diamonds/emeralds/gold)
+
+22. Random Items Rain
+
+ENVIRONMENTAL (2)
+
+23. Weather Chaos (thunderstorm/clear)
+
+24. Time Shift (day/night)
+
+UNIQUE & FUN (5)
+
+25. Paranoia (creeper hiss sound)
+
+26. Web Trap
+
+27. Anvil Threat
+
+28. TNT Surprise
+
+29. Health Chaos (random health changes)
+
+You are allowed to:
+
+- Showcase this addon WITH CREDITING
+
+- Use this addon in your worlds/servers/realms
+
+- Modify this addon (Without removing the credits)
+
+You are NOT allowed to:
+
+- Repost this addon to other sites (This includes apps)
+
+- Create your own download link
+
+- Claim this addon as your own
+
+Support
+
+If you had any problem with the addon you can join our discord server, Feel free to support me if you'd like!
+
+.mcpack
+
+" "
+
+Chaos+ +
+
+!
+
+10
+
+29
+
+(11)
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6. ()
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+(3)
+
+12.
+
+13.
+
+14.
+
+(4)
+
+15. ( / / / / / / )
+
+16.
+
+17.
+
+18. ( + )
+
+(4)
+
+19.
+
+20. ( )
+
+21. ( / / )
+
+22.
+
+(2)
+
+23. ( / )
+
+24. ( / )
+
+(5)
+
+25. ( )
+
+26.
+
+27.
+
+28. TNT
+
+29. ( )
+
+:
+
+-
+
+- / /
+
+- ( )
+
+:
+
+- ( )
+
+-
+
+-
+
+Portugues
+
+Como usar
+
+Baixe o arquivo .mcpack
+
+Toque ou clique duas vezes nele e o Minecraft abrira e o importara automaticamente
+
+Aguarde a mensagem "Importado com sucesso" aparecer
+
+Abra o Minecraft e va para Jogar
+
+Crie um novo mundo ou edite um existente
+
+Role para baixo ate Pacotes de Comportamento
+
+Encontre o Chaos+ e toque no + para ativa-lo
+
+Inicie o seu mundo!
+
+A cada 10 segundos um evento acontecera
+
+Recursos
+
+CHAOS ADDON v1 - TODOS OS 29 EVENTOS
+
+INVOCACAO DE ENTIDADES (11)
+
+1. Horda de Zumbis
+
+2. Chuva de Creepers
+
+3. Tempestade de Raios
+
+4. Enxame de Fantasmas
+
+5. Ataque de Piglins
+
+6. Exercito de Esqueletos (com armadura)
+
+7. Exercito de Aranhas
+
+8. Enxame de Galinhas
+
+9. Creeper Carregado
+
+10. Invocacao do Dragao
+
+11. Invocacao do Wither
+
+TELETRANSPORTE (3)
+
+12. Teletransporte Aleatorio
+
+13. Mudanca de Dimensao
+
+14. Troca de Jogadores
+
+EFEITOS DE STATUS (4)
+
+15. Efeitos Aleatorios (velocidade / lentidao / nausea / salto / fadiga / cegueira / levitacao)
+
+16. Gravidade do Buraco Negro
+
+17. Congelamento do Tempo
+
+18. Maldicao (cegueira + nausea)
+
+INVENTARIO E ITENS (4)
+
+19. Embaralhamento de Inventario
+
+20. Dedos de Manteiga (soltar item segurado)
+
+21. Drop Sortudo (diamantes / esmeraldas / ouro)
+
+22. Chuva de Itens Aleatorios
+
+AMBIENTAL (2)
+
+23. Caos Climatico (tempestade / ceu limpo)
+
+24. Mudanca de Tempo (dia / noite)
+
+UNICO E DIVERTIDO (5)
+
+25. Paranoia (som de chiado do Creeper)
+
+26. Armadilha de Teia
+
+27. Ameaca da Bigorna
+
+28. Surpresa de TNT
+
+29. Caos de Vida (mudancas aleatorias de vida)
+
+Voce tem permissao para:
+
+- Apresentar este addon COM CREDITOS
+
+- Usar este addon nos seus mundos / servidores / realms
+
+- Modificar este addon (Sem remover os creditos)
+
+Voce NAO tem permissao para:
+
+- Repostar este addon em outros sites (Incluindo aplicativos)
+
+- Criar seu proprio link de download
+
+- Reivindicar este addon como seu
+
+Suporte
+
+Se voce tiver algum problema com o addon, voce pode entrar no nosso servidor do Discord
+
+Fique 

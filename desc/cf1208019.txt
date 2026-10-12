@@ -1,0 +1,17 @@
+Balls Addon
+
+Created by Daniye
+
+Bring sports to Minecraft with the Balls add-on! This pack introduces realistic basketballs and soccer balls that you can dribble, kick, and shoot using simple mechanics. Play a quick soccer match with friends or set up a basketball court and sink some shots. Whether you're scoring goals or making three-pointers, this add-on adds a whole new way to play in Minecraft!
+
+Mechanics
+
+Crafting Recipe
+
+Note:
+
+- This add-on DOES NOT require experimental options.
+
+- Please DO NOT mix it with packs that use "player.json" to avoid errors.
+
+- Achievements Compatible

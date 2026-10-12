@@ -1,0 +1,43 @@
+F1 & F3 BUTTON
+
+This resource pack adds Java Edition-like F1 & F3 Buttons to Minecraft Bedrock / Pocket Edition.
+
+With F3, you can instantly view all important game information with a clean black background overlay for better readability.
+
+With F1, you can hide the entire HUD (hand, hotbar, chat, buttons, etc.) for a clean screen experience perfect for screenshots or cinematic gameplay.
+
+Both features are standalone and are also available in my NeBux UI Pack.
+
+Features:
+
+- Position (XYZ Coordinates)
+
+- Days Played
+
+- Inventory Counter (used/total slots)
+
+- Inventory Status (Available / Full)
+
+- Game Mode Info
+
+- Device & Input Status
+
+- UI Profile (Classic / Pocket)
+
+- Dimension Info (Overworld Nether conversion)
+
+- Chunk Position
+
+- XP Level Display
+
+- FPS Counter
+
+- Pack Information (Pack version, world details)
+
+- Toggle HUD (F1 Button) hide/show HUD instantly
+
+If you enjoy my packs and want to support my work
+
+Support Me on Ko-fi
+
+Your support means a lot thank you!

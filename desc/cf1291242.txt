@@ -1,0 +1,57 @@
+BEFORE YOU READ OR COMMENT
+
+yes, i know Minecraft Dungeons 2 is out. And yes, i will add stuff from it in due time. But i spent two months making this update, so let me take a bit of a break before working on the next one, kay?
+
+Alylica's Dungeons takes Items, Monsters and more from Minecraft Dungeons and adds it into the game in a Vanilla+ way, aiming to blend the two games into one!
+
+Alylica's Dungeons adds a load of new Monsters, Bosses and Items to the game, so if you like those things, this is the addon for you! Below will be more details on the contents of the addon
+
+The newest version includes 26 new Ancient Hunts! full scale dungeon crawler levels that you can play through, inspired by Minecraft Dungeons
+
+Alylica's Dungeons adds in over 40 new monsters, including 5 new minibosses, 26 powerful "ancient bosses" and 14 new bosses, all with exciting and action packed fights and rewarding loot!
+
+From variants of standard mobs such as Armored Pillagers and Frozen Zombies to brand new foes like Wraiths, Leapleaves and Enderlings that all populate different parts of your world
+
+Every mob has been carefully developed to create an enjoyable experience fighting them while keeping them unique from the vanilla game, such as how Wraiths can light you on fire from a distance, and how Vanguards are capable of using shields in combat
+
+Monsters will spawn throughout your world in different locations, thus helping them fit in with the already wide array of monsters in Minecraft, and making each area of the world a little unique!
+
+Additionally, most monsters have a chance to spawn as Enchanted mobs, with boosted stats and a special quirk to them, aswell as a bossbar atop the screen
+
+Most monsters from Minecraft Dungeons have already been implemented, and most ones that arent yet will be added in future versions!
+
+There are 5 brand new minibosses in the addon, additionally, certain vanilla mobs such as Evokers have been updated to miniboss status, with boosted stats and new healthbars
+
+Minibosses will all spawn in a different area of your world, and are characterised by having health bars on the screen, lots of health and powerful and unique attacks
+
+There is the powerful Redstone Golem, capable of dealing huge damagin and creating explosive mines
+
+The Wildfire who protects itself with powerful shields and shoots fireballs
+
+The Endersent which can teleport around and deal large damage
+
+The Drowned Necromancer, capable of pushing you away and summoning Undead
+
+The Illusioner, who will blind you and unleash a horde of clones
+
+Each of these mobs are very frightening but will come with powerful rewards and lots of exp if you can defeat them! Additionally, each fight is a fun and engagin challenge for one reason or another.
+
+There are 13 main bosses in the addon, as well as 6 enchanted versions of the endersent which work as bosses too, each boss has its own unique structure that it dwells within, and after the exhillerating fight, you can claim the rewards!
+
+I will go in detail on each boss and where they are found below
+
+Redstone Monstrosity
+
+The Redstone Monstrosity is possibly the most iconic boss in Minecraft Dungeons! It is found within a fiery forge, buried deep underground within the overworld; once you wake it up it will begin to attack you by smashing you with its heavy arms or hurling hot magma around itself, it can also summon miniature redstone cubes to distract you
+
+The Fiery forge spawns very deep underground, but if you find a small pillager camp, there is a high chance of a forge being underneath it!
+
+When you defeat the Redstone Monstrosity, it drops a key which can be used to unlock the forge's Diamond Chest
+
+Attacks
+
+Melee - The Redstone Monstrosity slams its arms against the ground, dealing large damage and knockback if your are in its way
+
+Projectile Blast - The Redstone Monstrosity spits out a barrage of explosive projectiles
+
+Lava Cracks - The Redstone Monstrosity causes lava eruptions across the arena that explode and d

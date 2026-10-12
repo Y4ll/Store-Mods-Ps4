@@ -1,0 +1,153 @@
+Everything related to vanilla "Copper" was removed, as they exist within Minecraft without the mod.
+
+Ores Trader model & texture improved
+
+All "BattleAxes" are back!!!
+
+All "Greats Axes" are back!!!
+
+"Hammers have new and improved code, are optimized, and can now be used in Creative.
+
+You can also disable their functionality if you find yourself sneaking, making them more interactive and avoiding issues."
+
+All "Greats Swords" are back!!!
+
+Blocks
+
+Blocks info:
+
+-----------------------------------------
+
+The Ores are generated from the s coordinates X=?, Y="-64","45" Z=?
+
+-----------------------------------------
+
+Entities
+
+Cavern Creeper
+
+This new creeper works the same as a vanilla one, only that it has a little more life and when it dies it can leave you different minerals, both vanilla and the addon
+
+Magma Zombie
+
+It is stronger and more resistant than a normal zombie, it lives in the depths of the caves and sometimes you can see it on the surfaces. Remember that you are afraid of water!
+
+Now the "Magma Zombie" will only appear in the Nether and can now be equipped with the new weapons and armor
+
+Ores Trader
+
+It is very useful if you want to get emeralds and you have a couple of minerals to spare in your chests!
+
+Hammers 3x3
+
+Hammer Table
+
+New Texture and UI
+
+Hammers
+
+To begin with, the addon adds a new crafting table with which we will make the hammers that the addon adds.
+
+What is achieved like this:
+
+Inside this you will find the crafting of all the things added by the addon except some things that I will show later
+
+Hammers 3x3
+
+Hammers function as combat weapons and mining tools
+
+To use the hammers is very easy you just have to break a block and the hammer will break it in 3x3. Each one has a different durability.
+
+Tools and Armors
+
+Vanilla
+
+Copper
+
+Added "Copper" equipment .
+
+Amethyst
+
+Added "Amethyst" equipment .
+
+Emerald
+
+Added "Emerald" equipment .
+
+Addon
+
+Minerals
+
+Silver
+
+Orichalcum
+
+This armor can shine in the night
+
+Titanium
+
+Aquarium
+
+Topaz
+
+A new mineral, its characteristics are similar to those of Bronze.
+
+New Tools
+
+Paladium
+
+A new mineral, its characteristics are similar to those of migtinio.
+
+Mithril
+
+A new mineral, its characteristics are similar to those of Migtinio.
+
+New Tools
+
+Platinum
+
+A new mineral, its characteristics are similar to those of Paladium.
+
+New Tools
+
+Adamantite
+
+A new mineral, its characteristics are similar to those of Cobalt.
+
+Tin
+
+Added "tin" weapons that are not very strong but serve to survive while you reinforce the rest.
+
+Tourmaline
+
+New mineral, has better characteristics than "Onyx".
+
+Armor
+
+Bronze
+
+Ruby
+
+Jade
+
+Onyx
+
+Cobalt
+
+Enderite
+
+Migtinio
+
+Paladium
+
+A new mineral, its characteristics are similar to those of migtinio.
+
+Generation
+
+Nether Ores
+
+Now some ores (for the moment) will appear in the Nether
+
+Overworld
+
+End

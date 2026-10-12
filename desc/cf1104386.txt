@@ -1,0 +1,36 @@
+Want to host a powerful and reliable Minecraft or Hytale server?
+Get started with Godlike click here
+
+This resource pack edits player animation for third person persective. Such That You can look around the player freely, which gives more dynamic look. usually when you move your point of direction in third person, the player's face also moves. But here the player remains still.
+
+The Most useful usecase of this, is to make thumbnails or other cover pictures out of your player. You can take screenshot of player with pack enabled, and it will look more cinematic. And it will feel that actually a third person has taken the player's screenshot.
+
+You don't have to do anything after activating it in resource packs. Once activated, Go to third person persection and try it out.
+
+Video Showcase
+
+GIF Preview (Item Trigger mode)
+
+Pack Settings - v2.3 or newer
+
+Camera Mode: Always Active | Item Trigger | Disabled
+
+Item Trigger (Aplicable in Item Trigger mode only): Stick | Compass | Spyglass
+
+Movement & Actions - Applicable in Always active and Item trigger mode, Not if disabled.
+
+Compatibility: It should work with every texture pack if not, then make sure Free look resource pack is at the top of any other resource pack. It doesn't require any additional resources or power from your computer to run. Your game will work just as how it used to work by default. Works On every device like android, ios and windows.
+
+1. You are allowed to make video on the addon but give credits in video description.
+2. You are allowed to use it in your project, but only with my permission. Discord username: grumm7613
+3. You are not allowed to publish the texture on any other website and claim it as yours.
+
+Join My Discord Server: https://discord.gg/Wvst4znsgk
+
+Download the New Bedrock Manager application to easily install and manage your minecraft addons, worlds and more!
+Download Now! (Windows only, android in future)
+
+Enjoy!
+
+Click the banner or [start here] to get going. Use code MODMCPE40 for 40% off!
+Curious what players think? Check out the community discussion on [Best Minecraft Server Hosting].

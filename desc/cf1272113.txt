@@ -1,0 +1,29 @@
+My Other Textures Packs:
+
+X Doesn't require any experimental features or anything like that
+
+Compatible with all vanilla mobs in the game
+
+Includes 3 different skins:
+
+( Classic Style 1 )
+
+The health bar as life decreases changes color from green to completely red
+
+______________
+
+( Style 2 )
+
+Passive and neutral mobs will have a green health bar.
+
+Enemies and potential dangerous mobs will have a red health bar.
+
+______________
+
+( Text Style % )
+
+It will show you the % of life of each vanilla mob in real time
+
+______________
+
+My Other Addons:

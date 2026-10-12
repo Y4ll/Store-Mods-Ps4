@@ -1,0 +1,5 @@
+You can break a whole gravel vein by breaking a block while sneaking.
+
+You can also destroy gravel columns if you break the block beneath them
+
+Now, when you break a suspicious grave block, you will get the block itself

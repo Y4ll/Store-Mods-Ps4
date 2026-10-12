@@ -1,0 +1,83 @@
+Welcome to a magic era, where a magic can you personalize as like you want. A Magic Way is an addons that have more that 100+ spells that you can use. You can customize your own spells book. This addons has a bunch of spell books type and casting weapons that you can create.
+
+THIS PACK REQUIRE:
+
+- UI Queue
+
+- Novelty API
+
+To start learning this addons you need to know this key items.
+
+Spells
+
+This addons has a bunch of spells that I cant show you one by one. These spells had categorized by element type and spells characteristic as an attributes. You can found spells in enchantment book group.
+
+Spell Book
+
+Not like spells, spells books are a book that contained by spells list that can added by yourself. Spell book has its own compatibilities with the spells attributes, so spell book only can contained by spells that has compatibility with spell book.
+
+Mage and Battlemage Armor Set
+
+Mage and Battlemage armor sets are brand new armor that can be reinforced with magic power, so they can increase your magic and defend yourself. These armor sets can be dyed in the cauldron.
+
+Casting Weapon
+
+Casting weapon are categorized by three type like wand, spellsword, and staff. Each type has its own characteristic.
+
+Wand
+
+Wand has more faster casting speed, so it very useful to use for mobility and close combat, but it will cost a lot of souls. This type are the only type that can use fast swap spells that can instant swapping spells prom one to other, not like other type that need swap one by one to change from one to other spells.
+
+Staff
+
+Not like Wand, Staff has more slower casting speed but had cheaper souls cost that make it will very useable for long ranged spells or spells that use a lot of souls.
+
+Spellsword
+
+Spellsword are casting weapon that had different function like those two types. It has average casting speed and souls cost. The different with those other is this type can contains its own spells, so it doesnt need spells book to run spells. So spellsword are like hybrid from casting weapon and spells book.
+
+Learning Station Table
+
+This blocks are the core to start into magic. This containing all magic scrolls available. You can unlock it by adding bookshelf at surrounding table like enchanting table. Maximal stack to get all spell recipes is 30 blocks.
+
+Spell binding table
+
+Spell binding table is a tool to attach spells into spells book. It has an indicator if a spells incompatible with spells book.
+
+Magic Reinforcement Table
+
+This block is a tool to upgrade spells book and adding magic attributes to an item using lapis lazuli.
+
+After you know that key items, I will show you how the basic of the mechanic in this addons.
+
+How to create spells book?
+
+First you need magic reinforcement table and then use book and quills to creating a spell book
+
+How to create spells?
+
+You need leaning station table and chose the spells that you want to create.
+
+But why are those spells are weak?
+
+You need to upgrade your equipment on magic reinforcement table accroding to your spell attributes.
+
+How to add spells on spells book?
+
+Use spell binding table and match it them. To add spells page using spell paper.
+
+How to perform a spell?
+
+Use a spell book that contains spells on offhand, and use casting weapon in mainhand like wand, spellsword, or staff. And then just use it as like you charging bow or trident, right click it (hold) and wait until casting bar are full. After performing a spell, use sneak to cancel spells if can be canceled or some spells need more interaction (like jumping, holding right click, or holding and dragging) to perform spells.
+
+But if you using spellsword you can just use it in mainhand without spell book on offhand.
+
+How to change spells?
+
+Use sneak and right click. Make sure you using spell book and casting weapon.
+
+If you using wand as casting weapon you can fast swap it by sneak, right click (hold) and drag your camera to change without traveling some list.
+
+About spells
+
+The quality of your spells are depends on your m

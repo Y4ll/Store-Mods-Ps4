@@ -1,0 +1,91 @@
+Raccoon Addon Natural & Fascinating Feline Behavior
+
+The Raccoon Addon introduces one of the most expressive, curious, and dynamic creatures ever added to Minecraft Bedrock.
+These raccoons behave with personality, instincts, and social intelligence interacting with players, the environment, and even other raccoons.
+Get ready to meet your new mischievous furry friend!
+
+Important Update
+
+Wild raccoons can steal items from nearby chests!
+Tame them to stop this behavior and turn them into loyal companions.
+
+Personalization: Name your raccoon to make it unique.
+
+New BiomeBased Textures: Raccoons now spawn in different colors depending on the biome gray, white, black, and brown.
+
+Showcase Video
+
+General Behaviors
+
+Item Collection
+
+Raccoons can pick up and equip items they find.
+Be careful if its edible, they might eat it!
+
+Mounting Behavior
+
+Baby raccoons ride on the back of nearby adults.
+When they grow up, they hop off and explore independently.
+
+Orchard Raider
+
+Raccoons love orchards and may steal crops like sweet berries.
+Protect your farms!
+
+Nighttime Activity
+
+Raccoons become more active at night, while during the day they may nap or seek shelter.
+
+Player Interaction
+
+Tamed raccoons follow you, sit on command, and even sleep beside you.
+The cutest part? When sleeping together, they may give you items as a sign of affection!
+
+Environmental Interactions
+
+Relaxed Postures
+
+Raccoons can randomly sit or lie down, adding realism and charm.
+
+Item Equipment
+
+They can carry certain items.
+Want them to drop it? Throw food on the ground theyll trade it!
+
+Skilled Hunter
+
+Raccoons hunt small animals like rabbits and chickens.
+After the hunt, they eat whatever the prey drops.
+
+Defense Behavior
+
+Tamed raccoons defend their trusted player from nearby threats.
+
+Life Cycle
+
+Breeding
+
+Feed raccoons sweet berries to breed them.
+Babies follow their parents and grow over time.
+
+Personality & Social Intelligence
+
+Taming
+
+Use sweet berries to tame a raccoon.
+Once tamed, they become affectionate and may offer gifts.
+
+Avoiding Enemies
+
+Raccoons avoid hostile mobs like wolves and polar bears, and stay cautious around untamed players.
+
+Defensive Attacks
+
+They may occasionally defend the player and engage in melee attacks.
+
+A More Lively World
+
+With all these behaviors, raccoons become one of the most complex and dynamic creatures in Minecraft Bedrock.
+They enrich exploration, survival, and roleplay with personality, intelligence, and adorable interactions.
+
+Dont miss out bring these charming raccoons into your world!

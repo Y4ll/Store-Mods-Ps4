@@ -1,0 +1,72 @@
+DESCRIPTION
+
+This is an official Bedrock edition, made by @PnTMC
+
+Original Java Mod by @DregIr
+
+Link Java Mod : https://www.curseforge.com/minecraft/mc-mods/evil-hunter
+
+CREDITS :
+
+- @vviabushka - Artist
+
+- @Danila_Podpivas - Contributor
+
+- @Dregir - Java Mod Owner
+
+- @PnTMC - Bedrock Addon Owner
+
+- This mod was commissioned by the YouTuber Vivilly
+
+NOTES :
+
+- This addon supports all languages to help you follow the storyline.
+
+- Neu ban la nguoi viet , su dung pack tieng viet cung voi addon nay se co the dich uoc nhe
+
+REQUIRED :
+
+- a MID-RANGE device or HIGHER to play it smoothly (LOW-END devices can play it but sometimes will laggy or crash the game)
+
+*If you find any bugs or missing features that aren't mentioned by PnTMC, please comment on the download page or provide feedback on PnTMC's social media pages so we can release updates sooner*
+
+Right now, the mod is intended to be experienced with its full storyline.
+But with enough support, future updates may include a config option to disable story events and play only the RPG side of the mod.
+
+Years ago , your son vanished
+
+He was a quiet, curious kid. He was really into occult stuff, old rituals, and symbols he'd copy them into notebooks with a weird exactness. Then he started building all that stuff in Minecraft. One evening, he went to his room to play. By the next morning, he was just gone.
+
+Time passed. You moved. You tried to forget.
+
+But then, while unpacking, you found an **old, unmarked hard drive** in a box you didn't even remember sealing. It only had one file on it: a Minecraft world. The last thing you had of him.
+
+So you loaded it.
+
+The second you got in, a book just showed up in your hands. No title, just some lines written in a handwriting you almost knew. These were strange words, not really like poetry, but more like instructions. Something was pulling you forward, deeper, away from where you started.
+
+You followed it.
+
+The world was empty and silent. Just grass, wind, and a real feeling of nothingness until you finally found it.
+
+A ritual circle, made from rough stone blocks. And right in the middle something that definitely didn't fit. A single block that had no name, no texture from any game version you'd ever seen. It pulsed really faintly, like someone holding their breath.
+
+It called out to you, even without making a sound.
+
+You reached out and touched it.
+
+Gameplay
+
+This mod is built in the vanilla Minecraft style and is designed to fit seamlessly into any modpack alongside other mods.
+
+It includes:
+
+- 13 unique events
+
+- New items and craftable weapons
+
+- A story with ending
+
+- A fullboss fight
+
+Good luck!

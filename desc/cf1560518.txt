@@ -1,0 +1,27 @@
+Minecraft, But Taking Damage Deletes the Chunk...
+
+In this Bedrock Edition challenge add-on, taking damage is no longer just a threat to your health; it threatens the world itself. Whenever a player takes damage, the chunk they are standing in enters a deletion sequence. After a short warning period, the entire chunk vanishes, leaving behind a massive void in the landscape.
+
+Simple tasks suddenly become high-risk decisions. A small fall, a skeleton arrow, a cactus prick, or an accidental mob hit can erase valuable builds, resources, and escape routes. As your adventure progresses, the Overworld transforms into a dangerous maze of missing terrain where one wrong step can send you falling into the abyss.
+
+The challenge scales naturally with your progress. Early-game survival becomes a test of careful movement, cave exploration becomes significantly more dangerous, and boss fights require strategic planning as the battlefield continuously disappears around you. Every encounter forces you to weigh risk versus reward.
+
+Designed for both singleplayer and multiplayer worlds, the add-on creates unique moments of chaos, tension, and creativity. Whether you're attempting to beat Minecraft, survive as long as possible, or challenge your friends, no two worlds will ever look the same once chunks start disappearing.
+
+Huge shoutout to AmbiguousChameleon for the original Java Edition concept that inspired this Bedrock adaptation.
+
+Features
+
+- Damage-triggered chunk deletion.
+
+- Visual countdown before chunks disappear.
+
+- Multiplayer compatible.
+
+- Works in new worlds.
+
+- Creates permanent world changes.
+
+- Perfect for challenge runs, videos, and survival chaos.
+
+Can you defeat the Ender Dragon before your world collapses beneath your feet? The less damage you take, the more world you'll have left to stand on.

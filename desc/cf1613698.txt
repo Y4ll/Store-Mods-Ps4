@@ -1,0 +1,54 @@
+Equinox RD
+
+Equinox RD is a balanced shader for Minecraft Bedrock Edition designed to enhance the game's visuals while maintaining smooth performance on a wide range of devices.
+
+Features
+
+- 1.16-style dynamic shadows
+
+- Volumetric clouds
+
+- Realistic water
+
+- ACES Filmic Tonemapping
+
+- Balanced visuals and performance
+
+- Highly optimized
+
+- Smooth day and night lighting
+
+- Beautiful sunrise and sunset colors
+
+Compatibility
+
+- Minecraft Bedrock Edition
+
+- Shader Editor App
+
+- Android compatible
+
+Installation
+
+- Download the shader.
+
+- Launch Minecraft Bedrock Edition (Using MB Loader or Any Mbl Launcher)
+
+- Enable the shader and Enjoy!
+
+Performance
+
+Equinox RD is designed to provide high-quality visuals while remaining lightweight enough for everyday gameplay on supported devices.
+
+Credits
+
+Developer: Emerald Guy
+
+Thank you for downloading Equinox RD. Feedback and suggestions are always welcome.
+
+Discord - https://discord.gg/M4WpadpUDM
+
+Warning
+
+You should never Re-Link or Publish this Shader as Your own
+Always Ask for permission To me (Emerald Guy). You will be not tolerated

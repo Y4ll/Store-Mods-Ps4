@@ -1,0 +1,141 @@
+Pokemon Expansion
+
+Bring a Pokemon-inspired creature capturing experience to Minecraft Bedrock Edition with Pokemon Expansion by FleetMc Studio. Capture your favorite mobs, carry them inside reusable Orbs, and release them whenever you need. Whether you're collecting rare creatures, transporting animals, or creating your own monster battles, this addon makes mob capturing simple, fun, and rewarding.
+
+Three different Orbs are included, each with its own capture power and supported mob types. Upgrade your Orbs through crafting and become the ultimate creature collector.
+
+Available Orbs
+
+- Capture Orb Captures passive mobs with a 92% success rate.
+
+- Hunter Orb Captures both passive and hostile mobs with a 90% success rate.
+
+- Elite Orb Captures almost every mob in Minecraft (except players) with a guaranteed 100% success rate.
+
+Crafting Recipes
+
+Capture Orb
+
+Hunter Orb
+
+Elite Orb
+
+How to Capture Mobs
+
+- Craft or obtain an empty Orb.
+
+- Hold the Orb in your hand.
+
+- Use or attack a supported mob.
+
+- If the capture succeeds, the mob is instantly stored inside the Orb.
+
+- Your empty Orb immediately becomes a Filled Orb.
+
+- If the capture fails, simply wait for the 3-second cooldown and try again.
+
+Cooldown System
+
+After every capture attempt, your Orb enters a short 3-second cooldown. During this time you'll see an "Orb Cooling Down..." message on your screen.
+
+Once the cooldown finishes, you'll receive an "Orb Ready!" message and can attempt another capture.
+
+Release Your Mobs Anytime
+
+Simply use a Filled Orb to release the captured mob a short distance in front of you.
+
+After releasing the creature, the Orb automatically becomes empty again and is ready to capture another mob.
+
+Mob Information is Saved
+
+Captured mobs keep important information while stored inside the Orb. Depending on the mob type, the addon saves:
+
+- Current Health
+
+- Maximum Health
+
+- Custom Name
+
+- Baby or Adult State
+
+- Tamed Status
+
+- Color
+
+- Variant
+
+- Mark Variant
+
+- Skin ID
+
+These details are displayed directly inside the Orb's tooltip (Lore).
+
+Features
+
+- Capture Minecraft mobs inside reusable Orbs.
+
+- Three unique Orbs with different capture abilities.
+
+- Capture passive, hostile, and almost every vanilla mob.
+
+- Elite Orb offers a guaranteed 100% capture chance.
+
+- Instant mob capture with particles and sound effects.
+
+- Release captured mobs anytime.
+
+- Automatically saves important mob information.
+
+- Reusable Orbs after every release.
+
+- Simple crafting progression from Capture Orb to Elite Orb.
+
+- Works in Multiplayer.
+
+- Achievement Friendly.
+
+- No Experimental Gameplay required.
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.21+
+
+- Stable Script API only.
+
+- No Experimental Toggles required.
+
+- Works in Survival and Creative.
+
+- Multiplayer Supported.
+
+- Achievement Friendly.
+
+Installation Guide
+
+- Download the addon.
+
+- Open it using ZArchiver or any file manager.
+
+- Select Open With Minecraft.
+
+- Wait for Minecraft to import both packs.
+
+- Enable both the Behavior Pack and Resource Pack.
+
+- Create or open your world and start capturing mobs.
+
+Official Trailer
+
+Watch the official trailer below to see the different Orbs, mob capturing mechanics, crafting recipes, and gameplay in action before you start your adventure.
+
+Collect creatures, transport animals safely, build your own collection, and enjoy an entirely new way to play Minecraft Bedrock with Pokemon Expansion.
+
+Created by FleetMc Studio
+
+Support FleetMc Studio
+
+If you enjoy my addons and would like to support future updates, consider supporting FleetMc Studio on Ko-fi. I'm currently saving for a new laptop so I can create bigger, higher-quality Minecraft Bedrock addons, maps, and texture packs with faster updates and even more exciting features. Every contribution helps bring future projects to life.
+
+Report a bug by clicking Here!
+
+Also, give your rating by scrolling down

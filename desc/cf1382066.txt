@@ -1,0 +1,37 @@
+BSLB Dreamy Visuals brings golden god rays cutting through the canopy, tuned skies from dawn to midnight, and air that changes with every biome you walk into.
+
+Features
+
+- Per-Biome Fog, Lighting & Colour Grading all 89 biomes
+
+- Volumetric God Rays with Time-Based Density
+
+- Dreamy Dawn-to-Midnight Skies
+
+- Dappled Forest amber haze and warm shafts through the autumn canopy
+
+- Cherry Grove soft rose-gold sun rays through the blossoms
+
+- Reworked Nether & End Biome by Biome
+
+- Deep Dark lit in Sculk Cyan
+
+- 101 Coloured Light Sources
+
+- Full PBR Textures (Default & 32x)
+
+- Vanilla or BSLB Clouds Your Choice
+
+- Compatible with other Packs
+
+Installation
+
+- Download BSLB Dreamy Visuals.mcpack
+
+- Open it to import
+
+- Enable BSLB Dreamy Visuals in your pack list
+
+- Turn on Vibrant Visuals
+
+- Optional: open the pack settings (gear icon) to pick your resolution and cloud style

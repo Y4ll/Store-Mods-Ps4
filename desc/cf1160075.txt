@@ -1,0 +1,25 @@
+A script that allows you to break all the logs of a tree in an instant. Works with any axe, even those from other addons, also with trees from other addons. Compatible with any addon/script.
+
+# How to use:
+
+To use the treecapitator correctly, just take any axe from the game or from another addon and break the first log from the base of the tree, and automatically all the logs of the tree will be broken.
+
+# Functionalities:
+
+The durability of the axe will be reduced for each log, that is felled to make the use of the treecapitator more fair. This will cause the durability of the ax to be reduced quickly, but you should not worry, the axe will not break since the treecapitator is deactivated. When it detects that the axe has low durability, you will also see a small message that will indicate it.
+The enchantment 'unbreaking' will also work on the treecapitator causing the axe's durability to reduce more slowly.
+By crouching, you will be able to deactivate the treecapitator at any time.
+
+# Demonstration:
+
+# How to install:
+
+- Download and install the behavior pack.
+
+- Activate the behavior pack in your world settings.
+
+# Info:
+
+- Effect99: Report bugs to my Discord.
+
+- Any suggestions to add in the addon are welcome as long as you send them to me on my Discord.

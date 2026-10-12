@@ -1,0 +1,29 @@
+RedstoneTech Shader is a technical shader designed for redstone contents, supporting Windows, Android, and iOS platforms, compatible with version 26.10 and above.
+
+This shader includes the following features:
+
+- Redstone signal strength display
+
+- Chunk border display
+
+- Block light level display
+
+- Mob spawnable light level indicators
+
+- Glowing ores
+
+- Water and lava fog removal
+
+- Global night vision
+
+These features can be freely configured through subpacks.
+
+How to use the shader:
+1. Keep the Redstone shader version consistent with the game version.
+2. Use LeviLauncher (Windows or Android) / mbl2 (Android) / HynisLoader (iOS) to load the resource pack, and switch to the subpack you would like.
+Or manually replace the relevant part of the original file renderer/materials/RenderChunk.material.bin.
+3. Enjoy the game :)
+
+Note: Due to differences in shader codesuch as lighting calculationsacross different game versions, please ensure that the resource pack version you download matches your Minecraft game version. If there is no change, try minimizing the game and then tapping back into it; if it turns into the void, it is because the shader and game version are inconsistent.
+
+Project address: https://github.com/Jumao15071/RedstoneTech-Shaders

@@ -1,0 +1,57 @@
+Description
+
+LOD Shaders for Minecraft Bedrock Mobile & PC, Could improve overall performance on higher render distance by lowering texture resolution and shading detail
+
+MB Loader/MC Patch required
+
+Original pack made by Aziangelo. Modified by SKT
+
+What is 'Level Of Detail'
+
+LOD was an rendering optimisation that reduce texture and models detail the farther away the object from player
+
+This feature been exist for a long time on Minecraft Java as a Mods provided by Distant Horizons & Voxy
+
+On this pack the texture will be lowered from 16 to 1 pixel resolution,and shading detail like Ambient occlusion (AO) and Side Block Shading will be disabled.
+
+This feature will reduces memory usage and improves overall rendering performance.
+
+Installation
+
+Android
+
+- Download and install MB Loader or MC Patch APP
+
+- Import the resource pack inside MBL/MCP
+
+- Activate resource pack in Minecraft global resource
+
+-
+
+Windows
+
+- Install BetterRenderDragon or MatJeck
+
+- Import the resource Pack
+
+- Activate resource pack in Minecraft global resource
+
+-
+
+Important
+
+Minecraft Bedrock are not officially support this type of modification so it won't work on Minecraft that Officially Released by Mojang. And 3rd party software needed to make it works
+
+Doesn't work with Vibrant Visuals
+
+SCRAPPED/DISCONTINUED
+
+Since i accidentally change my phone screen resolution to wrong size and need to fully wipe my phone data which results to deletion of all my project file since November 2025 and don't have any backup of it, so i decided to fully stop any update for this project
+
+For any futher update and support i recommend to use original version that made by Azify
+
+Thanks
+
+Ingame Screenshot
+
+Follow Me

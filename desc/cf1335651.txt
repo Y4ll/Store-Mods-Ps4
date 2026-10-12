@@ -1,0 +1,65 @@
+Warning: Most of the images shown are renders created in an external engine. They are meant to illustrate the appearance of each mob, but do not accurately represent how they appear in-game.
+
+Five Nights at Freddys: Fazbear Frights v1.5 Foundations Update
+
+Something has changed at Fazbears Frights...
+
+Five Nights at Freddys: Fazbear Frights brings the horror of FNaF into Minecraft Bedrock with hostile animatronics, mysterious structures and survival mechanics inspired by both the games and the Fazbear Frights books.
+
+Face creatures that do much more than decorate your world. They can explore their surroundings, hunt their targets and turn an ordinary night into a fight for survival. Explore abandoned locations, collect resources and discover mechanics based on Agony, Remnant, animatronic endoskeletons, weapons and pizza making.
+
+VERSION 1.5 FOUNDATIONS UPDATE
+
+Version 1.5 is a major refresh focused on improving the addons progression, accessibility and overall gameplay experience. This update provides a stronger foundation for both new players and the future content planned for version 2.0.
+
+WHATS NEW?
+
+New custom user interfaces.
+New recipe books that explain the addons crafting and progression.
+
+new custom user interface for pizza oven
+
+new custom user interface for kitchen table
+
+Two new crops: tomatoes and basil.
+
+tomatoes crop
+
+basil crop
+
+Rebalanced structure, chest and mob loot.
+Improved animatronic AI and behavior.
+General gameplay improvements, fixes and polishing.
+
+The new interfaces and recipe books make it easier to learn the addon without relying entirely on external guides. Tomatoes and basil also expand the farming and cooking systems, while the loot and AI changes create a more balanced and engaging survival experience.
+
+Version 1.5 is not the final destination. It is the foundation for the larger additions planned for version 2.0. Feedback from the community will be especially important during this stage, so please leave your suggestions, balancing ideas and bug reports in the comments.
+
+Can you survive what is waiting inside Fazbears Frights?
+
+Prepare to face unsettling creatures that not only decorate your world, but also come to life to stalk you around every corner. From the most iconic animatronics to those from lesser-known stories, each one has been carefully designed to convey the unnerving feeling that made the series famous.
+
+This add-on isn't just about seeing them, it's about experiencing them: survival, strategy, and courage will be your best allies if you want to stay safe.
+
+MOBS
+
+FNaF animatronics.
+
+The classic gang is neutral, so they won't attack you unless you provoke them. During the day, they'll be in Showtime mode, inactive and just on display.
+However, when night falls... they'll come to life.
+
+The Yellow Thing
+Inspired by both the story of Into the Pit and the game of the same name, this one is 100% hostile. If you're within its attack range, it won't hesitate to attack you. This spawns only in the ball pit, with a 25% chance every 5 minutes.
+
+Funtime Freddy
+Inspired by the story Count The Ways, this one as is, as if the story won't move, but if you approach it within a distance of 3 blocks at most, it will grab you and slowly kill you inside with no chance of escape.
+This one has a low chance of appearing in the Afton house.
+
+Fetch
+Inspired by the story of the same name, this calm little friend is neutral and won't attack you unless you do. Fetch can be tamed by the player, just like you can with redstone, but make sure you bring plenty, as it has a 15% chance of being tamed.
+
+Lonely Freddy
+Inspired by the story of the same name, this quiet little friend is neutral. He won't attack you unless you do. You can tame Lonely Freddy, just like with the redstone, but make sure you bring plenty, as he has a 15% chance of being tamed. He also has an extra feature: he can generate remnants every 30 to 45 minutes.
+
+Plushtrap Chaser
+Inspired by the story of Out of Stocks, he is 100% hostile. If you

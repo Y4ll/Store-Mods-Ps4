@@ -1,0 +1,35 @@
+Quality-of-Life "REVAMP" add-on. Overhauls the equipment by adding Unique Effects & Hidden Effects. Adds an Enchanting Guide with a summary of enchantments.
+
+Click on this Guide for more information!
+
+Feedback? Ideas? Visit this REVAMP Feedback forum thread on Planet Minecraft!
+
+Gameplay:
+
+- Tested for MINECRAFT v26.1
+
+- NOT tested on MINECRAFT Realms!
+
+- NOT tested on MINECRAFT Preview!
+
+- Intended to be compatible with other add-ons; expect errors if altering this content!
+
+- Does NOT use the "player" .json file!
+
+- Uses Script API, built with JavaScript files in the Behavior Pack.
+
+Terms of Use:
+
+- Do NOT falsely claim to be original creator!
+
+- MUST provide credit using link (MCPEDL page) IF reviewing OR uploading "REVAMP" add-on(s) content!
+
+CC BY-NC-SA 4.0
+
+Installation:
+
+- Click on the "v5.2.11_combatRevamp" .mcaddon file to install both Resource & Behavior Packs!
+
+- Delete the older version before installing this pack.
+
+- ACTIVATE both Resource & Behavior Packs!

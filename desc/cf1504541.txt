@@ -1,0 +1,40 @@
+NEWBX SBN V3
+
+This shader, created by SETBr0ken (SetDelta), is for Minecraft Bedrock Edition and uses BetterRedDragon or MB Loader.
+
+This shader adds warm, saturated lighting during the day, a dark, bluish night at night, and in the End, a reflection on the ground and a black hole that contrasts well with the environment.
+
+This is version V3 of these shaders.
+
+Available for:
+Android, Windows, iOS
+
+follow me on youtube:https://www.youtube.com/@SetBr0ken5702
+
+donations: https://paypal.me/albert1906s
+
+Adds:
+
+- Glowing ores,
+Glowing mods (eyes),
+Bloom particles on torches and mods,
+
+- Bloom effect on the sun and moon,
+
+- new texture on torches
+
+And the best part:
+An ending with ground reflection and purple areas, and a black hole that gives you a Java experience.
+
+Available for:
+Android, Windows, iOS
+
+follow me on youtube:https://www.youtube.com/@SetBr0ken5702
+
+day
+
+NIGHT
+
+END
+
+ores

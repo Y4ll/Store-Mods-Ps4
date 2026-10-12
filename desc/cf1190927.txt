@@ -1,0 +1,41 @@
+Thanks for coming to check out Miners Odyssey, an Addon that adds in tons of new ores/gems along with some new armor/weapon sets.
+
+This Addon requires Upcoming Creator Features to be enabled.
+
+If you find any bugs/issues with the Addon, please send me a DM @diamondruler.
+
+You can also join my discord server if you have any comments/suggestions, or if you'd like to get updates/sneak peeks https://discord.gg/FeVsGXHxPg
+
+Below are pictures of all the items/blocks/armors in the game. There are 5 armor sets; Tin, Titanium, Platinum, Tungsten, and lastly Enderite.
+
+There are also two crowns called the Golden Ruby Crown, and Golden Topaz Crown. The crowns and enderite armor have buffs, and while the tungsten armor has buffs, it has a debuff which makes you slower, as in real life tungsten is one of the densest materials.
+
+For all the armor sets mentioned, there are also tool sets, however there are two special weapons, the Tungsten Hammer and the punisher. The tungsten hammer gives you the debuff of slowness, but in return does lots of damage. The punisher on right click gives you the resistance buff, however it has a cooldown and takes 15 durability each time.
+
+Lastly is the general materials that you use to craft the tools, armors, and some of the blocks.
+
+This Addon supports 10+ languages
+
+Installation:
+
+PC/Mobile Device: Download the MC Addon file to have it instantly load into game.
+
+Xbox/PS/Switch: Create a world on your PC/Mobile device with the Add-On on the world. From there, have your Console account join it.
+
+Notes for creators:
+
+Not allowed to steal/claim any assets of this Addon to be your own
+
+If you use huge chunks of the code from this Addon for whatever reason, please credit back to this page
+
+Do not post this Addon onto any other site
+
+Credits:
+
+athanhthewindowbooker - Artist/Modeler, huge help in testing
+
+fluffyalien - Huge help in the creation of this script, huge help in testing
+
+elektrika - Helped test this Addon in the early stages
+
+iemotionless - Gave suggestions & ideas on how to improve the Addon, especially in the early stages. Also helped test this Addon in the early stages

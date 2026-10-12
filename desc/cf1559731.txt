@@ -1,0 +1,69 @@
+Update 2.0
+
+Add botton skill
+
+If you want the button, install this addon to get the look shown in the image:
+
+https://www.curseforge.com/minecraft-bedrock/addons/button-skill
+
+Wield the legendary blade of Vergil the Yamato.
+A katana forged from pure demon steel, capable of cutting through the boundary between the human world and the demon world itself.
+
+This addon adds the Yamato Katana (ytaun:yamato_katana) to Minecraft Bedrock Edition, bringing DMC3-inspired combat mechanics powered by the Script API.
+
+THE BLADE
+
+The Yamato is not just a weapon it is an extension of will.
+Every swing, every technique, every movement echoes the cold precision of Sparda's son.
+
+Item ID: ytaun:yamato_katana
+Requires: Behavior Pack + Resource Pack
+
+SKILLS
+
+YAMATO BARRIER Passive
+"A warrior of my caliber does not fall so easily."
+When struck, the Yamato's barrier absorbs 60% of incoming damage and restores health equal to the absorbed amount. Has a 15-second cooldown. A ring of spectral particles erupts on activation.
+
+JUDGMENT CUT Sneak + Attack
+"Jackpot."
+Queue a Judgment Cut by pressing Sneak, then swing your blade. A phantom slash erupts forward in a 66 cone slicing through all enemies within 8 blocks for 18 damage. Enhanced during Devil Trigger.
+
+DOPPELGANGER Sneak + Use (Right-Click)
+"Your motivation is admirable... but misguided."
+Summon a phantom shadow of yourself. Every attack deals an additional 50% bonus damage from your spectral clone. Grants Speed III + Glowing for 5 seconds. 10-second cooldown.
+
+DEVIL TRIGGER Sneak + Jump
+"Might controls everything. And without strength, you cannot protect anything."
+Unleash Vergil's true demonic power. Grants Strength IV, Resistance II, Speed II, and Regeneration II for 10 seconds. Every hit deals +8 bonus damage. A spiral of violet energy surrounds you on activation. 30-second cooldown.
+
+HUD
+
+A real-time action bar HUD appears while holding the Yamato, displaying cooldown progress bars for all 4 abilities with live countdowns (in seconds).
+
+REQUIREMENTS
+
+Minecraft Bedrock Edition 1.21+
+Experimental: Beta APIs enabled
+Script API module: @minecraft/server
+Both Behavior Pack AND Resource Pack required
+
+INSTALLATION
+
+1. Download the .mcaddon file
+2. Open with Minecraft both packs will import automatically
+3. Create or load a world
+4. Enable "Beta APIs" under Experiments
+5. Apply both packs
+6. Craft or obtain the Yamato Katana (ytaun:yamato_katana)
+7. Hold it and master the art of the blade
+
+AUTHOR
+
+Author : YTAUN
+Platform : CurseForge
+Zalo : +84 394 798 144
+Email : letu157751157@gmail.com
+
+"I need more power."
+Vergil, Devil May Cry 3

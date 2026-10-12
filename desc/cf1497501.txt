@@ -1,0 +1,15 @@
+A&S Tools
+
+This texture pack refreshes the tool designs in Minecraft Bedrock while maintaining the standard 16x resolution. The goal is to provide a more detailed and polished look while preserving the game's original Vanilla aesthetic.
+
+Compatibility
+
+This pack is fully compatible with the Actions & Stuff addon in its Vanilla version, ensuring that the textures align perfectly with the animations without any visual glitches.
+
+Installation
+
+Download the .mcpack file.
+
+Open the file to automatically import it into Minecraft.
+
+Activate the pack under Settings > Global Resources.

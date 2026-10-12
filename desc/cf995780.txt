@@ -1,0 +1,179 @@
+Torch OffHand V4.0
+
+Achievements Friendly No Experimental Features No player.json
+
+Realms Multiplayer Compatible with other Add-ons Action & Stuff Compatible
+
+Official Page Discord Server
+
+Torch OffHand
+
+Carry your light wherever you go.
+
+Torch OffHand adds portable lighting to Minecraft Bedrock. Supported light sources can illuminate around you while you explore caves, travel at night, mine underground or walk through dark areas.
+
+You can use lighting from your main hand, offhand, and supported portable light items. The addon is simple to use by default, but it also includes a full configuration book if you want more control.
+
+Main Features
+
+- Dynamic lighting from supported light sources
+
+- Main Hand lighting
+
+- Offhand lighting
+
+- Per-player configuration
+
+- World/Admin settings
+
+- Auto Refill Offhand
+
+- Place torches directly from the offhand
+
+- Light priority options
+
+- Low, Medium and High distance presets
+
+- Custom light distance per light source
+
+- Performance, Balanced and Maximum Lighting presets
+
+- Torch Config Book
+
+- Optional item lore
+
+- Sea Pickle underwater lighting
+
+- Copper Torch support
+
+- English, Spanish Spain and Spanish Mexico translations
+
+- Realms and multiplayer support
+
+- Action & Stuff compatible
+
+- No Experimental Features
+
+- No player.json
+
+- Achievements Friendly
+
+Latest Update V4.0
+
+This update improves the configuration system and makes Torch OffHand better for Realms and multiplayer worlds.
+
+Main changes
+
+- Added World / Admin Settings
+
+- Added Auto Refill Offhand
+
+- Added Performance / Balanced / Maximum Lighting presets
+
+- Added personal reset option
+
+- Added default preset for new players
+
+- Added world limit for maximum allowed light distance
+
+- Added world option to allow or block custom distance
+
+- Added world option to allow or block offhand torch placement
+
+- Added world option to allow or block Auto Refill
+
+- Improved current status display inside the config book
+
+- Improved UI colors and menu organization
+
+- Updated translations for English, Spanish Spain and Spanish Mexico
+
+- Updated to newer Minecraft Bedrock versions
+
+Torch Config Book
+
+Every player receives the Torch Config Book when entering the world for the first time.
+
+The book lets each player change their own Torch OffHand settings without affecting everyone else.
+
+The main menu includes:
+
+- General Settings
+
+- Light Sources
+
+- Light Distance
+
+- Presets & Reset
+
+- World / Admin Settings, only for admins/operators
+
+Settings are saved per player, which makes the addon much better for Realms or multiplayer worlds.
+
+Personal Settings
+
+Each player can configure their own lighting.
+
+Personal settings include:
+
+- Move Light to Offhand
+
+- Light Priority
+
+- Main Hand Lighting
+
+- Offhand Lighting
+
+- Place Torch from Offhand
+
+- Auto Refill Offhand
+
+- Only in Survival
+
+- Holding Sound
+
+- Show Lighting Lore
+
+- Show Status Messages
+
+This means one player can use full dynamic lighting while another player can keep a simpler setup.
+
+World / Admin Settings
+
+World settings are for the host, operators or players with the admin tag.
+
+These settings control what is allowed in the entire world.
+
+Admins can configure:
+
+- Enable Dynamic Lighting
+
+- Maximum Allowed Distance
+
+- Allow Custom Distance
+
+- Allow Offhand Torch Placement
+
+- Allow Auto Refill
+
+- Default Preset for New Players
+
+This is useful if you run a Realm or multiplayer world and want to keep performance under control.
+
+For example, you can let players use Torch OffHand, but limit the maximum distance or disable Auto Refill for the world.
+
+Auto Refill Offhand
+
+Auto Refill is one of the most useful additions in V4.
+
+When your offhand light item is used or runs out, the addon can automatically refill your offhand with the same supported light source from your inventory.
+
+This is especially useful when placing torches from the offhand while mining or exploring.
+
+Auto Refill can be:
+
+- Enabled or disabled by each player
+
+- Allowed or blocked globally by the world admin
+
+If your offhand is

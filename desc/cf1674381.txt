@@ -1,0 +1,236 @@
+YGP! True Offhand Functionality
+
+TRUE OFFHAND. TRUE POWER.
+
+YGP! True Offhand Functionality brings a more powerful and flexible offhand experience to Minecraft Bedrock Edition.
+
+Use Minecraft's real offhand equipment slot, quickly swap items between hands, carry supported items, use offhand Wind Charges, and boost while Elytra flying with Firework Rockets in your offhand.
+
+Created by YGP Studio / YGP Minecraft.
+
+FEATURES
+
+Real Offhand
+
+This addon uses Minecraft Bedrock's actual offhand equipment slot.
+
+It is not a fake inventory slot or visual-only system.
+
+Put supported items into your offhand and use the addon systems to manage them.
+
+Quick Hand Swap
+
+Quickly swap your selected hotbar item with your offhand item.
+
+Double Sneak / Crouch quickly Swap hands
+
+You can also use:
+
+/scriptevent ygp:swap
+
+The swap system works with swords, tools, food, fireworks, Wind Charges, torches, and many other supported items.
+
+Expanded 1.21 Item Support
+
+The v2.0.x update expands support for modern Minecraft Bedrock items.
+
+Support includes items such as:
+
+Swords
+
+Tools
+
+Shields
+
+Bows
+
+Crossbows
+
+Tridents
+
+Food
+
+Buckets
+
+Fishing Rods
+
+Shears
+
+Utility items
+
+Firework Rockets
+
+Wind Charges
+
+Mace
+
+Trial Key
+
+Ominous Trial Key
+
+Other supported 1.21-era items
+
+The addon focuses on safely placing supported items into the real offhand slot.
+
+ELYTRA + OFFHAND FIREWORKS
+
+Java-Inspired Firework Boosting
+
+Fly with your Elytra while keeping Firework Rockets in your offhand.
+
+You do not need to manually move the rocket into your main hand for the addon-supported boost system.
+
+Survival How-To
+
+-
+Wear an Elytra.
+
+-
+Put Firework Rockets in your offhand.
+
+-
+Press jump two times.
+
+-
+Look up.
+
+-
+Press jump again to fly/boost.
+
+-
+You must already be gliding for the boost.
+
+One activation = one Firework Rocket used.
+
+This provides a Java-inspired offhand Firework experience using Bedrock-compatible functionality.
+
+OFFHAND WIND CHARGE
+
+Use Wind Charges from your offhand.
+
+Put a Wind Charge into your offhand and activate the offhand-use system.
+
+One activation one Wind Charge thrown one charge consumed.
+
+You can also use:
+
+/scriptevent ygp:use
+
+The system is designed to prevent accidental repeated use or infinite consumption.
+
+DYNAMIC OFFHAND LIGHTING
+
+Carry supported light-emitting items in your offhand and get a Java-inspired handheld-light experience on Bedrock.
+
+Supported light sources include:
+
+Torch
+
+Soul Torch
+
+Lantern
+
+Soul Lantern
+
+The moving light follows the player while the supported light item remains in the offhand.
+
+When the item is removed, the extra light is stopped.
+
+Bedrock does not provide exactly the same dynamic-light system as Java Edition. YGP uses Bedrock-compatible functionality to provide the closest reliable experience.
+
+HOW TO USE
+
+Method 1 Double Sneak
+
+-
+Enter your Minecraft world.
+
+-
+Put an item in your selected hotbar slot.
+
+-
+Put a supported item in your offhand.
+
+-
+Quickly double-sneak / crouch.
+
+-
+Your selected item and offhand item swap.
+
+Method 2 Script Event
+
+Use:
+
+/scriptevent ygp:swap
+
+Wind Charge
+
+Put a Wind Charge in your offhand.
+
+Then activate the offhand-use system or use:
+
+/scriptevent ygp:use
+
+Elytra + Firework
+
+Wear Elytra put Firework Rockets in offhand start gliding activate the Firework boost.
+
+CHECK YOUR HANDS
+
+Check what the addon currently detects:
+
+/scriptevent ygp:status
+
+The status system can show information such as:
+
+Main-hand item
+
+Offhand item
+
+Handheld light
+
+Elytra state
+
+YGP HELP
+
+Get the latest short instructions with:
+
+/scriptevent ygp:help
+
+The help system includes information about:
+
+Hand swapping
+
+Offhand items
+
+Elytra + Firework
+
+Wind Charge
+
+Offhand lighting
+
+Available commands
+
+MINECRAFT BEDROCK
+
+Designed specifically for Minecraft Bedrock Edition.
+
+Real offhand equipment slot
+
+Expanded 1.21 item support
+
+Double-sneak hand swapping
+
+Offhand Firework Elytra boosting
+
+Offhand Wind Charge throwing
+
+Dynamic handheld lighting
+
+Survival friendly
+
+Multiplayer oriented
+
+Mobile friendly
+
+Lightweight S

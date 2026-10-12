@@ -1,0 +1,54 @@
+Mel's Ore Pulse
+
+A high-performance Vein Miner addon.
+
+Achievement-friendly
+
+No experiments required
+
+In-Game Settings
+
+Command:
+
+/mop
+
+Supports English and Thai
+
+Operators can adjust server-wide options Drop Merging, Diagonal Mining, Durability Loss, and Max Blocks Per Vein or disable the addon entirely.
+
+Every player can toggle Require Sneaking to suit their playstyle.
+
+Add-on Compatibility
+
+Works with custom pickaxes and ores from other add-ons
+even across different add-ons, so a pickaxe from one add-on works correctly with ores from another, including tier requirements.
+
+(Requires that each add-on defines its items correctly)
+
+Drop Merging
+
+All drops and XP collect at the first broken block.
+
+Drop Merging OFF
+
+Drop Merging ON
+
+Diagonal Mining
+
+Vein detection works in all directions including diagonals.
+
+The entire connected ore vein gets mined, no matter how it twists.
+
+Diagonal Mining OFF
+
+Diagonal Mining ON
+
+Enchantments
+
+Fortune, Silk Touch, and Unbreaking all work exactly as expected.
+
+Thank You
+
+Thank you for downloading.
+
+Feel free to let me know if you have any feedback.

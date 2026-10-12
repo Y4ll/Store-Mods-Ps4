@@ -1,0 +1,107 @@
+Author: Baku_Studio
+
+BK Shader is an original Minecraft Bedrock Edition resource pack built for the official Vibrant Visuals graphics mode. It delivers a clean, premium cinematic look with natural lighting, rich greens, soft atmospheric depth and beautiful day-to-night transitions while fully preserving Minecrafts classic block style.
+
+Pack Information
+
+- Pack Name: BK Shader
+
+- Author: Baku_Studio
+
+- Type: Vibrant Visuals / PBR Resource Pack
+
+- Supported Versions: Minecraft Bedrock & Pocket Edition 1.21.120 and newer (1.21 1.26 generation)
+
+- Required Mode: Vibrant Visuals
+
+- Platforms: Android, iOS, Windows, Xbox, PlayStation (devices that support Vibrant Visuals)
+
+Visual Style
+
+The pack focuses on a clean, polished and immersive atmosphere. Expect bright natural daylight, warm golden sunsets, readable midnight with cool blue ambient light, rich emerald green vegetation, soft shadows and clear cyan-blue water. The overall mood feels premium and cinematic while still looking unmistakably like Minecraft.
+
+Features
+
+Lighting
+
+- Clean bright directional sunlight
+
+- Soft golden-hour transitions
+
+- Balanced ambient fill
+
+- Readable shadows that never go pure black
+
+Atmosphere
+
+- Soft layered distance haze
+
+- Warm golden horizon at sunset
+
+- Cool readable nighttime atmosphere
+
+- Smooth day sunset night transitions
+
+Color Grading
+
+- Rich natural emerald green vegetation
+
+- Clean cinematic tone
+
+- Soft shadow lift
+
+- Controlled highlight compression
+
+- Filmic tone mapping
+
+Water
+
+- Clear cyan-blue appearance
+
+- Soft sky and environment reflections
+
+- Gentle surface waves
+
+- Depth-based coloration
+
+Shadows & Materials
+
+- Soft natural shadows
+
+- Readable detail in shaded areas
+
+- Default PBR material response
+
+- Original Minecraft textures and geometry fully preserved
+
+Installation
+
+- Import the .mcpack file
+
+- Activate BK Shader in Resource Packs (place near the top)
+
+- Go to Settings Video Graphics Mode Vibrant Visuals
+
+- Enter any world
+
+Performance
+
+Lightweight configuration-only pack. Runs well on mobile and higher-end devices that support Vibrant Visuals.
+
+Credits
+
+Created by Baku_Studio.
+Original implementation inspired by the visual characteristics of the reference screenshots.
+No proprietary shader source was used or copied.
+
+Notes
+
+- Requires Vibrant Visuals to be enabled
+
+- Fully original resource pack
+
+- Safe for multiplayer and Realms
+
+- No external dependencies
+
+- Compatible with 1.21.120 through 1.26 generation

@@ -1,0 +1,51 @@
+This resource pack hides all touch buttons (such as D-pad, joystick, chat, emote, menu, jump, crouch, atack, interact......,etc.)
+
+If you don't like, how touch button reduce your visibility in Minecraft PE, then this pack is for you
+
+- You can use this pack is servers, SMP's
+
+- Works with other packs
+
+- Survival world friendly (it's an RP)
+
+- Hides every single touch button
+
+- Has setting options for customisation
+
+Why you use this pack in 1.20+ ?
+
+As you know, that we can Customise touch controls in 1.20, but in that way we cannot make buttons 100% transparent, and it only works for few buttons, that's why you should use this pack even in 1.20+, because this pack makes all buttons transparent (such as chat, emote & menu buttons)
+
+Note:-This pack only makes buttons transparent, which means all buttons will perfectly work and you can use them normally.
+
+Preview of pack
+
+- With Pack (Default Settings)
+
+- [Every Touch Button Transparent]
+
+Touch control 1
+
+Touch control 2
+
+Touch control 3
+
+- With Pack (Second setting)
+
+- [Emote, Chat & Menu Buttons Visible]
+
+Touch control 1
+
+Touch control 2
+
+Touch control 3
+
+Download & Support Me!
+
+Direct download is available but if you want to support me, you can download from here:
+
+Download & Support Me
+
+Feel free to directly download, but if you like it feel free to donate & support me:
+
+Donate Here

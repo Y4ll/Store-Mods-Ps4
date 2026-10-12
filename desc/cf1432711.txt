@@ -1,0 +1,9 @@
+(no player.json)
+(no experimental)
+(join discord for feedback)
+
+Disclaimer: the images used are only to give a visualization of what it feels like to use this add-on.
+
+What does this add-on do?
+Shadow Vein Miner lets you mine ores faster.
+Just break one ore, and the others will break instantly.

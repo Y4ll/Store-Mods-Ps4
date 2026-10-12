@@ -1,0 +1,205 @@
+POKEFUN BEGINNER'S GUIDE ADDON POKEMON MULTIPLAYER FOR BEDROCK
+
+Minecraft Bedrock Pokemon Multiplayer Beginner Guide
+
+WHAT IS POKEFUN BEGINNER'S GUIDE?
+
+POKEFUN Beginner's Guide is a community-focused guide addon for Minecraft Bedrock players who want to learn how to get started with a Pokemon multiplayer survival experience.
+
+The guide provides information about important gameplay systems, server features, Pokemon-related mechanics, multiplayer activities and useful commands.
+
+This project is designed to make it easier for new players to understand the available features and begin playing without needing to learn everything at once.
+
+FEATURES
+
+- Beginner-friendly Pokemon multiplayer information
+
+- Backpack guide
+
+- Poke Ball information
+
+- Pokedex information
+
+- Battle and Gym information
+
+- Economy and trading information
+
+- Custom cities and locations
+
+- Events and community information
+
+- Server joining information
+
+- Connection troubleshooting
+
+- World exploration information
+
+- Lightweight Bedrock-focused design
+
+BEGINNER'S GUIDE
+
+New to POKEFUN? The following sections explain some of the most important systems available to players.
+
+Ender Eye Main Menu
+
+The Ender Eye can be used as the main server menu.
+
+- Shop
+
+- Warps
+
+- Home
+
+- Jobs
+
+- Other server features
+
+/kit
+
+Use /kit to view and claim available kits.
+
+/gts
+
+Use /gts to sell items to other players through the global marketplace.
+
+Protection Stones
+
+Protection Stones can be used to claim and protect land.
+
+Protection Stones can be obtained through available kits.
+
+IMPORTANT GAMEPLAY FEATURES
+
+BACKPACKS
+
+Backpacks provide additional storage and allow players to carry more items during their adventures.
+
+POKE BALLS
+
+Poke Balls are used to capture Pokemon and build your team.
+
+POKEDEX
+
+The Pokedex provides useful Pokemon-related information.
+
+Depending on the available server features, players can use the Pokedex to:
+
+- Learn about Pokemon
+
+- Access Pokemon-related battle information
+
+- Find trainers
+
+- Explore the world
+
+- Discover Pokemon information
+
+- Discover useful locations
+
+There is always more to discover!
+
+BATTLES & GYMS
+
+Train your Pokemon and test your team through different types of battles and challenges.
+
+- Battle Pokemon
+
+- Battle NPC trainers
+
+- Battle other players
+
+- Challenge Gyms
+
+- Earn PokeCoins
+
+- Work towards becoming a Pokemon Master
+
+Train your team. Earn victories. Become a Pokemon Master.
+
+EXPLORE THE POKEFUN WORLD
+
+Explore custom-built environments, cities, Gyms, landmarks and Pokemon-themed locations throughout the multiplayer world.
+
+Discover new locations. Build your team. Create your own adventure.
+
+CUSTOM CITIES & LOCATIONS
+
+The world contains custom-built areas designed around multiplayer Pokemon gameplay.
+
+Players can explore cities, landmarks, Gyms and other adventure locations while progressing through the world.
+
+MULTIPLAYER GAMEPLAY
+
+POKEFUN is designed around multiplayer gameplay and interaction between trainers.
+
+- Play with other trainers
+
+- Battle other players
+
+- Trade Pokemon and items
+
+- Participate in the economy
+
+- Compete with the community
+
+- Participate in server events
+
+- Explore the world together
+
+- Team up with other trainers
+
+ECONOMY & PLAYER SHOPS
+
+The economy provides ways for players to buy, sell and trade items and Pokemon.
+
+- Server economy
+
+- Player shops
+
+- Pokemon trading
+
+- Item transactions
+
+- Community marketplace features
+
+- Earn PokeCoins through gameplay
+
+EVENTS & COMMUNITY
+
+Players can participate in community activities and server events.
+
+- Community events
+
+- Tournaments
+
+- Giveaways
+
+- Battles
+
+- Community activities
+
+- Server announcements
+
+SEE POKEFUN IN ACTION
+
+See the Pokemon multiplayer world in action.
+
+POKEFUN VISUAL EXPERIENCE
+
+Explore. Battle. Discover.
+
+HOW TO JOIN POKEFUN
+
+Open Minecraft Bedrock Edition and follow these steps:
+
+- Open Minecraft Bedrock Edition
+
+- Select Play
+
+- Open the Servers tab
+
+- Select Add Server
+
+- Enter mcpe.pokefun.in as the server address
+
+- Enter 19132

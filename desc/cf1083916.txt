@@ -1,0 +1,18 @@
+Website: https://www.shivamzter.com
+
+What is Roundista?
+
+Roundista is a Hand-Painted Work-in-progress Vibrant Visuals & RTX compliant resource pack for Minecraft Bedrock Edition that changes the Pixel-Art style of Minecraft and makes it rounded.
+
+The resource pack is also available with a lot more textures for Minecraft Java Edition, The Bedrock Edition version is in very early state and does not have many textures as I'm starting to make the resource pack from scratch to follow the Vibrant Visuals & RTX format without doing any conversions from Java Edition version.
+
+256x of the resource pack version is available on Patreon and Gumroad.
+
+How do I install?
+
+Just double-click the downloaded {resourcepack}.mcmeta file and the game should start installing the resource pack automatically, If you have any questions or encounter any issues then please join the Discord server where either someone from the community or I will be happy to help you out!
+
+You are not allowed to make commercial use, redistribute or claim this resource pack as your own in any way.
+You can edit the resource pack for personal use only.
+
+If you showcase the resource pack in social media, kindly provide a link to my website, https://www.shivamzter.com/roundista.

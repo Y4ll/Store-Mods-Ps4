@@ -1,0 +1,41 @@
+Bloomy Dynamic Lights adds subtle, soft bloom and dynamic lighting to handheld and placed light sources in Minecraft Bedrock Edition. Torches, lanterns, froglights and other light-emitting items gain a gentle halo and improved visual presence, making night-time exploration and builds feel warmer and more immersive while keeping performance in mind.
+
+Features
+
+1) Soft bloom halo around torches, soul torches, copper torches, redstone torches, lanterns and campfires
+
+2) Rock-steady glow - the bloom holds a constant value with no flicker, pulsing or pop-in
+
+3) Dynamic light follows held light sources (main hand + offhand)
+
+4) Support for many light sources: torches, soul torches, lanterns, jack o'lantern, sea lantern, shroomlight, froglights, glowstone, campfires, magma block, sea pickles and more
+
+5) Coloured light tints for 100+ blocks - candles, froglights, amethyst, sculk, copper bulbs, portals and more (with Vibrant Visuals enabled)
+
+6) Optimized to minimize client/server lag, suitable for survival and multiplayer
+
+Subtle bloom glow that adds depth and atmosphere to torches.
+
+Hold torches in your offhand to light your surroundings while keeping your main hand free, Crouch to use Torch in offhand
+
+Installation
+
+1.Download both the Behavior Pack (BP) and Resource Pack (RP) releases from this page.
+
+2.Place them in your Minecraft com.mojang folders (behavior_packs and resource_packs).
+
+3.In your world settings, enable both packs (enable the Behavior Pack and the Resource Pack).
+
+4.Turn on Experimental Gameplay (required to enable scripting) and enable scripting/GameTest if prompted.
+
+5.Join the world and test by holding a torch or placing torches/lanterns.
+
+Requirements & Compatibility
+
+Minecraft Bedrock 1.21.50+
+
+Behavior Pack and Resource Pack both required for full functionality
+
+Works in singleplayer and multiplayer (all players should have the RP enabled to see the same particles/effects)
+
+Coloured light tints require Vibrant Visuals to be turned on; the bloom halos and dynamic lighting work with or without it

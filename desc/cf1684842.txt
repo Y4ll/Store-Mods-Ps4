@@ -1,0 +1,53 @@
+Ascendant: Sustenance expands survival with five persistent nutrition values. Food choices matter beyond the vanilla hunger bar, and balanced nutrition provides useful effects while deficiencies create real drawbacks.
+
+Sustenance works as a standalone addon or as an optional companion to Ascendant: Mastery. When both are active, they share one Ascendant book and integrated navigation.
+
+- Five nutrients: Carbohydrates, Protein, Fat, Vitamins, and Minerals.
+- Nutrition values persist separately for every player.
+- A custom nutrition screen with threshold-accurate effect tooltips.
+- A Food Encyclopedia showing the nutrient values of registered foods.
+- Built-in profiles for 41 vanilla foods plus cake.
+- Nutrition decreases with natural hunger loss rather than saturation loss.
+- Vanilla hunger and saturation remain untouched by the addon.
+- One Ascendant book is granted on first join and after every death, coordinated with Mastery when both addons are active.
+- Craft another Ascendant book from one normal Minecraft book.
+- Existing legacy save data is migrated automatically.
+- Integrated navigation for Mastery and its Vocation expansion when installed.
+
+Classic profile thresholds are 10 or lower for deficiencies and 90 or higher for bonuses.
+
+- Carbohydrates: Slowness I when low; Speed I when high.
+- Protein: Weakness I when low; Strength I when high.
+- Fat: two-point armor penalty when low; Resistance I when high.
+- Vitamins: Weakness I when low; Regeneration I when high.
+- Minerals: Mining Fatigue I when low; Haste I when high.
+- Low Protein and low Vitamins still apply Weakness I; duplicate effects do not stack.
+
+The low-fat armor penalty is implemented through supported Bedrock damage events because stable Script API does not expose a writable player armor attribute. Armor-bypassing damage such as falling, drowning, starvation, magic, void, and wither damage is not changed.
+
+- Use the Ascendant book received when joining or respawning.
+- Run /asc:sustenance.
+- When another Ascendant addon is installed, use its Sustenance navigation tab.
+
+1. Import the included behavior pack and resource pack.
+2. Activate both packs on the same world.
+3. Back up an existing world before updating.
+
+- Minecraft Bedrock 1.26.40
+- Both the Ascendant: Sustenance behavior pack and resource pack are required.
+- Ascendant: Mastery is optional; Sustenance remains fully usable on its own.
+
+Extensions now use simple food lists with readable item, name, category, and nutrient fields. A food can provide several nutrients together:
+
+{ item: "myaddon:pie", name: "Pie", carbohydrates: 6, fat: 4, vitamins: 2 }
+
+Omitted nutrients default to zero. Optional descriptions and texture paths customize the Food Encyclopedia entries. Registered foods affect nutrition when eaten and appear in the paginated Food Encyclopedia. The list refers to existing edible items; it does not create foods or make non-edible items edible.
+
+An inactive, ready-to-copy extension_template is included inside the behavior pack. Edit scripts/lists.js; the supplied script handles registration, retries, and readable error messages automatically. Follow extension_template/START_HERE.txt to copy the template out, rename its manifest, and assign unique UUIDs.
+
+The shared template supports all three Ascendant addons and multiple mandatory Mastery skill requirements. It includes Add-On metadata, an editable author field, and a direct dependency on Sustenance 1.0.6. If you use other addon lists, also add those addons as dependencies. Sustenance-only extensions do not require Mastery. Metadata alone does not guarantee achievements; Minecraft world eligibility still applies.
+
+BREAKING CHANGE: The old v1/v2 extension APIs and registration events are removed. Existing extensions must be recreated using the new lists. Use replace: true when intentionally changing a built-in food, and reload the world after editing lists.
+
+- /asc:sustenance_set changes a nutrient value.
+- /asc:sustenance_reset resets nutrit

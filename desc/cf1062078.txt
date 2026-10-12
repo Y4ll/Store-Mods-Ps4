@@ -1,0 +1,91 @@
+The best friend of all technical players.
+
+This addon is the result of hundreds of hours of development. If you would like to show a token of appreciation for my work and support the future development of my addons, please consider buying me a coffee.
+
+Canopy is a powerful addon for Minecraft Bedrock Edition that gives you greater insight and control over the games technical aspects.
+
+Whether you're optimizing farms, gathering more in-depth game data, or just looking for tools to make survival more intuitive-without losing the vanilla feel-Canopy provides the solutions you need.
+
+With Canopy, you gain access to new commands and gamerules designed to help you understand, refine, and optimize your world.
+
+Key Features
+
+- Live InfoDisplay Get real-time stats on TPS, light levels, biome info, block/entity details, and more.
+
+- Farm & Spawn Tracking Optimize efficiency with hopper counters and precise spawn monitoring.
+
+- Tick Speed Control Slow down ticks to see what's going on in your builds.
+
+- Modular & Expandable Add functionality with community-built extensions.
+
+- Simulated Players - Spawn and control simulated players.
+
+- Built for Power and Performance Designed to run effectively and efficiently.
+
+- And much, much more!
+
+Explore all the features in the Canopy Wiki!
+
+Fan-Favorite Additions
+
+InfoDisplay
+
+The Canopy InfoDisplay is a HUD view that sits at the top right of your screen, giving you all kinds of useful information about your world in real time!
+
+- coords - Shows the coordinates of the player truncated at 2 decimal places.
+
+- cardinalFacing - Shows which direction the player is facing using N, S, E, W & the coordinate direction (ex. N (-z)).
+
+- facing - Shows your facing yaw and pitch.
+
+- chunkCoords - Shows the coordinates of the chunk you are in.
+
+- slimeChunk - Shows whether the chunk you are standing in is a slime chunk.
+
+- tps - Shows the server's current ticks per second (TPS).
+
+- entities - Shows the number of entities in front of your player.
+
+- light - Shows the light level of the block where your foot is.
+
+- biome - Shows the biome you are currently in.
+
+- worldDay - Shows the count of Minecraft days since the world began.
+
+- timeOfDay - Shows the Minecraft day-cycle time as a 12-hour digital clock time.
+
+- sessionTime - Shows the time since you joined.
+
+- moonPhase - Shows the current phase of the moon.
+
+- eventTrackers - Shows the counts of currently tracked events. (Tracking is controlled with ./trackevent.)
+
+- hopperCounterCounts - Shows all active hopper counters in their respective colors.
+
+- simulationMap - Shows a configurable map of simulated chunks -- nearby or far away.
+
+- lookingAt - Shows the name of the block or entity you're currently looking at.
+
+- signalStrength - Shows the signal strength of any block which has redstone power.
+
+- peekInventory - Shows the inventory of the block or entity you're looking at. Can be particularly useful for debugging containers in spectator mode.
+
+Featured Commands
+
+Tick Command
+
+Allows you to slow down and control the world's tick speed!
+
+Camera Command
+
+Allows you to switch to a survival-friendly spectator mode, or set up a tripod to view your work on-demand.
+
+Hopper Counters
+
+Hopper Counters are a great way to count items and test farm rates. There are 16 channels, each named after a Minecraft wool color (red, cyan, light_blue, etc.). To get set up with a hopper counter, just place a hopper that faces into a wool block. When you place down your first hopper counter, a timer which is used to calculate item rates starts. Note: A hopper counter will only be created when you place it down, not when the two blocks are connected in other ways (pistons, structure blocks, cloning, etc.). This can easily be accounted for by just breaking and replacing the wool or hopper after cloning or, as in the case with a piston, moving a hopper above the hopper connected to the wool block.
+
+Featured Rules
+
+Universal Chunk Loading
+
+Minecarts load a 5x5 chunk area around them f

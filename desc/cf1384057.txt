@@ -1,0 +1,7 @@
+This texture pack sharpens and adds outlines to Minecraft textures, giving your game a more detailed and refined look while keeping the original style.
+
+Recommendation: Use this pack with a shader to make your game look like the preview images. The shader used in the preview is Prizma Shader.
+
+Issues / Note: This pack is currently at 128128 resolution. On some low-end devices, performance may be affected. If your device cannot handle this resolution for example, the game crashes or fails to open you can use the lower-resolution versions for better compatibility.
+
+Preview: All preview images showcase the 128128 version. This pack is 128128, so quality matches the preview. Lower-resolution packs may be used if your device cannot handle the full resolution.

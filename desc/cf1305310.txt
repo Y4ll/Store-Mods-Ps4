@@ -1,0 +1,89 @@
+Add-On Overview
+
+This add-on introduces the AIOT (All-In-One Tool), a versatile tool that combines multiple functions into one. The AIOT offers the following capabilities:
+
+Key Features:
+
+- Sword: Use the AIOT as a weapon for combat.
+
+- Pickaxe: Mine ores and blocks with the AIOT.
+
+- Axe: Chop wood, break wooden blocks, unwax copper variants, and remove oxidation from copper variants.
+
+- Shovel: Break blocks like dirt, gravel, and sand, and create grass paths while sneaking.
+
+- Hoe: Cultivate soil and create farmland.
+
+Simplify your gameplay and free up inventory space with AIOTs, making tool management easier and more efficient.
+
+You can make 7 types of it:
+
+Wooden AIOT
+
+Attack Damage: 5
+
+Durability: 240
+
+Mining Speed: 2
+
+Stone AIOT
+
+Attack Damage: 6
+
+Durability: 528
+
+Mining Speed: 4
+
+Copper AIOT
+
+Attack Damage: 6
+
+Durability: 764
+
+Mining Speed: 5
+
+Iron AIOT
+
+Attack Damage: 7
+
+Durability: 1004
+
+Mining Speed: 6
+
+Golden AIOT
+
+Attack Damage: 6
+
+Durability: 132
+
+Mining Speed: 12
+
+Diamond Aiot
+
+Attack Damage: 8
+
+Durability: 6248
+
+Mining Speed: 8
+
+Netherite Aiot
+
+Attack Damage: 9
+
+Durability: 8128
+
+Mining Speed: 10
+
+AIOT Netherite Upgrade
+
+You need an AIOT Netherite Upgrade Smithing Template to upgrade your Diamond AIOT to Netherite AIOT.
+
+You can enchant and repair all AIOTs
+
+If you are doing a YouTube video or something, you are not allowed to make your own download links, and you must give the MCPEDL link.
+
+You must be at least on version 1.21.60 to play with this add-on.
+
+Compatible with Minecraft 26.44
+
+Achievement-Friendly (does not disable achievements)

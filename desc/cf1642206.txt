@@ -1,0 +1,45 @@
+VeinCapitator GT Mine entire ore veins and fell whole trees with a single break. Tier-aware, durability-smart, and fully configurable. No experimental features, achievements fully intact.
+
+No Experimental Features
+Achievements Friendly
+Multiplayer Ready
+
+Ore Vein Mining
+Tree Felling
+Canopy Removal
+
+FEATURES
+
+Vein Mining Break one ore and the entire connected vein comes with it. Respects tool tier requirements: stone pickaxe for iron, iron for gold and diamonds, and so on. Mod tools with no tier defined are always allowed.
+
+Tree Felling Chop the base of any tree and every connected log breaks at once. Supports all wood types including Nether stems, stripped variants, wood blocks, and hyphae.
+
+Canopy Removal When a tree is felled, its leaf canopy is removed automatically. Only activates on trees with a real canopy, not on isolated logs or small structures.
+
+Durability Respect The tool takes damage proportional to the number of blocks broken. The Unbreaking enchantment applies correctly to every hit. When the tool would break mid-vein, it stops early instead of going infinite.
+
+Sneak to Activate Optionally require the player to sneak before vein mining or tree felling triggers. Keeps the mechanic opt-in during normal play.
+
+Unified and comprehensive customization
+
+All settings are managed via two commands. Run /pmenu to open the personal panel and configure your settingsthis also works with any other GT add-ons you have installed.
+
+Additionally, server administrators can run /menu to establish default settings for everyone, applying them globally to all players.
+
+No cheats or experimental options; fully compatible with earning achievements.
+
+COMPATIBILITY
+
+- No experimental features required
+
+- Achievements fully supported
+
+- Multiplayer and Realms compatible
+
+- Compatible with mod tools from other packs
+
+REQUIREMENTS
+
+- Minecraft Bedrock Edition 1.26.10+
+
+Made by REX1858

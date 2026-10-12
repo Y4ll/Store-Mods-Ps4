@@ -1,0 +1,103 @@
+Preface:
+
+Warning: If you are using mobile device, make sure to set File Storage Location to External before importing this resource pack, otherwise, your save data may be lost in case the game future updates break modified UI data.
+
+Also, Ore UI is gradually replacing almost all of the JSON UI screens, so I recommend using the following mod at your own risk: ForceCloseOreUI. That said, only if you want to bring them back in current version.
+
+And please, be sure to read carefully this post before downloading and using this resource pack, thank you!
+
+Vanilla DX UI:
+
+Before "Modified Vanilla" and "Vanilla enhanced". Is a resource pack that would improve UI and other assets.
+
+Actually, is a testing TP made since fall 2016, oriented to port menus and container/inventory GUI textures from Java Edition to Bedrock Edition more easily and efficient!
+
+Desktop UI:
+
+Convert base game interface to Java Edition interface style! Of course, not all screens were modified, but I will add more in future versions!
+
+Mixed UI:
+
+It is the improved version of the HUD UI and inventory containers still with base game style, with the small combination of Java Edition and Legacy Console Edition parts.
+
+PvP UI:
+
+The same between Mixed UI and Java UI, but the UI design is mainly based on JE 1.8, the version most used to play PvP servers. Now has clear Chat BG and Scoreboard BG.
+
+Features:
+
+- JE UI designs with 75% accurate.
+
+- Some GUI textures ported to Bedrock Edition.
+
+- UI customization by ui/_global_variables.json.
+
+- Note: Some UI data assets may change in future updates, so, stay tuned!
+
+Upcoming features for future versions:
+
+- Compatibility for other projects.
+
+- Depending on the amount of support, maybe I will bring back about modified Dressing Room and Persona screens.
+
+Hidden Screens due to Ore UI replacement (Hardcoded):
+
+- Play Screen
+
+- Create World Screen with templates.
+
+- Disconnected
+
+- In bed/Sleeping
+
+- You died!
+
+Supported Languages:
+
+- English (en_US and en_UK).
+
+- Spanish (es_MX and es_ES).
+
+- Japanese (ja_JP).
+
+- Korean (ko_KR).
+
+- Portuguese (pt_BR and pt_PT).
+
+- Chinese (zh_CN and zh_TW).
+
+More full languages support is coming in near future updates.
+
+Screenshots:
+
+Only in worlds in experiment mode with patch pack enabled:
+
+Known Issues:
+
+- Not all modified screens are fully compatible with the use of gamepad/controller.
+
+- Some screens take a long time to load, something like Settings Screen, Play Screen, and it is because it contains so many objects in UI data.
+
+- When using a 3rd party add-on with new custom items. The creative search tab icon will be changed. Unfortunately, there is no solution to this.
+
+- And unfortunately, since the Ore UI (new UI engine) appeared for the "Play", Create World, Achievements, "Sleeping/In bed" and "You Died!" screens, it is now impossible to modify it using resource packs. However, I have plans to make modifications using something external, but it is not known when that will be, stay tuned if you want!
+
+- In order to prevent errors while customizing touch controls, I have disabled the HUD visibility while inventory or another screen are open... But still, you can re-enable by reviewing ui/_globall_variables.json.
+
+Terms of Use:
+
+You may:
+
+- Make review about this pack, as long as you credit me as @CrisXolt. And put original download link in description (This forum post).
+
+You may not:
+
+- Make customized APK/APPX and monetized content (pirate modifications), no one will have the permission.
+
+- Use my modified JSON and UIDX data files claiming this work as your, without permission of course. Specially do not modify/erase the text in the first line code in each .json file. (Example text: //File Made/Modified by @CrisXolt or Some people who contributed).
+
+- Redistribute this resource pack made by me in another pages/app store, no one will have the permission.
+
+- Do not use for third-party projects, much less to merge with "Concept Clients" resource packs, no one will have the permission.
+
+For t

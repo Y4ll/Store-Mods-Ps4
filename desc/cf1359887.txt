@@ -1,0 +1,91 @@
+Get the fastest updates by subscribing to our YouTube channel.
+
+JOIN MY DISCORD
+
+Get the most stable version here Heradigital
+
+Hi guys, this is an addon that can help you manage your Minecraft bedrock server. With many features that will be updated periodically at any time. This addon is made specifically for Minecraft Bedrock, so the system and code are always well-crafted to be optimal.
+
+How to use it?
+
+Must be active:
+
+- Enable Beta API.
+
+- Enable cheat.
+
+- Give yourself the admin tag by typing "/tag @s add admin".
+
+- Take item Admin Suite and open it.
+
+- Create a role with a name owner then give yourself a role.
+
+- Apply the role you created to yourself.
+
+- All menus will appear according to the update version.
+
+Some of the main features:
+
+- Admin management with roles
+
+- Player management
+
+- World management
+
+- Registration system
+
+- Repeated broadcast system
+
+- Set home
+
+- Land claims
+
+- Complex economic system
+
+- NPC management system
+
+- Teleport between players
+
+- Buying and selling system
+
+- Several slash commands are available
+
+- Skill and rank system
+
+- Custom chat and custom nametag
+
+- Sidebar
+
+- Hologram + Leaderboard
+
+- Clan system
+
+- Battle System
+
+- Redeem, Daily Reward, Starterkit, Job, Quest, and many more.
+
+Visit our youtube to see the full tutorial. Watch the tutorial here
+
+Multi-language support (PRO version):
+
+- England
+
+- Indonesia
+
+- Spain
+
+- Brazil
+
+- Thailand
+
+- Vietnam
+
+- Germany
+
+- France
+
+You should know:
+
+- To open the list of slash commands, type "/info"
+
+- To bypass the protection system use the "bypass" tag

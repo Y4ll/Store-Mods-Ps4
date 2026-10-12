@@ -1,0 +1,49 @@
+Fire Kipli Tools [ JA+ ]
+
+A visual enhancement pack for Minecraft Bedrock Edition that gives Netherite tools a fresh and more dynamic appearance.
+
+Requirements
+
+- This pack is designed to be used together with Justanimation+ for the intended visual experience.
+
+- For the best results, make sure Justanimation+ is enabled alongside Fire Kipli Tools.
+
+Features
+
+- Custom Netherite Axe
+
+- Custom Netherite Hoe
+
+- Custom Netherite Pickaxe
+
+- Custom Netherite Shovel
+
+- Custom Netherite Sword
+
+- Custom Netherite Spear
+
+- Multi-frame textures for dynamic tool visuals
+
+- Custom enchantment glint and outline
+
+- 9 selectable enchantment colours:
+
+- Magenta
+
+- Green
+
+- Orange
+
+- White
+
+- Red
+
+- Blue
+
+- Yellow
+
+- Cyan
+
+- Purple
+
+Created by Ancxliy.

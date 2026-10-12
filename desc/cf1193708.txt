@@ -1,0 +1,19 @@
+Why stop with Apples? Why not hunt for all the fruit your world has to offer. Each one will have unique properties making Fruit fun to eat and grow!
+
+Join the Four Worlds Studios Discord
+
+This add-on will add new Fruit Trees to your world, each tree will be a different model as to not get boring and the fruit will look bright and vibrant, nice enough to pick!
+
+When you come across a Fruit Tree, interact with the Fruit Block to pick the fruit. By picking the fruit and not breaking the block you will leave the stem behind so more fruit can grow.
+
+Over time another piece of fruit will start to grow from the stem left behind.
+
+Place a piece of Fruit on a Crafting Table you will get a Seed, Plant the Seed and wait for the Fruit Tree to grow.
+
+You can use Bonemeal on a Fruit Tree Sapling to help it grow. Any Fruit Tree grown from Saplings will not bear Fruit, you will have to wait for the Fruit to grow.
+
+This add-on DOES NOT require experimental features.
+
+The player.json IS NOT used in this add-on
+
+Achievement Compatible

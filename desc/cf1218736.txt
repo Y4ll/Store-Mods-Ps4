@@ -1,0 +1,105 @@
+"A Minecraft mod that allows you to breed dragon eggs and foster them to ridable dragons." - BarracudaATA
+
+GitHub Page | Bug Tracker | Wiki
+
+Discord | QQ (974797002) | YouTube | Twitter | Reddit | Forum
+
+Overview
+
+This is an addon that allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!
+
+Dragon Mounts is an addon that allows to hatch eight different dragons and ride them, when they are grown up. The player needs a Dragon Egg to get started and later on Raw Fish and a Saddle to ride it. The Dragon Egg can be obtained after killing the Ender Dragon.
+
+- Meanwhile, there is a sequel of the addon called Dragon Mounts 2. Go Check it out!
+
+Follow us by clicking the button!
+
+Quick Guide
+
+- To hatch a dragon egg, you'll need to find a good place for it first. If you found one, place the egg block and simply right click it. The egg will then start to hatch, which will take a while.
+
+- Once grown up, you can tame the dragon with raw fish. It will then follow and protect you like other pets.
+
+- You can command tamed dragons to lay down or stand up by interacting with it.
+
+- To ride a tamed dragon, use a saddle on it, then interact with it without holding an action item.
+
+- To heal injured dragons, feed it with raw fish, chicken, beef or porkchop (four hearts) or with rotten flesh (two hearts).
+
+- You can control the dragon with the arrow keys.
+
+Dragon Mounts
+
+The recognizable cast of dragons since the original Dragon Mounts mod!
+
+- Aether Dragon - Traveling from The Aether dimension. They have a wind breath that shoots foes in the sky.
+
+- Ender Dragon - Ruler of The End dimension. They have ender priorities on their acid breath that can slowly deals damage with an acidic effect.
+
+- Fire Dragon - The Blazing Lizard. They're very hotheaded and shoot flaming hot fire breaths.
+
+- Forest Dragon - Nature's Leaf Lizard. They can grow your grass and crops with their leaf breath.
+
+- Ghost Dragon - The Undead Lizard. They don't have a breath but they can bite.
+
+- Ice Dragon - The Abominable Lizard. Their ice breath can slow mobs down and create snow.
+
+- Nether Dragon - Lord of The Nether dimension. Their lava breath is hotter than a standard fire breath.
+
+- Water Dragon - The Sea Lizard. Their water breath can poison mobs.
+
+Other Features
+
+Extra features that make this addon a little more unique.
+
+- No need to toggle any experiments!
+
+- Compatible with Realms and Servers!
+
+- You can now earn achievements when playing with Dragon Mounts!
+
+I hope you like it.
+
+Special Thanks
+
+- JujuStyle7 - Major Inspiration and for creating the first Dragon Mounts Addon since v1.2.X of Minecraft: Bedrock Edition
+
+- LegitDragonb0y - Major Inspiration and for creating the second Dragon Mounts Addon since v1.14.30 of Minecraft: Bedrock Edition
+
+- BarracudaATA - Originally creating Dragon Mounts (Open Source) since v1.0.0 of Minecraft: Java Edition
+
+Thank you!
+
+Important
+
+This entire project is licensed under the "All Rights Reserved" license [this includes; code, 3D models, textures and animations].
+
+You can include the project in your CurseForge/MCPEDL Modpack and Server(s) without asking for permission, don't forget to give credits to the creator(s).
+
+You may not resell or reupload the content on another website not authorized by The Dragon Mounts Team.
+
+The official download sites are "CurseForge, MCPEDL, Vatonage, ModBay and PlanetMinecraft", other sites are pirated, and do not have permission for redistribution.
+
+Please share bugs and suggestions with us in our official Dragon Mounts Discord.
+
+2018-2025 Dragon Mounts Team.
+
+Credits
+
+Development Team
+
+- Tomanex - Owner, Lead Developer, Designer
+
+- Grummboy2 - Lead Coder, Designer
+
+- Myro - Assistant Coder
+
+- Moaswies - Assistant Coder
+
+Contributors
+
+- JDSK0ala - Originally forming the team
+
+- RosieForge - Designer of redesigning the Dragon Keeper
+
+- Mr. Goofy - Retired Coder

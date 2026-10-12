@@ -1,0 +1,357 @@
+JOIN THE DISCORD
+
+no experiments needed
+
+not compatible with vibrant visuals
+
+Recommended 12 render distance or less and to turn off screen animations (in video settings)
+
+Pack is not intended for low-end devices, it contains over 6000 blocks/items
+
+BIOMES
+
+Biomes
+
+Orchard BIome:
+
+Stoney Forest
+
+Sunflower Fields
+
+Azalea Forest
+
+Bush Fields
+
+Cotton Fields
+
+Sandy Jungle
+
+Sandy Savanna
+
+Firefly Fields:
+
+Rose Garden:
+
+Clover Fields
+
+Flowerfall:
+
+Lavender Forest:
+
+Wasteland:
+
+Warm Flower Orchard:
+
+Cold Flower Orchard:
+
+Autumn Forest
+
+Ashfall
+
+Grasslands:
+
+Desert Wastes:
+
+Lush Desert
+
+Oasis:
+
+Desert Bryce
+
+Colored Desert:
+
+Boreal Forest:
+
+Irradiated Wastes:
+
+Cinders of Lament:
+
+Holy Ground:
+
+Sulfurous Barren:
+
+Magma Crystal Cove:
+
+Borealis Caves:
+
+Frozen Mesa:
+
+Frozen Wastes:
+
+Drenched Void:
+
+Thermal Seas:
+
+Glowing Ocean:
+
+Dread Reef:
+
+Island Ocean:
+
+Iceberg Ocean:
+
+Permafrost Caves:
+
+Aurora Caves:
+
+Topaz Caves
+
+Jasper Caves:
+
+Kyanite Caves:
+
+Amethyst Caves:
+
+Slimy Sewers:
+
+Glowing Mushroom Caves:
+
+Glimmering Lush Caves:
+
+Spider Caves:
+
+Lichen Caves:
+
+Aether Caves:
+
+Horrid Caves:
+
+Under Forest:
+
+Sodalite Caves:
+
+Wilted Garden:
+
+Hptsprings Biome:
+
+Hotsprings Caves:
+
+Hyperion Forest:
+
+Hyperion Caves:
+
+Endra Forest:
+
+Distorted Forest:
+
+Chorus Grove:
+
+Arkose Peaks:
+
+Lavender Fields:
+
+End Wilds:
+
+Abyssal Swamp:
+
+Cosmic Frontier:
+
+Dragonspire Wield:
+
+Blushie Swamp:
+
+Portal Plague:
+
+Windswept Clouds:
+
+Hurricane Airspace:
+
+Starlite Forest:
+
+Nightglow Mushroom Forest:
+
+Moon Fragments:
+
+Stellarspace:
+
+Cryo Spikes:
+
+Sun Spots:
+
+BIOME REWORKS
+
+Vanilla Biome Overhauls:
+
+Mesa
+
+Taiga:
+
+Cherry Grove:
+
+Pale Garden:
+
+Birch Forest:
+
+Jungle
+
+Forest:
+
+Warped Forest:
+
+Crimson Forest:
+
+Basalt Deltas:
+
+Soul Sand Valley:
+
+Deep Dark:
+
+STRUCTURES
+
+Structures:
+
+Monster House:
+
+Floating Base:
+
+Floating Castle:
+
+Copper Prison:
+
+Abandoned Lab:
+
+Ghast Nest:
+
+Inferno Trial Chambers:
+
+Cinders Labyrinth:
+
+Piglin Mineshaft:
+
+Wither Skeleton Bastion:
+
+Royal Wither Castle:
+
+Infested Ender Labyrinth:
+
+Floating Village:
+
+Illager Factory:
+
+Jungle Pyramid:
+
+Ironeye's Ship:
+
+Vex Castle:
+
+Underground Labyrinth:
+
+Mesa Pyramid:
+
+Lord Frostshaw's Throne:
+
+Mesa Temple:
+
+Piglin Prison:
+
+Lord Oinkers Fortress:
+
+Cloud House
+
+Moon Bastion
+
+Starlite Tower
+
+Solar Bastion
+
+Moon Village
+
+Swamp Village:
+
+Jungle Village:
+
+Illager Forge:
+
+Enchanters Library:
+
+Outdoor Brewery:
+
+Windcaller Island:
+
+Flamefeeder's Keep:
+
+Ragged Caster's Grave
+
+Ender Chamber:
+
+Ruined End Portal:
+
+Dragon Bastion:
+
+Voided Soul Blacksmith:
+
+Void Pope Church: (Important for Void Pope)
+
+Shrine of the Forgotten Eye: (important for Sightfull Obelisk of Ender)
+
+End Ruins:
+
+Dragonbird Meeting Zone:
+
+Cryo Chambers:
+
+Ice Ruins:
+
+Illager Houses:
+
+Ruined Home:
+
+Ruined Pyramid:
+
+Enforced Pyramid:
+
+Buried Church:
+
+Tower of Crystals:
+
+Ruins:
+
+Labyrinth:
+
+Undead Mineahaft:
+
+Underground Outpost:
+
+Ancient Forge:
+
+Sword Shrine:
+
+Wither Fossils
+
+Atlantis Trial Chambers:
+
+Marble Ruins:
+
+Structure Block Shrine:
+
+MOBS
+
+Mobs
+
+Sculk Creeper: the Sculk Creeper behaves like a normal creeper except when it gets near a target, it charges itself, if the target escapes, it uncharges itself
+
+Sculk Skeleton: shoots sonic booms instead of arrows
+
+Sculk Zombie: attacks, but once they hit you, they dash away and temporarly get a strength and speed boost
+
+Mimic: Mimics attack similar to slimes, spawns by randomly replacing chests in structures.
+
+Hallow: strong attacking mob that inflicts blindness
+
+Pixie: tamable passive mobs that give free speed and slow falling when tamed (tamed with Aether Fruit)
+
+Molten: behaves like a zombie but has a trail of fire where it walks
+
+Gem Crawlers: drops whatever ore is on their back on death, will run away from all mobs
+
+Creeder: half creeper half spider
+
+Light Allay: tamable via golden berries, emits light as they move
+
+Sodalite Energizer: flying mob that fires projectiles
+
+Iceologer: summons ice blocks above the player/villager
+
+Aeroslime: the Aeroslime behaves identically to the slime, except it can fly
+
+Cyclor

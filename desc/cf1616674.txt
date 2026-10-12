@@ -1,0 +1,87 @@
+Overview
+
+This addon is designed for players who want to enjoy a relaxing, traditional Japanese rural slow life in Minecraft. It introduces a massive content update with over 400 items, including Japanese-style building blocks, furniture, a unique farming and economy system, and delicious traditional food. While it is fully compatible with Creative Mode, playing in Survival Mode is highly recommended to experience the full gameplay loop.
+
+Leave the busy real world behind, relax on a cozy futon, eat delicious Japanese dishes, and enjoy your time at a hot spring inn!
+
+Features
+
+-
+
+Massive Japanese Content: Over 400 items and blocks, featuring around 60 types of sliding doors (Shoji/Fusuma), 48 types of chairs/floor cushions you can sit on, and 7 types of traditional Japanese futons.
+
+-
+
+Farming & Economy System: 3 new unique crops (Rice, Soybeans, Sweet Potatoes) and 2 custom wandering merchant mobs.
+
+-
+
+Rich Culinary Content: 15 types of edible food blocks (including daily special set meals) and 12 food items.
+
+How to Play & Economy System
+
+This addon incorporates economic elements to deeply enhance your survival slow life.
+
+-
+
+Grow Crops: Start by growing standard vanilla Minecraft crops.
+
+-
+
+Earn Money: Hearing rumors of your harvest, market buyers from the city will visit your farm. Since they are townspeople, they won't accept emerald bartering. Sell your crops to them to earn "Money" (currency).
+
+-
+
+Upgrade Your Agriculture: Vanilla crops are common and have low market value. Use your earned money to buy higher-value seeds from the buyerssuch as Rice, Soybeans, and Sweet Potatoesto grow and expand your farm. Each crop has unique growth characteristics, so try experimenting with them!
+
+-
+
+Enjoy the Slow Life: Keep growing your new crops, earn more money, create a cozy living space, and occasionally splurge on luxury items.
+
+Note: As you build a closer relationship with the merchants, they might allow you to acquire rare regional products or small amounts of difficult-to-grow crops managed by professional farmers!
+
+Item Details
+
+[PPKL] Old Folk House Crafting Table
+
+This is the core crafting table for the addon. You can craft all other furniture and blocks from here.
+
+-
+
+Recipe Ingredients: Oak Planks, White Wool, Iron Ingot, Honey Bottle (or Oak Planks x2, Iron Ingot, Honey Bottle).
+
+-
+
+Note: The wood type is locked to Oak.
+
+-
+
+Note: Not all items can be crafted manually. If you want rare luxury goods or delicious food, utilize the power of "Money" with the merchants!
+
+Japanese Futon
+
+A traditional Japanese bedding setup perfect for tatami rooms.
+
+-
+
+Mechanics: Stepping near the pillow area automatically triggers the option to use it, which updates your spawn point. You can use it to skip to morning during the night, or just sit and lounge on the futon at any time of day.
+
+-
+
+Storage Function: If you don't want to leave your futon out all day, you can break it and use inventory crafting to fold it up so it fits neatly into a closet. Your spawn point will remain at that location even when folded.
+
+-
+
+Multiplayer Note: The player count for futons is calculated separately from vanilla beds. To skip the night, all players must unify and use either all beds or all futons.
+
+-
+
+Dimension Note: Just like vanilla beds, you cannot sleep or set spawn points in the Nether. However, you can safely place them down; they will not explode.
+
+Chairs, Low Chairs & Floor Cushions
+
+After staying on them for a short moment, you can sit down. Players, Villagers, and Cats can all sit on them.
+
+Sliding Doors (Shoji, Yukimi Shoji, Fusuma, Glass Sliding Doors)
+
+Traditional Japanese doors that open horizontally. They have a unique behavior because they can open either left or right, or be placed alternately. When closing them, instead of clicking the door itself, aim for the edge of the block space where the door opened to close it smoothly. You can mirror the opening direction (left/right) by converting the door at the [PPKL] Old Folk House Crafting 

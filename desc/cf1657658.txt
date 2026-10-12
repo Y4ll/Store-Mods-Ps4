@@ -1,0 +1,37 @@
+Please Leave Me Alone Minecraft Bedrock Horror Addon
+
+Did you think your home was a safe place? Did you think the caves were empty? You were wrong. Please Leave Me Alone turns your Minecraft world into a psychological nightmare where you are never truly alone. Creatures are watching your every move through windows, doors, and from the deepest darkness.
+
+There is nowhere to run. Nowhere to hide. They are always watching.
+
+Key Features:
+
+- Home Invasion: Creatures lurk and attack through the doors and windows of your own base.
+
+- Underground Terror: Caves and mines become completely claustrophobic and dangerous.
+
+- Constant Pursuit: Stalker mechanics that make you feel watched at all times.
+
+- Immersive Atmosphere: Sounds and sightings designed to create extreme tension.
+
+Requirements and Settings:
+
+To ensure it works correctly in your world, enable the following options:
+
+- Minecraft Bedrock: Compatible with version 1.26.40 or higher.
+
+- Holiday Creator Features / Beta APIs: Must be ENABLED in the world settings.
+
+- Recommended Game Mode: Survival, Hard Difficultyand play with headphones!
+
+Supported Languages:
+
+- Portuguese (Brazil) - Initial Support
+
+- English (US) - Initial Support (More languages and full translations will be added in future updates).
+
+Content Creators / YouTubers:
+
+You are free to record gameplay, series, and reviews of this addon! If you record a video, please include the official link to this page (MCPEDL or CurseForge) in your video description.
+
+Also, visit my Official YouTube Channel (davidgames3d) for updates and teasers!

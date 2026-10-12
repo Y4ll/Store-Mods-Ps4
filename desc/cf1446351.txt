@@ -1,0 +1,3 @@
+An add-on based on the Re:Avaritia mod. It contains mobs that automatically generate resources like diamonds, as well as matrix crystal tools, and the highly sought-after Infinity Armor, which has an enhanced version acquired by defeating the boss "Infinity Being," and a version designed to showcase your skin.
+
+NOTE: If there are any errors in the add-on, please let me know in the comments, and I will fix them as soon as possible.

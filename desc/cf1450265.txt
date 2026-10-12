@@ -1,0 +1,138 @@
+Just Backpacks: Enhanced
+
+Just Backpacks: Enhanced is a full rewrite and evolution of Just Backpacks V3, built from the ground up with a redesigned storage engine, a new complement system, and deeper vanilla integration. Every item you store is safe across sessions, restarts, and dimensions.
+
+The Enhanced Engine
+
+Enhanced introduces EBDB a custom-built item database that replaces the old persistence system entirely:
+
+- While Playing: Items live in a fast-access cache for zero-lag interactions.
+
+- Background Saving: A queue-based system writes data to persistent structures incrementally, never in a single heavy operation.
+
+- On Exit: All remaining data is flushed and saved across the Overworld, Nether, and The End.
+
+Backpack Tiers
+
+Start with a basic Backpack and upgrade your way to Netherite or take a different path with the Ender Backpack.
+
+Tier
+Material
+Slots
+Complement Slots
+How to Obtain
+
+1
+Backpack
+9
+1
+Crafting Table
+
+2
+Copper
+18
+2
+Copper Upgrade Kit
+
+3
+Iron
+27 (= Chest)
+3
+Iron Upgrade Kit
+
+4
+Golden
+36
+4
+Golden Upgrade Kit
+
+5
+Diamond
+45
+5
+Diamond Upgrade Kit
+
+6
+Netherite
+54 (= Double Chest)
+6
+Netherite Upgrade Kit
+
+Ender
+27
+
+Ender Chest + Backpack
+
+The basic Backpack is also available in 16 dyed color variants simply combine it with any dye.
+
+Complement System NEW in Enhanced
+
+Every tier from Copper onwards has dedicated complement slots passive ability upgrades you install directly into your backpack. The higher the tier, the more complements you can equip simultaneously.
+
+Complement
+Effect
+
+Torch
+Automatically places torches as you explore dark areas
+
+Magnet
+Attracts nearby dropped items directly into the backpack
+
+Food
+Automatically feeds you using food stored inside
+
+More complements coming soon.
+
+Upgrade Kit System
+
+Every tier is reached by upgrading your existing backpack with a material-specific kit. Your items are always preserved no crafting from scratch, no lost inventory.
+
+How to Upgrade Step by Step
+
+- Craft the Upgrade Kit for your target tier at the Crafting Table.
+
+- Place your current backpack in your offhand slot.
+
+- Hold the Upgrade Kit in your main hand.
+
+- Use / Interact Right-click on PC Long-press on mobile.
+
+- Done your backpack is upgraded and all your items are still inside.
+
+Note: Each kit only works on its matching tier. You cannot skip tiers.
+
+How to Use
+
+- Equip: Hold the backpack in your main hand.
+
+- Open: Interact (Right-click or Long-press) to open the inventory.
+
+- Close: Switch to any other item the backpack returns to the Void Vault instantly.
+
+- Upgrade: Offhand = backpack Main hand = Upgrade Kit then Interact.
+
+- Dye: Combine a basic Backpack with any dye to change its color.
+
+Features & Compatibility
+
+- Achievement Friendly: Does NOT use player.json. Xbox Achievements remain enabled.
+
+- Multi-Dimension Support: Full support for Overworld, Nether, and The End including safe handling when leaving The End portal.
+
+- Optimized Performance: The backpack entity rests in the Void Vault (Y: -70) when not in use. Background saving is queue-based to avoid heavy operations.
+
+- UUID Security: Each backpack has a unique ID tied to its owner. Other players cannot access or upgrade your backpack.
+
+- Item Lore: Backpacks display their ID, owner, and tier directly in the item tooltip.
+
+Development Status
+
+Just Backpacks: Enhanced is currently under active development and not yet publicly released. Files at this stage are intended for internal testing only. Screenshots, full documentation, and the complete feature list will be added closer to the official release.
+
+Support
+
+Just Backpacks is 100% free. Creating quality code takes time if you enjoy the addon:
+
+Support us on Ko-fi (Click Here)
+
+Compatible with Minecraft Bedrock 1.26.0+

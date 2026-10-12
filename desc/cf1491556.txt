@@ -1,0 +1,19 @@
+Welcome to Fern's Orbital Strike Rods
+
+This Add-On features these new rods that add fun explosions to the game:
+
+Nuke Rod:
+
+The Nuke Rod spawns multiple rings of TNT above the place it is used. It can decimate large areas fast.
+
+It can be crafted using this recipe, if the "Craftable Rods" setting is applied in the Add-On's settings.
+
+Strike Shot
+
+The Strike Shot is a rod that is activated on the block you are looking at after an interaction. It blows up instantly and does 20 HP damage to anyone in it, which will one shot a no armor player and half a diamond player's health.
+
+If the "Craftable Rods" setting is applied, the recipe is this:
+
+Support, suggestions & bug reports
+
+Join our discord: https://discord.gg/zUQeSM3fzm

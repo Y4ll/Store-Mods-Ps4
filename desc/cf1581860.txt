@@ -1,0 +1,17 @@
+A&S View Model by VanceMc
+
+MPORTANT REQUIREMENT: This pack is designed to be used on top of the original Action & Stuff pack. Please ensure you have Action & Stuff installed and active beneath this pack in your loading order for everything to function properly!
+
+Fully adjust your view model's position, scale, and rotation with added armor sleeve support.
+
+Supports Actions and stuff 1.5 - 1.11
+
+Features
+
+Custom Positioning, Rotation & Scale Control: Fine-tune the X, Y, and Z coordinates of your view model.
+
+Armor Sleeves: Added support for Vanilla armor sleeve.
+
+Disclaimer & Credits
+
+This project adapts code from the original Action & Stuff project with credit to the original creators, but it does not contain or use any of the original Action & Stuff assets (such as textures, models, or sounds).

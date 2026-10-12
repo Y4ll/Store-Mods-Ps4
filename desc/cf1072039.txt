@@ -1,0 +1,21 @@
+Description
+
+Use the new BMX-style bikes that allow the player to move faster and more dynamically without relying on any mounts.
+
+How it works
+
+BMX bikes are items, so when you hold it in your hand, you can enjoy your BMX bike and store it in your inventory for later use. To ride, simply hold the bike in main hand and run to activate the bike's extra speed.
+
+Colors
+
+They are available in the following colors:
+
+- White
+
+- Gray
+
+- Pink
+
+- Orange
+
+- Blue

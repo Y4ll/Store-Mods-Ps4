@@ -1,0 +1,53 @@
+MACE KIT
+
+CRYSTAL KIT
+
+CART KIT
+
+BUILD UHC KIT
+
+SKYWARS KIT
+
+SPEAR KIT
+
+SWORD KIT
+
+How to Install & Activate
+
+1. Install the Add-on
+
+Download the add-on and open the .mcaddon file. Minecraft will import it automatically.
+
+2. Activate the Pack
+
+Create a new world or edit an existing one.
+
+Go to:
+Behavior Packs & Resource Packs Activate "One Click PvP Kit Equip"
+
+3. Enable Required Settings
+
+Before entering the world, enable:
+
+Beta APIs
+Cheats
+
+These settings are required for the add-on to work correctly.
+
+4. Join Your World
+
+Enter your world after enabling the pack and required settings.
+
+5. Initialize the Add-on
+
+Open the chat and run:
+
+/function kit/all/<kit>
+
+Originality Notice
+
+This add-on was created by Ash Blast. It is inspired by Java Edition style kit systems, but all files and functionality were created from scratch.
+
+Usage & Credit
+
+Feel free to use this add-on in your projects, but please ask for permission first and give proper credit to Ash Blast.

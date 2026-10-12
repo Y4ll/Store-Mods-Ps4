@@ -1,0 +1,7 @@
+Overview:
+
+A small and cute resource pack that replaces the Minecraft health hearts with adorable cat shaped hearts while keeping the rest of the UI untouched.
+
+It also changes the golden Absorption hearts after consuming a golden apple.
+
+Credit: Made by i4sha, Updated by McPaintingsKing

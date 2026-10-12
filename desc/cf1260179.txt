@@ -1,0 +1,185 @@
+Credits:
+
+- Add-on created by Mr. Nido: Models, textures, animations and behaviors.
+
+Full description:
+
+New minerals:
+
+Throughout the world of Minecraft new minerals will be generated that will be used to manufacture Iron Man's armor and weapons.
+
+Titanium Ore
+
+The titanium ore is generated in the deepest layers and when destroyed will release between 3 - 5 raw titanium.
+
+<figure class="image"></figure>
+
+Titanium ingots
+
+Raw titanium can be heated in the furnace to obtain titanium ingots.
+
+<figure class="image"></figure>
+
+Vibranium
+
+It is a mineral that can be found in the stone beach biomes.
+
+<figure class="image"></figure>
+
+When you obtain the vibranium ore you can heat it in the furnace to obtain pieces of vibranium.
+
+<figure class="image"></figure>
+
+Vibranium ingots:
+
+<figure class="image"></figure>
+
+Iron Man Armor Builder:
+
+With the builder, you can build all of Iron Man's armor. Place the builder on the ground and interact with it to open a menu.
+
+There will be two categories in the menu, one for crafting armor and another for crafting the arsenal of weapons to equip with the armor.
+
+In the armor section, you will find a wide variety of armor available. To craft armor, it is important to have improvised armor equipped in the foot slot along with the necessary materials to craft the armor in your inventory:
+
+Arc Reactor
+
+Iron Man's armor and weapons require energy, so you will need to build the arc reactor using this recipe:
+
+To use the arc reactor, place the reactor in the leg slot.
+
+Iron Man Armors:
+
+To equip Iron Man armor, place the armor in the foot slot.
+
+List of available armor:
+
+Mark I:
+
+The Mark 1 can be crafted at the workbench:
+
+The only weapons you can use with the Mark I are the missile launcher and a flamethrower.
+
+Starting with the Improvised and Mark II, you can use a wide variety of technological weapons and interface upgrades.
+
+Armor:
+
+- Improvised Armor
+
+- Mark II
+
+- Mark III
+
+- Mark IV
+
+- Mark V
+
+Starting with the Mark VI, you will have the ability to breathe underwater. The armor will also grant you a special ability that can be unlocked from the third item menu (Miniguns & Flares).
+
+- Mark VI
+
+- Mark VII
+
+- Mark VIII
+
+- Mark IX
+
+- Mark X
+
+- Mark XI
+
+- Mark XII
+
+- Mark XIII
+
+- Mark XIV
+
+- Mark XV
+
+- Mark XVI
+
+- Mark XVII
+
+- Mark XVIII
+
+- Mark XIX
+
+- Mark XX
+
+- Mark XXI
+
+- Mark XXII
+
+- Mark XXIII
+
+- Mark XXIV
+
+- Mark XXV
+
+- Mark XXVI
+
+- Mark XXVII
+
+- Mark XXVIII
+
+- Mark XXIX
+
+- Mark XXX
+
+- Mark XXXI
+
+- Mark XXXII
+
+- Mark XXXIII
+
+- Mark XLII
+
+- Mark XLIX
+
+- Mark L
+
+- Infamous Iron Man
+
+- Mark XLII (Comic)
+
+- Super Hero Squad
+
+- Superior Iron Man
+
+- Ultimate Iron Man (2024)
+
+- War Machine Mark 001
+
+- War Machine Mark 002
+
+- War Machine Mark 003
+
+- Iron Patriot
+
+- War Machine Punisher
+
+- War Machine Shawarma
+
+When you equip Iron Man armor, an interface will be added to the first-person player screen. You can disable the interface by removing the mask from the head slot.
+
+Arsenals:
+
+Arsenals are equipped in the chest slot. When equipped, they will grant you new weapons that can be used without the need for Iron Man armor. You will need to equip the arc reactor to use the weapons.
+
+Weapons:
+
+When you equip armor or an arsenal, as long as you have the arc reactor equipped, you will be given a variety of weapons. You can change weapons for each item by opening the menu. To open the menu, crouch down and use the weapon item you have in your main hand.
+
+Armor weapons:
+
+Primary weapon (Glove)
+
+Repulsor Glove: Fires a blast that will inflict damage upon hitting a target, affecting several enemies near the impact.
+
+Missile Launcher Glove: Fires a missile that will cause a small explosion, but does not destroy blocks.
+
+Laser Glove: Fires a small laser that will inflict minor damage on enemies and has a charge of 100. When you run out of laser fuel, you will have to wait for it to recharge before you can use it again.
+
+Secondary weapon (Reactor)
+
+Reactor Laser: The laser produces enormous damage that can burn enemie

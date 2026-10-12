@@ -1,0 +1,1 @@
+In this small add-on for the game Minecraft I added one new toy monster inhabitant. The mob has 100 health and 21 attack units and a screamer. It can also climb walls. It has high-quality animations of movement, attacks...That's the whole addon, I hope you like it

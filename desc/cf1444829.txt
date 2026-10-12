@@ -1,0 +1,5 @@
+This addon includes swords, items, blocks, mobs, and bosses.
+
+It features a reputation system that can be changed using specific items. Players can use a book to check their reputation (-150 = evil, 150 = good).
+
+Mobs spawn in different biomes such as deserts, forests, and plains.

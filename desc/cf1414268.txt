@@ -1,0 +1,121 @@
+This Add-On brings more life into your Minecraft world by adding in 6 new village types, as well as an adittional structure for the illagers!
+
+WARNING: This is a BETA version of the Add-On, expect some minor bugs, but most importantly, expect future updates!
+
+UPDATE 0.7
+
+Sandy Village
+
+Found on desert biomes. Loosely based on middle eastern bronze age architecture.
+
+Sandy Village (Saffron Variant)
+
+Found on mesa biomes.
+
+Timber Village
+
+Found on plains and taigas. A rustic looking village mainly comprised of wooden roofs and such.
+
+Pillager Wild Camps
+
+Found all over the overworld. These camps can spawn with several small structures such as tents, farms, watchtowers and more. The chests contain some loot and, like other structures, may contain a map to the "Big" Illager Camp from this Add-On.
+
+UPDATE 0.5
+
+Dark Oak Village
+
+Found on the dark oak forest biome
+
+Pale Garden Village
+
+Why would anyone want to live here? I do not know but it can be found on the pale garden biome.
+
+Arid Village
+
+A colorful town, with randomly colored houses and buildings! Found in arid biomes such as deserts, savannas, or badlands.
+
+Mushroom Village
+
+Can be found on the plains biome as well as mushroom islands.
+
+REVAMPED -> Village Layouts
+
+All villages now have revamped layout and path generation, instead of the previous straight paths now all villages present more varied layouts as well as more detailed paths.
+
+The classic villages plugin has also received updated paths system, which also results in more varied layouts for the classic villages
+
+UPDATE 0.2
+
+Jungle Village:
+
+A cozy village, hanging gently in along the jungle trees. Found in the the Jungle Edge biome
+
+Illager Watchtower
+
+An illager made tower, you fill find a considerable amount of illager here,if you get to the top you might find a in the chests a map that can lead
+
+you to an Illager Camp, as well as some other loot
+
+REVAMPED -> Illager Watchhut
+
+Now with a new look, a simple and small hut where you will find one or two illagers, however if you look inside you might find a map that can lead you to an Illager Camp!
+
+REVAMPED -> Illager Camps
+
+Now with a new look and improved generation, it's a well guarded encampment, you will find lots of Pillagers here, you might even find captive villagers!
+
+Illager Camps ALSO feature a map room in the central building. In here, along with some loot, you might find maps that can lead you to some of the other villages of this very Add-On
+
+If you follow these maps you will find a village according to what the map name says
+
+Nostalgic Village Variants
+
+Classic villages now have their missing variants. As they once did, these classic villages now come in a total of four variants you can find throughout the world, including the three new variants:
+
+Taiga Variant
+
+Savanna Variant
+
+Desert Variant
+
+Forest Village Birch Variant
+
+A variant of the forest village, spawning on the birch forest biome
+
+Worndown Village Unoxidized Variant
+
+A variant of the worndown village, spawning on the mesa biome as well
+
+VERSION 0.1
+
+Cherry Blossom Village:
+
+A lovely village that spawns somewhat rarely on the Cherry Blossom biome.
+
+Forests Village
+
+A type of village that can spawn in most forests
+
+Worndown Village (Badlands Village)
+
+A not so lovely village you might find in the middle of the red sands of the badlands biome.
+
+Swamps Village
+
+Found on the original swamp biome, floating above the muddy waters.
+
+Swamps Village (Mangrove Swamp Variant)
+
+Ocean Village
+
+Firmly and peacefully standing above an unexpected place, the oceans!
+
+Nostalgic Villages
+
+You can find a relic of the past in the plains of your world. Adapted for the newer villager mechanics.
+
+IMPORTANT:
+
+This Add-On now comes in the form of TWO separate packs, both come in the MCADDON file, but they need to be enabled separately.
+
+- Normal Pack: This pack includes all of the "new" structures this add-on brings, that being, ocean villages, cherry blossom villages, jungle villages, swamp and mangrove villages, fore

@@ -1,0 +1,23 @@
+Alan Becker Staffs (Minecraft Bedrock)Bring the legendary power of Alan Becker's "Animation vs. Minecraft" universe into your Bedrock worlds! This add-on introduces unique craftable staffs made from different blocks, giving you custom abilities to completely transform your gameplay.
+
+Features OfferedBlock Staffs: Craft distinct staffs using vanilla Minecraft blocks.Custom Abilities: Every block variant unlocks a unique superpower or tactical skill.Bedrock Optimized: Fully functional add-on designed for a smooth experience across mobile, console, and PC.
+
+How It Affects Your ExperienceNew Playstyles: Switch between different staffs to adapt instantly to combat, exploration, or building.Vanilla Integration: Enhances your survival or creative worlds without breaking the classic Minecraft feel.
+
+Version 3.0.0
+
+ADDED Stickman Morphs Some bugs, crafting issues, etc. fixed,The morphs aren't as good as other mods that have morphs, but I'm trying to improve them.
+
+Version 4.0.0
+
+Added new Morphs, a Viraband for the AvA animation, and fixed some bugs
+
+Version 5.0.0
+
+Added new accessories, mobs (Ravager Titan and Bee Creeper), new items, and bug fixes.
+
+And the Lucky Block now works almost like a normal one, dropping some random
+
+Version 11.0.0
+
+Some models of certain mobs have been remade.,added New staffs and New mobs.

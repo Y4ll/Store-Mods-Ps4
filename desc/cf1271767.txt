@@ -1,0 +1,78 @@
+This new Beta 3.71 (Experimental) introduces visual improvements to biome atmospheres, as well as enhancements to terrain textures. Elements from the 3rd Autumn Drop are also included.
+
+Read the entire article to get full details on the new content and the changes made for this new version.
+Please keep in mind that this texture pack is completely free and created without any monetary compensation, so I would greatly appreciate your support in helping my work reach more people who can enjoy it. Also, feel free to follow me on social media, especially Twitter/X, to stay updated on future releases and news.
+
+Reminder:
+This package is still in beta, and is therefore subject to constant changes. You can report any errors you encounter in the comments section, as well as share any opinions, positive or negative, you may have. You can also help improve this project.
+
+If you are a content creator on platforms like YouTube or TikTok, please don't forget to credit my work, which is completely free. Thank you for your attention, and enjoy the pack.
+
+Autumn Drop:
+
+- Dappled Forest
+
+- Poplar Tree
+
+- Poplar wood and its derivatives
+
+- Shelf mushroom
+
+- Red shrubs
+
+- Straw Bed
+
+- Cushions
+
+- Wool stairs and slabs
+
+- New carpet textures
+
+- Tapestries: Formed by combining 2 wool slabs of the same color
+
+- New concrete textures
+
+- Concrete bricks: Formed by combining 2 concrete slabs of the same color
+
+- New map textures
+
+The content of this Drop is currently available only in the Beta and Preview versions of Minecraft.
+
+Vanilla Mode:
+
+Vanilla Mode and Enhanced Mode have been added, allowing you to choose a Vanilla experience while still enjoying the visual effects included in the texture pack.
+Enhanced Mode is active by default; it includes the pack's full content, featuring textures, effects, and atmospheric elements.
+
+Visual Effects Log:
+
+Atmospheric and Natural Effects:
+
+- Deciduous Leaves: Trees drop withered leaves, varying by tree type, featuring realistic physics for block collisions, floatage, and combustion. Some trees also tend to drop small branches.
+
+- Light snowfall: This type of snowfall occurs in snowy forest biomes, and freezing winds are generated in the presence of ice or snow. It can be replicated by covering tree leaves with layers of snow.
+
+- Sand Clouds: These dust clusters form in deserts and badlands in areas with unstable sand; tumbleweeds can also be seen there. They cannot be replicated.
+
+- Mushroom Spores: The small and giant mushrooms on the Mushroom Islands release spores into the air if they are situated on mycelium.
+
+- Pale Garden: This biome features a dense mist that drifts through it, as well as glowing spores constantly released by Eyeblossoms at night. The mist can be replicated by placing Pale Moss beneath Pale Oaks.
+
+- Caverns: Underground biomes feature their own unique atmospheric effects.
+
+In Lush Caves, a humid mist forms due to the interaction between Spore Blossoms and moss.
+
+In Dripstone Caves, a humid mist also occurs, caused by long stalactites dripping onto rocky ground.
+
+In Sulfur Caves, a dense mist forms around pools of Potent Sulfur that have sulfur deposits beneath them; the toxic gases cause nearby lichens to release their glowing spores into the air.
+
+In the Deep Dark, a very dense haze appears when Sculk Sensors detect movement, which in turn generates small, glowing, descending particles.
+
+- Nether Mist: In areas of Netherrack where fire is present, this dense, reddish mist will appear.
+
+- Magma Drip: Magma blocks with fire on top will drip lava from their sides.
+
+- Resin Drip: The Creaking Heart and the Pale Oak containing it will ooze resin from their sides when the Creaking is struck.
+
+- Leaf Drip: Tree leaves exposed to rain will drip water from below.
+
+- The End: In the End dimension, purple auroras will appear in the distance, and Chorus Plants will release bubbles that float over the void. The auroras cannot be replicated, but the bubbles can be produced by having an Endermite ne

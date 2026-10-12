@@ -1,0 +1,63 @@
+Project Description:
+
+Time to grab your favorite gun and some ammo to take on hostile mobs with ease, or gather your friends for an epic battle royale. Whatever kind of combat experience you want to create, Syntax's Weaponry delivers the ultimate arsenal to bring your vision to life.
+
+Important Information:
+
+- This Project is 100% achievement compatible.
+
+- No Experiments will need to be activated to play.
+
+- Multiple guns to choose from.
+
+- Lightweight project.
+
+- Custom sound effect features.
+
+- Auto reload system.
+
+- Behaviour & Resource packs are both required for the project to work.
+
+- Have something to say? Join the Discord.
+
+Guns will use ammunition from your inventory, similar to how bows work but more advanced.
+
+Ammunition
+
+Potassium Nitrate and Sulfur Ores can be found in Deserts, Savanna and Mesa Biomes at 0 - 30.
+
+Combine Potassium Nitrate, Sulfur and Coal to create Gunpowder.
+
+Zinc Ore can be found in any biome at a 0 - 64.
+
+Combine Copper Nuggets and Zinc Nuggets to create a Brass Ingot.
+
+9mm Ammunition
+
+45ACP Ammunition
+
+12 Gauge Shells
+
+5.56mm Ammunition
+
+7.62mm Ammunition
+
+Guns
+
+Combine some Charcoal with Iron Ingots to create Steel Ingots.
+
+All guns will need to be crafted on a Gunsmith Table.
+
+Beretta M9
+
+Colt M1911
+
+Glock 17
+
+Glock 19
+
+WinchesterSXP
+
+Colt M16a4
+
+AK47

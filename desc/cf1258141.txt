@@ -1,0 +1,127 @@
+English
+Custom Heart Nametags for Players and Mobs [Addon Script]
+
+This script modifies the nameTag of players and mobs in Minecraft Bedrock to visually display hearts representing health, using animated and colorful effects.
+
+final Version Features:
+
+Displays hearts () to represent the current health of the player or mob.
+
+Dynamic color changes:
+
+Damage: Hearts flash dark red.
+
+Healing: Hearts flash green.
+
+Effect detection:
+
+Wither: Hearts turn gray.
+
+Absorption: Golden hearts for extra health.
+
+Automatic heart adjustment:
+
+High-health mobs: Shows up to 10 hearts with a fraction (current / max HP).
+
+Low-health mobs (10): Shows proportional hearts, no fraction.
+
+Fully compatible with all mobs that have health (zombies, bosses, animals, etc.).
+
+Keeps the original entity name and adds the heart bar below it.
+
+Optimized for performance: Updates every few ticks to reduce lag.
+
+Now compatible with Action & Stuff (addon/script) for enhanced entity interactions.
+
+What Makes It Special?
+Hearts flash consistently when entities take damage or heal, producing a clean and clear animation.
+It's a pure scriptno resource packs or NBT edits required.
+
+Name Tag Support Update!
+
+You can now assign custom name tags to mobs using this addon.
+
+"Do you like challenges? Try: [Water is Lava]
+
+Descripcion de Actualizacion Custom Heart Nametags (Version Final)
+Esta es la version final y pulida del addon Custom Heart Nametags! Mejora la forma en que se muestra visualmente la salud de jugadores y mobs mediante corazones animados. A continuacion, te explicamos lo nuevo y como utilizarlo:
+
+Cambios y Novedades:
+Nuevos comandos de funcion agregados:
+
+Ahora puedes activar o desactivar el sistema de corazones directamente desde el juego:
+
+Usa /function on para activar los corazones.
+
+Usa /function off para desactivar el sistema sin necesidad de eliminar el addon.
+
+Mejoras en la redaccion y formato de la descripcion para una lectura mas clara.
+
+Se anadio un mini tutorial para facilitar la instalacion y uso.
+
+Mejor compatibilidad con otros addons y funcionamiento estable en multijugador.
+
+Como Instalar y Usar
+Instalacion:
+Descarga el archivo .mcaddon.
+
+Abrelo: se importara automaticamente a Minecraft Bedrock Edition.
+
+Crea un mundo nuevo o edita uno existente.
+
+En la pestana Paquetes de Comportamiento, activa Custom Heart Nametags.
+
+Entra al mundo.
+
+Activar y Desactivar dentro del Juego
+Una vez dentro del mundo, puedes controlar el addon con los siguientes comandos:
+
+/function on
+Activa el sistema de corazones animados.
+
+/function off
+Desactiva los corazones y restaura las etiquetas originales.
+
+Puedes alternar estos comandos en cualquier momento, sin quitar el addon del mundo.
+
+Nota: Ideal para usar en mundos de supervivencia, aventuras o servidores (incluyendo Aternos).
+
+Te gustan los retos? Prueba tambien: [Water is Lava]
+
+Espanol
+Etiquetas de Nombre con Corazones para Jugadores y Mobs [Addon Script]
+
+Este script modifica la propiedad nameTag de jugadores y mobs en Minecraft Bedrock para mostrar corazones que representan la salud, con efectos animados y coloridos.
+
+Version final Caracteristicas:
+
+Muestra corazones () que indican la vida actual del jugador o mob.
+
+Cambio dinamico de color:
+
+Dano: Corazones parpadean en rojo oscuro.
+
+Curacion: Corazones parpadean en verde.
+
+Deteccion de efectos especiales:
+
+Wither (Marchitamiento): Corazones grises.
+
+Absorcion: Corazones dorados por vida extra.
+
+Ajuste automatico del numero de corazones:
+
+Mobs con mucha vida: muestra hasta 10 corazones con fraccion (vida actual / maxima).
+
+Mobs con poca vida (10): muestra corazones proporcionales sin fraccion.
+
+Compatible con todos los mobs que tienen vida (zombis, jefes, animales, etc.).
+
+Mantiene el nombre original del jugador o mob y agrega la barra de corazones debajo.
+
+Rendimiento optimizado: se actualiza cada pocos ticks para evitar lag.
+
+Ahora compatible con Action & Stuff (addon/script) para interacciones mejoradas con entidades.
+
+Que lo hace especial?
+Los corazones pa

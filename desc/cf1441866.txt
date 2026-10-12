@@ -1,0 +1,17 @@
+after a death
+
+After Edag's death, whether in the lava or in the void, every item and the level 1 - 1 are stored in a grave. If you die in the lava or in the void, your grave will spawn in an accessible location.
+
+Grave map
+
+After death, you receive a map with the coordinates and dimensions of the grave. If the grave is moved, for example by water, the coordinates will not be synchronized. When the map is used, the coordinates and dimensions are sent in the chat.
+
+Teleport with a map
+
+If you run the command /settings allowTeleporting true and then interact with a map, you will be teleported to the location of the grave.
+
+Open grave
+
+You can open the grave via an interaction and take out the items you want. To retrieve the remaining items and the levels from the grave, you must first crouch and then interact with it.
+
+player heads: There is a 10% chance that destroying a grave will drop a player head bearing the name and coordinates of the grave.

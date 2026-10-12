@@ -1,0 +1,21 @@
+Twilight Visuals is a cinematic shader pack inspired by the cold, moody atmosphere of the Twilight movie. Designed around a blue-teal color palette with muted rose sunsets, it transforms Minecraft Bedrock into a Pacific Northwest forest, misty, melancholic, and hauntingly beautiful.
+
+Features
+
+Cold blue-teal daytime atmosphere with desaturated overcast skies
+
+Muted lavender-rose sunrise and sunset. never warm or orange
+
+Deep blue moonlit nights with teal water reflections
+
+Hable tone mapping for cinematic highlight roll-off and film-grade feel
+
+Height-based volumetric fog that pools in valleys and lakeshores
+
+Colored local lighting, 85+ block types with custom light colors
+
+Realistic animated water with 20-octave wave detail and underwater caustics
+
+Per-biome atmospherics, fog, lighting, and color grading
+
+Feedback and suggestions are welcome to help shape future versions.

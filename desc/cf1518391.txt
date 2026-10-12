@@ -1,0 +1,197 @@
+Administrator Tag
+
+Orbital Strike Cannon commands are protected by an administrator tag.
+
+By default, the required tag is:
+
+"administrator"
+
+Players without the required tag cannot use protected OSC commands.
+
+Change the Administrator Tag
+
+"/osc:changeadmintag <tag>"
+
+Example:
+
+"/osc:changeadmintag oscadmin"
+
+The player changing the tag is automatically given the new administrator tag.
+
+View the Current Administrator Tag
+
+"/osc:showadmintag"
+
+Type this in the chat to get the default tag "/tag @s add administrator"
+
+NOTE: To get the tutorial on how to get the rods, its somewhere around the end of this description
+
+Orbital Strike Cannon
+
+An Orbital Strike Cannon addon for Minecraft Bedrock that turns fishing rods into powerful payload launchers. Inspired by creators such as Wemmbu and FlameFrags (dogs), the addon includes multiple destructive weapons, customizable orbital strikes, utility rods, special payloads, and a large collection of configurable settings.
+
+Beta APIs are required! Make sure Beta APIs are enabled in your world before using the addon.
+
+Main Weapons & Payloads
+
+The Orbital Strike Cannon uses fishing rods to launch different types of payloads.
+
+Available Rods
+
+Nuke Shot Rod TNT-based orbital strike
+
+Stab Shot Rod Stab-style payload
+
+Skull Rod Blue Wither Skull payload
+
+Chaos Cube Rod Sulfur TNT payload
+
+Wolf Rod Wolf-based payload
+
+Railgun Rod High-speed flaming arrow weapon
+
+Stasis Rod Saves a location and teleports the user back to it
+
+Nuke Shot
+
+The Nuke Shot launches an orbital TNT strike centered on the location you target.
+
+The strike can contain up to 20 rings, with individually configurable:
+
+- Ring radius
+
+- TNT count
+
+- Perfect-ring spacing
+
+- Payload height
+
+- Fuse time
+
+The Nuke Shot supports both Random and Perfect variants.
+
+Random & Perfect Nukes
+
+Random Nuke
+
+"/osc:payload nuke"
+
+Spawns the standard randomized Nuke Shot.
+
+Perfect Nuke
+
+"/osc:payload nukeperfect"
+
+Spawns a Perfect Nuke using the consistent/perfect ring pattern.
+
+You can also specify coordinates:
+
+"/osc:payload nukeperfect 100 64 -200"
+
+This spawns the Perfect Nuke at the specified coordinates.
+
+Stab Shot
+
+The Stab Shot is a realistic stab-style payload inspired by Wemmbu.
+
+The number of Stab Shot payloads spawned can be configured with:
+
+"/osc:oscsettings stabs <amount>"
+
+The setting supports values from 0640, while individual activations are limited to the supported active payload amount.
+
+Wolf Rod
+
+The Wolf Rod is inspired by the type of payload used by FlameFrags.
+
+It launches a configurable number of wolves using a saved structure.
+
+Setup
+
+You'll need:
+
+- A Structure Block
+
+- A wolf
+
+- Wolf armor
+
+- A bone
+
+- Potions/effects if desired
+
+- Get a Structure Block
+
+"/give @s structure_block"
+
+Place the Structure Block and open it.
+
+- Configure the Structure Block
+
+Set:
+
+- Offset: "1 0 0"
+
+- Size: "1 1 1"
+
+- Structure Name: "wolftamed"
+
+- Prepare the Wolf
+
+Place a wolf inside the Structure Block's bounding box.
+
+You can customize the wolf with:
+
+- Wolf armor
+
+- Potion effects
+
+- Other effects
+
+Make sure the bounding box is covered so the wolf doesn't wander away.
+
+- Save the Structure
+
+Open the Structure Block and press Save.
+
+The Wolf Rod relies on the "wolftamed" structure. If the structure has not been created in your world, the rod cannot spawn its wolves correctly.
+
+Dog Amount
+
+The number of wolves spawned can be changed with:
+
+"/osc:oscsettings dogs <amount>"
+
+Supported range: 0640
+
+Default: 50
+
+Chaos Cube / Sulfur Nuke
+
+The addon includes a Chaos Cube / Sulfur Nuke payload.
+
+The Sulfur payload creates a large pattern of TNT structures around the target.
+
+Its size can be configured with:
+
+"/osc:oscsettings sulfursize <1-4>"
+
+Available sizes:
+
+- 1 4
+
+- 2 8
+
+- 3 16
+
+- 4 32
+
+The size determines the dimensions of the sulfur payload pattern.
+
+Skull Rod
+
+The Skull Rod launches the blue Wither Skull orbital payload.
+
+The Skull payload creates a large spread of blue Wither Skulls around the target.
+
+The Skull Cannon can also be confi

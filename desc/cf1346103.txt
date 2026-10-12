@@ -1,0 +1,31 @@
+COMPLEX MACHINES
+
+Made for the 2025 ModJam
+
+This pack is the ultimate Extension for any Player that wanted complex Machines in there world.
+
+unknown Technology adds various diffrent machines which you can connect to create new Materials. These can hook up in giant automated machineries.
+
+Machines
+
+Smelter
+
+Constructor
+
+Assembler
+
+Compresser V1
+
+Compressor V2
+
+Compressor V3
+
+Drill
+
+Made by Blockplay <3
+
+Blockplay Discord
+
+All the coding done by @Schwerty
+
+All the models done by @YassinArb

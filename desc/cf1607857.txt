@@ -1,0 +1,29 @@
+Quick Totem Equip Your Totem of Undying in Seconds
+
+Tired of digging through your inventory mid-fight to grab your Totem of Undying? Quick Totem adds a fast, touch-friendly button system that lets you equip your totem in just a few taps no commands, no behavior packs, no scripting required. Pure resource pack magic.
+
+How it works:
+
+Tap the totem icon on your HUD to open your inventory.
+
+Tap the totem icon again to auto-equip it to your offhand.
+
+Tap the X to close your inventory done.
+
+Features:
+
+Touch-optimized built specifically for mobile/touch controls
+
+5 selectable button positions via in-game subpacks: Top Right, Top Left, Bottom Right, Bottom Left, and Hotbar Left (Java-style)
+
+No lag, no scripting, no behavior pack just JSON UI
+
+Smart detection the button automatically shows the right icon depending on whether a totem is already equipped
+
+Requirements:
+
+Minecraft Bedrock Edition
+
+Minimum engine version 1.21.0
+
+Choose your favorite button position from the pack's subpack settings and never fumble through your inventory during a fight again.

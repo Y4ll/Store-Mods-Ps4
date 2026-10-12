@@ -1,0 +1,33 @@
+Tired of losing your items when you die this addon is right for you!
+
+This add-on adds 3 gravestones that spawns and picks up your items when you die.
+
+They have their own inventory you can unlock and access it and retrieve all your items and pretend nothing happened.
+
+This add-on can store your items when you die but it can't save your items from lava.
+
+Grave Addon Command:
+
+Using /scriptevent command
+
+- grave:clean - use to remove all graves inside the world.
+
+When you die you will receive a Grave Key.
+
+You can use this grave key as a crafting recipe to craft the Instant Grave Key.
+
+The instant grave key will let you teleport to your previous location where you died.
+
+Use this key to access your grave.
+
+I would not recommend dying from lava because your items might get burned before the gravestone can store your items.
+
+Here is what the graves looks like:
+
+Reminder:
+
+- Addon will not work if gamerule doentitydrops is false
+
+Report Bugs:
+
+Discord: https://discord.gg/DZ7Q2ugEeg

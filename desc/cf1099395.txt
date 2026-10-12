@@ -1,0 +1,64 @@
+_______
+
+Idle Player Animations
+
+Version 1.0.8
+Now Achievement Friendly
+New Custom Animations Coming in v2.0+
+reccomendations welcomed!!!
+
+A MUST HAVE ADDON FOR ANY Minecraft WORLD!
+
+Idle animations that play every so often
+bringing more life to minecraft characters.
+Now With Breath Animations, Too!
+
+Tired of your character not moving even when sitting in your inventory screen for awhile?
+Add Idle/Players Animations & Breathing Animations!
+- Now Your MC Characters Can Look Around & Stretch!
+
+See It On MCPEDL
+Click HERE
+
+Add it to Your Worlds To Make The Game More Enjoyable
+& Simlulate Idle Character Movements.
+Watch your character move around at random times!
+Moves Head, (Sometimes Looks Around Randomly or Behind),
+Moves Hands, (fiddles around)
+Moves arms, (checking gear),
+(adjusting shoulders, & more) & kicks feet every so often!
+
+Preview of what some idle movements could look like!
+(made it play more frequently for display purposes - you may have different results on your worlds!)
+
+Leave a Like, & Subscribe!
+
+This Adds nothing new to the game in terms of programming,
+
+but instead utilizes Mojangs Already Built in default animations!
+
+it's all about timings ;)
+
+Download it & put the Behaviour Pack (BP) In any of Your Worlds!
+- No player.json!
+- No Experimental Toggles Required!
+- Random Timings Bring Your MC Characters To Life!
+- FULLY COMPATIBLE FOR VANILLA MINECRAFT!
+
+- NO CHEATS NEEDED
+- Doesn't Remove Achievements
+
+___
+
+NEW
+Breath Animations UPDATE!
+(Optional)
+
+Thanks for Downloading
+& using Bedrock Character Idle Animations!
+
+Enjoy The Addon!
+
+Want some fun useful Admin / Creator
+World/Server Functions?
+View Them Here! Click Here

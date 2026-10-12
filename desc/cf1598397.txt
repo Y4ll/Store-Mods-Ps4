@@ -1,0 +1,47 @@
+Lilium Iron Chests - Bedrock Edition
+
+Lilium Iron Chests is a vanilla-friendly addon inspired by the classic "Iron Chests" mod originally created for Java Edition. This project is an independent addon for Bedrock Edition that brings upgraded chests with progressively larger storage capacities, from 1 to 108 slots, seamlessly integrated into the gameplay experience.
+
+Features
+
+- Progressively Upgraded Chests: Adds 6 unique chest types with storage capacity exceeding a standard double chest, all in just a single block of space.
+
+- Dirt Chest (1 slot): A chest with a humorous capacity of exactly 1 slot, ideal for storing your most precious dirt block.
+
+- Copper Chest (45 slots): An early-game alternative to standard chests that offers a comfortable capacity of 45 slots.
+
+- Iron Chest (54 slots): The first major leap in massive storage, offering the equivalent of a double chest in a single block (54 slots).
+
+- Gold Chest (81 slots): A luxurious chest that significantly increases storage capacity to 81 slots.
+
+- Diamond Chest (108 slots): The ultimate chest with an immense capacity of 108 slots to store all your treasures.
+
+- Obsidian Chest (108 slots): Offers the same capacity as the diamond chest (108 slots), but with the advantage of being blast-resistant and requiring more time to mine (15 seconds).
+
+- In-game Chest Upgrades: Upgrade your chests directly in the world without breaking them! Sneak and interact while holding a chest upgrade item to upgrade your chest to the next tier, preserving the position, orientation, and all stored items.
+
+- Dynamic Animation and Interaction: Chests feature smooth 3D open/close animations, custom sound effects, and an intelligent collision system.
+
+- Dynamic Sneak Collision: When sneaking and looking at the chest, its physical collision is temporarily disabled to allow placing other adjacent blocks easily.
+
+Feature Showcase
+
+Addon Specifications (Bedrock)
+
+This addon has been optimized to offer the best possible compatibility and performance:
+
+- No Experiments: Does not require activating experimental gameplay toggles in the most recent stable versions.
+
+- Compatible Version: Works on version 1.26.50 and above.
+
+- Maximum Compatibility: Does not use player.json, ensuring full compatibility with other addons.
+
+- Scripting Engine: Implements @minecraft/server v2.10.0 to robustly manage entity inventories and animations.
+
+- Multilingual Support: Fully localized in 18 languages, including Spanish (AR, ES, MX), English (US, UD), German, French, Russian, and more.
+
+Bedrock Limitations
+
+- Backup Entities: Since Minecraft Bedrock does not support native dynamic inventories on custom blocks of variable size, each chest uses an invisible backup entity. A massive number of chests loaded simultaneously in a small area could slightly affect performance. (Periodic cleanup tasks run in the background to prevent orphan/ghost entities).
+
+Lilium Iron Chests Bedrock Edition | Developed by Lilium Studio

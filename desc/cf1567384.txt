@@ -1,0 +1,78 @@
+Rapid-Xp V1 [Achievement Friendly]
+
+Description
+
+Rapid-Xp is a lightweight Minecraft Bedrock Edition add-on designed to dramatically speed up your XP progression. Once enabled, the add-on automatically grants experience levels continuously while you play, allowing you to reach high enchantment levels, repair gear, and unlock XP-dependent features much faster.
+
+Whether you're preparing powerful enchanted equipment, testing game mechanics, or simply want a faster survival experience, Rapid-Xp provides a constant stream of experience without requiring commands or cheats.
+
+Features
+
+- Automatically grants XP levels while playing
+
+- Works continuously for all players in the world
+
+- Extremely fast level progression
+
+- Useful for enchanting, repairing, and testing
+
+- Multiplayer compatible
+
+- Achievement Friendly
+
+- Lightweight and easy to use
+
+- No manual activation required
+
+How It Works
+
+After the add-on is enabled in your world, players automatically receive experience levels every game tick. This results in rapid XP growth, making it easy to reach high levels in a very short time.
+
+Add-on Information
+
+Information
+Details
+
+Name
+Rapid-Xp
+
+Version
+1.0.0
+
+Creator
+Neq Gamerz
+
+Minecraft Version
+1.21.80+
+
+Type
+Behavior Pack / Script Add-on
+
+Achievements Friendly
+Yes
+
+Redistribution Policy
+
+You May
+
+- Use this add-on in your personal worlds.
+
+- Showcase this add-on in videos or livestreams.
+
+- Share the official download link with others.
+
+You May Not
+
+- Re-upload this add-on to any website, app, or platform without permission.
+
+- Modify and redistribute this add-on as your own work.
+
+- Directly share the pack files on other platforms.
+
+- Remove, edit, or hide creator credits.
+
+Credits
+
+Rapid-Xp is created by Neq Gamerz.
+
+Please support the creator by sharing the original download link and keeping all credits intact.

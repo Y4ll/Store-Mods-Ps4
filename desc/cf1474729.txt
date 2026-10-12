@@ -1,0 +1,44 @@
+ACHIEVEMENTS FRIENDLY
+
+This addon is a Bedrock Edition recreation of Beware The Rain, faithfully adapting the atmosphere and core gameplay from the original Java mod.
+
+This Beware The Rain Bedrock Port made by PnTMC
+
+My Youtube Channel : PnTMC's Youtube Channel
+
+----------------------
+
+This is NOT the original Java mod.
+
+This is a full Bedrock Edition port rewritten using Minecraft Bedrock systems and Script API.
+
+Original Java Mod by @TheBladeNinja:
+https://www.curseforge.com/minecraft/mc-mods/beware-the-rain
+
+All original concepts and designs belong to @TheBladeNinja.
+
+----------------------
+
+Differences from the original Java version:
+
+- Fully rewritten for Minecraft Bedrock Edition.
+
+- AI behavior adapted to Bedrock limitations.
+
+- Certain mechanics adjusted due to engine differences.
+
+- Optimized for Bedrock multiplayer compatibility.
+
+- Some features may slightly differ due to technical differences between Java and Bedrock Editions.
+
+----------------------
+
+If you use this addon in videos, you must clearly credit, tag me and also give proper credit to @TheBladeNinja as the original creator.
+
+Do NOT reupload, redistribute, or publicly modify this addon without explicit permission.
+
+Private modifications for personal use are allowed.
+
+If you encounter any issues or missing features, please leave a comment on this project page
+
+Watch This Video :

@@ -1,0 +1,57 @@
+CheatCore is an all-in-one utility and Quality of Life add-on for Minecraft Bedrock, combining many useful gameplay tools into a single pack.
+
+Cheatcore 1.2 Update log:
+
+--fix Chunk Border
+
+--add Player: Freefly
+
+--add Function: Chunk Loader
+
+Main Features
+
+Vein Miner Break connected blocks at once with adjustable mining modes and block limits.
+
+TreeCapitator Cut down entire trees quickly without breaking every log manually.
+
+FarmCapitator Till large areas, plant multiple crops at once, harvest crops, and automatically replant them.
+
+Swift Place / Swift Bridge Place blocks rapidly for building bridges and large structures.
+
+Agglomerate / Mass Stack Combine dropped items into stacks to reduce entity clutter.
+
+Mob Stacker Combine nearby mobs of the same type into stacks.
+
+Inventory Sorter Automatically sort your inventory and containers.
+
+Multi-Container Organizer Scan and organize multiple nearby chests or containers at once.
+
+Super Speed Hopper Transfer items much faster than a normal hopper.
+
+Super Speed Furnace Smelt items at a much higher speed.
+
+Enchant Manager Add, remove, and configure multiple enchantments from an in-game menu.
+
+Item Spawner Quickly get items through an easy-to-use interface.
+
+Effect Manager Apply and manage status effects directly from the menu.
+
+Teleport & Waypoints Save locations and teleport between them quickly.
+
+Freecam Explore the surrounding area using a detached camera.
+
+Chunk Border Display chunk boundaries for farms, redstone builds, and technical projects.
+
+Magnet Pull nearby dropped items toward the player.
+
+Forcefield Control or push nearby entities away from the player.
+
+Custom HUD Display useful information such as mining mode, block count, selected block, and other status information.
+
+Backpack & Inventory Utilities Extra tools for easier item and storage management.
+
+In-Game Settings Menu Enable, disable, and configure features directly in-game.
+
+Thai & English Support Full support for both Thai and English.
+
+CheatCore is designed to reduce the need for multiple separate add-ons by bringing many useful systems together in one complete package.

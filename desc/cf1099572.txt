@@ -1,0 +1,49 @@
+Explanation Video:
+
+Watch this to understand how the StarBot works.
+
+If you like our work, please do consider supporting us, you could do that by donating to us or just spreading your word.
+
+SUPPORT ME ON PATREON: https://patreon.com/AyyStar
+
+Doubts or queries? Join our Discord: Star's Studio
+
+Requirements:
+
+- Beta APIs experimental toggle
+
+- "Star's Centralized Menu" addon V-2.0
+
+Setup:
+
+- Download the StarBot V6 addon.
+
+- Download the "Star's Centralized Menu" V-2.0 addon: MCPEDL Link, CurseForge Link
+
+- Import both addons into Minecraft.
+
+- Apply both addons to your world.
+
+- Perform the wave emote to open the menu and perform the actions.
+
+- Enjoy!
+
+Notes:
+
+- A player can only control those bots which they have summoned themselves and not the bots summoned by any other player, unless, the player has "Star:admin" tag which allows them to control all bots inside the world.
+
+- A player with the "blocked" tag is blocked from using starbot.
+
+- Experiments cannot be turned off once they are activated.
+
+- If you close the world without removing the Bot first then it will be automatically removed without being killed and any items in its inventory will be lost.
+
+Copyright Message
+
+All Rights Reserved
+
+If you want to showcase this addon in your video, that's fine.
+
+You cannot use any part of my addon, however little it may be, in your own addon without my permission.
+
+You cannot distribute my addon in any way, shape or form without my permission.

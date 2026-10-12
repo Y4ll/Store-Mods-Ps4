@@ -1,0 +1,58 @@
+Real Dynamic Light lets you illuminate the area around you by simply holding a torch or any item that naturally emits light. Explore caves and the night with realistic dynamic lighting in your Survival world.
+
+Light Sources & Levels
+
+torch gives a light level of 14
+soul torch gives a light level of 10
+redstone torch gives a light level of 7
+lantern gives a light level of 15
+soul lantern gives a light level of 10
+glowstone gives a light level of 15
+sea lantern gives a light level of 15
+shroomlight gives a light level of 15
+magma gives a light level of 13
+crying obsidian gives a light level of 10
+ochre froglight gives a light level of 15
+verdant froglight gives a light level of 15
+pearlescent froglight gives a light level of 15
+beacon gives a light level of 15
+end rod gives a light level of 14
+jack o'lantern gives a light level of 15
+redstone lamp gives a light level of 15
+lit pumpkin gives a light level of 15
+campfire gives a light level of 15
+soul campfire gives a light level of 10
+lava gives a light level of 15
+flowing lava gives a light level of 15
+fire gives a light level of 15
+soul fire gives a light level of 10
+glow lichen gives a light level of 7
+
+cave vines gives a light level of 14
+cave vines body with berries gives a light level of 14
+cave vines head with berries gives a light level of 14
+
+powered repeater gives a light level of 9
+powered comparator gives a light level of 9
+
+respawn anchor gives a light level of 15
+sculk catalyst gives a light level of 6
+light block gives a light level of 15
+copper bulb gives a light level of 15
+
+exposed copper bulb gives a light level of 12
+weathered copper bulb gives a light level of 8
+oxidized copper bulb gives a light level of 4
+
+small amethyst bud gives a light level of 1
+medium amethyst bud gives a light level of 2
+large amethyst bud gives a light level of 4
+amethyst cluster gives a light level of 5
+
+end portal gives a light level of 15
+end gateway gives a light level of 15
+nether portal gives a light level of 11
+
+dragon egg gives a light level of 1
+brewing stand gives a light level of 1
+enchanting table gives a light level of 7

@@ -1,0 +1,67 @@
+Break one log. Drop the whole tree. Voxen Tree Capitator lets you chop any tree instantly by breaking a single log with your axe trunk, branches, and all. No more breaking logs one by one.
+
+How to Use
+
+Hold any axe, break one log of a tree the entire tree falls. Type /voxen:tc in chat to open the settings menu anytime.
+
+Achievement Friendly?
+
+Yes fully achievement friendly. Voxen Tree Capitator does not disable achievements or lock your world. Play survival the way you want, earn everything you would normally.
+
+Supported Wood Types
+
+Works with every wood type Oak, Spruce, Birch, Jungle, Acacia, Dark Oak, Mangrove, Cherry, Pale Oak, and Nether stems (Crimson & Warped). Also works on stripped logs and bark blocks.
+
+Smart Build Protection
+
+- Your builds are safe only chops logs that have leaves attached
+
+- Confirmation prompt if build blocks are detected nearby
+
+- Natural terrain never triggers false warnings
+
+Extra Features
+
+- Auto-Mine Just look at a tree while holding an axe, it chops itself
+
+- Auto-Collect All drops go straight into your inventory
+
+- Auto-Replant A matching sapling is planted back automatically after chopping
+
+- Break Leaves Optionally remove leaves along with logs
+
+- Axe Durability Axe loses durability per log broken, balanced for survival
+
+- Max Block Limit Adjustable cap (161024) to keep giant trees lag-free
+
+Works with Modded Trees Too
+
+Auto-detects custom tree blocks from other addons using standard naming and block tags. Most modded trees work with zero setup.
+
+In-Game Menu /voxen:tc
+
+- Toggle Tree Capitator on or off
+
+- Enable or disable each axe type individually
+
+- Adjust all settings and the max block slider
+
+- Reset to default with one tap asks before resetting
+
+All settings save to the world they stay after restarts and apply for every player on the server.
+
+What Makes This Different?
+
+Most tree capitator addons just chop the tree and call it a day. Voxen Tree Capitator goes further more features, smarter protection, and zero compromises.
+
+- Other capitators can accidentally destroy your wooden builds this one detects your builds and asks before touching them
+
+- Auto-Mine, Auto-Collect, Auto-Replant features most other capitators don't even have
+
+- Works with modded and custom trees out of the box, no setup needed
+
+- Control which axes work, how many blocks break, whether leaves drop fully configurable from one menu
+
+- Achievement friendly your progress stays intact, always
+
+It's not just a tree chopper. It's the only tree capitator you'll ever need.

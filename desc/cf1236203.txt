@@ -1,0 +1,115 @@
+Full Description:
+
+A new day begins! The NEW Spider-Man add-on is here, featuring a huge variety of content related to the character and his entire universe of movies, comics, TV shows, and video games. Youll be able to swing like Spider-Man, use all his abilities and powers, wear his suits, face off against his villains, or even become a villain yourselfamong many other things.
+
+Note: If you'd like more detailed information, visit the full blog post at:
+
+Spider-Man Project Add-on WebSite
+
+Powers:
+
+There is a huge variety of powers you can obtain in this add-on, such as Spider-Man's powers, power upgrades, accessories, and powers from Spider-Man's villains.
+
+Spider-Man:
+
+To unlock Spider-Man's powers in Survival mode, you'll need to find the capsule containing the radioactive spider, which you can obtain by searching the Oscorp laboratories scattered around the world.
+
+There is a 50% chance that a radioactive spider capsule will appear.
+
+The laboratories are located in forest, desert, savanna, and snow biomes.
+
+Powers are equipped in the leg slot; equipping them grants you a variety of abilities.
+
+Skill Items:
+
+Item 1 - Combat:
+
+Using the combat item will give you a forward boost.
+
+Item 2 - Includes three different skills:
+
+To switch skills, hold down the crouch button and use the item to open the skill menu.
+
+Air Punch:
+
+This will knock enemies hit by the attack into the air.
+
+You can engage in aerial combat after using the punch; to do so, use the punch against the enemy and then use the combat item against the enemy while theyre in the air.
+
+Air Kick:
+
+Delivers a flying kick; if it hits an enemy, it will deal damage. If you hold down the air kick item and tap the ground, it will deliver a blow that deals area damage.
+
+Spinning Strike:
+
+Delivers a spinning strike that deals area damage.
+
+Item 3 - Scan:
+
+This allows you to scan the area and see enemies through blocks.
+
+Item 4 - Focus:
+
+It will have a charge bar that displays your accumulated focus; using it will allow you to perform finishing moves or heal yourself.
+
+Default:
+
+-
+
+Accumulate up to 100 focus points.
+
+-
+
+You need 100 points to perform a finishing move.
+
+-
+
+You need 50 points for a quick heal or 25 points for a slow heal.
+
+Controls:
+
+-
+
+Finishing Move: To perform a finishing move, use the Focus item on an enemy.
+
+-
+
+Healing: To heal yourself, use the Focus item; however, if your Focus bar is full enough to perform a finishing move, hold down the crouch button and use the Focus item.
+
+-
+
+You can upgrade your Focus ability, reduce the cost of Finishing Moves and healing, or unlock your Ultimate Ability. To upgrade your abilities, go to Spider-Mans lab table in the Upgrades section.
+
+-
+
+When Focus is maxed out, youll be able to use the Area Web Shot ability; for this, you need 200 Focus points.
+
+Abilities:
+
+Spider-Sense:
+
+When an enemy is nearby, your Spider-Sense will activate, alerting you to their presence. Youll see a message warning you of an enemy, hear a sound, and see particles indicating the enemys location.
+
+Wall-Crawling:
+
+With Spider-Mans powers, you can climb walls. To do this, you must be pressed against a wall, not touching the ground, and hold down the crouch button to hang from the wall.
+
+When you release the crouch button, youll slowly descend.
+
+If you press the jump button without pressing the crouch button, you'll be able to slowly climb up.
+
+By holding down the crouch button and the jump button, you can run along walls. If you use the web shooter to swing while running, you can gain momentum that will increase your climbing speed.
+
+By looking backwardthat is, looking where the wall isn'tyou can jump forward by pressing the jump button.
+
+Run Freely on Walls:
+
+When you press the sprint button and manage to touch the ground on one side, you can run sideways along the wall.
+
+Running:
+
+Pressing the sprint button increases your running and jumping speed.
+
+Water Surfing:
+
+To surf on water, start running before you touch the water; a bar will appear sho

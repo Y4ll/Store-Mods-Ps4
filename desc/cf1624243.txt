@@ -1,0 +1,5 @@
+This Addon added a terrifying new creature in to your Minecaft world called the yelling creature
+
+This addon is a Port of the Java Mod yelling creature (java) Made By hopal228 and stop motion prophet
+
+For classification, mod is not a PNG-like Stalker like entity rather its Entity with custom model and animations

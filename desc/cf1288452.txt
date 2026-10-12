@@ -1,0 +1,3 @@
+MAM (Minecraft Addon Maker) Advanced Vehicles leverages the creative potential offered by Minecraft Addon Maker, utilizing existing models and textures as a foundation. This approach allows the mod to consolidate a diverse range of assets within a single, unified pack. By bringing these elements together, MAM Advanced Vehicles paves the way for more streamlined and efficient future updates. This centralized structure simplifies the process of customization, allowing developers to quickly modify and expand upon the vehicle offerings with greater ease.
+
+For full Addon Manual and Information please visit my discord channel. https://discord.gg/27dc9dPe3M

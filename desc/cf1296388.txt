@@ -1,0 +1,123 @@
+Zombie Rush Behavior Pack for Minecraft Bedrock
+
+Prepare for the undead flood. Survive the night... if you can.
+
+Every night in Minecraft used to be a warning. Now its a death sentence.
+
+Zombie Rush is a lightweight but intense behavior pack for Minecraft Bedrock (iOS, Android, Console, Windows 10/11) that unleashes overwhelming zombie hordes as soon as the sun goes down. With optimized spawn logic, no scripts required, and full mobile compatibility, this pack brings back fear to the night cycle.
+
+Features
+
+-
+
+Endless Nighttime Zombie Hordes
+
+-
+
+Zombies spawn at extreme rates when the light level drops to 7 or below (night).
+
+-
+
+They will relentlessly target players and villagers within a 16-block radius.
+
+-
+
+Performance-Aware Horde Logic
+
+-
+
+Up to 300 zombies can spawn near you without using any scripts or external mods.
+
+-
+
+Designed to simulate a "6000 zombies per minute" feeling without crashing your world.
+
+-
+
+Custom Pack Icon
+
+-
+
+Comes with a unique pixel art icon for clean integration in your world settings.
+
+-
+
+Multiplayer Compatible
+
+-
+
+Works seamlessly in local and Realms multiplayer sessions.
+
+-
+
+No Scripts, No UI Mods, No Cheats Needed
+
+-
+
+100% behavior-pack only. Plug-and-play.
+
+How to Use
+
+-
+
+Download the .mcpack file and open it with Minecraft.
+
+-
+
+In your world settings, go to Behavior Packs > Available.
+
+-
+
+Activate Zombie Rush Behavior Pack.
+
+-
+
+Play in Survival mode and try not to die.
+
+Warning
+
+-
+
+You will get overwhelmed if you're not ready.
+
+-
+
+This pack is balanced for thrill-seekers and defense builders, not peaceful mode players.
+
+-
+
+May impact performance on low-end devices if 200+ zombies are active at once.
+
+Compatibility
+
+-
+
+Minecraft Bedrock Edition 1.20+
+
+-
+
+Platforms: iOS, Android, Windows 10/11, Xbox, PlayStation, Switch
+
+Optional Add-ons (Coming Soon!)
+
+-
+
+Fog & Night Ambience Pack
+
+-
+
+Exploding Zombie Variants
+
+-
+
+Nighttime Boss Mob: The Zombie Queen
+
+-
+
+Villager Defense Upgrades (Iron Golems with AI boosts)
+
+Created With Care
+
+This addon was designed to push Bedrock's spawn engine to the limits without breaking devices. Want to remix it, evolve it, or feature it? Youre welcome to just credit the creator.
+
+Created by Ritz for those who dare to stay out after sunset.

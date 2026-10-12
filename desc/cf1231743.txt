@@ -1,0 +1,71 @@
+JOIN THE ADDONS DISCORD
+
+VIBRANT VISUALS ISN'T COMPATIBLE AND NO EXPERIMENTS ARE NEEDED
+
+Disastrous Dunes adds several new blocks to the surface of the Desert and Mesas, it also adds new desert biomes!
+
+Desert Wastes:
+
+Lush Desert
+
+Oasis:
+
+Desert Bryce
+
+Colored Desert:
+
+MESA CHANGES:
+
+the mesa has been given more dead plants, surface fossils and Quick Sand
+
+DUST WIND:
+
+Dust Wind happens whenever its raining in the overworld!
+
+SANDSTORMS:
+
+Sandstorms happen whenever a thunderstorm is happening in the overworld
+
+STRUCTURES:
+
+Desert Labyrinth:
+
+Ruined Home:
+
+Ruined Pyramid:
+
+Enforced Pyramid:
+
+Underground Desert/Mesa Changes
+
+The 2 biomes now have spikes underground, alongside replacing all the stone with their own special stone, it even extends to the Deepslate Layer
+
+STRUCTURES:
+
+this addon only adds 3 new structures and theyre both for the desert, they both have suspicious sand as the loot
+
+TOPAZ CAVES
+
+Topaz Caves spawn under regular mesa biomes!
+
+ITEMS:
+
+theres a new weapon, Claymores, Claymores act similar to sweeping edge from java
+
+Amber Items: Amber is an alternative to diamond except with stronger durability, amber replaces diamonds in the desert/mesa
+
+Scorpion Items: Scorpion Items are made from Scorpion Stingers and are an alternative to iron, but more effective against modded blocks
+
+Bronze items: Bronze is made by crafting bronze alloy with Tin and Copper ingots, the gear has higher durability than iron and the same stats as iron
+
+Topaz items: Topaz Items are weaker than diamond in stats but stronger in durability, topaz is found in the Topaz Caves
+
+MOBS:
+
+Sand Cyclord: Sand Cyclord jumps at players and launches them around via exploding wind charges on itself, depending on how close you get, this mob will have different effects, 3 blocks is wind charge blast, 2 blocks is blindness for 2 seconds and 1 block you take 8 damage
+
+Dusted: The Dusted throws balls of sand at the player:
+
+Sand Mite: Sand mites attack the player via melee damage
+
+Scorpion: Scorpions act similar to spiders and have tiny varients, they inflict poison on hit:

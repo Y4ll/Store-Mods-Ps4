@@ -1,0 +1,89 @@
+This addon adds 2d controlable subway cars to your world. The train itself is found in the "Mobs" section of the creative inventory. Download MCA!
+
+Types of Subway Cars
+
+Below are the main car models with their widely known names. All other numbers from the pack are listed in the expandable section.
+
+- 81-710 (Ezh-3)
+
+- 81-717 (Numbered)
+
+- 81-720 / 81-721 (Yauza)
+
+- 81-760 / 81-761 (Oka)
+
+- 81-775 (Baltiets)
+
+- 81-502 (Ema-502)
+
+- 81-503 (Emkh-503)
+
+- 81-701 (Type G)
+
+- 81-702 (Type D)
+
+<details> <summary>All other model numbers</summary>
+
+- 81-1031, 81-1032, 81-1033, 81-1034
+
+- 81-705, 81-706
+
+- 81-711
+
+- 81-712
+
+- 81-713, 81-714, 81-715, 81-716
+
+- 81-718, 81-719
+
+- 81-723
+
+- 81-732
+
+- 81-739
+
+- 81-742
+
+- 81-752
+
+- 81-762
+
+</details>
+
+Notice:
+
+- To drive, first execute the command /function setting.
+
+- Build with powered rails.
+
+- All experiments must be enabled (except "New Trade and Recipes").
+
+- MCA Addon is required for control.
+
+Train Controls (Notch System)
+
+This addon uses a notch control system, allowing you to precisely manage speed and braking in steps, just like in a real train.
+
+- Not P (Power) Each use increases the power notch, making the train accelerate. Use repeatedly to reach your desired speed.
+
+- Not B (Brake) Each use increases the brake notch, slowing the train down. Use it when approaching stations or curves.
+
+- Not N (Neutral) Sets the notch to neutral, maintaining your current speed without further acceleration or braking. Ideal for long straight sections or speed limits.
+
+- Reverse Reverses the train's travel direction. Important: Do not use while moving! Bring the train to a complete stop first.
+
+Functional
+
+- Sit anywhere place a seat anywhere you like. (may not work on 1.18+)
+
+- Movement drive the train along powered rails.
+
+- Door control choose a side and open/close doors.
+
+Door control
+
+- Choose the side you want to open (OC Left / OC Right).
+
+- Use the Doors Open / Close button. (deprecated, use new mtm version)
+
+https://discord.gg/3ySJKw96Dn

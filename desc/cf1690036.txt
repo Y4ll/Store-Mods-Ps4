@@ -1,0 +1,21 @@
+FPS Lite FPS Booster for Minecraft Bedrock
+
+FPS Lite is a lightweight resource pack built to make your Minecraft Bedrock gameplay noticeably smoother and more responsive without turning your world into a blurry mess. Instead of stripping the game down, it quietly trims the parts of Minecraft's rendering that eat into your frame rate the most: heavy particle effects, complex shadows, and unnecessarily detailed block textures. The result is a cleaner, faster experience that still looks and feels like Minecraft.
+
+What FPS Lite Optimizes:
+
+Simplified particles dozens of effects (explosions, spells, splashes, smoke, and more) are lighter on the GPU without disappearing entirely
+
+Blocky shadows replaces detailed shadow rendering with a lightweight, low-cost shadow style
+
+Streamlined block textures grass, mycelium, podzol, and nylium blocks use simplified, unified textures to cut down on texture-swapping overhead
+
+Optimized animated textures flipbook animations (water, lava, fire, etc.) are tuned to reduce rendering load
+
+Lightweight & drop-in no config needed, just apply the pack and go
+
+Perfect for: Low-end and mid-range devices struggling to keep a stable frame rate Players on mobile, console, or older PCs who want more headroom for smooth gameplay Anyone who wants a performance boost without switching to a fully "bare-bones" look
+
+How to use: Apply FPS Lite like any other resource pack either on its own or stacked with your favorite texture pack for a balance of style and speed.
+
+FPS Lite Play Smoother. Play Better.

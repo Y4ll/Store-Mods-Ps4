@@ -1,0 +1,127 @@
+Its so sad that Minecraft Dungeons is not recieving new updates, isn't it? Well, it's your lucky day, since I present you, the Dungeons Content Plus Add-on.
+
+This add-on expands the universe of Minecraft Dungeons on Minecraft Bedrock Edition. This pack works as a complement for my Dungeons Content Add-on, so they must be used together. The project has been under development for 2 years now, and more updates will be released in the future.
+
+How does this addon works? It works the same way like the Mojang Devs used to add DLCs to Minecraft Dungeons, each Major Release of this Addon will be a new custom DLC, new mobs, artifacts, pets and gear, the first release of this addon is The Frozen Adventures DLC
+
+This first DLC adds a new set of illagers, 2 pets and 1 artifact.
+
+- Eskologers, an ancient clan of illagers living in the cold biomes of the overworld (These mobs originally come from a Java mod "Pyrologer and friends".
+
+- Twisted Captain, an ancient rampart captain with the thorns enchantment, has 1 enchanted redstone golem as minion.
+
+- Tiny Glacier, a small creature made out of ice living in cold biomes, can be tamed.
+
+- Mini Wricked Wraith, a mini scaled version of the Wretched Wraith, can be tamed.
+
+- Snow Golem Kit, an artifact that can summon a snow golem which shoots flaming snow balls at monsters and stuns them.
+
+- Hammer of Frost, a hammer who deals knockback damage and freezes the target.
+
+This second DLC adds a new set of monsters found in the Nether
+
+- Soul Blaze, a soul variant of the Blaze that deals more damage.
+
+- Soul Wildfire, a soul variant of the Wildfire that deals more damage.
+
+- Armored Wither Skeletons, an armored variant of the wither skeletons, they have both melee and ranged variants with 2 different armor types, Golden and Netherbrick.
+
+- Mini Soul Wildfire, a pet version of the soul wildfire.
+
+- Mini Wildfire, a pet version of the wildfire.
+
+- Netherite Ministrosity, a pet version of the Netherite Monstrosity.
+
+- Baby Wither, a pet version of the wither.
+
+This third DLC adds 3 new armors, 2 artifacts and 2 new illagers.
+
+- Pumpkineer, an illager disguised as a pumpkin. This mob originally comes from a Java mod "Pyrologer and friends".
+
+- Pyrologer, an illagers living in the nether with the power of fire. This mob originally comes from a Java mod "Pyrologer and friends".
+
+- Nightmare bone, an item that summons the black wolf as an ally.
+
+- Delicious bone, an item that summons the skeleton wolf as an ally.
+
+- Pumpkin Horror, a new type of armor.
+
+- Nightmare Horror, a new type of armor.
+
+- Phantom Wolf Armor, a new type of armor.
+
+This fourth DLC adds 4 new mobs, 11 blocks and 1 music disc.
+
+- Easterloger, an illager disguised as an Easter Bunny which shoots easter eggs that spawn little surprise on impact. This mob originally comes from a Java mod "Pyrologer and friends".
+
+- Chickenger, an illager disguised as a chicken. This mob originally comes from a Java mod "Pyrologer and friends".
+
+- Chickager, a baby variant of the Chickenger. This mob originally comes from a Java mod "Pyrologer and friends".
+
+- Easter Eggs, these are blocks that gen generate in the Flower forest biome, and drop a little surprise when broken.
+
+- "Easter Eggs" Music Disc, a rare item that obtained from the easter egg blocks.
+
+This fifth DLC adds tons of new mobs and a new massive structure to explore!
+
+- The Charger
+
+- The Commander
+
+- The Cowboy
+
+- The Creeder
+
+- The Prison Slime
+
+- The Prison Zombie
+
+- The Jailor
+
+- The Elite Vindicator Chef
+
+- The Head Chef
+
+- The Hallucinator
+
+- The Senator
+
+- The Honey Slime
+
+- The Maid
+
+- The Maid Killer Bunnies
+
+- The Juggernaut
+
+- The Inquisitor
+
+- The Paladin
+
+- The Prosecutor
+
+- The Knight
+
+- The Marauder
+
+- The Storm Caller
+
+This sixth DLC dives you underwater with lots of new content!
+
+- New Sunken Skeleton Variants
+
+- The Hydromancer
+
+- The Abyssologer
+
+- The Mermaid
+
+- The Siren
+
+- The Ender Ministrosity
+
+- The Obsidian Ministrosity
+
+- The Glowing Obsidian Ministrosity
+
+- New Armo

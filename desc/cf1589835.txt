@@ -1,0 +1,9 @@
+Bare Bones Recolors is a lightweight, standalone resource pack made specifically for Minecraft Pocket Edition (MCPE / Bedrock). It fully alters the world on its own. It gives clean, vibrant, shader, and flat-colored look.
+
+Why It Works Perfectly.
+
+Performance Boost: Features a simple 16x16 pixel layout. This lowers hardware strain, reduces lag, and increases frame rates on mobile devices.
+
+Trailer Aesthetic: Instantly swaps out noisy, gritty vanilla blocks for smooth, solid blocks right after activation.
+
+Enhanced Visibility: Brightens dark caves, deep oceans, and nighttime environments, making it much easier to see on a small phone or tablet screen.

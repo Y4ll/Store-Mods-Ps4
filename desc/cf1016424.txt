@@ -1,0 +1,2 @@
+UI queue is a script that can transform the title command into a custom UI prompt. This script is created to prevent overlapping displayed titles that can break custom UI.
+This pack is created especially for the creator who wants to add a custom UI to their addons and still get compatibility with other addons.

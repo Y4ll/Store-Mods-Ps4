@@ -1,0 +1,17 @@
+Images
+
+- Shows up players name and gamerpic
+
+- You can also click at their name or PFP
+
+- There's also a Player count
+
+- Works perfectly on the servers
+
+- You can also hide the player list so it will only show up the amount of players
+
+Credits
+
+- YuuhaLand (https://github.com/YuuhaLand/Tabkey_Playerlist_UI/releases) - Tab player list source code/template.
+
+Also try Bedrock UI+. It's have many features in a single pack!

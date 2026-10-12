@@ -1,0 +1,41 @@
+Six beautiful butterfly species, a craftable net to catch them, and a passive emitter for your gardens. Vanilla-friendly, lightweight, and survival-ready.
+
+Six Unique Butterflies
+
+- Monarch - Spawns across all Overworld surface biomes in daylight
+
+- Blue Butterfly - Found in flower forests, plains, and meadows
+
+- Red Butterfly - A fiery flash of color among the greenery
+
+- Pink Butterfly - Delicate and elegant, drawn to flowers
+
+- Cave Butterfly - A mysterious glowing variant from deep underground
+
+- Golden Butterfly - Rare meadow dweller; pulses Regeneration to nearby players
+
+Butterfly Net
+
+Catch any butterfly to add it to your collection.
+
+- Recipe: 3 cobwebs on top + 2 sticks in the handle
+
+- Right-click a butterfly with the net to catch it
+
+- You receive the matching spawn egg as a drop
+
+- Use the spawn egg on any block to release the butterfly back
+
+- Spawn eggs display perfectly inside vanilla item frames
+
+Butterfly Emitter
+
+Place an emitter to create your own butterfly hotspot.
+
+- Recipe: 8 poppies around 1 dirt
+
+- Periodically spawns random butterflies in a small radius
+
+- Emits soft light level 6, perfect for gardens
+
+- Spawns all 6 variants with weighted randomness

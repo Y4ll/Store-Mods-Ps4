@@ -1,0 +1,49 @@
+This addon lets you place EVERY food item in Farmer's Delight in 3D!
+
+Placeable 3D Foods!
+
+For foods already in containers (bowls, glass bottles, etc.), simply Sneak + Right-click to place them directly on the ground.
+
+New Items: Food plates
+
+Crafted using any wooden slab, plates allow you to display smaller finger foods that don't come in a container.
+
+Some finger foods in the larger plates are stackable. (maximum stack size varies)
+
+All placed food blocks are neither block entities nor entities, which makes them lag-friendly, even when placed in large amounts.
+
+Plate Interactions
+
+Place All Items: Sneak + Right-click with the food.
+
+Take One Item: Right-click with an empty hand.
+
+Take All Items: Sneak + Right-click with an empty hand.
+
+Port Permission
+
+The Display Delight mod on Java edition is under the LGPLv3 License
+
+This license allows me to port it to bedrock edition.
+
+Special thanks to jkvin114 for creating this excellent mod
+
+Here is the original project link: Display Delight - Minecraft Mods - CurseForg
+
+Compatible Addons
+
+- Pineapple Delight - 5 foods
+
+- Large Meals - 13 foods
+
+- Corn delight - 8 foods
+
+- Ocean's Delight - 9 foods
+
+- Brewin' And Chewin' - 8 foods
+
+- Crabber's Delight - 13 foods
+
+- End's Delight - 24 foods
+
+- Nether's Delight - 8 foods

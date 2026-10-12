@@ -1,0 +1,82 @@
+This addon allows you to sit, lie down, crawl, wallclimb and pick up a mob, player or block and carry it! You can also crawl through a 1-block hole! It also works in multiplayer!
+
+Download BP and RP and put these 2 packs into your Minecraft world!
+
+- Enable these experiments: "Beta APIs"
+
+- Only stable Minecraft versions are supported. (not beta or preview)
+
+- This addon uses "player.json" and is not compatible with other addons that also use it
+
+This addon is a combination of two of my separately incompatible addons. Here is a brief description of each addon:
+
+More Body Actions
+
+This addon allows you to sit, lie down, crawl, and climb over walls! The first-person camera adjusts its position depending on the body's state! You can also crawl through a 1-block hole! It also works in multiplayer!
+
+[ How to use ] (More Body Actions)
+
+To sit down, just look as far down as possible and sneak
+
+To lie down, just look as far up as possible and sneak
+
+To start crawling on all fours, first sit down and then just walk forward.
+
+To start crawling normally, jump while crawling on all fours. Jump again to get back on all fours.
+
+To get up, just press sneak
+
+To grasp onto a wall, approach it closely, look slightly upwards, and jump. Then you can move along the edge of the wall to the right or left, or climb onto it by jumping.
+
+Grasping is only possible under the following conditions:
+
+- Both of your hands are free (not holding any items)
+
+- The height of the wall is not more than 3 blocks.
+
+- You're not sneaking
+
+- You are looking slightly upwards (not at a 90-degree angle, but within the range of 30 to 85 degrees).
+
+Learn more about More Body Actions
+
+Pickup & Carry
+
+Pick up the player, mob, or chest with items and carry it to the right place! All mobs, players and blocks with items are carryable! Even mobs or blocks from other addons!
+
+[ How to use ] (Pickup & Carry)
+
+How to pick up a mob or player:
+
+- Make sure you are not holding any items in your hands (mainhand & offhand)
+
+- Get as close to a mob or player as possible, look at it, then sneak and jump
+
+How to pick up a block with items:
+
+- Make sure you are in "survival" mode
+
+- Make sure you are not holding any items in your hands (mainhand & offhand)
+
+- Approach the block as closely as possible (but do not stand on it)
+
+- Begin sneaking and jumping while simultaneously start breaking the block you want to pick up
+
+You can pick up any block that can store items (chest, dispenser, furnace, etc.). Pickup is only possible if there is at least 0.5 blocks of free space above the block you want to pick up. If the block is at head level, you can still pick it up even if there is no free space above it.
+
+Learn more about Pickup & Carry
+
+FAQ
+
+Does this addon work on realms? Download the world from your realm, enable the necessary experiments, add this addon to it, and upload it back to the realm.
+When I sit in 1st person my body rotates, but in 3rd person it does not. It's a bug and can't be fixed yet.
+
+Your addon doesn't work! Please perform all actions listed below:
+
+- Make sure that the type of your Minecraft version is "release" (not beta or preview), and that the version matches the one indicated in the checklist above.
+
+- Make sure that in the settings of your world, you have enabled all the experiments listed in the checklist above. If the world is uploaded to a server, check the server control panel for experiments. If they are not available there, download the world, import it into Minecraft, enable all the necessary experiments, and then upload it back to the server.
+
+- Make sure that in the world settings, only one version of the addon is active in both "behavior packs" and "resource packs," and there are no duplicates or previous versions. If there is at least one duplicate or previous version active at the same time, the addon will not work. The same applies to the world that is uploaded to the server.
+
+Your addon works in a local world but does not work on the server! Make sure th

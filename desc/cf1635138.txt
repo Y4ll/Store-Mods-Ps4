@@ -1,0 +1,47 @@
+Advanced Drills:
+
+Say goodbye to swinging standard pickaxes and hello to the future of underground exploration! Advanced Drills is a survival-friendly add-on that introduces heavy-duty mechanized mining to your Minecraft world. Carve out massive tunnels, manage your machinery, and light up the caves like never before.
+
+This add-on is 100% Achievement Friendly, meaning it seamlessly integrates into your existing survival worlds without disabling your hard-earned achievements!
+
+The Drills
+
+There are 5 progressive drill tiers available, each designed for a specific stage of your survival journey:
+
+-
+
+Copper Drill (1x1): Your early-game prototype! It mines a single block extremely fast and rarely overheats. Perfect for quick branch mining.
+
+-
+
+Iron Drill (3x3): Your first true tunnel bore. Clears a massive 3x3 area of stone and dirt with moderate heat capacity.
+
+-
+
+Gold Drill (3x3): The overclocker. Features a near-instant spool-up time for lightning-fast burst mining, but has low durability.
+
+-
+
+Diamond Drill (3x3): The heavyweight champion. Features massive durability and easily chews through deepslate.
+
+-
+
+Netherite Drill (3x3): The pinnacle of engineering. Immune to fire and lava damage with an incredible heat capacity.
+
+Survival & Balance Mechanics
+
+Operating heavy machinery isn't magicit requires skill!
+
+-
+
+Spooling: Hold the use button to "spool up" the motor before the drill begins breaking blocks.
+
+-
+
+Overheating: Keep an eye on your action bar's Heat Gauge! Mining for too long will cause your drill to overheat and lock up. (Pro-tip: Jump into a pool of water to instantly cool your drill down!)
+
+Utility Gear: The Mining Helmet
+
+Torches are a thing of the past! Craft the brand new Mining Helmet using Gold, Iron, Glass, and Redstone.
+
+This heavy-duty yellow hardhat provides the exact same armor protection as an Iron Helmet, but with a massive upgrade: Dynamic Lighting. Whenever you wear it, the helmet's headlamp will automatically illuminate the area around you as you walk, keeping your hands free to operate your drill in the darkest depths of the world.

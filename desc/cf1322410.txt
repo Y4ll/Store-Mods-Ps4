@@ -1,0 +1,65 @@
+Hello! If you like Halo, this add-on is for you. It brings many interesting things from the Halo world to your Minecraft Bedrock: new structures, many new weapons, unique enemies, and an extension to the Minecraft survival world.
+
+Survival Guide.
+
+It is recommended to always play with coordinates and maintain an inventory, although the inventory is optional.
+
+To start the world, always head to coordinates 0 ~ 0. Here you will find a capsule containing initial loot and a book that will give you coordinates to go to other important structures. One of these structures is important for obtaining Spartan armor.
+
+To find the library, you must first find Miranda Keyes. She will be at one of the important bases or in some other Forerunner structure. Give her a rocket launcher and she will give you the map to find the library.
+
+COVENANT.
+
+The Covenant is our main enemy faction, there are many races in its ranks, and each one fulfills its role within its ranks. Their main mission is to prevent your victory.
+
+Elites.
+
+Elites are the Covenant's primary race, wielding energy shields similar to those used by the player when wearing Spartan armor.
+
+You'll find them in structures commanding various races or lower-ranking elites. They possess evasive abilities, a high weapon capacity, and the ability to use armor lock to avoid projectile damage.
+
+There are 11 ranks available, the lower ranks will be the most visible in your world.
+
+Grunts.
+
+These cowardly little creatures, also used as cannon fodder, are a real nuisance due to their sheer numbers during battles.
+
+Lazy and sleepy, they possess foolish combat skills, but they will be willing, even going so far as to commit kamikaze attacks, to secure victory for the Covenant.
+
+Currently, there are 6 ranks, and they typically have basic equipment.
+
+Jackals & skimishers.
+
+Jackals excel at their job. In combat, they can overload their plasma pistols to break through the player's energy shields. Their shields allow them to take cover and minimize damage. They are also quite skittish, though less so than Grunts.
+
+Skimishers are a major nuisance. Despite lacking plasma shields, their incredible speed makes them very difficult to damage. They are a real headache in combat.
+
+Brutes.
+
+Shock troopers with overwhelming strength, their captain variants carry energy shields. They are slower to evade attacks but far more resilient than elites. If their armor breaks, they often drop their weapons and charge at their targets, pummeling them with bullets.
+
+Currently, there are five ranks, each with a unique arsenal distinct from the rest of the Covenant.
+
+Hunters.
+
+These gigantic worm-like formations are usually found in pairs, and they carry a shield that helps them deflect gunfire.
+
+Their melee attacks are devastating; they can send their targets flying. And let's not forget their massive assault cannon, which allows them to clear large areas of enemies.
+
+Covenant weapons arsenal.
+
+The Covenant usually carries many technological weapons, many of which use plasma as ammunition, a somewhat hot material that has the ability to break shields.
+
+Plasma pistol: A basic short-range weapon, mainly used by Grunts and Jackals. Jackals often overload it to break shields; sustained fire will cause it to overcharge.
+
+Plasma rifle and Brute Edition: Regularly used by Elites and its red variant by Brutes, these are short-range weapons that deal significant damage against shields. If used with sustained fire, they will overheat.
+
+Plasma Repeater: A medium-range weapon created to counter humanity's assault rifle. It deals significant damage against shields and will overheat if used with sustained fire.
+
+Spiker: A short-range brute weapon effective against the body, a very fast weapon with a high spread capability.
+
+Carbine: a very long-range weapon, it does a lot of damage.
+
+Beam rifle: a very long-range weapon, capable of taking out its targets in a single shot.
+
+Concussion rifle: A powerful grenade launcher used by elites to 

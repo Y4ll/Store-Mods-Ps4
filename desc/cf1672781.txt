@@ -1,0 +1,25 @@
+Xray Plus is built on the proven X-Ray v1.9 Stable approach, combining invisible terrain rendering with emissive PBR ore textures and a fullbright lighting preset. Stone, deepslate, netherrack, basalt, tuff, calcite, soul sand, and all other common filler blocks are rendered invisible, leaving only ores and important blocks exposed. Every ore type coal, iron, gold, copper, lapis, redstone, emerald, diamond, nether gold, quartz, ancient debris, and all deepslate variants is replaced with a glowing emissive texture so it stands out clearly even in pitch-dark caves. Sand and gravel remain fully visible as normal solid blocks so you always know where the surface and ocean floor are.
+
+Xray Plus contains no behavior pack, JavaScript, commands, functions, or gameplay scripting. It does not intentionally disable achievements.
+
+Features-
+
+Invisible Terrain: Stone, deepslate, netherrack, basalt, soul sand and more become fully invisible.
+
+Glowing Ores: All ores emit a natural PBR emissive glow never miss a diamond again.
+
+Visible Sand & Gravel: Both remain as solid visible blocks for safety.
+
+Fullbright Lighting: Maximised ambient brightness for Vibrant Visuals users.
+
+No Vignette: Dark screen edges removed for a cleaner view.
+
+Achievement Safe: Pure resource pack no scripts, commands, or behavior pack.
+
+Global Resource: Apply once in main menu settings to use on every world and server.
+
+Lightweight: Only the essential textures zero performance impact.
+
+Requirements Enable Vibrant Visuals in Minecraft Video Settings for the full ore glow and fullbright effects.
+
+Installation Download and double-click Xray Plus.mcpack. Go to Settings > Global Resources and activate Xray Plus, or add it in your world settings. (Recommended) Enable Vibrant Visuals in Video Settings. Enter the world terrain will be invisible and ores will glow.

@@ -1,0 +1,14 @@
+Hello, and welcome to another pack of mine! This pack was originally made by LadyTwilight for Java Edition and was ported by me to Bedrock Edition. This pack adds pretty purple gradient exp bar and hollow crosshair to break up the default crosshair. This pack also adds a new hotbar selector!
+
+Changes Included:
+
+- Crosshair
+
+- Experience Bar
+
+- Hotbar Selector
+
+For the original Java Version:
+Java Edition | Java Author's Profile
+
+Owner's Permission:

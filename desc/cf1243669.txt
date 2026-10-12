@@ -1,0 +1,461 @@
+This addon adds More Than 600 different Japanese Style Character (Anime, Games & Vtuber) in to your Minecraft world. With Voice Actor form Anime.
+
+Got Idea form TInfiniteMinds, AL3XANDRE & Xione
+
+This addon adds More Than 590 different Waifus Character in to your Minecraft world. Such as
+
+Melee Waifu Balance Class (Blue Color Name in Spawn Egg):
+
+- Nakano Ichika
+
+- Tokino Sora
+
+- Emilia
+
+- Aisha Landar
+
+- Chloe Lemaire
+
+- Kusano Yui
+
+- Hanasato Minori
+
+- Monika
+
+- Kitagawa Marin
+
+- Hoshino Ai
+
+- Minamoto Sakura
+
+- Minami Kotori
+
+- Nakano Miku
+
+- Nakano Itsuki
+
+- Tsukioka Kogane
+
+- Nakano Nino
+
+- Nakano Yotsuba
+
+- Echidna
+
+- Sakura Miko
+
+- Zero Two
+
+- Mizuhara Chizuru
+
+- GUMI
+
+- Nekomata Okayu
+
+- Shikimori Miyako
+
+- Teenager Klee
+
+- Tsunomaki Watame
+
+- Himemori Luna
+
+- Shirakami Fubuki
+
+- Kamisato Ayaka
+
+- Barbara Pegg
+
+- Keqing
+
+- Koizumi Hanayo
+
+- Vestia Zeta
+
+- Hiiragi Mayuki
+
+- Cinnamon
+
+- Itsuka Kotori
+
+- Li Sushang [HI3 Ver.]
+
+- Ichijou Ririka
+
+- Otonose Kanade
+
+- Laplus Darkness
+
+- Nerissa Ravencroft
+
+- Clara
+
+- Robin
+
+- Ningguang
+
+- Ookami Mio
+
+- Mint Fantome
+
+- Hanamiya Rica
+
+- Alisa Mikhailovna Kujou
+
+- Yatogami Tohka
+
+- Raora Panthera
+
+- Elizabeth Rose Bloodflame
+
+- Kanroji Mitsuri
+
+- Lucy Heartfilia
+
+- Elizabeth Liones
+
+- Inoue Orihime
+
+- Yuuki Sakuna
+
+- Takami Chika
+
+- Himejima Akeno
+
+- Mita
+
+- Kind Mita
+
+- Asaka Karin
+
+- Watanabe Akari
+
+- Nimi Nightmare
+
+- Onodera Kosaki
+
+- Sairenji Haruna
+
+- Mikado Ryouko
+
+- Rindo Chihaya
+
+- Anby Demara
+
+- Special Week
+
+- Mejiro McQueen
+
+- Kashino
+
+- Amagai Ruka
+
+- Castorice
+
+- Teenager Tribbie
+
+- Hasekura Io
+
+- Sakurai Nozomi
+
+- Charlotte Dunois
+
+- Yubari Rei
+
+- Kinomoto Sakura
+
+- Escoffier
+
+- IF [Neptunia]
+
+- Takeya Yuki
+
+- Miyamoto Rei
+
+- Marikawa Shizuka
+
+- Almond Eye
+
+- Grass Wonder
+
+- Sakura Chiyono O
+
+- Symboli Rudolf
+
+- Asamiya Athena
+
+- Columbina
+
+- Happy Meek
+
+- Kushida Kikyou
+
+- Kisaragi Chihaya
+
+- Charlotte [Genshin]
+
+- Agnes Tachyon
+
+- Aemeath
+
+- Akashiya Moka
+
+- Jinhsi
+
+- Anna Williams
+
+- Madobe Nanami
+
+- Aria
+
+- Giniro no Hikari
+
+- Sunna
+
+- Wonder Acute
+
+- Scarlet
+
+- Loves Only You
+
+- TM Opera O
+
+- Moria Luluka (New)
+
+- Emilie (New)
+
+Archer Waifu Alpha Class (Light Blue Color Name in Spawn Egg):
+
+- Ganyu
+
+- Elysia
+
+- Diesel
+
+- Suzukaze Aoba
+
+- Inosaki Rino
+
+- Takagi-san
+
+- Tsukino Mito
+
+- Hinata Kaho
+
+- Arisa
+
+- Kaname Madoka
+
+- Hakoniwa Yuragi
+
+- Mizuno Ai
+
+- Yuigahama Yui
+
+- Loraine
+
+- Mihara
+
+- Karabiner
+
+- Ryuuge Kisaki
+
+- Sunaookami Shiroko
+
+- Ushio Noa
+
+- Arona
+
+- Mizuha Mimori
+
+- Faruzan
+
+- Claire Redfield
+
+- Cyrene
+
+- Tsukiyuki Miyako
+
+- Kirifuji Nagisa
+
+- Rebecca Bluegarden
+
+- Okusora Ayane
+
+- Nero [NIKKE]
+
+- Higurashi Kagome
+
+- Onikata Kayoko
+
+- Marciana
+
+- Kuromi Serika (New)
+
+- Nakamasa Ichika (New)
+
+- Collei (New)
+
+[Status]
+
+ATK: Medium
+
+SPD: Medium
+
+HP: Medium
+
+Melee Waifu Strength Class (Red Color Name in Spawn Egg):
+
+- Rem
+
+- Airani Iofifteen
+
+- Compa
+
+- Homura
+
+- Excellia Cruz
+
+- Takanshi Kiara
+
+- Lumine
+
+- Megumin
+
+- Ayase Eli
+
+- Shimamura Uzuki
+
+- Ram [Re:Zero]
+
+- AZKi
+
+- Ninomae Ina'nis
+
+- Hoshimachi Suisei
+
+- Kawashima Ami
+
+- Sword Maiden
+
+- Inugami Korone
+
+- Kirisaki Chitoge
+
+- Nanami Lucia
+
+- Mori Calliope
+
+- Shishiro Botan
+
+- Akai Haato
+
+- Shiranui Flare
+
+- Noelle
+
+- Hu Tao
+
+- Navia
+
+- Chocola
+
+- Tokisaki Kurumi
+
+- IRyS
+
+- Kaela Kovalskia
+
+- Tohru
+
+- Frederica Baumann
+
+- Elaina
+
+- Sonsaku Hakufu
+
+- Lucoa
+
+- Shigure Ui
+
+- Noire
+
+- Bronya Zaychik [HI3 Ver.]
+
+- Asta
+
+- Seele Vollerei [HI3 Ver.]
+
+- Yae Miko
+
+- Kyaru
+
+- Dunkerque
+
+- Blanc [Neptunia]
+
+- Kson
+
+- Syusetu Kohaku
+
+- Iowa
+
+- Yunyun
+
+- Shiori Novella
+
+- Kamado Nezuko
+
+- Makima
+
+- Power
+
+- Kugisaki Nobara
+
+- Rikotan
+
+- Takane Lui
+
+- Elma
+
+- Friedrich der Grosse
+
+- Gasai Yuno
+
+- Cappie [Cool Mita]
+
+- Nikaidou Saki
+
+- Maria Mikhailovna Kujou
+
+- Natsuki
+
+- Sarashina Ruka
+
+- Konjiki no Yami
+
+- Kurasaki Mea
+
+- Ellen Joe
+
+- Corin Wickes
+
+- Gold Ship
+
+- Rice Shower
+
+- Tatsu-chan
+
+- Appare Hinata
+
+- Kashiwazaki Hatsune
+
+- Shiratori Aira
+
+- Kuraishi Eriko
+
+- Harusaki Hiyori
+
+- Kurageu Roa
+
+- Kous

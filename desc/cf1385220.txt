@@ -1,0 +1,15 @@
+The "Dynamic Lighting" addon for Minecraft Bedrock brings a dynamic and immersive feature: when you hold a torch in your left hand, the path around you is automatically illuminated. This system improves the gaming experience by allowing you to explore caves or dark environments without having to constantly place torches, providing practicality and a more realistic look.
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-pink">For dynamic lighting to work you first need to transform a normal torch into a dynamic torch on the workbench</mark>
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-pink">You can place the new torch in the second hand to make the gameplay easier</mark>
+
+<figure class="image align-center"></figure>
+
+<mark class="marker-pink">now just enjoy the new Dynamic Lighting package</mark>
+
+<figure class="image align-center"></figure>

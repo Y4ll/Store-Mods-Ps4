@@ -1,0 +1,5 @@
+Dynamic Wave makes the sea look more realistic and natural by adding smooth, dynamic wave movements that react more naturally in the environment. It also enhances visual detail with improved water motion and adds light reflections on the surface, making oceans and large bodies of water feel more alive and immersive in your world
+
+The waves may make you feel sleepy if you watch them for too long
+
+Make sure to enable VS for this to work properly

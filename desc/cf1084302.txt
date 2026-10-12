@@ -1,0 +1,75 @@
+[This addon is compatible with other addons!]
+
+New variants for the Candle Golem!!
+
+16 new variations for the Candle Golem.
+To make it, simply change the color of the candle you use when summoning it. VERY EASY TO MAKE!
+
+Candle Golem
+This golem is a companion for the player, it lights up the caves for you and can be a mobile light source. Great for exploring caves without having to use the dynamic light addon.
+
+Health: 100
+Attack: 0 (He does not defend the player)
+
+Speed: Super Fast
+
+Skill: Dynamic Light
+
+It is repaired with: Honeycomb and Honeycomb Block (recovers 50 and 100 health)
+
+How to Make?
+
+If you want to make it a specific color, replace the conventional candle with a colored one. If the candle is red, the candle golem will be red; if it is blue, it will be blue.
+
+Netherite Golem
+
+Health: 2000
+
+Attack: 40 - 100 (Very high)
+
+Speed: Fast
+
+-Immune to fire
+-Immune to explosions
+
+It is repaired with: Netherite ingot (recovers 1000 health per ingot)
+
+HOW TO MAKE?
+
+-You can build or you can give a "netherite block" to a diamond golem to upgrade it
+
+Diamond Golem
+
+Health: 700
+
+Attack: 15 - 50 (high)
+
+Speed: Normal
+
+It is repaired with: Diamond (recovers 250 health per diamond)
+
+How to make?
+
+Netherite Golem
+
+Health: 80
+
+Attack: 7 - 21 (medium)
+
+Speed: Super Fast
+
+It is repaired with: Gold ingot (recovers 35 health per ingot)
+
+How to make?
+
+Emerald Golem
+
+Health: 100
+
+Attack: 7 - 21 (medium)
+
+Speed: Fast
+
+It is repaired with: emerald (recovers 50 health per emerald)
+
+How to make?

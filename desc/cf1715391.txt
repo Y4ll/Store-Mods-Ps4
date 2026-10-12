@@ -1,0 +1,69 @@
+Arborea: 3D Bushy Leaves & Worldgen
+
+Arborea replaces vanilla leaves with custom 3D models, while vanilla logs, saplings and survival mechanics stay just as they are.
+
+It's more than a resource pack trick. Arborea adds its own leaves blocks, biome-based foliage colors, a procedural tree generator, falling leaf particles and a scripted leaf decay system.
+
+Features
+
+1. 3D Leaves Geometry
+
+Model Design: Made with the Bedrock 1.26.20 block format. Each leaf block has a solid 161616 core with tilted foliage planes crossing through it and sticking out the sides, which makes canopies look bushier and more layered.
+
+Two Orientations: Every leaves block comes in two versions, one with horizontal foliage planes and one with vertical ones. Each tree picks one when it generates, so two trees with the same shape can still look different side by side.
+
+2. Native Biome Foliage Tinting
+
+Engine Integration: Leaves use grayscale textures tinted by Minecraft's own foliage colors (default, birch and evergreen), so they match the biome they grow in.
+
+Species Coverage:
+
+Biome-tinted: Oak, Dark Oak, Jungle, Acacia, Mangrove, Birch and Spruce.
+
+Fixed colors: Cherry, Azalea, Flowering Azalea, Pale Oak and Poplar (Red, Yellow, Orange).
+
+3. World Generation: Fully Procedural
+
+Procedural Generation: Every Arborea tree is built procedurally. There are no structure files involved, either in world generation or when saplings grow.
+
+Tree Variants: Each tree shape has a horizontal-leaf version and a vertical-leaf version, and each tree has a 50/50 chance of getting either one. Forests end up more varied and less repetitive.
+
+Extra Grass: Scatters a bit of extra tall grass on the surface. It's placed after the terrain, so it never gets in the way of trees.
+
+4. Falling Leaf Particles
+
+Bedrock only spawns falling leaf particles for vanilla leaves, so Arborea handles them with scripts. It follows the vanilla rule: a leaf drops particles when the block below it is air or water.
+
+Species Colors: Cherry, Pale Oak and the three Poplars have their own particle colors. Everything else uses a green that matches its usual foliage.
+
+Performance First: Particles only show up where you can actually see them: within 32 blocks, inside your field of view, and not hidden behind walls, hills or roofs. Each player only gets their own particles, and the amount adjusts to your graphics mode (Vibrant Visuals included) and to low-memory devices.
+
+Smooth Turning: If you turn toward a forest you weren't looking at, the particles are already mid-fall instead of all starting from the top at once.
+
+Per-Player Settings: Any player can change these, no cheats or operator permission needed. Your choice is saved to your player.
+
+/bl:particles on | off turns particles on or off. Without an argument it toggles them.
+
+/bl:particles_amount low | default | high | xhigh sets the amount (50%, 100%, 200% or 300%). Without an argument it shows your current level.
+
+5. Script-Based Leaves Decay
+
+Bedrock doesn't apply leaf decay to custom blocks, so Arborea does it through the Script API:
+
+26 Direction Search: Checks faces, edges and corners around each leaf, so diagonal branches (common in jungle and swamp trees) don't decay by mistake.
+
+Per-Species Support Radius: Oak, Birch, Cherry and Azalea reach 4 blocks from a log. Spruce and Acacia reach 5, Jungle, Mangrove and Pale Oak reach 6, and Dark Oak and Poplars reach 8.
+
+Performance Budget: Decay checks run through a queue with a cap on block reads per tick, so chopping down a mega tree won't make the game stutter.
+
+Hanging Vines: When leaves decay, any vines hanging from them go too.
+
+6. Bone Meal & Sapling Growth
+
+Arborea Trees from Saplings: Using bone meal on Oak, Birch, Jungle or Spruce saplings grows a procedural Arborea tree.
+
+Mega Trees: Plant Jungle or Spruce saplings in a 22 square to get the mega version. If there isn't enough room, you'll get a regular tree instead.
+
+7. Survival & Building
+
+Harvesting: Break leaves with Shears or a Silk Touch

@@ -1,0 +1,45 @@
+Dynamic Lighting GT The most complete dynamic lighting module for Minecraft Bedrock Edition. Over 70 light-emitting items recognized, each at its correct brightness level. No blocks to place, no experimental features, achievements fully intact.
+
+No Experimental Features
+Achievements Friendly
+70+ Light Sources
+
+Offhand Auto-Equip
+Mob and Entity Lighting
+Multiplayer Ready
+
+----------------------------------------------------------------------------------------------------------------------
+
+---------------Disabled vibrant visual-----------------------------------Enable vibrant visual-----------------
+
+FEATURES
+Wide Item Support Over 70 vanilla items are recognized as light sources, each assigned its correct brightness level. Every torch variant, all lantern types, copper lanterns in all oxidation stages, all three froglight colors, amethyst buds and clusters, sea pickles, glowstone, beacons, campfires, and more. Animations from Actions and Stuff are fully compatible.
+
+Held Light Source Carry any light source in your main hand or offhand and it illuminates your surroundings automatically. No torches to place and no light left behind when you move on.
+
+Offhand Equip Use a light source while looking away from any block and it moves to your offhand automatically, freeing your main hand for tools or weapons while it keeps lighting your way.
+
+Full Movement Support Light placement stays accurate while walking, crawling through tight spaces, climbing ladders and vines, or swimming. No flickering in any movement state.
+
+Mobs That Glow Blazes, magma cubes, and glow squids emit their own light. Any mob caught on fire lights up the area around it too.
+
+Dropped Items Light Up Light-emitting items left on the ground keep illuminating their surroundings.
+
+----------------------------------------------------------------
+
+COMPATIBILITY
+
+- No experimental features required
+
+- Achievements fully supported
+
+- Compatible with Actions and Stuff
+
+- Multiplayer and Realms compatible
+
+----------------------------------------------------------------
+REQUIREMENTS
+
+- Minecraft Bedrock Edition 1.26.40+
+----------------------------------------------------------------
+Made by REX1858

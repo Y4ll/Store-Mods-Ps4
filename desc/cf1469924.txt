@@ -1,0 +1,44 @@
+A utility shader for RenderDragon that makes the game bright like night vision.
+
+Installation
+
+Disclaimer: Minecraft Bedrock does not officially support loading custom shaders. The following are unofficial ways to load shaders.
+
+Android
+
+- Install MB Loader app from playstore.
+
+- Import the resource pack to Minecraft and activate it in global resources.
+
+- Launch Minecraft through MB Loader app.
+
+Windows
+1.BetterRenderDragon
+
+- Guide
+
+2.Matject
+
+- Guide
+
+3.Manual Replacement
+
+- Extract the .mcpack
+
+- Go to renderer/materials
+
+- Copy the files
+
+- Go to "C:\XboxGames\Minecraft for Windows\Content\data\renderer\materials". Note: Most people have Minecraft installed in C:, if you have it elsewhere then go there.
+
+- Back up the files in a safe place.
+
+- Paste the files you copied from the mcpack in "C:\XboxGames\Minecraft for Windows\Content\data\renderer\materials"
+
+- To go back to vanilla, paste the backed up materials or files back.
+
+iOS
+
+- Sorry. There isn't an easy method to install shaders on iOS devices. You either require jailbreak or would have to install an untrusted IPA.
+
+If you are having trouble following this guide, you can ask for support in Newb discord server.

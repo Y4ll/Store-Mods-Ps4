@@ -1,0 +1,98 @@
+CROMOS.GG MINECRAFT BEDROCK / MCPE
+
+ITEM UPGRADER
+
+Small offer. Big ambition. One risky spin.
+
+Choose what you are willing to lose and what you dream of winning.
+Your next upgrade starts with a spin of the wheel.
+
+NEW VISUAL VERSION 1.5.35 VV
+
+What if the items sitting in your inventory could become a chance at something better? Item Upgrader brings an animated item roulette to Minecraft Bedrock. Offer your items, select a reward, check the odds and try your luck. Win the roll and collect the prize lose the roll and your offer is gone!
+
+JOIN THE CROMOS.GG DISCORD Updates, suggestions & community
+
+SEE IT IN ACTION
+
+Watch the presentation and see the updated interface, item selection and roulette in action.
+
+Watch on YouTube
+
+CRAFT YOUR FIRST UPGRADER
+
+Everything starts at the crafting table. You need 4 cobblestone, 4 iron ingots and 1 redstone dust to craft one Upgrader.
+
+- Cobblestone: place one in each of the four corners.
+
+- Iron ingots: place one at the top, bottom, left and right.
+
+- Redstone dust: place it in the center.
+
+Craft it, use it, and open the roulette! No special currency is required your inventory items are your offer.
+
+YOUR OFFER. YOUR REWARD. YOUR CHOICE.
+
+- Select your offer: choose the item you want to risk from your inventory.
+
+- Choose your reward: browse the catalog and pick the item you want to win.
+
+- Adjust the quantities: check how your offer and reward affect the displayed chance.
+
+- Spin the wheel: watch the animation and reveal your result!
+
+In this example: the player offers 1 diamond for a chance to win 2 diamonds. The wheel shows a 50% success chance, and the VIEW RESULT button reveals the outcome.
+
+Use MAX, quantity controls, 2 / 4 / 8 multipliers and the 30% / 50% / 70% presets to prepare your offer. Chances follow the total addon value of the offered items and selected reward, with a 90% maximum.
+
+WATCH THE WHEEL SPIN
+
+The moving pointer, chance ring and reveal animation bring each upgrade attempt to life. The GIF below shows an example roll at 50%.
+
+One attempt, one result. Closing the interface does not reroll the attempt. Each new attempt uses an independent random roll.
+
+VICTORY COLLECT YOUR PRIZE!
+
+Win the roll and your offered items are consumed while the chosen reward is awarded. A green thumbs-up effect appears above the player, and the chat confirms the victory.
+
+This example: a 1-diamond offer wins a 2-diamond reward. The chat shows the round details and confirms the inventory total after delivery.
+
+Inventory full? Rewards that cannot fit remain pending for later collection when space becomes available.
+
+DEFEAT THAT IS THE RISK!
+
+If the roll fails, your offered items are consumed and you receive no reward. A red thumbs-down effect and a defeat message make the outcome clear.
+
+The chat still contains messages from an earlier win. The red DEFEAT message identifies the latest attempt.
+
+Every upgrade has a risk. A high chance does not guarantee a win, and previous results do not determine your next roll. Only offer items you are willing to lose.
+
+MORE THAN JUST A ROULETTE
+
+- Browse & search: a paginated grid with 54 items per page and item details.
+
+- Favorites: keep your preferred rewards easy to find.
+
+- Round history: review your recent attempts.
+
+- Player rankings: compare wins, profit and unlikely victories.
+
+- Enchanted books & potions: select supported enchantments and potion variants.
+
+- Optional Skyblock selection: explore progression resources in a separate menu.
+
+- Pending rewards: collect prizes later when you need more inventory space.
+
+- Three languages: English, Portuguese and Spanish.
+
+WHAT IS NEW? V1.5.35 VV
+
+A fresh look for your next upgrade. This release refines the established dark navy and gold interface while keeping the existing gameplay rules.
+
+- Cleaner background and refined panel surfaces.
+
+- Polished default, hover and pressed button appearances.
+
+- Header adjustments to avoid overlap with the ranking control.
+
+- Existing screen dimensions, controls, animat

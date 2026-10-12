@@ -1,0 +1,36 @@
+introduction:
+
+hey guys clean here, i will be updating insares warfare soon, there is alot of bugs on this,so
+expect v5 hopfully within this year
+
+i will be updating it more but as of rn this is all i have for you guys today
+
+key features:
+
+gun sprint from MW 2019
+
+survival friendly, yes
+
+over 45 diferent guns
+
+3 new armor plus NVGs with gun aim animations when useing NVGs
+
+Heals and binoculars
+
+NOTES:
+
+there will be some lag so download insares warfare core
+
+also this is not a items or adding kinda update its a game optimized update
+
+new stuff coming soon
+
+and alot more
+
+FINAL NOTES:
+
+remember to have fun and "get locked and loaded today"
+
+NOW REALM CONPATABLE
+
+USES PLAYER.JSON

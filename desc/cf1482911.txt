@@ -1,0 +1,161 @@
+This addon was made for people who don't know or don't want to build their house by themselves, if you are one of those you need this addon.
+
+This addon adds a architecture table which you can use to create the blueprints of your dream house
+
+And this is its crafting:
+
+Once you have the table, you can use it interacting with it, when you use the table, it shows you a panel where you can choose from several options of tags.
+
+When you select a tag of the list, it will appear a new menu with all of the house that contains the tag you selected (it looks better in the game).
+
+When you select a house you'll see all the requirements that you need to construct the house, for example, Oakridge House, the list of items that appear in the panel are the items that you need in your inventary to be able to got the house generator.
+
+If you don't have all of the items that the list shows you won't be able to get the house generator and you'll receive a message in the chat that tells you what items are missing in your inventory. If you actually have all the items in the list you'll get the house generator of the house that you selected.
+
+You can see all houses in the creative menu
+
+To place any house you have to left click in windows edition or press and hold in mobile edition, once you use the house you'll see a panel where you select the rotation of the house.
+
+When you select the rotation, it'll start to show particles where the house would be placed to let you know the size and position of the house, the front house (with 0 of rotation) always be on the left side of where you place the house, like you can see below.
+
+When you appeared for the first time, it will be given to you a starter house which you cant't buy it on the architecture table.
+
+Starter Houses
+
+Starter House 1:
+
+Starter Cabin 1
+
+Here below you can see screenshots of each house and its price to get it in the architecture table.
+
+Luxury Pool House
+
+Luxury Pool House
+
+Price:
+
+Horizon Glass
+
+Horizon Glass
+
+Price:
+
+Modern Mansion
+
+Modern Mansion
+
+Price:
+
+Large Modern House
+
+Large Modern House
+
+Price:
+
+Modern Wood House
+
+Modern Wood House
+
+Price:
+
+Modern Zen House
+
+Modern Zen House
+
+Price:
+
+Oakridge House
+
+Oakridge House
+
+Price:
+
+Wooden Cabin
+
+Wooden Cabin
+
+Price:
+
+Crop Farm
+
+Crop Farm
+
+Price:
+
+Basic Wooden House
+
+Basic Wooden House
+
+Price:
+
+Wooden Modern House
+
+Wooden Modern House
+
+Price:
+
+Wooden Modern House
+
+Wooden Modern House
+
+Price:
+
+Wooden Modern House
+
+Wooden Modern House
+
+Price:
+
+Wooden Modern House
+
+Wooden Modern House
+
+Price:
+
+Tree House 1
+
+Tre House 1
+
+Price:
+
+Survival Modern House
+
+Survival Modern House
+
+Price:
+
+Wooden Twin Module
+
+Wooden Twin Module
+
+Price:
+
+Modern Rustic House
+
+Modern Rustic House
+
+Price:
+
+Tiered crops
+
+Tiered Crops
+
+Price:
+
+Rustic modern cabin
+
+Rustic Modern Cabin
+
+Price:
+
+Contemporary house
+
+Contemporary House
+
+Price:
+
+Cherry Pale House
+
+Cherry Pale House
+
+Price:

@@ -1,0 +1,126 @@
+This addon refreshes vanilla survival and adds more adventure spirit to it. Different dungeons, bosses, mobs, new and improved systems, magic... And also, the progression of all these things.
+
+Structures and world generation
+
+Forest Dungeon
+
+The easiest dungeon, but you will still need equipment to go there, because there are dangerous monsters roaming around. Also, each dungeon structure has a different loot form and room layout.
+
+More Images
+
+Temple Of Lightning
+
+Generates in Savanna, spawns lightning around itself, contains a couple of new mobs and a boss
+
+More Images
+
+Mana Dungeon
+
+Almost a copy of "Forest Dungeon", but only generates in Magic Forest, has stronger monsters, different loot, and some new rooms
+
+General world generation
+
+Updated generation of the following biomes: Oak forest, Birch forest, Roofed forest(Dark oak forest), Taiga, Savanna, Swamp, Jungles, Plains, Beach.
+Here are some of them:
+
+Magic Forest
+
+Magic Forest is a new biome where you can find a couple of new mobs, as well as the Mana Dungeon.
+
+Structures
+
+Fisherman's house.
+
+Wizard's Tower (without wizard yet)
+
+Mill
+
+Desert Pyramid
+
+Oasis
+
+Screenshots taken using Vibrant Visuals.
+
+There are several more structures and decorative structures, but you will have to find them yourself.
+
+Items
+
+Potions
+
+- Bottle of bubbles - Throws you up.
+
+- Magic Potion - Gives you the ability to use mana. (Learn more in the magic section)
+
+- Mana Potion - Increases your mana regeneration rate.
+
+- Water Walking Potion - Will give you the ability to walk on water.
+
+Special
+
+- Fishing Album - Allows you to view the rarity and quantity of fish you have caught. (Learn more in the Fishing section)
+
+- Watering can.
+
+- Guidebook To Magic - a book that explains how magic works
+
+- Dash Ball - Throws you in the direction you are looking at
+
+- Magic milk - like regular milk, but only removes negative effects.
+
+- Electric ball - you can throw this and when it hits the target...
+
+- Poison Vial - A bottle with poison inside that can be thrown.
+
+- Magic Connector - connector for magic blocks (detailed description is in Guidebook to Magic)
+
+Loot items
+
+Just a list of some items you can loot from mobs or find in chests or somewhere else.
+
+Armor and weapons
+
+All existing armor sets and their corresponding weapons. On the left - the weakest, on the right - the strongest
+
+And also copper armor with all stages of oxidation
+
+All types of tools.
+
+Magic items
+
+Magic items require mana to use. There are also advanced magic items that have their own effectiveness and power (this is explained in detail in the Guidebook To Magic).
+
+Systems
+
+Fishing System
+
+Fishing rods now have stats that are responsible for the number of baits and modifiers for different types of catch
+
+Also added bait for fishing rods, which also have stats.
+
+Loot now also depends on depth, temperature or biome.
+And you can see your catch for all time in a Fishing album:
+
+Skills system
+
+Added 5 skills: Fencing, Movement, Health, Magic, Fishing.
+Each skill gains experience when you practice it. More details about this are written on the pages of the skills themselves. And you can monitor your skills with the help of a special block "Magic Orb". You can find it in a wizard's tower or craft it.
+
+After gaining enough experience, you can increase the skill level and choose one of the abilities for this level.
+
+Quests system
+
+You can take quests from villagers, and if you manage to complete them within the allotted time, you will receive a reward and experience.
+
+Achievements system
+
+Added new separate achievements. When you get an achievement, you get experience, the amount of which depends on the rarity of the achievement. And you can see all the achievements in the Book of Achievements.
+
+Magic system
+
+- Casting spells requires mana.
+
+- You can get mana if you create a magic potion.
+
+- You can pump up your magic level using magic. The higher your level, the more mana and the faster the speed of mana regeneration.
+
+- Magic can interact

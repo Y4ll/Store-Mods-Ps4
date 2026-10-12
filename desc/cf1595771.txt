@@ -1,0 +1,33 @@
+**Simplistic Shader** is a clean, cinematic Vibrant Visuals pack that reworks Minecraft's lighting and atmosphere for a natural, sun-warmed look. Built around soft golden-hour tones and physically-based color science, it enhances the sky, fog, and light across every biome for a more immersive, believable world all running as a pure resource pack.
+
+![](https://media.forgecdn.net/attachments/description/1595771/description_73295041-9d93-496e-8164-601eacf9cd23.png)
+
+Features
+
+Warm, natural lighting with smooth sunrise and sunset transitions
+
+Dynamic sky with realistic atmospheric scattering (rayleigh & mie)
+
+ACES tone mapping and balanced highlight/midtone/shadow color grading
+
+Soft sun rays and god rays for added depth
+
+Volumetric height fog for air, water, and weather
+
+Biome-aware fog connected across all Overworld, Nether, and End biomes
+
+Gentle white-balanced temperature for a consistent cinematic tone
+
+Subtle, natural sky and horizon color grading through every time of d
+
+Added realistic sun and moon rendering
+
+Minor polish and consistency improvements
+
+added glowing ores
+
+all ores have borderline
+
+new sword and shield hearts with damge sound effect
+
+Feedback and suggestions are welcome to help shape future versions.

@@ -1,0 +1,11 @@
+VeinMiner Lite | By GhoutodStudio
+
+How to set up VeinMiner Lite in 3 steps
+
+- Step 1 : activate beta APIs
+
+- Step 2 : Put the add-on first.
+
+- Step 3 : Use a stick and a menu will appear.
+
+This project is exclusive to mcpedl and CurseForge

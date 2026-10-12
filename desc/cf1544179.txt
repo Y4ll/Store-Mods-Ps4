@@ -1,0 +1,63 @@
+COMPOUND V
+
+Disclaimer: make sure if your using other addons, make sure my addon takes priority by setting it above all other addons when activating them for both resource and behaviour packs
+
+Compound V transforms Minecraft survival into a full superhuman arms race inspired by The Boys. Build a Vought research operation, manufacture unstable serums, discover powerful abilities, fight naturally spawning Supes, raid Vought facilities, unlock anti-Supe technology, and survive in a world where powers are dangerous, unfair, and never fully safe.
+
+Players can become Supes through Compound V, experiment with Temp V, risk V1, copy powers through Targeted Compound V, or stay human and fight back using uranium weapons, Power Dampening Cuffs, Hazmat gear, firearms, and the T.K. Combat Suit.
+
+Every power has its own playstyle, strengths, weaknesses, passive effects, ability system, counters, and risks.
+
+GETTING STARTED
+
+When a world is first created, the host chooses how new players receive powers.
+
+Compound V Item
+
+Every new player receives one vial of Compound V. Players can drink it whenever they are ready to receive a random permanent power.
+
+Compound V Chance
+
+Each new player has a chance to be contacted by Vought International. Selected players receive a special offer that they can accept or decline. Accepting the offer gives the player Compound V, while declining leaves them human.
+
+No Powers
+
+All players begin powerless. Compound V must be discovered, manufactured, given out by an administrator, or obtained through gameplay.
+
+Origin Modes
+
+Servers can also use origin-based starting rules. Depending on the server config, new players may receive a random origin, a possible origin choice, a direct choice, or no origin at all.
+
+Origin modes include:
+
+- Random Origin
+
+- Potential Origin
+
+- Choose Origin
+
+- No Origin
+
+Rise of Viltrum Compatibility
+
+Compound V can detect the Rise of Viltrum bridge when it is installed. Viltrumites are rejected by Compound V, Temp V, V1, and Purge V instead of being converted into Supes. This keeps Viltrumites and Compound V users as separate origin paths.
+
+Compatibility also supports Viltrumite-specific developer menu hooks, origin rules, and flight animation support.
+
+The selected starting mode can be changed at any time through the Developer Menu.
+
+Addons
+
+First Thing First when ever downloading any of my addons make sure compound is above all other addons
+
+Rise Of Viltrum
+
+Download Rise Of Viltrum to play as a viltrumite (complelty compatibile with compound v, must make sure compound v takes protiorty by putting it first in the resource pack selection thing.).Download
+
+When you first become a Viltrumite, you can choose how you want to control your powers. Use Ability Items for hotbar-based combat and fast combo chaining, or switch to the Crouch System for a cleaner hotbar where double-crouch cycles abilities and crouch+jump activates them. You can change your control style later with the Power Switch.
+
+Being a Viltrumite means your body is the weapon. Viltrumites are proud warriors who rely on raw strength, speed, durability, and combat skill instead of cheap tools or protection. Because of this, Viltrumites cannot properly use normal weapons or wear normal armor. Using external equipment is seen as weak and dishonourable to the Viltrumite Empire, so players who try to rely on weapons or armor will be heavily punished and weakened.
+
+Unlock brutal Viltrumite abilities as you progress, including Dash, Grab, Flight, Thunder Clap, Hand Stab, Head Crush, Ground Pound, Super Sonic, Conquerors Rage, and more. Fight with your body as the weapon, build Dominance EP, complete rank-up trials, survive powerful enemies, and prove that Earth belongs to the Empire.
+
+World owners also get an Empire Config menu, allowing control over how new players become Viltrumites, whether Viltrumite origins are enabled, rank-up trial requirements, Dominance EP requirements, Sonic Smash block breaking, and limits for high imperia

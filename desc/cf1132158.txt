@@ -1,0 +1,112 @@
+This addon does not use experimental methods and will work in all versions from the publication or above.
+
+The entities are humanoid, not villagers!
+
+Available languages: English, Latin Spanish, Spanish, Brazilian Portuguese, Russian
+
+Available new languages:
+
+Indonesian and Japanese (thanks to Yukinami)
+
+Important Update Notice
+
+Change from player.name to player.id
+
+In this update, player.name has been replaced with player.id to improve compatibility with servers, Realms, and future Minecraft changes.
+
+This change will break all existing player-to-player marriages, since relationships were previously based on player names, which can change.
+Now, marriages are linked to the players unique ID, which ensures that even if you change your name, you will remain married.
+
+To fix this issue, you must divorce and remarry. This only needs to be done once.
+
+We know this might be inconvenient, but it was necessary to ensure long-term stability, compatibility, and proper functionality.
+
+Thank you for your understanding and continued support!
+
+New Reputation System
+
+Reputation is currently one of the most important systems for building romantic or friendly relationships with NPCs in the world.
+
+NPCs remember everything your good actions... and your bad ones. You decide if you want to be a revered hero or a feared menace.
+
+You lose reputation if:
+
+- You hit or kill an NPC.
+
+- divorce
+
+You gain reputation if:
+
+- You interact with an NPC for the first time.
+
+- You complete missions.
+
+- You kill mobs that harmed the NPC (like zombies).
+
+- You receive the Hero of the Village effect for the first time.
+
+Warning: Losing points is much easier than gaining them. Be careful with your choices!
+
+How does it affect gameplay?
+
+- For every +10 positive points, you gain a +2% success chance in interactions affected by the NPCs personality.
+
+- For every -10 negative points, you lose -2% effectiveness.
+
+Will you reach 100% and be loved by all... or drop to 0% and be rejected by everyone?
+
+Note: This system does not affect your partner if you're already married.
+
+Reputation States:
+
+- Rejected Negative points.
+
+- indifferent 0 to 49 points.
+
+- Respected 50 to 79 points.
+
+- Venerated 80+ points.
+
+How to interact
+
+First, find a village to locate NPCs. Select the one you like and right-click or tap "interact" on touch devices to open the interaction menu, which includes:
+
+Interact: Allows you to chat, flirt, hug, or give gifts to the NPC. Well explain more on these options later.
+
+Change Movement: Control the NPC's movements to fit your needs.
+
+Trade: Lets you trade with the NPC and receive various items.
+
+To Ride a Mob: Choose to mount or dismount an entity.
+
+Specials: Contains advanced interactions not fitting in the main menu, especially useful for smaller screens.
+
+Close: This button closes the interaction menu.
+
+Interact
+
+Chatting
+
+Chatting is a new way to interact with NPCs.
+
+This mode allows you to have friendly conversations, just like with neighbors or friends.
+(Note: This does not generate love points, its simply casual conversation.)
+
+Sometimes you can earn a reputation point if the conversation goes well.
+
+If you have good reputation, NPCs may give you gifts!
+
+NPCs sometimes remember if you've done missions for others or if youve killed an NPC.
+
+If your reputation is low and you killed someone, theyll remind you more often.
+
+In cases of bad reputation, chatting can even cause you to lose a point instead of gaining one.
+
+Be careful with your actions!
+Reputation affects how NPCs speak to you.
+
+In this submenu, you'll find various interactions. How the NPC responds depends on their relationship with you (married or single). If they're single, their personality decides the outcome, so get ready for anything!
+
+Tell a Joke: Feeling funny? Try telling a joke; maybe they'll laugh, and youll earn some love points... or maybe theyll be annoyed and youll lose some. Some call it luck, I call it programming.
+
+Give a Hug: Give them a hug... but respect their pers

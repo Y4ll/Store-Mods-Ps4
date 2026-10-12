@@ -1,0 +1,113 @@
+Racing Raftaar
+
+JAVA COMBAT EVOLVED
+
+Classic Java Edition combat fully rebuilt for Bedrock
+
+v2.1.0 Bedrock Edition Free Behaviour Pack (.mcpack) All Features Unlocked
+
+What does it do?
+
+Java Combat Evolved brings the full Java Edition combat system to Bedrock the version most players actually prefer. Attack cooldowns, sweeping edge, critical hits, combo chains, blood particles and axe shield stun, all working together in one pack with every feature configurable from an in-game settings menu.
+
+Every sword and axe has its own cooldown and sweep range based on the Java Edition weapon data. Spam-clicking is punished attacks that land before the cooldown expires deal as little as 20% of normal damage. Wait for the full charge and you deal full damage, plus sweep bonus and crits on top.
+
+All features can be toggled and adjusted without leaving the game. PvP sweep and stun can be controlled separately, sweep range and damage percentage are adjustable via sliders, and per-player stats are tracked across sessions with a built-in leaderboard.
+
+Features
+
+Sweeping Edge
+
+Swords deal AoE damage to all nearby enemies within the sweep range when you hit a primary target. Each sword tier has its own range Netherite sweeps up to 3.0 blocks, down to 2.0 for Wood and Gold. Sweep range and damage percentage are adjustable via sliders. Sweep hits show particles and play a sound. Axes do not sweep.
+
+Attack Cooldown
+
+Each weapon has its own cooldown in ticks before it deals full damage again from 24 ticks for a Gold Sword up to 50 ticks for Diamond and Netherite Axes. Attacking before cooldown expires scales damage down to a minimum of 20%. A live 10-segment bar in the action bar shows your charge progress and turns green when ready.
+
+Critical Hits
+
+Attacks made while falling not on the ground, not in water, not sneaking deal an extra 50% damage on top of the base hit. A critical hit particle effect plays and a distinct sound fires. Crit count is tracked in your stats.
+
+Kill Combo System
+
+Consecutive hits within 3 seconds build a combo counter. Hit 5 in a row and a Strength I effect activates for 3 seconds, the action bar displays your combo count, and a distinct sound plays. Combos reset if you stop attacking for 3 seconds. Combo count is tracked in stats.
+
+Axe Shield Stun
+
+Hitting a player with any axe applies Slowness III and Mining Fatigue II for 3 seconds, replicating Java Edition's shield stun mechanic. The stunned player sees a warning in their action bar. Only triggers in PvP can be disabled independently.
+
+Blood Particles
+
+Villager angry particles spawn at the hit location whenever a weapon lands a hit or a sweep connects. Adds clear visual feedback for every strike including sweeps on secondary targets. Can be toggled off in settings.
+
+Weapon Stats
+
+All values match Java Edition. Axes have no sweep range their advantage is higher base damage and shield stun.
+
+Weapon
+Base Damage
+Cooldown (ticks)
+Sweep Range
+
+Netherite Sword
+8
+32
+3.0
+
+Diamond Sword
+7
+32
+2.8
+
+Iron Sword
+6
+30
+2.5
+
+Stone Sword
+5
+28
+2.2
+
+Wood / Gold Sword
+4
+26 / 24
+2.0
+
+Netherite Axe
+10
+50
+
+Diamond Axe
+9
+50
+
+Iron Axe
+8
+46
+
+Controls & Settings
+
+Sneak + Book
+
+Opens the Stats menu shows your total hits, mob kills, sweep attacks, critical hits and kill combos, plus a live top-5 kill leaderboard from all online players.
+
+Sneak + Name Tag
+
+Opens the Settings menu toggle Sweep, Cooldown, Blood Particles, Critical Hits and PvP on or off, adjust sweep range (26 blocks) and sweep damage (1060%) via sliders, and reset any player's stats.
+
+How to Install
+
+1
+Download the Java_Combat_Evolved.mcpack file
+
+2
+Tap or open the file Minecraft will import it automatically as a Behaviour Pack
+
+3
+Open your world settings, go to Behaviour Packs and activate Java Combat Evolved
+
+4
+Load your world all combat features are active immediately. Use Sneak + Name Tag to configure
+
+Note: Settings are saved globally for the world. Any player can view their own stats but only players with access to Name Tag + Snea

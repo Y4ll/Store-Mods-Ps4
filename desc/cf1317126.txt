@@ -1,0 +1,19 @@
+Anti-Lag [FPS+] Ultra Performance Texture Pack for Minecraft Bedrock
+
+Anti-Lag [FPS+] was created with one clear goal: deliver the highest possible performance in Minecraft Bedrock Edition. This texture pack is ideal for players looking to maximize FPS, reduce input delay, and gain a competitive edge, especially in PvP scenarios.
+
+Whether you're using a low-end device or just want a cleaner, faster gameplay experience, this pack does the job with excellence.
+
+Key Features:
+
+- Removes most particles, including critical hit, potion splash, and ambient effects.
+
+- Disables general animations, such as water, lava, fire, and other visual effects.
+
+- No lighting lag reduced lightmap complexity for smoother transitions.
+
+- Perfect for PvP clear visuals with no distractions.
+
+- FPS boost guaranteed, especially noticeable in crowded servers or battles.
+
+Forget frame drops and visual clutter. With Anti-Lag [FPS+], your game runs faster and stays stable even under heavy load.

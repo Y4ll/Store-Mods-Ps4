@@ -1,0 +1,79 @@
+Lets start with entities
+
+*Dragons
+
+They are very hostile and very powerful, dragons have 4 variant skins, and they spawn on extreme hills, tamed dragons collar can be dyed, tamed dragons can carry 2 players,
+
+*Wyverns
+
+Wyverns have 3 types the fire wyvern, ice wyvern, and poison wyvern they spawn on custom biome hills like dragons they are also very hostile and very powerful so make sure before fighting them you have a complete gear and have the stong weapons
+
+*Dragon and Wyvern Eggs
+
+all eggs only hatch on their respective blocks
+
+dragon eggs takes 2 minecraft days to hatch
+
+wyvern eggs takes only 1 minecraft days to hatch
+
+Dragons and wyverns from eggs are tameable use salmon to tame them
+
+as minecraft time goes by baby dragons and wyverns will grow or you can speed up its growing by feeding them cod
+
+take note that baby dragon and wyverns like to eat chickens so dont forget to leash or make them sit and they loved to sleep most of the time,
+
+When baby dragon/wyvern becomes adult you can now ride them and fly with them but you will need a dragon saddle to control them also take note that adult tamed dragon/wyverns will attack all hostile mobs like zombie, creeper, and all so if you take out its saddle you need to leashed them or make them sit unsaddled dragon/wyvern will not follow its owner to make them sit you need to sneak and interact with the it adult dragons/wyverns also loved to sleep you cant ride them while they are sleeping to wake them up put or remove its saddle or make a mob go near the sleeping dragon/wyvern,
+
+you can breed two tamed dragon/wyvern using golden apple after a successful breeding event they will lay egg and hatch to a untamed baby dragon/wyvern
+
+take not that we have added gender to dragon and wyvern
+
+To fly, press the jump button, then pull the movement stick while aiming upwards; the Dragon or Wyvern will ascend. To descend, aim towards the ground and pull the movement stick.
+
+If you want to hover while flying, or land on the ground and stop flying, press the jump button once more.
+
+To perform the fireball attack, you need to fly with the dragon and hold your position in mid-air; then, while holding the fire staff, press the jump button to fire a fireball.
+
+Note: Occasionally, pressing the jump button might not trigger flight. To fix this, simply unequip and then re-equip the saddle; pressing the jump button should then allow it to fly. If it still doesn't work, repeat the process.
+
+*The Orcs
+
+There are 3 types of orc and they are the very important entity on this update because they have all the recipe for custom items weapons and armors
+
+neutral orc spawned underground throw raw angler fish infront of them and they will open a trade for you for a limited time, give them diamond pickaxe and hold an orc axe (a.k.a draxe) to make them go mining
+
+orc follower spawned everywhere they are very hostile and always have an orc sword
+
+if you manage to kill them theres a 100% chance of dropping its sword this sword is upgradable through stone cutter
+
+orc captain spawn everywhere they are also very strong and very hostile they have the draxe and they wear armor orc captain always spawn riding ravager and have 2 orc follower on his side theres a 100% chance of dropping its axe when you kill it
+
+Sea Serpent
+
+this entity have been introduced last update but we have change its behavior it has now 2 AI and they now have their own drops
+
+Angler Fish
+
+this entity is the second important entity because the item it drops is the key to open the orc trade
+
+Dracolyte Forge
+
+this entity is also important because all weapons and armors are in them, see crafting recipe for this below, when you place the dracolyte and you want to remove it simple just sneak and clicked remove
+
+now lets move to new custom biomes
+
+scorched
+
+on this biome hills you can find fire wyverns
+
+frostbitten biome
+
+on this biome hills you can find ice wyverns
+
+toxic biome
+
+on this biome hills you can find poison wyverns
+
+Pegasus
+
+Pegasus is a passi

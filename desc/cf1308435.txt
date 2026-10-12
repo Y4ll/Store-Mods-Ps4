@@ -1,0 +1,35 @@
+Xiao Sakura is a Vibrant Visuals shader pack built specifically for the Vibrant Visuals rendering mode in Minecraft Bedrock. Inspired by the soft elegance of cherry blossom season, it delivers ambient fog, bloomed lighting, animated flora and full PBR surface detail - a gentle, immersive atmosphere for any world.**
+
+Features
+
+Atmosphere 18 fogs covering cherry groves, birch forests, taiga, swamp, desert, mesa, ice plains, mushroom island, the Nether (hell, soul, crimson, warped, basalt) and the End.
+
+Biome-aware lighting 89 client biome definitions, so lighting, fog and colour grading shift naturally as you travel.
+
+Water & caustics custom water surface with animated caustic light.
+
+Colour grading separate overworld and End grading profiles.
+
+Resolution Options
+
+The pack ships with two subpacks, selectable at import:
+
+- Resolution Default standard resolution, lower memory use
+
+- Resolution 32x higher-detail textures for capable devices
+
+Installation
+
+- Download the .mcpack
+
+- Open the file to import it
+
+- Enable the pack in your world's resource pack list
+
+- Choose your resolution subpack
+
+- Turn on Vibrant Visuals in Settings Video
+
+Notes
+
+If the pack appears to have no effect, confirm Vibrant Visuals is enabled the shader will not render without it.

@@ -1,0 +1,31 @@
+THE LITE VERSION OF THIS PACK IS OUT! IF YOU HAVE A LOW-END DEVICE GO CHECK OUT THE LITE VERSION! https://www.curseforge.com/minecraft-bedrock/texture-packs/bbspbrbp-lite
+
+Ported from Bare Bones Simple PBR by Oliverious which is originally a Java Edition Resource Pack.
+
+This pack uses Bedrock's MER instead of Java's LabPBR like the original project, featuring MER and Normal Maps.
+
+The recommended Vibrant Visuals settings (of course the higher the better) is Medium Shadow Quality, Medium Volumetric Fog Quality, Medium Reflections, 100% Bloom Intensity, TAAU Upscaling mode, and 60%-80% brightness gamma.
+
+All Normal maps are 256x, while the main textures and MER maps are 16x. This pack is already very optimized, so it should work even on low-end devices though may have lag issues.
+
+This pack is NOT made by me, it is made by Oliverious. All original textures and concepts belong entirely to Oliverious under their original All Rights Reserved license. This Bedrock Edition port is distributed with permission from the original creator.
+
+Need to enable Vibrant Visuals or RTX and Bare Bones Texture Pack under this pack to work.
+
+I recommed using the Trailer Visuals by Aleeee for Vibrant Visuals or Trailer Dreams by PawsLight for RTX for better looking trailer feel, since this pack only adds PBR materials to blocks but no shadings or shaders. Add them under this pack.
+
+Pack Order is:
+
+- Bare Bones Simple PBR Bedrock Port (this pack)
+
+- Trailer Dreams or Trailer Dreams (recommended but optional)
+
+- Bare Bones Texture Pack
+
+Credits to Oliverious for making this pack and allowing me to port it to Bedrock Edition.
+
+Original Project by Oliverious: https://modrinth.com/resourcepack/bare-bones-simple-pbr
+
+Note: This is not a exact replica of the Java pack, some textures are added, changed, or deleted.
+
+btw i dont have much time to do this project since i am not unemployed so expect to see bugs unfixed i will fix them as soon as possible whenever i am free, so please tell me the bugs in the comments so I can fix them for you. :)

@@ -1,0 +1,33 @@
+There are many changes in the game. The game will have a lot of structures, a lot of new food and drinks, a lot of mobs, monsters and bosses, a new magic system and many other features. You can report bugs here, as well as in my telegram channel - https://t.me/flaystudios
+
+Also, I have a discord server - https://discord.gg/BFQZQgDD5q
+
+Don't forget to enable the experimental Custom Biomes feature.
+
+The modpack consists of one small modpack and twelve other addons.
+
+List of add-ons/mods:
+
+Forsaken Odyssey - https://www.curseforge.com/minecraft-bedrock/addons/forsaken-odyssey
+
+Brewin' and Chewin' - https://www.curseforge.com/minecraft-bedrock/addons/brewin-and-chewin-bedrock-unofficial-port
+
+Bum_Crops - https://www.curseforge.com/minecraft-bedrock/addons/bum-crops-addon
+
+Creepers Overhaul - https://mcpedl.com/creeper-overhaul-addon/
+
+Farmer's Delight - https://mcpedl.com/farmer-s-delight-bedrock-unofficial-port/
+
+Java Combat - https://www.curseforge.com/minecraft-bedrock/addons/raiyons-java-combat-addon
+
+Large Meals - https://www.curseforge.com/minecraft-bedrock/addons/large-meals-bedrock-unofficial-port
+
+More Simple Structures (and Additions) - https://www.curseforge.com/minecraft-bedrock/addons/more-simple-structures-addon
+
+Naturalist
+
+Pottery Paradise - https://www.curseforge.com/minecraft-bedrock/addons/pottery-paradise-add-on
+
+Random Additions - https://www.curseforge.com/minecraft-bedrock/addons/random-add-on
+
+World Wild Animals - https://mcpedl.com/world-wild-animals-addon//

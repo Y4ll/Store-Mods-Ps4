@@ -1,0 +1,130 @@
+Fused Vanilla is a Vanilla Plus texture pack that enhances Minecrafts look while staying true to the original style. From detailed door designs to a full nature overhaul, it adds extra depth so your builds feel just as rich and lively as the world around them. With custom models and unique variants throughout the pack, the game simply feels more alive and fun to explore.
+
+Familiar... but better in every way
+
+Community Screenshots
+
+cool screenshots shared by the community
+
+Features
+
+This Pack comprises a Texture Pack and an optional Models Pack which modifies the shapes of some blocks. Features included in the Models Pack have been marked with a '*'
+
+- Butterflies!
+
+Butterflies have been added as new ambient particles that naturally spawn around leaves. They come in four random variants, each with animated flapping textures, bringing more life and movement to forests and green spaces.
+
+watch the video below to see them in action!
+
+- Birds!
+
+Birds have been added as new ambient particles that naturally spawn only around trees. They come in four random variants, each with animated flapping textures, bringing more life and movement to empty skies.
+Some spawn near the ground and some spawn high in the sky.
+
+- Better Rain, Splashes & Puddles!
+
+This texture pack also enhances rain by improving textures and adding ripples, splashes, and puddles for a more realistic, lively world. It also upgrades water effects and particles.
+
+Features:
+
+- New, improved rain texture
+
+- Realistic ripples and splashes when rain hits the ground or water
+
+- Randomly spawning puddles during rainfall
+
+- Water ripples and splashes when items are thrown in
+
+- Water ripples and splashes when players swim
+
+watch the video below to see them in action!
+
+- New Door & Trapdoor Textures
+
+Doors and trapdoors now have new detailed textures!
+
+- New Glass Blocks and Glass Panes!
+
+Glass blocks and glass panes now have a fantasy-themed texture
+
+- New Fence Texture
+
+Fences have a new texture resembling the stripped wood versions
+
+- Bushier Bushes*
+
+Bushes, fireflybushes and sweet berry bushes have a new model, part of the Models Pack
+
+- New Iron Theme
+
+Some iron blocks have a completely new theme
+
+- More Block Variants
+
+Following blocks have 2-8 different variants
+
+- New Torch, Ladder, Crafting Table & Lantern
+
+Following blocks have a new texture
+
+- Better Grass/Dirt Sides
+
+Following blocks have a new side texture
+
+- Better Leaves*
+
+- Better Leaves Model*
+
+The leaves have a new 3d model and look bushy. This feature is optional and available by using the Models Pack(Better Leaves) version.
+
+- Improved Tree Colors
+
+Trees will have different colors depending upon the biome they are in:
+
+-Birch trees will be pink in forest biomes, orange in cold biomes and yellow in all other biomes.
+
+-Oak trees will be orange in cold biomes and green in all other biomes.
+
+-Dark Oak trees will be red in all biomes.
+
+-Swamp trees and Acacia trees are more greener.
+
+- New Flowers
+
+Every flower has a new texture and 4-6 variants
+
+- New Tall Flowers
+
+Every tall flower 4 different variants for the top and bottom parts. This means each tall flower has a total of 16 different variants!
+
+- Better Falling Leaves
+
+This texture pack also adds more variety to falling leaf particles and enhances their physicsthey now land on the ground, drift in water, and make your worlds feel more alive.
+
+watch the video below to see them in action!
+
+- Lilypads with Flowers!*
+
+Lilypads have a new texture with many variants and a new model which is part of the Models Pack and is optional.
+
+-without models pack:
+
+-with models pack:
+
+Fun fact: These lily pads can have a total of 72 different combinations with and without flowers!
+
+- New Logs & Stripped Logs
+
+Tree logs and their stripped versions have am improved texture
+
+- 3d Sugarcanes*
+
+Sugarcanes have a slightly improved texture and a 3d-ish model which is part of the Models Pack
+
+-without models pack:
+
+-with models pack:
+
+- Bushy/Bonsai Saplings*
+
+Saplings and their pott

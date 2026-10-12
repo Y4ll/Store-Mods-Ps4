@@ -1,0 +1,14 @@
+(no player.json)
+(no experimental)
+(achievement friendly)
+(join discord for feedback)
+
+Disclaimer: the images used are only to give a visualization of what it feels like to use this add-on.
+
+The Solo Leveling addon enhances your Minecraft gameplay with a progression system where everything you do makes you stronger.
+
+Attacking mobs increases your power, and other activities like exploring and mining also help you grow. The more you play, the stronger you become.
+
+Unlock new skills, fight tougher enemies, and build your own army as you progress from a beginner to a true shadow monarch.
+
+This addon is still in development, so the summon ability is not available yet.

@@ -1,0 +1,31 @@
+What is up guys? Let us have a serious talk about playing on multiplayer realms and survival servers. We have all been in that exact same situation. You spend days building a massive, highly detailed base, storing all your hard-earned diamonds, netherite, and enchanted gear in your vault. You go out for a long mining session, come back, and your chests are completely empty.
+
+Or even worse, you walk out of your front door and a creeper just blows up your entire storage room because you did not see it waiting in the blind spot. It is honestly the most frustrating feeling ever.
+
+I got so tired of sneaky players stealing my stuff and random hostile mobs ruining my builds that I decided to do something about it. That is exactly why Novacraft studios developed the NovaCCTV add-on. I did not want to rely on weird, clunky redstone contraptions or taming fifty wolves. I wanted a literal, real-life modern security system inside Minecraft.
+
+I wanted to be hundreds of blocks away and still be able to check exactly who is standing outside my front door. This add-on gives you absolute god-tier surveillance over your base, and bro, let me tell you, it is a total game-changer for survival.
+
+SETTING UP YOUR SURVEILLANCE
+
+The absolute best part about this add-on is how incredibly easy it is to set up. You do not need to craft some crazy complicated machinery or learn weird chat commands to make it work. All you literally have to do is place down a standard Armor Stand exactly where you want your camera to look. Then, take a regular Name Tag, name it "CCTV" using an anvil, and apply it to the armor stand. Boom! You just installed a high-tech security camera.
+
+If you want to be super organized, you can even name it something specific like "CCTV_MainDoor" or "CCTV_Vault", and the system will automatically register that exact name. You can hide these cameras in trees, place them high up in the corners of your base, or set them up around your village to watch over your villagers. As long as you are within a 200-block radius, you have full wireless access to your entire security network.
+
+THE COMPASS CONTROL PANEL
+
+So how do you actually view the cameras? It is super clean and heavily optimized for smooth gameplay. The moment you right-click or hold the screen with a standard Compass, a sleek, custom UI control panel pops up right in front of you. This is your main monitoring hub. It automatically detects every single active camera around you and lists them beautifully by distance.
+
+With just one tap, your point of view instantly shifts, and you are literally looking through the lens of that camera in real-time. There is no laggy player teleportation; it uses a smooth, dynamic free-camera system. You can monitor your base completely undetected while your actual body is safely hiding somewhere else. When you are done checking the perimeter, you just hit the disconnect button on the UI, and you are instantly back in your own body.
+
+THERMAL VISION AND DEEP ZOOM
+
+Now, this is where the add-on gets insanely tactical. While you are connected to a live camera feed, you can actually open a secondary camera control menu by just crouching and right-clicking your compass again. This unlocks some serious professional surveillance features.
+
+First, we have the Deep Zoom. If you see someone far off in the distance near your base, you can adjust your zoom levels all the way from a standard view up to an insane 20x magnification to see exactly who it is. But my absolute favorite feature is the Thermal Vision mode.
+
+If it is pitch black outside, or if a player is trying to sneak around your base in the dark, you just toggle Thermal mode on. The add-on immediately highlights every single living entity in the camera's radius with a bright glowing outline. They cannot hide in the dark, they cannot hide behind thin walls, and they definitely cannot surprise you anymore.
+
+INTRUDER ALARMS AND EVENT LOGS
+
+I wanted this add-on to do the heavy lifting for you, even when you a

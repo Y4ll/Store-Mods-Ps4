@@ -1,0 +1,51 @@
+**FAD Black Hole** brings a real black hole to Minecraft Bedrock! Summon it with a simple command and watch it grow endlessly, pulling in everything around it.
+
+**Commands**
+
+- `/fad:blackhole` Summon a black hole at your current position.
+
+- `/fad:pull <on/off>` Toggle whether black holes pull and swallow players/mobs.
+
+- `/fad:griefing <on/off>` Toggle terrain digging and block suction.
+
+- `/fad:growth <on/off>` Toggle whether black holes grow over time.
+
+- `/fad:growthspeed <rate>` Change how fast black holes grow (scale per second), smoothly, without jumps.
+
+- `/fad:chase <off/chase/look>` Set chase behavior: stay put, charge at the nearest player, or hover in front of them following their gaze.
+
+- `/fad:chasespeed <speed>` Change how fast black holes chase (blocks per second).
+
+- `/fad:config` View the current settings for all the toggles above.
+
+- `/fad:setscale <scale>` Debug: freeze the nearest black hole at a fixed size for testing.
+
+- `/fad:unfreeze` Debug: release a frozen black hole so it resumes growing normally.
+
+**Features**
+
+- **Infinite Growth** Grows continuously with no maximum size, becoming more powerful over time.
+
+- **7-Second Player Grace Period** Newly summoned black holes won't pull or swallow players for the first 7 seconds, giving them a chance to get clear. Mobs are pulled immediately.
+
+- **Powerful Gravitational Pull** Pulls nearby entities, items, and blocks toward its core, with the pull strength and range scaling as it grows.
+
+- **Block Consumption** Blocks caught within its radius are visibly sucked in and destroyed.
+
+- **Entity Erasure** Mobs and other entities that reach the core are completely removed.
+
+- **Dynamic Terrain Deformation** Digs a smooth, seamlessly expanding crater as it consumes the landscape.
+
+- **Chase Behavior** Optionally have black holes charge at players or hover in front of them, tracking their line of sight.
+
+- **Immersive Visual Effects** Includes a spiraling accretion disc, glowing particle ring, and sparkle effects.
+
+- **Fully Configurable** Every core behavior (pull, griefing, growth speed, chase) can be toggled or tuned live in-game via commands, and settings persist across world reloads.
+
+- **Optimized Performance** Capped entity counts and radius processing keep it running smoothly even at extreme sizes.
+
+Perfect for survival challenges, adventure maps, minigames, or creating a truly catastrophic cosmic event in your world.
+
+Interactive Gravitational Force: Watch the black hole interact with the surrounding world by pulling nearby blocks and living entities toward its core, consuming everything caught within its event horizon:
+
+Visuals Updated: Improved black hole appearance with enhanced visuals, making it more realistic, immersive, and visually striking:

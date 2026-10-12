@@ -1,0 +1,255 @@
+YGP! Minecraft But Trees Give OP Items
+
+Break a tree. Roll the reward. Survive the chaos.
+
+YGP! Minecraft But Trees Give OP Items is a Minecraft Bedrock addon where breaking trees can trigger random rewards, powerful YGP equipment, End loot, OP items, enemies, allies, traps, teleport events, Tree Guardians, special weather events, and the YGP Immortal Dog.
+
+You never know what will happen when you break the next tree.
+
+Created by YGP Studio / YGP Minecraft.
+
+FEATURES
+
+RANDOM TREE REWARDS
+
+Every tree break can trigger a different event category:
+
+25% YGP Rewards
+
+15% End Rewards
+
+20% OP Loot
+
+15% Trap
+
+5% Tree Guardian
+
+10% Survival Reward
+
+5% YGP Immortal Dog
+
+5% Enemy
+
+3% Ally Golems
+
+2% Random Teleport
+
+Total: 100%
+
+Every tree can become a reward, challenge, or completely unexpected event.
+
+YGP V1 + YGP V2 EQUIPMENT
+
+The addon contains both generations of YGP equipment.
+
+YGP V1 remains available.
+
+YGP V2 is an additional generation and does NOT replace YGP V1.
+
+YGP V1 10% chance
+
+YGP V2 5% chance
+
+YGP V2 COMPLETE GEAR
+
+The YGP V2 equipment set includes:
+
+YGP V2 Tools
+
+YGP V2 Sword
+
+YGP V2 Pickaxe
+
+YGP V2 Axe
+
+YGP V2 Shovel
+
+YGP V2 Hoe
+
+YGP V2 Armor
+
+YGP V2 Helmet
+
+YGP V2 Chestplate
+
+YGP V2 Leggings
+
+YGP V2 Boots
+
+YGP V2 equipment is integrated into the tree reward system and can be discovered while playing.
+
+YGP REWARDS
+
+Trees can reward powerful YGP equipment, including:
+
+YGP Treebreaker Sword
+
+YGP Treebreaker Pickaxe
+
+YGP Treebreaker Axe
+
+YGP Guardian Armor
+
+YGP Skywing Elytra
+
+YGP Hunter Bow
+
+YGP Rapid Crossbow
+
+YGP Storm Trident
+
+YGP equipment can also receive powerful enchantments.
+
+END REWARDS
+
+Trees can reward rare End-related items:
+
+Ender Pearl
+
+Eye of Ender
+
+Shulker Shell
+
+Chorus Fruit
+
+Dragon's Breath
+
+End Crystal
+
+Elytra
+
+OP LOOT
+
+Get valuable and powerful Minecraft loot.
+
+The OP Loot event gives one reward stack, keeping normal tree rewards controlled instead of flooding your inventory.
+
+DANGEROUS EVENTS
+
+Not every tree is your friend.
+
+You can trigger:
+
+Traps
+
+Hostile mobs
+
+TNT-related chaos
+
+Unexpected events
+
+TREE GUARDIAN
+
+A rare event can summon the Tree Guardian, turning an ordinary tree into a dangerous encounter.
+
+Stay ready.
+
+Your next tree might fight back.
+
+YGP IMMORTAL DOG
+
+The previous Loyal Wolf system has been replaced by the YGP Immortal Dog.
+
+When the tree event occurs, the Immortal Dog is automatically associated with the player as their companion.
+
+No separate taming is required for the integrated companion.
+
+The system uses player-specific ownership for multiplayer worlds.
+
+SURVIVAL REWARDS
+
+Some trees can provide useful survival items to help you progress.
+
+ALLY GOLEMS
+
+Need backup?
+
+A rare tree event can summon Ally Golems to help you.
+
+RANDOM TELEPORT
+
+Sometimes breaking a tree can randomly teleport you somewhere nearby.
+
+SPECIAL RAIN EVENTS
+
+The addon also includes special weather events when rain or thunder begins.
+
+Possible events include:
+
+Good Rain 10+ rewards
+
+Bad Rain
+
+TNT Rain
+
+Zombie Rain
+
+IN-GAME YGP WIKI
+
+The addon includes an in-game YGP Tree Quick Wiki.
+
+The Wiki provides information about:
+
+Tree Drops
+
+YGP Rewards
+
+YGP V1
+
+YGP V2
+
+YGP V2 equipment
+
+Tree Events
+
+Dangerous Events
+
+Tree Guardian
+
+YGP Immortal Dog
+
+Ally Golems
+
+Random Teleport
+
+Special Rain Events
+
+How to Play
+
+Official YGP information
+
+The Wiki keeps addon information accessible in-game without relying on large chat messages.
+
+The addon does not use large promotional welcome messages.
+
+MORE RANDOMNESS
+
+One tree could make you rich.
+
+Another could give you powerful YGP gear.
+
+Another could summon the Tree Guardian.
+
+Another could bring Ally Golems.
+
+Another could give you an Immortal Dog.
+
+And another could completely ruin your plans.
+
+Break a tree.
+
+Take the risk.
+
+See what happens.
+
+CHANGELOG
+
+v6.0.2 26.00 & Clean Information Update
+
+Minecraft Bedrock 26.00
+
+Updated the addon for the Minecraft Bedrock 26.00 target.
+
+Updated the Script API configuration according to the actual supported implementation.
+
+Preserve

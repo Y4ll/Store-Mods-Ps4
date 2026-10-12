@@ -1,0 +1,108 @@
+VERSION 1.2 NEW!!
+
+Warden Armor
+
+Warden Tools
+
+Sword
+
+Damage: 8
+
+-When you kill enemy mobs they become sculk
+-When you destroy the tool you receive experience orbs
+
+Axe
+
+Damage: 7
+
+-When you kill enemy mobs they become sculk
+-When you destroy the tool you receive experience orbs
+
+Pickaxe
+
+Damage: 6
+
+-When you kill enemy mobs they become sculk
+-When you destroy the tool you receive experience orbs
+-When you break dirt or grass it becomes sculk
+
+Shovel
+
+Damage: 5
+
+-When you kill enemy mobs they become sculk
+-When you destroy the tool you receive experience orbs
+-When you break dirt or grass it becomes sculk
+
+Hoe
+
+Damage: 6
+
+-When you kill enemy mobs they become sculk
+-When you destroy the tool you receive experience orbs
+-When you break dirt or grass it becomes sculk
+-Breaks large amounts of sculk more efficiently
+
+Soul Sensor +1
+
+Do you have a feeling that something is coming? Use the warden's helmet and when in "sneaking" mode you will be able to detect the closest entities.
+
+When used it gives water breathing
+
+WORK IN MINECRAFT 1.20.51
+
+ARMOR TRIM
+
+ARMOR TRIM IN WARDEN ARMOR
+
+-The armor has a glow in the dark
+
+Armor Part Ability:
+
+Ability
+
+HELMET
+
+Protection: 3
+
++1 Soul Sensor
+
+Do you have a feeling that something is coming? Use the warden's helmet and when in "sneaking" mode you will be able to detect the closest entities. Don't worry, this won't give you so much lag.
+
+When used it gives water breathing
+
+CHESTPLATE
+
+Protection: 8
+
++1 Fire Resistance
+
+-When used it gives resistance to fire
+
+LEGGINGS
+
+Protection: 6
+
++1 Knockback Resistance
+
+BOOTS
+
+Protection: 3
+
++1 Warden Transmutation
+
+-when using the boots the "sculk vein" when stepped on that automatically transforms into xp
+
+-only works with the "sculk vein"
+
+Recipe to make armor
+
+RECIPE
+
+Warden Helmet
+
+Warden Chestplate
+
+Warden Leggings
+
+Warden Boots

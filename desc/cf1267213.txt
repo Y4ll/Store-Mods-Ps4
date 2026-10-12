@@ -1,0 +1,11 @@
+Are you tired of the sound of the rain or do you need the day to dawn without having a bed?
+
+the times control addon adds 2 new clocks to the game
+
+diamond clock:
+
+the diamond clock can control time by interacting with the item
+
+redstone clock:
+
+the redstone clock can control the weather by interacting with the item

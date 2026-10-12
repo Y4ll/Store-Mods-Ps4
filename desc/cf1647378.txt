@@ -1,0 +1,94 @@
+# Locust
+
+**You will never see it move.**
+
+Locust is a horror add-on for Minecraft Bedrock. It appears on its own, far away, and never stops watching you. It won't run, it won't walk while you're looking at it... but the moment you look away, something changes.
+
+---
+
+## DURING THE DAY
+- Appears in the distance, completely still.
+- No matter where you stand, **it is always looking at you** you can never see its back.
+- It cannot be attacked or pushed.
+- If you get too close, it vanishes into static... for now.
+
+## AT NIGHT
+- It reappears, closer this time.
+- Every time you stop looking at it, it gets a little closer.
+- If it manages to reach you, you won't have time to run.
+
+## DON'T LOOK AWAY FOR TOO LONG
+Once Locust gets close enough at night, the jumpscare triggers: full-screen, camera shaking, no time to escape.
+
+## Features
+- Fully automatic no need to summon it, it appears on its own as you explore.
+- Custom AI: behaves differently by day and by night.
+- "Only moves when unseen" system reacts to your camera in real time, not scripted.
+- Custom horror fog when it's nearby.
+- 100% original sounds (scream, presence, appearance, disappearance).
+- Jumpscare with camera shake and screen effects.
+- Lightweight optimized to keep at most one active entity per player.
+
+## Requirements
+- Minecraft Bedrock **1.21.0** or higher.
+- **Beta APIs** must be enabled in world settings (Experiments).
+
+## Installation
+1. Download the `.mcaddon` file.
+2. Open it with Minecraft (both packs import automatically).
+3. Create or edit a world enable it under **Behavior Packs** and **Resource Packs**.
+4. Enable **Beta APIs** under Experiments.
+5. Enter the world. Locust will appear on its own, when you least expect it.
+
+### Credits
+Add-on created by **CabanitasMC**.
+
+---
+---
+
+# Locust (Espanol)
+
+**Nunca lo veras moverse.**
+
+Locust es un addon de terror para Minecraft Bedrock. Aparece solo, a lo lejos, y nunca deja de mirarte. No corre, no camina mientras lo ves... pero cuando apartas la vista, algo cambia.
+
+---
+
+## DE DIA
+- Aparece a lo lejos, completamente inmovil.
+- Sin importar donde estes parado, **siempre te esta mirando** no puedes verle la espalda.
+- No se le puede atacar ni empujar.
+- Si te acercas demasiado, desaparece entre estatica... por ahora.
+
+## DE NOCHE
+- Vuelve a aparecer, mas cerca.
+- Cada vez que dejas de verlo, se acerca un poco mas.
+- Si logra llegar hasta ti, no vas a tener tiempo de correr.
+
+## NO MIRES DEMASIADO CERCA
+Cuando Locust esta lo bastante cerca de noche, ocurre el jumpscare: pantalla completa, camara temblando, y no hay forma de escapar a tiempo.
+
+## Caracteristicas
+- 100% automatico no necesitas invocarlo, aparece solo mientras exploras.
+- IA propia: se comporta distinto de dia y de noche.
+- Sistema de "solo se mueve si no lo ves" (no scripted, reacciona a tu camara en tiempo real).
+- Niebla de terror personalizada cuando esta cerca.
+- Sonidos 100% originales (grito, presencia, aparicion, desaparicion).
+- Jumpscare con camara temblorosa y efectos de pantalla.
+- Sin lag optimizado para no generar mas de una entidad activa por jugador.
+
+## Requisitos
+- Minecraft Bedrock **1.21.0** o superior.
+- Activar **Beta APIs** en la configuracion del mundo (Experimentos).
+
+## Instalacion
+1. Descarga el archivo `.mcaddon`.
+2. Abrelo con Minecraft (se importan ambos packs automaticamente).
+3. Crea o edita un mundo activalo en **Comportamiento** y **Recursos**.
+4. Activa **Beta APIs** en Experimentos.
+5. Entra al mundo. Locust aparecera solo, cuando menos lo esperes.
+
+### Creditos
+Addon creado por **CabanitasMC**.
+
+*No te distraigas mucho rato con la vista fija en un solo lugar.*

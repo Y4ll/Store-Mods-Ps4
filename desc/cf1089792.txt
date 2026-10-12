@@ -1,0 +1,9 @@
+This is a small pack made to make Minecraft's GUIs and some UI elements look a bit more vibrant and interesting. Includes Dark Mode.
+
+Requires at least version 1.18. You MUST use Classic UI if you want to see all the custom GUIs.
+
+Modified textures and GUIs:
+
+Modified textures and GUIs with Dark Mode:
+
+Assets originally made by frugbug for Java. Ported by me.

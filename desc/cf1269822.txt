@@ -1,0 +1,51 @@
+Random Tick Speed Controller
+
+This add-on is simple but powerful tool that allows players to control the Random Tick Speed of their Minecraft world in real-time and you can get achievements.
+
+Want crops to grow faster?
+Need leaves to decay instantly?
+Want to slow down time for farming or mob farms?
+
+Now you can do it with just one item the TickSpeed Setting.
+
+Features
+
+- Custom Tick Speed Menu Easily adjust the world's tick speed using a clean UI.
+
+- Boost Mode Temporarily increase tick speed for a few seconds, great for farming!
+
+- Auto-Revert System Automatically restores previous tick speed after boost ends.
+
+- Smart Memory Remembers your last used tick speed for convenience.
+
+- Achievement You can earn Achievement
+
+Compatibility
+
+- Supports Bedrock Edition 1.20.x+
+
+- Works in Survival, Creative, and Adventure Mode
+
+How to Use
+
+- Equip the TickSpeed Setting item.
+
+- Right-click / Use it to open the control menu.
+
+- Slide to set your desired Random Tick Speed.
+
+- (Optional) Enable Boost Mode to set a temporary high-speed burst.
+
+TickSpeed Controller is perfect for players who love automation, farming, redstone builds, or just having more control over their Minecraft worlds rhythm.
+
+Enjoy a smoother and smarter survival experience!
+
+Feedback & Suggestions
+
+We'd love to hear from you!
+
+If you have any ideas, feedback, or bug reports feel free to leave a comment on this page.
+
+Your input helps improve this add-on for everyone.
+
+Let us know what features you'd like to see next!

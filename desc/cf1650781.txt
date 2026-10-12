@@ -1,0 +1,291 @@
+YGP! Minecraft But Fishing Gives OP Items
+
+Every catch could become an adventure.
+
+YGP! Minecraft But Fishing Gives OP Items transforms Minecraft Bedrock fishing into a randomized treasure and adventure system.
+
+A successful catch can give you valuable resources, rare treasures, powerful equipment, dangerous encounters, special events, YGP Signature Gear, or other unexpected rewards.
+
+You never know what is waiting at the end of your fishing line.
+
+Created by YGP Studio / YGP Minecraft.
+
+YGP V1 + YGP V2 GEAR
+
+The addon includes both generations of YGP equipment.
+
+YGP V1 remains available.
+
+YGP V2 does not replace YGP V1.
+
+YGP V2 Complete Gear
+
+YGP V2 Sword
+
+YGP V2 Pickaxe
+
+YGP V2 Axe
+
+YGP V2 Shovel
+
+YGP V2 Hoe
+
+YGP V2 Helmet
+
+YGP V2 Chestplate
+
+YGP V2 Leggings
+
+YGP V2 Boots
+
+Both YGP V1 and YGP V2 content can appear through the fishing reward system.
+
+ONE CATCH ONE REWARD/EVENT
+
+The addon uses a catch-lock system designed to prevent one fishing catch from accidentally triggering multiple unrelated rewards.
+
+1 successful catch 1 reward/event
+
+Intentional item quantities and normal item stacks remain possible.
+
+POSSIBLE TREASURES
+
+Depending on the reward system, catches can provide valuable resources and rare items such as:
+
+Diamonds
+
+Diamond Blocks
+
+Emeralds
+
+Emerald Blocks
+
+Gold
+
+Iron
+
+Netherite Ingots
+
+Netherite Blocks
+
+Ancient Debris
+
+Nether Stars
+
+Beacons
+
+Totems of Undying
+
+Elytra
+
+Tridents
+
+Dragon Eggs
+
+End Crystals
+
+Shulker-related items
+
+Enchanted Golden Apples
+
+Rare End items
+
+Rare Nether items
+
+Other survival resources
+
+YGP SIGNATURE GEAR
+
+Possible YGP equipment includes:
+
+YGP Treebreaker Sword
+
+YGP Treebreaker Pickaxe
+
+YGP Treebreaker Axe
+
+YGP Guardian Helmet
+
+YGP Guardian Chestplate
+
+YGP Guardian Leggings
+
+YGP Guardian Boots
+
+YGP Skywing Elytra
+
+YGP Hunter Bow
+
+YGP Rapid Crossbow
+
+YGP Storm Trident
+
+YGP V2 Sword
+
+YGP V2 Pickaxe
+
+YGP V2 Axe
+
+YGP V2 Shovel
+
+YGP V2 Hoe
+
+YGP V2 Helmet
+
+YGP V2 Chestplate
+
+YGP V2 Leggings
+
+YGP V2 Boots
+
+RANDOMIZED REWARD SYSTEM
+
+Fishing rewards are organized into different reward categories and rarity levels.
+
+Common
+
+Rare
+
+Epic
+
+Legendary
+
+YGP Signature
+
+The exact outcome is unknown until you make the catch.
+
+FISHING ADVENTURES
+
+Some catches can trigger special Fishing Adventures.
+
+Possible adventure types include:
+
+Pirate Treasure
+
+Deep Sea Discovery
+
+Dangerous Catch
+
+Lost Treasure
+
+Ancient Discovery
+
+Legendary Catch
+
+Special Fishing Events
+
+Night Fishing
+
+Deep Sea Events
+
+Lucky Fishing Events
+
+Each adventure can have a different outcome.
+
+LOYAL PETS
+
+A rare fishing event can provide a Loyal Pet.
+
+The companion is automatically associated with the player who triggered the event.
+
+No manual taming is required for the event.
+
+The Loyal Wolf is one of the special companion events.
+
+ENEMY ENCOUNTERS
+
+Some catches can trigger dangerous encounters, including:
+
+Zombies
+
+Skeletons
+
+Drowned
+
+Spiders
+
+Creepers
+
+Other dangerous encounters
+
+Enemy events are controlled to avoid unnecessarily flooding the world with mobs.
+
+DANGEROUS FISHING EVENTS
+
+Possible dangers include:
+
+Enemy ambushes
+
+Creeper surprises
+
+TNT-related traps
+
+Dangerous encounters
+
+Negative effects
+
+Other randomized dangerous events
+
+Be careful what you pull out of the water.
+
+TREASURE SYSTEM
+
+Treasures have different rarity levels:
+
+Common Treasure
+Useful resources and survival items.
+
+Rare Treasure
+Valuable materials and equipment.
+
+Epic Treasure
+Powerful and harder-to-find rewards.
+
+Legendary Treasure
+Extremely rare discoveries.
+
+OP LOOT
+
+Some catches can provide powerful loot, including:
+
+Enchanted equipment
+
+Rare resources
+
+High-value survival items
+
+End-game materials
+
+YGP equipment
+
+YGP V1 items
+
+YGP V2 gear
+
+The system remains based around:
+
+One catch one reward/event
+
+SURVIVAL REWARDS
+
+Not every catch has to be extremely powerful.
+
+Possible survival rewards include:
+
+Food
+
+Arrows
+
+Torches
+
+Tools
+
+Building materials
+
+Useful resources
+
+Emergency supplies
+
+LEGENDARY CATCHES
+
+Extremely lucky players can discover special legenda

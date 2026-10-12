@@ -1,0 +1,45 @@
+Meta Core: The Ultimate Superhero Engine for Minecraft Bedrock
+
+Ever wanted to build your own superhero or villain addon but felt held back by complicated scripting? Meta Core is your new best friend.
+
+Meta Core is a professional-grade "engine" for Minecraft Bedrock. It handles the heavy backend logicflight physics, dynamic UI, and suit-up animationsso you can stop spending weeks coding from scratch and start focusing on what really matters: bringing your favorite heroes from movies, anime, and TV to life!
+
+What You Can Do With Meta Core:
+
+-
+
+Easy Power-Ups: Don't reinvent the wheel. Use our pre-built systems to add flight, speed, and custom combat abilities to your characters in minutes.
+
+-
+
+Modular Freedom: Don't want the full package? No problem. Pick and choose only the systems you need (like our advanced booster logic or mind-trick mechanics) to keep your addon lightweight.
+
+-
+
+Built to Grow: Designed for creators by a creator. As your projects get more ambitious, Meta Cores modular architecture grows with you.
+
+-
+
+Developer Friendly: Whether you are a beginner or an advanced scripter, our base provides the perfect platform to plug in your own custom powers via the Script API.
+
+Featured Systems:
+
+-
+
+Kinetic Flight: Fluid flight logic with realistic inertia and banking.
+
+-
+
+Booster Logic: Automated, cinematic suit animations that react to your movement.
+
+-
+
+Ability Matrix: Fully scripted UI menus for managing hero powers on the fly.
+
+Need Help?
+
+Creating high-quality addons is easier with a community behind you. Join our Discord for direct access to our official guides, video tutorials, and a community of creators ready to help you level up your modding game.
+
+Get started today: Watch the Tutorials: https://www.youtube.com/@TapMCBE
+
+Join the Community: https://discord.gg/Yr7Dbwc5f5

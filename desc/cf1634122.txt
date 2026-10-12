@@ -1,0 +1,65 @@
+Bring the Java Replay Mod experience to Minecraft Bedrock Edition.
+
+RAW Cinematic Experience
+
+36 Cinematic Camera Presets
+
+Create cinematic shots without building every camera movement yourself.
+
+Dolly Zoom
+
+Two-Player Cinematic Shots
+
+Create dedicated cinematic scenes around two characters.
+
+Duel OTS
+Legs Reveal
+Face-to-Face
+Two-Shot Orbit
+Standoff
+
+Professional Camera System
+
+Take complete control over your camera and create your own movements.
+
+Manual Camera Mode
+Camera Keyframes
+Custom Camera Paths
+Camera Timeline
+Linear Movement
+Ease In
+Ease Out
+Ease In & Out
+Adjustable Keyframe Timing
+
+Installation
+
+1. Import the Replay Director .mcaddon.
+2. Enable the Behavior Pack and Resource Pack.
+3. Enter your world.
+4. Use the Director Stick to open Replay Director.
+
+Director Stick:
+
+/scriptevent replay:give
+
+Requirements
+
+Minecraft Bedrock Edition 1.26.10+
+
+Behavior Pack
+Resource Pack
+
+No Experiments Required.
+
+Support
+
+Your support helps improve future updates.
+
+Copyright
+
+Do not reupload or redistribute this add-on on other platforms.
+
+Record it. Replay it. Direct it.
+
+Replay Director Your camera. Your scene. Your story.

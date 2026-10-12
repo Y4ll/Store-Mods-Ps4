@@ -1,0 +1,7 @@
+VHS horror overlay with scanlines, noise, and tracking effects. Fullscreen support + subpacks included.
+
+Improved version: https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-filter-2-0
+
+Join our discord:https://discord.gg/tCnxzuHCMt
+
+Interested in using this in your add-on? Please join our Discord server and request permission to use the VHS filter.

@@ -1,0 +1,109 @@
+SHOWCASE
+
+FUNCTIONALITY
+
+To configure and see all the features of the addon, you just need to obtain the special item:
+
+Advanced Dynamic Light Book
+
+This item allows you to:
+
+- Access all addon configurations.
+
+- Configure dynamic light settings for each item individually.
+
+- Manage global light behavior settings.
+
+- Add custom items/blocks as light sources.
+
+- Configure server mode and operator permissions.
+
+How it works:
+
+The addon dynamically places invisible light sources around players based on the light-emitting items they're holding.
+
+FEATURES
+
+- Dynamic lighting: Hold light-emitting items to illuminate your surroundings in real time.
+
+- Offhand support: Light sources work in your offhand too, with configurable activation.
+
+- Underwater lighting: Configure items to emit light even while submerged.
+
+- Environment lighting: Dropped items on the ground can emit light.
+
+- Per-item configuration: Customize each item's light level, offhand, underwater, and environment settings.
+
+- Custom items system: Add any modded or custom items/blocks as dynamic light sources.
+
+- Global settings: Control offhand activation mode and reset all settings at once.
+
+- Server mode: Permission system for administrators in multiplayer.
+
+- Operator management: Grant and revoke operator permissions.
+
+- Intuitive interface: Easy-to-use form menus accessible from the in-game book.
+
+- Optimized performance: Designed to not affect game performance.
+
+- Compatible with achievements: Works without disabling achievements!
+
+HOW TO GET THE ITEM
+
+Use the command:
+
+`/give @s dl_adl:book`
+
+You can also find it in the inventory in creative mode!
+
+(Found in the "Items" category)
+
+PERMISSIONS SYSTEM
+
+The first player to join the world automatically becomes the **Original Operator**.
+
+- Operators can access all settings and configure the addon.
+
+- Original Operator can grant/revoke operator permissions to other players.
+
+- Server Mode can be enabled/disabled to require operator permissions.
+
+Be an Advanced Dynamic Light operator with following the tags:** `operator`, `op`, `admin`, `administrator`, `moderator`
+
+COMPATIBILITY
+
+This addon is completely compatible with other addons and does NOT use experimental features!
+
+- Compatible with achievements and Actions & Stuff.
+
+- No experimental features required.
+
+- Works in survival and creative modes.
+
+- Multiplayer compatible (server mode included).
+
+ALL MY LINKS
+
+Join my Discord community, subscribe to my YouTube channel, and Buy me a coffee to continue supporting my projects!
+
+You won't regret it!!!
+
+INSTALLATION PROCESS & SUPPORT
+
+Correct installation process:
+
+- Download both files, the behavior pack [BP] and the resource pack [RP] (If you only download one of the two .mcpack files, the add-on may not work properly).
+
+- Import both files into Minecraft Bedrock. One at a time.
+
+- Activate the add-on in an old or new world. When you activate one of the two, the other will automatically activate. For example: if you activate [RP] -> [BP] will automatically activate.
+
+- Enjoy :)
+
+If you encounter any issues or have questions:
+
+- Join the Discord server for quick support.
+
+- Report bugs in the section intended with detailed information.
+
+- Share your suggestions for future updates.

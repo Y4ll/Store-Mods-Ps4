@@ -1,0 +1,52 @@
+Are you tired of constantly switching between your Pickaxe, Axe, and Shovel while mining or building? The Auto Tool Swap add-on solves this problem completely!
+
+This lightweight script automatically detects the block you are looking at and instantly swaps to the correct tool in your hotbar. Its perfect for survival, creative building, and streamlining your gameplay.
+
+v1.3 - New 2 features :
+
+-> Auto Totem: A high-priority safety system that monitors your health. If you drop below 5 hearts, it instantly searches your inventory for a Totem of Undying and equips it to your offhand, ensuring you are ready to revive without losing your main weapon.
+
+-> Auto Armor Replenish: A smart background check that detects when any piece of your armor breaks (detecting both empty slots and "air" items). It automatically finds a matching replacement in your inventory (e.g., swapping a broken helmet for a fresh one) and equips it immediately.
+
+v1.2 - New Feature: Added Auto-Refill. When a player places the last block in their stack, the system checks the inventory for a matching block and automatically refills the hotbar slot.
+
+- Whats New in v1.1
+
+1. New Command System: Chat Prefixes
+The Change: We have replaced the experimental /auto:swap command (which required Cheats) with a streamlined Chat Prefix system.
+Usage: Simply type !autoswap on or !autoswap off in the chat.
+Privacy: These commands are intercepted by the script and will not appear in global chat, keeping your conversations clean.
+Survival Friendly: This change means you no longer need to enable "Activate Cheats" to use the addon, allowing you to keep earning Achievements/Trophies (as long as the behavior pack itself is allowed).
+
+2. Smart Durability Safety
+The Problem: Previously, the mod might swap to a tool that was on the verge of breaking.
+The Solution: The mod now checks durability before swapping. If your best tool has 15 durability or less, the mod will refuse to equip it to save it.
+Feedback: You will see a Red Warning Action Bar message: Warning: pickaxe Low Durability! so you know why the swap didn't happen.
+
+3. Enhanced Visual Feedback
+Toggle Status: You now get clear Action Bar messages ([AutoSwap] Active / Inactive) accompanied by audio cues (random.orb / random.click) when toggling the mod.
+
+4. Builder Protection Logic
+The mod maintains strict "Builder Protection." It will only swap tools if you are holding a tool or an empty hand. If you are holding a block, the mod remains passive.
+
+--> Features :
+
+- Smart Detection: Automatically identifies if a block needs a Pickaxe, Axe, Shovel, or Hoe.
+
+- Lag Free: Optimized using the latest Minecraft Script API.
+
+- Toggle System: easily turn the feature ON or OFF in-game using simple commands.
+
+- Multi-Tool Support: Works with all material types (Wood, Stone, Iron, Gold, Diamond, Netherite).
+
+--> How to Use :
+
+Once the pack is applied to your world, the feature is manual by default to prevent accidents. You can enable it using the custom chat command.
+
+- To Enable: Open chat and type: !autoswap on
+
+- To Disable: Open chat and type: !autoswap off
+
+Note on Credits
+
+- If you review this add-on or use it in a video, please leave a link to this Curseforge page or mcpdl page. Do not redistribute the direct file link.

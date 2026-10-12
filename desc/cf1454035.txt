@@ -1,0 +1,6 @@
+This resource pack shrinks the Totem of Undying and Mace textures from the default 1616 resolution to 3232, making them more compact and smaller in your hand and inventory. The higher-resolution textures keep everything crisp while making the items feel cleaner and more proportionate, especially in first-person view. Its a subtle visual upgrade that doesnt change gameplay at all just makes your gear look smoother and more refined while you play.
+Created by PandaYeti71
+Comment if you want me to add more items
+Thanks!
+
+Showcase: Click Me!

@@ -1,0 +1,91 @@
+3D My Totem Doll
+
+Bring your Minecraft skin to life as a 3D Totem Player!
+
+This resource pack turns the Totem of Undying into a 3D player model using your Minecraft skin. It now also includes a 2D model, blinking eyes, size adjustment, and different model options.
+
+Features
+
+- Custom 3D Totem Player
+
+- Uses your Minecraft skin
+
+- Supports Slim (Alex) and Wide (Steve)
+
+- New 2D Totem Model
+
+- Animated blinking eyes
+
+- Adjustable Totem size
+
+- Hide the Player and only show the Bucket/Totem
+
+- Foot Model option
+
+- Supports multiple animation systems
+
+Model Options
+
+Hide Player
+
+Hide the Player to show only the Bucket/Totem.
+
+Default 3D Totem Player
+
+The default 3D player model using your Minecraft skin.
+
+2D Totem
+
+A 2D model for a simpler Totem look.
+
+Foot Model
+
+Shows only the player's legs and feet without the full player body.
+
+Animation Support
+
+Supports:
+
+JUSTANIMATION+ 1.4
+
+HMI
+
+XNOVA 1.2
+
+Action & Stuff
+
+Choose the animation style that matches your setup through Resource Pack Settings.
+
+Skin
+
+To use your own skin, put it in:
+
+Slim (Alex):
+
+- textures/entity/totem [ Skin Player ] By Ancxliy/alex
+
+Wide (Steve):
+
+- textures/entity/totem [ Skin Player ] By Ancxliy/steve
+
+Then select Slim [Alex] or Wide [Steve] in Pack Settings.
+
+Pack Settings :
+
+Available settings include:
+
+Hide Player
+
+3D Totem
+
+Model Selection
+
+Skin Type
+
+First Person Item Scale
+
+Totem Size
+
+Animation Style
+
+Simply adjust the settings to your preference from Resource Pack Settings.

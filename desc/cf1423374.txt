@@ -1,0 +1,97 @@
+Pack info
+
+- A custom vibrant visual shader for your worlds
+
+Features
+
+- Improve lighting, shadow, atmosphere, fog, color grinding & water
+
+- Batter & realistic sun, moon & cloud
+
+- Smooth key frame
+
+Subpacks info
+
+Reimagined | Vanilla minecraft style but better
+
+- Batter lighting
+
+- Blocky shadow
+
+- Vanilla atmosphere
+
+- Vanilla fog
+
+- Vanilla color grinding
+
+- Batter vanilla water
+
+Unbound | High quality and realistic
+
+- Batter lighting
+
+- Smooth shadow
+
+- Realistic atmosphere
+
+- Improve fog
+
+- Improve color grinding
+
+- Realistic water
+
+Settings colors info
+
+- Red | Performance impac
+
+- Yellow | Normal
+
+- Green | Smooth performanc
+
+Recommended Settings
+
+- Graphic mode | Vibrant Visual
+
+- Gamma | 100%
+
+- Shadow | Ultra
+
+- Cloud | Medium
+
+- Fog | Ultra
+
+- Reflection | High
+
+- Bloom | 50-100%
+
+- Resolution | 75% or Native
+
+Image
+
+Reimagined
+
+Unbound
+
+Recommended Hardware
+
+- Mobile | Adreno 640, Mali-G68, Mali-G77, Xclipse 530 or higher
+
+- IOS | A12 Bionic or higher
+
+- Window | GPU with support for DirectX 12
+
+Notes
+
+- Best settings for high-end devices
+
+- Low to mid-end devices may require reduced or disabled some features
+
+- Compatible with other resource packs
+
+- You can use some of the files as templates in your shader, but do not copy my files (see LICENSE.txt for more details)
+
+Made by Aoffy_aof
+
+THIS SHADER PACK MADE ON MID-END MOBILE PLAYERS (THAT CRAZY RIGHT!)
+
+Discord

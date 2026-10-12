@@ -1,0 +1,25 @@
+TRUE DARKNESS
+
+This Shader Developed by @PnTMC
+
+Inspired by True Darkness | by @GrondagTheBarbarian
+
+Reminder : This is RenderDragon shaders, so you need to use the correct tools to use this shader ( e.g. MaterialBinLoader, BetterRenderDragon, Minecraft Patch, or any shaderloader )
+
+When using this shader, dark areas like caves or the dead of night will be truly PURE BLACK, you won't be able to see a thing without a torch or light source.
+
+When you use this shader, there will be no moon, so be careful
+
+NOTES
+
+Supported Platforms:
+
+Android, Windows, IOS
+
+----------
+
+Do NOT reupload, redistribute, or publicly modify this shader without explicit permission.
+
+Please give feedback if you encounter any errors. Feedback on my YouTube channel is easier for me to read because I'm quite lazy about checking CursedForge comments XD
+
+WATCH THIS VIDEO FOR MORE

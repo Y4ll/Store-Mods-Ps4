@@ -1,0 +1,69 @@
+Avanced Player Cameras
+
+Give Minecraft Bedrock a whole new way to feel.
+
+More Player Cameras is a Bedrock add-on that adds multiple custom camera modes for the player, letting you switch between new perspectives directly in-game. Whether you want a tactical top-down view, a cinematic orbit, a wider third-person look, or a fully detached free camera, this add-on gives you more control over how gameplay is framed.
+
+Features
+
+Multiple Playable Camera Modes
+Instantly switch between several custom views designed for different gameplay styles.
+
+Free Camera
+Move a detached camera through the world and look around with more freedom.
+
+Far Third Person
+A cleaner, more distant third-person view for better awareness and style.
+
+Over-Shoulder Right
+A tighter action-focused shoulder camera for a more dramatic feel.
+
+Eagle Top-Down
+A tactical top-down camera that works well for exploration and overview.
+
+Adventure Isometric
+A diagonal camera inspired by action-adventure and ARPG-style games.
+
+Side Runner
+A side view camera that changes how movement and traversal feel.
+
+Orbit Follow
+A smooth moving orbit camera that gives gameplay a more cinematic presentation.
+
+In-Game Menu
+Open the camera menu with a stick and switch modes without leaving your world.
+
+SHOWCASE
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+JOIN DISCORD --> Click Here

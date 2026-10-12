@@ -1,0 +1,5 @@
+Adds ink bendy and a few other things such as the ink machine, and some items.
+
+Might not be finished any time soon due to my focus on other projects.
+
+If you plan to distribute this project to third parties, provide a direct link to this curseforge page within the 3rd party you upload to. However, mediafire links are not allowed.

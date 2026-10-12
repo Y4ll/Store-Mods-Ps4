@@ -1,0 +1,66 @@
+Monster Tank WW2 Addon
+
+Welcome to the Monster Tank WW2 Addon for Minecraft Bedrock Edition! This add-on brings highly detailed, realistic World War II heavy armor and immersive combat mechanics straight into your world.
+
+Note: This project is currently Under Active Development. Features and content will continue to be added and polished in upcoming updates.
+
+Features & Highlights
+
+- German Heavy Tanks: Features iconic WWII German heavy tank models, including the new Auff. C and the powerful Sturm Tiger heavy mortar tank (other factions, light, and medium vehicles will be added in future updates).
+
+- Universal Armament: Every tank series now comes equipped with an integrated Machine Gun (MG) for anti-infantry and secondary defense.
+
+- Advanced Aiming Systems: Integrated Laser Assist and Aim Assist targeting systems to enhance precision firing while on the move or at long range.
+
+- WOTB-Style Driving: Vehicle movement and driving mechanics inspired by World of Tanks Blitz.
+
+- Realistic Tank Mechanics: Advanced reloading systems, ammunition swapping, dynamic target locking, and tactical adrenaline capabilities.
+
+- Custom Animations: Detailed and realistic animations for tracks, gun barrels, and vehicle movement.
+
+- Multiplayer Ready: Test and engage in armored combat scenarios with friends on your server.
+
+Work in Progress (WIP) Status
+
+- Audio System: Custom sound effects (engine, firing, track sounds) are actively being refined and will be updated continuously.
+
+- More Factions & Vehicles: Additional nations, vehicle classes, balance tweaks, and armor mechanics are currently under development.
+
+How to Use & Controls
+
+-
+Mounting the Tank:
+
+- Enter the tank to take control. Driving mechanics function similarly to World of Tanks Blitz.
+
+-
+Targeting & Assistance (Laser & Aim Assist):
+
+- Laser Assist: Use the visual laser guide to line up precision shots over distance.
+
+- Aim Assist & Target Lock: Lock onto moving targets easily using the Target Designator to keep your main gun on target while driving.
+
+-
+Loading Ammunition (AP / HE):
+
+- Keep either AP (Armor-Piercing) or HE (High-Explosive) ammo in your inventory.
+
+- Hold the ammo item to start reloading. An action bar notification will automatically display your reload progress.
+
+- Switch between AP and HE shells anytime (triggers corresponding reload time).
+
+- Adrenaline Rush: A built-in feature that speeds up reload time during critical combat moments!
+
+-
+Firing the Main Cannon / Mortar:
+
+- Once fully loaded, switch to the Fire item and hold it to unleash your main cannon or deliver devastating high-explosive mortar shells (Sturm Tiger).
+
+-
+Secondary Armament (Machine Guns):
+
+- Available across all tank series. Use the Machine Gun item to unleash continuous suppressive fire.
+
+Feedback & Suggestions
+
+Since this project is still in active development, your feedback is incredibly valuable! If you encounter any bugs or have suggestions for upcoming updates, feel free to drop a comment or report them in the Issues tab.

@@ -1,0 +1,55 @@
+Drop Multiplier increases the number of items dropped from almost any source, including mobs, ores, blocks, chests you break, players dying, or even items thrown on the ground
+
+Features:
+
+- Multiplies the drop quantity of every item
+
+- Supports items from other addons
+
+- Does not require any Experimental Features
+
+- Compatible with achievements
+
+Available Versions
+
+-
+
+X2 Multiply every item drop by 2
+
+-
+
+X10 Multiply every item drop by 10
+
+-
+
+X100 Multiply every item drop by 100
+
+-
+
+No Player Drop - Multiply every item drop except Item drop from Player (Player drop item, Player death)
+
+-
+
+Mob Only Only mob drops are multiplied (Doesnt work with Knockback II enchantment)
+
+- Ore Only Only ore drops are multiplied (Only works with vanilla ores and tools without Silk Touch enchantment)
+
+- Crop Only - Only crop drops are multiplied (Only works with vanilla crop)
+
+- You can now configure the multiplier value in the behavior pack settings
+
+Notes:
+
+- Choose the multiplier pack carefully. Extremely high multipliers can cause heavy lag or even crash the game, depending on your device and addons installed.
+
+- The Mob Only, Ore Only and Crop Only packs can be used together. However, please use the No Player Drop pack and the default pack separately.
+
+- This addon is pure fun only not designed for balanced gameplay
+
+Credits / Author Info
+
+- Author: Neon Cursor
+
+- YouTube Channel: Channel
+
+- Do not re-upload or modify without permission

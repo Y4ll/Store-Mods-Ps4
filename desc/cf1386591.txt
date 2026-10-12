@@ -1,0 +1,25 @@
+This pack adds a simple zoom that works when you crouch. Thats itno extra keys, no mods, nothing fancy to set up. You just sneak like you normally do, and the camera smoothly zooms in so you can see things far away much more clearly. Stand back up, and the view goes right back to normal.
+
+After crouching
+
+Note : It Doesn't Disable Achievements
+
+Socials:
+
+Join our discord
+
+Support On Kofi:
+
+You Are Allowed To:
+
+- Showcase my work in videos/streams if you give proper credit (e.g., link to the official download).
+
+- Edit file for personal use only
+
+You Are Not Allowed To:
+
+- Distribute through monetized links (AdFly, Linkvertise, etc.).
+
+- Edit and re-share my projects
+
+If You Give Low Rating ,You Should Comment the Reason

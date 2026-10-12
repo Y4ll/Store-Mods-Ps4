@@ -1,0 +1,35 @@
+meterial Spectral Pumpkin Pack
+
+Bring your tools to life with material Spectral Pumpkin Pack!
+
+This texture pack gives your Minecraft tools a fresh and animated look while keeping their original material identity. From basic materials to stronger tools, each one is designed to match the familiar Minecraft style with an added animated visual effect.
+
+Features
+
+- Animated Tools Every tool features its own animated visual style.
+
+- Original Material Based Tools follow the materials and progression of vanilla Minecraft.
+
+- Multiple Outline Colors Choose different outline color options to match your preferred style.
+
+- Enchanting Variants Includes several visual options for enchanted tools.
+
+- Action & Stuff Support Designed to work together with the Action & Stuff animation system.
+
+- Minecraft Bedrock Edition Created specifically for Bedrock players.
+
+Compatibility
+
+Material Spectral Pumpkin Pack requires Action & Stuff to properly display its animated tool features.
+
+For the best experience, make sure Action & Stuff is enabled and placed correctly in your resource pack setup.
+
+Give your tools a spectral makeover and make every action look more alive!
+
+Recommended Setup
+
+For the intended visual experience:
+
+Material Spectral Pumpkin Pack + Action & Stuff
+
+The combination allows the animated tools and their visual effects to work as intended.

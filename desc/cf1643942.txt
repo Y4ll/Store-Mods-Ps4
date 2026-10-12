@@ -1,0 +1,93 @@
+What is SCP Anomaly Archives (AA)?
+
+SCP Anomaly Archives (AA) is a Minecraft Bedrock Edition Add-on based on the SCP Foundation universe. It is a complete remake of my previous work, SCP: Minecraft Containment Breach (MCB).
+
+If you played MCB, you know the issues: frequent errors, severe lag, and incompatibility with 1.26.2+ due to outdated code architecture. AA rebuilds everything from the ground up using SAPI (Script API) stable, smooth, error-free, and natively compatible with the latest versions.
+
+What's Inside?
+
+SCP Entities
+
+- SCP-173 The Sculpture; don't break eye contact
+
+- SCP-049 The Plague Doctor; turns victims into 049-2
+
+- SCP-049-2 Zombie servants created by 049
+
+- SCP-096 The Shy Guy; look at its face and it will hunt you down
+
+- SCP-106 The Old Man; can phase through solid matter
+
+- SCP-457 The Inferno; a sentient flame
+
+- SCP-008-1 Zombies; result of SCP-008 infection
+
+- SCP-500 Panacea; cures all diseases (item)
+
+Foundation Forces
+
+- Mobile Task Forces:
+
+- Epsilon-11 (Nine-Tailed Fox) Primary containment response; can contain SCP-173/096/457
+
+- Eta-10 (See No Evil) Handles visual/cognitive anomalies; can contain SCP-173
+
+- Nu-7 (Hammer Down) Heavy fire support; can contain SCP-173; equipped with heavy vehicles
+
+- Beta-7 (Maz Hatters) Handles biohazards and anomalous biology; can contain SCP-173
+
+- Alpha-1 (Red Right Hand) Foundation high-command elite unit; can contain SCP-173
+
+- Security Personnel Standard Foundation security forces
+
+Vehicle System AI-Controlled Vehicles
+
+Vehicles in AA are AI-driven, not player-controlled. They provide automatic fire support:
+
+- Nu-7 Exclusive AH-64 Apache Attack Helicopter: Air superiority unit; automatically engages ground hostiles
+
+- Nu-7 Exclusive M1A2 Abrams Main Battle Tank: Heavy ground unit; dominates any hostile target
+
+- Universal UH-60 Black Hawk Helicopter: Currently static decoration (functionality will be added in future updates)
+
+You don't need to pilot them. When you see the Apache fly in or the Abrams roll up reinforcements have arrived. Just sit back and watch.
+
+Hostile Human Faction
+
+- Chaos Insurgency A radical splinter group that broke away from the Foundation. They appear in facilities as hostiles, attacking players, Foundation personnel, and even attempting to capture SCP entities themselves making an already chaotic situation even more unpredictable.
+
+Items & Mechanics
+
+- Lavender Special effect on SCP-049; key to containing it
+
+- Handcuffs Used to contain SCP-049
+
+- Bag Used to contain SCP-096
+
+- Scramble Device Prevents viewing SCP-096's face, avoiding triggering its rage
+
+How to Play? Core Gameplay
+
+You'll be surviving and exploring within an SCP Foundation containment facility, facing various anomalous entities. The goal survive and find ways to deal with them.
+
+1 Containment Strategies
+
+- SCP-173: Keep looking at it! As long as you maintain eye contact, it won't move. Look away? It'll be right in front of you in an instant.
+
+- SCP-096: Never look at its face! If you do, it will lock onto you and hunt you down. Wear a Scramble Device to observe it safely. To contain it use the Bag.
+
+- SCP-049: It will try to infect you and turn you into 049-2. Use Lavender on 049 first then all nearby MTF will automatically handcuff and contain it. Remember: without Lavender, MTF will NOT contain 049.
+
+- SCP-106: It phases through walls to hunt you. Normal barriers won't stop it.
+
+- SCP-457: A living flame; don't get burned. Epsilon-11 will automatically pull out a fire extinguisher to contain it when encountered.
+
+- SCP-008-1: Zombies; infection will cause mutation.
+
+2 Mobile Task Force Roles
+
+- Epsilon-11 (Nine-Tailed Fox): The most capable containment unit. Can contain SCP-173, SCP-096, and SCP-457. Uses fire extinguisher automatically against 457.
+
+- Eta-10 (See No Evil): Primarily handles SCP-173 containment
+
+- Nu-7 (Hammer Down): Primarily handles SCP-173 containment with heavy firepower. Equipped with Apache helicopters and M1A2 tanks for outdoor/large-are

@@ -1,0 +1,37 @@
+Refined Deferred wraps Minecraft Bedrock in a dreamy pink haze, skies drifting from blue through violet to rose, warm fog tuned for all 89 biomes, and soft god rays falling through cherry blossom.
+
+- Per-Biome Volumetric Fog 16 Profiles Across 89 Biomes
+
+- Soft Volumetric God Rays
+
+- Blue, Violet & Rose Skies, Dawn to Midnight
+
+- Falling Cherry Blossom Petals
+
+- Water Caustics & Gentle Waves
+
+- Custom Cloud & End Sky Textures
+
+- Dreamy Nether & End Atmospherics
+
+- 101 Coloured Light Sources
+
+- Soft Shadows
+
+- Full PBR Textures (Default & 32x, with custom Sun & Moon at 32x)
+
+- Compatible with other Packs
+
+Made for Vibrant Visuals works on iOS, Android, Xbox, PlayStation and Windows.
+
+For the best experience, set your brightness as shown below.
+
+Installation:
+
+- Download the Refined Deferred.mcpack
+
+- Open it to import
+
+- Enable Refined Deferred in your resource packs
+
+- Turn on Vibrant Visuals

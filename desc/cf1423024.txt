@@ -1,0 +1,23 @@
+Dynamic Lights | items & entities
+
+This add-on introduces a dynamic lighting system that allows players to illuminate their surroundings in real time without permanently placing light sources.
+Any item that emits light will provide dynamic illumination when held in the main hand or offhand, following the player smoothly as they move through caves, tunnels, and dark areas.
+
+The add-on also adds special torches and lanterns that can be equipped in the offhand. To place them in the offhand, simply interact with the item as if you were placing a block while looking at an air block, or open the inventory and move it manually to the offhand slot.
+
+Torches and lanterns can be crafted by placing their normal or waxed variants in a crafting table or in the inventory crafting grid to obtain a version that can be equipped in the offhand.
+To obtain the regular (vanilla) item again, you only need to craft the custom torch or lantern, which will return the normal version.
+
+In Creative mode, the add-on includes a dedicated item group that displays all available items that can be equipped in the offhand, making them easy to find and test.
+
+In addition, certain light-emitting entities such as Blaze, Magma Cubes, and Glow Squids also produce dynamic light while moving in the world, enhancing immersion and atmosphere.
+
+Items with Dynamic Lighting
+
+Glowstone, Beacon, Sea Lantern, Shroomlight, Jack oLantern, Ochre Froglight, Pearlescent Froglight, Verdant Froglight, End Crystal, Conduit, Lava Bucket, Campfire, Torch, Copper Torch, Lantern, Copper Lantern, Exposed Copper Lantern, Weathered Copper Lantern, Oxidized Copper Lantern, Waxed Copper Lantern, Waxed Exposed Copper Lantern, Waxed Weathered Copper Lantern, Waxed Oxidized Copper Lantern, End Rod, Nether Star, Blaze Rod, Soul Torch, Soul Lantern, Soul Campfire, Fire Charge, Blaze Powder, Ender Eye, Candle, Black Candle, Blue Candle, Brown Candle, Cyan Candle, Gray Candle, Green Candle, Light Blue Candle, Light Gray Candle, Lime Candle, Magenta Candle, Orange Candle, Pink Candle, Purple Candle, Red Candle, White Candle, Yellow Candle, Sea Pickle, Glowstone Dust, Glow Berries, Redstone Torch, Magma Block, Enchanting Table, Crying Obsidian, Magma Cream, Dragons Breath, Glow Ink Sac, Glow Item Frame, Experience Bottle, Enchanted Book, Glow Lichen.
+
+Entities with Dynamic Lighting
+
+Blaze, glow squid, magma cube
+
+This add-on does not require experimental features

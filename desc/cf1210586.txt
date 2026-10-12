@@ -1,0 +1,20 @@
+Sometimes animals are hard to lure using wheat, seeds or carrots they sometimes just ignore the lure or they are too slow. When you leash them sometimes they escape because your too fast. This add-on makes it easier to bring animals anywhere and I hope you enjoy!
+
+This simple Add-on lets you carry animals anywhere and you don't need any lure or leash to bring them to a certain spot. You just need to come near them and you will carry them.
+
+This item is required for carrying animals.
+
+Carry Gloves
+
+<figure class="image"></figure>
+
+Use this item near a mob/any mob in order to carry it. Switching to another item will drop the mob.
+
+To drop the mob simply SNEAK or SWITCH ITEMS.
+To throw the mob simply STAND and use the item again.
+
+When throwing the mob, they will have resistance for 10 seconds to prevent fall damage.
+
+You can't carry these entities:
+
+Enjoy the Addon.

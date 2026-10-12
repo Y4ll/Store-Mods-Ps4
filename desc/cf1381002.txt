@@ -1,0 +1,3 @@
+The addon adds a new monster Pinocchio to the Minecraft game. For a better immersion in the atmosphere of the addon, you need to enable experimental mode in the Minecraft world settings.
+
+Pinocchio is a new mob added in this expansion. He is hostile towards the player and some other mobs. The mob also has a nice animation, and when he chases the player, his mouth opens. The mob has 200 health, so it will be quite difficult to kill. In addition to the new character, the expansion adds a new hat that drops after Pinocchio dies

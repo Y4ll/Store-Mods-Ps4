@@ -1,0 +1,41 @@
+Durability Display shows durability information everywhere you need it, on your HUD, in your inventory, in item tooltips, and for all your armor pieces.
+
+Features
+
+- HUD Display See your selected hotbar item's durability with an item icon in the corner of your screen
+
+- Armor & Offhand All 4 armor slots + shield durability shown in the corner of your inventory
+
+- Hover Text Durability added to item tooltips when you hover over a slot
+
+- Low Durability Warning Blinking [!] alert on the HUD when your item drops below 25%
+
+- Color Coded Armor and offhand numbers shift from red to green based on remaining durability (20-level gradient)
+
+- Animated Counting Smooth number transitions when durability changes
+
+- Container Support Works inside chests, ender chests, and large chests
+
+- Mobile Friendly Full pocket/touch UI support
+
+No behavior pack required. Works as a pure resource pack on all platforms.
+
+Subpack Options
+
+Choose your preferred display style in the subpack settings. Each option sets both the number format and which side of the screen the HUD and armor readout sit on:
+
+- Numbers (Right) - Colored numbers like 150/250, anchored bottom-right (default)
+
+- Numbers (Left) - Colored numbers like 150/250, anchored bottom-left
+
+- Percentage (Right) - Colored percentage like 60%, anchored bottom-right
+
+- Percentage (Left) - Colored percentage like 60%, anchored bottom-left
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.21.0+
+
+- Windows, Mobile, Console
+
+- No experimental features required

@@ -1,0 +1,35 @@
+Replaces black Vanilla Outline with clean, White, 3D and Transparent block selection Outline.
+
+Works with Actions & Stuff.
+
+Features:
+
+- White Outline
+
+- 3D Outline
+
+- Transparent Outline (Invisible)
+
+- Actions & Stuff support
+
+If you're reviewing this pack, please use CurseForge or MCPEDL link!
+
+Outline Variants
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 80% revenue share if it was monetized.
+
+Contact
+
+Discord: pandamine5x

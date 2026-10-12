@@ -1,0 +1,23 @@
+For those of you who want to share this, please use this page link: https://www.curseforge.com/minecraft-bedrock/texture-packs/durability-tools-viewer/download It leads directly to the latest file, so there's no need to use Mediafire, onegaii~
+
+Join our community below!
+
+DIscord Server | Telegram Group | Whatsapp Group(+62 only)
+
+Showcase(old videos)
+
+Feature:
+
+In HUD the durability text is in the bottom right, and the item tooltip is in the item description, in the HUD if the item has a durability below 20% then the warning text [!] will appear
+
+Info:
+
+Subpacks:
+
+- number
+
+- percentage
+
+Settings needed: -
+
+Known Issue: -

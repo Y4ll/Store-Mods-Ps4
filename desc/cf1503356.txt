@@ -1,0 +1,91 @@
+AFK Cinematics MCBE The Cinematic Addon for Minecraft Bedrock
+
+In the world of Minecraft content creation, cinematic shots play a huge role in making videos look professional and engaging. Thats where AFK Cinematics MCBE comes in, a powerful addon designed to bring automatic cinematic camera movements to Minecraft Bedrock Edition, just like its Java counterpart.
+
+Created by Spunkyinsaan, this addon is inspired by the popular AFK Cinematics Mod (Java Edition), ensuring that Bedrock players dont miss out on the cinematic experience.
+
+What is AFK Cinematics MCBE?
+
+AFK Cinematics MCBE is a Bedrock addon that automatically activates cinematic camera shots when a player goes AFK (Away From Keyboard). Instead of your character standing still, the camera smoothly moves around, creating a movie-like visual experience.
+
+This concept is directly inspired by the Java mod, where cinematic sequences begin after inactivity, transforming idle moments into visually stunning scenes. (CurseForge)
+
+Key Features
+
+Automatic Cinematic Mode
+
+Once the player stays inactive for a few seconds, the addon triggers cinematic camera angles automatically, giving your gameplay a professional touch.
+
+Smooth Camera Movements
+
+The addon includes dynamic camera actions like:
+
+Panning
+Zooming
+Orbiting around the player
+
+Lightweight & Optimized
+
+Just like the Java version, the MCBE addon is designed to be lightweight, ensuring smooth performance even on low-end devices.
+
+Perfect for Content Creators
+
+If youre a YouTuber or short-form content creator, this addon helps you:
+
+Record better intros
+Capture cinematic B-roll
+Improve storytelling visuals
+
+How It Works
+
+The system is simple and smart:
+
+-
+
+Player becomes inactive (AFK)
+
+-
+
+Timer starts (default ~10seconds in Bedrock version)
+
+-
+
+Cinematic camera automatically activates
+
+-
+
+Camera starts moving around the player dynamically
+
+Java vs Bedrock Same Vision
+
+Feature
+Java Mod
+MCBE Addon
+
+Auto Cinematics
+
+Commands
+
+No Commands / Addon-based
+
+Performance
+Lightweight
+Optimized
+
+Target Platform
+Java Edition
+Bedrock Edition
+
+Both versions share the same goal:
+Turning idle gameplay into cinematic masterpieces
+
+Why AFK Cinematics is Unique
+
+Most camera mods require manual control or replay systems. But AFK Cinematics stands out because:
+
+Its fully automatic
+Works in real-time
+Requires zero editing skills
+Enhances immersion instantly
+
+This makes it one of the most creator-friendly addon in the Minecraft modding space.

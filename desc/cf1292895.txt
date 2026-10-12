@@ -1,0 +1,79 @@
+Adds Lighter, Java, Action & Stuff water variations.
+
+Making water look much clearer and removing water fog like Night Vision!
+
+Features:
+
+- No Water fog.
+
+- Java-Edition water.
+
+- Night Vision-like visibility.
+
+- Works with Vibrant Visuals and RTX.
+
+Subpacks:
+
+- Lighter water
+
+- Java water
+
+- Java Improved water
+
+- Java Clear water
+
+- Action & Stuff water
+
+Requires:
+
+- PandaMine's Mip Mapper
+
+Try:
+
+- Fog Remover
+
+- Vibrant Visuals Optimizer
+
+Place above other packs to avoid bugs.
+
+Vibrant Visuals
+
+Change this setting to remove water fog.
+
+Lighter Water
+
+Java Water
+
+Java Improved Water
+
+Java Clear Water
+
+Action & Stuff water
+
+Works with Actions & Stuff!
+
+Disclaimer: this pack doesn't use A&S assets, but visually replicates A&S water.
+
+For any copyright or inqueries contact on discord below.
+
+Allowed
+
+- Showcase the pack in any video as long there's this Curseforge or MCPEDL link.
+
+Not Allowed
+
+- Steal any code or assets (like icons, textures..) for any addon or texture pack and claim as own.
+
+- Monetize for own benefit.
+
+- Upload and share on any 3rd-party website.
+
+- Violating this will get you DMCA takedowns, and upto 80% revenue share if it was monetized.
+
+Violators will face DMCA takedowns, legal claims.
+
+About
+
+Discord: pandamine5x
+
+Follow me for more packs!

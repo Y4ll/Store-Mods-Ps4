@@ -1,0 +1,25 @@
+Days Counter By Ancxliy
+
+Days Counter By Ancxliy is a lightweight HUD pack that enhances your Minecraft experience by displaying essential world information in a clean, vanilla-friendly interface.
+
+Features
+
+Day Counter Displays the current Minecraft world day.
+
+Coordinates Shows your live X, Y, and Z position.
+
+World Playtime Tracks how long you've played in the current world.
+
+Moon Phase Displays the current Minecraft moon phase in real time.
+
+Why Use This Pack?
+
+Clean and minimal design.
+
+Fits naturally with the vanilla HUD.
+
+Lightweight and performance-friendly.
+
+Perfect for survival, exploration, and everyday gameplay.
+
+Stay informed while keeping your screen clean and immersive!

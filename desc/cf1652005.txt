@@ -1,0 +1,51 @@
+Minecraft only runs the world around you. Walk away from your furnaces and they stop smelting. Leave your farm and the crops stop growing. Come back an hour later and nothing has happened.
+
+Voxen Chunk Loaders fixes that. Place a Chunk Loader block and the chunks around it keep ticking whether you are standing there or not. Furnaces smelt, crops grow, mobs spawn, hoppers move items, redstone keeps running from ten thousand blocks away or down in the Nether.
+
+How to Use
+
+- Place a Chunk Loader block where you want the world to keep running
+
+- It starts immediately and tells you how much area it covers
+
+- Use the block to change settings anytime
+
+It keeps working after you close and rejoin the game. The loader rebuilds itself every time the world loads it survives restarts, world copies and moving to another device.
+
+Block Menu
+
+- Turn On / Turn Off disable without breaking the block
+
+- Set Name label it "Iron Farm" or anything you like the name floats above the block
+
+- Set Radius 1 to 4 chunks, so 3x3 up to 9x9 chunks
+
+Chunk Loader Wand
+
+Hold the Chunk Loader Wand and a green particle wall appears around every loader nearby, showing exactly how far each one reaches. Red border means that loader is switched off.
+
+Find Any Loader
+
+Use the wand or run /voxen:allloaders to get a list of every loader in the world its name, whether it is on, and where it is. Tap one to teleport straight to it. There is also a Check All Loaders button that tests every loader for real, restarts any that have gone to sleep, and reports what happened.
+
+Commands
+
+- /voxen:allloaders every loader in the world with teleport
+
+- /voxen:loaders same list
+
+- /voxen:loader_block gives you a Chunk Loader block
+
+- /voxen:loader_wand gives you a Chunk Loader Wand
+
+None of these require cheats to be turned on.
+
+Honest Limits
+
+- 10 loaders per dimension Minecraft only allows ten ticking areas per dimension. The pack checks before it tries and tells you plainly if you are out of slots
+
+- Radius up to 4 chunks the game's own limit
+
+- Time does not pass while the game is shut no addon can change that
+
+- Nothing fails silently if a loader cannot start you get a message. It also self-repairs every ten seconds

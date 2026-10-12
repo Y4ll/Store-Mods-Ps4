@@ -1,0 +1,55 @@
+Walid's 3D Items for MCPE
+
+This resource pack is a tribute to the creator Walid. I made this pack myself as a Minecraft Bedrock adaptation inspired by his original Java work. My goal is to bring realistic and immersive 3D items to Bedrock Edition and hopefully reach the same level of quality and realism as Walid's creations.
+
+This project recreates the 3D item experience for MCPE/Bedrock while adapting models and features to work properly on Minecraft Bedrock Edition.
+
+## Rules / Terms of Use
+
+### Allowed:
+
+* Use this pack in personal worlds.
+
+* Use this pack in videos, livestreams, showcases and content creation.
+
+* Share the official download link.
+
+### Not Allowed:
+
+* Reupload this pack to other websites without permission.
+
+* Claim this Bedrock recreation/port as your own work.
+
+* Edit, modify or redistribute this pack without authorization.
+
+* Sell this pack or any of its files.
+
+* Extract models, textures or assets for other projects without permission.
+
+Unauthorized redistribution, theft, modification, impersonation or misuse of this project may result in DMCA takedown requests, copyright reports, removal requests and further actions when applicable.
+
+## Credits
+
+Original Java Pack Inspiration: **Walid**
+
+Bedrock Recreation / Port: **KaizerRPG**
+
+### Additional Credits
+
+**Java Aspects Bedrock Edition** by **AgentMindStorm** Source of some Java-style visual features used in this texture pack.
+
+**VDX-DesktopUI** by **CrisXolt** Source of some GUI and interface elements used in this texture pack.
+
+Full credit for these assets belongs to their respective creators.
+
+Please support the original creators and their projects.
+
+## Attention!
+
+Please follow my profile to stay up to date with future updates, bug fixes, and improvements to this texture pack.
+
+New versions will be released here whenever there are new updates. If you enjoy this project, please consider following me it helps me grow as a creator and motivates me to continue making more content for the Minecraft Bedrock community.
+
+Thank you for downloading and supporting this project. Every follow means a lot!
+
+Created by **KaizerRPG**

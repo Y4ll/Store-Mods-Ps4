@@ -1,0 +1,143 @@
+Tired of the same old survival routine? Ready to face unpredictable challenges that make every moment in your world a thrilling new experience?
+
+Welcome to Random Events v3.6, the ultimate chaos addon that transforms your Minecraft gameplay. This pack introduces completely random eventsfrom helpful loot drops to terrifying Wither stormsthat trigger on a timer you control. With 35 unique events, you will never know what's coming next!
+
+This is the perfect mod for any single-player world, multiplayer server, or realm looking to add a fresh layer of excitement and unpredictability.
+
+What's New in v3.6?
+
+No More Repeating Events! All 35 events now play in random order without repeating. Once all events have played, the queue reshuffles automatically.
+
+Queue Display! Action bar now shows remaining events in queue.
+
+Thunder Volley! Arrows rain from above with deadly lightning strikes.
+
+Sky Drop! Get teleported 100 blocks high with a water bucket - MLG or die!
+
+Storm Warp! Time changes with thunderstorms at night.
+
+Frostbite! Freezing cold effects with snow particles.
+
+Bug Fixes! Fixed Hot Hands and Storm Warp not working correctly.
+
+Key Features
+
+35 Unique Events: Rewards, chaos, danger, and extreme challenges.
+
+No Repeats: Every event plays once before reshuffling.
+
+Configurable Timer: Use a stick to set intervals (30 seconds to 1 hour).
+
+Queue Display: See remaining events on your action bar.
+
+Multiplayer Ready: Events affect all players online.
+
+Simple Setup: Just apply the behavior pack and play!
+
+The Events (Full List of 35!)
+
+Reward Events (4)
+
+- Sky Loot: Receive valuable items for free.
+
+- The Feast: High-quality food rains down.
+
+- Hero's Call: Rare loot given directly to you.
+
+- XP Storm: XP orbs rain from the sky.
+
+Fun Events (5)
+
+- Chickenpocalypse: Chickens fall from the sky!
+
+- Storm Warp: Time shifts with weather changes.
+
+- Inventory Scramble: Your hotbar gets shuffled.
+
+- Pumpkin Head: Everyone wears a pumpkin.
+
+- Random Teleport: Players swap locations.
+
+Danger Events (21)
+
+- Thunder Volley: Arrows and lightning rain down.
+
+- Sky Drop: 100 blocks high with a water bucket.
+
+- Frostbite: Freezing effects with snow particles.
+
+- Thunderstrike Wave: Lightning bolts strike nearby.
+
+- Explosive Jump: Jumps trigger TNT explosions.
+
+- Enderman Party: 5 Endermen surround you.
+
+- Water Flood: Water appears around players.
+
+- Hot Hands: Fire spreads wherever you walk.
+
+- Blind Escape: Blindness and random teleport.
+
+- Lava Burst: Lava ring surrounds you.
+
+- Anvil Shower: Anvils fall from above.
+
+- Mini Boss Raid: Named skeletons hunt you.
+
+- The Floor is Lava: Ground turns to lava.
+
+- Phantom Menace: Phantoms attack from above.
+
+- Goblin Raid: Fast baby zombies chase you.
+
+- The Warden's Call: Darkness and Warden sounds.
+
+- Creeper Paranoia: Creepers surround you.
+
+- Mining Fatigue: Breaking blocks slows down.
+
+- Reverse Gravity: Float up then fall slowly.
+
+- Gravity Shift: Levitation effect applied.
+
+- Slippery Feet: Ground turns to ice.
+
+Extreme Danger Events (5)
+
+- Wither Storm: 2 Withers spawn around you.
+
+- Void Collapse: Ground collapses beneath you.
+
+- TNT Rain: Lit TNT rains from the sky.
+
+- Mob Apocalypse: 3 waves of buffed mobs.
+
+- Death Zone: Escape or die from damage effects.
+
+How to Install & Use
+
+Installation:
+
+- Apply the Random Events Behavior Pack to your world.
+
+- IMPORTANT: In World Settings Experiments, enable Beta APIs
+
+- Recommended: Enable cheats in world settings.
+
+How to Play:
+
+- Timer counts down on your action bar.
+
+- 3-second warning before each event.
+
+- Use a stick to open settings menu.
+
+Version History
+
+v3.6.0 - No repeat system, Thunder Volley, Sky Drop, Storm Warp, Frostbite, bug fixes
+
+v3.5.0 - Added 5 extreme danger events, rebalanced events
+
+v3.0.0 - Added 10 new events, in-game settings menu
+
+Can you survive all 35 events?

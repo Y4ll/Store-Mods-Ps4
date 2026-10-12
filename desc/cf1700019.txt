@@ -1,0 +1,28 @@
+Jeans Shaders is a carefully crafted Vibrant Visuals resource pack designed to transform your Minecraft Bedrock world into a cinematic masterpiece. Created by Baku_Studio, this pack focuses on delivering the perfect golden hour atmosphere that players have always dreamed of.
+As the sun begins to set, the sky shifts into deep oranges, soft reds, and warm golds. Volumetric amber fog gently rolls across the landscape, while soft god rays pierce through the trees and across the water. Every biome feels alive with richer foliage colors, deeper shadows, and more natural lighting transitions from dawn to midnight.
+Water has been carefully tuned for beautiful reflections and realistic surface colors that change depending on the biome. Birch forests glow under the warm evening light, swamps feel humid and atmospheric, and snowy biomes take on a peaceful blue-hour calm. At night, the pack adds subtle atmospheric particles including shooting stars, soft wind effects, and occasional aurora-like glows for an immersive experience.
+Jeans Shaders is built fully for the modern Bedrock rendering system with PBR support and includes both Default and High resolution subpacks so you can choose the performance level that suits your device. Whether you are exploring, building, or recording cinematic videos, this pack gives your world a premium, polished look without being overly heavy.
+The pack has been optimized for Minecraft Bedrock 1.26 and above. Simply import the .mcpack file, activate it in your global resources or world settings, and enjoy the new visuals instantly.
+Perfect for players who love beautiful sunsets, atmospheric weather, and high-quality lighting. Experience Minecraft the way it was meant to look warm, cinematic, and full of life.
+Jeans Shaders Feel the golden hour.
+
+Created with care by Baku_Studio.
+
+Credits
+Author: Baku_Studio
+
+Pack Name: Jeans Shaders
+
+Version: 1.0.0
+
+Min Engine Version: 1.26.10
+
+Type: Vibrant Visuals / PBR Resource Pack
+Special Thanks:
+
+Inspired by the golden hour aesthetic and atmospheric lighting style popularized in modern Bedrock visual packs.
+Built using advanced client biome configurations, custom atmospherics, particle systems, and color mapping techniques.
+
+Disclaimer:
+
+This pack is an original creation by Baku_Studio. All visual tuning, naming, and presentation are exclusive to Jeans Shaders.

@@ -1,0 +1,9 @@
+Do you often get lost in your world? Not anymore! With Waypoints, you can save all your important locations using different colors, names, and icons! And even better, you can teleport to them with one click!
+
+- Set infinite waypoints! Also in multiplayer!
+
+- Teleport instantly!
+
+- Custom menu!
+
+All images that shown here is the development version of the addon except for the thumbnail

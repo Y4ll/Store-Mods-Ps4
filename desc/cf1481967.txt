@@ -1,0 +1,17 @@
+New small addon this time is sirenhead. I tried to repeat the appearance of the siren, its capabilities and sounds.
+
+Changes in the fourth version of the addon:
+
+1) Improved particles
+
+2) Added new sounds
+
+3) Improved intelligence
+
+4) Improved basic mechanics
+
+5) Fixed bugs
+
+SIRENHEAD: Has 10000 health and ~20 attack units. Will spawn with a very small chance in the world of Minecraft. Has as many as 6 types of attack and can knock the player back during them, also climbs walls and breaks leaves. That's all this small addon adds.
+
+I hope you like this small addition. Also on my YouTube channel you can find more interesting addons

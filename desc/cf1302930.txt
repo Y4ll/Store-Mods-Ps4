@@ -1,0 +1,200 @@
+MoreOres v4.0
+
+This addon expands Minecraft progression with new ores, equipment tiers, unique abilities, and upgrade systems.
+
+Compatible with Minecraft 1.21.100+
+API Version: 2.1.0
+
+INTRODUCTION
+
+MoreOres adds seven brand-new materials to Minecraft Bedrock Cobalt, Jade, Ruby, Sapphire, Titanium, Topaz, and the secret end-game material, Celestium each with its own ore, storage block, full 10-piece tool & weapon kit, armor set, world generation, and a passive effect that makes it feel genuinely different to use, not just a reskinned stat stick.
+
+On top of the new materials, MoreOres adds over 100 new items in total, including a fully custom Equipment Upgrade Table, a magnetism-based Magnet tool, quality-of-life smelting recipes for vanilla raw blocks, extra Emerald generation, and an entirely optional integration with Meritum Engine for players who also use it.
+
+Overview
+
+- 7 ores, each with unique world generation
+
+- 7 equipment tiers (70 items) with distinct stats and passive effects
+
+- A new weapon type on every tier: the Spear
+
+- Custom Equipment Upgrade Table with an extensible upgrade system
+
+- The Magnet, a toggleable loot/XP magnetism tool
+
+- Celestium: an End-exclusive, post-Netherite tier with a full-set bonus
+
+- Small vanilla quality-of-life reinforcements (see Vanilla Enhancements below)
+
+- Optional Meritum Engine integration (23 achievements)
+
+- 10 languages fully translated
+
+Progression: Stone tools Jade / Topaz Cobalt Sapphire / Ruby Titanium Celestium
+
+ORES
+
+Ore
+Dimension
+Variants
+Height (Y)
+Vein Size
+Attempts/Chunk
+Minimum Pickaxe
+
+Jade
+Overworld
+Stone / Deepslate
+64 to 40
+6
+10
+Stone
+
+Topaz
+Overworld
+Stone / Deepslate
+64 to 32
+4*
+9
+Stone
+
+Cobalt
+Overworld
+Stone / Deepslate
+64 to 16
+8
+10
+Iron
+
+Sapphire
+Overworld
+Stone / Deepslate
+64 to 16
+4*
+6
+Iron
+
+Ruby
+Overworld / Nether
+Stone / Deepslate / Netherrack
+64 to 16 / 15 to 64
+4* / 4
+6 / 12
+Iron
+
+Titanium
+Overworld
+Stone / Deepslate
+64 to 8
+4*
+6
+Diamond
+
+Stardust (End)
+The End
+End Stone
+0 to 32
+3
+12
+Diamond
+
+Experience-Infused Stone
+Overworld
+Stone / Deepslate
+20 to 32
+4*
+8
+Iron
+
+* 50% chance of being discarded if exposed to air on generation (does not apply to Jade or Cobalt).
+
+Ore Loot System
+
+- Without Silk Touch: drops the gem / raw material directly.
+
+- With Silk Touch: drops the ore block itself instead (vanilla Silk Touch always drops the block, bypassing the addon's custom loot this is intentional, avoiding duplicating both the block and the gem). Every ore block, including Deepslate and Nether variants, can be smelted afterward to obtain the normal gem/ingot.
+
+- Fortune: applies a random quantity bonus, following vanilla-style logic.
+
+- XP: granted on break where configured, as physical XP orbs.
+
+MoreOres also boosts vanilla Emerald generation in the Overworld (Y 70256) as a bonus, independent of the addon's own content.
+
+EQUIPMENT
+
+Jade
+
+Sword Damage
+6
+Mining Speed
+6
+
+Durability
+520
+Total Armor
+17
+
+Enchantability
+15
+Minimum Pickaxe
+Stone
+
+Effects: Armor grants Saturation III for a brief moment roughly every 10 minutes per piece (very rare, long-cooldown passive), with a small particle burst. Tools grant a short Regeneration pulse when breaking blocks.
+
+Topaz
+
+Sword Damage
+7
+Mining Speed
+6
+
+Durability
+810
+Total Armor
+18
+
+Enchantability
+15
+Minimum Pickaxe
+Stone
+
+Effects: Armor grants Fire Resistance periodically (scaling up to ~1s per pulse with the full set, roughly every 2s). Tools grant a short Haste burst when breaking blocks.
+
+Cobalt
+
+Sword Damage
+6
+Mining Speed
+7
+
+Durability
+750
+Total Armor
+18
+
+Enchantability
+15
+Minimum Pickaxe
+Iron
+
+Effects: Armor pulls nearby items and XP orbs toward you constantly, with strength scaling per piece worn. Tools pull loot toward the block you just broke.
+
+Sapphire
+
+Sword Damage
+7
+Mining Speed
+7
+
+Durability
+1250
+Total Armor
+20
+
+Enchantability
+20
+Minimum Pickaxe
+Diamond
+
+Effects: Armor grants Resistance periodically (up to ~1s per pulse with the full set, roughly every 2s). Sapphire's whole kit uses enchantability 20 a d

@@ -1,0 +1,45 @@
+The World Has Gone Quiet...
+
+The civilization you once knew is a memory. In its place is a relentless, decaying reality where the line between survival and extinction is drawn in the dirt. Immersive Zombies Reworked isn't just a visual changeits an atmospheric transformation designed to make every night feel like your last.
+
+Fear the Horde
+
+The undead are no longer just mindless sprites. With high-fidelity retextures and custom entity models, the zombies are now visceral, varied, and terrifying. From the way they move in the shadows to the tattered remains of their former lives, the horror is now front and center.
+
+Gear Up or Fade Out
+
+Survival requires more than just a wooden sword. This pack overhauls your arsenal with:
+
+-
+
+Tactical Survival Gear: Battle-worn armor sets that look like they've seen the end of the world.
+
+-
+
+Modernized Weaponry: Gritty, realistic weapon skins designed for close-quarters combat.
+
+-
+
+Immersive Aesthetics: Darker tones and realistic wear-and-tear on all survival equipment.
+
+Atmospheric Overhaul
+
+Every texture has been hand-picked to ensure that the "Apocalypse" feels earned. Whether you are barricading a village or scavenging through the woods, the world will feel colder, darker, and significantly more dangerous.
+
+"In the silence of the new world, the only thing louder than your heartbeat is the sound of them coming for you."
+
+Credits & Permissions
+
+This project is a dedicated Bedrock Rework of the original Tissou's Zombie Pack.
+
+-
+
+Original Assets: All primary models and textures are credited to Tissou.
+
+-
+
+Reworked By: user_wnearab1k3zqdm3o
+
+-
+
+Status: Ported and optimized with permission for the Bedrock community.

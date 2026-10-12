@@ -1,0 +1,37 @@
+A Bedrock Addon : Adds uniforms, weapons, and Soldiers from the Napoleonic Wars to Minecraft
+
+Info :
+
+Pls Read!!!
+
+This Addon currently has 8 countries to choose from, that being France, Britain, Prussia, Spain, Italy, Russia, Denmark and Sweden, and each having their own flags
+
+Each country has 7 types of uniforms, such as the standard uniform, Infantry Uniform, Medic Uniform, Sapper Uniform, Officer Uniform, Hussar Uniform and Cuirassier Uniforms
+
+It also adds 5 types of new weapons such as the Bayonet, Pistol, Spear, sabre, and cannons which is used by right clicking a cannon ball whilst riding a cannon
+
+Currently only 4 types of soldiers are added, the Gunner, Soldier, and Cuirassie. Spawned by interacting a weapon to any flag, (Bayonet-Gunner, Sabre-Soldier, Spear-Cavalry, Cannon-Artilleryman) more will be added soon so just wait
+
+To join a country craft yourself the new accept oath items. Hold them in your off hand to become a soldier/citezen of the state, but be careful though as joining a country will make you an enemy of the enemy of the country you joined
+
+You can leave by tearing it up to craft a refuse oath item also used by holding it in the offhand, this will make you leave the country you joined but beware as you will now be a enemy of that country you left
+
+Also note that joining a nation doesn't grant you the ability to comand them, this is because I don't know how to code that, they will not treat you as some commander or high ranking soldier. No, you become a soldier for their nation
+
+You can however tame them using emeralds, in which they will now become your soldiers, meaning they will now fight for you and follow you once you are far enough
+
+Although Soldiers lack the ability to do formations, you are able to lead them using their nation's flag
+
+This addon is also survival friendly, everything is craftable and to obtain steel you must smelt iron in a furnace
+
+That's basicaly most of the important stuff, have fun and thank you.
+
+Note: England, Russia, Prussia, and Sweden are against France, Italy, and Spain. Denmark however is on the French side but only against England and Sweden as they are not actively hostile with most nations and try to stary neutral durring the entire conflict
+
+Huge thanks to these people who offered help:
+
+Puchinin- Coded Cannons
+
+Anicecupofshoes- Coded Gun smoke and shooting sounds
+
+hgz1224- Coded Zombie loot tables and spawn mechanism for soldiers

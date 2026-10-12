@@ -1,0 +1,49 @@
+ACHIEVEMENTS FRIENDLY
+
+Sanity: Descent Into Madness
+
+A Minecraft mod that brings the sanity mechanic from Don't Starve into Minecraft.
+
+This is a bedrock port of "Sanity: Descent Into Madness" - Made by @PnTMC
+
+Original "Sanity: Descent Into Madness" Java Mod - Made & Developed by @croissantnova
+
+*Thanks to @croissantnova for cooking such a great mod XD
+
+Description
+
+This mod adds a new vital for you to manage - sanity, your mental health scale. Failing to keep your sanity at high levels may have drastic consequences on your survival, including fatal outcome.
+
+As your sanity drops, you start hearing and seeing things, your vision becomes muddy and blurry, as well as your mind cloudy, until eventually you start getting attacked by the creations of your own mind, inner entities.
+
+Certain mobs will also react accordingly to your unstable mental condition...
+
+There are multiple ways to restore your sanity, as well as multiple ways to lose it. Visit the wiki to see them all. (Wiki by @croissantnova)
+
+The first thing you might want to do, however, is to craft a garland from any small flowers you encounter on your journey. This nice little accessory should help you stay sane for a bit longer. Be wary, though, that water makes it wither away much faster!
+
+Details
+
+The mod is highly configurable, you can use command /sdimconfig see configuration panel
+
+You can edit them to your liking
+
+Credits
+
+croissantnova - programmer and artist,
+
+toujourspareil - artist (consent).
+
+Sound effects provided by Zapsplat
+
+Bedrock Addon made by PnTMC
+
+Notes
+
+- Although this is an addon with an MIT license, just like the original Java mod but do NOT reupload, redistribute, or publicly modify this addon without explicit permission.
+
+- Private modifications for personal use are allowed.
+
+- If you encounter any issues or missing features, please leave a comment on this project page
+
+Watch This Video for MORE INFORMATION:

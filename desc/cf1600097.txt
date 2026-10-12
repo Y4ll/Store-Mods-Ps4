@@ -1,0 +1,15 @@
+Lucky Block + Unlucky Block is a unique add-on featuring two types of blocks: Lucky Blocks and Unlucky Blocks. Lucky Blocks reward you with valuable items, while Unlucky Blocks give you useless items and turn your world into a haunted nightmare.
+
+You don't need to craft these blocks, they cannot be crafted. Instead, you'll receive 3 Lucky Blocks or 3 Unlucky Blocks every hour.
+
+Additional info about the Unlucky Block: it will spawn ghost creatures that will haunt you.
+
+The block textures are exactly the same as shown in the images.
+
+( Disclaimer: some images is be made by AI )
+
+Make sure to download both BP and RP files or the weapons will be invisible.
+
+use MCPEDL to download BP and RP
+
+JOIN DISCORD

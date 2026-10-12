@@ -1,0 +1,25 @@
+Crosshair Indicator!
+
+Ever missed a hit because you weren't sure if your crosshair was actually on the mob? This resource pack fixes exactly that.
+
+Crosshair Indicator is a simple but super useful UI tweak for Minecraft Bedrock. It keeps the classic 9x9 vanilla crosshair size that we all know, but adds a dynamic hit indicator. Whenever you aim directly at an entity (like a mob or another player), your crosshair will instantly turn red.
+
+It's perfect for PvP, hunting, or just general survival gameplay where every hit counts. No more guessingjust aim, wait for the red, and swing!
+
+Features:
+
+- Clean, vanilla-style crosshair (9x9 pixels)
+
+- Instantly turns red when targeting any entity
+
+- Lightweight and works smoothly on Bedrock
+
+- No experimental gameplay features required!
+
+Developed by AdoreEwe6033 [PAT STUDIOS]. 2026 PAT STUDIOS. All rights reserved.
+
+Credits : Turkiye2317 & AdoreEwe6033
+
+Special Thanks : m6nipule & EymenKral9558
+
+PAT STUDIOS

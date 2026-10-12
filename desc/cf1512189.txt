@@ -1,0 +1,63 @@
+Night Vision [ON/OFF]
+
+Tired of carrying torches everywhere or wasting potion slots just to see in the dark? This addon gives you a simple, clean night vision toggle, no items, no crafting, no inventory clutter.
+
+How to Use
+
+Simply Crouch + Jump at the same time to toggle Night Vision on or off. That's it. Nothing to craft, nothing to carry.
+
+Features
+
+- Instant toggle Crouch + Jump to switch ON/OFF anytime
+
+- All dimensions Works in the Overworld, Nether and The End
+
+- Death-proof Night Vision is automatically restored after respawn
+
+- Never runs out Quietly renewed in the background, even on long sessions or after drinking milk
+
+- Remembers your choice Turn it off and it stays off, even after you leave and rejoin
+
+- Auto-enabled New players start with Night Vision ON automatically
+
+- Achievement-safe Does NOT disable achievements or trophies
+
+- Multiplayer ready Each player controls their own Night Vision independently
+
+- Clear feedback Sound + on-screen message confirms every toggle
+
+- Lightweight One small script, no items, no entities, no resource pack
+
+Server & Map Maker Control (optional)
+
+Night Vision can also be switched from commands, command blocks and functions:
+
+- /scriptevent nv:on
+
+- /scriptevent nv:off
+
+- /scriptevent nv:toggle
+
+These act on the player who runs them. From a command block, use /execute as @a run scriptevent nv:on to target players.
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.21.20+ , 26.10+
+
+- Works on Android, iOS, Windows, Console
+
+- Behavior Pack only no Resource Pack needed
+
+- Compatible with other addons
+
+Installation
+
+- Download the .mcpack file
+
+- Tap/double-click to auto-import into Minecraft
+
+- Apply the pack to your world under Behavior Packs
+
+- Play - Night Vision starts ON automatically!
+
+Made by ShadowCat_Studios If you enjoy this addon, please share it!

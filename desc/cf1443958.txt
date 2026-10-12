@@ -1,0 +1,35 @@
+Random Step Chaos: The Floor is a Gamble!
+
+Are you ready for the most chaotic survival experience in Minecraft Bedrock?
+
+Inspired by popular YouTube challenges, Random Step Chaos transforms the simple act of walking into a high-stakes game of Russian Roulette. The world beneath your feet is no longer stable. Every single step you take instantly transmutes the block you are standing on into something completely random.
+
+Will your next step grant you the riches of a Diamond Block or an Ancient Debris? Or will you suddenly find yourself plunged into Lava, stuck in a Cobweb, or standing atop ticking TNT?
+
+With over 50 possibilities ranging from incredibly overpowered treasures to game-ending disasters, nowhere is safe.
+
+Key Features:
+
+- Instant Transformation: The second you step on a solid block, it changes. No delays, just instant chaos.
+
+- Massive Variety: The block pool includes over 50 different items, featuring a mix of valuable resources (Netherite, Diamonds, Enchanting Tables), useless junk (Dirt, Gravel), and deadly traps (Magma, TNT, Lava).
+
+- Immersive Effects: Every transformation is accompanied by a satisfying "pop" sound and smoke particles, letting you know exactly when your luck has changed.
+
+- Smart Optimization: The script is professionally optimized to ensure it only acts when the block actually changes, keeping your game running smoothly even during intense parkour.
+
+- Safe Zones: Air and liquids (water/lava sources) are ignored, so you won't instantly turn water into stone while swimming, but once you hit land, the chaos resumes!
+
+Perfect For:
+
+- Solo Challenges: Can you beat the Ender Dragon when the very ground tries to kill you?
+
+- SMP Chaos: Install this on a Realm with friends and watch the hilariously unpredictable disaster unfold.
+
+- Content Creation: The perfect mod for "Minecraft, But..." videos and streams.
+
+Requirements:
+
+- Minecraft Bedrock Edition 1.21 or higher.
+
+- Enable "Beta APIs" in your world experiments.

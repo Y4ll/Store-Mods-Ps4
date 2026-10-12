@@ -1,0 +1,134 @@
+1.5v Update
+
+New Spider Variants
+
+- Added Lightning Spider with lightning strike attacks
+
+- Added Earth Spider with dirt cage trapping ability
+
+- Implemented Fire Spider burning mechanic
+
+- Enhanced Frozen Spider with multi-effect paralysis
+
+New Elemental Bows
+
+- Lightning Bow: Summon lightning bolts on impact
+
+- Earth Bow: Create instant dirt prisons
+
+- Water Bow: Now crafted with water buckets for easier access
+
+Visual & Texture Improvements
+
+- Complete texture overhaul for all elemental strings
+
+- Fixed texture mappings for Lightning and Earth strings
+
+- New spider textures for Lightning and Earth variants
+
+World Generation
+
+- Custom spawn rules for all spider variants
+
+- Biome-specific spawning (Lightning in mountains, Earth in forests)
+
+- Balanced spawn rates for survival gameplay
+
+Technical Improvements
+
+- Optimized entity scripts for better performance
+
+- Enhanced attack detection system
+
+- Improved loot table balance
+
+Minecraft Bedrock Edition with New Bows Overhaul, the definitive bow-and-arrow mod designed for survival, PvP, and adventure. Dive into a world of elemental power and fearsome foes:
+
+Eight Elemental Bows & Arrows
+
+Lightning Bow & Lightning Arrows: Strike enemies with devastating lightning bolts that chain across the battlefield.
+
+Earth Bow & Earth Arrows: Trap foes in 3x3x3 dirt cages, immobilizing them instantly.
+
+Water Bow & Water Arrows: Drench targets and extinguish flames with aquatic projectiles.
+
+Fire Bow & Fire Arrows: Incinerate mobs and terrain with blazing projectiles that leave trails of destruction.
+
+Frozen Bow & Frozen Arrows: Freeze enemies solid and paralyze them with icy power.
+
+Ender Bow & Ender Arrows: Teleport your arrows through walls for surprise assaults from impossible angles.
+
+Powered Bow & Powered Arrows: Unleash explosive energy with electrifying force.
+
+XP Bow & XP Arrows: Absorb experience from every hitlevel up instantly while fighting.
+
+Five Unique Spider Mobs
+
+Harvest precious Strings from fearsome elemental arachnids:
+
+Lightning Spiders: Storm-charged arachnids that call down lightning on their prey, dropping Electric String
+
+Earth Spiders: Stone-armored spiders that encase victims in dirt prisons, yielding Earthen String.
+
+Fire Spiders: Lava-infused crawlers that ignite everything they touch, providing Molten String.
+
+Frozen Spiders: Ice-cloaked hunters that paralyze with freezing venom, dropping Glacial String.
+
+Ender Spiders: Shadowy weavers from the End, teleporting in combat and dropping Ender String.
+
+Each spider spawns naturally in biomes matching their element, creating dynamic hunting challenges!
+
+~~With Loading Animation~~
+
+1.13v Update
+
+1.12v Update
+
+1.11v Update
+
+1.10v Update
+
+1.9v Update
+
+1.8v Update
+
+1.7v Update
+
+1.6v Update
+
+FULL SHOWCASE
+
+Permission to use textures from : Torrezx
+
+Support Our Creative Journey!
+
+Help us continue delivering exceptional content! Every contribution fuels development, enhances resources, and drives innovation. If our work enriches your Minecraft experience, consider supporting our growth. Your generosity means everything!
+[Donate Now]
+
+Exclusive Early Access
+
+Discover all our addons and be the first to experience new updates on our official website! Latest versions debut here before anywhere else.
+[Visit Official Website]
+
+Join Iced Fox Studios!
+
+Unlock Minecraft's full potential with our hub for mods, tools, and exclusive rewards:
+
+Feature
+Highlights
+
+Daily Rewards
+Free skins, textures, and loot + seasonal event cosmetics.
+
+Pro Tools
+World editors, texture creators, auto-updaters (beginner to expert).
+
+Minigames
+Play to support us + earn redeemable points.
+
+Community
+Forums, Discord, achievement tracking & collaborative projects.
+
+JOIN PLATFORM
+
+JOIN DISCORD --> Click Here

@@ -1,0 +1,145 @@
+About the Project
+
+ModBlockTE Furniture is a large-scale furniture project designed to create a new type of gameplay experience in Minecraft.
+
+The project connects furniture with the game system and introduces many features that are rarely seen in Minecraft addons.
+
+Players can experience advanced systems such as:
+
+Advanced farming
+
+Machines and equipment
+
+Interactive furniture
+
+Shop and home management
+
+Realistic gameplay simulation
+
+The goal of this project is to make the player feel closer to a real-life experience while still playing inside the world of Minecraft.
+
+Building & Terrain Tools
+
+Note: This add-on contains two versions of the full version with the functionality download link at the bottom of the page
+
+Decorative / Lite Version
+
+- ModBlockTE Furniture Lite Version
+
+- Contains 800 furniture items
+
+- Decorative furniture (no functions)
+
+- Includes basic tools
+
+- Optimized for low-end devices
+
+- High-quality models and textures
+
+- Perfect for building and decoration
+
+- Pictures of Decoration and Furniture
+
+- Access to 16 colors of furniture
+
+- Possibility of changing the type of wood to one type
+
+About the Decorative/Lite Version :
+
+Full Version :
+
+- ModBlockTE Furniture Full Version
+
+- Contains 850 furniture items
+
+- Fully functional furniture systems
+
+- Includes tools and equipment
+
+- Sound effects
+
+- Animation effects
+
+- Advanced farming systems
+
+- Machines and automation
+
+- Consumable items and interactions
+
+About the functions contained in the full version :
+
+- The size of the TV has been changed and the content of the channels has changed + the TV remote and the air conditioner remote have been added
+
+-
+
+- Grain Grinding Machine
+
+You can grind grains such as barley or coffee beans.
+
+- The grinding process takes about 5 seconds, with smoke effects and grinding sounds.
+
+-
+
+- Farming System
+
+Place seeds on farm soil and water them.
+
+After some time the crop will grow and you can harvest it by clicking on the plant.
+
+- More seeds will be added in future updates
+
+-
+
+- Victorian Dough Mixer
+
+A manual Victorian dough mixer allows you to create different types of dough.
+
+Examples:
+
+Flour + Water Pizza Dough
+
+Flour + Milk + Water Victorian Bread Dough
+
+-
+
+- Victorian Oven
+
+The Victorian oven allows you to cook different foods.
+
+Features:
+
+Requires wood and fire
+
+Cooking time varies depending on the food
+
+Needs new firewood every 2 minutes
+
+You download the full version for free from the official website. Just click on the image and the choice is yours.
+
+Link
+
+https://kaleed-addons.lovestoblog.com/modblockte-furniture/
+
+Click to download the full version with functions
+
+- An iron fireplace has been added that needs firewood and a flame until it is turned on and does not work forever in two minutes the wood will burn and you need more
+
+- Added Coffee Storage Singers You Can Store Up To 15 One coffee bean more food will be added
+
+- You can use the bell with the bell plug only the maximum range between the bell and the 6 block plug
+
+- Added water filling function to water cooler
+
+- Added food chopping you can chop food to get slices you can put as many as you want or even put a type together Use a knife
+
+- Dough machine has been added to make the dough put the barley powder then a cup of water and then wait for the dough to get the dough
+
+- milk barrel has been added in order to store milk, you can store 25 buckets of milk for 50 bottles of milk.
+
+- A barrel of water has been added in order to store water, you can store up to 40 buckets, and you can use a cup of water to take water, 80 cups.
+
+- Agricultural soil has been added for planting and getting fruits and foods you can grab the new digging tool and get the soil by clicking on the grass
+
+- At the moment there are a few seeds more will be added in the upcoming updates Bring the seeds and put them on the farm soil Once the soil is moistened it will start to grow Click on a seedling in order to harvest the crop
+
+- Construction and terrain tools help you build faster wit

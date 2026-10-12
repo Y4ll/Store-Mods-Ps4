@@ -1,0 +1,43 @@
+Voxen's Ores & Gears
+
+Mining just got a whole lot more exciting. Voxen's Ores & Gears adds over 20 brand new ores across the Overworld, Nether, and The End each with its own full set of tools, weapons, and armor. From common Bronze to the rare End-tier Voidite, there's a whole new progression to grind through.
+
+New Ores by Dimension
+
+- Overworld: Amethyst, Aquamarine, Bronze, Citrine, Cobalt, Garnet, Jade, Onyx, Peridot, Platinum, Rose Gold, Ruby, Sapphire, Spinel, Titanium, Topaz, Tungsten
+
+- Nether: Bloodstone, Infernite, Sulfur
+
+- The End: Celestite, Enderite, Voidite
+
+Bonus Material Sets
+
+Full tool and armor sets also added for materials that never had any in vanilla Obsidian, Redstone, Slime, Prismarine, and Water plus a special OP set for the ultimate gear.
+
+Crafting Recipes
+
+No new recipes to learn every tool and armor piece uses the exact same crafting pattern as their vanilla counterparts. Just swap the ingots/gems into the usual sword, pickaxe, axe, shovel, hoe, helmet, chestplate, leggings, or boots pattern you already know.
+
+Features
+
+- Full tool & armor sets for every single new ore sword, pickaxe, axe, shovel, hoe, helmet, chestplate, leggings, boots
+
+- Deepslate variants for every Overworld ore
+
+- Raw ore drops for metal-based ores, smeltable into ingots at a furnace
+
+- Custom block and ore textures with full PBR support
+
+- Craftable blocks (9 ingots/gems = 1 block) and reverse "unblock" recipes
+
+- New ores added to dungeon, mineshaft, temple, and stronghold loot tables
+
+- Villager trading Tool Smith, Weapon Smith, and Armorer now trade these new materials
+
+- Supports over 25 languages names and lore display correctly worldwide
+
+Achievement Friendly?
+
+Yes fully achievement friendly. No cheats required, no experimental toggles, no achievement lock.
+
+New ores. New gear. A whole new way to progress.

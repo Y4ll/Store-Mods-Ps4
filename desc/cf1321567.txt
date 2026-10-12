@@ -1,0 +1,7 @@
+How it works?
+
+Makes the Health Regeneration similar to Java Health Regeneration by decreasing the Saturation and healing the player.
+
+And best of all, It doesn't turn off your Achievement's!!
+
+- Enjoy.

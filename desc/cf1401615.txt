@@ -1,0 +1,59 @@
+THE BROKEN SCRIPT
+
+The world they built. The world they hate.
+
+The one and only official version of the mod is on MCPEDL and CF, do not trust any fakers.
+
+Join the Discord
+
+THINGS YOU WANT TO KNOW BEFORE PLAYING
+
+- Mod can kick you from the game
+
+- Mod WILL grief your world
+
+- Mod WILL destroy your buildings
+
+- DO NOT Play this mod with shaders that change the texture of the moon.
+
+- THIS MOD NEEDS EXPERIMENTAL SETTINGS (Beta APIS)
+
+The Broken Script is a (VERY) slow horror mod that will try to make you feel paranoid. There are random events, few entities and anomalies (and much more)
+
+Frequently asked questions:
+
+Q: I've got trapped in a infinite maze of cobblestone/bedrock rooms/hallway, what do I do?
+
+A: Kill yourself.
+
+Q: How to give faces to entities?
+
+A: ...
+
+Q: <o>
+
+A: <o>
+
+Q: how do I use the config
+
+A: /tbs_config
+
+Q: The moon hasn't corrupted, I'm on like day 10 what should I do?
+
+A: Moon Corruption has a strict activation, you'll have to wait awhile.
+
+Q: How do I Get rid of the VHS Overlay?
+
+A: Use the config to Remove it
+
+Credits
+
+- JavaScript - TylerJM
+
+- TBS Team
+
+- Get the original mod Here
+
+- Makeradam for the base of the mod
+
+- SpaceDummy for the kick/ban script.

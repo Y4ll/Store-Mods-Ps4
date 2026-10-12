@@ -1,0 +1,3 @@
+This addon makes your character emit light based on the items you are holding.
+
+But that's not all. It allows you to place torches from a greater distance

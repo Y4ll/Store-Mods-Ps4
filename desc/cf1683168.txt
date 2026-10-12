@@ -1,0 +1,51 @@
+This addon/port adds a monster called Martian Wraith from the horror short film "I Heard It Too," available on YouTube
+
+original mod made by Hopal228 (Curseforge) Hopal228 (YouTube)
+
+MONSTERS
+
+Martenal Wraith
+
+Stalker
+
+Chica
+
+COMMANDS (cheats required)
+
+Martenal Wraith
+
+/scriptevent marceloihit:martenalwraith false = deactivates the Martenal Wraith.
+
+/scriptevent marceloihit:martenalwraith true = activates the Martian Wraith.
+
+Chica
+
+/scriptevent marceloihit:chica true = activates the Chica.
+
+/scriptevent marceloihit:chica false = deactivates the Chica.
+
+Stalker
+
+/scriptevent marceloihit:stalker true = activates the Stalker.
+
+/scriptevent marceloihit:stalker false = deactivates the Stalker.
+
+ShowsTimer/Ticks
+
+/scriptevent marceloihit:showtimer true = shows the timer
+
+/scriptevent marceloihit:showtimer false = hides the timer
+
+NumberOfTicks
+
+/scriptevent marceloihit:timerticks 500 = 500 ticks/25 seconds.
+
+/scriptevent marceloihit:timerticks 5000 = 5000 ticks/4 minutes and 10 seconds.
+
+/scriptevent marceloihit:timerticks 10000 = 10000 ticks/8 minutes and 20 seconds.
+
+/scriptevent marceloihit:timerticks 18000 = 18000 ticks/15 minutes.
+
+ADDON/PORT MADE WITH PERMISSION
+
+IF THERE ARE ANY BUGS PLEASE LET ME KNOW IN THE COMMENTS

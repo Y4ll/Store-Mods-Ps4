@@ -1,0 +1,27 @@
+True Hammers - by Mikayil022
+
+Adds 7 tiered hammers (Wooden to Netherite) that mine a 3x3 area in a single swing - faster mining without leaving vanilla balance or your achievements behind.
+
+Features
+
+- 3x3 mining area with every swing
+
+(Sneak (crouch) while mining to break a single block instead of the full area.)
+
+- 7 tiers matching vanilla pickaxe progression: Wooden, Stone, Copper, Iron, Golden, Diamond, Netherite
+
+- Mining speed, durability and enchantability scale like their pickaxe counterparts
+
+- Respects Efficiency, Unbreaking, Fortune and Silk Touch
+
+- Craftable and repairable using standard recipes
+
+- Ores are excluded from the 3x3 effect to keep resource balance fair
+
+Recipes
+
+Compatibility
+
+- Compatible with Minecraft Bedrock Edition 26.30+
+
+- Supports all Minecraft Bedrock Edition languages.

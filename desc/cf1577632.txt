@@ -1,0 +1,55 @@
+ZenXveda Shadder
+
+Experience Minecraft Bedrock like never before. ZenXveda Shadder is a massive visual overhaul designed to bring the stunning, high-quality aesthetic of top-tier Java Edition shaders (like Complementary Unbound) directly to Minecraft Bedrock Edition!
+
+Whether you have a high-end gaming PC or are playing on a mobile phone, this pack features incredibly optimized configuration subpacks tailored perfectly for your device.
+
+Key Features
+
+Realistic Atmospherics & Aesthetic Lighting
+
+- True Darkness: Venture into deep caves that are terrifyingly pitch-black until illuminated by a torch, and experience moody, immersive nights under a glowing moon.
+
+- Vivid Skies: Look up to see gorgeous, deep blue skies enhanced by custom horizon distance fog, eliminating the pale, washed-out look of vanilla Minecraft.
+
+- Custom Panorama: Be greeted by a beautiful custom 360-degree panorama background the moment you load into the main menu!
+
+Next-Gen Textures & PBR
+
+- Smooth & Clean Terrain: Noisy, pixelated grass is a thing of the past! Grass blocks have been softened for a smooth, natural aesthetic.
+
+- Glowing Ores & Shiny Armor: Experience True PBR (Physically Based Rendering)! Ores physically emit their own light in the dark, and diamond/iron/gold armor reflects the world naturally.
+
+- Untouched Water: We kept the iconic Vanilla water completely untouched for perfect gameplay visibility and nostalgia.
+
+3 Custom Performance Options
+
+ZenXveda Shadder comes with a built-in resolution slider (Subpacks) in your Global Resources menu. Choose the best fit for your device!
+
+1. Real Ray Tracing (PBR) For High-End Devices
+
+The ultimate visual experience. This mode enables full Bedrock Deferred Rendering capabilities. It includes 3D normal maps, highly reflective metals, emissive glowing ores, and volumetric effects. It features a beautifully vibrant, high-contrast aesthetic.
+
+2. Fake Ray Tracing (Low GPU) For Mid-Range Devices
+
+Get the beautiful lighting and vibrant textures of the high-end pack, but without the heavy performance cost of PBR maps. Designed for maximum performance while maintaining a gorgeous aesthetic.
+
+3. Mobile Optimized (Ultra Performance) For Phones & Tablets
+
+Explicitly tailored for mobile! This option features an entirely different visual tone: soft, realistic, and completely natural. We heavily reduced the neon saturation and harsh contrast, giving your world a beautifully faded, realistic look that runs at blazing fast framerates.
+
+Installation Instructions
+
+- Download the .mcpack file.
+
+- Double-click the file to automatically import it into Minecraft Bedrock Edition.
+
+- Navigate to Settings > Global Resources and activate ZenXveda Shadder.
+
+- Click the Settings Gear icon next to the pack to select your preferred Performance Subpack!
+
+- (Optional but Recommended): If using the Real Ray Tracing (PBR) option, ensure you have "Deferred Technical Preview" enabled in your world's Video Settings!
+
+Join the Community
+
+Support our work and stay updated on our latest projects:

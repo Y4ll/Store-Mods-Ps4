@@ -1,0 +1,40 @@
+Stuff made for this Add-On:
+
+LUCKY DEALER
+
+This girl will appear from time to time in your world selling Lucky Blocks for a couple of emeralds, very useful if you don't have materials to make your own lucky blocks! its products will increase with updates.
+
+LUCKY BLOCK
+
+Do you see this block? Remember it well, because it will be a fundamental tool for your world from now on. By breaking it, either very good things or very bad things could happen. You can get enchanted netherite armor, good loot, buff potion effect. but you can also get poison effects, structure traps and malicious entities!
+
+LUCKY BOSS
+
+It's very dangerous. He hits hard and his attacks have different effects such as blindness, levitation, poison and wither, he jumps high and has a lot of health. However it can give quite juicy random rewards after killing it, it will only appear inside the Lucky blocks.
+
+LUCKY ALIEN
+
+Gives minimal random rewards like dirt blocks, sticks, a single diamond, etc. It is very difficult to land a hit and they only appear in packs, their way of attacking is flying in a straight line and going down very fast. They only appear inside lucky blocks.
+
+ZOMBIE GIANT
+
+The Giant zombie is back, if it attacks you it will give you slowness, so you have to be careful of its blows. His rewards are the same as a normal zombie but in large portions.
+
+<figure class="image"></figure>
+
+UNLUCKY EVOKER
+It is the natural enemy of lucky dealers, it defends itself with evil lucky blocks and can teleport.
+
+Recipes:
+
+Lucky block
+
+Types of possible events:
+
+Effects: Gives both good and bad random potion effects such as strength, speed, poison, nausea, absorption, etc...
+
+Entities: Summons a random entity, like monsters, bosses, animals, and special entity events such as skeleton riders, a raid, the giant zombie, etc...
+
+Loots: Drops random loot, can drop very good things like armor, redstone materials, valuable minerals, as well as junk items, poisoned food, or bad materials.
+
+Traps: It makes a trap appear that will always be bad, for example a hole with a huge drop, a bunch of monsters, a jail full of water, etc...

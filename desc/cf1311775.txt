@@ -1,0 +1,81 @@
+If you have ever wished to hatch that Dragon Egg, this is the addon for you! Alylica's Dragons adds in 16 Dragons which you can hatch from an egg, raise and then fly around upon!
+
+You can also use dragon scales to create powerful armour, which will be helpful, as this addon also includes a dangerous new Boss Monster too!
+
+How to train your dragon
+
+Dragon Eggs
+
+There are two main ways to get Dragon Eggs in survival mode, firstly, you can take the egg dropped by the Ender Dragon to a crafting grid, this will transform it into the hatchable variety, additionally, almost all structures across your world have a chance of holding a Dragon Egg inside their loot chests!
+
+Dragon Eggs wont hatch once placed, untill you interact with them, this will begin the process of hatching, which has 3 stages
+
+Defining - At this stage your dragon egg keeps its purple colouration, this will take 15-20 minutes after which your dragon egg will transform depending on its enviroment
+
+Acclimation - Once the egg reaches this stage, it will transform into a specific kind of egg depending on the envrioment it was defined in, such as a Forest Dragon in Forests or a Tide Dragon in rivers, this takes about 20-30 minutes untill the egg starts to hatch, where it will begin to shake before moving to the final phase
+
+Hatched - Your egg is hatched and the Dragon is born! Dragons will take quite a while to grow up to adults on their own, so its reccomended that you feed them raw cod or salmon, as that speeds up growth
+
+A little diagram of the different stages!
+
+There are 16 eggs total, as shown here, and i will go into detail on where to get them in the spoiler below
+
+Where to find get all eggs
+
+Void Dragon - Hatch an egg in The End
+
+Forest Dragon - Hatch an egg in Forest/Grassy Biomes
+
+Tide Dragon - Hatch an egg in Ocean/River Biomes
+
+Fire Dragon - Hatch an egg in Hot Biomes
+
+Snow Dragon - Hatch an egg in Snowy Biomes
+
+Sky Dragon - Hatch an egg in really high in the sky
+
+Echo Dragon - Hatch an egg in The Deep Dark
+
+Mycelium Dragon - Hatch an egg in a Mushroom Island
+
+Nether Dragon - Hatch an egg in The Nether
+
+Ghost Dragon - Hatch an egg in at the bottom of the world
+
+Bamboo Dragon - Hatch an egg in a Bamboo Jungle
+
+Common Dragon - You can obtain this egg exclusively from the Dragonborn Trader
+
+Night Dragon - You can obtain this egg exclusively from the Dragonborn Trader
+
+Enchanted Dragon - You can obtain this egg exclusively from the Dragonborn Trader
+
+Quake Dragon - You can obtain this egg exclusively from the Dragonborn Trader
+
+Deadly Dragon - You can obtain this egg exclusively from the Dragonborn Trader
+
+Taming Dragons
+
+Once your dragon has hatched, you can help it grow up faster by feeding it either Cod or Salmon, though it will also grow up on its own given enough time!
+
+Once its grown you can tame it by feeding it, once its friendly you can hop right on its back!
+
+In order to ride your dragon, you must craft a Dragon Saddle and equip it
+
+While riding your dragon with a sadlle, you can leap into the air and begin to fly! You can move in any direction and change your height by looking up and down, dragons are really quite fast and make for a very useful transport method, especially if you have not got an Elytra.
+
+Not craftable, but instead found inside of structurs, you can also equip Dragon Armour that gives your dragon added damage resistance! It works just the same as horse and nautilus armour. You can find this as loot in End Cities and the new Dragon Bastion structure. It can also be sold by dragonborns
+
+To get Netherite Dragon Armour, you must upgrade Diamond Dragon Armour at the Smithing Table
+
+You can remove dragon saddles / dragon armour using shears
+
+You can also make a dragon sit by crouching while interacting with it, if stood up Dragons will also fight off any mobs that harm you!
+
+Each dragon has their own traits, listed below
+
+Void Dragon - Boosted attack power
+
+Forest Dragon - Naturally regenerates much faster
+
+Tide Dragon - Cannot drown or be 

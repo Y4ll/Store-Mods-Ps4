@@ -1,0 +1,15 @@
+Modified Version of The Original
+Blurry's Java PvP - Made By Blurry FACE / Catalyst Interactive
+
+All Credits to Them; Made this as a Personal Project and Alot of People Wanted It, So Here You Guys Go.
+
+Adds 83 New Shields
+
+HD and non-HD Variants Included
+
+Changelog:
+
+Credits:
+Pink (@patr1otic. on discord) - Addon Maker
+CorpseMC (@c.o.r.p.s.e on discord) - Shield Patterns
+grey1son (@grey1son on discord) - Shield Patterns

@@ -1,0 +1,93 @@
+Slugdrock (Slugterra Addon) | Demolisher & Recipes Update
+
+Welcome to the world of Slugdrock and Slugterra! Explore vast underground caverns, discover powerful slugs, and build your own collection. Every slug has unique abilities that will help you in combat and exploration. Master your equipment, train your companions, and become the greatest slug slinger beneath the surface.
+
+Download BP and RP and put these 2 packs into your Minecraft world!
+
+- Enable these experiments: "Beta APIs"
+
+- Only stable Minecraft version 26.30
+
+Main Features
+
+Unique Slugs
+
+Capture a wide variety of slugs, each with its own unique ability. Some specialize in offense, others provide support, while some are perfect for exploration.
+
+Slug Launcher (Dyeable)
+
+Use the Slug Launcher to fire your slugs just like in Slugterra. You can also customize its color by using a Cauldron with dyes.
+
+Slingshot
+
+Don't have a launcher yet? The Slingshot is an early-game alternative that lets you fire projectiles from the beginning of your adventure.
+
+Reload Tube
+
+After firing your projectiles, use the Reload Tube to reload them and prepare for the next battle.
+
+Slug Nursery
+
+Store and take care of your slugs in the Slug Nursery, a safe place where they can rest while you continue exploring.
+
+Kibble Oven
+
+A tool used to bake different types of kibble for taming slugs. Just add ingredients and cook to create food that attracts and helps control slugs.
+
+Slugdex
+
+The Slugdex contains everything you need to know about every slug, including:
+
+Description
+
+Special ability
+
+Current level
+
+Stats
+
+Kibble recipes
+
+Spawn locations
+
+Evolution information
+
+Helpful tips
+
+The Slugdex is the ultimate encyclopedia for discovering new slugs, learning where they live, what they eat, and how to make them stronger.
+
+Slug Evolution
+
+Every slug has its favorite kibble type. Feed them the correct food to help them grow, mature, and become stronger companions in battle.
+
+Fu Slug
+
+The Fu Slug is an energy/mind-type slug with a unique ability: it can be guided using the users mind. Once fired, it doesnt follow a fixed trajectory like other slugs, but instead can be mentally controlled while in mid-air, allowing the shooter to adjust its direction toward the target in real time.
+
+Adventure Awaits
+
+Explore mysterious caves, capture new slugs, grow crops to prepare their favorite kibble, upgrade your equipment, and uncover the secrets hidden beneath the surface.
+
+Discover different slug species, care for them in the Slug Nursery, complete your Slugdex, and become the ultimate slug slinger.
+
+Build changelog:
+
+- Added the Hop Rock Slug.
+
+- Added new Portable Furnace recipes.
+
+- Improved various translations.
+
+- Fixed minor bugs.
+
+- General stability and performance improvements.
+
+Download BP and RP and put these 2 packs into your Minecraft world!
+
+- Enable these experiments: "Beta APIs"
+
+- Only stable Minecraft version 26.30
+
+My Discord:
+
+https://discord.gg/UdJPrfbkKe

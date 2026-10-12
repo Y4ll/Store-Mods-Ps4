@@ -1,0 +1,9 @@
+DISCORD
+
+Trade smarter, not harder! The Better Trade Addon improves villager dealsfairer prices, better rewards, and faster progress for every merchant!
+
+Added 1 special trade option to random villagers. This means you can trade high-level items with a higher emerald cost, but it can only be done once.
+
+You can trade enchanted apples up to 12 times with a butcher villager at a certain level.
+You can trade netherite armor with an armorer villager.
+You can trade a netherite sword with a weaponsmith villager.

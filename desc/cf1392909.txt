@@ -1,0 +1,15 @@
+This addon makes any door you place underwater automatically create an air pocket inside it. If youre mining or exploring the ocean and need a quick spot to breathe, this addon will make things a lot easier.
+
+Its simple to use: just place a door underwater, and the water inside the door will disappear, turning into an air pocket. This works with all vanilla doors.
+
+Note: if you're using custom doors from other addons, make sure their item ID ends with "_door" so the air-pocket feature works properly.
+
+Showcase Video
+
+watch if you don't understand or want to know how it works!
+
+Join Our Community
+
+discussions, submit suggestions, report bugs and more
+
+Discord Server | Telegram Group | Whatsapp Group(+62 only)

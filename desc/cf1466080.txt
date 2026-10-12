@@ -1,0 +1,67 @@
+Named after the largest moon of Mars, Phobos is the most iconic boss from Counter-Strike Online! He's an alien that came from outer space in a mysterious egg that hatched and it started looking for hosts to infect. Despite the Rex Research Institutes attempts to contain it, the experiment quickly spiraled out of control. Are you ready to save humanity?
+
+https://cso.fandom.com/wiki/Prototype_Phobos
+
+Abilities
+
+Swipe: this is his common attack, deals 23 damage and knocks multiple people away!
+
+Shockwave: An electric-based shockwave ability that shakes the ground, has the chance of wiping the mainhand item and slowing people down based on difficulty. Ignores armor!
+
+Difficulty Multiplier
+
+- Easy: Range 8 blocks, Damage 15, Slowness (5 seconds, 1 amp) + camerashake
+
+- Normal: Range 8 blocks, Damage 25, Slowness (5 seconds, 2 amp) + camerashake
+
+- Hard: Range 8 blocks, Damage 35, Slowness (5 seconds, 3 amp) + camerashake
+
+Chance to Appear
+
+- Easy: 30%
+
+- Normal: 40%
+
+- Hard: 50%
+
+Mahadash: A 10-block dash that damages everything in it's path giving everyone a big knockback effect, and does 2x damage to the target it's leaping towards. Instakill likely!
+
+Damage
+
+- Easy: 20
+
+- Normal: 30
+
+- Hard: 60
+
+Chance to Appear
+
+- Easy: 30%
+
+- Normal: 40%
+
+- Hard: 50%
+
+General Information
+
+- Does not spawn in survival yet, give me creative suggestions on how it should spawn!
+
+- 100% knockback resistance
+
+- 7,000 health
+
+- Has music (enable music volume in your game!)
+
+Credits
+
+AzozGamer936, Kyuu Desperation, Nexon, Voon, Mecha, DaffaTheOne, Wrench_Reginald
+
+Twitter: Click here!
+
+YouTube: Click here!
+
+Donations: PayPal or Kofi (clickables)
+
+Please consider donating so I can keep updating this addon
+
+This addon costed $407 to make via commissions.

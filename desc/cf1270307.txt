@@ -1,0 +1,147 @@
+Nicos Magic Spells adds scroll-based spellcasting, new magical villagers, structures, and over 70 custom scrolls to Minecraft. Craft powerful spells, trade rare magical items, and explore a world filled with mystical lore and enchanted discoveries!
+
+(v1.3.4)
+
+NEW UPDATES:
+
+Version: 1.3.4
+
+Version: 1.3.4
+
+NOTE:
+
+- This update only works with Minecraft version 26.30 and higher.
+
+ITEMS:
+
+- Added new Magic Scrolls:
+
+- Scroll of Earthquake (IIII): Slows and shakes the vision on all nearby mobs within a 4-block radius upon impact.
+
+- Scroll of Lightning Bolt (IIII): Summons lightning strikes on all nearby mobs within a 4-block radius upon impact.
+
+- Summoning Scroll of Bogged: Summons a Bogged upon impact.
+
+- Summoning Scroll of Magma Cube: Summons a Magma Cube upon impact.
+
+- Summoning Scroll of Parched: Summons a Parched upon impact.
+
+- Summoning Scroll of Stray: Summons a Stray upon impact.
+
+- Summoning Scroll of Sulfur Cube: Summons a Sulfur Cube upon impact.
+
+- Fixed the Scroll of Hoarding bug, where it also teleports nearby fish mobs.
+
+- Improved the Scroll of Flourishing, the effects now also work underwater, allowing it to grow underwater plants and corals.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.30 version.
+
+Version: 1.3.3
+
+Version: 1.3.3
+
+NOTE:
+
+- This update only works with Minecraft version 26.20 and higher.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.20 version.
+
+STRUCTURES:
+
+- Virtuous Flying Books:
+
+- Improved particle effects.
+
+RECIPES:
+
+- Added Spellweaver Wands:
+
+- Quartz Spellweaver Wand
+
+- Amethyst Spellweaver Wand
+
+- Golden Spellweaver Wand
+
+- Diamond Spellweaver Wand
+
+- Spellweaver Wands can cast any magic spell available in the player's inventory.
+
+BLOCKS:
+
+- Magic Spells Table now have a local lighting effect when activated in Vibrant Visuals
+
+Version: 1.3.2
+
+Version: 1.3.2
+
+NOTE:
+
+- This version may no longer be able to update over older versions.
+
+- This update only works with Minecraft version 26.10 and higher.
+
+TECHNICAL CHANGES:
+
+- Changed the UUID to fix importing issues on Realms. (Note: This will prevent the add-on from updating over older versions.)
+
+- Added the PBR or Vibrant Visuals capabilities.
+
+STRUCTURES:
+
+- Improved structure generation. Structures are now generated using jigsaw structures.
+
+- Structures now generate more naturally, blending better with the terrain and no longer appearing buried.
+
+- Decorated Pots in structures may now contain different types of items.
+
+- Structures can now be located using the /locate command in Creative Mode with their identifier names:
+
+- ntk:badlands_scrollwright_house
+
+- ntk:desert_villager_library
+
+- ntk:plains_scrollwright_house
+
+- ntk:plains_villager_library
+
+- ntk:savanna_villager_library
+
+- ntk:swamp_scrollwright_house
+
+- ntk:taiga_scrollwright_house
+
+- ntk:taiga_villager_library
+
+RECIPES:
+
+- Reworked magic scroll recipes. They now require fewer items and more common materials, making them easier to craft.
+
+- Scroll of Acceleration no longer requires a Cookie or Lapis Lazuli.
+
+- Scroll of Berserk no longer requires a Diamond and now uses an Iron Ingot instead of an Iron Nugget.
+
+- Scrolls of Cleansing II and III now use an Empty Scroll instead of a Scroll of Cleansing.
+
+- Scroll of Converging now uses a Honeycomb instead of a Honey Block.
+
+- Scroll of Displacement now uses a Slime Ball instead of a Slime Block.
+
+- Scroll of Field Levitation no longer requires a Wind Charge.
+
+- Scroll of Fire Blast now uses an Empty Scroll instead of a Scroll of Flame Burst, and now requires a Fire Charge.
+
+- Scroll of Fire Protection now uses an Iron Nugget instead of Blaze Powder.
+
+- Scroll of Flame Burst now uses a Wind Charge instead of Gunpowder.
+
+- Scrolls of Flourishing II and III now use an Empty Scroll instead of a Scroll of Flourishing.
+
+- Scroll of Hoarding no longer requires a Gold Nugget.
+
+- Scroll of Invisibility now uses a Fermented Spider Eye and no longer requires Nether Quartz or Lapis Lazuli.
+
+- Scroll of Lethargy now uses a Spider

@@ -1,0 +1,69 @@
+THIS ADDON DOES NOT DISABLE ACHIEVEMENTS.
+
+IMPORTANT. TO USE THE ANCIENT TABLE YOU MUST INTERACT IN THE CENTER AT THE TOP OF THE TABLE (PAPER).
+
+Most players skip the first armor in the game because it takes too long to get the resources and they get very weak armor. This add-on adds:
+
+- Leather pieces. Leather items recipes reworked.
+
+- New Reinforced Leather Armor (13 defense points full armor).
+
+- New Ancient Table. Enchant the Lether armor and Wood/Stone tools.
+
+- New items and blocks: Barks, cellulose pulp, flint and bone daggers, firewood ember, nests and more.
+
+- Greater spawn rate of basic animals (Cows, sheeps, chiken, horses, pigs).
+
+BONUS: TEXTURE COMPATIBLE WITH ACTIONS AND STUFF.
+
+1. LEATHER
+
+Use the leather to divide it into pieces.
+
+You can attach the leather pieces to recover the leather.
+
+You now only need x3 leather for a full set of armor. And you still have some pieces left over.
+
+All leather uses have been reworked. (Custom recipes will replace vanilla ones).
+
+Use the leather pieces to create leather strings
+
+You can also get leather strips by cooking rotten meat.
+
+The uses of the leather pieces are similar those vanilla recipes.
+
+2. REINFORCED LEATHER ARMOR
+
+New armor recipes.
+
+3. Ancient Table.
+
+Improves game progression and provides advantages for crafting leather and wood gear early in the game with this new block.
+
+To interact correctly with the ancient table you must click in the middle of the upper face of the block, where the paper is. Selecting another face will not work.
+
+Ancient Table recipe. You can use any type of log and coal.
+
+The table works as a trading system, you only need two items to produce a new, enchanted one.
+
+As a balance, the enchantments the Ancient Table offers for wooden tools are far superior compared to the enchantments for stone tools.
+
+TIP: You can break the table and put it back to change the enchantments.
+
+4. NEW ITEMS AND BLOCKS
+
+Cellulose pulp. This item is useful for obtaining paper in places where there is no sugarcane.
+
+Use any type of debarked log and water in a bucket or bottles.
+
+Alternatively, you can also use seaweed, bark, and bone meal.
+
+Firewood ember. This item will help you make torches or campfires without using coal.
+
+2 new weapons. Bone dagger and flint dagger.
+
+The bone dagger has a high damage of +10 but a durability of 2. Yes, you only have 2 hits. So you'll need more than one to fight enemies. Flint dagger has a high damage of +12 and a durability of 6.
+
+New blocks. In the overworld you will find nests with 0-3 eggs.
+
+BONUS: ALL TEXTURES REWORKED TO A&S SIMILAR TEXTURES. I MADE 2 ADDONS, (ACTION SURVIVAL VANILLA TEXTURES AND ACTION SURVIVAL A&S TEXTURES).

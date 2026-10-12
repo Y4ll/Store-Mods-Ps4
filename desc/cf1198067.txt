@@ -1,0 +1,52 @@
+FUNCTIONALITY
+
+Chop the center of a mineral, stone, or some other hard material and watch how all the surrounding blocks in a 3x3 area will break!
+
+CHARACTERISTICS
+
+The hammers are based on vanilla pickaxes, that is, they will only be able to crush the materials that these pickaxes can break, for example, the wooden hammer will not be able to break the diamond.
+Hammers work correctly with the Fortune, Silk Touch and Unbreaking enchantments!
+
+CRAFTS
+
+Hammer crafts are based on the crafting of vanilla minecraft tools, obviously with the exception of emerald and amethyst hammers, which do not have vanilla tools for these minerals.
+
+COMPATIBILITY
+
+This addon is completely compatible with other addons and does NOT use experimental features!
+
+- Compatible with achievements.
+
+- No experimental features required.
+
+- Works in survival and creative modes.
+
+- Multiplayer compatible (server mode included).
+
+- May work with custom ores.
+
+ALL MY LINKS
+
+Join my Discord community, subscribe to my YouTube channel, and Buy me a coffee to continue supporting my projects!
+
+You won't regret it!!!
+
+INSTALLATION PROCESS & SUPPORT
+
+Correct installation process:
+
+- Download both files, the behavior pack [BP] and the resource pack [RP] (If you only download one of the two .mcpack files, the add-on may not work properly).
+
+- Import both files into Minecraft Bedrock. One at a time.
+
+- Activate the add-on in an old or new world. When you activate one of the two, the other will automatically activate. For example: if you activate [RP] -> [BP] will automatically activate.
+
+- Enjoy :)
+
+If you encounter any issues or have questions:
+
+- Join the Discord server for quick support.
+
+- Report bugs in the section intended with detailed information.
+
+- Share your suggestions for future updates.

@@ -1,0 +1,97 @@
+Infection Gaze Gloom [IGG] by MeBesm V3.1
+
+A dark, thrilling infection spreads across your Minecraft world. Are you ready to survive?
+
+You can support me with money on PayPal. I will be very grateful.
+
+*Support Me* - https://paypal.me/MeBesm
+
+Infection Gaze Gloom (IGG) is a brand-new horror-inspired addon for Minecraft Bedrock Edition where infection is more than just a mechanic its a living, mutating force. Prepare to face terrifying mutated mobs, corrupted blocks, and a boss fight like no other.
+
+Biome: inspection_gloom
+
+The core of the new biome is its unique soil and grass everything looks dark, eerie, and creepy.
+
+Inside the biome, there are 10 decorative structures that perfectly match the infected atmosphere.
+
+Daytime Mobs
+
+Human attacks with claws.
+
+Humanoid crawls and hits anything in its way.
+
+Lure Mimic disguises itself as a diamond, but when you try to grab it boom, a creepy monster appears (Among Us?.. ).
+After defeating it, theres a chance youll get a real diamond.
+
+Nighttime Mobs
+
+Weird a walking nightmare. Kills anything that moves.
+
+Viewer hunts down all other mobs around.
+
+Gnarled Guardian -It has a huge monster mouth instead of a hand, which it uses to kill everything that moves.
+
+Torn Maw - It has a torn body and head, with a mouth inside. Super creepy, disgusting creature.
+
+Ruins with Loot
+
+Simple Ruins two types: one with regular loot, the other with better loot. Above the chests, Defender mobs spawn to guard them.
+
+Advanced Ruins guarded by Keepers. Inside the chest youll find a Gloom Shard, which can be crafted into a Gloom Ingot.
+
+This ingot lets you upgrade Netherite armor giving you a new version with more HP and positive effects.
+
+Boss Structure
+
+Made from new bricks (one type has eyes on them).
+Inside youll find mazes, loot chests, and tons of Broken mobs. When they die, they break into living body parts... and later, bugs!
+
+But the main highlight the boss Gaze!
+
+Phase 1: Basic attacks, not too much HP.
+
+Phase 2: Bone arms, lots of HP, heavy damage.
+
+Drops:
+Gazes Head decorative.
+Bone Spikes deal 12 damage, and youll need them in the future against the Infection.
+
+Core Features
+
+The Gaze Gloom Infection System
+
+The horror begins with The Nesta grotesque, pulsating entity that spawns naturally in the world. This is the heart of the infection, constantly spreading its influence.
+
+- Spreading Corruption: The Nest slowly converts surrounding blocks into a terrifying new biome, creating Gloom Blocks, flickering Catalysts, sticky Gloom Carpets, and twitching Gloom Sprouts.
+
+- The Infectors: The true vectors of the plague are the nimble Cockroaches and mutated Bats. When a Nest is damaged, it unleashes a swarm of these creatures. A single attack from them is enough to permanently transform any vulnerable mob into an Infected monstrosity.
+
+- Chain Reaction: Many infected creatures, upon death, spawn more Cockroaches, creating a devastating chain reaction that can quickly overwhelm an entire region, lives 30 seconds.
+
+The Spoils of Horror
+
+Defeating these nightmares yields gruesome but essential rewards.
+
+- Heart of Gloom: A rare drop from The Nest. This pulsating organ is the key ingredient for the most powerful items and the summoning of the final boss.
+
+- Gloom Clot: A foul, sticky substance dropped by infected creatures, used in various crafting recipes.
+
+Feedback & Future Updates
+
+This is just the beginning. The infection will continue to evolve. Leave a comment with your feedback, bug reports, or suggestions! Which mob should be infected next? More creatures, terrifying structures, new mechanics, and even more bosses are planned for future versions.
+
+Socials
+
+Discord: https://discord.gg/f5SHj32uAj
+
+YouTube: https://www.youtube.com/@MeBesm
+
+Telegram: https://t.me/BESM_FAMILY
+
+The Infected Bestiary
+
+Over 40 creatures have succumbed to the Gaze Gloom, each with new models, animations, sounds, and terrifying abilities.
+
+Overworld Horrors
+
+- Cow: A walking corpse whose body tears apart as it moves, spawnin

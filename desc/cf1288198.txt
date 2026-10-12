@@ -1,0 +1,25 @@
+A lightweight and vanilla-friendly Minecraft addon inspired by the anime Bleach. It introduces 4 unique Zanpakuto swords, each with special abilities, 3 enemy types, and a powerful boss. Designed to feel balanced within the base game while adding a touch of anime combat and atmosphere.
+
+- Mobs : The mod has 3 enemies that spawn naturally in the world: two different Hollows and a Hollow soldier (Exequias), each with their own drops.
+
+- Weapons : The addon includes a total of 6 Zanpakuto: one standard for Shinigami, one for Hollows, and 4 with special powers (Ryujin Jakka, Zangetsu, Senbonzakura, and Sode no Shirayuki), each with abilities based on their Shikai. Currently, the addon only includes Shikai forms from the anime.
+
+- Boss: It also includes a boss (which currently has no drops) that is summoned when creating a "garganta." The boss has a ranged attack called "Cero" to make the battle more fun.
+
+gallery:
+
+-
+
+Does not require player.json
+
+-
+
+Does not require creator features
+
+THE ADDON IS IN DEVELOPMENT, THIS IS MY FIRST ADDON, PLEASE REPORT ANY BUGS, AND ANY IDEAS OR FEEDBACK ARE WELCOME.
+
+You are not allowed to change any code in this add-on without my permission.
+
+Installation
+
+go to the link and download the file

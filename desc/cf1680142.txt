@@ -1,0 +1,25 @@
+This is and Addon that will add creatures to your world.
+
+Some of them try to kill you, some don't...
+
+Entities
+
+-Sun Stalker: spawns anytime anywhere any day
+
+-Night Stalker: an entity that spawns at night
+
+-The Hunter: an entity that spawns every 5 days and wants to kill you
+
+-Window stalker: and entity that spawns every 4 days outside your windows
+
+-The Visitor: an entity that spawns every 6 days outside your door
+
+-Cave Stalker: an entity that spawns in caves
+
+-Bed stalker: an entity that watches you sleep
+
+-Ender Stalker: an entity that spawns in the end dimension
+
+-The wanderers: entities that are harmless but spawn anytime any day anywhere
+
+If there are some bugs please tell me so I can fix them.

@@ -1,0 +1,1 @@
+The default flying speed of a ridden Happy Ghast is too slow. Raise the speed so it's even faster than creative mode flying, but not so fast that it becomes unmanageable.

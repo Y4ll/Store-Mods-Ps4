@@ -1,0 +1,173 @@
+Farmer's Delight Bedrock (Unofficial Port)
+
+Want to play with your friends? Add-ons do not work very well in Realms..., so why not rent a server from Bisect Hosting? Use my code 'Pupy200mine' to get 25% offit also supports me, and I really appreciate it!
+
+(Click Here!)
+
+If you want to know how to create the server with addons I recommend you to see these instructions:
+
+How to include add-ons in your server
+
+Yes, this add-on works with the latest version of the game, and it should continue to do so, theres no need to enable any experimental options.
+
+Farmers Delight Add-on Adds new crops & a wide variety of food, plus an interactive cooking system, with a functional cooking pot & cutting board
+
+More things will be added in future updates!
+
+This is an unofficial port of the mod "Farmer's Delight" made by Vectorwing
+
+You may be interested in:
+
+Made by me (Pupy200mine):
+
+Nether's Delight Bedrock (Unofficial Port)
+
+End's Delight Bedrock (Unofficial Port)
+
+Made by Maxis-Shellgryphon (It may be out of date):
+
+Crabber's Delight Bedrock (Unofficial port)
+
+Brewin' And Chewin' Bedrock (Unofficial port)
+
+Sunflower Delight Bedrock (Unofficial port)
+
+Large Meals Bedrock (Unofficial port)
+
+Spanish Delight (Unofficial port)
+
+================================================
+
+Mod License/Port Permission:
+
+The mod is under the MIT license & contains the following:
+
+"Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software..."
+
+What allows me to make this port
+
+And that means, this Add-on is also under the MIT license.
+
+================================================
+
+Thank you very much ZhyuRo - Kun for making the site look nice, he also makes very good add-ons, you can see his add-ons here
+
+Foods:
+
+These are the foods added by this addon...
+
+How to get ham? kill a pig with a knife.
+
+Sorry pig... it was for science
+
+Feast Foods:
+
+Share with your friends a slice of pie, maybe a chicken... or maybe all to yourself? :I
+
+================================================
+
+Rich Soil
+
+With this block your crops will grow faster! but to achieve this you will first need to create organic compost.
+
+Place it in the ground and it will slowly turn into rich soil.
+
+To make tree bark you need to place a log on a cutting board and cut it with an axe.
+
+Mushroom colony
+
+With this new function you can now have a mushroom farm.
+
+If anyone would want to do it....
+
+anyway, to make it work you must have rich soil, and place the mushroom on top, it will grow like any other plant.
+
+Crops:
+
+With these crops you will be able to create new foods!
+
+This Add-on adds 4 New Crops:
+
+- Cabbage
+
+- Onion
+
+- Tomatoes
+
+- Rice
+
+These crops are Scattered all over the world:
+
+Cabbage & Beetroot
+
+Found mainly on the Beach & occasionally in River
+
+Potato
+
+Found in Oak, Birch & Dark oak forests
+
+Carrot & Onion
+
+Found in Plains
+
+Wild Tomato
+
+Found in the Savanna
+
+Wild Rice
+
+Found in Jungle & Swamps
+
+================================================
+
+[NEW] Rope
+
+You can climb it just like a ladder
+If you place it above a tomato plant, tomatoes will grow onto the Rope
+
+Safety Net
+
+Works similar to a slime block, it protects you from any type of fall
+
+================================================
+
+Cutting
+
+It's necessary to cut different foods on a cutting board
+
+Cutting board recipes:
+
+knife:
+
+Axe:
+
+Pickaxe:
+
+Shear:
+
+Shovel:
+
+But for this you need a knife!
+
+Knives:
+
+They are Very easy to make...
+
+You just need a Stick & respective Minerals (Flint, iron, gold, diamond & netherite)
+
+But be careful!
+
+Using it will damage the tool by 1 point, use it with care!
+
+================================================
+
+Cooking:
+
+First, you need these 2 blocks:
+
+Stove
+
+Cooking Pot
+
+Place the Cooking Pot on top of the Stove, like this:
+

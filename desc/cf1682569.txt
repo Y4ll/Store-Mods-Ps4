@@ -1,0 +1,19 @@
+Adds smooth animations to vanilla doors, making them feel more natural when opening and closing. Instead of instantly switching between their open and closed states, doors smoothly transition between the two, giving your Minecraft world a more polished and immersive feel while keeping the original vanilla door design and functionality.
+
+Features:
+
+- Doors smoothly animate when opening instead of instantly changing state.
+
+- Smooth closing animation. Doors smoothly transition back to their closed state.
+
+- Keeps the vanilla door textures and appearance
+
+- Works with vanilla Minecraft doors while keeping their original appearance and functionality.
+
+Using Additional Texture Packs:
+
+If you want to use a texture pack together with this addon, open SMOOTH DOOR MERGER.
+
+Add both the texture pack and this addon, then click Merge & Download. This will create a new Smooth Door addon that uses the door textures from your texture pack.
+
+NOTE: Only the door textures will be adjusted. You still need to install the original texture pack in your world, and make sure the Smooth Door resource pack is placed at the top of the pack list to avoid duplicate models.

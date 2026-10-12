@@ -1,0 +1,44 @@
+Whatever you do in one chunk gets mirrored to the others!
+
+Place one block. Every chunk in the world places it too. Break a tree, and it falls in every chunk. Light a nether portal, and the whole world lights up. Blow a crater with TNT, and the same crater appears everywhere, forever, in every direction.
+
+Every change you make repeats across the world every 16 blocks and it never stops. Travel 10,000 blocks and the terrain there is already yours.
+
+Gallery at the end
+
+(If you find any bugs, please report them to us on Discord. We also welcome any suggestions you may have to help us improve the pack!)
+
+Techical informations:
+
+Recommended: set Simulation Distance to 812 in world settings. Minecraft can only place blocks in chunks that are loaded, so a higher setting means more copies appear around you at once. (higher value may lag your phone or device, high-end phones or devices can set to max for better visibility)
+
+Good to know
+
+- Copies in far chunks appear as you travel to them that is the engine's limit, not the pack's. Nothing is lost; it is stamped in the moment the chunk loads.
+
+- Chest contents do not copy. Chests replicate as empty blocks. This is deliberate: syncing inventories across thousands of copies duplicates items.
+
+- Copies never drop items. Only the chunk you are standing in gives you blocks back, so the pack can't be used as an item duplicator.
+
+- Naturally generated chests and structures are never copied only what you place, break or change.
+
+- The pattern remembers the most recent 12,000 changes. Past that the oldest are forgotten.
+
+- Paintings and armour stands are entities, not blocks, so they stay local.
+
+Commands (Cheats must be on.)
+
+Command - What it does
+/scriptevent wce:status How many changes are remembered
+/scriptevent wce:pause Stop copying (build freely)
+/scriptevent wce:resume Start again
+/scriptevent wce:verify Clean up stale records around you
+/scriptevent wce:reset Forget the pattern blocks already placed stay
+
+Gallery
+
+Share me your own images on my discord channel! [click here]
+
+- You are allowed to make video on the pack but give credits in video description.
+
+- You are not allowed to publish the pack on any other website and claim it as yours.

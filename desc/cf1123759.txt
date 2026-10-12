@@ -1,0 +1,27 @@
+Have you enjoyed the Winter Drops spooky features? Experience the eerie Pale Garden right now in the 1.21.40 stable version! Explore a haunting biome where whispers fill the air, nights last longer, and every shadow hides a chilling secret. You dare to take on this scary experience?
+
+The Pale Creaks Add-On: Embrace the Chill Before Anyone Else!
+
+Dive into The Pale Creaks Add-On, your gateway to experiencing the mysterious Winter Drop content before it officially hits Minecraft's stable version. Are you ready to step into a world where cold winds whisper secrets and the darkness hides far more than meets the eye?
+
+What Awaits You:
+
+- The Pale Garden: Where the nights stretch longer, and the moss-covered grounds conceal eerie relics and chilling discoveries. The air is thick with an unsettling quiet, broken only by the occasional errie noise of hanging mosses. The hanging moss holds secrets that only the bravest can uncover. Do you dare to wander through its haunting beauty?
+
+- The Creaking: Every Minecraft player has heard whispers of the Creaking, the latest and most notorious mob that will forever change your nights. At first glance, it appears to be a simple pale oak tree, but turn your back, and everything becomes spine-chilling. The Creaking only moves when unobserved, lurking in the shadows, waiting for the perfect moment to approach. If youre brave enough, you might try to face it with a carved pumpkin on your head, but I wouldnt recommend it...
+
+- New Pale Oak Wood Type: This add-on also introduces some new blocks from the Pale Garden. The unique new pale oak wood variation can be used for crafting and decoration, allowing you to create stunning structures that capture the haunting beauty of the biome. Let your creativity shine as you incorporate this eerie yet elegant wood into your builds!
+
+Get a sneak peek at the chilling adventure that awaits in the Winter Drop! This add-on is perfect for those eager to dive into the unknown and experience game-changing content before the official release.
+
+A very special thanks to @EggInk for doing an excellent job texturing the Creaking just a few hours after Minecraft Live, when nobody had access to the original texture from Mojang. Its almost the same, right? Hes awesome!! Incredible Add-Ons that Egg and I are working on are coming soon!
+
+Features:
+
+- Creaking Heart: Needs to be placed between two aligned pale oak logs and/or its variants to be activated. Creaking Hearts have three states: disabled, dormant, and active. Removing one of these blocks keeps the heart in its dormant state if it hasn't already spawned a creaking. Unlike the block in the preview/snapshots, creaking hearts can be moved by pistons but are destroyed immediately after moved. Creaking hearts are dropped only when mined by a tool enchanted with Silk Touch.
+
+- Creaking: The creaking is naturally spawned by an active creaking heart when at nighttime. A creaking spawns within 16 blocks horizontally and 8 blocks vertically from the creaking heart, and it is linked to the heart. You can easily find the creaking heart a creaking is linked to by hitting the mob, because they emit particles directed to their linked creaking heart when dealt damage! If a creaking moves more than 32 blocks from its heart, it despawns and another creaking will be spawned linked to that creaking heart. Creakings always despawn during daytime. It can also be spawned with a spawn egg or command, not despawning during day and being vulnerable to all types of damage. When a creaking within approximately 12 blocks enters a player's field of vision, it becomes alerted. Alerted creakings require no player to be looking at them to move, and to be within 24 blocks of them to become unalerted.
+
+- Pale Hanging Moss: Emit erie noises randomly while hanging from a pale oak log or pale oak leaves. It drops itself only when mined with shears or a tool enchanted with Silk Touch, otherwise it drops nothing.
+
+- Pale Oak Leaves: Drops itself when mined w

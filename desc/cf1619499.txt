@@ -1,0 +1,33 @@
+Bosya's Selection Box Plus+ V3
+
+Selection Box is a lightweight Bedrock resource pack that adjusts block selection outlines to match their actual visual shapes.
+
+REQUIRED: This pack REQUIRES the Behavior Pack (BP) to work!
+
+DISCLAIMER: The outlines may not be perfectly accurate in all situations. Please make sure to enable "Outline Selection" in your Minecraft Video Settings!
+
+Requirements:
+
+- Minecraft Bedrock v1.21.130+
+
+- Achievement Friendly: Play with your achievements ON! No experiments or Beta APIs required.
+
+Rules & Permissions:
+
+You Are Allowed To:
+
+- Showcase my work in videos/streams if you give proper credit (e.g., link to the official CurseForge page).
+
+- Edit files for personal use only.
+
+You Are Not Allowed To:
+
+- Distribute through monetized links (AdFly, Linkvertise, dll.).
+
+- Re-upload, edit, or re-share my projects on other websites or third-party apps without permission.
+
+- Use direct download links (Mediafire, Google Drive, dll.) when sharing.
+
+CurseForge: bosya's Projects MCPEDL: bosya's Profile
+
+Telegram: @bosya_craft Group TikTok: @b.craft06 Support: Donate on Ko-fi

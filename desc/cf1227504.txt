@@ -1,0 +1,173 @@
+Nico's More Dungeon is add-on introduces new, large dungeons scattered throughout the world. These dungeons are filled with dangerous mobs and valuable loot. Each dungeon features unique rooms and is guarded by a powerful boss roaming within.
+
+(v1.7.4)
+
+NEW UPDATES:
+
+Version: 1.7.4
+
+Version: 1.7.4
+
+NOTE:
+
+- This update only works with Minecraft version 26.30 and higher.
+
+TECHNICAL CHANGES:
+
+- Updated several files to 26.30 version.
+
+- Added structure generation subpack settings:
+
+- Normal Structure Spawn Rates
+
+- Lower Structure Spawn Rates
+
+- Higher Structure Spawn Rates
+
+STRUCTURES:
+
+- Improved dungeon generation.
+
+MOBS:
+
+- Rat:
+
+- Can now also naturally spawn on Overworld surfaces during the daytime.
+
+- Cobbled Deepslate Golem:
+
+- Increased herd size when spawning naturally.
+
+- Cursed Rat:
+
+- Increased spawn rates and herd size.
+
+ITEMS:
+
+- Fixed the Potion of Brute effect level.
+
+Version: 1.7.3
+
+Version: 1.7.3
+
+MOBS:
+
+- Removed the ability for custom mobs to regenerate health while resting. Most of them can already be healed through feeding, giving healing items more usefulness.
+
+- Golden Dandelions now work on baby Rats, preventing them from growing up.
+
+- Cursed Mobs:
+
+- Switched the required item slots for uncursing. The Book of Curses must now be held in the mainhand, while the Cursed Eye must be held in the offhand.
+
+- The Book of Curses now takes durability damage and no longer consumes the Cursed Eye when uncursing a mob.
+
+- Cursed mobs can now also be uncursed using a Curserer Staff in the mainhand and a Book of Curses in the offhand.
+
+- Cursed mobs now drop XP orbs when uncursed.
+
+- Rats:
+
+- Cursed Rats and Giant Rats now have separate identifications.
+
+- Wild Giant Rats can now be cursed by Rat Curserers.
+
+- Improved curse particle effects.
+
+Version: 1.7.2
+
+Version: 1.7.2
+
+NOTE:
+
+- This version may no longer be able to update over older versions.
+
+TECHNICAL CHANGES:
+
+- Changed the UUID to fix importing issues on Realms. (Note: This will prevent the add-on from updating over older versions.)
+
+- Added back the PBR or Vibrant Visuals capabilities.
+
+DUNGEONS:
+
+- Revamped all dungeon structures by adding more chests, vaults, trail spawners, decorated pots, and additional decorative blocks.
+
+- Improved structure generation. Dungeons now generate using jigsaw structures:
+
+- Increased block variety in all dungeons.
+
+- Decorated Pots in dungeons can now contain different types of loot.
+
+- Dungeons can now be located in Creative Mode using the /locate command with the following structure identifiers:
+
+- ntk:deepslate_catacomb
+
+- ntk:piglin_dungeon
+
+- ntk:rats_dungeon
+
+- ntk:shulker_dungeon
+
+- ntk:zombie_dungeon
+
+MOBS:
+
+- Fixed Cobbled Deepslate Golem for not spawn naturally in deepslate underground.
+
+- Rat & Giant Rat:
+
+- Increased the aging time of baby Rats from 25:00 to 1:00:00.
+
+- Reduced the taming chance from 35% to 20%.
+
+ITEMS:
+
+- Magic Staffs and the Piglin War Hammer can now be enchanted with Silk Touch and Efficiency, and can no longer be enchanted with Curse of Binding.
+
+Version: 1.7.1
+
+Version: 1.7.1
+
+NOTE:
+
+- This update only works with Minecraft version 26.0 and higher
+
+MOBS:
+
+- Fixed curse particle effects.
+
+- Brute Zombies:
+
+- Increased max health from 350 to 380.
+
+- Increased the Hunger effect duration on melee attacks from 4:00 to 8:00.
+
+- Elder Golem:
+
+- Increased max health from 480 to 500.
+
+- Can now instantly break Copper Chains, and Copper Lanterns.
+
+- Rat Curserer:
+
+- Fixed the summoned Cursed Rat behavior.
+
+- Increased max health from 300 to 320.
+
+- Cobbled Deepslate Golem:
+
+- Tamed Cobbled Deepslate Golems will no longer drop Emeralds on death.
+
+- Giant Rat:
+
+- Increased the max health of tamed Giant Rats from 24 to 30.
+
+ITEMS:
+
+- Fixed a bug where some custom projectiles would turn into obtainable arrows when released.
+
+- Fixed the Curse Magic Missile offset.
+
+- Fixed the Piglin Fire Staff missile impact particle.
+
+- Increased the Book of Curses enhancement for the Curserer Staff; it now adds +2 p

@@ -1,0 +1,23 @@
+Tired of carrying hundreds of torches or dealing with the annoying green potion tint and particles just to see in the dark? Then this addon is perfect for you! It gives you a permanent, clean Full Bright effect that lets you see everything as if it were daylight, even in the deepest caverns.
+
+And the best part? It is Achievements Friendly! You can play in your survival worlds and continue earning achievements without any issues.
+
+BEFORE VS AFTER COMPARING:
+
+BEFORE:
+
+AFTER:
+
+KEY FEATURES:
+Achievements Compatible: Built using Mojang's modern addon metadata, allowing player achievements to remain active in survival.
+No Green Tint or Particles: Removes the green fog and swirling potion particles, giving you a crystal-clear vanilla screen.
+Perfect Daylight Simulation: Underground caves, ravines, and night landscapes are fully lit up like daytime.
+Highly Optimized: Pure behavior scripting that does not cause lag or affect game performance.
+
+If you want to share the addon, be sure to send the MCPEDL or CURSEFORGE addon link.
+You can also find this content on the official ADDONS UNIVERSE App!
+Remember, this content is strictly exclusive to these 3 platforms.
+
+Thanks and have fun! :D
+
+|- Download Other Incredible Addons: HERE -|

@@ -1,0 +1,2 @@
+This addon replaces the default Totem of Undying with a funny cat image of a kitten biting a wire. When held in your hand or offhand, it functions exactly like a normal Totem of Undying saving you from death and restoring some health.
+Perfect for cat lovers and meme fans!

@@ -1,0 +1,13 @@
+This is a reloaded version of Zombie Crisis. Can you survive a world full of Zombie Viruses? Embrace yourself for the apocalypse!
+
+Please don't republish this add-on to other websites like klpbbs.
+
+,:klpbbs
+
+If youre on PC and cant download the mod. Try to Extract everything, select the files (both behaviour pack and resource pack), right-click, and compress them into a new ZIP. Rename the new file back to .mcaddon and try importing again.
+
+If still doesnt work. Try to download it on a mobile device since it works for mobile somehow.
+
+Here are Few Pictures of the Add-on
+
+Be ware of the self exploding zombies! They will hold Redstone torches.

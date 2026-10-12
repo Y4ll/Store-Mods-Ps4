@@ -1,0 +1,64 @@
+Please subscribe to the channel for future development!Subscribe to the YouTube channel
+
+Please use this form for bug reports, update requests, and feature suggestions.
+https://docs.google.com/forms/d/e/1FAIpQLSesBt2y9EJ0saXTYVAdFEKeMeDETeiFerzpOA80VsRuifYaiQ/viewform
+
+Features & Abilities
+
+Equip specific items and trigger actions by using them (Right-Click/Long Press) or sneaking (Shift) in specific situations.
+
+Ground & Parkour Actions
+
+Ledge Grab / Mantling (NEW!): Falling just short of a block? Sneak while near the upper edge of a block to smoothly pull yourself up! Perfect for saving those near-miss jumps.
+
+Sliding (NEW!): Sneak while sprinting on the ground to perform a fast forward slide! You can even seamlessly slide through 1-block high gaps. Complete with custom camera FOV effects, friction sounds, and horizontal sliding animations!
+
+Wall Jump: Sneak while falling next to a wall to kick off it and jump in the opposite direction.
+
+Aerial Actions
+
+Double Jump (Item: Ghast Tear): Use the item while in mid-air to perform a second jump.
+
+Air Dash (Sneak in mid-air): Sneak while falling to violently dash forward in the direction you are looking.
+
+Glide / Hover (NEW!) (Item: Phantom Membrane): Use in mid-air to catch the wind! Grants you a forward boost and temporary slow-falling to safely cross massive gaps.
+
+Tactical Actions
+
+Grappling Hook (Item: Fishing Rod / Tripwire Hook): Shoot a hook at any block within range and pull yourself toward it like a ninja! (Works flawlessly in survival without accidentally placing blocks!)
+
+Blink / Teleport (Item: Amethyst Shard): Instantly teleport a short distance forward.
+
+How to Get Items & Commands (NEW!)
+
+We've completely overhauled how you get your action items. You no longer need cheats enabled!
+
+Just type the following native custom command in the chat:
+
+/ma:get all - Gives you all ability items and the Settings Book.
+
+/ma:get jump - Gives only the Double Jump item.
+
+/ma:get grapple - Gives only the Grappling Hook item.
+
+/ma:get glide - Gives only the Glide item.
+
+(Note: The legacy !get_actions chat trigger still works for older players!)
+
+Fully Customizable (The Settings Book)
+
+Use the Action Settings (Book) to open an intuitive UI menu. Every single action can be customized to your liking!
+
+Toggle specific actions ON or OFF.
+
+Adjust Cooldown times (in seconds).
+
+Adjust Strength / Distance.
+
+Toggle whether using the ability consumes the item.
+
+Global Fall Damage Toggle (NEW!): Easily enable or disable fall damage prevention globally for all aerial actions (Double Jump, Grapple, Air Dash, Glide) with a single click!
+
+Requirements
+
+Since this addon uses the latest script APIs for smooth physics and custom commands, please ensure the following Experiments are turned ON in your world settings:Beta APIs

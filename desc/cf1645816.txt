@@ -1,0 +1,99 @@
+A Minecrafty Weapons Add-On featuring modern and classic guns, realistic ammunition, balanced crafting recipes, animated reloads, and juicy gameplay!
+
+Magnum
+
+Is a powerful six-shot revolver built for heavy damage and precise shots.
+
+- Damage: High
+
+- Fire Rate: Slow
+
+- Accuracy: High
+
+- Range: Long
+
+- Recoil: High
+
+- Magazine Size: 6
+
+- Reload Speed: Medium-Slow
+
+- Ammo Type: .357 Magnum Bullets
+
+M9
+
+M9 is a reliable semi-automatic pistol designed for balanced combat.
+
+- Damage: Medium
+
+- Fire Rate: Fast
+
+- Accuracy: Good
+
+- Range: Medium
+
+- Recoil: Low-Medium
+
+- Magazine Size: 12
+
+- Reload Speed: Fast
+
+- Ammo Type: 9mm Bullets
+
+TMP
+
+TMP is a lightweight submachine gun built for aggressive close-range combat.
+
+- Damage: Low-Medium
+
+- Fire Rate: Very Fast
+
+- Accuracy: Medium
+
+- Range: Short-Medium
+
+- Recoil: Medium
+
+- Magazine Size: 30
+
+- Reload Speed: Fast
+
+- Ammo Type: 9mm Bullets
+
+Sowed Off
+
+Sawed Off is a compact double-barrel shotgun built for devastating close-range damage.
+
+- Damage: Very High
+
+- Fire Rate: Very Slow
+
+- Accuracy: Low
+
+- Range: Short
+
+- Recoil: Very High
+
+- Magazine Size: 2
+
+- Reload Speed: Slow
+
+- Ammo Type: 12 Gauge Shells
+
+9mm Bullets
+
+A balanced and versatile ammunition type designed for fast handling, steady performance, and reliable combat at short to medium range.
+
+.357 Magnum Bullets
+
+A powerful heavy-caliber ammunition type built for high impact, strong penetration feel, and precise hard-hitting shots
+
+12 Gauge Shells
+
+A close-range ammunition type loaded for devastating spread damage, delivering massive stopping power with limited effectiveness at longer distances.
+
+The Weapon Workbench is a dedicated crafting station used to create firearms and ammunition through a simple custom interface. Players can choose between weapon and ammo categories, view the required materials for each recipe, and craft items directly from the menu.
+
+Downloads at TRMC Add-Ons
+
+- Download Simple Guns.mcaddon

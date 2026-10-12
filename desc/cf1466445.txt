@@ -1,0 +1,91 @@
+Transformers: Optimus Prime Action Figure Addon
+
+Bring the legendary leader of the Autobots into your Minecraft world! This is a fully functional, transforming Optimus Prime Action Figure thats ready for display.
+
+Depicted as the noble and brave commander of the Autobots, you can now own this iconic leader as a high-quality action figure in your blocky world!
+
+Trailer
+
+Cool Features
+
+- Authentic Transformation : Seamlessly switch this action figure between its powerful Robot Form and iconic Truck Form.
+
+- Detailed Handheld Figure : Hold the Optimus Prime Coin and see a detailed action figure right in your hand!
+
+- Epic Sound Effects : Features those classic transformation sounds for ultimate immersion.
+
+- Survival Ready : No need for Creative mode. Craft him, spawn him, and complete your collection.
+
+- Drop System : If the figure dies, it will drop the Optimus Prime Coin so you can spawn it back anytime!
+
+How to Use
+
+1. Summon & Transform
+
+- Deployment: Use the Optimus Prime Coin on the ground. The figure will spawn and immediately transform into its Truck Form.
+
+Instant Truck Form display upon spawning.
+
+- Robot Mode: Want to see it stand tall? Just interact with the truck to trigger the transformation into Robot Form.
+
+Interact to switch forms.
+
+2. Drop System (Never Lose Your Item!)
+
+Don't worry about your figure. If it dies, it will drop the Optimus Prime Coin so you can pick it up and use it again!
+
+On death, the coin drops back for you to collect.
+
+3. Holding the Figure
+
+Check out the detail! The Optimus Prime Coin displays the actual action figure in your hand.
+
+First Person View.
+
+Third Person View.
+
+Crafting Recipe (Survival)
+
+Forget hunting for Energon! You can build your own action figure with basic materials in a Crafting Table.
+
+The Recipe
+
+- 3x Red Wool
+
+- 3x Blue Wool
+
+- 2x Sticks
+
+The Result
+
+After crafting, you will receive the Optimus Prime Coin. It looks like this:
+
+The Optimus Prime Coin (Spawn Egg).
+
+Technical Deets
+
+Built for stability and ease of use, right out of the box.
+
+- Plug & Play: No "Experimental Toggles" required!
+
+- Universal Compatibility: Works perfectly on Singleplayer, Multiplayer, Realms, and Dedicated Servers.
+
+Quick Install
+
+- Grab the .mcaddon file.
+
+- Open it, and Minecraft does the rest.
+
+- Enable Behavior + Resource Packs in your world settings.
+
+- Autobots, roll out!
+
+License & Credits
+
+Creator: Papa Alsa | YouTube @alsahonggo
+
+Licensed under CC BY-ND 4.0.
+
+Permission: Modifications and reuploads are strictly prohibited. Don't be that guy who steals other people's work.
+
+"Autobots, roll out! The time has come to lead your world."

@@ -1,0 +1,103 @@
+Add-on Overview
+
+Limitations: New maces can only have the Unbreaking and Mending enchantments due to technical limitations.
+
+New! Heavy Cores
+
+Required to craft the new maces and also a great decoration
+
+Wooden Mace
+
+Damage: 2
+Durability: 60
+
+Stone Mace
+
+Damage: 3
+Durability: 130
+
+Iron Mace
+
+Damage: 4
+Durability: 250
+
+Diamond Mace
+
+Damage: 5
+Durability: 1560
+
+Netherite Mace
+
+Inflicts area damage.
+
+Damage: 7
+Durability: 2030
+
+Copper Mace
+
+During thunder storms strikes lightning.
+
+Damage: 6 (the more oxidized less damage)
+Durability: 120
+
+Golden Mace
+
+Grants Absorption for a few seconds and summons the Evoker Attack.
+
+Damage: 3
+Durability: 250
+
+Sculk Mace
+
+Unleashes a sonic area attack.
+
+Damage: 3
+Durability: 400
+
+Prismarine Mace
+
+Creates a bubble that pushes and damage mobs around.
+
+Damage: 4
+Durability: 600
+
+Honey Mace
+
+Immobilizes nearby mobs for a few seconds and heals a percentage of the damage dealt.
+
+Damage: 3
+Durability: 500
+
+Blaze Mace
+
+Burns nearby mobs and grants Fire Resistance for a few seconds.
+
+Damage: 3
+Durability: 250
+
+Wither Mace
+
+Creates an explosion proportional to the damage dealt (max radius 15) and applies Wither to nearby mobs.
+
+Damage: 3
+Durability: 500
+
+Shulker Mace
+
+Nearby mobs levitate quite high for a short period.
+
+Damage: 3
+Durability: 700
+
+This addon is now compatible with Actions & Stuff!! IMPORTANT!
+This resource pack has 2 modes:
+
+Compatible with Actions & Stuff (when using it with the addon).
+
+Vanilla Minecraft (default mode).
+
+Go to Resource Pack settings and choose the mode based on whether Actions & Stuff is installed.
+
+RESOURCES PACKS AND BEHARVIORS PACKS NEEDED
+
+This addon does not disable achievements

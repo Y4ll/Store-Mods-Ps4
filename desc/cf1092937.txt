@@ -1,0 +1,25 @@
+Hello this was my first add-on made with gametest to be published. This add-on does not use any player.json file so it will work well with other add-ons, however because of this this add-on lacks on animations.
+
+This add-on has 5 different firearms. It does not rely on scoreboard for ammo count so you can have many guns of same type. It can be used in both multiplayer and singleplayer.
+
+To get the add-on you'll need a guns work bench which can be crafted with crafting table, iron ingot and hardened iron follow the crafting bellow
+
+Once you crafted the workbench tap it and choose the gun you want to create.
+
+Make sure that you have enough items on the list to create.
+
+DAMAGE SYSTEM
+
+Another feature of these add-on a custom damaged system. This system removes hit amunity of entity and players. You can turn this off using the guns settings
+
+AVAILABLE GUNS
+
+Ak47
+
+M16
+
+Shotgun
+
+Glock
+
+AWP

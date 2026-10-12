@@ -1,0 +1,27 @@
+Vanilla Ore Outlines
+
+Find ores at a glance while keeping the vanilla look. Every ore retains its original 1616 texture in the center. A crisp, color-matched outline makes each block easy to spot.
+
+Overworld
+Coal Iron Copper Gold
+Redstone Lapis Diamond Emerald
+Deepslate
+All eight matching ore variants
+Nether
+Nether Gold Nether Quartz
+Ancient Debris Gilded Blackstone
+
+Original ore centers
+Bright, clear borders
+Vanilla 1616 style
+
+Resource pack only
+No scripts or commands
+No gameplay changes
+
+Install
+
+Open the .mcpack file in Minecraft Bedrock, then activate Vanilla Ore Outlines by Baku in your world's Resource Packs.
+
+Creator & pack credits: Baku
+Outline design, pack icon & presentation: Baku

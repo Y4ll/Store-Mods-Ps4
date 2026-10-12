@@ -1,0 +1,27 @@
+This is a powerful time-lapse recording tool for Minecraft Bedrock.
+
+In addition to player tracking, this tool allows for smooth movement and minimizes blur as much as possible.
+
+While it's easy to create time-lapse recordings by simply tracking players, this tool allows for smooth tracking, jumping, and precise movements during building without blur.
+
+Finally, the era of time-lapse recording has come to Minecraft Bedrock!
+
+Tracking feature
+
+You can smoothly switch between recording targets during recording.
+
+Smooth movement
+
+With finely adjusted easing function, you can smoothly change speed and achieve perfect smooth movement.
+
+Blur reduction
+
+It minimizes blur caused by close-distance movements or jumps, reducing the impact on video quality.
+
+Download now and create the best videos!
+
+Please refer to the official addon page on the website for instructions on how to use.
+
+In the case of the new CurseForge, the links may not function properly. If that happens, please copy the link below and navigate to it directly.
+
+https://www.plusblockgames.net/all-packs/add-ons/pbg-cinema-video-pro/

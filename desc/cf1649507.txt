@@ -1,0 +1,123 @@
+# CurseForge description CobbleDrock Spawn Alerts
+
+---
+
+## Summary field (short, paste into "Summary")
+
+Server-wide spawn alerts for CobbleDrock: Legendary, Mythical, Ultra Beast, Paradox, Rare and Shiny Pokemon are announced to every player with species, level, IVs, nature, ability, biome and coordinates.
+
+---
+
+## Full description (paste into "Description", Markdown supported)
+
+# CobbleDrock Spawn Alerts
+
+Server-wide spawn notifications for **Minecraft Bedrock Edition**, built for the CobbleDrock ecosystem.
+
+CobbleDrock Spawn Alerts watches wild Pokemon spawns and announces the ones that matter to **every player on the world** at the same time: Legendary, Mythical, Ultra Beast, Paradox, Rare species and Shinies. Then it tells everyone what happened to it caught, defeated or gone.
+
+Never miss the Legendary that spawned two biomes away again.
+
+---
+
+## Highlights
+
+* **Server-wide, not local** the alert goes to every player, with the coordinates, dimension, biome and the name and distance of the nearest player.
+
+* **Rich details** species, National Dex number, level, all six IVs, nature and ability, each of them individually toggleable.
+
+* **Knows how it ended** when a tracked Pokemon disappears, the addon checks your party and PC boxes and reports `was captured by <player>`, `was defeated` or `has despawned`, so nobody has to ask "did someone get it?".
+
+* **Legendary addon aware** anything carrying the shared `lota:legendary_spawn` tag from **CobbleDrock Legendary Encounters** is always announced, even if the species is not in the built-in rarity table.
+
+* **Configurable in-game** every tier, the sound, the cooldowns and every detail line can be switched on or off and stored per world.
+
+* **Anti-spam built in** a 3 second global cooldown and a 60 second per-species cooldown keep the chat readable.
+
+* **No experimental toggles required** stable script API only. **No Beta APIs experiment needed.**
+
+---
+
+## Requirements
+
+| Addon / component | Version | Notes |
+
+|---|---|---|
+
+| **CobbleDrock Core** | 1.3.0 Fix | **Required.** Provides the Pokemon entities, party data and PC box data this addon reads |
+
+| Minecraft Bedrock Edition | 1.21.120+ | `min_engine_version` of the pack |
+
+| CobbleDrock Legendary Encounters | 1.0.3 | Optional but recommended it already depends on this addon for its notifications |
+
+| Experimental toggles | none | Stable script API only |
+
+> This pack **depends on CobbleDrock Core**, so Core must be installed and active on the world. If it is missing, Minecraft reports a missing dependency instead of loading the pack.
+
+---
+
+## Installation
+
+1. Download CobbleDrock Core and CobbleDrock Spawn Alerts.
+
+2. Open each `.mcaddon` file to import it.
+
+3. Create or edit a world and enable the packs:
+
+* `CobbleDrock Core BP` + `CobbleDrock Core RP`
+
+* `CobbleDrock Spawn Alerts 1.0.2 Fix`
+
+4. Join the world the addon immediately starts tracking spawns. Test it any time with `/scriptevent lota:alerts_test`.
+
+---
+
+## What an alert looks like
+
+```
+
+LEGENDARY ENCOUNTER
+
+A wild Legendary Thundurus (Lv. 64) has appeared!
+
+#642 | IVs (6/27/31/14/7/31) | Nature Naive | Ability Prankster
+
+At (-42, 89, -86) Overworld Plains biome
+
+Nearest: Steve (98m)
+
+```
+
+And when it is resolved:
+
+```
+
+LEGENDARY ENCOUNTER
+
+A Legendary Thundurus has despawned.
+
+(last seen at (-42, 89, -86) in Overworld)
+
+```
+
+A dragon-growl style sound (`mob.enderdragon.growl`) plays for every player with the spawn alert.
+
+---
+
+## What gets announced
+
+| Tier | Examples | Default |
+
+|---|---|---|
+
+| Legendary | Articuno, Zapdos, Mewtwo, Groudon, Rayquaza, Zacian, Terapagos ... | on |
+
+| Mythical | Mew, Celebi, Arceus, Deoxys, Darkrai, Keldeo, Meloetta, Genesect, Shaymin ... | on |
+
+| Ultra Beast | Nihilego, Buzzwole, Pheromosa, Xurkitree, Celesteela, Kartana, Guzzlord ... | on |
+
+| Paradox | Great Tusk, Iron Treads, Roaring Moon, Iron Valiant, Walking Wake ... | on |
+
+| Rare | Dragonite, Tyranitar, Garchomp, Metagross, Salamence, Blissey, Snorlax ... | on |
+
+| Shin

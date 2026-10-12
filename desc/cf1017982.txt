@@ -1,0 +1,11 @@
+Have you ever wanted to pass through walls to create hidden rooms or through floors to set up seamless traps? Then this addon is for you. This addon converts ordinary blocks into ghost blocks, allowing you to pass through them or craft flawless traps with ease.
+
+A ghost block is a block with disabled collision, enabling you to move through it. It uses vanilla textures, ensuring that no one can identify it as anything other than a normal block. This addon is compatible with other texture packs; if you're using one while this addon is active, ghost blocks will adopt the texture of that pack, making them indistinguishable.
+
+To create ghost blocks, first craft the Soul Table, a specialized crafting table used exclusively for converting normal blocks into ghost blocks. To craft it, use 2 soul sand and 4 planks, as shown below.
+
+Using the Soul Table is straightforward; no complicated patterns are required. Simply place any blocks of your choice in any crafting grid, and they will be converted into Ghost Blocks.
+
+You can now use these ghost blocks just like ordinary blocks. Simply place them in your builds, and you're ready to pass through them.
+
+Watch Showcase here:

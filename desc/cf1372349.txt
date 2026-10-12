@@ -1,0 +1,31 @@
+With this add-on, you'll no longer have to waste time breaking ores one by one while mining. With just one swing of your pickaxe, all the surrounding ores will break automatically, saving you precious time and effort while also allowing you to collect valuable items and XP more efficiently.
+
+How to use the Add-On?
+
+Before others arrive, make sure you have enough levels to enchant your pickaxe. Once you do, simply type '/vm:enchant 1 or 2' in the chat to upgrade your pickaxe for even more efficient mining. Then, while holding any type of pickaxe, axe or shovel and crouching, break a single ore block to trigger a chain reaction that will break all the surrounding ore blocks.
+
+Things you have to know:
+
+- The "VeinMiner" will work with all ore types and gravel, sand.
+
+- The "TreeCapitator" will work with all log types even custom ones.
+
+- The VeinMiner & TreeCapitator will not work if you are not crouching.
+
+Preview
+
+Credits to WavePlayz#7915 for helping:
+
+Screenshots of some mineral blocks that I broke, before and after.
+
+Don't forget to sneak and to enchant the item!!
+
+10 Levels needed to
+/vm:enchant 1
+
+OR
+
+20 Levels
+/vm:enchant 2
+
+https://youtu.be/NwAYqhG5QNw

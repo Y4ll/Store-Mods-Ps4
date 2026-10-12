@@ -1,0 +1,34 @@
+Turn any pickaxe into a grid mining machine. Grid Miner lets you mine in a flat NxN grid with a single block break whether you're tunneling walls, clearing floors, or digging ceilings. Adjustable from 1x1 all the way up to 16x16.
+
+Features
+
+- 1x1 to 16x16 grid size set your exact mining grid using a slider in the settings menu
+
+- Face-aware mining automatically mines the correct plane whether you're facing a wall, floor, or ceiling
+
+- Works on any pickaxe enable Grid Miner on the pickaxe you're already holding, no new item needed
+
+- Unbreaking enchant supported durability is correctly reduced accounting for your Unbreaking level
+
+- Sneak to mine normally hold sneak and your pickaxe mines single blocks as usual
+
+- Safe block protection never breaks Bedrock, Barrier, Reinforced Deepslate, Water, or Lava
+
+- No cheats required works fully in survival mode
+
+Commands
+
+- /voxen:gridon enable Grid Miner on your held pickaxe
+
+- /voxen:gridoff disable Grid Miner and restore the pickaxe to normal
+
+- /voxen:gm open the grid size settings menu
+
+How to Use
+
+PC: Hold any pickaxe and type /voxen:gridon in chat to enable. Use /voxen:gm to set your grid size. Right-click to mine normally Grid Miner handles the rest.
+Mobile: Hold any pickaxe and type /voxen:gridon in chat to enable. Use /voxen:gm to set your grid size. Tap to mine as usual.
+
+Achievement Friendly?
+
+Yes fully achievement friendly. Use it without any worries.

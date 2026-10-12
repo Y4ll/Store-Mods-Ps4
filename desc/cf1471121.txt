@@ -1,0 +1,115 @@
+Elevator Addon Camouflage Edition
+
+Experience the most advanced elevator system for Minecraft Bedrock, now with full camouflage mechanics that let you hide elevators inside any block while keeping 100% functionality. Perfect for modern bases, secret builds, and immersive architecture.
+
+Complete Features
+
+Elevator System
+
+16 elevators matching all Minecraft wool colors
+
+Instant vertical teleportation
+
+Custom sound effects & visual feedback
+
+Informative onscreen messages
+
+Camouflage System (NEW)
+
+Camouflage elevators with ANY block: stone, wood, glass, etc.
+
+Smart detection: Jump/Sneak on camouflaged blocks to teleport
+
+Recovery system: Breaking the camouflaged block returns the original elevator
+
+Full functionality preserved even when disguised
+
+Teleportation Mechanics
+
+Jump Teleport upward
+
+Sneak Teleport downward
+
+Works between normal and camouflaged elevators
+
+Crafting
+
+Basic Elevators
+
+Recipe: Colored Wool + Ender Pearl
+
+Shapeless dyeing recipes
+
+Balanced following vanilla crafting patterns
+
+Camouflage System
+
+No crafting required
+
+Use any block to camouflage
+
+Block is consumed during camouflage
+
+Guaranteed recovery of original elevator
+
+Compatibility
+
+Minecraft Bedrock 1.21.60+
+
+Resource Pack included (textures & sounds)
+
+Behavior Pack optimized for performance
+
+Fully multiplayer compatible
+
+Installation
+
+1. Download and extract BP Elevator and RP Elevator
+
+2. Place BP Elevator in behavior_packs
+
+3. Place RP Elevator in resource_packs
+
+4. Enable both packs in world settings
+
+Ideal Uses
+
+Modern Builds
+
+Invisible elevators that blend perfectly
+
+Aesthetic designs without breaking immersion
+
+Full functionality with clean architecture
+
+Special Projects
+
+Skybases with hidden elevators
+
+Secret bunkers with disguised entrances
+
+Luxury mansions with elegant vertical transport
+
+Enhanced Gameplay
+
+Fast vertical movement
+
+No visual disruption
+
+Works with any building style
+
+Why This Addon Is Unique
+
+Exclusive Camouflage System The only addon with fully functional disguised elevators
+
+Universal Compatibility Works with ANY vanilla or custom block
+
+Smart Recovery Never lose your elevator
+
+Optimized Performance Zero lag, clean logic
+
+Perfect Vanilla Integration Feels native to Minecraft
+
+Build smarter, faster, and more beautifully.
+
+Perfect for modern builds, skybases, secret entrances, and any project that needs fast vertical transportation with aesthetic perfection.

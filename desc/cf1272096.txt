@@ -1,0 +1,63 @@
+Optimized Skyboxes by Jelly
+
+Please read the notes (Beautiful Skies=Toggled On)
+
+A clean, aesthetic cubemap/skybox pack for Minecraft Bedrock
+
+Featuring ESO imagery - Credit: ESO/Jose Francisco (josefrancisco.org)
+
+Experience Minecraft with beautifully optimized and seamless space-themed skies
+
+Features
+
+-
+
+Two 6-side cubemap skyboxes with a sleek cosmic theme and more coming soon...
+
+-
+
+Compatible with Bedrock Edition (iOS, MacOS, Windows, Android)
+
+-
+
+Lightweight and optimized: under 1,500kb per skymap perfect for PvP
+
+-
+
+Great for creators, screenshots, and immersive night skies
+
+-
+
+Easily swappable: Settings allows for diiferent skies like "Milkyway" or "Jelly Night"
+
+- Modular Design: Ensures seemless compatibility with other genre texture packs.
+
+Milkyway
+
+Jelly Night
+
+Installation
+
+-
+
+Download the .mcpack file
+
+-
+
+Open it on your Bedrock device (double-click or tap)
+
+-
+
+Minecraft will launch and import the resource pack
+
+-
+
+Enable it in your world or global resources
+
+- Make sure you do not already have any other copies of it in your resource packs folder. You can check in your actual resource packs folder or in minecraft settings in game in storage.
+
+Notes
+
+- This pack changes the sky-visual only
+
+- It needs "Beautiful Skies" TOGGLED ON

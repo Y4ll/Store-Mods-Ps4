@@ -1,0 +1,146 @@
+Hi, I'm Hamleth Arena. I'll be in charge of developing the Ores Plus addon. I accept any questions or suggestions. I'll update the addon again soon...
+
+Ores Plus is a Minecraft Bedrock addon that expands your world with new ores, tools, weapons, armors and food, while keeping a vanilla-friendly style that blends perfectly with the base game.
+
+This addon has been updated to the new Minecraft format; it also doesn't use JSON, so it's compatible with the rest of the addons.
+
+Steel armory
+
+Steel armor set gives you "Resistance II, Slowness II" effect.
+
+Alexandrite armory
+
+Alexandrite can be obtained when killing the ender dragon, this mineral is used to create alexandrite equipment.
+
+Elemental gems and essences
+
+Elemental Essences:
+
+Elemental essences are used to craft elemental gems.
+
+How to get them?:
+
+Amber, cryo, jade, spinel and wither essences can be crafted using the following recipes, requires crafting table:
+
+Infernal, Oceanic, Desertic, End essences & Angelic essences can be obtained when killing; Blazes(5% prob), Elderguardians(100% prob), Guardians(5% prob), Husks(5% prob), Endermans(5% prob), Shulkers(10% prob)& Phantoms(5% prob). Broken gems that also required for the elemetal gems craft can be when killing the same mobs:
+
+Wither: 100% chance
+
+Ender dragon : 100% chance
+
+Elder guaridan : 100% chance
+
+Elemental Armors
+
+They are new armor sets, each with special effects.
+
+To craft any set of elemental armor, you need 1 elemental gem with required type and 1 white diamond armor set.
+-The white diamond is found rarely only between layers -30 to -54
+
+All elemental armors are better than diamond so they will have the following statistics;
+
+Helmet : 4 protection, 814 durability
+
+Chestplate : 9 protection, 1184 durability
+
+Leggings : 7 protection, 1110 durability
+
+Boots : 4 protection, 962 durability
+
+New models for elemental armor!!
+
+-Withe diamond armor
+
+Heillish Armor
+
+Heillish armor set gives you "Speed III, Strength III, Health boost I" effect:
+
+To create it you need "Corrupted Crimtane Ingot":
+
+-To create it you must kill a wither to get 3 of its fragments
+
+-Wither: 100% chance
+
+Angelic Armor
+
+Angelic armor set gives you "Villager Hero III" effect & It allows you to make multiple jumps, up to ten, allowing you to almost fly, but not being able to prevent your fall damage, so be careful when using it. :
+
+-Obtained by killing phantoms to obtain their essence; 35% chance
+
+Oceanic Armor
+
+Oceanic armor set gives you "Conduit Power III" effect
+
+-Obtained by killing guardians & elder guardians to obtain their essence; 5% chance & 100% chance
+
+Infernal Armor
+
+Infernal armor set gives you "Fire Resistance III" effect
+
+-Obtained by killing Blazes to obtain their essence; 5% chance
+
+End Armor
+
+End armor gives you "Slow Falling III" effect
+
+-Obtained by killing Endermens & Shulkers to obtain their essence; 5% chance
+
+Desert Armor
+
+Desert armor set gives you "Speed III" effect:
+
+-Obtained by killing Husks to obtain their essence; 5% chance
+
+Jade Armor
+
+Jade armor set gives you "Speed III" and "Jump Boost V" effects
+
+Spinel Armor
+
+Spinel armor set gives you "Heath boost V" effect
+
+Amber Armor
+
+Amber armor set gives you "Regeneration II" effect:
+
+Cryo Armor
+
+Cryo armor set gives you "Slowness II" effect and powers to create paths of ice in water
+
+Elemental Swords
+
+There are 4 types of elemental swords.
+
+Cryo Sword
+
+Cryo sword have the following characteristics:
+
+- Damage: + 9 Attack Damage
+
+- Power: While hitting the enemy, the "Slowness IV" effect is applied to him for 8 second
+
+- Durability: 2031
+
+- Enchantable: 10 levels
+
+Infernal Sword
+
+Infernal sword have the following characteristics:
+
+- Damage: +9 Attack Damage
+
+- Power: Hitting igniting an enemie
+
+- Durability: 2031
+
+- Enchantable: 10 levels
+
+Wither Sword
+
+Wither sword have the following characteristics:
+
+-The fragments to craft the essence are obtained by killing the wither, it drops 2
+
+- Damage: +9 Attack Damage
+
+- Power: Inflicts the "Wither IV" effect on the enemy by hit 

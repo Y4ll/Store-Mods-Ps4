@@ -1,0 +1,102 @@
+Un-Craftable is an add-on that introduces new crafting recipes for previously uncraftable items and blocks. With this add-on, you can craft items like the totem of undying, saddle, horse armor, saplings, grass blocks, podzol, and even spawn eggs. Additionally, it allows you to create normally unobtainable blocks such as bedrock, mob spawners, end portal frames, and chemistry equipment. You can even craft creative-only blocks like the command block and barrier.
+
+Some Examples:
+
+With this add-on, you can now craft items and blocks that were previously unavailable through crafting. Such as spawn eggs, creative-only blocks, and even the Enchanted Apple, whose recipe has been restored. Note that recipes involving a filled bucket or glass bottle will return the container to you after crafting.
+
+Here are some examples of items and blocks you can craft:
+
+Obsidian
+
+Chainmail Armor
+
+Chainmail armor can be crafted using chains, following the same patterns as other armor types.
+
+Shroomlight
+
+Shroomlights can be crafted using Crimson Fungus, Warped Fungus, or a combination of both.
+
+Dead Bush
+
+Any sapling can be smelted in a furnace to turn into a dead bush.
+
+Ground Cover
+
+Ground cover is now also craftable.
+
+Grass
+
+Tall Grass
+Nether Sprouts
+
+Aquatic Plants
+
+There are also crafting recipes for seagrass and waterlilies. Heres how to craft them:
+
+Seagrass
+
+Water Lily
+
+Skulls/Head
+
+Skulls and heads can now also be crafted, using Steve Head as the primary recipe.
+
+Steve Head
+
+Zombie Head
+
+Spawn Eggs
+
+If mobs drop two different types of loot, they are typically crafted using those specific loot items, with this pattern.
+
+If a mob only drops a single type of loot, it is usually crafted with this pattern.
+
+Sometimes, they can be crafted by combining another spawn egg with another spawn egg, and these recipes are shapeless.
+
+Spawn Zombie + Spawn Pig = Spawn Zombie Pigman
+
+Certain spawn eggs can combine with specific items to create other spawn eggs. Here's an example:
+
+Coal + Spawn Spider = Spawn Cave Spider
+
+Chemistry equipment or Chemistry Tables cannot be crafted and can only be obtained through the creative inventory or via command. Here's how you can obtain them:
+
+Lab Table
+
+Element Constructor
+
+Compount Creator
+
+Material Reducer
+
+Note: You can view all recipes for items and blocks in the recipe book when in survival mode, except for the recipes of blocks that do not exist in the creative inventory. Here are the recipes for those blocks.
+
+Creative Blocks
+
+You can now craft blocks that were previously only obtainable through the use of commands.
+
+Barrier
+
+Structure Block
+
+Structure Void
+
+Allow
+
+Deny
+
+Border Block
+
+End Portal
+
+Jigsaw Block
+
+Command Blocks
+
+Where can you see all recipes?
+
+The recipes provided above are just a few examples. You can find all blocks and items you can craft in your recipe book. Simply toggle off the filter button to view them all.
+
+Afterward, you can click on a specific item to reveal its recipe, just as shown in the picture above.
+
+Watch Showcase Here:

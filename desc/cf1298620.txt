@@ -1,0 +1,151 @@
+Villager Soldier Vanilla Version 7: Labour & Production Force
+
+Looking for a vanilla-friendly add-on that doesnt require any experimental settings to be enabled? Want a simple, clean addon focused on villagers without illager modifications? This is the one. Villager Soldier Vanilla only adds village guard units and essential golems no edits to illagers at all. Fully compatible with any resource pack.
+
+Villager Soldier Vanilla Version 7:
+
+Villager Soldier Vanilla Version 6:
+
+New Villager Free Hanle System:
+
+Villager Free Handle participates in labor and production.
+
+Villager Free Handle will now serve as the labor and production force, with a wage of 1 bread per day. Each day, the villager consumes 1 bread. If no wages are paid for 3 days, the Villager Free Handle will revert to a vanilla villager. To invite a vanilla villager to join the labor market, you must possess a Free Handle Decree and give it to them.
+
+VILLAGER PROFESSION SYSTEM
+
+This Wiki details the skills, crafting recipes, and level-based progression for all 13 villager professions in the Villager Soldier Vanilla Version 7.
+
+Villagers gain XP through work and level up at 100 XP intervals (Level 0 to 5).
+
+BUTCHER
+
+Description: Food specialist. Can cook raw meats, process pumpkin-based foods, and provide rations.
+
+CRAFTING & PROCESSING (Level 0+):
+
+- 1 Wooden Bowl -> 1 Mushroom Stew
+
+- 1 Pumpkin -> 4 Pumpkin Pies
+
+- Raw Meats (Pork, Mutton, Chicken, Rabbit, Beef, Cod, Salmon) -> Cooked versions
+
+- 1 Potato -> 1 Baked Potato
+
+LEVEL REWARDS (Per Work Cycle):
+
+- Level 0: 8 Cookies
+
+- Level 1: 16 Cookies
+
+- Level 2: 16 Cookies + 2 Pumpkin Pies
+
+- Level 3: 16 Cookies + 4 Pumpkin Pies
+
+- Level 4: 18 Cookies + 8 Pumpkin Pies
+
+- Level 5: 20 Cookies + 16 Pumpkin Pies + 50% chance for 1 Cake
+
+CARTOGRAPHER
+
+Description: Navigation expert. Assists in paper production and observation equipment.
+
+CRAFTING & PROCESSING (Level 0+):
+
+- 1 Sugar Cane -> 1 Paper
+
+- 1 Paper -> 1 Writable Paper (fv:paper_writable)
+
+- 2 Copper Ingots -> 1 Spyglass
+
+LEVEL REWARDS (Per Work Cycle):
+
+- Level 0: 4 Paper
+
+- Level 1: 8 Paper + 50% chance for 1 Empty Map
+
+- Level 2: 10 Paper + 50% Map + 30% chance for 2 Glass blocks
+
+- Level 3: 12 Paper + 50% for 2 Maps + 30% chance for 4 Glass blocks
+
+- Level 4: 14 Paper + 8 Glass + 50% for 3 Maps + 20% chance for 1 Compass
+
+- Level 5: 16 Paper + 10 Glass + 50% for 4 Maps + 50% chance for 1 Compass
+
+CLERIC
+
+Description: Master of alchemy. Provides combat support through tipped arrows and potions.
+
+CRAFTING & PROCESSING (Level 0+):
+
+- 1 Arrow -> 1 Random Tipped Arrow (Negative Effect)
+
+- 1 Glass Bottle -> 1 Random Potion (Positive Effect)
+
+LEVEL REWARDS (Per Work Cycle):
+
+- Level 0: 1 Positive Potion
+
+- Level 1: 2 Positive Potions
+
+- Level 2: 3 Positive Potions
+
+- Level 3: 4 Positive Potions
+
+- Level 4: 5 Positive Potions
+
+- Level 5: 6 Positive Potions
+
+FARMER
+
+Description: Agriculture expert. Creates premium golden foods and provides essential harvest.
+
+CRAFTING & PROCESSING (Level 0+):
+
+- 1 Wheat -> 1 Bread
+
+- 1 Carrot + 2 Gold Nuggets -> 1 Golden Carrot
+
+- 1 Apple + 4 Gold Nuggets -> 1 Golden Apple
+
+- 1 Bone -> 6 Bone Meal
+
+LEVEL REWARDS (Per Work Cycle):
+
+- Level 0: 4 Wheat Seeds
+
+- Level 1: 8 Wheat Seeds + 1 Carrot
+
+- Level 2: 8 Wheat Seeds + 2 Carrots + 1 Potato
+
+- Level 3: 4 Apples + 4 Bread
+
+- Level 4: 8 Apples + 6 Bread
+
+- Level 5: 16 Apples + 8 Bread
+
+FISHER
+
+Description: Ocean harvester. Catch quality and enchantment power increase with level.
+
+CATCH CATEGORIES:
+
+- Fish: Cod, Salmon, Pufferfish, Tropical Fish
+
+- Treasures: Nautilus Shell, Name Tag, Saddle (Increases with level)
+
+- Gear: Bow, Fishing Rod, Enchanted Book (Always comes with enchants)
+
+LEVEL PROGRESSION:
+
+- Level 0: 80% Fish / 20% Treasure (Enchant Lv 1-2)
+
+- Level 1: 70% Fish / 30% Treasure (Enchant Lv 1-3)
+
+- Level 2: 60% Fish / 40% Treasure (Enchant Lv 3-5)
+
+- Level 3: 50% Fish / 50% Treasure (Enchant Lv 3-5)
+
+- Level 4: 40% Fish / 60% Treasure (Enchant Lv 3-5)
+
+- Level 5: 30% Fish / 70

@@ -1,0 +1,76 @@
+Youve enchanted tools and armor before...
+Now its time to enchant blocks in Minecraft PE!
+
+With this addon, you can use block enchantments in survival mode while keeping achievements ON.
+
+How to Use:
+
+1. Activate both Behavior Pack and Resource Pack.
+
+2. Craft the Special Enchanting Table using the given recipe.
+
+3. Place the table on the ground and interact with it.
+
+4. Rules:
+
+- If your hand is empty Menu will not open
+
+- If the item cannot be enchanted (eg. Dye) Menu will not open
+
+- Hold a valid block in your main hand Menu will open
+
+There are 10+ unique enchantments
+
+Click any enchantment to:
+
+- View its description
+
+- See required XP levels
+
+- Press Enchant Button to apply it
+
+After enchanting, your block becomes a special enchanted block.
+
+How to Remove Placed Enchanted Blocks
+
+-
+
+Craft a Nullifier.
+
+2. Hold the Nullifier in your hand.
+
+3. Interact with (tap, touch, or right-click) any placed enchanted block using the Nullifier.
+
+3. The enchanted block will be removed instantly without triggering its effects.
+
+This allows you to safely remove enchanted blocks without activating their abilities.
+
+Watch this video for better understanding:
+
+Available Enchantments:
+
+- Detonation: Block explodes when broken and damages the player
+
+- Rich Smelting: Furnace gives 3x output (1 ore =smelt= 3 iron)
+
+- Proximity: Block acts like hidden TNT and explodes when a player comes near
+
+- Unbreakable: Block cannot be broken at all
+
+- Flameguard: Block becomes fireproof (cannot burn)
+
+- Reverse Controls: Breaking the block gives player weird controls
+
+- Blast Amplifier: TNT gets 3x bigger explosion radius
+
+- Warp: Breaking the block teleports player randomly nearby
+
+- Ghost: Walk through blocks (great for secret doors)
+
+- Curse: Breaking the block gives random negative effects
+
+- Blast Protection: Block becomes explosion-proof
+
+For anything questions, collaborations, paid services or just a chat, feel free to reach out:
+Instagram: https://www.instagram.com/dante__gaming?igsh=bml6eDN2dHNlaTk0
+Discord: https://discord.gg/YYSVfGfZBK

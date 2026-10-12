@@ -1,0 +1,115 @@
+About SoundTweaks
+
+SoundTweaks is an immersive, one of high-quality sound enhancement ASMRS made specifically for Minecraft Bedrock Edition. It replaces and improves vanilla sounds to feel more natural, realistic, and atmospheric without hurting performance or changing your core gameplay.
+
+REVAMP: ADJUSTMENTS sounds v4.3.0 CAVES SYSTEMS SOUNDS will NOT possible.
+
+What's Included
+
+Wet Grass Sounds Special step sounds that play automatically when it rains or grass is wet
+
+Enhanced Underwater Ambience New enter/exit sounds, deep loop audio, plus extra details like bubbles, whale calls, and underwater crackles
+
+Improved Block Sounds Wood, stone, cobweb, deepslate, chests, beacons, campfires, brewing stands, barrels, and more with balanced volume & natural pitch variation
+
+Portal & Crossbow Full new audio for Nether portal travel, trigger, and crossbow shooting
+
+Balanced Volume Adjusted levels so sounds are crisp but never too loud or overwhelming
+
+100% Vanilla-Friendly No lag, no extra requirements, works on all Bedrock devices
+
+BLOCK & TERRAIN SOUNDS
+
+Wet Grass Steps Special soft squishy/wet sounds that play automatically when it rains or grass is soaked
+
+Wood Sounds Rebalanced break/hit/place, volume lowered for natural feel
+
+Stone & Deepslate Deeper, richer mining/step/place/break/hit
+
+Cobweb Soft, sticky, realistic step & break audio
+
+Cherry Wood Lighter, softer wood tones
+
+Rooted Dirt Earthy, muted impact
+
+Sweet Berry Bush Gentle rustle
+
+Copper Metallic clink on break/place
+
+Barrel, Chest, Ender Chest Smooth open/close
+
+Composer Block Complete empty/fill/fill_success/ready sequence
+
+Beacon activate/ambient/deactivate/power hum
+
+Blast Furnace & Campfire Warm crackle
+
+Brewing Stand Soft bubbling
+
+Wooden & Cherry Doors Smooth toggle/open/close
+
+MOVEMENT & ACTION
+
+Steps: Glass, Grass, Wet Grass, Gravel, Ladder, Sand, Snow, Stone, Wood, Cloth, Swim
+
+Jumps: Cloth, Grass, Sand, Snow, Stone, Wood, Gravel
+
+Fall/Land: Gravel impact
+
+Digging: Wood, Stone, Wet Grass, Copper
+
+Placing: Copper, Wood, all blocks
+
+AMBIENT & ATMOSPHERE
+
+Full Underwater Suite:
+
+- Enter water
+
+- Exit water
+
+- Continuous underwater loop
+
+- Additions: animal calls, deep whale bass, bubbles, crackles, dark ambience, driplets, earth creaks, water movement
+
+Fire & Campfire Natural crackle layers
+
+Cauldron Soft splash for dye/fill/take actions
+
+Note Blocks Enhanced harp/bass/bd/hat/snare/pling
+
+ITEMS & UTILITIES
+
+Crossbow Full shoot sounds
+
+Shield Block impact
+
+Axe Strip Bark stripping
+
+Bucket Empty/fill water/lava/powder snow
+
+Bundle Insert/remove/drop contents/fail
+
+Elytra Smooth flying loop
+
+Hoe Till Soil turning
+
+Plant & Harvest Crop planting/picking
+
+Shovel Flatten Ground smoothing
+
+PORTALS & MISC
+
+Nether Portal: Portal hum, travel, trigger
+
+Anvil: Break/land/use
+
+Bow & Hit Draw/impact
+
+Eat/Drink/Burp Clearer, less loud
+
+Level Up & Orb Pickup Crisp feedback
+
+Glass Break True shatter sound
+
+Explosion/Fuse/Fizz Balanced volume

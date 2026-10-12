@@ -1,0 +1,39 @@
+Mas Effects [Bedrock Remake]
+
+Mas Effects is a Bedrock Edition remake of the original Java mod, designed to enhance your gameplay with visually appealing particles and immersive effects.
+
+Features
+
+Hitbox Indicator
+
+Displays a dynamic hitbox that turns red when a player enters range, helping improve combat awareness.
+
+Mace Soundwave Effect
+
+Adds a powerful ground impact soundwave when a mace hits, giving attacks more weight and visual feedback.
+
+Critical Particles
+
+Enhances critical hits with a shockwave effect and clean white sparkles around the targets head.
+
+Death Particles
+
+Introduces unique skull particles along with a stylized and slightly goofy death animation.
+
+Ender Pearl Trail
+
+Ender pearls now leave behind smooth particle trails during flight.
+
+Totem Particles
+
+Totems emit star-like particles upon activation, making clutch moments feel more impactful.
+
+Credits
+
+Mace Shockwave by @IzvekhHaruVN
+
+Huge thanks for the original implementation.
+
+If you are only looking for the mace soundwave effect, you can download it here : "Mace mas effects"
+
+HOPE YOU WILL ENJOY THIS :3

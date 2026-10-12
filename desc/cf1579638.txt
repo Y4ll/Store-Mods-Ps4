@@ -1,0 +1,49 @@
+Survival Flashlight
+
+Survival Flashlight adds a simple, craftable flashlight to Minecraft, giving players a portable light source for caves, mines, and dark areas.
+
+Instead of placing torches everywhere, you can carry a flashlight and explore more naturally while keeping the survival feel.
+
+Features
+
+- Craftable in survival
+
+- Portable light source
+
+- Great for caves and mining
+
+- Useful for horror maps and adventure worlds
+
+- Simple and lightweight
+
+Crafting Recipe
+
+The Survival Flashlight can be crafted using:
+
+- 1 Redstone
+
+- 1 Iron Ingot
+
+- 1 Glass
+
+Simple, affordable, and available early in a survival playthrough.
+
+Perfect For
+
+- Survival worlds
+
+- Cave exploration
+
+- Mining trips
+
+- Adventure maps
+
+- Horror maps
+
+- Players who want a more immersive way to explore the dark
+
+Usage Permissions
+
+You are welcome to use Survival Flashlight in your maps, worlds, servers, and projects. Credit to ExpertGamer is required when using this addon in a public release, video, download page, or project.
+
+Please do not reupload, redistribute, or claim this addon as your own.

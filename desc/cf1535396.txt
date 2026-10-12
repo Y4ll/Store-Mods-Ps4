@@ -1,0 +1,23 @@
+Hi everyone Today i am bringing you something absolutely crazy. Look we all know minecraft survival can be really tough sometimes. You come back from work or college, you just want to relax and build a house but suddenly a creeper blows you up from behind and you lose all your enchanted diamond gear. It is super frustrating. Sometimes you dont want to grind for hours just to get basic loot. Sometimes you just want to feel like an absolute god and destroy everything in your path without even trying. That is exactly why I created the RR Baby Mode addon.
+
+This pack is basically the ultimate cheat code for minecraft bedrock. It takes away all the difficulty and makes the game so easy that a literal baby could beat it.
+
+God Mode And Auto Enchanting
+
+The first thing you will notice when you turn this pack on is that you are basically invincible. The script automatically gives you max level resistance, fire resistance, regeneration, and saturation. You literally cannot die to lava, fall damage, or starvation. You also get permanent night vision and water breathing so you dont even need to craft torches or potions ever again. But that was not enough for me. I also added an Auto Enchant feature. When this is turned on, the game automatically applies maximum level enchantments to your gear. You get Sharpness 5, Unbreaking 3, Fortune 3, Protection 4, and Mending without ever placing down an enchanting table. It just forces the enchantments onto your items so you are always overpowered from the very first minute of the game.
+
+Auto Kill And Mob Disarm
+
+If you hate fighting mobs then you are going to love this feature. I coded an Auto Kill aura around the player. You can go into the settings menu and set the kill range anywhere from 3 blocks to 20 blocks. Any hostile mob that walks into this invisible circle will just instantly drop dead. Zombies, creepers, endermen, even wardens just die the second they get close to you. You can literally just walk through a cave and collect the XP and loot as everything dies around you. And just to be extra safe I also added a Mob Disarm feature. Before a skeleton can even shoot an arrow at you or a pillager can load their crossbow, the script literally deletes the weapon right out of their hands. They just walk around looking stupid with empty hands until the auto kill finishes them off.
+
+Auto Smelt And Random Loot
+
+Mining is also completely broken in this pack. I hate placing down furnaces and waiting for coal to smelt my iron. So with the Auto Smelt feature, whenever you break an iron ore, gold ore, or even ancient debris, it instantly drops the fully smelted ingot and gives you the XP directly. It saves so much time. But what about cobblestone? Well I made it so breaking normal cobblestone acts like a lucky block. Whenever you mine stone, it destroys the cobblestone drop and gives you random loot instead. You can get coal, iron, gold, emeralds, diamonds, or even netherite ingots just from breaking regular stone. If you hit a rare drop like diamonds, a special sound plays and the game tells you that you got lucky. You dont even need to find a cave, you can just dig a hole in the dirt and get full netherite gear.
+
+Mob Multiply And Water Safety
+
+I also added some really funny features to make the game hilarious. There is a Mob Multiply setting. If you punch any passive mob like a cow, pig, or chicken, it doesnt take damage. Instead it literally duplicates. You punch one cow and now you have two. You punch them again and now you have four. You can make an infinite food farm in literally ten seconds just by punching animals. And for water exploration I added Water Safety. If you accidentally fall into a river or ocean, the game detects that you touched water and instantly hands you a boat in your inventory and tells you to be safe. It is actually so funny how much the game babies you.
+
+Boss Taunts And The Easter Egg
+
+If you manage to reach the ender dragon or spawn a wither, they will actually try to talk 

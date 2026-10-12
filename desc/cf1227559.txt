@@ -1,0 +1,117 @@
+Explore and survive in a world of wilderness and fantasy. Encounter new mobs on your journey, build your base with new blocks, and discover items to enhance your survival skills!
+
+Forsaken Odyssey is an add-on that enhances your world exploration and survival experience while keeping the Vanilla style intact.
+
+This pack combines 15 of my add-ons and includes exclusive strcutures, mobs, blocks, items, and other more features.
+
+(v1.19.4)
+
+NEW UPDATES:
+
+Version: 1.19.4:
+
+Version: 1.19.4
+
+MOBS:
+
+- Tamed mobs that can attack will now become angry at players who attack them, as long as the attacker is not their owner.
+
+- Brute Zombie:
+
+- Each time it becomes angry, it now grants a 1-minute Strength effect to all Zombies, Drowned, Husks, and Zombie Villagers within a 20-block radius.
+
+- Can now also break Brewing Stands, Buttons, Cakes, Conduits, Dried Ghasts, End Rods, Item Frames, Ladders, Levers, Signs, Pointed Dripstone, Sulfur Spikes, Copper Torches, Redstone Torches, and Redstone Wire.
+
+- Can now broadcast its enemies to the nearby Zombies, Drowned, Husks, and Zombie Villagers.
+
+- Cave Dweller:
+
+- Updated its model and animations to match vanilla animations.
+
+- Can now pick up and use custom spears.
+
+- Cave Wolf:
+
+- Added a new begging animation; Cave Wolves now have two different begging animations.
+
+- Adjusted the baby model and attack animation.
+
+- Clurve:
+
+- Fixed its hunting behavior. Clurves will now stop hunting or tracking mobs while holding food in their mouths.
+
+- Cobbled Deepslate Golem:
+
+- Reduced the distance required for nearby monsters to be considered valid targets by Tamed Cobbled Deepslate Golems.
+
+- Adjusted the collision box; sitting Cobbled Deepslate Golems now have a different collision box than when standing.
+
+- Sitting Cobbled Deepslate Golems are now collidable and can be stacked.
+
+- Increased the attack damage of Tamed Cobbled Deepslate Golems.
+
+- Reduced the amount of XP dropped upon death.
+
+- Cobblestone Golem:
+
+- Reduced the amount of XP dropped upon death.
+
+- Fixed the transformation of Wild Cobblestone Golems into Mossy Cobblestone Golems. The transformation now takes only 12 minutes to complete.
+
+- Fixed a bug where Tamed Cobblestone Golems did not drop loot upon death.
+
+- Reduced the distance required for nearby monsters to be considered valid targets by Tamed Cobblestone Golems.
+
+- Adjusted the collision box; sitting Cobblestone Golems now have a different collision box than when standing.
+
+- Sitting Cobblestone Golems are now collidable and can be stacked.
+
+- Increased the attack damage of Tamed Cobblestone Golems.
+
+- Corrupted Raven:
+
+- Will now also be aggressive toward Axolotls, Endermites, Frogs, Silverfish, Small Amphibians, and Small Arthropods.
+
+- Will no longer be aggressive toward Iron Golems, Snow Golems, Scarecrows, and the player's aggressive tamed mobs.
+
+- Reduced the amount of XP dropped upon death.
+
+- Crystalmite:
+
+- Increased the amount of XP dropped upon death.
+
+- Cursed Rat:
+
+- Cursed Rats summoned by Rat Curserers can no longer pickup items. Only naturally spawned Cursed Rats can pick up items.
+
+- Can no longer pick up and eat Chorus Jelly or Copper Apples.
+
+- Naturally spawned Cursed Rats now drop more XP than summoned Cursed Rats, which drop only 1 XP upon death.
+
+- Increased the chance of destroying crops.
+
+- Cursed Scarecrow:
+
+- Can now pickup and equip all types of armor and weapons.
+
+- Will now avoid fire-elemental mobs.
+
+- Will no longer be aggressive toward Wandering Traders.
+
+- Will no longer take damage from Sweet Berry Bushes.
+
+- Deopard:
+
+- Added 3 new color variants: Orange, Black, and Green, bringing the total to 4 variants.
+
+- Improved its animations.
+
+- Tamed Deopards now have a slightly larger scale and lighter textures compared to Wild Deopards.
+
+- Dire Bat:
+
+- Tamed Dire Bats will no longer immediately become aggressive toward flying hostile mobs.
+
+- Elder Golem:
+
+- Will now inflict Slowness Effect on all mobs within an 8-block radius and trigger camera sh

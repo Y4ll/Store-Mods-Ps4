@@ -1,0 +1,116 @@
+If you find any addon errors you can use our discord, to report there you can have the update as soon as possible: Join discord.You can support us using the link "Donate"
+
+Oceanic Mod is an addon/mod that adds different aquatic creatures to Minecraft and adds many things like: octopuses, starfish, new fish, crabs, stingrays, anglerfish, sharks, whales and more.
+
+Trailer
+
+<figure class="wp-embed-aspect-16-9 wp-has-aspect-ratio wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube">
+
+</figure>
+
+Swordfish
+
+Swordfish, Swordfish are fish that are carnivorous and aggressive, and eat other fish smaller than them, They can even attack the player, These fish can be found in the Oceans of Minecraft
+
+Characteristic
+Health: 32
+Attack Damage: 5
+Attacks: Fish and Player
+It is totally hostile
+Can be found in: Oceans
+
+<figure class="wp-block-image size-large"></figure>
+
+Whale
+
+Whales, They are cetaceans of enormous size, It is one of the largest animals in Minecraft and the Ocean, They are totally peaceful, they will not attack anyone, they will only swim calmly in the Oceans.
+
+Characteristic
+Health: 180
+It is totally peaceful
+Can be found in: Oceans
+
+<figure class="wp-block-image size-large"></figure>
+
+Barracudas
+
+The barracudas are fish that are carnivorous, and eat other fish smaller than them, They can even attack the player, These fish can be found in the Oceans of Minecraft
+
+Characteristic
+Health: 20
+Attack Damage: 6
+Attacks: Fish, Crabs and Player
+It is totally hostile
+Can be found in: Oceans
+
+<figure class="wp-block-image size-large"></figure>
+
+Cachalote
+
+This is a fairly large animal, Which is hostile and attacks: fish, squid, fish, player and villagers, This animal can be found in the Oceans of Minecraft
+
+Characteristic
+Health: 120
+Attack Damage: 15
+Attacks: Fish, Squid, Villagers and Player
+It is totally hostile
+Can be found in: Oceans
+
+<figure class="wp-block-image size-large"></figure>
+
+Crabs
+
+These animals feed and attack fish, You can find crabs on the Beaches, With this addon you can have crabs, Crabs also serve as food, since when you kill a crab , you will be able to get a crab and cook it in an oven
+
+Characteristic
+Health: 8
+Attack Damage: 2
+Attacks: Fish
+Run away from the player when he approaches
+Can be found in: Beaches
+
+<figure class="wp-block-image size-large"></figure>
+
+Butterfly fish
+
+the butterfly fish, which are beautiful fish, which you can find in the Minecraft Oceans, they are totally peaceful fish, which you can have in Minecraft, these fish can be caught with buckets of water, with these fish you can make an aquarium, fish tank, etc in your Minecraft worlds.
+
+Characteristic
+Health: 12
+It is totally peaceful
+Can be found in: Oceans
+Can be caught with buckets of water
+
+<figure class="wp-block-image size-large"></figure>
+
+Fish 1
+
+fish 1, which are beautiful fish, which you can find in the Minecraft Oceans, they are totally peaceful fish, which you can have in Minecraft, these fish can be caught with buckets of water, with these fish you can make an aquarium, fish tank, etc. in your Minecraft worlds.
+
+Characteristic
+Health: 12
+It is totally peaceful
+Can be found in: Oceans
+Can be caught with buckets of water
+
+<figure class="wp-block-image size-large"></figure>
+
+Fish 3
+
+This addon adds the angler fish 3, which fish from the depths, they are hostile fish that attack fish and players, which you can find in the Minecraft Oceans, they are hostile fish, which you can have in Minecraft, these fish can be caught With buckets of water, with these fish you can make an aquarium, fish tank, etc. in your Minecraft worlds.
+
+Characteristic
+Health: 16
+It is Hostile
+Attacks: Fish, Players and Villagers
+Can be found in: Oceans
+Can be caught with buckets of water
+
+<figure class="wp-block-image size-large"></figure>
+
+hammerhead shark
+
+the hammerhead shark, These sharks can be found in the Minecraft Oceans, This shark attacks: Fish, Turtles and Dolphins, So with the player it is totally peaceful
+
+Characteristic
+Healt

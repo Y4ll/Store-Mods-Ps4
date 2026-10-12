@@ -1,0 +1,149 @@
+Newb Tropisphere Shader is a low-mid end shader, giving minecraft a warm experience during this summer
+This shader is based on Newb Shader
+
+This shader is not supported by original minecraft itself, so this shader will not work without using required patches! Please read the installation guide before downloading.
+
+Hot Fix 0.7.1
+
+- Added minecraft 1.26.50+ support
+
+- Fixed ammors with ammor trims render bug (credit to zan4re27)
+
+- Added fog to LITE subpack and some minor changes
+
+Update 0.7
+
+Changes:
+Materials:
+
+- Added `LegacyCubemap.material.bin`
+
+- Added `ActorMultiTexture.material.bin`
+
+General:
+
+- Cubemap are now adaptive to sky color.
+
+- Lighting horse, mule, llama,...
+
+- Added better sunset terrain color
+
+- removed `ItemInHandTextured` glow
+
+- others optimizations and minor changes
+
+Experimental subpack
+
+- Added better water waves
+
+- Added accurate metal block, water reflection
+
+- Added morning fog
+
+- Removed extra plants wave using texcoord (unstable/incompatible with others resource pack).
+
+For MCPEDL user, you can use this link to download the latest version from curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere
+
+Features
+
+- Lighting: simple, warm lighting to your world.
+
+- Cloud: soft clouds.
+
+- Galaxy stars.
+
+- Water: soft, calm blue water.
+
+- Glow ores
+
+- fogs
+
+- etc...
+
+LEGACY clouds (classic)
+
+LEGACY realistic clouds
+
+HYPER realistic clouds
+
+Installation
+
+Disclaimer: Minecraft Bedrock does not officially support loading custom shaders. The following are unofficial ways to load shaders.
+
+If you are having trouble following this guide, you can ask for support in our Discord server.
+
+Android
+
+- Install MB Loader app from Google Play.
+
+- Launch Minecraft through MB Loader.
+
+- Import the resource pack to Minecraft and activate it in global resources.
+
+Windows
+
+Method 1: Wyvern loader (recommended)
+
+- Download wyvern loader from Github
+
+- Run setup and open Wyvern app
+
+- Open minecraft and press "Inject" (if it injection succesfully minecraft title will change)
+
+- Activate the shader in global resources (active the shader in a world won't work) and enjoy!
+
+You can watch this tutorial on yt for a better example: https://youtu.be/YPGNs_saBtQ?si=ateQQyh0f2gt-KqH
+
+Method 2: BetterRenderdragon
+
+-
+
+- Use BetterRenderDragon to enable MaterialBinLoader (You can use Fzul's brd manager script to install/manage it easier)
+
+- Import the resource pack and activate it in global resources.
+
+Method 3: Matject
+
+- If both Wyvern and BetterRenderDragon do not support your Minecraft version, use Matject (make sure to not enable material-updater) instead to install shaders.
+
+IOS
+
+Use Hynis + HyniSign
+
+You can find the IPAs in Newb Community discord or YSS group discord
+
+Configuration
+
+It's recommended to use the following graphics settings for the game:
+
+- Beautiful sky - On
+
+- Smooth shading - On
+
+- Clouds - On (off if it's too laggy)
+
+- Fancy graphics - On
+
+- Brightness - 50%
+
+There are multiple subpacks in the shader resource pack. Use the "Lite" subpack for better performance. (use "Old sun/moon direction and lighting" subpack for best experience)
+
+Make sure that the shader resource pack is kept at the top, above all other resource packs, for it to work properly. It may conflict with some other visual resource packs.
+
+Credits
+
+Credit to the Newb Shader and devendrn and other Newb Shader contributors. Also the ppl of newb community for helping me build this shader from dust.
+
+Known bugs, mistakes
+
+Bugs:
+
+- Glow Item frame bug
+
+- no fogs in nether and underwater
+
+Feedback & Support
+
+If you have suggestions, feedback, or encounter any issues, feel free to leave a comment. Your feedback helps improve the pack even further
+
+Use this mcpedl or curseforge link if you want to share this shader.

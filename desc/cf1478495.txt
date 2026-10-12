@@ -1,0 +1,51 @@
+Join my Discord server
+There you can request custom commissions, get VIP access, see exclusive addon progress, and stay updated with everything new before anyone else. Dont miss out!
+
+Compatible with any addons
+
+--Installation Guide--
+
+You must download the Bleeding System BP file for the addon's behavior, and then the Bleeding System RP file for the addon's textures. These two files are required for the addon to work properly.
+
+Support This Project with a Donation!
+
+Your support helps us keep creating quality content. Every donation, no matter how small, helps cover development costs, improve resources, and keep things moving forward.
+If you enjoy what we do and want to help us grow, consider making a donation. Thank you for your support!
+
+Donate
+
+Official Page
+
+If you want to explore my addons and get early access to the latest updates, I invite you to visit my official website. All my addons are uploaded there first, so you'll always have access to the most up-to-date versions before anyone else!
+
+Click Here!!
+
+-This add-on does not disable achievements.-
+
+-Compatibility
+
+- You can use it with almost any plugin as this plugin DOES NOT USE PLAYER.JSON so it will be compatible with almost any plugin and you can easily put it at the end if you want.
+
+-Experimental Games
+
+- This addon does not need any experimental games to work correctly.
+
+Mechanics
+
+The main mechanic of the addon is to add a bleeding system to Minecraft. This gives the game more realism because you can bleed out and die if you do not heal in time or if you do not have enough health to withstand the bleeding damage. This mechanic does not only apply to the player, but also to all Minecraft entities and entities from other addons.
+
+What you should know is that the duration of the bleeding effect depends heavily on the amount of damage you receive. Receiving weak hits is not the same as receiving a very powerful hit.
+
+The first bleeding case activates after receiving three weak hits in a row. In this case, the bleeding will last 15 seconds.
+
+The second case occurs if you receive a hit dealing more than 4 damage but less than 9 damage. This creates a 60% chance of triggering bleeding from a single hit, activating the bleeding effect for 25 seconds, which has a high probability of becoming lethal and causing death by bleeding out.
+
+The third case, and the worst one, happens if you receive more than 8 damage. This immediately activates bleeding with just one hit, lasting 35 seconds, making it almost certain death if it is not treated immediately.
+
+To cure the bleeding status, there are several methods. The main one is using a bandage, which will give you regeneration and instantly remove the bleeding effect.
+
+Another way is to heal yourself using any item that grants the regeneration effect, such as potions, golden apples, or items from other addons that provide the same benefit.
+
+While you are in the bleeding state, blood will periodically drop onto the ground, and these blood stains will disappear after some time. This also happens when you die or when an entity dies, as long as the entity is not an undead mob.
+
+Additionally, when you are hit by any mob through melee attacks or projectiles, blood particles will appear. This effect also applies to Minecraft mobs and mobs from other addons.

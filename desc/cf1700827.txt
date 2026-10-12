@@ -1,0 +1,33 @@
+With this add-on you can pat mobs and players. Crouch and hit a mob with an empty hand and it won't take damage, you'll pat it instead. A hand shows up over its head, the mob squishes down a bit and you hear a pat sound. Other players can see it too.
+
+It works on pretty much every mob, so you can pat your dog, a villager, a creeper or your friend.
+
+How To Use
+
+Empty your hand, crouch and hit the mob. On mobile just crouch and tap the mob.
+
+If you want to use right click instead, change it in the settings. After that you crouch and right click the mob, or hold on the mob on mobile.
+
+Settings
+
+Type /voxen:patpat to open the settings. You don't need cheats for it, and every player has their own settings.
+
+- Enable Mod - turn it on or off
+
+- Pat Button - Left Click (Hit or Click) or Right Click (Hold Screen)
+
+- Who Can Be Patted - everyone, only wolf, wolf and players, only players, only tamed pets, only passive mobs or only hostile mobs
+
+- Sounds and Volume
+
+- Swing Hand - your arm moves when you pat with right click
+
+- Camera Shaking - your screen shakes a little when someone pats you
+
+- Enable Pat Me - turn this off if you don't want other players patting you
+
+- Pat When Attacking - also pat mobs while fighting them (they still take damage)
+
+Credits
+
+This is an unofficial Bedrock port of the Java mod PatPat by LopyMine. The hand texture and sounds are from that mod and used under the LGPL-3.0 license.

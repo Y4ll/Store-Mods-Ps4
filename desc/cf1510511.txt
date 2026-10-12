@@ -1,0 +1,9 @@
+This is a Achievement Friendly (Since 1.1.2)
+
+- Incendiary Wyverns Can Be Found On Mountains Biomes
+
+- Common Wyverns Can Be Found On Almost Every Biome
+
+- Common Wyverns Can Be Tamed In Any Age With Raw Chicken
+
+- Incendiary Wyverns Can Be Tamed In Baby Age With Raw Beef

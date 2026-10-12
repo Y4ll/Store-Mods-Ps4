@@ -1,0 +1,25 @@
+What is up, my fellow Minecraft grinders! Let us be totally honest for a second here. Mining in vanilla Minecraft can get insanely boring after a few years. You spend hours strip mining at Y negative fifty-eight, breaking thousands of deepslate blocks just to find a couple of diamonds. It feels like a chore, right? I was literally falling asleep at my keyboard one night doing this, and I thought, bro, what if breaking literally any block in the game felt like opening a cracked loot box?
+
+I wanted to create an experience where even punching dirt or chopping a basic oak tree could suddenly make you filthy rich. That is exactly why we at Novacraft Studios developed the Block Drop OP Items add-on. I did not want just a basic script that drops random junk; I wanted a fully leveled progression system, combo multipliers, and crazy visual effects that make you feel like an absolute god while playing. This add-on turns your regular survival world into an intense, highly addictive dopamine rush.
+
+THE CORE MECHANIC AND LOOT TIERS
+
+So here is how the madness actually works. The moment you load this add-on into your world, the vanilla drops are completely gone. When you break a blockany blockit gets replaced by a highly calculated RNG drop system. But here is the catch: you are not just getting random wooden swords. The loot is divided into six epic rarity tiers: Common, Uncommon, Rare, Epic, Legendary, and the absolutely broken Mythic tier.
+
+Common and Uncommon drops will give you basic survival resources to keep you going, like iron, food, and building blocks. But when you hit those Rare and Epic rolls, you start seeing diamonds, emeralds, and enchanted gear. If you are lucky enough to hit Legendary or Mythic? Bro, get ready. We are talking about pure netherite ingots, dragon eggs, Elytras, and fully maxed-out OP tools popping right out of a dirt block. It is literally insane.
+
+THE GRIND: PROGRESSION AND TITLES
+
+Now, I know some of you tryhards are thinking, "Wait, won't I just get a netherite sword on day one and ruin the fun?" Nope! I actually balanced this add-on so you have to work for the crazy stuff. You cannot just spawn in and get Mythic drops immediately. The game tracks every single block you break.
+
+To unlock the Rare drop pool, you need to break 500 blocks. Epic unlocks at 2,000 blocks, Legendary at 7,000, and you have to grind a massive 25,000 blocks to finally unlock the Mythic tier. To make this grind feel rewarding, I coded a complete Title system. You start as a basic "Block Pusher", but as you keep destroying the terrain, you rank up to titles like "Terrain Warper", "Block King", and eventually the legendary "World Breaker" at 100,000 blocks. Every major milestone gives you a massive on-screen celebration and bonus OP item rewards directly in your inventory.
+
+THE X-FACTOR: COMBOS, CHAINS, AND SECRET BLOCKS
+
+To make things even more sweaty and fast-paced, I added the X-Factor mechanics. If you break blocks super fast without stopping, you build up a Combo meter. Hitting a 50x combo gives you a massive luck boost for better drops. On top of that, if you break the exact same block type repeatedly (like mining a giant vein of stone), you build a Chain which gives you even more bonus luck.
+
+But my absolute favorite feature is the secret blocks. While you are mining, there is a small random chance to trigger a "Hidden Block" which explodes with particles and guarantees an Epic or Legendary drop. You might also find "Enchanted Blocks" that double your loot, or "Mystery Blocks" that randomize your luck tier. Oh, and do not forget to check the "Block of the Day." The add-on picks one random block every single real-life day, and if you find and break that specific block type, you get double the drops guaranteed!
+
+IN-GAME STAT TRACKER AND CUSTOM UI
+
+I hate add-ons that spam your chat and give you no control, so I built a super clean custom UI for this. You do not need any weird commands. All you have to do is hold a normal book in

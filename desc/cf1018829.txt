@@ -1,0 +1,73 @@
+Join my Discord server
+There you can request custom commissions, get VIP access, see exclusive addon progress, and stay updated with everything new before anyone else. Dont miss out!
+
+This addon adds a wide variety of wyverns that will appear in your survival world, these are hostile and you can tame them when they are babies, they have 3 types of attacks that will be explained later
+
+--Installation Guide--
+
+You must download the System Wyverns BP file for the addon's behavior, and then the System Wyverns RP file for the addon's textures. These two files are required for the addon to work properly.
+
+Support This Project with a Donation!
+
+Your support helps us keep creating quality content. Every donation, no matter how small, helps cover development costs, improve resources, and keep things moving forward.
+If you enjoy what we do and want to help us grow, consider making a donation. Thank you for your support!
+
+Donate
+
+Official Page
+
+If you want to explore my addons and get early access to the latest updates, I invite you to visit my official website. All my addons are uploaded there first, so you'll always have access to the most up-to-date versions before anyone else!
+
+Click Here!!
+
+-Compatibility
+
+- You can use it with almost any plugin as this plugin DOES NOT USE PLAYER.JSON so it will be compatible with almost any plugin and you can easily put it at the end if you want.
+
+-Experimental Games
+
+- Does not require any experimental games
+
+Update V2.8.6
+
+The mechanic to accelerate the hatching of a wyvern egg has been added. You must use magma cream to have a 0.05% chance of forcefully hatching the egg.
+
+Update V2.8
+
+Wyvern Shields
+
+In this update, Wyvern Shields were added, a total of 6 shields for each Wyvern variant, these shields have effects that are granted to enemies when they hit the shields.
+
+These shields have a total of 600 durability points, they can be repaired in the anvil using the scales of their respective type of wyvern from which the shield is made, the shield looks like this in the player.
+
+To craft these shields you will have to use the crafting table and use the following materials in the following order, the wyvern scales vary depending on the type of shield you want to make.
+
+The special abilities of each shield vary depending on the type of Wyvern Shield you have. Some may be better than others, and others worse it all depends on your preferences and needs at the time. The effects are as follows:
+
+Fire Wyvern Shield: When hit, it will set on fire the mobs that attacked the shield.
+
+Ice Wyvern Shield: Grants Slowness level 5 to the mobs that attacked the shield.
+
+Poison Wyvern Shield: Curses mobs that attacked the shield with the Poison effect.
+
+Ender Wyvern Shield: Teleports mobs that attacked the shield 10 blocks upward.
+
+Wither Wyvern Shield: Applies the Wither effect to mobs that attacked the shield.
+
+Ground Wyvern Shield: Deals 5 damage to mobs that attacked the shield.
+
+Update V2.7
+
+-Wyvern Wings
+
+In this update, wyvern wings were added as a new equippable item. They allow the player to fly through the skies like a wyvern. The item has a durability of 500, and to fly, you simply need to jump while having the item equipped in your off-hand.
+
+To craft this item, youll need to defeat wyverns and obtain an item called Wyvern Membrane. There are several types of membranespoison, wither, fire, ice, etc. Youll have a 25% chance of obtaining one when killing wyverns.
+
+Once you have it, youll need to place it on the crafting table in the following way to obtain the Wyvern Wings of your choice.
+
+Once you have the Wyvern Wings, you can equip them in your off-hand to use them and have them appear on your Minecraft character.
+
+There will also be an actionbar notification that tells you how to activate and deactivate the Wyvern Wings, as well as whether they are currently activated or not.
+
+Heres a video showing how to use the Wyvern Wings: you need to activate them and press the jump button whenever you want to

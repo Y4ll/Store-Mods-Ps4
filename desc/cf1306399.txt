@@ -1,0 +1,59 @@
+ive made a discord!
+
+why join?
+
+- sneak peeks
+
+- early releases
+
+- exclusive releases
+
+- participate in polls
+
+- more!
+
+join here! https://discord.gg/aSBthASCS
+
+made using mcbCode. a completely free to use minecraft addons maker! (my website)
+
+50k! NO WAY!!! thank you guys!!
+
+How to enter:
+
+- /function setup (if this doesn't work turn on cheats)
+
+- suffocate in sand, gravel, or powdered snow
+
+- you suddenly noclip into the backrooms
+
+to get to the new level you gotta go to y300 and type "/function b/generateforward" FOR NOW, updating soon
+
+Recommended Settings:
+
+Render Distance: 4-16 Chunks
+
+Simulation Distance: 4 Chunks
+
+Command Blocks Enabled: true
+
+NO EXPERIMENTS NEEDED
+
+important note: your game may lag while the backrooms load. the way this addon works is if you get near the edge, it will generate more. it will lag for about 5 seconds. that is the addon, not your device or internet.
+
+Permissions
+
+what you can do
+
+you CAN edit this pack for PERSONAL USE
+
+you CAN credit me if used in a showcase for other projects
+
+you CAN download :)
+
+what you cant do
+
+you CANT post this on other websites, or anywhere. (like mc-addons.com)
+
+you CANT edit this pack for PUBLIC use
+
+you CANT use it in a showcase and not give proper credit. (official, direct links)

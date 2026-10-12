@@ -1,0 +1,27 @@
+Player Hitbox Indicator
+
+Greetings, this is a simple combat hitbox pack
+
+This pack adds a clean wireframe outline around every player. Shifts from white red when player is in hitrange
+
+Features
+
+white by default red when in reach
+
+Follows player state crouch, swim, sleep
+
+Two modes: normal & see through walls
+
+You can switch the state or on and off the hitbox in middle of the game by pack settings
+
+Install
+
+Download Open Apply in Global Resources > done.
+
+Credits
+
+Made by Kaalu xD / yan
+
+For any help or suggestions :
+
+https://discord.gg/qrSM3Vctf

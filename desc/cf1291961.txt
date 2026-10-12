@@ -1,0 +1,59 @@
+Porsche engineering and performance brought to Minecraft Bedrock!
+
+This addon adds a complete lineup of Porsche sports cars, supercars, and SUVs, featuring realistic driving mechanics, detailed animations, and immersive gameplay systems, perfect for city maps, highways, and roleplay worlds.
+
+ATTENTION!!!
+
+This addon is an independent fan-made project created exclusively for use in Minecraft and intended solely for entertainment purposes.
+
+It has no official connection, partnership, authorization, sponsorship, or endorsement from Porsche or any other real-world automotive manufacturer, brand, or company.
+
+All trade names, trademarks, and references mentioned belong to their respective owners and are used strictly for informational and descriptive purposes.
+
+VEHICLES:
+
+CRAFTINGS:
+
+MECHANICS:
+
+- SPEED SYSTEM: The addon now features a gradual acceleration system that simulates an automatic transmission, providing smoother and more realistic vehicle behavior.
+
+Start Neutral
+
+Neutral Drive
+
+Drive Neutral (only when stopped)
+
+- IGNITION SYSTEM: Vehicles can only be started from inside the car using a key.
+
+- FUEL SYSTEM: Each vehicle can be powered by different fuel types: Coal (Combustion), Redstone (Electric) and Hybrid: Uses both coal and redstone.
+
+Each fuel type has its own maximum capacity. Players must manage fuel carefully to keep their vehicles running efficiently.
+
+- SPEEDOMETER: A functional speedometer shows your current speed in km/h and the remaining amount of fuel, allowing precise control while driving.
+
+- EMISSIVITY: Simulates the cars headlights.
+
+- COLORS: Paint your car using any Minecraft dye.
+
+- SHOP: Shop system using iron ingots + the required engine.
+
+- LANGUAGES: This addon is available in the following languages:
+
+Brazil (Portugues), Bulgaria (), Canada (English / Francais), China (), Czech Republic (Cestina), Denmark (Dansk), Finland (Suomi), France (Francais), Germany (Deutsch), Greece (), Hungary (Magyar), Indonesia (Bahasa Indonesia), Italy (Italiano), Japan (), Mexico (Espanol), Netherlands (Nederlands), Norway (Norsk), Poland (Polski), Portugal (Portugues), Russia (), Slovakia (Slovencina), South Korea (), Spain (Espanol), Sweden (Svenska), Taiwan (), Turkey (Turkce), Ukraine (), United Kingdom (English), United States (English).
+
+HOW TO PLAY:
+
+- Fuel requirement: Before driving any vehicle, it must be fueled using coal or redstone.
+
+- How to refuel: Hold the fuel item in your hand and interact with the vehicle.
+
+- Refueling condition: The vehicle must be turned off before adding fuel.
+
+- Key requirement: After refueling, a key is required to operate the vehicle. Otherwise, the message "No Key" will be displayed.
+
+- Starting the vehicle: Hold the key in your hand and interact with the car. The "Start" option will appear.
+
+- Gear shifting (important): After starting the vehicle, remove the key from your hand to enable the interaction: "N >>> D" (gear shift).
+
+- Turning off the vehicle: To turn it off, hold the key again and interact with the car. The "Stop" option will be displayed.

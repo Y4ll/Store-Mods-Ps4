@@ -1,0 +1,59 @@
+Java Door Breathing
+
+Java Door Breathing brings the classic Java Edition underwater door breathing trick to Minecraft Bedrock. Simply place a normal door underwater and stay close to it to keep breathing while exploring, mining, building, or surviving beneath the ocean.
+
+Main Features
+
+Java-Style Door Breathing Works Underwater Helps Maintain Breathing
+
+Supports Normal Doors Automatic Detection Simple Survival Use
+
+Perfect for Ocean Exploration Useful for Underwater Builds Helpful While Mining
+
+How It Works
+
+- Go underwater
+
+- Place any supported normal Minecraft door
+
+- Move close to the door
+
+- Your breathing support activates automatically
+
+- Move away from the door and the effect ends shortly after
+
+Door Support
+
+Oak Door Spruce Door Birch Door Jungle Door Acacia Door Dark Oak Door
+
+Mangrove Door Cherry Door Bamboo Door Pale Oak Door Iron Door Other supported normal door variants
+
+Why Use This Addon?
+
+This addon is made for players who enjoy the classic Java Edition underwater door trick and want a similar experience in Bedrock Edition. It is useful for ocean monuments, underwater caves, deep-sea exploration, temporary breathing points, and large underwater construction projects.
+
+Notes
+
+- Designed for Minecraft Bedrock Edition
+
+- Door detection works automatically
+
+- No special custom door is required
+
+- Lightweight and simple gameplay system
+
+- Best used by placing the door close to the player's head position underwater
+
+Credits & Rights
+
+Addon Idea: Baku
+
+Addon Creator: Baku
+
+All Credits: Baku
+
+All Rights Reserved Baku
+
+Do not reupload, redistribute, modify, rename, or claim this addon as your own without permission from Baku.
+
+Explore deeper. Place a door. Keep breathing.

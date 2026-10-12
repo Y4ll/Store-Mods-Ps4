@@ -1,0 +1,103 @@
+UPDATE 1.0.2:
+
+fix dame player
+
+True Yamato gives you Vergil's katana from Devil May Cry, with a full moveset, Devil Trigger and Majin Trigger, custom particles and player animations. No experimental toggles needed.
+
+Skills and how to activate them
+
+Hold the Yamato in your main hand.
+
+Skill
+How to activate
+Skill Button
+
+Yamato Combo
+Attack. Every 3rd hit unleashes Rapid Cuts
+-
+
+Aerial Rave
+Attack while in the air
+-
+
+Upper Slash
+Sneak, then Attack
+-
+
+Rapid Slash
+Sprint, then Attack
+-
+
+Judgment Cut
+Hold Use, then release (tap = 1 cut, charge = 2, full = 3)
+-
+
+Judgment Cut End
+Full charge during Devil Trigger
+Button 1 during Majin Trigger
+
+Summoned Swords
+Sneak + Use (Storm Swords during Devil Trigger)
+Button 1
+
+Trick
+Sprint + Use (look at an enemy, up, or down)
+Button 4
+
+Devil Trigger
+Sneak + Jump
+Button 5
+
+Majin Trigger
+Sneak + Jump again during Devil Trigger
+Button 5 again
+
+Void Slash
+Crouch 3s, then release
+Button 2
+
+Starfall
+Crouch 3s, then Jump
+Button 3
+
+Judgment Cut Barrage
+Keep the Yamato in hand for 20s
+-
+
+Dimension Rift
+Keep the Yamato in hand for 20s, then Jump within 3s
+-
+
+Yamato Barrier
+Passive: heals back 60% of a hit (15s cooldown)
+-
+
+Skill Buttons (optional)
+
+Install YTAUN Skill Buttons to get on-screen buttons, great for mobile. Buttons 1-5: Summoned Swords (Judgment Cut End during Majin Trigger), Void Slash, Starfall, Trick, Devil Trigger / Majin Trigger. Buttons dim while a skill is on cooldown. On PC, keys 4-8 work as the buttons.
+
+Button skill - Minecraft Bedrock Addons - CurseForge
+
+Other addon Weapons:
+
+WEAPONS-Void Scythe - Minecraft Bedrock Addons - CurseForge
+
+WEAPON Plus 3.0(Achievements Friendly) - Minecraft Bedrock Addons - CurseForge
+
+WEAPONS-KATANA OF THE VOID 2.0 - Minecraft Bedrock Addons - CurseForge
+
+WEAPONS-DEMONIC SWORD - Minecraft Bedrock Addons - CurseForge
+
+Installation
+
+- Open the .mcaddon file.
+
+- In your world, activate True Yamato [BP]. The resource pack is added automatically.
+
+- Get the sword by crafting it or with /give @s ytaun:yamato_katana.
+
+Crafting: Netherite Ingot, Amethyst Shard, Netherite Ingot / Gold Block, Iron Sword, Gold Block / Iron Block (bottom middle)
+
+Requires Minecraft Bedrock 26.10 or newer.
+
+Made by YTAUN. Fan-made, not affiliated with Capcom or Mojang.

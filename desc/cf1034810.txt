@@ -1,0 +1,19 @@
+About:
+
+This addon organizes the items in your chest 'Alphabeticaly'. It also organizes enchanted books by their first enchantments.
+
+From this:
+
+to this:
+
+It is easy to craft the wand.
+
+Crafting Recipe:
+
+Sorting Wand:
+
+How To Use:
+
+- Sneak and Hold the sorting wand then interact with any containers.
+
+Join my discord for more addon: https://discord.gg/TchBCRcaaG

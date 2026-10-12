@@ -1,0 +1,45 @@
+GLASSY UI
+
+A fully transparent UI pack designed to completely overhaul your GUI/UI, giving you a clear, tactical advantage while navigating any container.
+
+Normal Mode Showcase
+
+Classic UI
+
+Pocket UI
+
+For a comfortable and eye-friendly nighttime experience, this pack also includes a sleek Dark Mode variant.
+
+Dark Mode Showcase
+
+Classic UI Dark Mode
+
+Pocket UI Dark Mode
+
+Particles Core
+
+Take full control of your visual effects. Particles Core allows you to easily toggle most particles on or off in-game, significantly boosting performance for a smoother gameplay experience.
+
+IMPORTANT WARNING
+
+This pack customizes the Start Screen, Marketplace, Skin Dresser, Settings, and more. However, Minecraft's default Ore UI blocks these custom changes.
+
+To see the custom screens below, you MUST use the Force close ore ui mod (available inside Levi launcher or mbloader).
+
+Start Screen
+
+Start Screen Dark Mode
+
+* Highly recommended: Restart your game after applying the pack to ensure all UI elements update properly.
+
+Credits & Shout-outs
+
+Huge shout-out to ItsCyberRush; their transparent pack gave me the inspiration to create mine and helped me learn a lot. Thank you to notnicto for allowing the use of the Particles Core within this pack. Also, thanks to Bedrock Tweaks for the No how to play button codes.
+
+ITSCYBERRUSH (PROFILE) | NOTNICTO (PROFILE) | BEDROCK TWEAKS (WEBSITE)
+
+Terms & Policy
+
+You are strictly prohibited from modifying, stealing, or reusing any assets from this pack. If you are making a review, you must link to the original CurseForge or MCPEDL download page in your description. Any violations will result in an immediate copyright strike.
+
+For full details, please read the TERMS & POLICY (LINK).

@@ -1,0 +1,81 @@
+Newb X Future
+
+Is a vibrant customized shader variant for Minecraft Bedrock edition, it improve the visuals by adding more effects, tweak configs while keeping the performance balanced.
+
+This shader won't work without a 3rd party apps or tools, please read the Compatibility section below.
+
+This is not a Vibrant Visual (VV) Pack, it won't work if you have both vv pack and this shader activated.
+
+Features
+
+- Blackhole : In the end sky with distortion effect.
+
+- Vibrant Lighting : By using Aces tonemapping and configure the color correction, give the bright and colorful theme.
+
+- Blinking Stars : A shimmering, fluctuating brightness of celestial bodies.
+
+- Clouds Shadow : Shadow casting from the clouds, giving more dynamically to the world.
+
+- 3 Colors Aurora : Add variety to the auroras.
+
+- Optimized : Trying as best as possible to optimize the shader without to sacrifice the visual quality too much.
+
+- And many more
+
+Subpacks
+
+Newb X Future provide 5 subpacks that you can use :
+
+- Performanced : Improve the performance by disabling some features, this subpack use vanilla clouds as the deafult.
+
+- No Wave : Disable the plant and water wave but keep the swinging lantern.
+
+- Multilayer Clouds : Add extra layer to the rounded clouds.
+
+- Simple Clouds : Enable the simple clouds.
+
+- Realistic Clouds : Enable realsitic looking clouds.
+
+In-game configuration
+
+This is a recommendation for in-game configuration to use when using this shader for a better results however, you can use your own configuration if you wish
+
+- Brightness : 50%
+
+- Graphic Mode : Fancy
+
+- Beautiful Sky : On
+
+Compatibility
+
+Newb X Future is only works with MB Loader (Android), Wyvern Loader (Windows), and Minecraft with Hynis IPA (iOS).
+
+Having trouble installing the shader? Go to the Discord server to get support.
+
+Feedbacks and Bug Reports
+
+Have some ideas, want to suggesst a new feature, or find some bugs? Join the official Newb Shader discord server and go to Newb X Future (feedback).
+
+Redistribution
+
+You're allowed to modify this pack for personal use only. If you're going to showcase my shader please use this site or my variant thread link.
+
+Special Thanks and Credits
+
+- Original shader forked from newb-x-mcbe by devendrn
+
+- All the Newb X Future testers
+
+- And everyone who have download and using my variant.
+
+- Map used "The Fairy Tale World" by KimikoRaico96
+
+Known Issue
+
+- Clouds and end sky effects movement in Windows are flickering sometimes, currently no solution found (probably some GPU related issue), If you think you can solve this consider go here GH-Issue-64.
+
+- Cloud shadow position for realistic clouds are not accurate with the clouds in the sky.
+
+Disclaimer
+
+This project is not affiliated with Mojang Studios or Microsoft.

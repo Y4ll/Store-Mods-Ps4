@@ -1,0 +1,5 @@
+Adds smooth and expressive eye animations to Player skins without requiring manual skin editing. Simply enable and configure it through Pack Settings, then enjoy more lively looking eyes while playing.
+
+Notice:
+
+This feature is only compatible with skins that have specific eye sizes and positions. And only work for singeplayer

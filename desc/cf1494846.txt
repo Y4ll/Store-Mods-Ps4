@@ -1,0 +1,21 @@
+Better Backpacks adds craftable, wearable storage to Minecraft Bedrock. Craft a backpack, sneak to wear it, and carry your inventory with you. Place it down to use it as a chest, then pick it back up with everything still inside.
+
+-Important Note
+
+This pack will not appear in the main Settings Packs menu. To activate it, edit or create a world, go to the Behavior Packs section, and enable the addon there.
+
+Requires Minecraft 26.0 or newer.
+
+-How To Use
+
+Craft a backpack at a crafting table Sneak and right-click to wear it Place it on the ground to open it like a chest, it turns to face you Sneak and right-click, or hit it, to pick it back up
+
+-The Backpacks
+
+Backpack 27 slots, Big Backpack 54 slots, Axolotl Backpack 27 slots
+
+Each comes in 5 colours, 15 in total. Add a dye to the recipe to craft a coloured one. In creative they are grouped into three expandable slots under Equipment.
+
+-Features
+
+Wear it in the chest slot for 2 armour points Enchantments, durability, custom names and lore are all kept Potions, written books and dyed armour keep their effects, pages and colour Contents survive world reloads, chests and ender chests PBR textures for Vibrant Visuals Works in survival and multiplayer.

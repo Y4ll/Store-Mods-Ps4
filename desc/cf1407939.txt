@@ -1,0 +1,3 @@
+So if you use my addon but often experience bugs due to UI conflicts, use this instead, this script acts as an intermediary for other addons, the system works by having addons send data which is then stored by this script, when another addon sends data it will be added to the queue, the queued data will later be sent back to the UI in order, and the data is also randomly resent to prevent the UI from resetting
+
+Note: I made this for my own addon, if you are interested in a system like this you can try UI Queue, it is more complex and complete

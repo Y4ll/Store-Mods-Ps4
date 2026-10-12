@@ -1,0 +1,39 @@
+Mob Spawn Multiplier increases the number of mobs when they spawn in the world
+
+Features:
+
+- Multiplies mobs when they spawn in the world.
+
+- Supports mobs from other addons
+
+- Does not require any Experimental Features
+
+- Compatible with achievements.
+
+Available Versions
+
+-
+
+Hostile Mob - Multiplies all hostile mobs when they spawn (excluding bosses)
+
+-
+
+Normal Mob - Multiplies all passive and neutral mobs when they spawn.
+
+OPTIONS
+
+- You can configure the multiplier value in the behavior pack settings. There are currently five options: x1.5, x2, x3, x4, and x5.
+
+Notes:
+
+- Choose the multiplier carefully. High multipliers can cause heavy lag or even crash the game, depending on your device and the addons installed.
+
+- The Normal Mob pack and the Hostile Mob pack can be used together.
+
+- This addon is pure fun only not designed for balanced gameplay
+
+Credits / Author Info
+
+- Author: Neon Cursor
+
+- Do not re-upload or modify without permission

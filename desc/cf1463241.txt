@@ -1,0 +1,73 @@
+Addon Uang Rupiah Indonesia MCPE | Real Money IDR
+
+Bring the official currency of Indonesia into your world! This addon adds 7 rupiah denominations that you can use in your Minecraft world.
+
+Perfect for roleplay, economy servers, or just flexing your wealth in multiplayer with that authentic Indonesian vibe!
+
+Showcase
+
+What's New in This Update?
+
+- New Texture! : Fresh and hyper-detailed textures! Looks way more like the real deal now.
+
+- Varied Sizes : Just like IRL100k is the biggest and 1k is the smallest. No more one-size-fits-all!
+
+- Stackable! : You can actually stack your money now. Time to build that money mountain!
+
+- New Animations : Holding money feels way more dynamic and natural.
+
+- Money ASMR : Added custom paper sounds! Its super satisfying to hear while youre counting your cash.
+
+Cool Features
+
+- Authentic Look: 7 different denominations with textures that look just like real Indonesian Rupiah.
+
+- Spawnable: All cash can be spawned in your world as entities.
+
+- Easy Pickup: Once spawned, just tap and hold or right-click to pick up your money!
+
+-
+
+Gamemode Ready:
+
+- Creative: Find them in the Items tab.
+
+- Survival: Craft or exchange them using the recipes below!
+
+Crafting Recipes (Survival Mode)
+
+Exchange your gems or break down big cash into smaller change using Shapeless Recipes.
+
+From Emeralds
+
+Upgrading Your Cash (Exchange)
+
+Breaking Big Cash (Small Change)
+
+Technical Deets
+
+Built for stability and ease of use, right out of the box.
+
+- Plug & Play: No "Experimental Toggles" required!
+
+- Universal Compatibility: Works perfectly on Singleplayer, Multiplayer, Realms, and Dedicated Servers.
+
+Quick Install
+
+- Grab the .mcaddon file.
+
+- Open it, and Minecraft does the rest.
+
+- Enable Behavior + Resource Packs in your world settings.
+
+- Flex your new riches to those villagers!
+
+License & Credits
+
+Creator: Papa Alsa | YouTube: @alsahonggo
+
+Licensed under CC BY-ND 4.0.
+
+Permission: Modifications and reuploads are strictly prohibited. Don't be that guy who steals other people's work.
+
+"Bringing real-world 'budgets' to a blocky world. Finally, you can have more money than a village official without getting caught by the KPK!"

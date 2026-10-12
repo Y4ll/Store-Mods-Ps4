@@ -1,0 +1,41 @@
+Unlimited Ores [v11] (ARMORS UPDATE)
+
+Fixes and additions:
+
+- Enchanted pants bug fixed.
+
+- Jade armor texture bug fixed.
+
+- Text colors fixed.
+
+-Ore spawn rebalanced.
+
+This addon aims to add ALL THE MINERALS THAT EXIST IN REAL LIFE!!!!!!!!
+
+----->With each update of this addon, new ores will be added.
+
+IMPORTANT NOTICE: Minerals don't necessarily have a predefined use, since the purpose of the Addon is only to add new ores, not to give them functions. (Perhaps in the future they will have some additional use, but for now the focus is on adding all the ores!!!!!)
+
+Armors have been added! Now each ore has its own craftable
+
+Added ores = [97] (July 29, 2026)
+
+GOOD LUCK TRYING TO FIND EVERYONE IN YOUR SURVIVAL WORLD !!!!!!!!
+
+BUILD v10.1:
+
+In this update/build I'm adding armors for the ores... I've already made a good part of the armors, but I'll release this one to see what you guys think of them.
+
+ARMORS!!!
+
+If you have any questions or any bug to report, just let me know :)
+
+(39 Armors added)
+
+Examples:
+
+-
+
+- ----->Now, metallic ores can be melted down to form bars made from these ores. There is still no use for the bars.
+
+You might be wondering why I'm doing this, and the answer is simple... Why not? :)

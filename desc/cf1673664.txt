@@ -1,0 +1,205 @@
+Kaleidoscope Cookery (Unoffical)
+
+Requires Minecraft Version 26.3+
+
+Port Permission This add-on is an unofficial Bedrock port of Kaleidoscope Cookery by YSBB, originally developed for Minecraft Java Edition.
+
+Ported to Bedrock under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which permits adaptation and redistribution with attribution for non-commercial use, provided derivative works are shared under the same license. Special thanks to YSBB and the Kaleidoscope Cookery team for creating the original mod!
+
+Kaleidoscope Cookery is a feature-rich cooking and farming add-on packed with ingredients, crops, cookware, kitchen stations, recipes, placeable meals, drinks, furniture, tools, and food-focused gameplay.
+
+Grow and harvest crops like tomatoes, lettuce, chili peppers, rice, and wild rice, gather fresh ingredients, press seeds and grains into cooking oil, and turn raw foods into a huge variety of meals. Slice and prepare ingredients on the Chopping Board, stir-fry dishes in the Wok, simmer soups and stews in the Stockpot, steam foods in the Steamer, brew tea in the Teapot, roast food on the Shawarma Spit, and grind ingredients with the Millstone.
+
+The add-on includes everything from noodles, rice bowls, soups, dumplings, meat dishes, sashimi, pastries, platters, fried foods, teas, and other specialty recipes to more unusual culinary creations. Many foods can be placed in the world as serving dishes, while baskets, racks, oil containers, tables, chairs, stools, and other kitchen furnishings let you build a much more complete cooking space.
+
+You can also discover recipes, collect special ingredients, use kitchen knives and shovels, harvest crops with the Sickle, wear farmer clothing and straw hats, store and display food, manage cooking oil, prepare multi-ingredient recipes, and experiment with different cooking stations and techniques.
+
+There is also an in-game Guidebook that goes into much more depth on recipes, ingredients, cooking methods, farming, equipment, progression, and the add-ons many other features.
+
+A ton of the cooking and utility blocks!
+
+Tea time! And millstone + scarecrows!
+
+Do you like placeable food? This addon offers plenty!
+
+Guidebook:
+
+All the new blocks and items:
+
+Click spoiler below to see a list of all foods and blocks added:
+
+Crops & Farming
+
+- Tomato
+
+- Red Chili
+
+- Green Chili
+
+- Lettuce
+
+- Rice
+
+- Wild Rice
+
+- Caterpillar
+
+- Tomato Seed
+
+- Chili Seed
+
+- Lettuce Seed
+
+- Rice Panicle
+
+- Chili Ristra
+
+- Strung Mushrooms
+
+Ingredients
+
+- Cooking Oil
+
+- Flour
+
+- Raw Dough
+
+- Raw Noodles
+
+- Raw Zongzi
+
+- Raw Bamboo Tube Rice
+
+- Raw Cow Offal
+
+- Cooked Cow Offal
+
+- Raw Pork Belly
+
+- Cooked Pork Belly
+
+- Raw Lamb Chops
+
+- Cooked Lamb Chops
+
+- Raw Meatball
+
+- Cooked Meatball
+
+- Raw Cut Small Meats
+
+- Cooked Cut Small Meats
+
+Foods
+
+- Baozi
+
+- Beef Meatball Soup
+
+- Beef Noodle
+
+- Borscht
+
+- Braised Beef
+
+- Braised Beef Rice Bowl
+
+- Braised Beef with Potatoes
+
+- Chicken and Mushroom Stew
+
+- Cooked Rice
+
+- Donkey Burger
+
+- Dumpling
+
+- Egg Fried Rice
+
+- Fearsome Thick Soup
+
+- Fish Flavored Shredded Pork
+
+- Fish Flavored Shredded Pork Rice Bowl
+
+- Fried Egg
+
+- Hot Dry Noodles
+
+- Hui Noodle
+
+- Laba Congee
+
+- Lamb and Radish Soup
+
+- Mantou
+
+- Meat Pie
+
+- Pork Bone Soup
+
+- Pufferfish Soup
+
+- Qingtuan
+
+- Samsa
+
+- Sashimi
+
+- Scrambled Egg with Tomatoes
+
+- Scrambled Egg with Tomatoes Rice Bowl
+
+- Seafood Miso Soup
+
+- Shengjian Mantou
+
+- Sticky Candy
+
+- Sticky Rice Cake
+
+- Stir-Fried Pork with Peppers
+
+- Stir-Fried Pork with Peppers Rice Bowl
+
+- Stuffed Dough Food
+
+- Sweet and Sour Pork
+
+- Sweet and Sour Pork Rice Bowl
+
+- Udon Noodle
+
+- Wild Mushroom Rabbit Soup
+
+- Zongzi
+
+- Bamboo Tube Rice
+
+Placeable Foods
+
+- Apple Platter
+
+- Baozi Plate
+
+- Berry Platter
+
+- Blaze Lamb Chop
+
+- Braised Pork Ribs
+
+- Brown Mushroom Pot Soup
+
+- Buddha Jumps Over the Wall
+
+- Candied Potato
+
+- Chorus Fried Egg
+
+- Chorus Fruit Platter
+
+- Cold Cut Ham Slices
+
+- Cold Roasted Meat
+
+- Cold Styl

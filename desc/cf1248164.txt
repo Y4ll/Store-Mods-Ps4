@@ -1,0 +1,13 @@
+This addon lets you set multiple backup respawn points in Minecraft Bedrock Edition. If your default respawn point fails, you'll respawn at a backup point, so you wont have to worry about being suddenly 'homeless'.
+
+Just sneaking and interact with a bed to add a backup respawn point.
+
+If your default respawn point fails, you' ll respawn at a backup point. If that point fails, the system will try the next one in order until all respawn points are exhausted
+
+Commands to Manage Backup Respawn Points
+
+- Use the command /scriptevent brp:clear to clear all set respawn points.
+
+- Use the command /scriptevent brp:count to set the number of backup respawn points.
+
+- Use the command /scriptevent brp:get to get information about the backup respawn points (0 is the default respawn point).

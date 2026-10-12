@@ -1,0 +1,9 @@
+This Add-On brings the Tank from Left 4 Dead 2 into Minecraft Bedrock, including the 3 different skins from the original game! Also includes the music that plays when you encounter a tank.
+
+The Tank has a whopping 500 health, is slightly faster than the player when walking, and can throw rocks when they can't attack their target for some time. Their eyesight is also quite far, being able to see 32 blocks away to spot a target, so make sure to sneak behind them when possible! The Tank does not seem to like wandering around, so when spotting one, you should be able to avoid them easily (or not).
+
+The Tank, unlike most mobs, always stay on fire when set on fire. They also take extra damage from fire and lava sources, making fire aspect, flame, and lava the most effective way to deal with one.
+
+The Tank spawns very rarely on dark places, with a limit of 3 on the surface and 1 underground. Defeating one grants only a plentiful amount of rotten flesh, alongside some extra loot that might drop from a regular zombie. One could say that there is no point in trying to face one expecting any great rewards.
+
+All audio and music are owned by Valve Corporation, I do not own any assets except for the models, code, and animations that are included in the addon.

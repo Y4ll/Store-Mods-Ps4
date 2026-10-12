@@ -1,0 +1,14 @@
+Grappling Hook adds a fully physics-driven grappling hook to Minecraft Bedrock. Craft it, aim at any surface wall, ceiling or floor and launch. The hook embeds on impact and pulls you toward it, leaving you suspended from the anchor point.
+
+Features & Controls
+
+Dynamic Physics: Embeds on impact and pulls you towards the anchor point.
+Rope Control: While hanging, crouch to lower yourself along the rope, or sprint to climb back up to the anchor.
+Safety: Fall damage is completely negated while the hook is active, and reduced by half for 1.5 seconds after detaching.
+Stats: The hook has 384 uses before it breaks.
+
+How to Craft
+
+Reinforced String: 3x String (Placed in a vertical column in the Crafting Table).
+Grappling Hook: 1x Iron Ingot + 2x Reinforced String (Placed diagonally in the Crafting Table).
+Important Requirement Requires Beta APIs experimental features enabled in your world settings.

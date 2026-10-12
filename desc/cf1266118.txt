@@ -1,0 +1,69 @@
+Introducing Glimmering Armor Trims Minecraft Pack! Prepare to witness a whole new level of visual enchantment in your armors. Make your armor trims glow in dark! Works in mobile, pc and other devices.
+
+This is a resource pack that can be applied in global resources to enjoy glowing armor trims in servers, multiplayer and singleplayer worlds. It is compatible with any texture or shader pack that does not modify the "color palette" textures of armor trims.
+
+Video Showcase: (Click here for alternative YT link)
+
+Note: Leather Armor Trims WILL glow now, It is fixed in the V2 update.
+
+DOES NOT SUPPORT VIBRANT VISUALS OR RAY-TRACING.
+
+Note:
+
+To stop the LAG when running into armor stands or entities, turn OFF Player and Mob dithering setting:
+
+Whats new in V4:
+
+-Added "80% more brighter" in subpack option.
+
+default brightness:
+
+80% more brightness:
+
+You increase more brightness if you decrease the game brightness in the video settings.
+
+Default brightness is selected by default, slide to change the option to +80% brightness.
+
+To access subpack settings, navigate the following options:
+
+World settings menu:
+
+Global resources menu:
+
+Images:
+
+Visuals in different times:
+
+Updates in V2:
+
+Leather armors and enchantment glint is now fixed
+
+New trims and resin palette added.
+
+Reduced file size<100kb
+
+New Copper Age Update:
+
+How to enable:
+
+The Glimmering Armor Trims pack must be on top of other packs to work without any problem.
+
+Edit World Menu:
+
+Global Resources Menu:
+
+Credits:
+
+(Discord usernames)
+
+ian8971 (Images/thumbnails) Checkout his YT channel too: Click here
+
+My xbox profile name: NeedyLlama01
+
+Join my discord server:
+
+for more fun things and early access.
+
+Click here to join!
+
+Enjoy the pack.

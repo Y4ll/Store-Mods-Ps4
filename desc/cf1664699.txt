@@ -1,0 +1,20 @@
+What is up, bros? Let us have a serious talk about the state of Bedrock survival maps right now. If you are anything like me and my friends, you have probably spent hours searching the marketplace or random websites trying to find a genuine, high-quality OneBlock experience. The problem is, most of them out there are either laggy, completely broken, or they just do not feel like the original classic Java version that we all love watching our favorite YouTubers play. I got so fed up with downloading messy maps that would crash my realm that I decided to take matters into my own hands.
+
+Here at Novacraft studios, I wanted to build the absolute cleanest, most optimized, and feature-rich OneBlock add-on possible for Bedrock. I wanted that pure, addictive grind where you start with literally nothing but a single block of dirt floating in the sky, and you slowly build a massive empire. This is not just a basic map template; this is a fully coded survival journey that tracks your stats, surprises you with random loot, and actively tries to push you off the edge.
+
+HOW THE CORE SURVIVAL MECHANIC WORKS
+When you first load into your world, you are instantly teleported to the absolute center of the map, standing directly on top of a single magical block. That is your entire world. You break the block, and instantly, another block takes its place. Sometimes it is dirt, sometimes it is stone, and if you get lucky, it could be a diamond ore.
+
+But it is not just about mining blocks. The system has a built-in randomizer that will constantly keep you on your toes. There is a forty percent chance you will get extra random loot dropped, like seeds or saplings to start your farms. There is a ten percent chance a random mob will literally spawn right in your face. It could be a harmless cow, or it could be a creeper ready to blow up your tiny platform. And if the RNG gods bless you, there is a rare two percent chance a chest filled with bonus items will generate.
+
+Also, I know how incredibly annoying it is to accidentally fall off your platform and lose all your hard-earned gear to the void. So, I coded a custom void protection system. If you slip and fall below the map, the add-on will instantly catch you and teleport you safely back to the spawn block with a cool portal sound effect. Your hardcore run is safe from stupid lag spikes!
+
+THE TEN EVOLVING PHASES
+You are not just breaking the same blocks forever. This add-on features a massive progression system split into ten distinct, themed phases. You start out in the basic Plains phase, but as you break more blocks, you will naturally evolve. The game tracks every single block you mine.
+
+Once you hit the 500-block mark, you unlock the Underground phase. At 1000 blocks, you enter the Ocean phase. The journey takes you through the Frozen biome, the Desert, a dense Jungle, the Deep Cave, straight into the fiery Nether, and finally, The End and the ultimate Dragon phase. Every single phase introduces entirely new block types, specific biome mobs, and unique loot tables. You can always check your exact progress on the custom action bar hovering on your screen, which shows your current phase and exactly how many blocks you need to break to unlock the next level.
+
+BRUTAL BOSS FIGHTS
+I could not just make this a peaceful building simulator. I had to add some real danger. At the very end of every single phaseexactly every 500 blocksthe OneBlock will completely lock down. You will hear a massive wither spawn sound, a red warning will flash on your screen, and a custom boss will drop right onto your platform.
+
+You will have to fight custom enemies like the Jungle Guardian, the Sand Pharaoh, the Nether Blaze King, and eventually, the End Phantom. You cannot cheat or skip these fights. The OneBlock will refuse to regenerate any new blocks until you completely defeat the boss. It is just you, your sword, and a tiny platform in the sky. Once you slay the boss, the game announces your victory to the server, and t

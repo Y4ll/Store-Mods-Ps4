@@ -1,0 +1,131 @@
+Nico's Mobs is add-on introduces new mobs that spawn naturally in your world. Each mob has unique abilities and distinct loot. Some can be tamed, while others pose a serious threat. All mobs are designed to blend seamlessly with Minecraft's vanilla style. Aside from new mobs, this add-on also adds some new blocks and items.
+
+(v1.15)
+
+NEW UPDATES:
+
+Version: 1.15:
+
+Version: 1.15
+
+NOTE:
+
+- This update only works with Minecraft version 26.40 and higher.
+
+MOBS:
+
+- Tamed mobs that can attack will now become angry at players who attack them, as long as the attacker is not their owner.
+
+- Book Curserer:
+
+- Increased the chance of dropping a Book of Curses upon death.
+
+- Reduced the amount of XP dropped upon death.
+
+- Cave Dweller:
+
+- Updated its model and animations to match vanilla animations.
+
+- Cave Wolf:
+
+- Added knockback resistance.
+
+- Baby and adult Cave Wolves now have different health and attack damage values.
+
+- Added a new begging animation; Cave Wolves now have two different begging animations.
+
+- The begging animation now also plays when a player is holding a Bone.
+
+- Adjusted the baby model and attack animation.
+
+- Can no longer be bred by feeding them Rotten Flesh.
+
+- Clurve:
+
+- Fixed its hunting behavior. Clurves will now stop hunting or tracking mobs while holding food in their mouths.
+
+- Fixed a bug where Clurves would become aggressive toward undead mobs.
+
+- Clurves can now also become aggressive toward Camels.
+
+- Can now pick up Lurknash Meat and will no longer pick up and eat Clurve Meat.
+
+- Reduced the amount of XP dropped upon death.
+
+- Cobblestone Golem:
+
+- Fixed the transformation of Wild Cobblestone Golems into Mossy Cobblestone Golems. The transformation now takes only 12 minutes to complete.
+
+- Fixed a bug where Tamed Cobblestone Golems did not drop loot upon death.
+
+- Reduced the distance required for nearby monsters to be considered valid targets by Tamed Cobblestone Golems.
+
+- Adjusted the collision box; sitting Cobblestone Golems now have a different collision box than when standing.
+
+- Sitting Cobblestone Golems are now collidable and can be stacked.
+
+- Increased the attack damage of Tamed Cobblestone Golems.
+
+- Cursed Scarecrow:
+
+- Can now pickup and equip all types of armor and weapons.
+
+- Will now avoid fire-elemental mobs.
+
+- Will no longer take damage from Sweet Berry Bushes.
+
+- Dire Bat:
+
+- Can now be bred by feeding them meat-type foods.
+
+- Adjusted the possible drop count of Bat Wings.
+
+- May now drop a Fang upon death.
+
+- Reduced the health value of Baby Dire Bats.
+
+- Flying Books:
+
+- All Flying Books can now be tempted by Sealing Bookmarks.
+
+- Naturally spawned Cursed Flying Books now drop more XP than Cursed Flying Books summoned by Book Curserers, which drop only 1 XP upon death.
+
+- Increased the possible amount of XP dropped by Enchanted Flying Books upon death.
+
+- Giant Moa:
+
+- Fixed the Chest attachment.
+
+- Added knockback resistance.
+
+- Lurknash:
+
+- Fixed a behavior where they would become angry and never calm down.
+
+- No longer beg for Rotten Flesh or become tempted by or beg for Bone and Lurknash Meat.
+
+- Wild Lurknash now only attack players when they are nearby.
+
+- Increased the taming chance when feeding Cooked Moa.
+
+- Baby and adult Lurknash now have different health and attack damage values.
+
+- Added knockback resistance.
+
+- Mossy Cobblestone Golem:
+
+- Fixed the transformation of Wild Mossy Cobblestone Golems into Cobblestone Golems. The transformation now takes only 12 minutes to complete.
+
+- Fixed a bug where Tamed Mossy Cobblestone Golems did not drop loot upon death.
+
+- Reduced the distance required for nearby monsters to be considered valid targets by Tamed Mossy Cobblestone Golems.
+
+- Adjusted the collision box; sitting Mossy Cobblestone Golems now have a different collision box than when standing.
+
+- Sitting Mossy Cobblestone Golems are now collidable and can be stacked.
+
+- Increased the attack damage of Tamed Mossy Cobblestone Golems.
+
+- Mushlings:
+
+- Mushling effects no 

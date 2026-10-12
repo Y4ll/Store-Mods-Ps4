@@ -1,0 +1,105 @@
+Shadow Eclipse info es/en
+
+SHADOW ECLIPSE V4.0
+The most stacked Bedrock Behavior Pack youll ever touch. Full in-game menu. Zero bullshit.
+
+HOW TO OPEN
+
+Right-click any stick menu opens.
+Operators control everything from the Admin panel.
+
+WHAT YOU GET
+
+Combat / PVP Pure Domination
+
+- Full PVP Center (Strength, Speed, Resistance, Jump, Night Vision)
+
+- Extra damage, fire on hit, knockback on hit
+
+- Crit boost + combo counter + target HP display
+
+- Auto gapple, totem alert, reach hit
+
+- Silent Illegal Enchants (real script effects, no name, no lore, completely clean)
+
+- Kill Aura
+
+- And way more dirty tools
+
+Illegal Kits / Silent Illegal Enchants
+Real script-powered illegal enchantments that actually work. No item name, no lore, no detection flags. Pure illegal power that looks completely legit.
+
+World / Utility God Mode Lite
+
+- Gamemode switcher
+
+- Effects manager
+
+- Time & weather control
+
+- Teleport + history
+
+- Waypoints
+
+- XP manager
+
+- Smart Console / Commands
+
+- Gamerules
+
+- God mode, flight and more
+
+- Item repairer
+
+- Notes
+
+Players / Info Total Awareness
+
+- Player monitor
+
+- Player tracker & alerts
+
+- Death locations
+
+- Coords logger
+
+- World clock
+
+- Mob & block tracker
+
+Auto Tools Lazy God
+
+- Automatic Vein Miner
+
+- Automatic Tree Capitator
+
+- Crop harvester
+
+- Item magnet
+
+- Chest finder
+
+- Ore highlighter
+
+ADMIN (Operators Only)
+
+- Operators Only toggle
+
+- Stick Name Check (stick named eclipse)
+
+- Give permissions to whoever you want
+
+- Full feature-based access control
+
+INSTALLATION
+
+- Download the .mcpack
+
+- Open with Minecraft Bedrock
+
+- Activate as Behavior Pack
+
+- Right-click a stick and take over
+
+NOTE
+Script-based effects. Results can change depending on your Minecraft version.

@@ -1,0 +1,19 @@
+Blaze Shader by GURJAR
+
+Experience a warm cinematic golden-hour look in Minecraft Bedrock / Pocket Edition.
+
+Features:
+Strong warm golden sunlight with soft cinematic glow
+Beautiful sunset / sunrise atmosphere with orange & amber tones
+Soft atmospheric fog and depth
+Lush forest and jungle lighting
+Soft shadows and better depth
+Warm glowing torches, lanterns, lava & emissive blocks
+Cinematic water with natural reflections
+Dramatic red-orange Nether ambience
+Performance modes: High / Balanced / Performance
+
+Made specifically for Minecraft Bedrock (1.21.90 1.26.x).
+Requires Vibrant Visuals to be enabled in Video Settings.
+
+No Java/OptiFine shaders. 100% original Bedrock Vibrant Visuals pack.

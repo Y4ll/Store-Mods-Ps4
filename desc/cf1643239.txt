@@ -1,0 +1,76 @@
+Dominate your opponents with the cleanest, most responsive PvP pack for Minecraft Bedrock!
+
+Tired of screen clutter? Dropping frames during intense fights? The ZenXveda Ultimate PvP Pack is engineered from the ground up to give you a massive competitive advantage. Maximize your FPS, track your durability flawlessly, and never miss a shot again!
+
+WHY CHOOSE THIS PACK?
+
+9 MODULAR CROSSHAIRS
+
+Say goodbye to the clunky vanilla crosshair. Use the custom in-game slider to choose between Dot, Caret, Small Cross, Circle & Dot, and more!
+
+SHORT SWORDS
+
+Optimized weapon models that take up significantly less screen space, giving you total visibility during combat.
+
+PRO DURABILITY HUD
+
+Instantly see your armor and weapon durability right next to your hotbar. No more guessing when your gear will break!
+
+LOW FIRE & CLEAR FOG
+
+Fire particles are minimized so you aren't blinded when burning. Water and lava fog are completely removed.
+
+CLEAN PUMPKIN BLUR
+
+Wear pumpkins safely without your screen being obstructed.
+
+VANILLA
+
+WITH PACK
+
+BOW DRAW INDICATORS
+
+Color-coded bow pulling animations so you know exactly when your shot is fully charged.
+
+CHOOSE YOUR VERSION
+
+We offer two distinct versions of the pack so you get exactly what your device needs.
+Both are included in the files tab!
+
+PRO VERSION
+
+(The Complete Experience)
+
+Includes all core combat features, PLUS:
+
+Custom 3D Glassy Health Bars
+
+Hotbar Durability UI Numbers
+
+Glowing Entity Hitboxes
+
+Transparent Inventory & Chests
+
+Lowered Transparent Shield
+
+(Highly recommended for PCs and modern consoles)
+
+LITE VERSION
+
+(Maximum FPS)
+
+Includes all core combat features, but STRIPPED of:
+
+Custom UI Tracking
+
+Heavy geometries
+
+Rendering materials
+
+Guarantees ultra-high frame rates with zero lag spikes.
+
+(Highly recommended for Mobile Phones and Low-End devices)
+
+SUPPORT THE CREATOR
+
+If this pack helped you win more fights, please consider subscribing or supporting the project below!

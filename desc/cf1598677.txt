@@ -1,0 +1,91 @@
+Nokia Armor + Nokia Tool
+
+Turn your Netherite Armor and Netherite Tools into the legendary Nokia style! This resource pack gives your equipment a unique Nokia phone-inspired look while keeping the original Minecraft gameplay unchanged.
+
+Whether you're mining deep underground or fighting powerful mobs, your gear will now look stronger than ever. This pack is lightweight, optimized, and works smoothly on Minecraft Bedrock Edition.
+
+Features
+
+- Nokia-themed Netherite Armor
+
+- Nokia-themed Netherite Tools
+
+- High-quality textures
+
+- Optimized for better performance
+
+- Works in Survival & Creative
+
+- Compatible with Mobile, PC & Console
+
+- Multiplayer friendly
+
+- Easy to import and use
+
+Retextured Items
+
+Armor
+
+- Netherite Helmet ---> Nokia Helmet
+
+- Netherite Chestplate ---> Nokia Chestplate
+
+- Netherite Leggings ---> Nokia Leggings
+
+- Netherite Boots ---> Nokia Boots
+
+Tools
+
+- Netherite Sword ---> Nokia Sword
+
+- Netherite Pickaxe ---> Nokia Pickaxe
+
+- Netherite Axe ---> Nokia Axe
+
+- Netherite Shovel ---> Nokia Shovel
+
+- Netherite Hoe ---> Nokia Hoe
+
+How to Install
+
+- Download the .mcpack file.
+
+- Open it with Minecraft Bedrock Edition.
+
+- Wait for the import to finish.
+
+- Go to Settings Global Resources or apply it to your world.
+
+- Activate the resource pack and enjoy!
+
+Compatibility
+
+- Minecraft Bedrock Edition
+
+- Android
+
+- iOS
+
+- Windows
+
+- Xbox
+
+- PlayStation
+
+- Nintendo Switch
+
+Creator
+
+Kareo Gamerz
+
+If you enjoy this resource pack, consider leaving a diamond and sharing it with your friends. Your support helps me create more awesome Minecraft Bedrock content!
+
+License
+
+All Rights Reserved
+This addon was created by Kareo Gamerz.
+
+You are not allowed to redistribute, modify, or reupload this addon on any other platform without the creators permission.
+You may, however, make videos or showcase this addon on YouTube or social media please provide credit and a link to the original CurseForge or MCPEDL page.
+
+2025-2026Kareo Gamerz All Rights Reserved.

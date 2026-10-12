@@ -1,0 +1,15 @@
+Heart Health Indicator
+
+See the health of every player and mob directly above them with clean heart bars.
+
+- Real-time health display
+
+- Works on players & mobs
+
+- Useful for PvP and survival
+
+- Clean and smooth design
+
+Perfect for survival, multiplayer, PvP battles, and adventure gameplay.
+
+Made with care by Baku.

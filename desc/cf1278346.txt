@@ -1,0 +1,57 @@
+Hello survivor! Are you up to a small challenge? You must survive in water, where there are no trees, sheep, cows or other handy passive mobs. Your only friend will be the fish. But it's not all bad, there are breathing helmets to help your way to the end! Let's take a deep(er) dive.
+
+NOTE:
+
+This addon uses the player.json file, which makes it incompatible with other addons that use this file. All recipes are shown in game so you need to explore for yourself, there's support for recipe unlocking! Alot went into testing this addon, so please report groundbreaking issues!
+
+Breathing Helmets
+
+They are mechanically similar to each other, but they last longer and longer. Also they have a transparent texture to be more realistic!
+
+Iron Breathing Helmet
+
+The worst one of them all, doesn't last very long, most fragile. It's an upgrade i think.
+
+Golden Breathing Helmet
+
+Slightly better than iron, but not the most wanted upgrade, it's also the most fragile one of all the helmets.
+
+Diamond Breathing Helmet
+
+It's pretty good! It lasts a pretty long time, isn't really that fragile and is pretty worth it!
+
+Netherite Breathing Helmet
+
+The second best one! It has a neat bonus. If you fall into lava with any other helmet, the water evaporates and gives you less time on land. The netherite helmet doesn't have that side effect! You can make it in a smithing table with a netherite upgrade template and a diamond breathing helmet. You'll also need a netherite ingot!
+
+Prismarine Breathing Helmet
+
+This is the best helmet in the addon. It has the most durabillity, water and gives you a cool hat! This helmet is made in a smithing table with a prismarine upgrade template (see recipe in game) and a netherite breathing helmet. You'll also need a netherite ingot!
+
+The hydration mechanic
+
+The breathing helmets show a timer beneath. If that timer hits 0, you'll start dying, but you can refill that timer with specific items!
+
+Bowl of Water
+
+Only gives you 5 more percent and is not stackable, really cheap though!
+
+Enchanted Water Bottle
+
+Gives you 10 more percent and is stackable up to 16! Perfect for mid-game.
+
+Enchanted Water Bucket
+
+Gives you 20 more percent and is also stackable up to 16. It's really the upgrade you're thirsty for!
+
+Golden Water Bucket
+
+Gives you a whopping 50 percent extra and is not stackable and is very slow to use. Use the bucket in crisis.
+
+Diamond Water Bucket
+
+Gives you 25 percent extra and is the only item that can stack up to 64! I'ts very fast to use (less than a second) so you can refill really quick! I'ts the bucket you'll want to bring with you.
+
+Final Notes:
+
+If you want to advertise or share this addon for some reason. Don't use another page, use this one! Hopefully you'll enjoy this addon. (it took long to make it multiplayer compatible and make the helmets themselves)

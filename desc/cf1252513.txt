@@ -1,0 +1,49 @@
+There are now 300 textures that can be applied to 12 Framed Blocks.
+
+(that's almost all of Minecraft's full block textures)
+
+REQUIREMENTS: Enable "Upcoming Creator Features" in the world's experiments section for the multi-collision to work.
+
+All blocks are texture pack compatible, so you can use whatever texture you wish and the framed textures will look what you want it to be!
+
+To apply a texture, just interact with the block in hand you want to apply the texture of!
+
+You will get back the block used when you break or replace the texture.
+
+Framed Blocks:
+
+- Tall Wedge
+
+- Tall Corner Wedge
+
+- Medium Wedge
+
+- Medium Corner Wedge
+
+- Small Wedge
+
+- Small Corner Wedge
+
+- Slabs
+
+- Stairs
+
+- Panel
+
+- Pillar
+
+- Corner Pillar
+
+- Half Slabs
+
+(Note: You can use any planks, including custom woods if it has the tag of "minecraft:planks")
+
+The Framed Blocks add-on allows for you to expand your building capabilities by increasing your pallet and shape possibilities to have your builds look more exquisite than ever!
+
+All blocks are crafted in the Stonecutter using any planks, including custom woods with the tag "minecraft:planks"
+
+Older versions have been archived
+
+NOTICE:
+
+Before the full release, there are bound to be removals of some blocks and changes to how they function

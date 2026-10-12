@@ -1,0 +1,59 @@
+Better Offhand
+
+Better Offhand adds practical offhand functionality using normal vanilla items, quick hand swapping, and mobile-friendly controls.
+
+Features
+
+- Vanilla Items Only: No custom items or crafting recipes.
+
+- Double Crouch: Quickly move items between your main hand and offhand.
+
+- Offhand Utility: Supports torches, lanterns, blocks, buckets, compasses, clocks, and more.
+
+- Offhand Placement: Place supported blocks and light sources from your offhand.
+
+- Smooth Visibility: Offhand torches and lanterns improve cave visibility without effect flashing.
+
+- Mobile-Friendly: Designed for Android, iOS, and Windows controls.
+
+How to Use
+
+- Hold a normal vanilla item in your main hand.
+
+- Crouch twice quickly to move it into your offhand.
+
+- Double crouch again to move the item back.
+
+- Crouch and press the use button to place or activate supported offhand items.
+
+Installation
+
+- Download the .mcpack file.
+
+- Open the file with Minecraft and wait for the import to finish.
+
+- Create a new world or edit an existing world.
+
+- Open Behavior Packs My Packs.
+
+- Select Better Offhand and press Activate.
+
+- Remove older versions of Better Offhand to prevent conflicts.
+
+- Enter the world and double crouch while holding an item.
+
+Enable experimental features only if required by your Minecraft version.
+
+Showcase
+
+Compatibility
+
+Designed for Minecraft Bedrock 26.x on Windows, Android, and iOS. Some items may have limited functionality because Bedrock does not provide complete Java-style dual wielding.
+
+Socials
+
+Terms of Use
+
+You may use the pack in personal worlds and compatible multiplayer servers. You may also showcase it in videos or streams with proper credit and share the official project page.
+
+Re-uploading, redistributing, selling, publicly sharing edited versions, using monetized download links, claiming the project as your own, or reusing its logo and assets without permission is not allowed.

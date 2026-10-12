@@ -1,0 +1,75 @@
+Sons of the Abyss is a Minecraft Bedrock addon currently in (VERY) early development. It aims to transform the ocean depths into a cold, mysterious and alien ecosystem inspired by real deep-sea biology rather than fantasy tropes (partially).
+
+This Pre-Alpha version serves as a small conceptual demo. It introduces a few mobs and one decorative block (not working now), designed to capture the atmosphere and direction of the full project.
+
+Disclaimer! - Read Before Downloading
+
+This is a Pre-Alpha release. That means:
+
+-Very limited content.
+
+-No custom structures or biomes.
+
+-Several bugs may be present.
+
+-Mobs currently have basic behaviors and incomplete animations.
+
+> This addon is not yet ready for survival gameplay it is a proof-of-concept.
+
+Content and polish will improve gradually with future updates.
+
+Mobs:
+
+Palaeocardia Petrosa (Filter-feeding Shrimp):
+
+-Slowly walks across the seabed.
+
+-Vanilla-style design with light animation.
+
+-Meant to represent deep-sea microfauna.
+
+-Will receive better behavior and maybe environmental interaction in future version
+
+Starfish
+
+Passive, stationary creature.
+
+No animation or interactivity yet.
+
+Texture variants are planned.
+
+May eventually serve decorative or ambient purposes.
+
+Sea Urchin
+
+-Semi-passive mob.
+
+-damages players who get too close.
+
+-Simple model with minimal behavior for now.
+
+Will likely evolve into a more interactive or dangerous entity later.
+
+Join the Abyssal Development!
+
+Do you want to be part of the depths?
+
+Join the official Sons of the Abyss Discord server to follow development updates, share feedback and ideas, or even contribute directly with your skills whether its modeling, texturing, coding, or sound design.
+
+Every bit of help brings this strange ocean to life.
+
+Discord link:
+
+https://discord.gg/ySZhGs4n
+
+Well, continuing...
+
+Deep Sea Corals:
+
+Shadow Coral A dark, brittle structure. Passive, ominous, and silent.
+
+Ember Coral Glows softly with a dull orange light. A spark of life beneath the pressure.
+
+Blood Coral Red-hued and heavy, said to grow where the current once carried screams.
+
+Please enable "Upcoming Creator Features" and "Beta APIs"

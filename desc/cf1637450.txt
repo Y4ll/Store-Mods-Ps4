@@ -1,0 +1,70 @@
+Introduction
+
+Survival Support is a quality-of-life addon designed to make your Minecraft Bedrock survival experience smoother, faster, and more enjoyable. Instead of changing the vanilla gameplay too much, it adds a collection of useful tools that reduce repetitive tasks while keeping the survival feeling intact.
+
+Whether you're mining deep underground, building large structures, or managing your farm, Survival Support helps you spend less time on tedious work and more time enjoying the game.
+
+How to Use
+
+Opening the menu is simple:
+
+- Sneak (Crouch).
+
+- Hold a pickaxe in your hand.
+
+- Look into the air (don't aim at any block or entity).
+
+- Left-click (or use the interact button).
+
+The Survival Helper Menu will appear, allowing you to enable or disable each feature individually whenever you want.
+
+Features
+
+Auto-Replenish Blocks
+
+Automatically refills your selected hotbar slot with the same block from your inventory when it runs out.
+
+Auto-Replace Tools
+
+When your tool breaks, it is instantly replaced with another tool of the same type from your inventory.
+
+Auto-Replant Crops
+
+Harvest crops with a single action while automatically planting new seeds.
+
+Auto-Replant Saplings
+
+When chopping trees, saplings will automatically be replanted to help forests regenerate.
+
+Treecapitator (Fast Chop)
+
+Break the entire tree by chopping a single log, making wood collection much faster.
+
+Vein Miner
+
+Mine connected ore veins or similar blocks at once instead of breaking them individually.
+
+Auto-Smelt
+
+Certain ores and blocks are automatically smelted when mined, saving both fuel and time.
+
+X-RAY
+
+And many other functions...
+
+Notes
+
+- Every feature can be turned ON or OFF individually through the Survival Helper Menu.
+
+- This addon is designed to improve survival gameplay without replacing the vanilla experience.
+
+- Compatible with modern Minecraft Bedrock versions.
+
+- Feel free to customize the addon to better suit your own playstyle.
+(X-RayTaking inspiration from Wanmine.)
+
+Thank You
+
+Thank you for downloading Survival Support!
+
+If you enjoy the addon, please consider leaving a review or sharing your suggestions. Your feedback helps improve future updates!

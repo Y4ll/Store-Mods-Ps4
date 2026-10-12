@@ -1,0 +1,37 @@
+NightVision Elite is a lightweight Minecraft Bedrock addon that gives you complete control over night vision no potions, no commands, no hassle. Explore caves, dungeons, and the darkest corners of your world with crystal-clear fullbright vision at the press of a button.
+
+Features
+
+- Toggle On/Off Sneak + jump to activate or deactivate night vision instantly
+
+- No Potions Needed Works without any items, brewing, or commands
+
+- Persistent Effect The addon automatically refreshes your night vision
+
+- No Particles Clean, distraction-free visual with no potion particle effects
+
+- Lightweight Minimal performance impact; runs efficiently in the background
+
+How to Use
+
+- Download the addon and open the .mcaddon file it will automatically import into Minecraft Bedrock.
+
+- Create or open a world and go to Behavior Packs in the world settings.
+
+- Activate NightVision Elite from your available packs and apply it to your world.
+
+- Once in-game, hold Sneak and Jump at the same time to toggle night vision on or off.
+
+- A message will appear on your screen Night Vision ON or Night Vision OFF confirming the change.
+
+- That's it! Your vision stays bright automatically. No need to reapply or carry any items.
+
+Tip: Works in singleplayer and multiplayer. Every player can toggle their own night vision independently.
+
+Requirements
+
+- Minecraft Bedrock Edition 1.19.0+
+
+- Behavior Pack enabled in your world
+
+- Experimental Features: Scripting API must be enabled in world settings

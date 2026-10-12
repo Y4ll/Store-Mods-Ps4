@@ -1,0 +1,65 @@
+The Ultimate 60+ FPS Visual Upgrade for Minecraft Bedrock
+
+NO Vibrant Visuals Required!
+
+Unlike other shader packs that force you into Mojang's experimental Vibrant Visuals / Deferred Lighting (which causes severe frame drops, black screen glitches, and battery drain), ZenXveda Vanilla+ Shaders is built directly for Minecraft Bedrock's native, stable rendering pipeline!
+
+- Zero Experimental Toggles: No need to enable risky creator settings.
+
+- Pure 60+ FPS Performance: Smooth as butter on budget phones, PCs, and consoles.
+
+- No Overheating: Runs reliably without graphic driver bugs or texture tearing.
+
+About The Project
+
+ZenXveda Vanilla+ Shaders is a completely overhauled, highly optimized shader pack created to transform your Minecraft Bedrock experience. Rebuilt from the ground up to deliver breathtaking atmospheric visuals. Experience glowing deepslate ores, volumetric sun rays, shimmering Northern Lights, and waving foliage without sacrificing your frame rate.
+
+Key Features & Visual Upgrades
+
+Radiant Self-Illuminating Glowing Ores
+
+Never miss precious ores in dark caves again! All mineral ores and deepslate veins emit a sharp, beautifully balanced self-illumination that cuts through pitch black caverns without flooding your screen with hazy, blurry light scattering.
+
+Volumetric Sun God Rays & Golden Sunlight
+
+Experience dramatic cinematic sunbeams cutting through forest canopies, mountain ridges, and cloud formations. Enjoy warm golden hour sunrises and cinematic twilight sunsets that make every landscape feel majestic and alive.
+
+Shimmering Northern Lights (Auroras)
+
+Look up at night in frozen peaks, snowy tundras, and high-altitude biomes to witness breathtaking aurora borealis ribbons dancing across the dark sky, bathing the landscape in mystical turquoise and violet luminescence.
+
+Organic Waving Leaves, Grass & Water
+
+The world is in motion! Tree leaves gently sway in the breeze, while tall grass and golden wheat fields ripple like ocean waves. Engineered with lightweight vertex animation that stays pinned at 60+ FPS, paired with crystal clear water and custom biome fogs.
+
+3 Built-In Subpack Presets (Switch In-Game)
+
+Click the gear icon on the Resource Pack in your Minecraft settings to choose your ideal graphics profile anytime:
+
+- Performance Mode: Perfect for budget phones. Glowing Ores & Waving Foliage at guaranteed 60+ FPS.
+
+- Balanced Mode (Recommended): The ideal survival preset. Adds God Rays & Shooting Stars.
+
+- Ultra Quality (Cinematic): The complete visual package. Unlocks Northern Lights and Bioluminescent Fireflies!
+
+Installation & Quick Setup
+
+Installing ZenXveda Vanilla+ Shaders takes less than 30 seconds:
+
+- Download the latest .mcpack file from the Files tab.
+
+- Double-click or tap the downloaded file to automatically import it into Minecraft Bedrock.
+
+- Go to your Settings > Global Resources and activate the pack.
+
+- (Optional) Click the gear icon to choose your performance preset.
+
+- Jump into your world and enjoy next-gen visuals with ZERO experimental toggles needed!
+
+Looking for realistic water, waving plants & cinematic shadows? Check out our flagship ZenXveda Shaders v2.0!
+
+Join The Community!
+
+Support our work, get early previews, and stay updated on our latest projects!
+
+YouTube Instagram Twitter (X) Discord Ko-fi Patreon MCPEDL CurseForge

@@ -1,0 +1,110 @@
+Feather FPS Boost Mod
+
+Feather FPS Boost Mod is a lightweight, general-purpose performance optimization addon for Minecraft Bedrock Edition, designed to improve frame rate stability and overall smoothness while keeping the vanilla look intact.
+
+Works on existing worlds | No experimental features required | Achievement friendly | Bedrock 1.21.0+
+
+Performance Improvements
+
+Feather focuses on client-side rendering overhead and spawn density, the largest sources of lag on Bedrock devices.
+
+What
+Impact
+
+186 particle types handled
+177 removed outright, 9 potion, spell and gas effects kept but trimmed
+
+42 of 80 block animations frozen
+Water, lava, magma, bubble columns, kelp, campfires and portals stop cycling frames
+
+Fire animation halved (32 16 frames)
+Half the texture cycling cost on fire and soul fire, while staying readable
+
+Three fog modes
+Overworld, Nether, End and sulfur caves each cull distant geometry earlier
+
+No volumetric fog cost
+None of the pack's fog definitions use Vibrant Visuals volumetrics
+
+Blocky Vibrant Visuals shadows
+Removes per-edge shadow filtering when VV is on
+
+Spawn density reduced across 35 mobs
+Herd sizes, spawn weights and density limits trimmed
+
+Entity sound volumes trimmed
+85 mobs, 44 individual events and 40 sound definitions pulled down
+
+Colormaps desaturated at 6464
+Less VRAM, more natural tone, no neon green foliage
+
+Sky and weather textures downscaled
+End sky, end flash and rain splash reduced to 11
+
+Fog Modes
+
+Pick one from the subpack list when you activate the pack, and switch at any time:
+
+- Optimized short-range fog, best FPS. The original Feather look
+
+- Balanced mid-range fog, softer horizon. More visibility, still culls geometry
+
+- Clean no fog at all, with clear water in every biome. For strong devices or anyone who dislikes fog
+
+Low-End Friendly Design
+
+Built primarily for low-end and mid-range devices phones, tablets, and older PCs that struggle with vanilla Bedrock's visual load. Stuttering during mob spawns, lag in built-up areas, and thermal throttling during long sessions are the exact problems this pack targets.
+
+- Reduced GPU load per frame
+
+- Smoother frame pacing and less stutter
+
+- Better performance in dense mob environments
+
+- Reduced overheating during long play sessions
+
+- Improved consistency in both singleplayer and multiplayer
+
+What Is And Isn't Changed
+
+Not touched: crafting, physics, progression, world generation, loot, mob AI, pathfinding, attacking, or any core game logic. Colormaps are desaturated for a more natural tone but do not affect block data or biome logic. Achievements stay enabled.
+
+Changed, and worth knowing: the behaviour pack trims herd sizes, spawn weights and density limits on 35 mobs. Passive animals spawn in smaller groups than vanilla a cow herd is 2 instead of 4. This is where a large share of the FPS gain comes from, but it does mean mob density is visibly lower. If you want untouched spawning, run the resource pack on its own; it works standalone.
+
+Fully compatible with:
+
+- Survival and Creative mode
+
+- Multiplayer servers and Realms
+
+- Existing worlds (no reset needed)
+
+- Long-term survival worlds
+
+- Vibrant Visuals
+
+- Most resource packs and shaders
+
+Installation
+
+- Download the .mcaddon (both packs in one file), or the BP and RP .mcpack files separately
+
+- Tap or double-click the file Minecraft imports it automatically
+
+- Go to Settings Global Resources, or open a world Behaviour / Resource Packs
+
+- Activate Feather FPS Boost v11 [BP] and [RP]
+
+- Pick a fog mode from the subpack list
+
+- Launch your world - no further configuration required
+
+Compatibility
+
+- Minecraft Bedrock Edition 1.21.0+, updated for 26.50
+
+- Android, iOS/iPadOS, Windows 10/11, Xbox, PlayStation
+
+- Compatible with most resource packs and shaders
+
+- No experimental features required

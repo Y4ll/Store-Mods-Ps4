@@ -1,0 +1,23 @@
+TaCZ Target is an unofficially ported Humanoid Target from TaCZ Guns Mod, ported as an add-on package for the TaCZ-BE Guns Addon
+
+- TaCZ Guns Mod, By NekoCrane
+
+- TaCZ-BE Guns Addon, Ported By Akang Krep
+
+The function of this addon is as a shooting target using guns from the TaCZ-BE addon, but this addon can also be used with other addon guns besides TaCZ-BE too
+
+Don't worry about bug because it is 100% safe from Bug !!!
+
+Want something survival-friendly?, this addon has it, so you can craft it using a crafting table
+
+For the crafting recipe, you only need:
+
+- 5 Iron Ingot
+
+- 1 Redstone Dust
+
+- 1 Planks (All types)
+
+If you want to download TaCZ-BE Guns, you can download it on my Wiki Website here
+
+Good Luck!

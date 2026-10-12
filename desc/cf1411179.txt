@@ -1,0 +1,121 @@
+Syc's Auto Enchantment Pro
+
+Syc's Auto Enchantment Pro is a powerful quality-of-life mod that automatically applies high-level enchantments to the tools, weapons, and armor you hold. Built to save time and reduce grinding, this "Pro" version introduces a brand-new custom UI system that gives you complete control over your loadout without ever needing an enchanting table. Whether you are mining, fighting, exploring, or building, this mod helps you stay prepared with maxed-out gear. It is designed to feel smooth, efficient, and straightforward, keeping your gameplay focused on action instead of setupand the best part? It works entirely on stable releases. No Beta APIs or Experimental toggles required!
+
+How To Use This Mod ?
+
+Getting your gear fully enchanted is now completely automatic and customizable. Here is how the new system works:
+
+- The Background Enchanter: Simply equip any enchantable item (Sword, Pickaxe, Mace, Armor, etc.) in your main hand. The mod will instantly apply all common, non-conflicting max enchantments (like Unbreaking III, Mending I, and Efficiency V) in the background without you having to press a single button.
+
+- The Custom Settings Menu: Because Minecraft doesn't allow certain enchantments to be combined (like Fortune and Silk Touch, or Sharpness and Smite), you can now choose exactly which ones you want using the built-in UI menu!
+
+- How to open: Hold a Carrot on a Stick and use it (Right-Click, Long-Press, or Left Trigger) to open the Auto-Enchant Settings Menu.
+
+- Configure your gear: Use the dropdown menus to select your preferred conflicting enchantments for every tool and weapon type.
+
+- Save your choices: You MUST scroll to the bottom and click "Submit" for your preferences to save! Once saved, your choices will automatically apply to any new tool you hold.
+
+Important Note on Re-Enchanting -
+
+To prevent the script from glitching your inventory, the mod checks if an item already has Unbreaking. If it does, the mod will skip it. If you want to change the enchantments on a tool you already enchanted (e.g., swapping from Fortune to Silk Touch), you must remove its enchantments using a Grindstone first.
+
+Features
+
+- Instant Auto-Enchanting: Automatically enchants tools, weapons, and armor the second you hold them.
+
+- In-Game UI Menu: Customize your specific loadout preferences using a Carrot on a Stick.
+
+- Smart Conflict Resolution: Pick exactly what you want when enchantments clash (e.g., Mending vs Infinity, Riptide vs Loyalty).
+
+- 100% Vanilla Stable: Requires ZERO Beta APIs or experimental toggles to work.
+
+- Supports 1.21+ Items: Fully supports the Mace, Spears, and all the newest enchantments.
+
+Supported Enchantments
+
+- Sharpness V
+
+- Fire Aspect II
+
+- Looting III
+
+- Efficiency V
+
+- Unbreaking III
+
+- Mending I
+
+- Fortune III
+
+- Protection IV
+
+- Feather Falling IV
+
+- Depth Strider III
+
+- Soul Speed III
+
+- Swift Sneak III
+
+- Respiration III
+
+- Aqua Affinity I
+
+- Power V
+
+- Flame I
+
+- Loyalty III
+
+- Impaling V
+
+- Riptide III
+
+- Channeling I
+
+- Luck of the Sea III
+
+- Lure III
+
+- Quick Charge III
+
+- Multishot I
+
+- Piercing IV
+
+- Density V
+
+- Breach IV
+
+- Wind Burst III
+
+- Infinity
+
+- Lunge III
+
+- Bane of Arthropods V
+
+- Smite V
+
+- Blast Protection IV
+
+- Frost Walker II
+
+- Knockback II
+
+- Wind Charge III
+
+- Fire Protection IV
+
+- Projectile Protection IV
+
+- Silk Touch I
+
+- Help Me -
+
+Why Use This Mod?
+
+Syc's Auto Enchantment Pro is ideal for players who want stronger gear instantly and prefer a smoother, more enjoyable progression. It keeps your inventory powerful and your gameplay efficient, without the usual hassle of manual enchanting or the frustration of conflicting enchantment books.
+
+Made by: SycureGaming

@@ -1,0 +1,78 @@
+A addon for MCBE that despawns mobs no player can currently see (out
+of FOV *and* behind a block) and restores them - position, rotation, health,
+name tag - once a player can see that spot again. This is the same idea as
+client-side "Entity Culling" mods, reimplemented server-side with the
+`@minecraft/server` scripting API, since Bedrock add-ons can't hook the
+renderer directly.
+
+Built against **Minecraft Bedrock 1.26.40**, using `@minecraft/server` v2.9.0
+(stable - no experimental/cheats toggles required).
+
+XP clumps (New!)
+
+A separate subsystem from culling (`xpClumps.js`), with its own loop, its
+own enable flag, and its own stats. It reduces XP orb counts near players
+without ever destroying or creating XP.
+
+**Why it can't just merge orbs directly.** An orb's XP value isn't readable
+through the stable script API, so the obvious approach read N orbs, remove
+them, spawn one worth the total - would be guessing at the amount.
+(`Dimension.spawnXp()` exists but is pre-release, so it isn't relied on
+either.) Instead the system only ever *moves* orbs and lets the engine do
+the rest:
+
+- Orbs within `instantCollectRadius` (default 0.8 blocks) of a player get
+nudged into that player, so vanilla's own pickup code awards the exact XP.
+- Remaining orbs are grouped and moved onto a shared anchor, so Bedrock's
+native orb-merging combines their values.
+
+**Nothing in `xpClumps.js` calls `remove()` on an orb.** The engine is the
+only thing that ever deletes one - which is what makes XP loss or
+duplication structurally impossible here rather than just unlikely. If a
+merge doesn't happen for some reason, the orbs are still sitting there and
+the next pass retries; the cost is a wasted teleport, not lost XP.
+
+Other design notes:
+
+- **XP orbs are never culled.** `filters.js` hard-blocks
+`minecraft:xp_orb` with no config flag, alongside players. Culling one
+would save its type and position while silently losing its value.
+- **Groups are anchor-based, not chained.** Every member must be within
+`mergeRadius` of the anchor itself - otherwise a chain of 2-block hops
+would collapse a 6-block-wide spread into one point.
+- **The anchor is the orb with the most neighbours**, so it sits near the
+middle of a cluster and the orbs that move travel less.
+- **A spatial hash** keeps neighbour lookups local instead of comparing
+every orb against every other one.
+- **`maxProcessedPerTick`** (default 20) caps how many orbs move per pass,
+so a big farm dumping hundreds of orbs at once can't spike a tick - the
+count still drops quickly, just over several passes.
+- **A short cooldown** after moving an orb gives the engine time to
+actually merge it before the next pass looks at it again.
+- **Merge success is verified, not assumed.** Moved groups are rechecked a
+few ticks later; a member that no longer exists was absorbed. That's why
+`/cull:stats` reports merge *attempts* and *successful* merges
+separately.
+
+| Command | What it does |
+| --- | --- |
+| `/cull:xpclumps on` / `off` | Enable/disable XP clumping |
+| `/cull:xpclumps status` | Show current state and the active radii/interval |
+
+`/cull:off` disables culling only - XP clumping keeps running. Likewise
+`/cull:xpclumps off` leaves culling alone. The tuning values
+(`mergeRadius`, `scanRadius`, `checkIntervalTicks`, `maxProcessedPerTick`,
+`minOrbsToMerge`, `mergeCooldownTicks`) live in `config.js` under
+`xpClumps` and aren't exposed as commands yet.
+
+How it works:
+
+1. Every few ticks, each player's nearby entities are scanned
+(`scanner.js`), out to `maxDistance` (default 64 blocks).
+2. Entities are filtered down to ones that are safe to touch
+(`filters.js`), following a fixed precedence: protected entities (no
+players, no XP orbs, no paintings/armor stands/cushions, no bosses, no
+villagers/traders, no leashed/ridden/inventoried mobs, and by default no
+custom-named entities) are never cullable, no matter what; then the
+blacklist; then the whitelist (if you've set one); and finally the
+hostile/passive/items category togg

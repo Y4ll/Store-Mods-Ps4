@@ -1,0 +1,81 @@
+Join the Discord for Bug Reports, Announcements, and Suggestions!
+
+Tutorial For the mod!:
+
+ALL CRAFTING RECIPES ARE TO BE DONE THROUGH THE SUPER STATION EXCEPT FOR THE SUPER STATION ITSELF
+
+(AND BIZARRO WORLD ITEMS)
+
+How to get powers
+
+Getting Platinum Kryptonite:
+
+1. The Kryptonian Pod
+
+Essentially works as a lootbox, which falls from the sky and can be interacted with upto thrice to get various kryptonite based items
+
+2. Ores
+
+You can find these ores underground from Y 32 to Y -60
+The three ores are
+Deepslate Kryptonite Ore
+Regular Kryptonite ore
+Deepslate platinum kryptonite ore
+
+Step 2: Centrifuge
+
+You then have to take an empty vial, and interact with it for 3 seconds, to get a blood vial (this takes 1.5 hearts so make sure you are not too low), then synthesise that into vials
+
+Step 3: Powers
+
+You get a kryptonian-blood vial, which you drink and there is an 85% chance that you get the half kryptonian powers, and 15% chance you get glasses, or the full kryptonian powers!
+
+POWERS
+
+Full-Kryptonian Powers
+
+Heat Vision: You simply hold and interact with the item and it will light whatever you look at on fire and hurt it
+
+Thunder Clap: You must hold it for 3 seconds at least and release a thunderous wave to knockback enemies
+
+Frost Breath: You must hold it for 3 seconds and release a frigid wave of air that turns the ground into snow, water into ice and lava into obsidian
+
+Kryptonite Vulnerability: If you are within 15 blocks of kryptonite you get poison and slowly lose your powers and gain varying negative affects the closer you get
+
+Flight: If you sprint and hold jump then you initiate flight, it isnt as perfect as regular flying, but it is similar
+
+Half-Kryptonian Powers
+
+Telekinetic Shield: You simply hold and interact with the item and it will cover you with a light purple shield which prevents any damage happening to you, however you cannot attack while it is in use.
+
+Thunder Clap: You must hold it for 3 seconds at least and release a thunderous wave to knockback enemies
+
+Frost Breath: You must hold it for 3 seconds and release a frigid wave of air that turns the ground into snow, water into ice and lava into obsidian
+
+Kryptonite Vulnerability: If you are within 15 blocks of kryptonite you get poison and slowly lose your powers and gain varying negative affects the closer you get
+
+Super Jump: If you hold jump then you jump as high as you want depending on how long you hold jump, but you have to be careful as if the block you land on is 40 blocks below the apex of your jump you could die
+
+Steel
+
+Kinetic Hammer:
+It can be crafted with the followng recipe, and can be thrown and returns to the thrower like a trident.
+It does damage based on how long the kinetic hammer has travelled for before hitting the entity. (X ticks * 1.2)
+
+Upon sneaking and interacting it can be switched to a melee mode where holding it for more than 1 second releases a hammer smash attack doing 12 damage to all entities within 4 blocks, AND can poison kryptonians.
+
+Steel Suit Activator: Can be crafted with the recipe below, and upon sneaking and interacting it puts the steel suit on you (Older armor is preserved)
+
+BOSSES
+
+ZOD:
+
+This is the first boss you need to find, and to beat him you will need to lower his health to less than a 100, and then use the phantom zone projector. You cannot beat him manually and need to use the phantom zone projector, the structure can be found in the mesa.
+
+LEX LUTHOR:
+
+This is the second boss you need to find, you can find him in the plains biome. However you cannot hit him normally, and only attack him at his chest area, for the first half of his health bar he cannot attack you with anything more than projectiles, after that he will shoot kryptonite projectiles, which can be quite harmful and do extreme kryptonite poisoning damage.
+
+BIZARRO:
+
+Bizarro is spawned by lex luthor, you must then make a bizarro projector using the phantom projector, 2 ender eyes and 2 echo shards. You must first tame him using kryptonite frag

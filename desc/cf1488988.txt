@@ -1,0 +1,51 @@
+Pokesnacks Addon (SERP PokeDrock Complement) is an unofficial addon designed to enhance your adventure by adding a brand new system of special snacks inspired by Pokemon types.
+
+This addon introduces 18 unique Poke Snacks, each one representing a different type, giving you new ways to interact with your world and improve your gameplay experience.
+
+Features
+
+18 Poke Snacks (one for each type)
+
+Each snack has unique effects
+
+Custom mechanics for better gameplay
+
+Designed to support your adventure and progression
+
+Compatible with SERP PokeDrock
+
+How it works
+
+Craft and use different Poke Snacks to gain special effects that can help you in battles, exploration, and survival. Each type offers a different advantage, so choose wisely depending on your situation.
+
+All items are crafted using the addons custom crafting table called the Molcajete, which is required to create every Poke Snack.
+
+News
+
+- Added crafting recipes for the Enchanted Golden Apple and Honeycomb (both are crafted using the Molcajete).
+
+-
+
+Introduced a new mechanic for Serp Pokelitos. Placing Pokelitos into a Basket allows them to spawn Pokemon. 1 Pokelito = 1 Pokemon.
+
+Pokelito Spawn Types
+
+- pokelito_citrus Grass, Fairy, Bug, and Flying
+
+- pokelito_mint Water, Ice, Electric, and Normal
+
+- pokelito_mocha Fire, Rock, Ground, and Dark
+
+- pokelito_spice Fighting, Poison, Ghost, and Dragon
+
+- pokelito_sweet Psychic and Steel
+
+Multiple Pokelitos can be placed in the Basket (up to 10), and the Basket can be refilled as needed.
+
+- Fixed various bugs and minor issues.
+
+Credits
+
+Inspired by the mechanics and concept of Cobblemon
+
+Screenshots / Preview

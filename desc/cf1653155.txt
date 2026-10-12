@@ -1,0 +1,57 @@
+The Waystones Add-on adds Waystone blocks with a survival-friendly teleport system. Connect your base to distant locations by spending XP levels. Choose from different editions to suit your playstyle.
+
+- ACHIEVEMENTS FRINDLY
+
+- Compatible with Vibrant Visuals.
+
+- Extremely optimized.
+
+- Fast loading.
+
+- No experimental features required.
+
+- Multilanguage: Supports pt-BR, en-US, de-DE, ru-RU, fr-FR, it-IT, es-MX, es-ES, pt-PT, zh-CN, ja-JP, ko_KR. Report errors on Discord.
+
+Discord: Click here
+
+How It Works
+
+Waystones create fast-travel points through an intuitive interface. Teleport costs range from 1 to 10 XP levels, calculated by distance. Each dimension has a maximum Waystone limit to preserve performance:
+
+- Main Edition: 12 slots in the Overworld, 7 in the Nether, 5 in the End.
+
+- Unlimited: No XP required!
+
+If a dimension reaches its limit, break an existing Waystone to register a new one.
+
+Crafting Recipe:
+
+Place the Waystone and click it to register. Rules:
+
+- Name must be 316 characters.
+
+- No duplicate coordinates (x, y).
+
+- No duplicate names in the same dimension.
+
+- Dimension slot limit must not be exceeded.
+
+First interaction shows the registration screen:
+
+After naming, the Waystone activates and runes turn white. Click again to open the travel menu:
+
+1.1 UPDATE (9/16/2026)
+
+- The "Main" version has been improved.
+
+- New Waystone variants added.
+
+- Processing engine improvements.
+
+- Bug fixes in the "Unlimited" version.
+
+Editions
+
+- Main Edition: 10,000 blocks range. 15 Overworld, 10 Nether, 5 End slots.
+
+- Unlimited Edition: No distance limits, no slot limits, free teleportation. Perfect for servers.

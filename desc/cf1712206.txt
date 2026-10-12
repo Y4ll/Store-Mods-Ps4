@@ -1,0 +1,28 @@
+How to Use
+
+Spawn and start your AI opponent using /scriptevent commands.
+
+Spawn the default bot:
+
+/scriptevent pvpbot:spawn
+
+Spawn a bot at specific coordinates with a custom name:
+
+/scriptevent pvpbot:spawn <x> <y> <z> <AshBlast0P_BOT_>
+
+Start the AI Bot
+
+/scriptevent pvpbot:start AshBlast0P_BOT_
+
+Installation
+
+Download the .mcaddon file.
+Open it with Minecraft Bedrock Edition.
+Activate the required packs in your world settings.
+
+Enter your world and spawn the AI bot using the commands above.
+
+Credits
+
+created by ash blast
+Built for Minecraft Bedrock Edition PvP.

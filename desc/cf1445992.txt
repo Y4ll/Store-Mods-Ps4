@@ -1,0 +1,64 @@
+Bedrock Voice Chat is an client app + addon for Minecraft Bedrock edition that provides a high performance, low latency and secure voice chat server written in Rust for Minecraft Bedrock Dedicated Server, with the objective of having feature parity with Simple Voice Chat for Java, and a significantly improved experience for Bedrock users.
+
+- Support for WSAPI + ASIO inputs
+
+- Proximity Chat with Positional Audio
+
+- Group Chats for persistent audio
+
+- Works on Desktop (Windows 10/11), iOS, and Android
+
+- Client Audio Controls (muting, deafening, individual volume slider)
+
+- Audio Recording to separate audio tracks for later download/processing with Timecode support
+
+- Noise Suppression, Audio Amplification
+
+- Voice Detection
+
+- Fully Encrypted
+
+- Opus Audio Codec
+
+- And More
+
+This CurseForge release provide the Bedrock Dedicated Server (.mcaddon) file necessary for installation on your server. For Bedrock Dedicated Servers, BVC Server and the Client app are necessary to complete the installation For more information about how to install and configured Bedrock Voice Chat for your server, please review the BVC Wiki: https://github.com/Alaydriem/bedrock-voice-chat/wiki.
+
+Bedrock Voice Chat requires a server-side behavior pack in order to determine player positioning for proximity chat. Server operators must have this pack installed and running before you can connect to a Bedrock Voice Chat Instance.
+
+-
+Download the latest behavior pack from the Github Releases page. This will be provided as either a zip file or an mcpack
+
+-
+Upload the pack to your BDS Server instance to the root behavior_packs directory. There is not need to extract this.
+
+Do not upload the pack to your worlds folder, as you may inadvertently expose BVC Server endpoint, and API keys in any public downloads.
+
+- If you are not using a pre-generated pack that has your access token and server address embedded into the pack, add the following to your config/default/variables.json file on the server.
+
+{
+"bvc_access_token": "<YOUR_TOKEN_DEFINED_FROM_HCL_HERE>",
+"bvc_server": "https://YOUR_BVC_SERVER_FQDN",
+"bvc_debug": false
+}
+
+- Update your config/default/permissions.json to have the following:
+
+{
+"allowed_modules": [
+"@minecraft/server-gametest",
+"@minecraft/server",
+"@minecraft/server-ui",
+"@minecraft/server-admin",
+"@minecraft/server-editor",
+"@minecraft/server-net"
+]
+}
+
+- Ensure Beta APIs are enabled for your world.
+
+- Update your world behavior packs file to enable the addon. The UUID is: 6fb24263-357a-407c-aebe-681f50b2de50. Make sure you are using the latest version.
+
+- Start BDS Server.
+
+https://github.com/Alaydriem/bedrock-voice-chat

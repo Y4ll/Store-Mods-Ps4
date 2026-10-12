@@ -1,0 +1,35 @@
+Ardrafflesia/Raden1's customized Newb Shader for Minecraft: Bedrock Edition
+Supports 1.26.50+ for Android, Windows and iOS
+-
+-
+
+-
+This shader features 4 sets of subpacks: One that includes a galaxy, High, Medium and Lite.
+3 High and Medium subpacks for 3 diffrent kinds of Clouds
+-
+-
+
+-
+
+KNOWN ISSUES:
+> Stuttering/glitched Rounded clouds in Windows
+> "Cut" look in Rounded clouds
+> Weird lighting appearing in shadowed areas
+
+-
+
+-
+
+-
+For shader feedback and bug reports please go to Newb Shader's Discord server and visit this variant's feedback thread.
+-specific thread link:
+https://discord.com/channels/844591537430069279/1522679794679152830
+-newb shader server link:
+https://discord.gg/WCJN9bmyWw
+-
+-
+
+-
+
+Map credits:
+Arcania (DragonLordPixal), USW (TrixyBlox), Tideworn and Mosslorn (milkshake_mp3)

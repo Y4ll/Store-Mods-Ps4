@@ -1,0 +1,84 @@
+Join my Discord server
+There you can request custom commissions, get VIP access, see exclusive addon progress, and stay updated with everything new before anyone else. Dont miss out!
+
+--- Compatible with any Addons || Realms!! || Action and Stuff ---
+
+-This add-on does not disable achievements.-
+
+-Not need any experimental games-
+
+-DOES NOT USE PLAYER.JSON-
+
+My Official Page
+
+This addon is based on the Minecraft Java mod with the same name, adding hammers that cut 3x3, swords that damage areas, axes that break wood by breaking a block, and shovels that cut dirt 3x3, etc.
+
+--Installation Guide--
+
+You must download the Hammer Time 2d BP file for the addon's behavior, and then the Hammer Time 2d RP file for the addon's textures. These two files are required for the addon to work properly.
+
+Update V2.2.3
+
+In this update, we've implemented translations for all languages available in the game, including items, categories, and the configuration book.
+
+Update 2.2.2
+
+In this update, a new option was added to the configuration book: Durability Cost. This option allows you to modify the amount of durability the item will lose when its ability is used.
+
+Update 2.2.1
+
+Hammer Time includes a Tools Config item that allows players to customize how the custom tools work directly in-game. With this menu, players can enable, disable, or adjust different features depending on their playstyle.
+
+This system gives more control over area mining, digging, farming, tree cutting, drops, sounds, particles, durability, and knockback.
+
+Configuration Options
+
+Hammer Area Mining
+
+Enables or disables the area mining ability for hammers. When enabled, hammers can break compatible blocks in a 3x3 or 5x5 area, depending on the selected Area Size. This makes mining stone, ores, and other compatible blocks much faster.
+
+Shovel Area Digging
+
+Enables or disables the area digging ability for great shovels. When enabled, shovels can dig multiple compatible blocks at once, making terraforming, clearing dirt, and working with ground blocks much easier.
+
+Sickle Leaves Breaking
+
+Enables or disables the area breaking ability for sickles. When enabled, sickles can break leaves in an area, making it faster to clear trees, bushes, and vegetation.
+
+Axe Tree Capitator
+
+Enables or disables the Tree Capitator feature for great axes. When enabled, axes can break connected logs from a tree at once. This is useful for cutting down trees faster without breaking each log manually.
+
+Path / Farm Actions
+
+Enables or disables special right-click tool actions. This includes turning grass or dirt into paths, converting ground blocks into farmland, and stripping logs with axes. When disabled, these special tool actions will not be applied.
+
+Drops
+
+Enables or disables block drops when using special area-breaking abilities. If enabled, affected blocks will drop items normally. If disabled, affected blocks will be removed without dropping items.
+
+Actionbar Counter
+
+Shows or hides an actionbar message that displays how many blocks were affected by the tool ability. This is useful if players want to see how many blocks were mined, dug, converted, or broken in one use.
+
+Sounds
+
+Enables or disables sound effects when using Hammer Time tool abilities. Players can turn this off if they prefer a cleaner or quieter experience.
+
+Particles
+
+Enables or disables particles when using Hammer Time tool abilities. This can be useful for visual feedback, but players can disable it if they want better performance or a cleaner screen.
+
+Custom Durability
+
+Enables or disables the custom durability system for Hammer Time tools. When enabled, tools lose durability when their custom abilities are used. When disabled, the custom durability system will not be applied.
+
+Activation Mode
+
+Changes when the custom tool abilities can be used.
+
+- Not Sneaking: Tool abilities only work when the player is not sneaking.
+
+- Sneaking Only: Tool abilities only work while the player is sneaking.
+
+- Always: Tool abilities work both wh

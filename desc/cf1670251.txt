@@ -1,0 +1,53 @@
+No Particles - No Lag
+
+No Particles removes all particles from the game less visual clutter, better performance. If particles are causing lag or you just prefer a cleaner look, this pack sorts it out instantly.
+
+- Removes all particles from the game
+
+- Helps reduce lag and improve performance
+
+- Cleaner and less cluttered gameplay experience
+
+EXPLORE MY OTHER PROJECTS
+
+Fully Grown Crop Marker
+Adds a shine effect to fully grown crops so you can spot harvest-ready crops instantly.
+
+No Particles - No Lag
+Removes all particles to cut visual clutter and boost performance.
+
+Hydra Visuals
+Vivid blue skies, warm sunset glow and clean village lighting.
+
+Connected Hotbar
+Removes the dividers between hotbar slots for one clean, unbroken bar.
+
+Full Grass | Fast Grass
+Full green grass on every side of grass blocks, with no dirt strip.
+
+Dark Mode UI
+A sleek dark theme for menus, inventory and crafting screens.
+
+Arvix Visuals
+Rich green foliage, soft pink and purple sunset skies and crisp clouds.
+
+Re-fined crops
+A cleaner look for carrots, potatoes, beetroot, wheat and more.
+
+Animated Totem Of Undying
+Makes your Totem of Undying blink when held in hand.
+
+Colorful World
+Re-saturates every default texture, with four strength levels.
+
+Breeze Visuals
+Soft pastel skies, clear water reflections and a calm village atmosphere.
+
+Lower Fire For Pvp
+Shrinks the on-screen fire so you can see your opponent while burning.
+
+Glass Door & Trapdoors
+Replaces wooden doors and trapdoors with see-through glass versions.
+
+Pattern Beds
+Adds decorative pattern designs to all bed textures.

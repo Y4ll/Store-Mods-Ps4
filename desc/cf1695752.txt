@@ -1,0 +1,39 @@
+TREK STRUCTURES fills your Overworld with over a hundred new structures to discover. Cottages, castles, forts, camps, ruins, watchtowers, floating islands, sunken cities, pyramids and seven brand new village styles now generate naturally as you explore. Every structure fits its biome, many hide chests full of loot, and villages come alive with villagers and animals.
+
+What You Will Find
+
+Small Finds
+
+Spread everywhere so there is always something nearby: rocks, plains decorations, wells, old ruins, desert and swamp ruins, a mushroom house, elven pillars, frozen remains, a smoldering altar, a termite hill, strange stones and small pillager wells.
+
+Buildings and Camps
+
+The most common group, with more than 70 structures. Plains, spruce and snow cottages, a hobbit hole, a haunted house, a sorcerer's house, a witch tower, an enchanter's house, a church, a graveyard, forts, towers, an ice fort, a jungle treehouse, a mangrove watchtower, an oasis, a desert ranch, a railroad, a buried village, wandering trader stalls, trading posts, explorer cabins, camps, farms and many more.
+
+Pillager Hideouts
+
+Pillagers have moved out of their outposts. Look out for pillager bases, camps, farms, weapon stashes, street vendors, a pillager ship, an offshore platform and a water reservoir.
+
+Rare Landmarks
+
+Big structures worth travelling for: castles, an abandoned pillager castle, a pillager mansion, a villager castle, a villager fortress, a villager island, a wooden manor, the Pyramid of Anubis, a Mayan temple, a sunken city, a giant sword portal, an elven tree, a mushroom island, a tower island, a cottage island and a sleepy island.
+
+Very Rare
+
+Coves, a floating farm island and a large floating farm. You will be lucky to find one.
+
+New Villages
+
+Seven new village styles generate alongside the normal villages: Plains, Desert, Savanna, Snowy, Taiga, Swamp and Cherry. Each one has its own houses, streets, decorations and villagers.
+
+New Pillager Outposts
+
+Pillager outposts now appear in places they never did before: Forest, Dark Forest, Swamp, Mangrove, Desert and Jungle.
+
+Big Stronghold
+
+A new, larger stronghold can be found deep underground.
+
+Credits
+
+This add-on is an unofficial Bedrock port of the Java Edition datapack Trek by hotsuop. Its structures and loot tables are used under its MIT license.

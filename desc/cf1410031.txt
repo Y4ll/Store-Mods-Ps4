@@ -1,0 +1,24 @@
+jhahahah, thats right Wok.., this is the solution for you whos tired of moving items or searching items manually!
+
+So what does this resource pack actually do? Well, heres how it works, when you open a chest, youll see some buttons on the right side (check the screenshot), there are two sections there, container buttons and inventory buttons, okay so the first button is used to transfer all items, then the second button is a dynamic transfer that moves items closest to slot 0, you could call it a sorter but not really, hmm just think of it as a semi-sorter :v, alright then the third button is for refilling items, for example if you have a dispenser and want to refill arrows, you just press this button, and if youre still confused you can check the showcase video below!
+
+Showcase Video
+
+Extra feature: selected item highlight, when you select an item, all matching item slots will be highlighted in green, this is useful if youre too lazy to search for items.
+
+Note: the buttons and item highlight are only available in all chests, hoppers, dispensers, and droppers.
+
+Okay mina-san, lets move on to the Q&A section.
+Does this support other UI packs? Well, it depends, if another UI pack completely changes the entire UI, then this resource pack most likely wont be supported.
+Dark mode? Nope, not yet, Ill add it in a future update.
+
+Known issue:
+The dynamic transfer button sometimes doesnt work if you click the same spot while using touch or mouse, the workaround is to press Enter if youre using a keyboard, or click the button then move slightly and click again.
+
+Join Our Community
+
+discussions, submit suggestions, report bugs and more
+
+Discord Server | Telegram Group | Whatsapp Group(+62 only)
+
+Reference: Inventory Management

@@ -1,0 +1,261 @@
+ITEMS:
+
+Golden Clock
+
+When you use this item, it becomes day if it is night, and night if it is day. Can be found in monster spawner.
+
+Milk Potion
+
+It takes away all the negative effects. Can be found in igloos.
+
+Green Apple
+
+Gives resistance for 10 seconds. Can be found in mineshaft.
+
+Hellish Hot Pepper
+
+Gives speed for 5 seconds and fire resistance for 15 seconds. Can be found in nether fortress.
+
+Sculk Potion
+
+You become invulnerable to all attacks for 10 seconds, but you gain a Blindness effect for 1 minute. Can be found in ancient city.
+
+Copper Amethyst Goat Horn
+
+Causes a thunderstorm. Can be found in pillager outpost.
+
+Allay Dust
+
+Can be found in pillager outpost.
+
+Antigravity Enderpearl
+
+Like a normal ender pearl, but without gravity.
+
+Antigravity Rock
+
+When you have it in your mainhand, it gives you levitation.
+
+Ender Dust
+
+Teleports you to a random location within a 10 block radius.
+
+Heart of the Sea Amulet
+
+Having it in a bauble slot gives you the conduit effect while you are in water.
+
+Invisibility Cloak
+
+Having it in a bauble slot gives you the invisibility effect.
+
+Magic Mirror
+
+Allows you to save a location.
+
+Rage Potion
+
+Gives you strength and speed effects.
+
+Recall Potion
+
+Teleports you to your last spawnpoint.
+
+Poison Antidote
+
+Having it in a bauble slot clears the poison effect.
+
+Darkness Antidote
+
+Having it in a bauble slot clears the darkness effect.
+
+Wither Antidote
+
+Having it in a bauble slot clears the wither effect.
+
+Wildfire Helmet
+
+Gives fire resistance.
+
+The Lost Explorer Potion
+
+Teleports you to a random position.
+
+Little Cloud
+
+Gives you the double jump ability.
+
+Ender Rod
+
+Allows you to teleport to the direction you are pointing
+
+Brim Villager
+
+Doubles crops
+
+Fire Ring
+
+Set fire to your enemies
+
+Midas Touch
+
+When you kill a mob there is a certain chance that it will drop gold nuggets
+
+Yin Yang
+
+Turns negative effects into positive ones
+
+Quiver
+
+Store up to 64 arrows
+
+Bottomless Water Bucket
+
+An infinite water source
+
+Bottomless Lava Bucket
+
+An infinite lava source
+
+Bottomless Powder Snow Bucket
+
+An infinite powder snow source
+
+Magnet
+
+Attracts all items in a 10 block radius
+
+Approaching Soul Potion
+
+It teleports you to the nearest player.
+
+Wandering Soul Potion
+
+It teleports you to a random player.
+
+Swapped Souls Potion
+
+It swaps your position with another player's.
+
+Uncentainty Potion
+
+It gives you a random effect.
+
+Supersonic Potion
+
+It gives you speed and nausea.
+
+Scroll of Profession Change
+
+It changes a villager's profession to a random one.
+
+Six Eyes
+
+It expands your vision.
+
+Descent Potion
+
+It teleports you to the lowest position.
+
+Ascention Potion
+
+It teleports you to the highest position.
+
+Magic Wand
+
+Summons 3 allied killer bunnies.
+
+Ender Magic Clock
+
+It saves your position and then brings you back after 15 seconds.
+
+Rebirth Clock
+
+It turns an entity into its baby version.
+
+Golden Bone
+
+Improve your wolf's stats
+
+Golden Fish
+
+Improve your cat's stats
+
+Golden Horseshoe
+
+Improve your horse's stats
+
+Golden Feather
+
+Dash
+
+Endless Cookie
+
+An endless source of food
+
+Hunger Antidote
+
+Having it in a bauble slot clears the hunger effect.
+
+Levitation Antidote
+
+Having it in a bauble slot clears the levitation effect.
+
+Slownes Antidote
+
+Having it in a bauble slot clears the slowness effect.
+
+Mining Fatigue Antidote
+
+Having it in a bauble slot clears the mining fatigue effect.
+
+Blindness Antidote
+
+Having it in a bauble slot clears the blindness effect.
+
+Book Bundle
+
+Contains books
+
+Music Disc Bundle
+
+Contains discs
+
+Night Cloak
+
+Having it in the baubles slots gives you night vision
+
+Horn of Discord
+
+Causes a raid
+
+Zen Potion
+
+Change negative effects into positive ones
+
+Life Potion
+
+heals you 3 hearts of life
+
+Stratosphere Potion
+
+you rise to the stratosphere
+
+Hearth of Life
+
+permanently adds 2 life hearts
+
+Evoker Talisman
+
+you gain the powers of an evoker
+
+Ruby Dagger
+
+recover a little bit of life every time you kill a mob
+
+Arrow Multiplier
+
+multiply your arrows
+
+Arrow Detonator
+
+your arrows explod

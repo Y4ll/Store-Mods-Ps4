@@ -1,0 +1,30 @@
+Easy Redstone is a visual enhancement pack that gives your redstone components a clean, YouTuber-style look just like you see in popular Minecraft Bedrock redstone tutorials. Inspired by tweaks from Bedrock Tweaks, this mod makes your redstone builds easier to understand, easier to follow, and much easier to replicate.
+
+Included Tweaks:
+
+-
+
+Clean Redstone Dust
+Transforms cluttered redstone into a thin, clear line making redstone paths easier to follow and much more like what top Bedrock redstone YouTubers use in their builds.
+
+-
+
+Sticky Piston Sides
+Adds slime to the sides of sticky pistons so you can instantly tell the difference between sticky pistons and regular ones no more guessing!
+
+-
+
+Directional Hoppers
+Arrows appear on the top and sides of hoppers to show exactly where theyre pointing great for understanding item flow at a glance.
+
+-
+
+Directional Observers
+Gives all faces of the Observer block visible directional indicators, so you know exactly where signals are coming in and going out perfect for diagnosing signal updates.
+
+Why Choose Easy Redstone?
+This pack is made for Bedrock players who want their redstone builds to be clean, readable, and just like the pros. Whether you're copying a tutorial or designing your own contraptions, Easy Redstone gives you the same visual advantage many Minecraft YouTubers use without changing how anything works.
+
+Compatibility:
+Works with most texture packs and modpacks
+May conflict with packs that change redstone block models

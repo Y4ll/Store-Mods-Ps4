@@ -1,0 +1,85 @@
+Simple Loot Booster - Tracker Tutorial
+
+HOW TO GET THE TRACKER
+
+1. Get a book
+
+2. Get an anvil and some XP
+
+3. Place the anvil and rename the book to: tracker
+
+4. The book is now your tracker
+
+HOW TO OPEN THE TRACKER
+
+1. Hold the tracker book in your hand
+
+2. Right-click / tap the use button
+
+3. The stats UI will open
+
+WHAT YOU CAN SEE
+
+- Mob Kills - how many mobs you killed with boost active
+
+- Items Duped - how many items were duplicated
+
+- Bonus XP - how much bonus XP you received
+
+- Subpack - which boost tier is active (x2, x3, x4, x5)
+
+- Status - whether the boost is enabled or disabled
+
+- Version - current addon version
+
+HOW TO RESET YOUR STATS
+
+1. Open the tracker
+
+2. Press Reset My Stats
+
+3. Your stats are cleared
+
+ADMIN FEATURES (Operators or admin tag only)
+
+- View any player's stats
+
+- Reset any player's stats
+
+- Enable or disable the boost for everyone
+
+- To give admin tag: /tag <name> add admin
+
+NOTES
+
+- Crops and ores will NOT be duplicated
+
+- Armor and weapons will NOT be duplicated
+
+- Only player kills trigger the boost
+
+- Boost has a 1 second cooldown per kill
+
+Description:
+
+Loot Booster enhances your Minecraft experience by increasing item drops from mobs and bosses, making every battle more rewarding. You can choose between Normal Mode for a balanced experience or Boosted Mode for higher drop rates.
+
+It does not affect mob equipment, keeping gameplay fair and preventing free gear farming. Built to be achievement-friendly and fully compatible with multiplayer, this addon works perfectly in both solo and shared worlds.
+
+The addon is also actively maintained, with regular bug fixes and improvements. Suggestions are always welcome to help make the addon even better.
+
+Features:
+
+- Choose between Normal Mode and Boosted Mode
+
+- Increased mob and boss drops
+
+- Does NOT drop or duplicate equipped gear
+
+- Achievement-friendly
+
+- Multiplayer compatible
+
+- Regular bug fixes and updates
+
+- Open for suggestions and feedback

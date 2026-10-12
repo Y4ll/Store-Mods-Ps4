@@ -1,0 +1,21 @@
+This Police Add-on is now modernized to my current coding skills and represents the peak of my code understanding. This Add-On is well optimized, using only one physical model with simple texture replacement variations, making the total cube count in game under 205. Thank you to JannisX11 for entity wizard base vehicle code. Each car does fit one driver and two passengers in the rear.
+
+This police car addon comes with 5 variants based on SWFL cruisers, perfect for city roleplay:
+
+Florida Highway Patrol
+
+Lee County Sheriff's Office
+
+Fort Myers Police Department
+
+Blank Livery
+
+and an Unmarked Cruiser
+
+SIREN FUNCTION
+
+With help from Bedrock Addons discord user Venoct Euphrosyne, a system was developed to toggle the lights on and off using a siren tool item, which is located in the spawn egg folder. To toggle the lights on the car and play a siren sound, simply equip the cruiser with the siren tool as if it were a saddle.
+
+PBR Textures:
+
+When using this addon with vibrant visuals, the Explorers' textures will utilize pbr materials, where the headlights and taillights are emissive, the lightbars are bright, the outside body and wheels are shiny, and the interior is matte. It's a neat new feature to vibrant visuals you can try out with different packs. (Thank you to Exist-Zero for help with this feature https://mcpedl.com/user/exist-zero/ )

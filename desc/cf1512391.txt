@@ -1,0 +1,83 @@
+With this add-on you can have plants to defend your garden from hostile mobs in both survival and creative modes.
+
+HOW TO DOWNLOAD?
+
+Go to files and download the BP and RP, import them to Minecraft and play.
+
+GAMEPLAY:
+
+HOW TO PLAY?
+
+The first thing to do is craft the botanic table:
+
+At this table you can craft the Add-on items and, most importantly, the Sunflower seed.
+
+To obtain the plants you must craft the sprouts and feed them with suns, otherwise they will only be normal and will produce seeds
+
+With these seedlings, you can grow all the plants by watering them with the watering can, depending on the amount of suns and the essence you add. Essences can be crafted and must be added to obtain plants of that specific family.
+
+List of essences:
+
+With sun
+
+Enlighten essence
+
+Ail essence
+
+Appease essence
+
+Arma essence
+
+Bombard essence
+
+Enforce essence
+
+Winter essence
+
+Pepper essence
+
+Spear essence
+
+Others
+
+Mints:
+
+You can craft mints with leaves; these leaves appear at the end of the zombie attack.
+
+Example
+
+Special items:
+
+Dave's shovel:
+
+It is used to move plants by interacting with them.
+
+Zombies hordes system:
+
+Now you decide when the zombie horde arrives; interacting with the brain triggers 10 waves of zombies. [This is still under development; I welcome any suggestions.]
+
+I'll leave the other features of the Add-on for you to discover.}
+
+Changelog 1.2:
+
+New zombies hordes system
+
+New plants: Spikerock, Cactus, Coffe bean, splitpea, Melon-pult & Winter melon
+
+Hypno shroom can hipnotized zombie, zombie villager, husk, drowned, evocator, pillager & ravager
+
+Now the plants effects works on vanilla mobs
+
+Threepeater attack change
+
+Nerfed peashooter, repeater, threepeater, snow pea, fire peashooter, electric pea, cabbage pult, kernel pult & puff shroom
+
+Electric peashooter redesing, all peas redesing
+
+Zombies have knockback
+
+Now every family of plants have a group in the inventory
+
+If you find a bug, report it in the comments.
+
+- Do NOT reupload, redistribute, or publicly modify this addon without explicit permission. Private modifications for personal use are allowed.

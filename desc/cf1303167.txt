@@ -1,0 +1,57 @@
+Dark lightning addon - showcase (Click here)
+
+Weak armors? Here's your solution!! This addon adds new armor and material with a unique, more detailed aesthetic models and desings, Move at lightning speed with Dark lightning addon
+
+From the depths of the Hydra forge comes a high-class armor that will protect you from the attacks with lightnings and fire
+
+Configuration options: This texture pack modifies the model of each armor set of the game and provide a variety of configuration for each user.
+
+Supported languages (24): English (United States), English (United Kingdom), Francais, Italiano, Deutsch, Nederlands, Dansk, Polski, Slovencina, Portugues (Portugal), Espanol (Espana), Norsk (Bokmal), Svenska, Suomi, Portugues (Brasil), Espanol (Mexico), , , Turkce, Bahasa Indonesia, , , ,
+
+Action & Stuff Compatibility
+
+A&S Compatibility showcase: (Click here)
+
+In-game :
+
+This addon is designed to reinvent vanilla Minecraft shields with a unique, more detailed aesthetic desing.
+
+Installation :
+
+1. Download the ".mcpack" or "mcaddon" files.
+
+2. After downloading the file, open it to run it in Minecraft Bedrock Edition.
+
+3. Activate the files in the settings section under Behavior Pack and Resource Pack.
+
+Data and Support :
+
+Project information, details of our other projects, support from us and the community, and news are available on our Discord server.
+
+Warning
+
+Allowed:
+
+You can use it for the creation of content like videos, shorts, TikToks, fan arts, renders, etc
+
+You can use it in your server, world, etc
+
+if you want to do something outside of these rules you need to ask us in our server
+
+Not allowed:
+
+You can't sell the texture pack or the content of the project
+
+You can't remonetize the project on another page, another platform, or even in another country.
+
+You can't create content (Mods, Add-ons, Texture packs, Skin packs, etc) based on this project
+
+Follow us
+
+Discord: https://discord.gg/8GjJgaD9pn
+
+Project by: Hydra team
+
+Models by: Vulak/Rex
+
+Dev and scripts programing work by: AngelosoYT. Hamleth Harena

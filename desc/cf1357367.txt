@@ -1,0 +1,17 @@
+Wanderer's Visuals is a vibrant visuals pack which has a new tonemap a better water than before, softer shadows and improved reflections and it can work on any VV supported device
+
+Screenshot:
+
+Special Features of this pack
+
+- Reinhard tonemap
+
+- Added block reflection
+
+- New style Waves/Water waves
+
+- Better Contra and Saturation
+
+- Fresh Biome Colors
+
+- And much more more so

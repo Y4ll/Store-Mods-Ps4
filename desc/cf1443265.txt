@@ -1,0 +1,12 @@
+Dinosaurs Time is a Minecraft add-on focused on genetic creation, dinosaur management, and theme park building, with full support for both Survival and Creative modes.
+
+The add-on features a structured dinosaur creation system, allowing extinct species to be obtained through in-game progression in Survival Mode, while Creative Mode provides full access to all creatures and resources for free park design and themed builds. Each dinosaur is designed with unique behaviors, mechanics, and interactions that directly affect gameplay.
+
+In Survival Mode, players must tame dinosaurs, manage enclosures, habitats, and containment systems, and balance resources to maintain control over dangerous creatures, including large predators.
+In Creative Mode, the focus shifts to custom Jurassic park construction, controlled environments, and showcase maps.
+
+The project includes over 50 different creatures, ranging from smaller species to apex predators such as the Tyrannosaurus rex, each with distinct attributes and gameplay roles. The add-on is designed to provide long-term progression, creative freedom, and replayability.
+
+An extremely important warning: the add-on works correctly only if the required experiments are enabled.
+
+Devices that do not have enough memory usually cannot handle the add-on, so please be aware of that.

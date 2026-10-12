@@ -1,0 +1,88 @@
+Better Flashlight Addon V2
+
+The standalone horror/survival flashlight is back now with a headlamp, upgrade modules, a golden infinite battery, built-in Vibrant Visuals support, and still no experimental world toggles. A flashlight that actually feels like one: beam, battery drain, flicker, and sound. Works on its own on classic graphics; optional warmer cinematic beam when you turn on Vibrant Visuals in video settings.
+
+Whats new in V2
+
+- Headlamp hands-free light that follows where you look; Empty / OFF / ON / DEAD states, same battery loop as the flashlight
+
+- Headlamp Remote keep it in inventory; right-click to toggle the worn headlamp; the bar is live battery while its lit
+
+- Headlamp runtime about 5 minutes per charge (flashlight is still about 3)
+
+- Upgrade modules Extended Cell (~1.5 runtime), Stabilizer (less flicker / hard breaks), Lens Normal+ / Wide / Narrow (Normal+ is the only lens that fits a headlamp)
+
+- Golden Flashlight Battery doesnt run out; install like a normal cell; lore says Infinite
+
+- New look new textures and 3D models for headlamp, remote, modules, and golden battery; corner marks on the icon show whats installed (green cell, red stabilizer, blue lens)
+
+- Partial recharge any charged battery (not the golden one) + redstone at a table tops it back up
+
+- Creative inventory flashlights, headlamps, batteries, and modules sit in their own groups
+
+What you get
+
+A full flashlight lifecycle
+
+This isnt a single on/off item. You craft a shell, install batteries, run the light until it dies, eject the dead cell, recharge it, and do it again. The headlamp uses the same loop.
+
+- Flashlight (Empty) shell with no battery; install a charged battery to use it
+
+- Flashlight OFF / ON right-click to toggle; the beam follows where you look
+
+- Flashlight DEAD battery died inside; right-click to eject it (sound short delay dead battery out empty shell again)
+
+- Headlamp (Empty / OFF / ON / DEAD) wear it; lights when on your head; take it off and it goes out
+
+Batteries
+
+- Flashlight Battery charge on the durability bar; stacks to 16
+
+- Dead Flashlight Battery what you get when a flashlight or headlamp dies; empty bar, same 3D model in hand
+
+- Golden Flashlight Battery infinite charge; install like a normal cell
+
+- Recharge: Dead Battery + Redstone at a crafting table full battery
+
+- Partial recharge: charged battery (not golden) + redstone at a table tops it back up
+
+- Hot-swap: Use a charged battery on a powered flashlight or headlamp; only 1 is taken from a stack; your old battery goes back to inventory, or drops at your feet if your inventory is full
+
+Upgrade modules
+
+Craft them, then combine with an empty flashlight or headlamp at a crafting table. One upgrade per type: power, circuit, or lens. Charge and whats already installed stay on the tool.
+
+- Extended Cell Module longer runtime (about 1.5)
+
+- Stabilizer Module much less flicker and far less chance of a hard break
+
+- Lens (Normal+) a bit brighter; the only lens that fits a headlamp
+
+- Lens (Wide) wider cone, flashlight only
+
+- Lens (Narrow) longer, tighter beam, flashlight only
+
+Already have a lens on an empty shell? Hold a different lens and use it they swap, and you get the old one back.
+
+Crafting
+
+- Empty flashlight: glass pane, iron, copper, redstone
+
+- Battery: redstone, iron nuggets, coal
+
+- Recharge: dead battery + redstone
+
+- Quick revive: dead flashlight + battery at a table flashlight OFF (shortcut if you dont want to eject first)
+
+- Upgrade modules: craft, then combine with an empty flashlight or headlamp at a table
+
+Gameplay feel
+
+Dynamic light beam
+Light along your view direction up to ~18 blocks, fading with distance. Stays on in chat, inventory, or while standing still (no more beam dying when you pause to read).
+
+Per-tool charge
+Flashlights and headlamps keep separate battery levels swapping items doesnt sync them.
+
+Battery life
+About 3 minutes of runtime per full charge on the flashlight, about 5 minutes on the headlamp. Extended Cell Module stret

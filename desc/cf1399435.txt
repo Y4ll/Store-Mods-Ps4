@@ -1,0 +1,30 @@
+The Quartermaster's Armory
+
+A High Quality Uniform and Armor Mod for Minecraft Bedrock Edition. We are attempting to make military realistic uniforms and armors and implementing it into Minecraft Bedrock Edition.
+
+Why should you use our addon?
+- Too many gun mods and you feel like their armors are lacking or none at all? No problem! The Quartermaster's Armory can integrate into any gun mods you may use. TACZ Bedrock port, Aplok guns, K7 Contractor (i can't list all of them they're too many).
+- Armors lacking detail for your 128x128 skins? The addon has detailed textures fit for you, without being too overdetailed with the model!
+- Perfect for minecraft milsim use, in SMPs and in battles!!
+- Worried about lag? Fear not, it will NOT lag!!
+-absolute cag experience yesssssss
+
+What to expect:
+- Does NOT conflict with second layered skins.
+- Compatibility with most gun mods.
+-13* different helmets
+- 6* different vests
+- 7* different uniforms
+- More armors each update!!!
+- Not survival friendly (yet!!)
+- It does protect you but they all have the same armor durability and protection level. (for now)
+
+If issues arise with everything breaking, simply put the armor resource and behaviour pack below any mod before it.
+
+Our Planet Minecraft Group (pm Sekhrinn to join):
+https://www.planetminecraft.com/group/quartermasterhub/
+
+Got any issues or suggestions? Join the discord where you can yap and suggest anything related to military gear, I'll only accept suggestions in the discord server:
+https://discord.gg/gxTBjf2q9U
+
+join trust

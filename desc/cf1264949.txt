@@ -1,0 +1,9 @@
+Features:
+
+Real X-ray effect see ores, caves, treasures and mobs through the walls
+
+Support for all versions
+
+Requires no mods clean .mcpack, without bans (on most servers)
+
+OFF SMOOTH LIGHTING FOR THE BETTER VIEW

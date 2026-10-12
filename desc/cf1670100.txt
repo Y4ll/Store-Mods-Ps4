@@ -1,0 +1,36 @@
+This add-on adds a new drill that makes mining easier, as it breaks 9 blocks with a single click. It has its own model and animation
+
+Stats:
+
+Durability: 200
+
+repairable with iron ingots
+
+Speed: 8
+
+Recipe:
+
+- Piston
+
+- Iron Block
+
+- Sticks
+
+- Redstone
+
+- Iron Ingot
+
+its texture is designed to fit the game's vanilla aesthetic and be visually appealing.
+
+Crafting Variants:
+
+___________________________________________________________
+
+Report errors or bugs to Support.dhdev@gmail.com
+
+___________________________________________________________
+
+V0.2 note
+The add-on will be updated soon, adding new mechanics and improvements.
+
+By DHdev

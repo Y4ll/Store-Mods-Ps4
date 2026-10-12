@@ -1,0 +1,45 @@
+The Ty-el's Settings Overlay UI Pack is a small UI treatment pack for Vanilla UI, unlike other UI packs, this pack adds some magical screen properties and tweaks to the in-game Settings Screen to get Camera Perspective toggle on HUD (YES!), FOV slider, FOV Quick Toggle (aka. Zoom In or Out button!), and more! The pack only works for devices having Touch capabilities, and compatible with almost every texture pack in the world too!
+
+Creator: @tlgm2308 (X (Twitter))
+
+Important Notices
+
+Read carefully before downloading and using, or you wont use the pack correctly!
+
+- This version of the pack requires Minecraft v1.20.40 or higher! It technically could work on older versions of the game, but I cant guarantee the compatibility of Spectator Mode because Spectator Mode did not exist in older versions, and it needs to be older than v1.19.10 (versions between v1.19.10 and v1.20.32 will break the pack).
+
+- IMPORTANT! Due to yet another game bug cant be fixed by resource packs where the game wont register any UI inputs in HUD while in Spectator Mode, I need to temporarily disable Settings Overlay in Spectator mode, a button will appear at the bottom right if player entered Spectator mode, pressing it will show the instructions on how to exit Spectator mode. Fortunately, I made a workaround of that issue, there is an experimental flag "$allow_settings_overlay_always_accepts_input inside the config file /ui/_global_variables.json that allows you to exit Spectator mode from Pause Screen, its very buggy and thats why I didnt add it to the main pack as of now.
+
+- This pack currently has a feature FOV Quick Toggle that is not enabled by default. You need to change Pack Settings to [EXPERIMENTAL] FOV Quick Toggle to make it show up in HUD. This is because sometimes the game will crash if you use this feature, its a rare and unwanted behavior and is hard to fix.
+
+- This pack is made only for devices with Touch capabilities, it can be on your phone (iOS or Android...), tablet, or on PC with Touch supports, etc.
+
+- Its not recommended to use this pack on low-end devices, since this packs purpose is to render the whole settings screen on HUD, and rendering more screens will affect the overall performance.
+
+- Its a little bugged when using Customize Touch Controls while having Settings Overlay pack activated, although it still works fine with minor visual bugs, make sure after you close Customize Touch Controls, you also need to close Settings Overlay and close Pause Screen as well to let the game update and resolve all visual UI issues before reopening Settings Overlay again.
+
+- Some settings wont be applied until you close Settings Overlay, you may need to close Settings and reopen again to apply all changed settings.
+
+- You can freely close the Settings Overlay after a period of time to make sure the performance wont affect your gameplay. Make sure you dont attempt to open multiple Settings Overlay at the same time, or you might experience worse and worse performance, slowly~
+
+Showcase Video
+
+(to be added)
+
+How to Use?
+
+- Its very easy to use! Make sure you are inside a world, or a realm, or a server, tap the Pause button to open the Pause Menu.
+
+- Then tap on the Enable Settings Overlay button. (It was the Settings button, so in case of needing to enter the original Settings Screen, you need to press that. It could be Settings, or Options, depending on your applied resource packs.)
+
+- (Wait a bit, it can take a little bit of time the first time you open it in a world session.)
+
+- The toast message Settings Overlay enabled successfully! will popup and 2 (or 3) new buttons will appear at the top of the HUD.
+
+Camera Perspective Toggle
+
+- The first button at the leftmost is the Camera Perspective toggle. (Or more familiar, the F5 button!) You can freely change your camera perspective when playing!
+
+FOV Quick Toggle [Experimental]
+
+- The second button at the leftmost is the FOV Quick Toggle button. This allows you to quickly toggle between two specif

@@ -1,0 +1,7 @@
+This mod is inspired by the infectious agent from the video game The Last of Us, adapted to the Minecraft video game using a phased infection and growth system. It should be noted that there is no option to add modern weapons. I will focus on the spread of the infection virus with vanilla touches, a more realistic style, and without incoherent life forms, as a reference point for the Scape and Run Parasite Java Mod. !
+
+Important information
+
+- During phase 0, all the infected run away from the player, giving them a chance to gear up
+
+- Soil propagation starts from phase 2

@@ -1,0 +1,131 @@
+Cheap Villager Trades Achievement Enabled
+
+Make villager trading extremely cheap in Minecraft Bedrock Edition!
+
+This addon gives players the Village Hero effect, providing powerful discounts on villager trades. Items that normally cost several Emeralds can become available for just 1 Emerald, while trades that normally require many items to receive an Emerald can also be reduced to just 1 item.
+
+Features
+
+- Extremely Cheap Villager Trades
+
+- Get many villager trades for only 1 Emerald
+
+- Massive Villager Trade Discounts
+
+- Works with villagers across your world
+
+- Achievements Enabled
+
+- Lightweight and simple
+
+- No complicated setup
+
+- Easy to use in Survival Worlds
+
+- Great for Villager Trading Halls and SMPs
+
+How Does It Work?
+
+The addon applies the Village Hero effect to players:
+
+/effect @a village_hero infinite 255 true
+
+This provides the powerful Hero of the Village trading discount, making villager trades much cheaper.
+
+For example, a trade that normally requires multiple Emeralds can potentially become a 1 Emerald trade, while certain Emerald-giving trades can require only 1 item.
+
+Achievement Enabled
+
+Want cheap villager trades without giving up achievements?
+
+This addon is designed to be Achievement Enabled.
+
+You can use it in your Minecraft Bedrock world while keeping Achievements enabled, making it suitable for Survival players who still want to earn achievements while enjoying heavily discounted villager trades.
+
+Perfect For
+
+- Minecraft Bedrock Edition
+
+- Minecraft Pocket Edition (MCPE)
+
+- Survival Worlds
+
+- Achievement Worlds
+
+- Villager Trading Halls
+
+- SMP Servers
+
+- Economy Worlds
+
+- Hardcore Worlds
+
+- Trading-focused Survival
+
+- Players who want cheap villager trades
+
+- Players looking for villager trade discounts
+
+Villager Trade Discount
+
+This addon is ideal if you're looking for:
+
+- Cheap Villager Trades
+
+- Villager Trade Discount
+
+- Cheap Villager Trading
+
+- Discounted Villager Trades
+
+- 1 Emerald Villager Trades
+
+- Cheap Trades
+
+- Villager Discount
+
+- Villager Trading Discount
+
+- Minecraft Villager Trades
+
+- Minecraft Villager Trading
+
+- MCPE Villager Trades
+
+- Minecraft Bedrock Villager Trades
+
+- Bedrock Villager Trading
+
+- MCPE Cheap Trades
+
+- Hero of the Village
+
+- Village Hero
+
+- Achievement Enabled Villager Addon
+
+Installation
+
+- Download the addon.
+
+- Import it into Minecraft Bedrock Edition.
+
+- Add it to your world.
+
+- Enter the world and start trading with villagers.
+
+- Enjoy heavily discounted villager trades!
+
+No complicated configuration is required.
+
+Important
+
+The addon works by providing the Village Hero effect, which is responsible for the villager trade discounts.
+
+The exact discount depends on the villager's trade and Minecraft's normal trading mechanics.
+
+Make Villager Trading Cheaper!
+
+Get better prices, save your Emeralds, and enjoy massively discounted villager trades while keeping achievements enabled.
+
+Perfect for players who want cheap villager trades without sacrificing their Achievement-enabled Survival world.

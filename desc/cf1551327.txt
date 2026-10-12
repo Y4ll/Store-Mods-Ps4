@@ -1,0 +1,267 @@
+Support Me For The Pack to Motivate Me
+
+CLICK - SUPPORT
+
+Pie Shader [RTX]
+
+Ultra Realistic Vibrant Visuals Shader for Minecraft Bedrock
+
+Experience Minecraft like never before with cinematic lighting, immersive atmospherics, realistic skies, glowing reflections, and next-generation RTX inspired visuals!
+
+About Pie Shader
+
+Pie Shader [RTX] is a high-quality Minecraft Bedrock shader pack designed to completely transform your world with stunning visual effects while maintaining smooth gameplay performance.
+
+Built for Minecraft Bedrock 1.21 - 26.20+, this shader enhances:
+
+- Lighting
+
+- Night Atmosphere
+
+- Water Reflections
+
+- Sky Rendering
+
+- Fog Effects
+
+- Biome Atmospherics
+
+- RTX/PBR Style Visuals
+
+Whether you're exploring caves, building cities, surviving with friends, or creating cinematic content Pie Shader delivers a beautiful next-gen experience.
+
+Features
+
+Feature
+Description
+
+Realistic Lighting
+Beautiful sunlight & dynamic atmosphere
+
+Cinematic Nights
+Immersive moonlight & dark ambience
+
+Enhanced Water
+Realistic reflections & smooth water visuals
+
+Better Skies
+Improved clouds, sunsets & sky colors
+
+Atmospheric Fog
+Depth-based fog for realistic environments
+
+Biome Enhancements
+Custom atmosphere for multiple biomes
+
+RTX Inspired Look
+Modern vibrant visual style
+
+Smooth Performance
+Optimized for stable gameplay
+
+Bedrock Compatible
+Made specially for Bedrock Edition
+
+Biome Atmospherics
+
+Pie Shader includes advanced biome atmosphere support for many environments:
+
+Biome Support
+
+Forests
+
+Deserts
+
+Snow Biomes
+
+Mushroom Islands
+
+Oceans
+
+Nether Biomes
+
+Cherry Groves
+
+Deep Dark
+
+Mangrove Swamps
+
+Mountains & Peaks
+
+Each biome feels unique with different atmosphere settings and environmental visuals.
+
+Visual Enhancements
+
+Daytime Improvements
+
+- Warm sunlight
+
+- Better brightness balancing
+
+- Cinematic color grading
+
+Night Improvements
+
+- Enhanced moonlight
+
+- Atmospheric darkness
+
+- Beautiful night ambience
+
+Water Effects
+
+- Realistic reflections
+
+- Smooth transparency
+
+- Better water colors
+
+Sky & Weather
+
+- Improved cloud rendering
+
+- Better fog transitions
+
+- Vibrant sunsets & sunrises
+
+IMPORTANT Vibrant Visuals Support
+
+For the BEST experience, enable Vibrant Visuals inside Minecraft settings!
+
+Without Vibrant Visuals:
+
+- Some effects may appear weaker
+
+- Lighting may look less immersive
+
+- RTX/PBR visuals may not fully render
+
+With Vibrant Visuals Enabled:
+
+- Stronger lighting
+
+- Better atmosphere
+
+- Enhanced reflections
+
+- Improved RTX style visuals
+
+- Cinematic environments
+
+Recommended Settings
+
+Setting
+Recommended
+
+Vibrant Visuals
+ON
+
+Render Distance
+Medium or Higher
+
+Fancy Graphics
+ON
+
+Brightness
+75% - 100%
+
+Smooth Lighting
+ON
+
+Compatibility
+
+Supported
+Details
+
+Minecraft Version
+1.21 - 26.20+
+
+Pack Type
+Shader / Resource Pack
+
+Platforms
+Android, Windows, iOS
+
+Performance
+Optimized for smooth gameplay
+
+Multiplayer
+Works in SMPs & Realms
+
+Why Choose Pie Shader?
+
+Unlike ordinary Bedrock shaders, Pie Shader [RTX] focuses on:
+
+- Immersive atmosphere
+
+- RTX inspired visuals
+
+- Smooth optimization
+
+- Better reflections
+
+- Cinematic skies
+
+- Advanced biome visuals
+
+- Survival friendly gameplay
+
+The result is a balanced shader that looks beautiful while remaining playable on supported devices.
+
+Installation
+
+Minecraft Bedrock Edition
+
+- Download the .mcpack
+
+- Open it with Minecraft
+
+- Import the pack
+
+- Activate in Global Resources
+
+- Enable Vibrant Visuals
+
+- Enjoy Pie Shader!
+
+Support & Feedback
+
+If you enjoy this shader:
+
+- Leave a rating
+
+- Share feedback
+
+- Recommend it to friends
+
+- Share screenshots & videos
+
+Your support helps future updates!
+
+Future Updates
+
+Planned improvements:
+
+- Better night rendering
+
+- Improved sunlight effects
+
+- Enhanced reflections
+
+- More RTX style visuals
+
+- Better optimization
+
+- Additional biome atmospherics
+
+Credits
+
+Creator
+Role
+
+PrabhatPie
+Shader Creator & Designer
+
+Pie Shader [RTX]
+
+Experience Minecraft Beyond Vanilla.

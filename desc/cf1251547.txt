@@ -1,0 +1,51 @@
+Create waypoints for quick teleportation! Public waypoints system with "my favorites" list! Each player can have and publish up to 999 waypoints! The number of players online is unlimited! Compatible with any addons! Cool camera effects when teleporting!
+
+A Waypoint is a point in the world to which you can always teleport from any distance. You can create a waypoint anywhere in the world, in any dimension. Not only you can have waypoints, all the players who are online in your world can have them too! And the number of such players is unlimited!
+
+With this addon, every new player who joins the world will be given the item "Waypoint Menu". When you use it, a UI window opens where you can create, teleport, delete, rename, and many more different actions with waypoints.
+
+LIST OF FEATURES:
+
+Fully compatible with almost all addons! Without any player.json or anything else!
+
+Waypoints publishing system! Each player can publish their waypoints for a specific period of time, and any player in your world can visit them! With excellent moderation tools, "my favorites" list, featured waypoints, and more! All limits, cooldowns, and restrictions are customizable on a per-dimension level!
+
+Blacklist for public waypoints! You can view who has visited your published waypoints and when, and you can blacklist specific players to prevent them from visiting your waypoints! The blacklist is separate for each waypoint!
+
+Economic system! You can enable fees (spending XP levels or scoreboard) for teleportation, creation, or updating of waypoint coordinates! They depend on the distance to the waypoint, dimension, and many other factors! Everything is configurable!
+
+User-friendly UI and beautiful animations! The menu is well-designed and categorized, it works very quickly, and each button has its own icon. Camera animation during teleportation to a waypoint, which has 2 variations depending on the distance to the waypoint!
+
+Moderation system! The player-administrator has full access to the waypoints of all players, as well as many other useful tools! Additionally, a published waypoint has a "report" button, so players can notify the admin about a suspicious waypoint!
+
+Extremely extensive addon configuration options! Maximum number of waypoints per player, duration of countdowns during teleportation, creation, or updating of waypoints, camera effect toggling, and many more! Each option can be individually configured for each dimension!
+
+Ensuring fair gameplay! To teleport, create, or update a waypoint, the player must remain still and connected to the world. This prevents cheating in PvP and other scenarios!
+
+Each player can customize their preferences! Customize your experience with options like changing the UI language, disabling sounds, adjusting text fonts, and more!
+
+Very good performance! Capable of handling hundreds of online players and thousands of waypoints!
+
+Handling all edge cases! Rest assured that no fool or cheater will break this addon!
+
+Translated into many languages! You can even translate it into your own language!
+
+Reliable stuff! Each version is thoroughly tested, and any bugs are eliminated with a 95% probability before publication! However, if you still manage to find a bug, feel free to report it in the comments!
+
+Download BP and RP and put these 2 packs into your Minecraft world!
+
+- Enable these experiments: "Beta APIs"
+
+- Only stable Minecraft versions are supported. (not beta or preview)
+
+HOW TO USE:
+
+After entering the world with this addon, you will have a new item in your inventory: "Waypoint Menu"
+
+Use it (Short tap on a block or long tap or right mouse button) to open the menu:
+
+As we see we don't have any waypoints yet, let's create our first waypoint!
+
+Note: You can create, teleport to and manage only those waypoints that are in your current dimension. For example, to create or teleport to a waypoint in Nether, you need to be in Nether.
+
+The button also displays which dimension we are in (green waypoint = overworld) and

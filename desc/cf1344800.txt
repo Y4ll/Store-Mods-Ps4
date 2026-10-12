@@ -1,0 +1,75 @@
+Ever wanted to bring the chaos of Invincible into Minecraft? Well... I tried. And somehow, it works (mostly). This add-on adds new heroes, villains, armors, weapons, and even the infamous Invincible War with 18 different variants ready to destroy your world.
+
+Yes, I had to rebuild this entire thing from scratch after Minecraft removed experimental features and broke everything. No, I still dont know what Im doing. But hey it works now!
+
+Add-on Trailer:
+
+Mobs:
+
+**Mark Grayson / Invincible**:
+
+The main protagonist, Mark inherits superpowers from his father, Omni-Man, and strives to live up to his heroic legacy while navigating the complexities of teenage life.
+
+**Nolan Grayson / Omni-Man(Evil)**:
+
+Mark's father and the most powerful superhero on Earth. Initially seen as a beacon of hope, Nolan's true intentions are gradually revealed, causing turmoil for his family and the world.
+
+**Samantha Eve Wilkins / Atom Eve**:
+
+A fellow teenage superhero and Mark's close friend. With the ability to manipulate matter at the molecular level, she fights alongside Invincible while navigating her own personal struggles.
+
+**Cecil Stedman**:
+
+The head of the Global Defense Agency (GDA), Cecil recruits and coordinates Earth's superheroes to protect the planet from external threats, often employing morally questionable methods to achieve his goals.
+
+**Rex Splode**:
+
+A brash and arrogant superhero with explosive powers. Despite his abrasive personality, he is a valuable member of the superhero team, the Guardians of the Globe.
+
+**Dupli-Kate**:
+
+A member of the Guardians of the Globe with the ability to create duplicates of herself. She adds versatility to the team's lineup with her cloning abilities.
+
+**Robot / Rudy Connors**:
+
+A brilliant scientist who creates a robotic body to house his consciousness. He initially works with the Guardians of the Globe but later forms his own agenda, driven by a desire to transcend his artificial limitations.
+
+**Titan**:
+
+A reformed supervillain turned reluctant hero. He grapples with his criminal past while striving to make amends and protect his community from external threats.
+
+Sure, here are additional descriptions for those characters and their abilities, as well as some descriptions for weapons and abilities:
+
+**Additional Characters:**
+
+1. **Anissa**:
+
+A formidable Viltrumite warrior with superhuman strength and agility. She serves as a loyal enforcer for the Viltrumite Empire, carrying out missions with ruthless efficiency.
+
+**Omni-Man**(Reformed):
+
+After a Gruesome battle with his Son, Nolan came to realisation of what he was doing. He left earth seeking to kill himself in a black hole until he found a planet with a lower lifespan and decide to help them and became their emperor and reform himself.
+
+**The Mauler Twins**:
+
+A pair of brilliant but eccentric scientists who specialize in genetic experimentation and cloning. They often work in tandem to further their nefarious schemes, utilizing their intellect and resources to challenge Earth's heroes.
+
+**Reanimen**:
+
+A horde of reanimated corpses brought back to life through sinister experimentation. Controlled by the deranged scientist DA Sinclair, these undead minions serve as cannon fodder in his quest for power and domination.
+
+**DA Sinclair**:
+
+A mad scientist obsessed with unlocking the secrets of life and death. He conducts grotesque experiments, including reanimating the dead, in his pursuit of scientific knowledge and immortality.
+
+**Bulletproof**:
+
+A superhero with invulnerable skin, granting him immunity to physical harm. He uses his superhuman durability to protect innocent civilians and combat crime within his community.
+
+**Monster Girl**:
+
+A young superhero cursed with a transformational ability that causes her to revert to a monstrous form after each use of her powers. Despite the physical toll, she bravely fights alongside her teammates to defend Earth from threats:
+
+Shrinking Rae:
+
+A superhero with the ability to shrink to microscopic sizes,

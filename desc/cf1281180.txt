@@ -1,0 +1,3 @@
+When an entity spawns they get a health bar
+
+Showing the current and max hp, but for any named mobs the health bar will only show for 1.5 seconds before returning to the original name

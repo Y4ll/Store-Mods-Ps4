@@ -1,0 +1,227 @@
+About Truly Bedrock+
+
+This pack is built for players who value both stunning visuals and functional customization, Truly Bedrock+ transforms your gameplay with over 160+ features designed to elevate every aspect of Minecraft.
+
+What Sets Truly Bedrock+ Apart?
+
+- 6 Unique Subpacks : Customize your experience like never before. Choose cleaner blocks, sleek UI changes, enhanced visuals, and much more!
+
+- Block Changes : Enjoy cleaner, more detailed, and directional textures for blocks like Redstone Dust, Hoppers, and Suspicious Sand. Features include clear borders, smoother surfaces, and visual fixes that improve overall gameplay clarity.
+
+- Mob Improvements & Variants : Experience subtle but impactful mob tweaks, including improved textures, small visual fixes, and unique variants like Red Petal Iron Golems and refined entity details.
+
+- PvP Enhancements : Gain the advantage with clearer tool indicators, shorter shields, visible arrow effects, and refined UI elements built for better combat awareness.
+
+- Visual Improvements : Immerse yourself in polished visuals and audio, including Java-style crit sounds, unobtrusive particles, and vibrant enchanting table effects.
+
+Whether youre a casual builder, an adventurer, or a Redstone expert, Truly Bedrock+ gives you the tools to make Minecraft truly your own.
+
+Step into a reimagined Minecraft with Truly Bedrock+. This pack redefines how you interact with the game, offering sleek visuals, practical improvements, and creative touches that make every detail stand out. From glowing mobs to refined block designs and intuitive UI updates, it brings a polished, modern feel to your world
+
+Features of Truly Bedrock+
+
+Blocks
+
+From Bedrock Tweaks:
+
+- Cherry Picking
+
+- Unbundled Hay Bales
+
+- Unbundled Kelp Blocks
+
+- Clean Wool
+
+- Softer Wool
+
+- Glass Doors
+
+- Glass Trapdoors
+
+- Accurate Scaffolding
+
+- Darker Dark Oak Leaves
+
+- Alternate Bedrock
+
+- Circular Log Tops
+
+- Smoother Oak Log
+
+- Smoother Stones
+
+- Brighter Nether Blocks
+
+- Clearer Water
+
+- Shorter Short Grass
+
+- Shorter Tall Grass
+
+- Lower Grass (All Variants)
+
+- Ore Borders
+
+- Suspicious Sand & Gravel Border
+
+- Budding Amethyst Border
+
+- Fully Aged Crops
+
+- Fully Aged Amethyst
+
+- Different Stems
+
+- Age 25 Kelp
+
+- Sticky Piston Sides
+
+- Directional Hoppers
+
+- Directional Observers
+
+- Clean Redstone Dust
+
+- Unlit Redstone Ore
+
+- Visible Tripwires (Blue)
+
+- Clean Glass
+
+- Clean Stained Glass
+
+- Clean Tinted Glass
+
+- Unobtrusive Scaffolding
+
+- Lower Fire
+
+- Piston Inner Fix
+
+- Updated Observer Texture
+
+- Consistent Blank Decorative Pot
+
+- Cactus Bottom Fix
+
+- Cocoa Beans Fix
+
+- Hanging Sign Logs
+
+- Soul Soil Campfire Fix
+
+- Sandstone Wall Top Fix
+
+- Double Slab Fix
+
+- Smoker Bottom Fix
+
+From Bedrock Community Tweaks:
+
+- Back Piston
+
+- Full Honey Stage
+
+- Lit Furnaces
+
+- Translucent Portal
+
+From NonpausebleMC:
+
+- Lapis Integrated Enchanting Table
+
+- Blue Ancient Debris
+
+- Visible Nether Wart Stages
+
+- Bordered Powder Snow
+
+- Smooth Concrete
+
+- Visible Tripwires (Red)
+
+- Old Stripped Spruce Log
+
+From Creators:
+
+- Glowing Ores (Vibrant Visuals)
+
+- Directional End Portals
+
+- Visible Powder Snow
+
+- End Portal Recolored (Purple)
+
+- Red Trapped Chest
+
+- Painted Pottery
+
+- Anvil Indicator
+
+- Circular Creaking Heart Tops
+
+Items & Armors
+
+From Bedrock Tweaks:
+
+- Flint-Tipped Arrows
+
+- Splash Bottle o Enchanting
+
+- Accurate Spyglass
+
+- Plain Leather Armor
+
+- Golden Crown (Replaces Golden Helmet)
+
+- Classic Style Netherite Armor
+
+- Dragon Elytra
+
+- Visual Infested Stone (Items)
+
+- Visual Waxed Copper (Items)
+
+- Alternate Dyes
+
+- Legacy Console Snowball
+
+- Consistent Buckets
+
+- Consistent Tadpole Bucket
+
+- Consistent Helmets
+
+- Hoe Fix
+
+- Plain Wolf Armor
+
+From Java Tweaks:
+
+- Classic Style Netherite Armor (Baby)
+
+- Golden Crown (Baby Variant)
+
+From NonpausebleMC:
+
+- Short Swords
+
+- Short Spears
+
+- Short Tools
+
+- Bow Indicator
+
+- Crossbow Indicator
+
+From Creators:
+
+- Better Music Discs
+
+- Updated Wheat Seeds
+
+- Better Tipped Arrows
+
+- Better Potions
+
+- Pr

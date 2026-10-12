@@ -1,0 +1,29 @@
+[ Note ]
+
+Compatible extension with Blurry's Java PvP
+
+Pack isn't compatible with Blurry's Java PvP if this pack is in global resources
+
+There are still a few bugs that needs fixing. The pack will have more updates on improvement.
+
+Version +26.2.0 uses player.entity.json.
+
+Version 26.2.1 stops using the cape method
+
+Riley came up with the idea for this pack; therefore, I have to give him credit for it as I didn't intend to create a left handed texture pack.
+
+Check him out - 65KRiley - YouTube
+
+Other left hand texture packs change the position to make it look like you're using left hand; however, that's not the case with this one. You actually use your left hand as your main hand and your right hand stays in the same position.
+
+Picture example - Visible Offhand
+
+Picture - Complex Left Hand
+
+Items that go in the off hand which is now right hand show in your right hand and not the left hand.
+
+Blocks are supported for both hands, left hand and right hand
+
+Pack Config will be in the pack settings
+
+If you want to change the position and rotation of the hands, you can to adjust to your liking.

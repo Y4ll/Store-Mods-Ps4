@@ -1,0 +1,43 @@
+The Tree Chopper add-on introduces a brand-new mechanic for chopping wood in Minecraft: simply crouch and cut a single log block to bring down the entire tree! Developed from the ground up for maximum performance, it runs smoothly without lag and leaves no permanent data behind if removed from your world. It was specifically created as a survival-friendly add-on.
+
+Join our Discord Server to get access to other creations and news about upcoming updates!
+
+HOW IT WORKS
+
+Simply CROUCH (SNEAK) while breaking the first log block to trigger the system.
+
+NOTE: You can also customize whether crouching is required in the settings menu.
+
+FEATURES
+
+- ACHIEVEMENTS FRIENDLY
+
+- Extremely Optimized (No Lag)
+
+- Survival Friendly
+
+- Compatible with Visual Vibrants
+
+- Compatible with Custom Resource Packs
+
+SETTINGS MENU
+
+You can configure the behavior of the add-on directly in your world using the following command:
+
+/tree_chopper:config
+
+MECHANICS
+
+- Broken wood blocks will be automatically stored in your inventory (if there is no space left, they will drop on the ground).
+
+- All of the tree's leaves will also be destroyed automatically.
+
+- The number of logs broken will be proportional to the size of the tree.
+
+- Tool durability decreases according to the total number of logs broken.
+
+- Using unsuitable tools increases wear and tear (axes are highly recommended!).
+
+- Felling a very large tree (such as giant pines) without tools may consume some hunger points.
+
+If you prefer a more direct, instant-break style without extra mechanics, check out the Tree Capitator Add-on instead.

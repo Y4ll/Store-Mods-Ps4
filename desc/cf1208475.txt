@@ -1,0 +1,41 @@
+Original version of the Java Mod!
+
+GETTING STARTED
+
+About JustHammers Add-on
+
+Add hammers to the game that are able to mine in a 3x3, 3x3x3, 5x5x3 and finally a 5x5x5! They're pretty awesome.
+
+This Add-on is an Unofficial port for Minecraft Bedrock! Do not bother the original creator with questions or bugs related to this Add-on.
+
+Main Features
+
+- Mine and destroy blocks.
+
+- Finding ores is easier.
+
+- Break all the blocks in your way.
+
+- Herobrine will be scared when he sees how many blocks you can destroy.
+
+- Iron, Gold, Diamond, Netherite Hammers.
+
+- Has tiers of all of the above that increase the area of affect. Starting at 3x3x1 all the way up to 5x5x5. Durability scales with the tiers.
+
+- Compatible with any Add-on.
+
+Screenshots
+
+Installation Notes
+
+To enjoy this add-on comfortably, make sure you have correctly downloaded the following files in their corresponding versions:
+
+- JustHammers [Bp].mcpack
+
+- JustHammers [Rp].mcpack
+
+Both files are required for the add-on to function correctly. (One handles all behaviors and scripts, while the other provides the textures, so be sure to download both)
+
+Experimental settings
+
+This add-on does not require any experimental settings to be enabled. You can enjoy all of its content without disabling achievements in your world.

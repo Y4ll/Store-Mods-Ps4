@@ -1,0 +1,45 @@
+Introduction
+
+Bring Minecraft's flat items to life with handcrafted 3D models.
+
+This resource pack transforms vanilla tools and weapons into detailed 3D models while preserving Minecraft's original look and feel. Every model is carefully handcrafted to blend seamlessly with the vanilla style, adding depth, personality, and immersion to your gameplay without changing how the game plays.
+
+Preview
+
+Features
+
+- Handcrafted 3D models
+
+- Vanilla-friendly design
+
+- Visual-only resource pack
+
+- Built using Minecraft Bedrock's attachables
+
+- Regular content updates
+
+Current Content
+
+- All vanilla tools
+
+- All vanilla weapons
+
+More items will be added with every update until the entire vanilla item collection has been recreated in 3D.
+
+Roadmap
+
+Next Update: 3D Food & Eatable Items
+
+- Detailed 3D models to food items
+
+- And other improvements
+
+Update Schedule
+
+New updates are released every Monday, with each update adding more handcrafted 3D items to the pack.
+
+Support
+
+If you enjoy this project, consider leaving a Favorite and Following the project on CurseForge. Your support helps the pack grow and motivates future updates.
+
+Thank you for downloading 3D Items! More content is on the way.

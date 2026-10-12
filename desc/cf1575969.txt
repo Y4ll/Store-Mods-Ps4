@@ -1,0 +1,76 @@
+Lilium Dynamic Light - Bedrock Edition
+
+Lilium Dynamic Light is a vanilla-friendly, standalone addon that brings realistic dynamic lighting to players, mobs, and dropped items in Minecraft Bedrock Edition, without modifying a single vanilla block or entity component.
+
+Features
+
+- Dynamic Light for Players, Mobs & Items: Torches, lanterns, glowstone, and dozens of other light-emitting items automatically light up your surroundings when held, worn, or dropped.
+
+- Colored Light (Vibrant Visuals): With Vibrant Visuals enabled, light takes on the color of its source, 16 dye colors plus automatic tints for vanilla items and placed emitting blocks (Soul Lanterns -> blue, Redstone Torches -> red, etc.). Falls back to standard white light when Vibrant Visuals is off.
+
+- Triple-Sneak Menu Opening (No Item Required): Simply sneak three times consecutively with empty hands to open the in-game configuration menu instantly, or use /scriptevent ldl:menu.
+
+- Custom Styled In-Game UI: Clean, dark-themed configuration screens powered by @minecraft/server-ui. Toggle features, adjust scan ranges, and register custom items/mobs/blocks in real time.
+
+- Double-Sneak Offhand Gesture: Quickly swap your held light source to your offhand while keeping a weapon in your main hand.
+
+- Expanded Detection Range Controls: Adjust entity/mob light detection distance up to 128 blocks and emitting block scan radius up to 12 blocks directly in the General Settings menu.
+
+- Native 20 FPS Zero-Lag Engine: Ultra-fast 1-to-1 dynamic light tracking with zero movement trail and instant auto-cleanup.
+
+- Smart Multi-Owner Blending: Light dims progressively as sources move away, instead of switching off abruptly.
+
+- Fire & Explosion Reactivity: Burning entities and charged/exploding Creepers emit their own glow.
+
+- Public Tag & Component API: Other addon creators can make their items and mobs glow with simple tags, and their blocks with a single JSON component, no scripting required.
+
+Feature Showcase
+
+Official Extension Addon: Extra Content
+
+Enhance your experience with Lilium Dynamic Light - Extra Content, the official extension pack that adds new illuminated items, blocks, and animations to your world:
+
+- 16 Dyed Torches with Custom Particles: Fully craftable colored torches across all 16 dye colors that function as placeable blocks, items, and level 14 colored dynamic light sources. Placed torches feature dynamic tinted glow, colored flames, and smoke particles aligned to their placement face.
+
+- 102 Miner Helmets with Light: 6 armor tiers (Chainmail, Copper, Diamond, Gold, Iron, Netherite) with 17 color options per tier (Default + 16 dyes), emitting level 14 dynamic light when equipped on your head.
+
+- Actions & Stuff Integration: Native Resource Pack subpack support for Oreville Studios' Actions & Stuff animations (first-person holding & Molang variables).
+
+- Creative Catalog & Crafting: Complete crafting recipes and dedicated creative catalog groups for seamless organization.
+
+Third-Party Public API & Custom Components
+
+Custom Item Tags
+
+Add these tags to any custom item JSON (minecraft:tags) to emit dynamic light:
+
+Tag
+Description
+
+ldl:level_light_{1-15}
+(Required) Sets the light level emitted by the item.
+
+ldl:vv_{color}
+Sets the light color when Vibrant Visuals is enabled (white, light_gray, gray, black, red, orange, yellow, lime, green, cyan, light_blue, blue, purple, magenta, pink, brown).
+
+ldl:water
+Keeps the item glowing while submerged in water.
+
+ldl:offhand
+Allows the item to be swapped via the double-sneak gesture.
+
+ldl:equipped_{slot}
+Restricts the light to a specific equip slot (any, mainhand, offhand, head, chest, legs, feet).
+
+Custom Mob / Entity Tags
+
+Assign these tags to entities/mobs via spawn event commands (/tag @s add ldl:...), .mcfunction, or Script API (entity.addTag(...)):
+
+Tag
+Description
+
+ldl:level_light_{1-15}
+(Required) Sets the light level emitted by the entity/mob.
+
+ldl:vv_{color}
+Sets the light color when Vibrant Visuals is enabled (whi

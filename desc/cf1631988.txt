@@ -1,0 +1,3 @@
+With VeinMiner vein mining, both trees and ores can be targeted; however, a pickaxe is required to mine ores, and this also applies to trees
+
+VeinMiner Damar madenciligi yaparken hem agaclar hem de madenler ahedef alnabilir; ancak madenleri kazmak icin bir kazma gerekir bu agaclar icinde gecerlidir

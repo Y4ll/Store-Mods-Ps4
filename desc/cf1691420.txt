@@ -1,0 +1,97 @@
+Create: Synthetic Pressure Bedrock Port
+
+A Minecraft Bedrock port by PanCake of Create: Synthetic Pressure, Angelic_Aether's updated remake of Create: High Pressure by Aweeri.
+
+REQUIRED DEPENDENCY: Create Add-On by Vatonage
+
+Requirements
+
+- Minecraft Bedrock 1.26.0 or newer
+
+- Create Add-On 1.0.1 by Vatonage
+
+- Both the Behavior Pack and Resource Pack for Create and Synthetic Pressure must be active.
+
+Overview
+
+Create: Synthetic Pressure provides a balanced, automation-focused alternative for producing renewable diamonds without mining.
+
+Originally created by Aweeri with survival progression in mind and later updated by Angelic_Aether, the addon is intentionally costly and challenging while avoiding unnecessary bloat.
+
+This Bedrock port recreates the original processing chain and probabilities while integrating with Create Bedrock's machinery, visuals, sounds, and compatibility API.
+
+New Items & Recipes
+
+Graphite Powder
+
+Process coal or charcoal using an Encased Fan and lava to produce Graphite Powder.
+
+Graphite
+
+Compact Graphite Powder beneath a Mechanical Press using a heated basin.
+
+Each Graphite Powder has a 50% chance to produce Graphite.
+
+Impure Diamond & Diamond Production
+
+Compact Graphite beneath a Mechanical Press using a superheated basin.
+
+Each Graphite independently has:
+
+- 1% chance to produce a Diamond
+
+- 80% chance to produce an Impure Diamond
+
+Recycling & Multiplication
+
+Process Impure Diamonds in Crushing Wheels to recover useful materials.
+
+Each Impure Diamond independently has:
+
+- 90% chance to return Gravel
+
+- 50% chance to return Graphite Powder
+
+- 50% chance to produce an Experience Nugget
+
+Renewable Netherrack
+
+Mix 1 Netherrack + 1 Gravel + 100 mB of Lava in a basin to produce 2 Netherrack.
+
+This provides renewable Netherrack and makes Blaze Cake automation easier.
+
+Bedrock Compatibility
+
+Fan-blasting and crushing recipes register through Create Bedrock's public compatibility API.
+
+Heated and superheated basin compacting are handled directly by this addon because the current public pressing API supports only belt and depot recipes.
+
+Important: Keep unrelated items and native Create recipe ingredients out of Synthetic Pressure compacting basins.
+
+A mixed basin is intentionally blocked until it is emptied. This prevents Create and Synthetic Pressure from attempting to process the same batch.
+
+Diagnostics
+
+For an in-game setup report, stand within 12 blocks of the machine and run:
+
+/scriptevent create_high_pressure:diagnose
+
+Credits
+
+- Bedrock Port: PanCake
+
+- Required Create Bedrock Add-On: Create Add-On by Vatonage
+
+- Create: Synthetic Pressure: Angelic_Aether
+
+- Original Create: High Pressure: Aweeri
+
+- Original Synthetic Pressure Project: Modrinth
+
+License
+
+Create: Synthetic Pressure is MIT licensed.
+
+This is an unofficial Minecraft Bedrock port and requires Create Bedrock by Vatonage to function.
+
+Support

@@ -1,0 +1,55 @@
+Homelander! (The Boys)
+
+WARNING GENERAL ZOD V2 IS OUT NOW! DOWNLOAD IT HERE: General Zod V2
+
+This Homelander boss is an incredibly advanced and terrifying challenge! Unlike standard mobs, this is a fully custom-coded AI state-machine that perfectly captures the world's strongest Supe from The Boys. He acts as an apex predator, destroying the environment to hunt you down. Gear up, brew your strongest potions, and prepare for the ultimate showdown!
+
+Homelander's Attacks:
+
+-
+
+Melee Chase: Homelander sprints at you with incredible speed, delivering devastating physical blows.
+
+-
+
+Heat Vision (Lasers): Homelander locks in place and unleashes a rapid-fire barrage of explosive, fire-causing projectiles that detonate on impact.
+
+-
+
+Sonic Boom Smash: After a short wind-up, Homelander crashes into the ground, releasing a massive shockwave roar that deals heavy knockback and massive damage in an 8-block radius.
+
+-
+
+Atmospheric Grab & Throw: If you let him get too close, Homelander will grab you and physically launch you in a massive arc high into the sky, leaving gravity to finish the job.
+
+Homelander's Mechanics:
+
+-
+
+True Invulnerability: Homelander only takes damage from Magic (Potions), Lava, or the Void. Swords, armor-piercing weapons, arrows, and explosions will do absolutely nothing!
+
+-
+
+Apex Predator Targeting: Homelander has X-Ray vision up to 128 blocks and will aggressively hunt players, monsters, and even other custom mod bosses.
+
+-
+
+Environmental Destruction: You cannot hide. Homelander will effortlessly smash through glass, wood, doors, fences, and walls to get to his target.
+
+-
+
+Custom Audio: Homelander will taunt you throughout the fight with a custom ambient audio loop featuring his most iconic voice lines.
+
+-
+
+Advanced AI: Homelander operates on a strict Server Animation Controller combat loop, seamlessly transitioning between attacks without breaking.
+
+Homelander Youtube Review: https://www.youtube.com/watch?v=Jaob_RnD4m4
+
+WARNING GENERAL ZOD V2 IS OUT NOW! DOWNLOAD IT HERE: General Zod V2
+
+DISCLAIMER! HOMELANDER WILL DESTROY YOUR BUILDS! Because of his environmental destruction mechanics, do not spawn him near anything you do not want broken! He is meant to be the ultimate boss fight. If you want to use Homelander in a custom map or video/review, you are free to do so, just credit me in it and link the addon page (@NotBonzz)!
+
+Credits: @NotBonzz on YT with the smiley face!
+
+www.youtube.com/@NotBonzz

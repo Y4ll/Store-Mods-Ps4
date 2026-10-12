@@ -1,0 +1,93 @@
+Infinite TNT Duper
+
+Java-Style TNT Duplication Finally on Bedrock!
+
+Make Bedrock Cinematic, Realistic, and Legendary.
+
+Tired of grinding for hundreds of hours just to collect sand and gunpowder for blast chambers? Ever wanted to build massive Java-style flying world-eaters, deepslate perimeter quarries, or automatic tree farms in Minecraft Bedrock?
+
+Now you can. 100% Survival Friendly Zero Experimental Toggles Required!
+
+Watch It In Action
+
+Core Features
+
+100% Achievement Safe
+
+Does NOT disable Xbox Live achievements or PlayStation trophies. No experimental toggles or cheats required. Completely survival friendly.
+
+Zero-Lag Performance
+
+Engineered with ultra-lightweight tick scripts that eliminate server lag. Butter-smooth 20 TPS, tested completely stable on busy Realms and BDS.
+
+No player.json Conflicts
+
+Pure isolated script event mechanics mean zero entity file overrides. Plug-and-play installation that stacks perfectly with any other behavior pack.
+
+Slime & Honey Engines
+
+Bi-directional support for Slime Blocks and Honey Blocks. Build 2-way and 4-way flying machines with standard or sticky pistons.
+
+Choose Your Playstyle
+
+Two custom-tuned editions built for every redstone engineering style.
+
+TNT Duper PRO
+
+DOUBLE-FIRE (2X BLAST)
+
+Drops live primed TNT twice per redstone cycle once on piston push, and again on retraction. Built for rapid destruction and massive quarries.
+
+- Drop Rate: Push & Retraction detonations
+
+- Best For: World-eaters & perimeter clearing
+
+TNT Duper LITE
+
+SINGLE-FIRE (1X BLAST)
+
+Drops primed TNT only once when the piston pushes forward, remaining safe and idle on retraction. Perfect for delicate, controlled machinery.
+
+- Drop Rate: Forward push only (safe retraction)
+
+- Best For: Tree farms & precision tunnel bores
+
+Side-by-Side Comparison
+
+Feature Specs
+PRO Edition
+LITE Edition
+
+TNT Output Rate
+2x (Push & Retract)
+1x (Push Only)
+
+Best Redstone Machine
+World-Eaters & Quarries
+Tree Farms & Tunnel Bores
+
+Xbox Achievements
+100% Safe
+100% Safe
+
+Bedrock Support
+1.20 to 26.40+
+1.20 to 26.40+
+
+How It Works In 4 Easy Steps
+
+Simple, robust, and completely reliable mechanics.
+
+STEP 1: PLACE A TNT BLOCK Place your standard TNT block in the designated firing position of your machine.
+
+STEP 2: CONNECT SLIME OR HONEY Attach an adjacent Slime Block or Honey Block to latch onto the duper mechanism.
+
+STEP 3: POWER WITH PISTON Direct a Piston or Sticky Piston to push or pull the connected slime/honey assembly.
+
+STEP 4: FIRE & BOOM! The exact millisecond the piston moves, a live primed TNT entity drops down while your source block remains intact!
+
+Join the zenXveda Community
+
+Connect with us, report suggestions, get early updates, and explore more Bedrock innovations.
+
+Engineered with by zenXveda Not an official Minecraft product. Not approved by or associated with Mojang.

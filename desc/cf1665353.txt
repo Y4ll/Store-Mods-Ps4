@@ -1,0 +1,39 @@
+classic graphics
+
+this texture pack makes your minecraft to matches how b1.7.3 looks like.
+
+features:
+
+- no tinted lightmap ( night color, torch/lightsource block )
+
+- matches sky color like b1.7.3
+
+- entities have darker shades to matches b1.7.3
+
+- lowered clouds y level
+
+- emissive blocks/textures
+
+this is RD shaders, so you need to use the correct tools to use this ( e.g. MaterialBinLoader, Minecraft patch, or any shaderloader ).
+
+works on:
+
+Android, Windows, Ios
+
+preview:
+
+light block
+
+low light block
+
+scenery
+
+entity
+
+night
+
+note:
+
+to create an emissive block, change the alpha/transparency of your desired texture to be 252 or 99%.
+
+current issue: top side of clouds doesnt render if under some y levels

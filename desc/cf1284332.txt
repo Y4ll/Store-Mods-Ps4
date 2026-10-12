@@ -1,0 +1,106 @@
+Who said love and steel didn't get along?
+
+Discover your robotic companions, fight alongside them and make them stronger in this unique adventure.
+
+Support me on Patreon or Ko-fi!
+
+If you enjoy my addons and want to support my work on a voluntary basis, you can do so at:
+
+Patreon: VirtualBlack8
+Ko-fi: VirtualBlack8
+
+Everything I create is 100% free, with direct downloads and no ads.
+Your support, no matter how small, motivates me to keep creating, updating, and improving every day.
+
+Thank you! :)
+
+Join our Discord!
+
+Join our community to receive technical support, add-on news, share ideas, or report bugs.
+
+Click here to join
+
+Lovely Robots is an addon designed to let you enjoy your adventures alongside loyal robotic companions.
+
+Each robot has its own role, behavior, and combat style.
+You can tame them, level them up, customize their colors, and activate advanced modes like BaseDefense and AutoAttack to adapt them to your playstyle.
+
+Fight alongside 8 unique robots, each one created for a different purpose and strategy.
+
+Each robot can reach up to 16 levels.
+
+Bunny
+
+Bunny2
+
+Bunny3
+
+Honey
+
+Vanilla
+
+Neko
+
+Kitsune
+
+Doragon
+
+It does not level up: it is already at its maximum capacity.
+
+Features:
+
+You can paint them: use the colors below the image of the robots in the frames.
+
+Domestication: Use apples, carrots, golden apples, or golden carrots to tame them.
+
+Passive Regeneration: All heal slowly over time.
+
+Accelerated Healing: Use apples, carrots, golden versions, or even Redstone to heal them quickly.
+
+Standby Mode: You can leave them still when you don't want them to move.
+
+BaseDefense Mode: Protects an area automatically.
+
+AutoAttack Mode: They chase and attack enemies on their own.
+
+Sample statistics: Use a book in them to see their information.
+
+Glow in the Dark: Her eyes and weapons have a glowing nighttime effect.
+
+Craftings
+
+Robot Core
+
+Bunny
+
+Bunny2
+
+Bunny3
+
+Honey
+
+Vanilla
+
+Neko
+
+Kitsune
+
+Doragon
+
+Credits
+
+Mod original: Lilacx02 (Java)
+
+Port Bedrock and Expansion: VirtualBlack8 and D Flog Flag
+
+Special animation (walking): DodoFilms Thank you for your awesome contribution!
+
+Current Status (Development)
+
+This addon is still in development. Some things are not finalized.
+
+You can leave suggestions or reports directly on the Discord server.
+
+Please share only official MCPEDL or CurseForge links
+
+Thank you, and enjoy your adventure with Lovely Robots! :D

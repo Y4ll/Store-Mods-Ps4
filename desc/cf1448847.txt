@@ -1,0 +1,5 @@
+This mod automatically applies maximum-level enchantments to any tool or weapon the moment you hold it in your hand. It completely removes the need to grind for enchantment books or use an enchanting table, making gameplay faster and more convenient.
+
+All enchantments are applied at their highest possible levels and work seamlessly in-game.
+
+Original creator: xShadow974

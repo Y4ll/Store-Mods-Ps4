@@ -1,0 +1,70 @@
+PureTone Visuals is a Vibrant Visuals shader pack built for Minecraft Bedrock's new rendering pipeline. It delivers cinematic atmospheric lighting, violet-to-magenta dreamy skies, ACES-graded color tuning, warm golden sunlight, an animated violet aurora sky phenomenon, and a full PBR material overhaul, all while staying true to vanilla's clean aesthetic.
+
+Reimagined Visual Style
+
+- Reworked color grading with punched-up contrast and saturation across highlights, midtones, and shadows
+
+- Balanced between cinematic vibrancy and vanilla-friendly aesthetics
+
+- PBR-reflective water with metalness/roughness/emissive maps for realistic surface behavior
+
+- Two full atmosphere identities built in golden-violet default and a softer pastel-pink alternate
+
+Advanced Atmospherics System
+
+- Custom sky color transitions with 20+ keyframes spanning the full day-night cycle
+
+- Tuned Rayleigh and Mie scattering for realistic sky depth, sun glow, and horizon blending
+
+- Rich violet-to-magenta sunrise and sunset gradients
+
+- Full atmosphere coverage across every vanilla biome
+
+Violet Aurora at Night
+
+- A rare, animated aurora glimmers across the night sky, adding a signature atmospheric touch
+
+- Additive-blended light beams create a soft, glowing violet ribbon effect rather than a flat texture
+
+- Beams drift and pulse in width and height over their lifetime for a natural, shifting curtain-light look
+
+- Spans wide across the sky above the player, sweeping and arcing rather than sitting in one fixed spot
+
+Lighting
+
+- Warm golden directional sunlight with soft 1024-texel shadows
+
+- Alternate rose-toned "pink lighting" mode with violet moonlight for a completely different mood
+
+- Over 50 individually recolored local light sources torches, lanterns, candles, ores, portals, froglights, and more
+
+- Smooth sun illuminance ramp from full daylight to night
+
+Color Grading & Fog
+
+- ACES tone mapping with a 6200K white balance for a warm, natural look
+
+- Split highlight/midtone/shadow color grading for cinematic contrast
+
+- Two volumetric fog profiles cool blue-grey default and rose/magenta alternate
+
+- Custom Henyey-Greenstein scattering for natural light diffusion in air, water, and weather
+
+Extras
+
+- Global PBR fallback gives every block, item, actor, and particle a baseline reflective sheen
+
+- Custom biome colormaps for grass, foliage, birch, evergreen, swamp, and mangrove tinting
+
+Requirements
+PureTone Visuals requires Minecraft Bedrock 1.21.80+ with Vibrant Visuals / PBR rendering enabled.
+
+Installation
+
+- Download the .zip file
+
+- Open to import into Minecraft
+
+- Enable PureTone Visuals in Global Resources
+
+- Turn on Vibrant Visuals in Video Settings

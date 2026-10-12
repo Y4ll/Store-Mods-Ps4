@@ -1,0 +1,211 @@
+YGP! Dirt Gives OP Items
+
+What if breaking ordinary dirt could give you anything from normal loot to extremely powerful YGP equipment?
+
+YGP! Dirt Gives OP Items turns Minecraft Bedrock dirt breaking into a randomized survival experience where supported dirt-family blocks can produce different rewards, special events, enemy encounters, or extremely rare YGP outcomes.
+
+BREAK DIRT GET A RANDOM OUTCOME GET OP SURVIVE
+
+Created by Yojitgamingpro / YGP Studio / YGP Minecraft.
+
+YGP V2 GEAR EXPANSION
+
+The addon features the complete YGP V2 equipment set, bringing powerful YGP-branded tools and armor into the Dirt Gives OP Items experience.
+
+YGP V2 Tools
+
+YGP V2 Sword
+
+YGP V2 Pickaxe
+
+YGP V2 Axe
+
+YGP V2 Shovel
+
+YGP V2 Hoe
+
+YGP V2 Armor
+
+YGP V2 Helmet
+
+YGP V2 Chestplate
+
+YGP V2 Leggings
+
+YGP V2 Boots
+
+The YGP V2 equipment provides a powerful high-tier gear progression unique to the addon.
+
+RANDOMIZED REWARD SYSTEM
+
+Breaking supported dirt-family blocks can produce different reward tiers:
+
+Common 55%
+
+Rare 25%
+
+Epic 12%
+
+Legendary 5%
+
+YGP / OP Tier 3%
+
+The rarer the outcome, the more valuable, unusual, or powerful the reward can become.
+
+The 3% YGP / OP outcome guarantees the YGP V2 Blade, followed by an additional OP loot reward.
+
+YGP V2 BLADE
+
+The YGP V2 Blade is one of the addon's special high-tier items.
+
+It includes two custom abilities.
+
+YGP Surge
+
+Activate Surge to receive powerful temporary effects including:
+
+Strength
+
+Resistance
+
+Regeneration
+
+Speed
+
+Absorption
+
+Night Vision
+
+Cooldown: 8 seconds
+
+YGP Pulse
+
+Use Pulse while sneaking to activate a powerful support effect.
+
+Pulse can:
+
+Heal the player
+
+Provide Fire Resistance
+
+Provide Saturation
+
+Extinguish fire
+
+Affect nearby non-player entities
+
+Cooldown: 12 seconds
+
+SPECIAL DIRT EVENTS
+
+Breaking dirt isn't limited to item rewards.
+
+A dirt break can trigger:
+
+Random rewards
+
+Rare rewards
+
+Special events
+
+Enemy encounters
+
+Rare enemy encounters
+
+Extremely rare events
+
+OP enemy encounters
+
+Ordinary dirt can become surprisingly dangerous and surprisingly rewarding.
+
+ENEMY ENCOUNTERS
+
+The addon includes custom enemy encounter definitions with different difficulty levels and configurations.
+
+Current implementation includes:
+
+18 regular enemy definitions
+
+3 OP enemy definitions
+
+Rare dirt events can turn normal gameplay into an unexpected battle.
+
+OP ENEMY REWARDS
+
+Defeating certain OP dirt enemies can provide additional high-tier rewards.
+
+The OP enemy reward system includes a 35% chance to receive the YGP V2 Blade, with other powerful rewards available through the same reward path.
+
+SUPPORTED DIRT BLOCKS
+
+The addon supports multiple dirt-family blocks, including:
+
+Dirt
+
+Grass Block
+
+Coarse Dirt
+
+Dirt with Roots
+
+Podzol
+
+Mycelium
+
+So don't assume only normal Dirt is involved.
+
+YGP IMMORTAL DOG
+
+The previous Loyal Dog system has been replaced with the YGP Immortal Dog.
+
+The Immortal Dog is automatically associated with the player as their pet.
+
+No separate taming is required.
+
+The system is designed for player-specific ownership, including multiplayer worlds.
+
+The Immortal Dog brings the YGP companion system into the Dirt Gives OP Items experience.
+
+IN-GAME YGP WIKI
+
+The previous large first-join welcome chat system has been removed.
+
+Instead, the addon uses an in-game YGP Wiki/menu for information and instructions.
+
+The Wiki can provide information about:
+
+YGP! Dirt Gives OP Items
+
+Reward system
+
+YGP V2 equipment
+
+YGP V2 Blade
+
+YGP Surge
+
+YGP Pulse
+
+Dirt events
+
+Enemy encounters
+
+YGP Immortal Dog
+
+How to play
+
+Official YGP information
+
+This keeps normal Minecraft chat cleaner while keeping important addon information accessible in-game.
+
+MULTIPLAYER
+
+YGP! Dirt Gives OP Items is designed with multiplayer gameplay in mind.
+
+Player-specific state is used for relevant cooldown and event handling so that one player's interaction does not unnecessarily overwrite another player's state.
+
+The YGP Immortal Dog is also associated with its individual owner.
+
+PERFORMANCE
+
+The main dirt interactio

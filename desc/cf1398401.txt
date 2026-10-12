@@ -1,0 +1,38 @@
+Upgrade your boring skinny armor stand to a player model armor stand with different textures!. This pack is based on Java Edition's "New Armor Stand" by moro2610 and was ported by me to Bedrock.
+
+NAMETAGS:
+
+Wood Variants
+
+Oak Texture as Default Texture
+
+"Birch", "Spruce", "Dark Oak", "Jungle", "Acacia", "Warped", "Crimson", "Mangrove", "Cherry", "Bamboo", "Pale Oak"
+
+New Default Skins
+
+Male
+
+"New Steve", "Kai", "Noor", "Sunny", "Zuri"
+
+Female
+
+"New Alex", "Ari", "Efe", "Makena"
+
+YouTuber Skins
+
+"Mr Beast", "Technoblade", "Dream", "Grian", "Mumbo Jumbo", "Wattles", "Phoenix SC", "Pewdiepie", 'Camman18', 'Camman18YT', 'DanTDM', 'Dantdm', 'Jelly', 'Prestonplayz', 'Ssundee', 'Bionic', 'aCookiegod', 'DaquavisMC', 'GrayStillSlays', 'Grox', 'Skip the Tutorial', 'TommyInnit'
+
+Mobs and Other Skins
+
+"Herobrine", "Steve", "Alex", "Notch", "Dummy", "Drowned", "Husk", "Zombie", "Freddy Fazbear", "Hitori Bocchi", "Andrew Tate", 'Cristiano Ronaldo'
+
+Discord Member Submission Skins
+
+Join my Discord Server if you want yours to be added in the next update
+
+"Yoshiro", "Ghost", "Drake027", "Sheep", "Fluffball", "MakoQuest940", "AyanoCraft", "DEDEImc64", "pillagerzane", "StylaxGaming793", "OBSIDILITH_123", "DDR4", "Deita", "Dista", "Titi", "Zaczin", "UncleJeff10", "Wizard Craft Tamil", "Yozora Mel", "Mnidanishcraft", "Sawr", "Adeybo", "Slimeking280", "ktnabil55", "Dani52", "TyingPlum345", "ktnabil552", "BigBrainPlays207", "Puppet5285", "anon", "K4N3K1", "The Blue Phoenix", "megalodon700", "Batman", "Creed401", "xTiXeRx22", "Jpam1051", "villadicator", "melloluis1018", "ShinBane", "JuanLucass1407", "Theken95", "DemonKnight0304", "4intGoddune", "Milka901YT", "Slimeking1000", "Yuuwop", "Satoru Gojo", 'daisy', 'Dally_Apple', 'racoonYT', 'Ramjielhunter', 'Switchgelb'
+
+For the original Java Version:
+New Armor Stand | moro2610's Profile
+
+Owner's Permission:

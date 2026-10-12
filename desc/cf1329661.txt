@@ -1,0 +1,11 @@
+Player Health Indicator Bedrock
+
+This resource pack displays players health above their heads so you can see their hearts in real time. It's especially useful for PvP you'll know exactly how much health an opponent has during fights. It also works on servers, making it great for multiplayer and competitive gameplay.
+
+Note: This pack is inspired by the popular Java mod Player Health Indicators (java) . This pack is only inspired by that mod no assets, code, or other content were taken from it.
+
+If you enjoy my packs and want to support my work
+
+Support Me on Ko-fi
+
+Your support means a lot thank you!

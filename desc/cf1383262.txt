@@ -1,0 +1,51 @@
+Un paquete de texturas util y multifuncional disenado para mejorar tu experiencia con pequenos ajustes en tu mundo.
+
+https://www.youtube.com/@ElSalvaMinecraft
+
+Este paquete incluye mejoras notables en el juego, como:
+
+- Barra de XP de color
+
+- Borde en los minerales
+
+- Puertas con una pequena ventana
+
+- Corazones blancos
+
+- Imagen realista del cielo
+
+- Cristales mas limpios
+
+- Algunos cambios en la interfa
+
+- etc.
+
+Caracteristicas utiles:
+
+- Ver las estadisticas de los aldeanos sin subirlos de nivel
+
+- Reloj, brujula en pantalla
+
+- Boton de Crafteo rapido
+
+- + Saturacion
+
+- Un modo de equipo optimizado (experimental)
+
+- Cambios en items
+
+- Potencia de armas y fuego reducida
+
+- Detalles ocultos
+
+- Indicadores en Redstone para facilitar su uso
+
+- Ver pociones en la mesa de preparacion
+
+Funciona en cualquier dispositivo y es compatible con la version 1.21.130. No elimina logros y funciona en servidores :D
+
+Esta es una version beta y aun esta en desarrollo. Disfrutala!
+
+ELSALVA
+
+No olvides tomar Awita

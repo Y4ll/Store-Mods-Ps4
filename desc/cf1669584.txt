@@ -1,0 +1,19 @@
+How to use this Add-On
+
+- Look in the recipe book to find what you need to craft Wolverines mask! Wear it like a helmet to become Wolverine. You can also craft it into Wolverine Mask - Player which lets you keep your skin though it doesn't have all of the same visual effects.
+
+- While you are Wolverine you have a few "passive" abilities:
+
+- You have a double health bar. When the first is reduced, you become an "adamantium skeleton", but you can heal yourself to return to normal.
+
+- Mobs drop "foot-print particles" so that Wolverine can "track" them (it doesn't do anything special mechanically, just visuals).
+
+- The Claw item has a few different functions:
+
+- Select it to play the unsheath animation.
+
+- You are given a bit of a strength boost while holding the claws and mobs you attack are damaged over time for a few seconds.
+
+- Sneak while holding the claws to "block" which can deflect arrows.
+
+- Right-click while holding the claws to insta-heal.

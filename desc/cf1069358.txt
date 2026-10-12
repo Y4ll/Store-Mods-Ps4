@@ -1,0 +1,169 @@
+Version 2.8.2
+
+- Fixed a bug that prevented backpacks from being placed on invalid blocks.
+- Custom skins now work correctly with this add-on.
+- The add-on now supports achievements.
+
+-6 new backpacks with a Christmas theme
+
+-A fatal problem was fixed
+
+-Some models that did not fit when executing actions correctly were fixed
+
+-Backpacks are now rendering correctly again
+
+NEW DESIGN BACKPACK
+
+-Gift Box
+
+-Gingerbread Man
+
+-Snowman
+
+-Xmas Tree
+
+-Turkey
+
+-Wreath
+
+Alternative Upgrade
+
+Soul Bond:
+-Alternative upgrade that can only be accessed by "Sneaking + Interacting" with the item "Soul Bond Upgrade"
+
+-This upgrade will prevent you from losing your backpack upon death, but you cannot have "Return Upgrade" and "Soul Bond" at the same time.
+
+RECIPE:
+
+Wolf Backpack
+
+New backpack, nine wolf variants to customize your backpack. You can craft it at a crafting table or use a BONE in a backpack, but the resulting backpack will depend on the biome!
+
+the Panda Backpack. These backpacks are obtained from the crafting table. P.S. Each style is random, so be prepared if you want a specific design.
+
+ADD FRIEND (OPTIONAL)
+
+To disable or enable the Add Friend option, you need the OPERATOR rank in the world. Once you have the rank, you'll have a new command available to enable and disable it.
+
+To disable use this command
+
+To enable use this command
+
+With this new upgrade, you can add players to your backpack so they can access it. Without it, no other player will be able to access it. This is great for preventing theft. Keep your backpack safe and easily share it with your friends.
+
+-Added recipes for colored backpacks, animals, and extras to the crafting table.
+
+-Added 2 new backpacks
+-Customizable skins in Minecraft now appear correctly
+-Fixed a specific crash when trying to intentionally transfer backpacks between dimensions
+-Fixed an issue that caused cat backpacks on the back to be invisible
+
+Special designs have been added to backpacks. These backpacks don't require dye, just a specific material.
+
+Remember to have the RP and BP in the same version, if the version is not the same there may be problems
+
+Tuxedo Cat Backpack
+
+-White wool
+
+Backpack for Siamese cat
+
+-Brown wool
+
+Axolotl Backpack
+- Pink Wool
+
+Brown wool capybara backpack
+
+Luxury backpack
+- Black wool
+
+Cat Backpack
+
+Tuxedo Cat Backpack
+
+-Light grey wool
+
+Black Cat Backpack
+
+-Gray wool
+
+Orange Cat Backpack
+
+-Orange wool
+
+Pumpkin backpack
+
+-Carved pumpkin
+
+BACKPACK
+
+The basic backpack has 27 slots to store the items you need. You can dye it in different colors and upgrade it to add new features, such as increasing its inventory capacity.
+
+RECIPE
+
+How to open the backpack?
+
+You need to have a backpack and interact with it to open your inventory.
+
+How to carry a backpack on your back?
+
+To carry the backpack, you must break it open with your hands and equip it in your inventory. The backpack won't be visible if it's in the quick access bar.
+
+How to add updates?
+
+The new upgrade feature works by combining Interact [Right Click] + Stealth. This will open the Upgrade menu.
+
+BACKPACK COLOR VARIANT
+
+How do I change the color of the backpack?
+
+The backpack can be changed with dyes.
+
+AVAILABLE BACKPACK UPGRADES
+
+POCKET UPDATE
+
+Description
+
+Pocket Upgrade is an upgrade for the backpack that expands its storage space from 27 to 36 slots.
+
+RECIPE
+
+IRON POCKET UPGRADE
+
+Description
+
+Pocket Upgrade is an upgrade for the backpack that expands its storage space from 36 to 45 slots.
+
+RECIPE
+
+GOLDEN POCKET UPGRADE
+
+Description
+
+Pocket Upgrade is an upgrade for the backpack that expands its storage space from 45 to 54 slots.
+
+RECIPE
+
+DIAMOND POCKET UPGRADE
+
+Description
+
+Pocket Upgrade is an upgrade for the backpack that expands its storage space from 54 to 63 slots.
+
+RECIPE
+
+NETHERITE POCKET UPGRADE
+
+Description
+
+Pocket Upgrade is an upgrade for the backpack that expands its storage space from 63 to 72 slots.
+
+RECIPE
+
+MAGNET UPDATE
+
+Description
+
+The Magnetic Upgrade is a backpack upgrade that attracts ne

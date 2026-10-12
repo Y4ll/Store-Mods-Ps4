@@ -1,0 +1,10 @@
+Custom Atmospherics is a shader pack that allows you to customize the atmosphere in your world however you want.
+
+Options list:
+Default
+Dynamic
+Clear Blue Sky
+
+To change the option, go to the Settings section, find Custom Atmosphere, click Settings, and choose the atmosphere you want.
+
+(All photos can be checked in the media or below)

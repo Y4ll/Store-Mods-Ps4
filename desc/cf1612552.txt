@@ -1,0 +1,85 @@
+Java Style Regeneration and Saturation Pro by ZenXveda
+
+The most complete and accurate recreation of Java Edition's health regeneration system, now available for Minecraft Bedrock Edition.
+
+OVERVIEW
+
+Vanilla Minecraft Bedrock Edition handles health regeneration differently from Java Edition slower, simpler, and with no visual feedback. Java Style Regeneration Pro closes that gap entirely.
+
+This addon faithfully recreates Java Edition's saturation-driven regeneration mechanics, the iconic ripple wave animation across your hearts, individual white heart flash highlights, and the hidden saturation counter displayed directly on your HUD all without affecting achievements.
+
+COMPARISON
+
+With Java Style Regeneration Pro:
+
+Fast, saturation-based health regeneration with satisfying visual feedback
+
+Vanilla Minecraft Bedrock:
+
+Slow, flat regeneration no animations, no saturation display
+
+HOW DOES SATURATION WORK?
+
+Behind your hunger bar lies an invisible stat called Saturation. It acts as a shield for your hunger, and it directly controls how fast you regenerate health. The higher your saturation, the faster and more efficiently you heal.
+
+Different foods give vastly different saturation values:
+
+Food
+Saturation Points
+Effect
+
+Golden Carrot
+14 pts
+Extremely fast healing
+
+Cooked Beef
+12.8 pts
+Fast healing
+
+Bread
+6 pts
+Slow healing
+
+Apple
+2.4 pts
+Very slow healing
+
+This means that what you eat matters just as much as how much you eat. Eating a Golden Carrot will sustain your health regeneration far longer than eating bread, without needing to eat again.
+
+FEATURES
+
+Java Regeneration Wave
+
+When you gain a heart of health, the entire row of hearts performs a left-to-right wave ripple, bouncing slightly up and down in sequence exactly as seen in Java Edition.
+
+White Heart Flash
+
+As each individual heart (or half heart) is actively restored, it briefly flashes with a bright white highlight before settling into its solid red state. The flash lasts precisely 0.25 seconds an accurate recreation of Java Edition's 5-tick heart pop effect.
+
+Saturation HUD Display
+
+Your hidden saturation value is now visible in real time as glowing golden outlines overlaid directly on your hunger bar drumsticks. Watch your saturation drain as you regenerate, and see exactly how much healing power your food has given you.
+
+- Saturation display automatically hides when your hunger is depleted
+
+- Disappears cleanly on death or on switching to Creative/Spectator mode
+
+- Zero flickering, zero ghost highlights
+
+Clean, Minimal HUD
+
+No cluttered action bar text. No black background boxes. No redundant status effect icons. Just a clean, seamless vanilla-feel UI.
+
+VERSIONS
+
+Java Regeneration PRO (This Pack) Full Java Edition experience saturation-driven regeneration logic, heart wave animation, white heart flash, and the saturation HUD display. Both a Resource Pack and Behavior Pack are required.
+
+No-UI Version (LITE) (Separate Download) Adds the Java saturation and regeneration mechanics only, without any custom HUD overlays. Ideal if you are using other custom UI addons and want maximum compatibility.
+
+IMPORTANT
+
+Both a Resource Pack AND a Behavior Pack must be active for this addon to function correctly.
+
+This addon does not disable achievements.
+
+Made with by ZenXveda YouTube Instagram CurseForge

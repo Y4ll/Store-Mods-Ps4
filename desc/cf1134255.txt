@@ -1,0 +1,21 @@
+Get the Pale Garden panorama from 1.21.5 Garden Awakens update in any version of Minecraft!
+
+360 view
+
+Note
+
+It should work on almost any version of Minecraft Bedrock; you can ignore warnings. If your Minecraft version is too old, you might have to edit the manifest.json file of this pack.
+
+A better pack
+
+This pack is part of my full "All Minecraft Panorama" collection, which includes every panorama ever added. I recommend you try that one too!
+
+Java
+
+This is for Minecraft Bedrock edition. You can get the Java version here: https://www.curseforge.com/minecraft/texture-packs/pale-garden-panorama
+
+Help
+
+Heres a guide if you need help installing: https://adib3700.notion.site/ThreeSeven0Zero-Minecraft-Resource-Pack-Installation-tutorial-1ac9ff516372807ca61cf8ad8afd5339
+
+giptala6@gmail.com - If you need any other help, you can email me.

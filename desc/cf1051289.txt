@@ -1,0 +1,173 @@
+Natural Structures Redone is and addon that adds new foliage option that does not interrupt the flow of normal Minecraft generation! Updates are done by biomes/climates.
+
+V1 - General Biome Items
+
+V1.5 - Utilities Update
+
+V2 - Arid Update
+
+V3 - Frigid Update
+
+V4- Beachside/River Update
+
+V4.5 - Overhaul Update
+
+If you would like to see any specific items (that are nature-related) please comment below!
+
+Achievement Friendly!
+
+Now Stable (V4.0.1)
+
+Follow me on Twitter, where I better respond to comments!
+
+Texture Overhaul / Vanilla Parity Update (V4.5)
+
+Major Changelogs
+
+- Textures from V1-V3 (some V4) have been completely overhauled and redone! Enjoy the new textures. Some textures also support Vibrant Visuals and will complement it.
+
+- Added Variants to a majority of cacti, will be shown below
+
+- New Biomes
+
+In-Depth Changelog
+
+New Variants of
+
+- Barrel Cacti - Flowering
+
+- Vibrant Cacti - Flowering, Bunny
+
+- Aloe Vera - Flowering
+
+- Delphinium - 3 new colors
+
+- Desert Poppy - Tall Variant
+
+- Spruce Roots - Snowy, Mushroomless
+
+- Desert Weeds - Blooming
+
+Barrel Cacti
+
+Vibrant Cacti
+
+Blooming Desert Weeds
+
+Aloe Vera + Flowering
+
+Delpiniums - Color
+
+New Foliage
+
+- Bog Button - Swamps
+
+- Pickerel Rush - Green Clover Rivers
+
+- Pink Muhly Grass (tall/short) - Found in Cherry Groves and in the Muhly Plains
+
+- Green Root Floaters / Red Root Floaters - Green Clover Rivers / Red Root Floater Rivers
+
+- Green Clover Roots / Red Floater Roots- Green Clover Rivers / Red Root Floater Rivers
+
+- Agave/ Red Tipped Agave - Deserts
+
+- Trumpet Vines - Find in Birch Forests
+
+Agaves
+
+Pink Muhly Grass
+
+Bog Button
+
+New Biomes
+
+- Green Clover Rivers
+
+- Red Root Floater Rivers
+
+- Desert Poppy Fields
+
+- Muhly Plains
+
+- Forest Clearings (Rocky)
+
+- Volcanic Beaches
+
+Muhly Fields
+
+Desert Poppy Fields
+
+Red Root Floaters
+
+Volcanic Beaches
+
+Green Clover Rivers
+
+Each biome generation have blocks that were previously used in other biome generations but generated in a much better fashion and more desirable way than before.
+
+New Textures
+
+- Bioluminiscent Moss now has an animation
+
+- Wreaths and Decorational items have new textures
+
+- Majority of blocks have new textures.
+
+- Most Water foliage support vibrant visuals.
+
+Holly Items
+
+Pine Items
+
+Rotala w/ Vibrant Visuals
+
+Beachside update
+
+Normal Beach
+
+The beach now has its own grass set!
+
+-Both Tall and Normal grass variants including wheat tipped variants! Tall wheat-tipped grass can be harvested for wheat, while short beach grass needs to be broken to get wheat from.
+
+Seashells from Natural Structures original returns!! Seashells can be turned into bonemeal through the andesite mortar.
+
+Kelp Clumps drop a decent amount of kelp and can be found in all beach biomes.
+
+Beach Pebbles can drop an assortment of polished stones!
+
+Succulents (only found at normal beaches) can be stacked in a single block. Found in your worlds on beach sides they can be crafted into cactus and used as such.
+
+Driftwood can spawn on the beach, it can generate on beaches of all kinds and on the ocean floor.
+
+Bioluminiscent Moss can sometimes generate on side of the beaches! Will glow and provide a little light during the night.
+
+Theres also a rare beach biome variant!
+
+Stone Beach
+
+Stone Beaches have new foliage
+
+Stone beaches have new bushes that generate exclusively here. Also very increased rock generations, so all your pebbles needs are fulfilled.
+
+Ice succulents generate in stone beaches too! Head to your local stone beach to gather some.
+
+Tuff generates on the outer layer too!
+
+Ocean Floor
+
+Disclaimer: I do plan on adding a lot more things to underwater areas with waterlogging!!!
+
+Shells, Pebbles, Driftwood and Bones can spawn on the bottom of the ocean.
+
+River
+
+Disclaimer: Rivers will be updated more thoroughly!
+
+River generation has two new flowers and a water plant.
+
+Water Lillies are more commonly found on the sides of the river. Can be found fairly commonly.
+
+Primroses can be found generated either on land or 1 tile deep water.
+
+L

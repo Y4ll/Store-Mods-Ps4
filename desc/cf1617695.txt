@@ -1,0 +1,19 @@
+Glowing Ores Resource Pack for Minecraft Bedrock
+
+Visible Ores makes every ore glow in dark areas and underground, so you can spot them instantly without missing a single vein. Each ore glows in its own unique color gold, diamond, emerald, redstone, iron and more all clearly visible even in complete darkness.
+
+Features
+
+- All ores glow brightly in dark areas and underground
+
+- Each ore has its own unique glow color for easy identification
+
+- Ores emit actual light that illuminates the surrounding area
+
+- Two variants included Outlined Ores with colored borders and Normal Ores without outlines
+
+Showcase
+
+- Default Ores
+
+- Outlined Ores

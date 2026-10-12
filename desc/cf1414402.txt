@@ -1,0 +1,31 @@
+Villager Plus
+
+is a comprehensive villager management addon that gives you complete control over your villagers through an intuitive user interface.
+
+Features
+
+- Name Editor - Give your villagers custom names
+
+- Profession Manager - Choose from all 14 professions (Farmer, Librarian, Armorer, etc.)
+
+- Cure Function - Transform villagers into zombie villagers
+
+- Trade Reset - Refresh villager trades for new offers
+
+- Infinite Trade Mode - Trade without waiting for restocks
+
+Instructions
+
+Full explanation
+
+Perfect for
+
+- Trading halls and villager setups
+
+- Survival and creative gameplay
+
+- Getting the exact trades you need
+
+- Managing large villager populations
+
+Join my server

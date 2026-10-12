@@ -1,0 +1,23 @@
+Newb x Balance is a Java-inspired shader for Minecraft Bedrock, focused on warm lighting, cinematic skies, and dimension-specific visuals, while keeping smooth performance on low to mid-range devices. Newb x Balance is a Java-inspired shader for Minecraft Bedrock, focused on warm lighting, cinematic skies, and dimension-specific visuals, while keeping smooth performance on low to mid-range devices.
+
+Features
+
+Java-style lighting with warm highlights and cool shadows.
+
+Fully animated 3D auroras with stronger color shaping.
+
+Glowing ores.
+
+Added subpacks (low-high) with different cloud styles and performance levels.
+
+New sky colors gradients for day, night and sunset.
+
+Dimension-specific lighting (Overworld, Nether, End).
+
+Improved water with clean reflections.
+
+Custom torch colors and ambient lighting.
+
+Performance-friendly, suitable for low to mid-range devices.
+
+Screenshots

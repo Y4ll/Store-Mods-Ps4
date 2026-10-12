@@ -1,0 +1,47 @@
+Hi, my name is Ilham Arrizqi, nice to meet you!
+
+Welcome to Newb X Manyzz [Remake] a warm, cinematic fantasy shader for Minecraft Bedrock Edition, built on top of the amazing newb-x-mcbe base and reshaped with my own personal touch on color, light, and atmosphere.
+
+This shader is my take on what Minecraft could feel like if every sky was worth stopping to look at golden horizons, glowing suns and moons, soft rolling clouds, and skies that shimmer with light even at night.
+
+Features
+
+- Warm Cinematic Sky ACES tonemapping with boosted saturation for rich, golden daytime skies and deep, moody nights
+
+- Smooth Rounded Clouds domain-warped cloud noise for soft, dreamy cloud shapes instead of flat vanilla blocks
+
+- Signature Light Streaks dramatic radiant sky streaks around the sun and moon for an otherworldly, almost aurora-like feel
+
+- Glowing Sun & Moon soft bloom and warm color grading make every sunrise and sunset feel cinematic
+
+- Vivid Foliage & Flowers flower fields and greenery pop with extra color richness under the new lighting
+
+- Atmospheric Fog tuned fog color and density for depth and mood across biomes
+
+- Moody Night Skies deep blues and purples with starlight and glowing moon reflections
+
+Preview
+
+(See screenshots for a look at the golden hour glow, night sky auroras, and moonlit forest atmosphere)
+
+Notes
+
+- This is a remake/personal fork of devendrn/newb-x-mcbe, customized with new sky, cloud, and fog behavior
+
+- Still actively in development
+
+- Feedback and suggestions are always welcome!
+
+Credits
+
+- Original base shader: devendrn/newb-x-mcbe
+
+- Customization & remake: Itszmanyzz (Ilham Arrizqi)
+
+- Super soft clouds: Dernal12
+
+- End dimension blackhole: Ethereal
+
+- Aurora boreales 3D, items hand glow, items glow, lava wave: REXYTMC
+
+Thank you for checking out Newb X Manyzz I hope it makes your Minecraft skies feel a little more magical.

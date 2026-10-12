@@ -1,0 +1,116 @@
+Adventure Condiment is an addon that enhances survival gameplay by introducing thirst and temperature systems. While its current focus is on these mechanics, future updates will expand it with additional survival features.
+
+Requires:
+
+- UI Queue
+
+- Forging Table
+
+- Novelty API (Optional)
+
+Thirst and Temperature Bar
+
+Just like in real life, players can now experience varying temperatures and must manage an extra thirst bar.
+
+Indicator list:
+
+Thirst Bar Shows the players remaining hydration.
+
+Soaked Indicator Display soaked body level. Soaked level will affect how speed the player absorbs temperature.
+
+Temperature Resistance Bar Displays the amount of temperature resistance provided by the players armor.
+
+Burnt Heart A health overlay indicating the players burn threshold; exceeding it causes burn damage.
+
+Frozen Heart A health overlay showing the frozen threshold; falling below it results in instant death.
+
+Player Temperature Displays the current body temperature of the player.
+
+Items
+
+Winter and Desert Armor Specialized armor sets designed for extreme climates, offering the same defense level as leather armor.
+
+Winter and Desert Armor Recipes
+
+Diving Helmet An upgraded version of the turtle helmet, equipped with an oxygen tank, allowing players to explore underwater for longer periods.
+
+Thermometer Displays the current areas temperature. Can be equipped in the Charm Slot (requires the Novelty addon).
+
+Heated Stone Keeps the player warm when carried in the inventory. Heated stone can be recharged by smelting it in a furnace.
+
+Fabric A material used to add temperature resistance attributes to armor.
+
+Sewing Tool A tool for applying temperature attributes to armor using the forging table.
+
+Water Flask Contains filtered drinking water for hydration.
+
+Hot and Cool Drink A drinkable item that can change the player's temporary temperature for 8 minutes, and can be purified using milk.
+
+Mechanics
+
+Thirst
+
+Players now have a thirst mechanic influenced by temperature, status effects, and food consumption. When thirst drops below 3 bars, the players screen will display a thirst effect. Thirst can be replenished by punching water to drink directly, or by consuming a water flask or water bottle.
+
+Temperature
+
+Players can now absorb environmental temperatures, which are determined by biome conditions making this system compatible with custom biomes. To avoid burning or freezing, players can add temperature resistance modifiers to their armor. The rate at which temperature is absorbed depends on the players soaked level and the armors temperature insulation.
+
+Apply Temperature Attributes Recipes
+
+Apply Temperature Insulation Recipes
+
+Gravestone
+Player now will had gravestone when they dies. Interact with gravestone to auto pickup inventory, it also can stored Accessories item like Novelty. Only it's own owner that can interact with gravestone.
+
+Knockout & Revive
+When player dies in multiplayer it won't dies instantly, instead it will knocked and can be revived by other player by sneaking in near of knocked player.
+
+Infection
+Player now has a chance to get infected by zombie or any variant of zombie. Whenever player dies that had infection, it will summon a related zombie that was infected player.
+
+Compatibility
+
+Developer can make their compatibility with this addon by using a custom component or scripting module that I already made for use.
+
+Using Custom Component:
+
+"adventure_condiment:thirst" example:
+
+/items/apple_juice.json
+
+{
+"format_version": "1.21.90",
+"minecraft:item": {
+"description": {
+"identifier": "test:apple_juice",
+"menu_category": {
+"category": "nature"
+}
+},
+
+"components": {
+"minecraft:icon": "apple_juice",
+"minecraft:tags": {
+"tags": [
+"minecraft:is_food"
+]
+},
+"minecraft:use_animation": "eat",
+"minecraft:use_modifiers": {
+"use_duration": 1.6,
+"movement_modifier": 0.35
+},
+"minecraft:food": {
+"nutrition": 2,
+"saturation_modifier": 0.3
+},
+"adventure_condiment:thirst": {
+"value": 10,
+"is_dirty": false
+}
+}
+}
+}
+
+"adventure_condimen

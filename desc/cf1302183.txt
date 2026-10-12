@@ -1,0 +1,31 @@
+This is a Simple Hotbar and Buttons Texture Pack that is pretty Apocalypse/Survival themed while keeping mostly everything Vanilla Friendly.
+
+Hotbar Picture:
+
+Inventory Armor UI:
+
+Beacon UI:
+
+Simple Retextures Items: (Iron Axe, Iron Chestplate, Iron Leggings)
+
+Random Ingame Footage:
+
+New Chest Sounds:
+There is a new Chest Open Sound and a new Chest Close Sound.
+
+Disclaimer:
+Before you ask, it is not possible to rework the Opened Inventory as it is hardcoded.
+I modified little aspects that are possible to modify and maybe I will figure out how to change the Color/Transparency of the Open Inventory, but more is not possible at the moment in MCPE
+
+Download Info:
+
+- You can use this Texture pack in Videos and you dont need to Credit me for it.
+
+- You are allowed to use this Texture Pack in your own Maps, but you MUST Credit me!
+
+- You can activate this Pack in your Global Ressources so it is always active.
+
+Support me trough Donations on Patreon:
+- Click to go to Donations Site -
+You can also become a member if you want to:
+- Click to go to Membership Site -

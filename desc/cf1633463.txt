@@ -1,0 +1,83 @@
+Dino Legends Addon
+
+This addon brings a variety of dinosaurs to Minecraft, with custom structures, new items, and other stuff.
+
+This Addon adds:
+
+- 9 Different Dinosaurs
+
+- 22 Items (Which includes armor and weapons)
+
+- 2 proper structures
+
+Mobs:
+
+- Alvarezsaurus
+
+A small mob that spawns in groups
+
+- Ankylosaurus
+
+A passive mob, and it spawns in 2-3 groups
+
+- Spinosaurus
+
+Spawns in beaches and in the ocean
+
+- Tyrannosaurus Rex/Charged
+
+Spawn everywhere and is very hostile towards players
+
+- Tyrannosaurus Zilla
+
+A boss version of T-rex, It spawns by activating the Pillar found in a structure
+
+- Distortus Rex
+
+A strong and giant mob that can be summoned by injecting a T-rex using a special injection
+
+- Brachiosaurus
+
+A passive mob, only attacking if provoked. this mob spawns in the world in groups of 3-5
+
+- Ultimate Brachiosaurus
+
+\
+
+An ultimate form of brachiosaurus, the brachiosaurus can transform into this form if you inject it with a special injection. It has an ability to a cause a tremor, damaging any mobs in 30 radius
+
+Items:
+
+- Brachiosaurus DNA
+
+can be obtained by killing Brachiosurus
+
+- Injection (Brachiosaurus)
+
+can be used for transforming a brachiosarus into an ultimate form
+
+- Cooked/Dino Meat
+
+Can be obtained by killing a dinosaur
+
+- Blue Ember
+
+- God Essence
+
+Can be obtained by killing a Charged T-rex, Though it has low chance of dropping.
+
+- Injection/Filled
+
+- Mutated/Tyrannosaurus Rex DNA
+
+The normal DNA can be obtained by killing T-rex And the Mutated DNA can be obtained by killing T-rex Zilla
+
+- Tooth Knife
+
+- Armor
+
+- Tyrannosaurus Sword
+
+- Tyrannosaurus Zilla's Presence
+
+Can be used to summon Tyrannosaurus Zilla, Interact it with the pillar on the new structure.

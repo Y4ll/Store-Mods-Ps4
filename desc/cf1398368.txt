@@ -1,0 +1,43 @@
+Adds smooth, animated water splash effects that appear naturally around the player, enhancing the visual quality of every water interaction.
+
+Features
+
+Animated Splash Bursts
+
+- Every water entry, dive and swim triggers a hand-animated 10-frame splash, stretched to the length of each particle so no two bursts look identical
+
+- Splashes fade out smoothly instead of popping a colour gradient carries each particle from full white to transparent
+
+Subpacks
+
+Three size options pick one in the pack settings slider:
+
+Big Splashes Large, detailed splashes for maximum visual impact.
+
+Medium Splashes Balanced splash size, great for most devices.
+
+Small Splashes Lightweight and subtle, ideal for lower-end devices.
+
+Each option tunes particle count, splash size, speed and lifetime together, so the effect stays balanced at every setting.
+
+Compatibility
+
+- Resource Pack Only no Behavior Pack, no commands needed
+
+- Works in Singleplayer, Multiplayer & Realms
+
+- Compatible with Vibrant Visuals
+
+- Performance friendly pick the Small subpack on lower-end devices
+
+Installation
+
+- Download the .mcpack file
+
+- Open it Minecraft will import the pack automatically
+
+- In your world settings, go to Resource Packs My Packs and activate Water Splash Animation
+
+- Use the subpack slider to choose Small, Medium or Big Splashes
+
+Made by HoneyStudios feedback and bug reports are welcome in the comments.

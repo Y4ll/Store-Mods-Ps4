@@ -1,0 +1,3 @@
+Replaces the texture and model of the happy gust with a 3d helicopter model. It doesn't have custom sounds and animations yet, but you can stand and sit on it with 3 other players at the same time, and it will look good, without bugs. There are problems with the hitboxes, they protrude a little beyond the 3d model of the helicopter, but unfortunately it is impossible to fix this. Enjoy it!
+
+Screenshots:

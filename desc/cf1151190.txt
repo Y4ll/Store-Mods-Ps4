@@ -1,0 +1,79 @@
+Step into a world reclaimed by nature and overrun by the undead. In Project Walker, survival hinges on your ability to scavenge for resources, fend off relentless zombies, and navigate abandoned structures teeming with danger. Crafted meticulously by Gabriel Aplok, this addon transforms Minecraft Bedrock into a gripping post-apocalyptic experience.
+
+This add-on DOES NOT require experimental options. Please DO NOT mix it with other addons that modify "player.json" to prevent conflicts.
+
+Key Features
+
+- Immersive Survival Mechanics: Manage thirst, infection, bleeding, and broken limbs. Each ailment affects gameplay, requiring specific remedies like bandages, splints, or cure syringes.
+
+- Diverse Arsenal: Equip yourself with a variety of firearms and melee weapons. Remember, gunfire attracts attentionuse wisely.
+
+- Dynamic Zombie Variants: Encounter zombies with varying behaviorssome crawl, others sprint. Adapt your strategies accordingly.
+
+- Functional Vehicles: Find or craft vehicles to traverse the treacherous terrain. Use a Car Key in the saddle slot to operate.
+
+- Protective Gear: Don armor to shield against attacks. Equip Night Vision Goggles for enhanced visibility in the dark.
+
+- Custom Structures & Blocks: Explore new buildings and utilize unique blocks for crafting and decoration.
+
+- Hostile NPCs: Beware of bandits and other survivorsthey're not always friendly.
+
+- Visual & Audio Enhancements: Enjoy stylized visuals, smooth animations, and immersive sound effects, including reverb and distant audio cues.
+
+- Optimized Performance: Designed to run smoothly even on low-end devices.
+
+Survival Systems
+
+- Thirst: Monitor your hydration levels. Drink fluids or consume hydrating foods to prevent dehydration.
+
+- Infection: Zombie attacks can infect you. Cure with a Cure Syringe or First Aid Kit.
+
+- Bleeding: Sustained from projectile damage. Stop bleeding using Rags, Bandages, or a First Aid Kit.
+
+- Broken Leg: Resulting from high falls. Treat with Morphine Syringes, Splints, or a First Aid Kit.
+
+Development Team
+
+- Gabriel Aplok: Lead Developer
+
+- HSK: Former Developer (HSK Guns Addon)
+
+- NekoZack: Help (DeadZone Addon)
+
+- INISIANTENOOB: 3D Artist
+
+- Bedrock Community: Documentation and Support
+
+Important Notes
+
+- Experimental Gameplay: You don't need experimental settings.
+
+- Compatibility: Avoid using other addons that modify "player.json" to prevent conflicts.
+
+- Known Issues: Scope, NVG, and crosshair may malfunction when riding entities like vehicles.
+
+- Content Sharing: If showcasing this addon, use the official links provided. Do not redistribute or claim as your own.
+
+Installation
+
+Installing the addon is easy! First download the latest version that can run on your version of Minecraft. Extract the downloaded zip files, and you should have a file called "Project-Walker-BP.mcpack" and "Project-Walker-RP.mcpack". The next step depends on your device.
+
+- On Windows just open the file with Minecraft.
+
+- Android users need to use a third-party file explorer such as File Manager to open the file.
+
+- iOS users should use Documents to open the file.
+
+License
+
+This addon is licensed under the CC BY-NC-ND 4.0 license. Heres what you need to know:
+
+- You CAN share the addon as long as you give proper credit.
+
+- You CAN use it for personal, non-commercial purposes.
+
+- You CAN'T modify the addon or use it commercially.
+
+Videos of the addon are also allowed, but you must link to either this page or the one in MCPEDL for downloading. And remember. Plagiarism is still plagiarism.
+
+Embark on a challenging journey in a world where every decision matters. Project Walker offers a fresh and intense survival experience for Minecraft Bedrock players seeking adventure beyond the ordinary.

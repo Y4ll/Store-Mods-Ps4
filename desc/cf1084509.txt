@@ -1,0 +1,19 @@
+- Shows the damage dealt enemy and also heal amount
+
+- Monitors HP precisely
+
+- Vanishes when invisible
+
+- Maximum render distance of 20 blocks
+
+- 3 options are available: Health Bar, Heart Icon and Combination of the two
+
+- Resource pack only (Achievement-friendly)
+
+- Download options to choose from:
+
+NOTE :
+
+- There are 3 options available:
+
+To install the font, it must be put on top of the damage indicator

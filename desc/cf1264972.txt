@@ -1,0 +1,11 @@
+Image
+
+- Replaced the old green XP bar into someone's thing more colorful
+
+- it's also have an animation
+
+- The color will moving from left to right
+
+- The empty XP Bar also have a color and an animation just like the full XP bar
+
+- you need to try it in-game to see the animation

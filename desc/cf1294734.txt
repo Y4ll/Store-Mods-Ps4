@@ -1,0 +1,5 @@
+NightVision
+
+gives all players infinite Night Vision
+
+supports bedrock and pocket edition

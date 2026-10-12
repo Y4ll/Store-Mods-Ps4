@@ -1,0 +1,19 @@
+Generic Health Regeneration Mechanic is a Bedrock addon inspired by Monster Hunter that overhauls the default health system. When a player takes damage, they receive a health buffer that gradually regenerates up to 70% of the lost health. Eating food also adds to the regeneration buffer based on the food's nutrition and saturation.
+
+Required Dependencies:
+
+- UI Queue
+
+- Kamii's Script Configuration
+
+Features:
+
+Hurt Regeneration: Player gains a certain amount of regeneration buffer
+
+Food Regeneration: Player gains a certain amount of regeneration buffer based on nutrition and saturation of the food
+
+Configuration: (using Kamii's Script Configuration)
+
+Installation:
+
+This addon requires the UI Queue addon to add the visuals to the GUI, or you can use one of my addons that has built-in UI Queue, like A Magic Way or Roll and Stamina. Also, it's needed Kamii's Script Configuration to access the configuration menu.

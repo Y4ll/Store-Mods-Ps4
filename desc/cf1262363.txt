@@ -1,0 +1,67 @@
+After a long time, its back now compatible with version 26.45. Here is a new update for this shader, now based on the Minecraft trailers. From now on, I will update this variant following the chronological order of the Minecraft trailers; that is, I will first recreate the visuals from the 1.15 update trailer, then those from the Nether update (1.16), and so on...
+
+Newb X Trailer Definitive
+
+- Day
+
+- Shadows
+
+- Sunset
+
+- Sunrise
+
+- Night Light
+
+- Night
+
+Featured
+
+- I recommend using this shader together with the bare bones.
+
+- Based on the recently released Minecraft trailers.
+
+- Colorful and vibrant environments.
+
+- Balanced mist.
+
+- Beautiful skies.
+
+- Realistic lighting.
+
+- Clear waters.
+
+- Starry end.
+
+- Optimized clouds.
+
+- Dark shadows.
+
+- Optimized, any device can run it.
+
+- Lite Version.
+
+Notes
+
+- This shader includes a "Lite" version for low-end devices; it replaces the clouds with lighter ones that still look good, removes sky reflections from the water, and eliminates plant movement.
+
+- I recommend using this shader alongside Bare Bones. Place Bare Bones above the shader to avoid errors.
+
+- Need Minecraft v26.40+ and MBLoader.
+
+- Need Minecraft Hynis in iOS.
+
+- You need Wyvern for Windows, in case it does not work, use the method of replacing material.bin files with Maject.
+
+- I recommend that you the old version of this shader if you have it installed to avoid errors.
+
+- This shader is only compatible with Android,Windows and iOS
+
+- Use this mcpedl link if you want to share this shader.
+
+- Please do not create another link for this shader.
+
+- This shader may not be supported on some devices, if so tell me about the error on my Discord.
+
+- Credits: Ale
+
+If you want to have better quality content, I invite you to donate your grain of sand.

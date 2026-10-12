@@ -1,0 +1,35 @@
+SmartStack is a Minecraft addon designed to keep you in action without interruptions, automatically refilling your most-used items in these scenarios:
+
+- Block Placement: If you place the last block in your slot and have more of the same type in your inventory, SmartStack instantly refills your hand.
+
+- Food Consumption: When you eat your last food item, SmartStack refills it with more of the same type if available, so you never go hungry.
+
+- Mining: When a tool breaks, SmartStack automatically equips a new one of the same type if you have it, so you can keep mining.
+
+- Totem of Undying: When you use a totem of undying, SmartStack refills your off hand slot if you have more totems in your inventory.
+
+- Throwable Items: Whether you're throwing snowballs, eggs, or ender pearls, SmartStack refills your slot so you can keep going.
+
+- Potion Drinking: After drinking a potion, SmartStack refills the slot if you have extras.
+
+- Fishing Rods: When your fishing rod breaks, SmartStack automatically equips another one, so you're always ready to keep fishing.
+
+- Swords: When your sword breaks, if you have another sword of the same type in your inventory, it will automatically equip in your hand.
+
+- Item drops: If you drop items from your main hand and you have more in your inventory, they will be placed automatically. (This can sometimes fail)
+
+- Crossbow: If your crossbow has 1 point of durability and you have another crossbow with more durability, it will be swapped before it breaks.
+
+- Composter: If you are using items in the composter and have more items that can be compostable, it will automatically refill your hand.
+
+This addon does not require any experimental toggle for its use.
+
+Video Showcase:
+
+Credits:
+
+- Credit to Minato for the code of detecting who dropped an item.
+
+Experiments:
+
+No experiments are needed for this addon

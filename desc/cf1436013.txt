@@ -1,0 +1,142 @@
+Hello! Welcome to another pack submission of mine. This pack, named "Assorted Allays", was originally made by GillsBills for Java Edition and was ported by me to Bedrock Edition. Assorted Allays is the perfect pack for your allays, bringing many custom variants that will bring joy to anyone!
+
+These mob variants all can be renamed to their appropriate skin and can spawn naturally. The pack is formatted in a way that allows for the easy creation of add-ons! Nametag Version is also available
+
+Naming Guide!
+
+Oi!
+
+This text sheet is for anyone looking to rename a mob into a specific skin variant!
+
+The first name will be the orginal texture of the mob followed by the names of the variants!
+
+If any of the names has a "|" in it, the variant can be named in more then one way.
+
+Allay
+
+(Allay|Blue Allay)
+
+(Yellow Allay)
+
+(Red Allay|Nether Allay)
+
+(Orange Allay)
+
+(Green Allay)
+
+(Purple Allay)
+
+(White Allay)
+
+(Muddy Allay)
+
+(Amethyst Allay)
+
+(Sculk Allay)
+
+(Lush Allay)
+
+(Dripstone Allay)
+
+(Vex Allay)
+
+(Soul Wizard)
+
+(Guardian Vex)
+
+(Yearnshroom|Mushroom)
+
+(Brown Yearnshroom|Brown Mushroom)
+
+(Crimson Yearnshroom|Crimson Fungus|Crimson Yearngus)
+
+(Warped Yearnshroom|Warped Fungus|Warped Yearngus)
+
+(Pink Pikmin|Wing Pikmin)
+
+(Queen Sectonia)
+
+(Ribbon)
+
+(Elfilin)
+
+(V1)
+
+(Grogu|Baby Yoda|The Child)
+
+(Toad Golem|ShinyDragon)
+
+(Toxin Allay|creepermax)
+
+(Gills|GillsBills)
+
+Flowers and Powers Update
+
+(Red Tulip Allay)
+
+(Orange Tulip Allay)
+
+(Pink Tulip Allay)
+
+(White Tulip Allay)
+
+(Poppy Allay)
+
+(Dandelion Allay)
+
+(Blue Orchid Allay)
+
+(Cornflower Allay)
+
+(Allium Allay)
+
+(Lily of the Valley Allay)
+
+(Oxeye Daisy Allay)
+
+(Azure Bluet Allay)
+
+(Sunflower Allay)
+
+(Wither Rose Allay)
+
+(Torchflower Allay)
+
+(Cactus Allay)
+
+(Bamboo Allay)
+
+(Chorus Flower Allay)
+
+(Dummy Allay)
+
+(Scarecrow Allay)
+
+(Pitcher Plant Allay)
+
+(Rose Bush Allay|Rose Allay)
+
+(Lilac Allay)
+
+(Peony Allay)
+
+(Wheat Allay)
+
+(Carrot Allay)
+
+(Potato Allay)
+
+(Cocoa Beans Allay)
+
+(Beetroot Allay)
+
+(Magolor)
+
+(Ewan|ewanhowell)
+
+(MickeyJoeAlpha|MJA)
+
+For the original Java Version:
+Assorted Allays | GillsBills' Profile
+
+Owner's Permission:

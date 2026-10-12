@@ -1,0 +1,15 @@
+SCP: Dystopia
+
+The popular 20212022 SCP add-on has been updated for the latest version of Minecraft. All features previously broken by game updates have been restored. Thank you for your patience!
+
+Since this add-on is old, many parts of it definitely show their age. However, Ive decided not to change the original design. I believe this project should stay true to its roots, so it will remain 'as-is' to keep that classic feel.
+
+Enjoy!
+
+See installation instructions
+
+See known issues
+
+See third-party attributions
+
+Licensed under CC BY-SA 4.0

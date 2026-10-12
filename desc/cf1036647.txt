@@ -1,0 +1,29 @@
+You can use different items that gives off light to light your surroundings by just holding it in your hands. The dynamic light has a fix light level of 8.
+
+You can now explore dark caves easier if you don't have enough torches to place.
+
+As you can see in this picture I'm holding a torch and it's giving off light.
+
+- Lighting Items gives off light when it is on the ground.
+
+Items:
+
+Miner's Helmet
+
+An armor that gives off light when worn.
+
+Durability: 100
+
+Armor points: 4
+
+Can be repaired using: Iron Ingot
+
+Recipe:
+
+Off-hand Torch
+
+A type of torch that you can equip to your off-hand slot. This torch also acts like a normal torch and can be place.
+
+Recipe:
+
+Enjoy!

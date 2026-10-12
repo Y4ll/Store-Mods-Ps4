@@ -1,0 +1,100 @@
+Check this video
+
+(For more clear info)
+
+https://youtu.be/sARPTCeZcFs
+
+||| Free To Use Just Give Me Credit |||
+
+New Features:
+
+>New Temperature Icon With Animation & Sound <
+
+|Temperature High|
+
+Temperature Low
+
+Added health recovery after sleeping for better survival gameplay.
+
+Added Stamina System running too much causes Weakness & Nausea effects.
+Stamina gets stronger with continued running and applies Slowness
+
+inventory Cooling and heating
+
+Added Inventory Cooler & Warmer, careful! Using too much can make it too high/low
+
+New drink
+
+Added sweet drink to reduce body temperature and pumpkin drink to increase body temperature.
+
+Both drink help to maintain thirst and saturation.
+
+Temperature effect
+
+Added temperature effect when it's increase or decrease
+
+Direct drinking system
+
+- Crouch
+
+- Don't hold anything
+
+- Click on underwater blocks with empty hand
+
+- Now you can directly drink with some negetive effects
+
+Improved Temperature System:
+
+- Portable Heater: Helps raise your temperature when in cold environments.
+
+- Cooling Device: Lowers your temperature when exposed to extreme heat.
+
+Purified Water Storage:
+
+Features:
+
+A. Canteen
+
+It's just like a small bag to carry water.
+
+How to use:
+
+- Step 1 - Craft canteen with leather
+
+- Step 2 - Stand in water, then tab on mobile screen.
+
+- Step 3 - Place the unpurified canteen on the campfire
+
+- Step 4 - Then water will be drinkable.
+
+- Step 5 - When your canteen almost breaks, you can recraft it into an empty canteen.
+
+FAQ
+
+HOW TO Setup?
+
+Add resource & behavior pack, activate all experimental features, then play.
+
+HOW TO Drink?
+
+You have 2 different bottles: unpurified & purified.
+
+1. Unpurified -
+
+You get it like a vanilla water bottle, just hold the glass bottle & click on water.
+
+- Gives you poison when you drink it.
+
+- Craft it with any potion.
+
+- Use it to craft an awkward potion like a water bottle.
+
+2. Purified -
+
+- Cook an unpurified bottle on a furnace or campfire, it'll be turned into purified.
+
+- No harm when you drink it.
+
+What happens if don't drink?
+
+You will get the weakness effect and then be killed.

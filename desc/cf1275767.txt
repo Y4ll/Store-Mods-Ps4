@@ -1,0 +1,47 @@
+Gradient Ores is a Minecraft texture pack designed to increase ore visibility through animations. All minecraft ores (including ancient debris) will be highlighted by a rotating gradient! Easily find ores when caving, mining, or nether blasting! The animated borders will spin and highlight the ore for an easy spotting. Good luck, and happy mining!
+
+Find diamonds and netherite easily with the Gradient Ores Pack. All ores will have an animated outline and will be visible even if partially hidden by lava! Also, Ancient Debris will stand out against netherrack and be much easier to find. When you are blasting for Netherite or searching the caves for diamonds, they will be easily spotted behind lava and fire, or in a small corner. The animated borders will spin and highlight the ore for an easy spotting. Good luck, and happy mining!
+
+In this pack, there are many different options for what color the outline is:
+
+- Rainbow (RGB)
+
+- BW (Black & White)
+
+- Cotton Candy
+
+- Dragons Breath
+
+- Ender
+
+- Grassland
+
+- Lofi
+
+- Magenta
+
+- Midnight
+
+- Neon Nights
+
+- Oxidation
+
+- Pink
+
+- Polar
+
+- Purple
+
+- Sci-Fi
+
+- Siren
+
+- Skulk
+
+- Sky
+
+- Spring
+
+- Sunset
+
+- Swamp

@@ -1,0 +1,22 @@
+Fantasy Ores is an addon for Minecraft Bedrock that incorporates real-life minerals into the game, featuring impressive 3D armor designs, each unique and different from the others.
+
+Minerals will be generated starting from layer -20, except for aquamarine, which will be generated in the oceans.
+
+- The diamond drill will be used to collect all the minerals from the addon.
+
+- The crafting of the armors will be the same as in vanilla, but replacing the materials with those from the addon.
+
+- Shields will be crafted as follows, and in the addon, there are spinel and opal shields.
+
+- Both the trident and the spear will have the same crafting recipes with their respective minerals.
+
+IMPORTANT
+
+The add-on does NOT need experimental options, feel free not to activate them!
+Means that it also works in preview versions.
+
+Video coming soon...
+
+ADVERTISEMENT
+
+- Discord support: https://discord.gg/q776PHPj5Y

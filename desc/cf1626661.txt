@@ -1,0 +1,5 @@
+GLOWDRAGON Nightfall is a texture pack that changes the game's theme to darker colors, It modifies interfaces, inventory, menus, loading screens, panels, and containers.
+
+We update this project whenever the game makes changes to its code, including updates or purely aesthetic holiday seasons. Therefore, the texture pack is active on each platform. Each update includes multiple improvements. This project will continue to be updated to bring new features.
+
+Project created by xBLACKSTUDIOs.

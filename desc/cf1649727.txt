@@ -1,0 +1,281 @@
+Adventure Backpacks
+
+An unofficial Bedrock port of the original Adventure Backpacks mod by Darkona.
+
+Adventure Backpacks adds 89 wearable and placeable backpacks to Minecraft Bedrock. Every backpack includes 39 storage slots, a 33 crafting grid, two tool slots, two fluid tanks, and a sleeping bag, while many designs also provide unique abilities based on Minecraft mobs, blocks, and materials.
+
+Requires the Beta APIs experiment.
+
+Two Versions
+
+Both versions include the same backpacks, storage, and abilities. The only difference is how they're worn.
+
+-
+
+Compatible Worn in the chest slot as an attachable. This version doesn't modify the player entity, making it compatible with most other add-ons. The trade-off is that it replaces your chestplate.
+
+-
+
+Slot-Free Can be worn in hotbar slot 9, the top-right inventory slot, or the offhand, allowing you to keep your armor equipped. Because this version overrides the player entity, it must be placed above every other add-on in both pack orders.
+
+Every Backpack Includes
+
+-
+
+39 storage slots that stay with the backpack
+
+-
+
+A built-in 33 crafting grid
+
+-
+
+Two dedicated tool slots
+
+-
+
+Two 4,000 mB fluid tanks
+
+-
+
+A portable sleeping bag
+
+-
+
+Wearable and placeable functionality
+
+Backpacks store their contents internally, so items remain inside when they're dropped, placed, transferred, or recovered after death.
+
+Backpack Abilities
+
+45 backpacks provide additional abilities.
+
+Armor Backpacks
+
+-
+
+Netherite 4 armor points.
+
+-
+
+Diamond 3 armor points.
+
+-
+
+Gold 2 armor points.
+
+-
+
+Iron 2 armor points.
+
+Immunities
+
+-
+
+Blaze No fall damage and immunity to small fireballs.
+
+-
+
+Iron Golem No fall damage.
+
+-
+
+Mario No fall damage.
+
+-
+
+Slime No fall damage.
+
+-
+
+Magma Cube Fire resistance and immunity to fire, lava, magma blocks, campfires, hot floors, and fireballs.
+
+-
+
+Wither Immunity to the Wither effect.
+
+-
+
+Cow Continuously removes negative effects.
+
+-
+
+Creeper Survive one otherwise fatal hit every three minutes.
+
+Passive Effects
+
+-
+
+Bat Night vision.
+
+-
+
+Squid Night vision and water breathing while underwater.
+
+-
+
+Dragon Night vision, water breathing, regeneration, strength, and fire resistance.
+
+-
+
+Pigman Fire resistance.
+
+-
+
+Quartz Haste.
+
+-
+
+Toad Speed II and haste.
+
+-
+
+Fox Speed and jump boost.
+
+-
+
+Mario Jump Boost II.
+
+-
+
+Luigi Jump boost, slow falling, and night vision.
+
+-
+
+Yoshi Jump boost.
+
+-
+
+Allay Slow falling.
+
+-
+
+Warden Health boost.
+
+-
+
+Sunflower Saturation while standing under an open sky during the day.
+
+-
+
+Slime Speed II at night in the Overworld.
+
+-
+
+Ocelot Speed while hostile mobs are nearby.
+
+-
+
+Rainbow Plays music while periodically providing speed and jump boosts.
+
+Combat Effects
+
+-
+
+Warden Applies Slowness II when attacking.
+
+-
+
+Wither Applies Wither II when attacking.
+
+-
+
+Bee Applies Poison when attacking.
+
+-
+
+Mario Deals bonus damage when landing on enemies from above.
+
+-
+
+Yoshi Can swallow weakened enemies after a sneak attack.
+
+Mob Interactions
+
+-
+
+Ocelot Repels creepers.
+
+-
+
+Wolf Calms tamed wolves.
+
+-
+
+Pumpkin Prevents endermen from becoming aggressive.
+
+-
+
+Ghast Defuses ghast fireballs until you attack a ghast.
+
+-
+
+Spider Replaces hostile spiders with friendly ones.
+
+Resource Production
+
+-
+
+Chicken Produces eggs every few minutes.
+
+-
+
+Cow Converts wheat stored inside the backpack into milk.
+
+-
+
+Mooshroom Converts wheat stored inside the backpack into mushroom stew.
+
+-
+
+Cake Automatically restores hunger.
+
+-
+
+Cactus Collects rainwater.
+
+-
+
+Melon Collects rain and produces melon juice.
+
+-
+
+Sponge Absorbs nearby water into its tanks.
+
+-
+
+Emerald Occasionally duplicates mined drops.
+
+-
+
+Hay Bale Increases crop harvests.
+
+-
+
+Lapis Has a chance to double collected experience.
+
+-
+
+Allay Collects nearby matching items.
+
+-
+
+Enderman Pulls dropped items toward the player.
+
+-
+
+Skeleton Automatically provides arrows when your supply runs out.
+
+Utility
+
+-
+
+Spider Allows players to climb walls.
+
+-
+
+Redstone Powers nearby redstone components while placed.
+
+-
+
+Glowstone Emits light wh

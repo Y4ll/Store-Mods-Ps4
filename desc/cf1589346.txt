@@ -1,0 +1,25 @@
+An attempt to replicate Minecraft's vanilla Creative Mode flight as closely as possible.
+
+This implementation may still require further improvements. it provides a flying experience with features such as double-jump flight activation, smooth hovering, momentum-based movement, and independent horizontal and vertical controls.
+
+No Cheats
+
+No Education Edition.
+
+Commands
+
+/fly true - enables your flight ability.
+
+/fly false - disable your flight ability.
+
+/flyaccess <Enable> - admin-only command to enable or disable public /fly access.
+
+/flyplayer <Target> <Enable> - admin-only command to toggle fly for other players.
+
+See the changelog for more details...
+
+Please note that this add-on may or may not work alongside other packs or add-ons. If you encounter any issues, consider placing this add-on at the top of your pack list.
+
+If you really want to, try merger. It's a small tool to merge add-ons that conflict with each other. Sometimes, it works.
+
+This flight system is script-based and may experience stuttering or delayed movement when playing on multiplayer with low-performance servers.

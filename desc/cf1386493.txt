@@ -1,0 +1,25 @@
+About This Pack
+
+Hysteria Vibrate Shader is a dark, atmospheric, horror-themed shader created for Vibrant Visual. This pack transforms your Minecraft world into a tense and cinematic environment filled with deep shadows, eerie tones, and a heavy horror ambience. Its goal is not just to enhance visuals, but to completely shift the mood of your gameplayturning familiar landscapes into unsettling, unpredictable scenes.
+
+Images
+
+The shader is still in development, but the current version already delivers strong horror vibes with dramatic lighting, stylized darkness, and a unique visual style. Volumetric Clouds and several visual upgrades are planned for future updates to enhance the experience even further.
+
+If you enjoy darker worlds, suspenseful ambience, and an intense, immersive atmosphere, this shader is made for
+
+you.
+
+---
+
+If you want, I can also write:
+
+Short tagline
+
+Feature list
+
+Update notes
+
+Installation instructions
+
+CurseForge/MCPEDL formatted

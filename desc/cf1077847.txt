@@ -1,0 +1,13 @@
+Do you have trouble replanting your crops? Want to easily replant? Try this add-on! This add-on can be easily re-planted!
+
+If you destroy a crop, it will automatically replant it.
+
+When you destroy a crop with a hoe, the surrounding (3x3) crops are automatically replanted.
+
+This will make it easier to replant crops.
+
+If you have any questions, please join the discord server.
+
+Discord
+
+Dont forget to turn them on at the end

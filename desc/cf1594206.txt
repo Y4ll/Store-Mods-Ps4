@@ -1,0 +1,105 @@
+Embeddium Optimizer is an advanced performance optimization pack engineered specifically for Minecraft Bedrock and the Render Dragon engine. Built from the ground up as a next-generation rendering optimization system, it dramatically improves FPS, reduces lag, eliminates stutters, and sharpens frame consistency across every device tier from budget phones to high-end PCs.
+
+Rather than relying on simple texture swaps, Embeddium Optimizer applies a layered stack of optimization techniques working in concert:
+
+- Render Culling eliminates unnecessary draw calls before they ever reach the GPU
+
+- Texture Simplification strips redundant texture complexity without breaking the vanilla aesthetic
+
+- Particle Suppression removes GPU-expensive particle emitters
+
+- Animation Throttling caps and compresses animated texture frame cycles
+
+- Transparency Reduction minimizes costly alpha-blending operations
+
+- Biome Fog Optimization recalculates fog rendering for every biome to reduce overdraw
+
+- GPU Workload Balancing redistributes rendering load to prevent bottlenecking and frame pacing issues
+
+Together, these systems reduce the raw computational overhead Render Dragon spends on every frame translating directly into smoother, faster, more stable gameplay.
+
+Performance Claims
+
+Real-world optimization gains, scaled to your hardware:
+
+Low-End Devices: 30 FPS 90120 FPS
+Mid-Range Devices: 45 FPS 120160 FPS
+High-End Devices: 80 FPS 180240+ FPS
+
+Additional improvements include:
+
+- Drastically reduced microstutters
+
+- Faster perceived chunk loading
+
+- Fewer frame drops during exploration
+
+- Noticeably smoother camera movement
+
+Two Optimization Modes
+
+Balanced Mode
+
+For players who want both performance and polish.
+
+- Preserves visual quality while optimizing rendering pipelines
+
+- Moderate, intelligent optimization that doesn't compromise the Minecraft look
+
+- Ideal for everyday survival, building, and exploration
+
+Expected FPS Gain: +70% to +150%
+
+Extreme / Max Mode
+
+For players who want every last frame.
+
+- Maximum-performance configuration for low-end and struggling devices
+
+- Aggressively strips heavy rendering workloads
+
+- Built for competitive PvP and "potato" hardware
+
+Expected FPS Gain: +150% to +300%
+You Can Change It From Slidebar
+
+Why Both Modes Increase FPS
+
+Balanced Mode targets the most computationally expensive render operations fog calculation, particle density, and animation refresh rates and optimizes them intelligently while preserving Bedrock's visual identity.
+
+Extreme Mode goes further, aggressively eliminating entire categories of GPU-heavy rendering:
+
+- Alpha blending operations
+
+- Excessive particle emitters
+
+- Expensive volumetric biome fog
+
+- High-frequency animated textures
+
+- Unnecessary translucent rendering passes
+
+By removing these workloads at the source, Extreme Mode drastically lowers GPU usage and render latency freeing up headroom for raw frame throughput.
+
+8 Core Features
+
+1. Advanced Fog Reduction Engine
+Recalculates fog density and draw distance per biome, cutting GPU overdraw caused by volumetric fog rendering at long distances.
+
+2. Particle Suppression System
+Selectively disables high-cost particle emitters (smoke, explosions, splash effects) that silently devour frame time during combat and exploration.
+
+3. Smart Foliage Optimization
+Reduces the rendering complexity of grass, leaves, and vegetation without stripping the environment of its character.
+
+4. Animated Texture Frame Compression
+Compresses animation cycles for water, lava, fire, and portals cutting the GPU cost of constant frame-by-frame texture updates.
+
+5. Transparency Rendering Reduction
+Minimizes alpha-blended surfaces (glass, water, ice) which are among the most expensive elements for Render Dragon to process.
+
+6. Optimized Weather Rendering
+Streamlines rain and snow particle systems so weather no longer tanks your frame rate during storms.
+
+7. Improved Frame Stability
+Smooths frame pacing and reduces stutter spikes during chunk loading, combat,

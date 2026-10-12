@@ -1,0 +1,61 @@
+Infinite Health BP [Achievements Friendly]
+
+Description
+
+Stay alive no matter what with Infinite Health BP [Achievements Friendly]!
+
+This lightweight Minecraft Bedrock add-on continuously grants powerful Regeneration and Resistance effects, allowing players to survive almost any situation while keeping gameplay simple and enjoyable.
+
+Designed to work seamlessly in survival worlds, this add-on provides near-infinite survivability without requiring complex setups. Perfect for exploration, building projects, testing worlds, and casual gameplay.
+
+Features
+
+- Continuous high-level Regeneration effect
+
+- Continuous high-level Resistance effect
+
+- Simple and lightweight behavior pack
+
+- Automatic operation using tick functions
+
+- Great for survival, creative-style survival, and testing worlds
+
+- Achievements Friendly version
+
+Note
+
+- The game may not accurately display the total amount of health available due to the way Minecraft handles health-related effects.
+
+- While extremely difficult to defeat, certain situations or game mechanics may still affect players differently.
+
+Creator
+
+Neq Gamerz
+
+Redistribution Policy
+
+Allowed
+
+- Use this add-on in your personal worlds.
+
+- Showcase this add-on in videos or streams.
+
+- Share links directing users to the original download page.
+
+Not Allowed
+
+- Re-upload this add-on to any website without permission.
+
+- Claim this add-on as your own work.
+
+- Modify and redistribute this add-on without proper authorization.
+
+- Directly redistribute the package file on other platforms.
+
+Please respect the creator's work and support original releases.
+
+Thank You
+
+Thank you for downloading and supporting Infinite Health BP [Achievements Friendly] by Neq Gamerz!
+
+Enjoy surviving without limits in your Minecraft adventures.

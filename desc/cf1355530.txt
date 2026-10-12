@@ -1,0 +1,55 @@
+What solves things better than a nuke!
+
+Overview:
+
+Bombs of Glory adds new bombs to the game, the biggest one being the Atom bomb, the mod adds a new ore called uranium, it's used to craft some of the items and bombs in the addon.
+
+If you want to unlock all the recipes, most of them use iron so that will let you see, a good chunk of the items/blocks.
+
+Features:
+
+The fallowing is the current features:
+
+- Atomic Bombs
+
+- Missiles (including nuclear ones)
+
+- Landmines
+
+- An upgraded version of tnt
+
+- Gas mask
+
+- Uranium ore and mob
+
+- Plane that can drop bombs
+
+- Steel ore
+
+- Himars (missile launcher trucks)
+
+- Mortars (Like a cannon)
+
+Those are the major features, there might be some smaller features I forgot.
+
+Warning:
+
+This addon may crash your game, you've been warned.
+
+NOTE:
+
+You can look at the code behind this addon, I don't care, and I think it would be cool if people ended up making their own addons that connect back to this addon, so if you want to use this addon for your tech addons, just make sure to credit me please.
+
+Also! The atomic bomb is not an easy to craft item, you will need to get netherite to make it.
+
+DISCORD
+
+There is a discord server! If you have any bugs or just questions feel free to join and ask
+
+Link to discord: https://discord.gg/AJVPMaznMV
+
+Github:
+
+You can view all the source code easily on my github page, for free! (You can take and use any amount of it i don't mind)
+
+https://github.com/Clocktoon/Atomic-Craft

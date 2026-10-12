@@ -1,0 +1,7 @@
+This Addon adds a few Vampire enemies to Bedrock Edition, and lets you become one.
+
+You'll be able to find Vampires throughout your world of varying power. Using a Vampire Fang (dropped by Vampires) or getting hit by one will give you Sanguine Sickness, which lasts about half a Minecraft day. Once the sickness is over, you'll turn into a Vampire! You're able to become more powerful as a Vampire by exploring your world and infusing items with blood. As a bonus, if you're powerful enough, you can turn into a bat!
+
+You're also able to infuse Gold and Silver (a new ore added by the Addon) with blood, which makes new gear that has unique effects. You can infuse a select few other items as well, such as a golden apple to create a forbidden fruit.
+
+When you make a world with this Addon, you'll get a guidebook which goes into more detail and contains settings for the Addon.

@@ -1,0 +1,15 @@
+images
+
+- Moved the coordinate text to top of the XP Bar in left section, and removed the "position:" text to make it clean
+
+- Moved the day played to top of the XP bar in right section, and removed the number of ... Played" to make it clean
+
+- And this how it looks in survival mode
+
+Credits
+
+- Pepe - days played bindings template
+
+- Dimzcraft - player position text bindings template
+
+also try Bedrock UI+. It's have many features in a single pack!

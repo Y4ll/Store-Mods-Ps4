@@ -1,0 +1,68 @@
+Ultimate Treecapitator
+
+An achievement-friendly, lag-free treecapitator addon that chops down whole trees instantly, auto-collects drops, and features an advanced build-protection system. No experimental toggles required!
+
+100% Achievement Friendly & No Beta APIs!
+
+Unlike most scripting addons, this pack is designed to be completely Achievement Friendly. You can keep earning your Xbox achievements in your survival worlds while enjoying the lumberjack life!
+
+Even better: NO Experimental Toggles or Beta APIs are required! Just apply the behavior pack to your world, and it works instantly right out of the box.
+
+Stop Destroying Your Wooden Builds!
+
+Most treecapitator addons have a massive flaw: if you accidentally use your axe on your wooden house, the whole house collapses.
+
+Not this one!
+The Ultimate Treecapitator is built with a highly advanced Smart Build Protection system. It uses custom script logic to scan for valid soils (dirt, grass, podzol) and natural leaf blocks. If a log is placed by a player or is part of a building, the script simply ignores it.
+
+Try to chop a wooden build while sneaking, and you will get a safe, real-time warning on your screen: [ Breaking not for build ]. Your starter bases and survival houses are 100% safe!
+
+Key Features
+
+- 100% Safe For Builds: Completely ignores player-placed logs and structures. It only works on naturally generated trees attached to valid soil.
+
+- One-Block Chop: Destroy massive trees, including all connected logs and leaves, just by breaking the bottom block.
+
+- Auto-Collect Loot: No more running around to pick up items. All wood, saplings, apples, and XP are automatically pulled to your exact location the moment the tree falls.
+
+- Vanilla Durability & Unbreaking: Fully respects vanilla mechanics. Chopping a 20-block tree removes 20 durability points, and it calculates the Unbreaking enchantment perfectly.
+
+- Real-time Actionbar UI: Sneak with an axe to see [ Treecapitator Active ] in green. Stand up to see [ Treecapitator Disable ] in red. You always know when it is on!
+
+- Fast Leaf Decay: Leaves break instantly alongside the logs, keeping your survival world clean and lag-free.
+
+How to Use
+
+- Equip any Axe (Wood, Stone, Iron, Gold, Diamond, or Netherite).
+
+- Sneak (Crouch) while looking at a natural tree.
+
+- Wait for the green [ Treecapitator Active ] message on your screen.
+
+- Break the bottom log.
+
+- Watch the tree fall and all items teleport directly to your inventory!
+
+Supported Woods (Includes Latest Updates!)
+
+This addon supports ALL vanilla trees, including:
+
+- Oak, Birch, Spruce, Jungle, Acacia, Dark Oak
+
+- Mangrove & Cherry Grove Trees
+
+- Crimson & Warped Stems (Nether Trees)
+
+- Pale Oak
+
+Technical Details & Compatibility
+
+- Achievements: Xbox Achievements remain ENABLED.
+
+- Experiments: NO Beta APIs or experimental toggles required.
+
+- Multiplayer / Realm Ready: Built using highly optimized @minecraft/server scripting. Works perfectly in multiplayer environments without causing server lag.
+
+- High Compatibility: No player.json modification is required. This means it will work perfectly alongside 99% of your other favorite addons!
+
+Tags: Treecapitator Lumberjack MinecraftBedrock AchievementFriendly NoBetaAPI FastLeafDecay SurvivalAddon MCPE UtilityPack BuildProtection

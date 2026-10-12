@@ -1,0 +1,44 @@
+This is my second project, which I have been working on for 3 days straight. Like my first, it adds more weapons, 62 to be exact.
+
+This mod adds lots of things, as well as a new gemstone: The Ruby.
+
+They are crafted with 4 redstone dust and an emerald.
+
+Daggers
+
+The first type of weapon is daggers. These are crafted like swords, but with one less material. They do the same damage as swords but have a lot less durability.
+
+spears are pretty much retextures of daggers
+
+Scythes
+
+Next is scythes. They do the same damage as a sword, but with much more durability, and it uses one more material to craft.
+
+cutlasses are pretty much retextures of spears
+
+Forks/Totems
+
+Next is forks/totems. Fork crafting recipes vary, and they are used not as weapons - but as a crafting material. They are used to craft totems, which are very powerful melee weapons. Their stats also vary. The totems are:
+
+Honey totem, Milk totem, Lava totem, Water totem, Slime totem, and netherite totem.
+
+There are also a lot more unique weapons, too many to list the stats of all of them.
+
+Explaining Other Things
+
+The smithing table recipe didnt work. I dont know why, but it didnt, so you put a netherite upgrade template, the item you want to upgrade, and a netherite ingot in a crafting table to upgrade custom items.
+
+The Ender Sword is the best item in the game, if you have a deactivated one, put dragons breath on it in a crafting table to activate it.
+
+The hammer item and Ruby Battle Pick work as weapons, as well as pickaxes.
+
+You can repair items in this game, again too many items to list all the repair items, but if you want to repair it you can usually repair it with what its made of(ex. Ruby Dagger is repaired with, you guessed it a Ruby!).
+
+The swords actually work like swords(ex. they can mine bamboo faster, and you cant break blocks with them in creative).
+
+Installation
+Double click the .mcaddon file, you need experiments for this mod to work.
+
+Permissions
+
+I do not care what you do, just don't take the mod and re-upload it somewhere else.
