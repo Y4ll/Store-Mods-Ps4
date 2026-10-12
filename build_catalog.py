@@ -26,6 +26,9 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import html as htmllib
+import unicodedata
+from html.parser import HTMLParser
 from concurrent.futures import ThreadPoolExecutor
 
 API = os.environ.get("CF_API_BASE", "https://api.curseforge.com") + "/v1"
@@ -35,6 +38,7 @@ FETCH_SIZE = 50
 OUT = "catalog.json"
 GOOD_EXT = (".mcpack", ".mcaddon")  # la app instala los dos (el .mcaddon trae varios packs)
 THUMBS = "thumbs"
+DESCS = "desc"
 THUMB = 96
 BG = (24, 24, 28)
 
@@ -71,6 +75,75 @@ def make_thumb(name, url):
     except Exception as e:
         print("  sin miniatura para %s: %s" % (name, e))
         return False
+
+
+class _Text(HTMLParser):
+    BLOCK = ("p", "div", "li", "tr", "br", "h1", "h2", "h3", "h4", "h5", "h6", "ul", "ol")
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.out, self.skip = [], 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style"):
+            self.skip += 1
+        if tag in self.BLOCK:
+            self.out.append("\n")
+        if tag == "li":
+            self.out.append("- ")
+
+    def handle_endtag(self, tag):
+        if tag in ("script", "style"):
+            self.skip = max(0, self.skip - 1)
+        if tag in self.BLOCK:
+            self.out.append("\n")
+
+    def handle_data(self, data):
+        if not self.skip:
+            self.out.append(data)
+
+
+def html_to_text(h, limit=4000):
+    """HTML de la descripcion de CurseForge -> texto plano ASCII (la fuente de la app no tiene acentos)."""
+    p = _Text()
+    p.feed(h or "")
+    t = unicodedata.normalize("NFKD", "".join(p.out)).encode("ascii", "ignore").decode()
+    out, blank = [], False
+    for line in t.split("\n"):
+        line = re.sub(r"[ \t]+", " ", line).strip()
+        if line:
+            out.append(line)
+            blank = False
+        elif out and not blank:
+            out.append("")
+            blank = True
+    return "\n".join(out).strip()[:limit]
+
+
+def cf_soft(path):
+    """Como cf() pero sin cortar todo el programa si falla (para llamadas en hilos)."""
+    url = API + path
+    req = urllib.request.Request(url, headers={"x-api-key": KEY, "Accept": "application/json"})
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return json.loads(r.read().decode())
+        except Exception:
+            time.sleep(1 + attempt)
+    return {}
+
+
+def make_desc(name):
+    """Guarda desc/<name>.txt con la descripcion completa. True si el archivo existe al final."""
+    path = os.path.join(DESCS, name + ".txt")
+    if os.path.exists(path) and os.path.getsize(path) > 0:
+        return True
+    text = html_to_text((cf_soft("/mods/%s/description" % name[2:]).get("data") or ""))
+    if not text:
+        return False
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(text)
+    return True
 
 
 def cf(path, params):
@@ -228,6 +301,20 @@ def main():
         print("Pillow no esta instalado: el catalogo sale sin miniaturas (pip install pillow).")
         for it in items:
             it["img"] = ""
+    # descripcion completa (texto) de cada addon con id de CurseForge: desc/<img>.txt
+    os.makedirs(DESCS, exist_ok=True)
+    names = [it["img"] for it in items if it["img"]]
+    todo = [n for n in names if not os.path.exists(os.path.join(DESCS, n + ".txt"))]
+    print("Descripciones: %d nuevas por bajar (de %d)" % (len(todo), len(names)))
+    with ThreadPoolExecutor(6) as ex:
+        okd = dict(zip(names, ex.map(make_desc, names)))
+    for it in items:
+        if it["img"] and okd.get(it["img"]):
+            it["desc"] = 1
+    usedd = {n + ".txt" for n in names}
+    for fn in os.listdir(DESCS):
+        if fn.endswith(".txt") and fn not in usedd:
+            os.remove(os.path.join(DESCS, fn))
     for it in items:
         if not it["img"]:
             del it["img"]
