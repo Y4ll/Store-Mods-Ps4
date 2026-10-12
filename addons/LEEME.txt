@@ -1,0 +1,3 @@
+Pon aqui tus propios .mcpack / .mcaddon (GitHub > Add file > Upload files).
+Al subirlos, 'Build catalog' corre solo y los agrega al catalogo de McStore
+(nombre, descripcion e icono salen del manifest.json del pack).

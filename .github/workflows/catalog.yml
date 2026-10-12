@@ -1,5 +1,9 @@
 name: Build catalog
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  push:
+    paths: ['addons/**']   # al subir un .mcpack/.mcaddon propio a addons/ se rehace el catalogo solo
+concurrency: build-catalog
 permissions:
   contents: write
 jobs:

@@ -16,6 +16,8 @@ Uso:
     python3 build_catalog.py          # revisa hasta 1000 addons
     python3 build_catalog.py 5000     # o el maximo que quieras (tope 10000)
 """
+import datetime
+import hashlib
 import io
 import json
 import os
@@ -26,6 +28,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import zipfile
 import html as htmllib
 import unicodedata
 from html.parser import HTMLParser
@@ -39,6 +42,7 @@ OUT = "catalog.json"
 GOOD_EXT = (".mcpack", ".mcaddon")  # la app instala los dos (el .mcaddon trae varios packs)
 THUMBS = "thumbs"
 DESCS = "desc"
+ADDONS = "addons"  # tus propios .mcpack / .mcaddon: sube los archivos aqui y se agregan solos al catalogo
 SHOTS = "shots"
 SHOT_W, SHOT_H = 160, 90
 SHOT_TOP = int(os.environ.get("CF_SHOTS", "300"))  # solo los N mas descargados llevan capturas (pesan 28 KB cada una)
@@ -170,11 +174,95 @@ def cf_soft(path):
     return {}
 
 
+def _manifest(z):
+    """Manifest mas cercano a la raiz del zip (dict) o {}."""
+    names = sorted([n for n in z.namelist() if n.lower().endswith("manifest.json")], key=lambda n: n.count("/"))
+    for n in names:
+        raw = z.read(n).decode("utf-8-sig", "ignore")
+        for txt in (raw, re.sub(r"//[^\n]*|/\*.*?\*/", "", raw, flags=re.S), re.sub(r",\s*([}\]])", r"\1", re.sub(r"//[^\n]*|/\*.*?\*/", "", raw, flags=re.S))):
+            try:
+                return json.loads(txt)
+            except Exception:
+                pass
+    return {}
+
+
+def _icon(z):
+    names = z.namelist()
+    for n in sorted(names, key=lambda n: n.count("/")):
+        if os.path.basename(n).lower() in ("pack_icon.png", "pack_icon.jpg", "pack_icon.jpeg"):
+            return z.read(n)
+    return None
+
+
+def local_entries(old):
+    """Entradas del catalogo para los packs propios de addons/ (nombre, descripcion e icono salen del manifest)."""
+    out = []
+    if not os.path.isdir(ADDONS):
+        return out
+    today = datetime.date.today().isoformat()
+    for fn in sorted(os.listdir(ADDONS), key=str.lower):
+        if not fn.lower().endswith(GOOD_EXT):
+            continue
+        path = os.path.join(ADDONS, fn)
+        try:
+            z = zipfile.ZipFile(path)
+            man = _manifest(z)
+            icon = _icon(z)
+        except Exception as e:
+            print("  %s: no se pudo leer (%s)" % (fn, e))
+            continue
+        hdr = man.get("header", {}) if isinstance(man, dict) else {}
+        name = str(hdr.get("name") or "")
+        if not name or name.startswith(("pack.", "§")) or "%" in name:
+            name = os.path.splitext(fn)[0].replace("_", " ")
+        name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode().strip() or fn
+        desc = unicodedata.normalize("NFKD", str(hdr.get("description") or "")).encode("ascii", "ignore").decode().strip()
+        mods = [str(m.get("type", "")).lower() for m in man.get("modules", []) if isinstance(m, dict)] if isinstance(man, dict) else []
+        cls = "tex" if "resources" in mods else ("add" if mods else class_code(""))
+        ver = ""
+        mev = hdr.get("min_engine_version")
+        if isinstance(mev, list) and len(mev) >= 2:
+            ver = ".".join(str(x) for x in mev[:3])
+        authors = (man.get("metadata", {}) or {}).get("authors") if isinstance(man, dict) else None
+        key = "loc_" + hashlib.md5(fn.encode("utf-8")).hexdigest()[:12]
+        e = {
+            "name": name[:90],
+            "summary": (desc or "Pack propio de McStore")[:200],
+            "file": fn[:90],
+            "url": "%s/%s" % (ADDONS, urllib.parse.quote(fn)),
+            "size": os.path.getsize(path),
+            "ver": ver, "vers": ver, "cls": cls,
+            "author": (authors[0] if isinstance(authors, list) and authors else "McStore")[:39],
+            "dl": 0,
+            "upd": (old.get(fn) or {}).get("upd") or today,
+            "tags": "",
+            "img": "",
+        }
+        if icon:
+            try:
+                os.makedirs(THUMBS, exist_ok=True)
+                with open(os.path.join(THUMBS, key + ".t96"), "wb") as f:
+                    f.write(to_t96(icon))
+                e["img"] = key
+            except Exception as ex:
+                print("  sin icono para %s: %s" % (fn, ex))
+        if desc and e["img"]:
+            os.makedirs(DESCS, exist_ok=True)
+            with open(os.path.join(DESCS, key + ".txt"), "w", encoding="utf-8") as f:
+                f.write(desc[:4000])
+        out.append(e)
+    print("Packs propios en %s/: %d" % (ADDONS, len(out)))
+    return out
+
+
 def make_desc(name):
     """Guarda desc/<name>.txt con la descripcion completa. True si el archivo existe al final."""
     path = os.path.join(DESCS, name + ".txt")
     if os.path.exists(path) and os.path.getsize(path) > 0:
         return True
+    if not name.startswith("cf"):  # packs propios: la descripcion ya se guardo (o no tienen)
+        return False
     text = html_to_text((cf_soft("/mods/%s/description" % name[2:]).get("data") or ""))
     if not text:
         return False
@@ -264,17 +352,29 @@ def tags_of(mod, limit=62):
 
 
 def main():
-    if not KEY:
-        raise SystemExit("Falta CF_API_KEY.")
     limit = min(int(sys.argv[1]) if len(sys.argv) > 1 else 1000, 10000)
+    if not KEY:
+        print("Sin CF_API_KEY: solo se usan tus packs de %s/." % ADDONS)
+        limit = 0
+    old = {}
+    if os.path.exists(OUT):
+        try:
+            for e in json.load(open(OUT, encoding="utf-8")):
+                old[e.get("file", "")] = e
+        except Exception:
+            pass
     classes = {}
     try:
+        if not KEY:
+            raise SystemExit
+
         for c in cf("/categories", {"gameId": GAME_ID, "classesOnly": "true"}).get("data", []):
             classes[c["id"]] = c.get("name", "")
         print("Clases:", ", ".join("%s=%s" % (k, v) for k, v in classes.items()))
     except SystemExit:
         print("No se pudieron leer las clases: el filtro de tipo usara el nombre del pack.")
-    items = []
+    items = local_entries(old)
+    local_imgs = {e["img"] for e in items if e["img"]}
     logos = {}  # nombre de miniatura -> url del logo
     shot_urls = {}  # nombre -> hasta 3 urls de capturas
     index = 0
@@ -331,7 +431,7 @@ def main():
         with ThreadPoolExecutor(8) as ex:
             ok = dict(zip(logos, ex.map(lambda n: make_thumb(n, logos[n]), list(logos))))
         for it in items:
-            if it["img"] and not ok.get(it["img"]):
+            if it["img"] and it["img"] not in local_imgs and not ok.get(it["img"]):
                 it["img"] = ""
         used = {it["img"] + ".t96" for it in items if it["img"]}
         for fn in os.listdir(THUMBS):  # quita las que ya no se usan
@@ -344,12 +444,13 @@ def main():
     # descripcion completa (texto) de cada addon con id de CurseForge: desc/<img>.txt
     os.makedirs(DESCS, exist_ok=True)
     names = [it["img"] for it in items if it["img"]]
+    names = [n for n in names if n not in local_imgs] + [n for n in names if n in local_imgs]
     todo = [n for n in names if not os.path.exists(os.path.join(DESCS, n + ".txt"))]
     print("Descripciones: %d nuevas por bajar (de %d)" % (len(todo), len(names)))
     with ThreadPoolExecutor(6) as ex:
         okd = dict(zip(names, ex.map(make_desc, names)))
     for it in items:
-        if it["img"] and okd.get(it["img"]):
+        if it["img"] and (okd.get(it["img"]) or (it["img"] in local_imgs and os.path.exists(os.path.join(DESCS, it["img"] + ".txt")))):
             it["desc"] = 1
     usedd = {n + ".txt" for n in names}
     for fn in os.listdir(DESCS):
