@@ -39,6 +39,9 @@ OUT = "catalog.json"
 GOOD_EXT = (".mcpack", ".mcaddon")  # la app instala los dos (el .mcaddon trae varios packs)
 THUMBS = "thumbs"
 DESCS = "desc"
+SHOTS = "shots"
+SHOT_W, SHOT_H = 160, 90
+SHOT_TOP = int(os.environ.get("CF_SHOTS", "300"))  # solo los N mas descargados llevan capturas (pesan 28 KB cada una)
 THUMB = 96
 BG = (24, 24, 28)
 
@@ -58,6 +61,40 @@ def to_t96(data):
     for i in range(0, len(raw), 3):
         out += struct.pack("<H", ((raw[i] >> 3) << 11) | ((raw[i + 1] >> 2) << 5) | (raw[i + 2] >> 3))
     return bytes(out)
+
+
+def to_t160(data):
+    """Captura (png/jpg/webp...) -> 160x90 RGB565 little-endian, sin cabecera (recorte 16:9 centrado)."""
+    from PIL import Image
+    im = Image.open(io.BytesIO(data)).convert("RGBA")
+    back = Image.new("RGBA", im.size, BG + (255,))
+    back.alpha_composite(im)
+    im = back.convert("RGB")
+    w, h = im.size
+    cw, ch = (w, w * SHOT_H // SHOT_W) if w * SHOT_H <= h * SHOT_W else (h * SHOT_W // SHOT_H, h)
+    im = im.crop(((w - cw) // 2, (h - ch) // 2, (w - cw) // 2 + cw, (h - ch) // 2 + ch)).resize((SHOT_W, SHOT_H), Image.LANCZOS)
+    raw = im.tobytes()
+    out = bytearray()
+    for i in range(0, len(raw), 3):
+        out += struct.pack("<H", ((raw[i] >> 3) << 11) | ((raw[i + 1] >> 2) << 5) | (raw[i + 2] >> 3))
+    return bytes(out)
+
+
+def make_shot(key, url):
+    """Baja una captura y guarda shots/<key>.t96. Devuelve True si el archivo existe al final."""
+    path = os.path.join(SHOTS, key + ".t96")
+    if os.path.exists(path) and os.path.getsize(path) == SHOT_W * SHOT_H * 2:
+        return True
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "mcstore-catalog"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = r.read()
+        with open(path, "wb") as f:
+            f.write(to_t160(data))
+        return True
+    except Exception as e:
+        print("  sin captura %s: %s" % (key, e))
+        return False
 
 
 def make_thumb(name, url):
@@ -239,6 +276,7 @@ def main():
         print("No se pudieron leer las clases: el filtro de tipo usara el nombre del pack.")
     items = []
     logos = {}  # nombre de miniatura -> url del logo
+    shot_urls = {}  # nombre -> hasta 3 urls de capturas
     index = 0
     while index < limit:
         size = min(FETCH_SIZE, limit - index)
@@ -259,6 +297,8 @@ def main():
             img = ("cf%d" % m["id"]) if logo else ""
             if img:
                 logos[img] = logo
+                su = [(x.get("thumbnailUrl") or x.get("url") or "") for x in (m.get("screenshots") or [])]
+                shot_urls[img] = [u for u in su if u][:3]
             items.append({
                 "name": m["name"],
                 "summary": summary[:200],
@@ -315,6 +355,30 @@ def main():
     for fn in os.listdir(DESCS):
         if fn.endswith(".txt") and fn not in usedd:
             os.remove(os.path.join(DESCS, fn))
+    # capturas de pantalla (160x90) solo para los SHOT_TOP addons mas descargados
+    try:
+        import PIL  # noqa: F401
+        os.makedirs(SHOTS, exist_ok=True)
+        top = sorted([it for it in items if it["img"] and shot_urls.get(it["img"])], key=lambda it: -it["dl"])[:SHOT_TOP]
+        jobs = [("%s_%d" % (it["img"], k + 1), u) for it in top for k, u in enumerate(shot_urls[it["img"]])]
+        print("Capturas: %d (de %d addons)" % (len(jobs), len(top)))
+        with ThreadPoolExecutor(8) as ex:
+            oks = dict(zip([j[0] for j in jobs], ex.map(lambda j: make_shot(*j), jobs)))
+        usedk = set()
+        for it in top:
+            n = 0
+            for k in range(len(shot_urls[it["img"]])):
+                key = "%s_%d" % (it["img"], k + 1)
+                if oks.get(key) and n == k:  # solo capturas seguidas desde la 1
+                    usedk.add(key + ".t96")
+                    n += 1
+            if n:
+                it["shots"] = n
+        for fn in os.listdir(SHOTS):
+            if fn.endswith(".t96") and fn not in usedk:
+                os.remove(os.path.join(SHOTS, fn))
+    except ImportError:
+        pass
     for it in items:
         if not it["img"]:
             del it["img"]
