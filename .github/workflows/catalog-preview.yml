@@ -1,0 +1,28 @@
+name: Catalog preview
+# Prueba del generador: NO toca catalog.json ni thumbs en main; deja el resultado en la rama catalog-preview.
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generar sin Pillow (sin miniaturas)
+        run: python3 build_catalog.py 5000 2>&1 | tee preview.log
+        env:
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+      - name: Subir a la rama catalog-preview
+        run: |
+          mkdir -p /tmp/pv && cp catalog.json preview.log /tmp/pv/
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git checkout -q --orphan catalog-preview
+          git rm -rq --cached . && git clean -fdxq
+          cp /tmp/pv/catalog.json /tmp/pv/preview.log .
+          git add catalog.json preview.log
+          git commit -qm "preview del catalogo"
+          git push -f origin catalog-preview
