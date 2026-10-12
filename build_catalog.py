@@ -3,7 +3,10 @@
 con el mismo formato que usa la app McStore:
 
 [ {"name": ..., "summary": ..., "file": ..., "url": ..., "size": ...,
-   "ver": "1.21.50", "vers": "1.21.50,1.21.40", "cls": "tex", "img": "cf123456"}, ... ]
+   "ver": "1.21.50", "vers": "1.21.50,1.21.40", "cls": "tex", "img": "cf123456",
+   "author": "...", "dl": 12345, "upd": "2026-10-01", "tags": "shaders,ui"}, ... ]
+  author/dl/upd = autor, descargas totales y fecha del archivo (para ordenar en la app).
+  tags = categorias de CurseForge (slug, separadas por coma) para el filtro de categoria.
   ver/vers = versiones de Minecraft del archivo (la mas nueva / todas); cls = tipo (tex, add, map, skin...).
   img = nombre de la miniatura: thumbs/<img>.t96 (96x96 pixeles RGB565 sin cabecera = 18432 bytes), sacada del logo
   del mod en CurseForge. Necesita Pillow (pip install pillow); si no esta, el catalogo sale sin imagenes.
@@ -30,7 +33,7 @@ GAME_ID = 78022  # Minecraft Bedrock
 KEY = os.environ.get("CF_API_KEY", "")
 FETCH_SIZE = 50
 OUT = "catalog.json"
-GOOD_EXT = (".mcpack",)  # solo mcpack por ahora
+GOOD_EXT = (".mcpack", ".mcaddon")  # la app instala los dos (el .mcaddon trae varios packs)
 THUMBS = "thumbs"
 THUMB = 96
 BG = (24, 24, 28)
@@ -131,7 +134,23 @@ def pick_file(mod):
         return None
     files = [f for f in (mod.get("latestFiles") or []) if f.get("fileName")]
     good = [f for f in files if f["fileName"].lower().endswith(GOOD_EXT)]
-    return good[-1] if good else None
+    if not good:
+        return None
+    # el mas reciente (por fecha); si CurseForge no la trae, el ultimo de la lista
+    return max(enumerate(good), key=lambda t: ((t[1].get("fileDate") or ""), t[0]))[1]
+
+
+def tags_of(mod, limit=62):
+    """Categorias del mod (slug), la principal primero, sin pasar de `limit` caracteres."""
+    cats = [c for c in (mod.get("categories") or []) if not c.get("isClass") and c.get("slug")]
+    prim = mod.get("primaryCategoryId")
+    cats.sort(key=lambda c: 0 if c.get("id") == prim else 1)
+    out = []
+    for c in cats:
+        slug = re.sub(r"[^a-z0-9-]", "", str(c["slug"]).lower())[:30]
+        if slug and slug not in out and len(",".join(out + [slug])) <= limit:
+            out.append(slug)
+    return ",".join(out)
 
 
 def main():
@@ -177,6 +196,10 @@ def main():
                 "vers": ",".join(vs)[:46],
                 "cls": class_code(classes.get(m.get("classId"), "")),
                 "img": img,
+                "author": ((m.get("authors") or [{}])[0].get("name") or "")[:39],
+                "dl": int(m.get("downloadCount") or 0),
+                "upd": (f.get("fileDate") or m.get("dateModified") or "")[:10],
+                "tags": tags_of(m),
             })
         index += len(mods)
         total = data.get("pagination", {}).get("totalCount", 0)
@@ -208,8 +231,20 @@ def main():
     for it in items:
         if not it["img"]:
             del it["img"]
+    # un addon por linea y sin espacios de sobra: el catalogo pesa menos y se lee mas rapido en la PS4
     with open(OUT, "w", encoding="utf-8") as fh:
-        json.dump(items, fh, ensure_ascii=False, indent=1)
+        fh.write("[\n" + ",\n".join(json.dumps(it, ensure_ascii=False, separators=(",", ":")) for it in items) + "\n]\n")
+    exts = {}
+    tagc = {}
+    for it in items:
+        e = os.path.splitext(it["file"])[1].lower()
+        exts[e] = exts.get(e, 0) + 1
+        for t in it["tags"].split(","):
+            if t:
+                tagc[t] = tagc.get(t, 0) + 1
+    print("Tipos de archivo:", exts)
+    print("Categorias:", sorted(tagc.items(), key=lambda kv: -kv[1])[:30])
+    print("Tamano de %s: %d KB" % (OUT, os.path.getsize(OUT) // 1024))
     print("Listo: %d addons en %s" % (len(items), OUT))
 
 
