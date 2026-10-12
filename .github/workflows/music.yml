@@ -1,0 +1,27 @@
+name: Convertir musica
+on:
+  push:
+    branches: [main]
+    paths:
+      - "music/**"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Convertir a WAV
+        run: |
+          src=$(ls -1 music/* 2>/dev/null | grep -v -e 'musica.wav$' -e 'LEEME.md$' | head -1 || true)
+          if [ -z "$src" ]; then echo "No hay archivo nuevo para convertir."; exit 0; fi
+          which ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          ffmpeg -y -i "$src" -vn -ac 1 -ar 32000 -t 300 -c:a pcm_s16le music/musica.wav
+          git rm -q -f "$src"
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add music/musica.wav
+          git commit -m "Musica convertida a musica.wav"
+          git pull --rebase origin main
+          git push

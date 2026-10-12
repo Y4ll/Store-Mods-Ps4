@@ -10,6 +10,7 @@ on:
       - "app_update.json"
       - "catalog.json"
       - "addons/**"
+      - "music/**"
       - "**.md"
   workflow_dispatch:
 
