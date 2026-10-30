@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>McStore - Publicar packs</title>
+<style>
+body{font-family:-apple-system,Helvetica,Arial,sans-serif;background:#16181d;color:#eee;margin:0;padding:22px;max-width:640px;margin:auto}
+h1{color:#6fd45a;margin:.2em 0}p,li{color:#aab;line-height:1.45}small{color:#889}
+input[type=text],input[type=password]{width:100%;box-sizing:border-box;padding:14px;margin:6px 0;border-radius:10px;border:1px solid #3a3f4b;background:#20232b;color:#eee;font-size:16px}
+label.b,button{display:block;width:100%;box-sizing:border-box;padding:16px;margin:12px 0;border:0;border-radius:12px;font-size:18px;text-align:center;background:#6fd45a;color:#10200a;font-weight:700}
+button[disabled]{opacity:.4}input[type=file]{display:none}
+.f{background:#262a33;border-radius:10px;padding:10px 12px;margin:8px 0;word-break:break-all}
+.bar{height:8px;background:#3a3f4b;border-radius:4px;margin-top:6px}.bar i{display:block;height:8px;background:#6fd45a;border-radius:4px;width:0}
+.ok{color:#6fd45a}.er{color:#ff7a6b}details{margin:14px 0}summary{color:#6fd45a;font-weight:700}
+</style></head><body>
+<h1>McStore</h1>
+<p>Publica tus packs para <b>todos</b> los que tienen la app: se suben al repositorio y, en 1-2 minutos, aparecen solos en el catalogo.</p>
+
+<details id="cfg"><summary>Configuracion (solo la primera vez)</summary>
+<p>1. En GitHub: Settings &gt; Developer settings &gt; Personal access tokens &gt; Fine-grained tokens &gt; Generate new token.<br>
+2. Repository access: <i>Only select repositories</i> &rarr; Store-Mods-Ps4. Permissions &rarr; <i>Contents: Read and write</i>.<br>
+3. Copia el token y pegalo aqui. Se guarda solo en este telefono.</p>
+<input type="text" id="repo" value="Y4ll/Store-Mods-Ps4" autocapitalize="off" autocorrect="off" aria-label="Repositorio">
+<input type="password" id="tok" placeholder="Token de GitHub (github_pat_...)" autocapitalize="off" autocorrect="off" aria-label="Token">
+<button id="save" type="button">Guardar</button>
+</details>
+
+<label class="b" for="f">1. Elegir .mcpack / .mcaddon</label>
+<input id="f" type="file" multiple>
+<div id="l"></div>
+<button id="go" type="button" disabled>2. Publicar para todos</button>
+<p id="t"></p>
+<small>Limite: unos 50 MB por archivo. Si un archivo ya existe con el mismo nombre, se reemplaza.</small>
+
+<script>
+var $=function(i){return document.getElementById(i)};
+var store={get:function(k){try{return localStorage.getItem(k)||''}catch(e){return ''}},set:function(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+$('repo').value=store.get('repo')||$('repo').value;$('tok').value=store.get('tok');
+if(!$('tok').value)$('cfg').open=true;
+$('save').onclick=function(){store.set('repo',$('repo').value.trim());store.set('tok',$('tok').value.trim());$('cfg').open=false;$('t').innerHTML='<span class=ok>Guardado.</span>'};
+var f=$('f'),l=$('l'),go=$('go'),t=$('t');
+f.onchange=function(){l.innerHTML='';for(var i=0;i<f.files.length;i++){var d=document.createElement('div');d.className='f';
+ var n=document.createElement('span');n.textContent=f.files[i].name+' ('+Math.round(f.files[i].size/1024)+' KB)';d.appendChild(n);
+ d.insertAdjacentHTML('beforeend','<div class=bar><i></i></div>');l.appendChild(d)}go.disabled=!f.files.length};
+function b64(file){return new Promise(function(ok,no){var r=new FileReader();r.onload=function(){ok(String(r.result).split(',')[1]||'')};r.onerror=no;r.readAsDataURL(file)})}
+function cleanName(n){return n.replace(/[^A-Za-z0-9._ -]/g,'_')}
+async function api(path,opt){opt=opt||{};opt.headers=Object.assign({'Authorization':'Bearer '+store.get('tok'),'Accept':'application/vnd.github+json'},opt.headers||{});
+ return fetch('https://api.github.com'+path,opt)}
+async function one(file,d){
+ var bar=d.querySelector('i'),name=cleanName(file.name);
+ if(!/\.(mcpack|mcaddon)$/i.test(name)){throw new Error('Solo .mcpack o .mcaddon')}
+ if(file.size>50*1024*1024){throw new Error('Pesa mas de 50 MB')}
+ var repo=store.get('repo')||'Y4ll/Store-Mods-Ps4',path='/repos/'+repo+'/contents/addons/'+encodeURIComponent(name);
+ bar.style.width='15%';
+ var sha;var g=await api(path);
+ if(g.status===200){sha=(await g.json()).sha}else if(g.status===401||g.status===403){throw new Error('Token no valido o sin permiso (Contents: Read and write)')}else if(g.status!==404){throw new Error('GitHub respondio '+g.status)}
+ bar.style.width='35%';
+ var body={message:'Pack propio: '+name,content:await b64(file),branch:'main'};if(sha)body.sha=sha;
+ bar.style.width='55%';
+ var r=await api(path,{method:'PUT',body:JSON.stringify(body)});
+ if(!r.ok){var m='';try{m=(await r.json()).message}catch(e){}throw new Error('GitHub '+r.status+(m?': '+m:''))}
+ bar.style.width='100%';
+}
+go.onclick=async function(){
+ if(!store.get('tok')){$('cfg').open=true;t.innerHTML='<span class=er>Falta el token (abre Configuracion).</span>';return}
+ go.disabled=true;t.textContent='';var okN=0;
+ for(var i=0;i<f.files.length;i++){var d=l.children[i];
+  try{await one(f.files[i],d);d.className='f ok';okN++}catch(e){d.className='f er';d.insertAdjacentHTML('beforeend','<br>'+String(e.message||e))}}
+ t.innerHTML=okN?'<b class=ok>Listo ('+okN+'). En 1-2 minutos estaran en el catalogo; en la PS4 pulsa Options para recargar.</b>':'<span class=er>No se publico nada.</span>';
+ go.disabled=false};
+</script></body></html>

@@ -12,6 +12,7 @@ on:
       - "addons/**"
       - "music/**"
       - "**.md"
+      - "subir.html"
   workflow_dispatch:
 
 permissions:
