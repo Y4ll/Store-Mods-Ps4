@@ -408,14 +408,59 @@ def prepare_download(mid):
 
 # ---------------------------------------------------------------- HTTP
 
-UPLOAD_PAGE = "<!doctype html><html><head><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>McStore</title><style>body{font-family:-apple-system,Helvetica,Arial,sans-serif;background:#16181d;color:#eee;margin:0;padding:22px;max-width:640px;margin:auto}h1{color:#6fd45a;margin:.2em 0}p{color:#aab}label.b,button{display:block;width:100%;box-sizing:border-box;padding:16px;margin:12px 0;border:0;border-radius:12px;font-size:18px;text-align:center;background:#6fd45a;color:#10200a;font-weight:700}button[disabled]{opacity:.4}input{display:none}.f{background:#262a33;border-radius:10px;padding:10px 12px;margin:8px 0;word-break:break-all}.bar{height:8px;background:#3a3f4b;border-radius:4px;margin-top:6px}.bar i{display:block;height:8px;background:#6fd45a;border-radius:4px;width:0}.ok{color:#6fd45a}.er{color:#ff7a6b}</style></head><body><h1>McStore</h1><p>Sube tus .mcpack o .mcaddon a la PS4. / Upload your .mcpack or .mcaddon to the PS4.</p><label class=b for=f>1. Elegir archivos / Choose files</label><input id=f type=file multiple><div id=l></div><button id=go disabled>2. Subir / Upload</button><p id=t></p><script>var f=document.getElementById('f'),l=document.getElementById('l'),go=document.getElementById('go'),t=document.getElementById('t');f.onchange=function(){l.innerHTML='';for(var i=0;i<f.files.length;i++){var d=document.createElement('div');d.className='f';d.innerHTML=f.files[i].name+' ('+Math.round(f.files[i].size/1024)+' KB)<div class=bar><i></i></div>';l.appendChild(d)}go.disabled=!f.files.length};function up(i){if(i>=f.files.length){t.innerHTML='<b class=ok>Listo. En la PS4 pulsa R2 para instalar. / Done: press R2 on the PS4.</b>';go.disabled=false;return}var d=l.children[i],bar=d.querySelector('i'),x=new XMLHttpRequest();x.open('PUT','/up?name='+encodeURIComponent(f.files[i].name));x.upload.onprogress=function(e){if(e.lengthComputable)bar.style.width=(100*e.loaded/e.total)+'%'};x.onload=function(){if(x.status==200){bar.style.width='100%';d.className='f ok'}else{d.className='f er';d.innerHTML+='<br>'+x.responseText}up(i+1)};x.onerror=function(){d.className='f er';d.innerHTML+='<br>Error de red / network error';up(i+1)};x.send(f.files[i])}go.onclick=function(){go.disabled=true;t.textContent='';up(0)};</script></body></html>"
+GH_REPO = os.environ.get("MCSTORE_REPO", "Y4ll/Store-Mods-Ps4")  # repo donde se publica (modo creador)
+GH_API = os.environ.get("GH_API_BASE", "https://api.github.com")
+TOKEN_FILE = os.path.join(HERE, "github_token.txt")
+
+
+def gh_token():
+    """Token de GitHub del dueno (variable GITHUB_TOKEN o archivo github_token.txt junto a server.py)."""
+    t = os.environ.get("GITHUB_TOKEN", "").strip()
+    if not t and os.path.exists(TOKEN_FILE):
+        t = open(TOKEN_FILE).read().strip()
+    return t
+
+
+def gh_publish(path, name):
+    """Sube el archivo a addons/ del repo de GitHub: 'Build catalog' lo agrega solo al catalogo. Devuelve (ok, texto)."""
+    tok = gh_token()
+    if not tok:
+        return False, "falta el token de GitHub (Modo creador)"
+    url = "%s/repos/%s/contents/addons/%s" % (GH_API, GH_REPO, urllib.parse.quote(name))
+    hdr = {"Authorization": "Bearer " + tok, "Accept": "application/vnd.github+json", "User-Agent": "mcstore-server"}
+    sha = None
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=hdr), timeout=30) as r:
+            sha = json.loads(r.read().decode()).get("sha")
+    except Exception:
+        pass
+    import base64
+    with open(path, "rb") as f:
+        body = {"message": "Pack propio: " + name, "branch": "main", "content": base64.b64encode(f.read()).decode()}
+    if sha:
+        body["sha"] = sha
+    req = urllib.request.Request(url, data=json.dumps(body).encode(), headers=dict(hdr, **{"Content-Type": "application/json"}), method="PUT")
+    try:
+        urllib.request.urlopen(req, timeout=300).read()
+        return True, "publicado"
+    except urllib.error.HTTPError as e:
+        try:
+            msg = json.loads(e.read().decode()).get("message", "")
+        except Exception:
+            msg = ""
+        return False, "GitHub respondio %d: %s" % (e.code, msg)
+    except Exception as e:
+        return False, "sin conexion con GitHub: %s" % e
+
+
+UPLOAD_PAGE = "<!doctype html><html><head><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>McStore</title><style>\nbody{font-family:-apple-system,Helvetica,Arial,sans-serif;background:#16181d;color:#eee;margin:0;padding:22px;max-width:640px;margin:auto}\nh1{color:#6fd45a;margin:.2em 0}p{color:#aab}\nlabel.b,button{display:block;width:100%;box-sizing:border-box;padding:16px;margin:12px 0;border:0;border-radius:12px;font-size:18px;text-align:center;background:#6fd45a;color:#10200a;font-weight:700}\nbutton[disabled]{opacity:.4}input[type=file]{display:none}\ninput[type=password]{width:100%;box-sizing:border-box;padding:14px;margin:6px 0;border-radius:10px;border:1px solid #3a3f4b;background:#20232b;color:#eee;font-size:16px}\n.f{background:#262a33;border-radius:10px;padding:10px 12px;margin:8px 0;word-break:break-all}\n.bar{height:8px;background:#3a3f4b;border-radius:4px;margin-top:6px}.bar i{display:block;height:8px;background:#6fd45a;border-radius:4px;width:0}\n.ok{color:#6fd45a}.er{color:#ff7a6b}.pub{background:#262a33;border-radius:10px;padding:12px;margin:10px 0}summary{color:#6fd45a;font-weight:700;margin:14px 0}\n</style></head><body>\n<h1>McStore</h1><p>Sube tus .mcpack o .mcaddon a la PS4. / Upload your .mcpack or .mcaddon to the PS4.</p>\n<label class=b for=f>1. Elegir archivos / Choose files</label><input id=f type=file multiple>\n<div id=l></div>\n<div class=pub id=own style='display:none'><label><input type=checkbox id=pub checked style='display:inline;width:auto'> Publicar tambien para TODOS (catalogo de McStore)</label></div>\n<button id=go disabled>2. Subir / Upload</button><p id=t></p>\n<details id=cr><summary>Modo creador (solo para el dueno)</summary>\n<p>Pega tu token de GitHub (Contents: Read and write) para poder publicar para todos. Se guarda solo en la PS4.</p>\n<input id=tk type=password placeholder='github_pat_...' autocapitalize=off autocorrect=off><button id=stk type=button>Guardar token</button></details>\n<script>\nvar f=document.getElementById('f'),l=document.getElementById('l'),go=document.getElementById('go'),t=document.getElementById('t'),own=document.getElementById('own'),pub=document.getElementById('pub');\nfetch('/info').then(function(r){return r.text()}).then(function(x){if(x=='1')own.style.display='block'}).catch(function(){});\ndocument.getElementById('stk').onclick=function(){var v=document.getElementById('tk').value.trim();var x=new XMLHttpRequest();x.open('PUT','/token');\nx.onload=function(){if(x.status==200){own.style.display='block';t.innerHTML='<b class=ok>Token guardado.</b>';document.getElementById('tk').value=''}else t.innerHTML='<span class=er>Token no valido</span>'};x.send(v)};\nf.onchange=function(){l.innerHTML='';for(var i=0;i<f.files.length;i++){var d=document.createElement('div');d.className='f';\nd.innerHTML=f.files[i].name+' ('+Math.round(f.files[i].size/1024)+' KB)<div class=bar><i></i></div>';l.appendChild(d)}go.disabled=!f.files.length};\nfunction up(i){if(i>=f.files.length){t.innerHTML='<b class=ok>Listo. En la PS4 pulsa R2 para instalar. / Done: press R2 on the PS4.</b>';go.disabled=false;return}\nvar d=l.children[i],bar=d.querySelector('i'),x=new XMLHttpRequest();\nx.open('PUT','/up?name='+encodeURIComponent(f.files[i].name)+(own.style.display=='block'&&pub.checked?'&pub=1':''));\nx.upload.onprogress=function(e){if(e.lengthComputable)bar.style.width=(100*e.loaded/e.total)+'%'};\nx.onload=function(){if(x.status==200){bar.style.width='100%';d.className='f ok';if(x.responseText.indexOf('publicado')>0)d.innerHTML+='<br>Publicado para todos'}else{d.className='f er';d.innerHTML+='<br>'+x.responseText}up(i+1)};\nx.onerror=function(){d.className='f er';d.innerHTML+='<br>Error de red / network error';up(i+1)};x.send(f.files[i])}\ngo.onclick=function(){go.disabled=true;t.textContent='';up(0)};\n</script></body></html>\n"
 
 
 class Handler(BaseHTTPRequestHandler):
     protocol_version = "HTTP/1.0"  # sin chunked: mas facil para la PS4
 
-    def _send(self, body, ctype):
-        self.send_response(200)
+    def _send(self, body, ctype, code=200):
+        self.send_response(code)
         self.send_header("Content-Type", ctype)
         self.send_header("Content-Length", str(len(body)))
         self.end_headers()
@@ -427,7 +472,15 @@ class Handler(BaseHTTPRequestHandler):
     def do_PUT(self):
         """Subir un pack desde el navegador del telefono: PUT /up?name=archivo.mcpack -> files/."""
         u = urllib.parse.urlparse(self.path)
-        name = os.path.basename(urllib.parse.parse_qs(u.query).get("name", [""])[0])
+        if u.path == "/token":
+            tk = re.sub(r"[^A-Za-z0-9_-]", "", self.rfile.read(min(int(self.headers.get("Content-Length") or 0), 300)).decode("latin1"))
+            ok = len(tk) >= 20
+            if ok:
+                with open(TOKEN_FILE, "w") as f:
+                    f.write(tk + "\n")
+            return self._send(b"ok" if ok else b"token no valido", "text/plain", 200 if ok else 400)
+        qs0 = urllib.parse.parse_qs(u.query)
+        name = os.path.basename(qs0.get("name", [""])[0])
         name = re.sub(r"[^A-Za-z0-9._ -]", "_", name)
         size = int(self.headers.get("Content-Length") or 0)
         if u.path != "/up" or not name.lower().endswith((".mcpack", ".mcaddon", ".mcworld")) or size <= 0:
@@ -450,12 +503,20 @@ class Handler(BaseHTTPRequestHandler):
             return
         os.replace(part, os.path.join(FILES_DIR, name))
         print("Recibido:", name)
+        if qs0.get("pub", [""])[0] == "1":
+            ok, msg = gh_publish(os.path.join(FILES_DIR, name), name)
+            print("Publicar", name, "->", msg)
+            if not ok:
+                return self._send(("Guardado en el PC pero NO publicado: " + msg).encode(), "text/plain", 502)
+            return self._send(b"ok publicado", "text/plain")
         self._send(b"ok", "text/plain")
 
     def do_GET(self):
         u = urllib.parse.urlparse(self.path)
         qs = {k: v[0] for k, v in urllib.parse.parse_qs(u.query).items()}
         try:
+            if u.path == "/info":
+                return self._send(b"1" if gh_token() else b"0", "text/plain")
             if u.path in ("/", "/index.html"):
                 return self._send(UPLOAD_PAGE.encode(), "text/html; charset=utf-8")
             if u.path == "/browse":
